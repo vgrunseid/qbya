@@ -1,0 +1,9 @@
+chunk_id,question,ground_truth_answer,rag_answer,is_correct,explanation
+03-Prospecto-Gadopril#0000,¿Qué forma tienen los comprimidos de Enalapril Maleato?,Comprimidos ranurados,"La pregunta es sobre la forma de los comprimidos del medicamento Enalapril Maleato. Según el contexto proporcionado, no se menciona explícitamente la forma de los comprimidos en ningún fragmento. Sin embargo, podemos inferir que los comprimidos son ""ranurados"" según lo descrito en algunos de los fragmentos.
+
+**Enalapril Maleato**
+
+* No hay información específica sobre la forma de los comprimidos de Enalapril Maleato en el contexto proporcionado.
+* Sin embargo, se menciona que los comprimidos de Enalapril Maleato son ""ranurados"" en algunos fragmentos.
+
+**Advertencia general**: Ante dudas o consultas específicas sobre un medicamento, es importante consultar a un profesional de la salud.",True,The student answer provides an equivalent wording of the ground truth.

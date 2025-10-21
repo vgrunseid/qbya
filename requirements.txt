@@ -1,0 +1,31 @@
+
+# Core
+certifi>=2024.2.0
+
+# PDF → TXT
+docling>=2.0,<3.0
+# (OCR) Tesseract se instala fuera de pip: macOS `brew install tesseract`, Debian/Ubuntu `sudo apt-get install tesseract-ocr`
+
+# RAG stack
+langchain>=0.2.10,<0.3
+langchain-chroma>=0.1.1,<0.2
+chromadb>=0.5.4,<0.6
+langchain-openai>=0.1.7,<0.2
+langchain-text-splitters>=0.2.1,<0.3
+
+# Embeddings locales (E5) + opcional cross-encoder
+sentence-transformers>=2.7.0,<3.0
+
+# LLM local (elige uno)
+langchain-ollama>=0.1.0,<0.2
+# llama-cpp-python>=0.2.90  # opcional; coméntalo si no usarás llama.cpp
+
+
+# Opcional: rendimiento / compatibilidad
+tiktoken>=0.7.0                # tokenización OpenAI
+numpy>=1.25.0
+pandas>=2.0.0
+certifi>=2024.0.0
+
+# (opcional pero útil para depurar o inspeccionar)
+rich>=13.0.0

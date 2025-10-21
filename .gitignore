@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.cache/
+.mypy_cache/
+.pytype/
+.ipynb_checkpoints/
+dist/
+build/
+
+# Entornos / credenciales
+.qbya/
+.venv*/
+.venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Datos/outputs derivados (no versionar)
+chroma/
+out_txt/
+out_chunks/
+pdfs_crudos/
+back/
+preview.csv
+
+# Logs
+*.log
+!out_txt/.gitkeep
+!out_chunks/.gitkeep
+!pdfs_crudos/.gitkeep
