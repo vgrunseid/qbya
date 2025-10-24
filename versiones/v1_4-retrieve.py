@@ -94,8 +94,6 @@ def brand_root(name: str) -> str:
     m = re.match(r"[a-z]+", n)
     return m.group(0) if m else n
 
-
-# ----------------- Embeddings -----------------
 # ----------------- Embeddings -----------------
 def make_embeddings(provider: str, openai_model: str, e5_model: str):
     if provider == "openai":
@@ -103,35 +101,19 @@ def make_embeddings(provider: str, openai_model: str, e5_model: str):
         if not os.getenv("OPENAI_API_KEY"):
             raise RuntimeError("Definí OPENAI_API_KEY para usar provider=openai.")
         return OpenAIEmbeddings(model=openai_model)
-
     if provider == "e5":
         class E5Emb:
             def __init__(self, name: str):
-                # Modelo original para documentos (lo mantenemos tal cual)
                 from sentence_transformers import SentenceTransformer
                 self.model = SentenceTransformer(name, device="cpu")
-
-                # >>> Modelo SOLO para la QUERY (BGE-M3, 1024-d) <<<
-                from FlagEmbedding import BGEM3FlagModel
-                self.qmodel = BGEM3FlagModel("BAAI/bge-m3", use_fp16=False, device="cpu")
-                self.qmaxlen = 8192  # o el valor que ya uses como args.max_length
-
             def embed_documents(self, texts: List[str]) -> List[List[float]]:
                 texts = [f"passage: {t}" for t in texts]
-                return self.model.encode(
-                    texts,
-                    normalize_embeddings=True,
-                    convert_to_numpy=True
-                ).tolist()
-
+                return self.model.encode(texts, normalize_embeddings=True, convert_to_numpy=True).tolist()
             def embed_query(self, text: str) -> List[float]:
-                # >>> ÚNICO CAMBIO REAL: la query se embebe con BGE-M3 (1024-d) <<<
-                enc = self.qmodel.encode_queries([text], max_length=self.qmaxlen)
-                return enc["dense_vecs"][0]
-
+                q = f"query: {text}"
+                return self.model.encode([q], normalize_embeddings=True, convert_to_numpy=True)[0].tolist()
         return E5Emb(e5_model)
-
-
+    raise ValueError("provider debe ser 'openai' o 'e5'.")
 
 # ----------------- Index helpers -----------------
 def unique_drugs(vs: Chroma) -> List[str]:
@@ -458,16 +440,6 @@ def main() -> int:
                     help="full: imprime todo; answer: imprime SOLO la respuesta del LLM.")
     args = ap.parse_args()
 
-    
-# === MINIMAL PATCH: calcular embedding de la PREGUNTA con BGE-M3 (1024-d) ===
-    from FlagEmbedding import BGEM3FlagModel  # pip install FlagEmbedding>=1.2.11
-    _device = getattr(args, "device", "cpu")
-    _fp16 = bool(getattr(args, "fp16", False))
-    _maxlen = getattr(args, "max_length", 8192)
-    _bge_q = BGEM3FlagModel("BAAI/bge-m3", use_fp16=_fp16, device=_device)
-    _encq = _bge_q.encode_queries([args.query], max_length=_maxlen)
-    qvec = _encq["dense_vecs"][0]
-    # === END MINIMAL PATCH ===
     emit = make_emitter(args.output)
 
     # Si pide SOLO respuesta, forzamos generación de respuesta

@@ -1,32 +1,40 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-embed.py — Indexar chunks (JSONL) en Chroma con embeddings (OpenAI o locales).
+embed.py — Indexar chunks (JSONL de 2-transform.py) en Chroma con embeddings.
 
-Uso típico:
-  # OpenAI (requiere OPENAI_API_KEY)
+Compatibilidad con el formato actual de 2-transform.py:
+{
+  "id": "DOCID#0000",
+  "text": "...",
+  "metadata": {
+    "doc_id": "...",
+    "doc_name": "archivo.txt",
+    "drug_name": "alplax xr",
+    "section_canonical": "INDICACIONES",
+    "section_raw": "Indicaciones",
+    "section_confidence": 0.92,
+    "chunk_index": 0,
+    "char_start": 1234,
+    "char_end": 2345,
+    "source_path": "/ruta/archivo.txt"
+  }
+}
+
+Uso:
+  # E5 local
   python embed.py -f out_chunks/chunks.jsonl -p chroma/prospectos -c prospectos \
-      --provider openai --openai-model text-embedding-3-small
+    --provider e5 --e5-model intfloat/multilingual-e5-base --batch-size 128 --skip-existing
 
-  # Local (sin API): modelo multilingüe E5
+  # OpenAI
+  export OPENAI_API_KEY="..."
   python embed.py -f out_chunks/chunks.jsonl -p chroma/prospectos -c prospectos \
-      --provider e5 --e5-model intfloat/multilingual-e5-base
+    --provider openai --openai-model text-embedding-3-small --batch-size 256 --skip-existing
 
-Opciones útiles:
-  --batch-size 256       Tamaño de lote para indexación
-  --skip-existing        No reindexar IDs ya existentes (si están en Chroma)
-
-----
-
-python embed.py -f out_chunks/chunks.jsonl -p chroma/prospectos -c prospectos \
-  --provider e5 --e5-model intfloat/multilingual-e5-base --batch-size 128 --skip-existing
-
-o
-
-export OPENAI_API_KEY="TU_API_KEY"
-python embed.py -f out_chunks/chunks.jsonl -p chroma/prospectos -c prospectos \
-  --provider openai --openai-model text-embedding-3-small --batch-size 256 --skip-existing
-
+Notas:
+- Por defecto compone el texto a embeder como:
+    "[drug_name] · [section_canonical] — [text]"
+  Cambiá con --compose plain para usar solo el "text" crudo del chunk.
 """
 
 from __future__ import annotations
@@ -34,17 +42,15 @@ import argparse
 import json
 import os
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+from typing import Dict, Iterable, List, Protocol
 
-# Vector store (LangChain Community)
+# Vector store
 from langchain_community.vectorstores import Chroma
 
-# Tipos de embeddings (elegimos en runtime)
-from typing import Protocol, List as _List
-
+# ---------- Protocolo de embeddings ----------
 class EmbeddingFn(Protocol):
-    def embed_documents(self, texts: _List[str]) -> _List[_List[float]]: ...
-    def embed_query(self, text: str) -> _List[float]: ...
+    def embed_documents(self, texts: List[str]) -> List[List[float]]: ...
+    def embed_query(self, text: str) -> List[float]: ...
 
 # ---------- utilidades JSONL ----------
 def iter_jsonl(path: Path):
@@ -54,38 +60,30 @@ def iter_jsonl(path: Path):
             if not line:
                 continue
             try:
-                rec = json.loads(line)
-                yield rec
+                yield json.loads(line)
             except Exception as e:
                 print(f"[WARN] línea {ln} inválida: {e}")
 
-def count_lines(path: Path) -> int:
-    n = 0
-    with path.open("r", encoding="utf-8") as f:
-        for _ in f: n += 1
-    return n
-
 # ---------- proveedores de embeddings ----------
 def make_openai_embeddings(model_name: str) -> EmbeddingFn:
-    # langchain >=0.1 usa esta clase
     from langchain_openai import OpenAIEmbeddings
     return OpenAIEmbeddings(model=model_name)
 
 class E5Embeddings:
     """
     Wrapper simple para modelos E5 (intfloat/*) con Sentence-Transformers.
-    Aplica el prefijo 'passage: ' a documentos y 'query: ' a consultas (práctica recomendada).
+    Aplica el prefijo 'passage: ' a documentos y 'query: ' a consultas.
     """
     def __init__(self, model_name: str = "intfloat/multilingual-e5-base"):
         from sentence_transformers import SentenceTransformer
-        self.model = SentenceTransformer(model_name, device="cpu")  # podés cambiar a "mps"/"cuda" si aplica
+        self.model = SentenceTransformer(model_name, device="cpu")
 
-    def embed_documents(self, texts: _List[str]) -> _List[_List[float]]:
+    def embed_documents(self, texts: List[str]) -> List[List[float]]:
         texts = [f"passage: {t}" for t in texts]
         vecs = self.model.encode(texts, normalize_embeddings=True, convert_to_numpy=True).tolist()
         return vecs
 
-    def embed_query(self, text: str) -> _List[float]:
+    def embed_query(self, text: str) -> List[float]:
         q = f"query: {text}"
         vec = self.model.encode([q], normalize_embeddings=True, convert_to_numpy=True)[0].tolist()
         return vec
@@ -93,7 +91,7 @@ class E5Embeddings:
 def make_e5_embeddings(model_name: str) -> EmbeddingFn:
     return E5Embeddings(model_name=model_name)
 
-# ---------- Chroma helpers ----------
+# ---------- helpers Chroma ----------
 def get_or_create_chroma(collection: str, persist_dir: Path, emb: EmbeddingFn) -> Chroma:
     persist_dir.mkdir(parents=True, exist_ok=True)
     vs = Chroma(
@@ -104,16 +102,34 @@ def get_or_create_chroma(collection: str, persist_dir: Path, emb: EmbeddingFn) -
     return vs
 
 def existing_ids_in_chroma(vs: Chroma, ids: List[str]) -> set:
-    """
-    Consulta directa a la colección subyacente para ver cuáles IDs ya existen.
-    Esto permite --skip-existing.
-    """
     try:
-        col = vs._collection  # acceso interno pero práctico
+        col = vs._collection  # acceso interno de Chroma
         res = col.get(ids=ids, limit=len(ids))
         return set(res.get("ids", []))
     except Exception:
         return set()
+
+# ---------- composición del texto a embeder ----------
+def compose_text_for_embedding(text: str, md: Dict, mode: str = "with_meta") -> str:
+    """
+    mode:
+      - "with_meta" (default): "[drug] · [section] — text"
+      - "plain": solo text
+    """
+    if mode == "plain":
+        return (text or "").strip()
+
+    drug = (md.get("drug_name") or "").strip()
+    sec = (md.get("section_canonical") or md.get("section_raw") or "").strip()
+    pieces = []
+    if drug:
+        pieces.append(drug)
+    if sec:
+        pieces.append(sec)
+    prefix = " · ".join(pieces)
+    if prefix:
+        return f"{prefix} — {text}".strip()
+    return (text or "").strip()
 
 # ---------- pipeline principal ----------
 def index_jsonl_to_chroma(jsonl_path: Path,
@@ -123,11 +139,12 @@ def index_jsonl_to_chroma(jsonl_path: Path,
                           openai_model: str,
                           e5_model: str,
                           batch_size: int,
-                          skip_existing: bool) -> None:
+                          skip_existing: bool,
+                          compose_mode: str) -> None:
     # Embeddings
     if provider == "openai":
         if not os.getenv("OPENAI_API_KEY"):
-            raise RuntimeError("Falta OPENAI_API_KEY en el entorno para usar provider=openai.")
+            raise RuntimeError("Falta OPENAI_API_KEY en el entorno (provider=openai).")
         emb = make_openai_embeddings(openai_model)
         print(f"Embeddings: OpenAI ({openai_model})")
     elif provider == "e5":
@@ -140,7 +157,7 @@ def index_jsonl_to_chroma(jsonl_path: Path,
     vs = get_or_create_chroma(collection=collection, persist_dir=persist_dir, emb=emb)
     print(f"Chroma persist_dir: {persist_dir} | collection: {collection}")
 
-    # Lectura e indexación por lotes
+    # Batching
     texts: List[str] = []
     metas: List[Dict] = []
     ids:   List[str] = []
@@ -151,6 +168,7 @@ def index_jsonl_to_chroma(jsonl_path: Path,
         nonlocal texts, metas, ids, total_added
         if not texts:
             return
+
         add_ids = ids
         add_texts = texts
         add_metas = metas
@@ -164,7 +182,6 @@ def index_jsonl_to_chroma(jsonl_path: Path,
                         filt_texts.append(t); filt_metas.append(m); filt_ids.append(i)
                 add_texts, add_metas, add_ids = filt_texts, filt_metas, filt_ids
                 if not add_ids:
-                    # nada por agregar
                     texts, metas, ids = [], [], []
                     return
 
@@ -173,17 +190,19 @@ def index_jsonl_to_chroma(jsonl_path: Path,
         total_added += len(add_ids)
         texts, metas, ids = [], [], []
 
-    # Iterar JSONL
+    # Leer JSONL
     for rec in iter_jsonl(jsonl_path):
         total_in += 1
-        txt = rec.get("text", "")
+        raw_text = rec.get("text", "")
         md = rec.get("metadata", {}) or {}
         _id = rec.get("id") or f"row-{total_in:09d}"
-        # normalización mínima por si acaso
-        if not isinstance(txt, str) or not txt.strip():
+
+        if not isinstance(raw_text, str) or not raw_text.strip():
             continue
 
-        texts.append(txt)
+        embed_text = compose_text_for_embedding(raw_text, md, mode=compose_mode)
+
+        texts.append(embed_text)
         metas.append(md)
         ids.append(_id)
 
@@ -194,7 +213,7 @@ def index_jsonl_to_chroma(jsonl_path: Path,
     flush_batch()
 
     print(f"Listo: recibidos {total_in} registros, indexados {total_added}.")
-    print("Sugerencia: probá una búsqueda rápida con retrieval_test.py (te paso abajo un ejemplo).")
+    print("Tip: para probar, usá tu 4-retrieve.py con filtros por drug/section.")
 
 # ---------- CLI ----------
 def main() -> int:
@@ -203,12 +222,16 @@ def main() -> int:
     ap.add_argument("-p", "--persist-dir", default=str(Path("chroma") / "prospectos"),
                     help="Carpeta de persistencia de Chroma (default: ./chroma/prospectos)")
     ap.add_argument("-c", "--collection", default="prospectos", help="Nombre de la colección (default: prospectos)")
-    ap.add_argument("--provider", choices=["openai", "e5"], default="openai",
+    ap.add_argument("--provider", choices=["openai", "e5"], default="e5",
                     help="Proveedor de embeddings: openai (API) o e5 (local)")
-    ap.add_argument("--openai-model", default="text-embedding-3-small", help="Modelo OpenAI (default: text-embedding-3-small)")
-    ap.add_argument("--e5-model", default="intfloat/multilingual-e5-base", help="Modelo E5 local (default: multilingual-e5-base)")
+    ap.add_argument("--openai-model", default="text-embedding-3-small",
+                    help="Modelo OpenAI (default: text-embedding-3-small)")
+    ap.add_argument("--e5-model", default="intfloat/multilingual-e5-base",
+                    help="Modelo E5 local (default: multilingual-e5-base)")
     ap.add_argument("--batch-size", type=int, default=256, help="Tamaño de lote para indexar (default 256)")
     ap.add_argument("--skip-existing", action="store_true", help="Saltar IDs ya existentes en la colección")
+    ap.add_argument("--compose", choices=["with_meta", "plain"], default="with_meta",
+                    help="Cómo componer el texto a embeder (default with_meta)")
     args = ap.parse_args()
 
     jsonl_path = Path(args.file).expanduser().resolve()
@@ -226,7 +249,8 @@ def main() -> int:
         openai_model=args.openai_model,
         e5_model=args.e5_model,
         batch_size=args.batch_size,
-        skip_existing=args.skip_existing
+        skip_existing=args.skip_existing,
+        compose_mode=args.compose,
     )
     return 0
 

@@ -1,9 +1,96 @@
-chunk_id,question,ground_truth_answer,rag_answer,is_correct,explanation
-03-Prospecto-Gadopril#0000,¿Qué forma tienen los comprimidos de Enalapril Maleato?,Comprimidos ranurados,"La pregunta es sobre la forma de los comprimidos del medicamento Enalapril Maleato. Según el contexto proporcionado, no se menciona explícitamente la forma de los comprimidos en ningún fragmento. Sin embargo, podemos inferir que los comprimidos son ""ranurados"" según lo descrito en algunos de los fragmentos.
+chunk_id,question,ground_truth_answer,rag_answer,is_correct,correctness_explanation,is_relevant,relevance_explanation,is_grounded,groundedness_explanation,facts_excerpt,is_retrieval_relevant,retrieval_explanation
+03-Prospecto-Gadopril#0000,¿Qué forma tienen los comprimidos de GADOPRIL?,Comprimidos ranurados,"La pregunta es sobre la forma de los comprimidos del medicamento Gadopril. Según el contexto proporcionado, hay varias presentaciones de Gadopril con diferentes dosis y excipientes.
 
-**Enalapril Maleato**
+**Gadopril 2,5 mg**
 
-* No hay información específica sobre la forma de los comprimidos de Enalapril Maleato en el contexto proporcionado.
-* Sin embargo, se menciona que los comprimidos de Enalapril Maleato son ""ranurados"" en algunos fragmentos.
+* Los comprimidos de Gadopril 2,5 mg son ranurados (con una ranura en el medio) [1].
+* Contienen Enalapril maleato 2,50 mg y varios excipientes como Bicarbonato de sodio, Almidón pregelatinizado, Lactosa monohidrato y Estearato de magnesio [5].
 
-**Advertencia general**: Ante dudas o consultas específicas sobre un medicamento, es importante consultar a un profesional de la salud.",True,The student answer provides an equivalent wording of the ground truth.
+**Gadopril 5 mg**
+
+* Los comprimidos de Gadopril 5 mg son ranurados (con una ranura en el medio) [1].
+* Contienen Enalapril maleato 5,00 mg y varios excipientes como Ácido maleico, Povidona CL, Dióxido de silicio coloidal y Estearato de magnesio [5].
+
+**Gadopril 10 mg**
+
+* Los comprimidos de Gadopril 10 mg son ranurados (con una ranura en el medio) [1].
+* Contienen Enalapril maleato 10,00 mg y varios excipientes como Ácido maleico, Povidona CL, Dióxido de silicio coloidal y Estearato de magnesio [3].
+
+**Gadopril D**
+
+* Los comprimidos de Gadopril D contienen Enalapril maleato 10 mg y Hidroclorotiazida 25 mg [6].
+* No se especifica la forma de los comprimidos.
+
+Referencias:
+[1] [2] [3] [5] [6]",True,"The student answer provides equivalent wording of the ground truth, mentioning that the Gadopril 2.5 mg and 5 mg tablets are 'ranurados' (with a groove in the middle).",False,"The student answer provides a detailed description of the different presentations and forms of Gadopril, but it does not directly address the question about the form of the comprimidos.",True,The student answer is grounded because it only includes information present in the facts.,Comprimidos ranurados,True,The facts contain the keyword 'comprimidos' which is related to the question.
+Ampliar_80__Instruccion-Ampliar-80-180x600-web#0160,¿Cuál fue la proporción de sujetos que murieron por causas cardiovasculares en el grupo de atorvastatina 80 mg?,3.3%,"**Atorvastatina cálcica (AMPLIAR 80)**
+
+*   **Interacciones**: No se mencionan interacciones específicas en los fragmentos proporcionados.
+*   **Efectos adversos**: Los efectos adversos reportados incluyen:
+    *   Nasofaringitis
+    *   Artralgia
+    *   Diarrea
+    *   Dolor en extremidades
+    *   Infección de las vías urinarias
+    *   Dispepsia
+    *   Náuseas
+    *   Dolor musculoesquelético
+    *   Espasmos musculares
+    *   Mialgia
+    *   Insomnio
+    *   Dolor faringolaringeo
+*   **Sobredosis**: No hay un tratamiento específico para la sobredosis de atorvastatina cálcica. En caso de una sobredosis, el paciente debe ser tratado en forma sintomática y deberán instituirse las medidas de soporte que se requieran.
+*   **Presentación**: La presentación incluye envases con 30 comprimidos recubiertos.
+
+**Nota importante:** Ante cualquier duda o consulta sobre el uso del medicamento, es recomendable consultar a un profesional sanitario.",False,The student answer does not contain the ground truth value or an equivalent wording/paraphrase.,False,The student answer does not directly address the question and goes off-topic by providing detailed information about side effects and presentation.,True,The student answer is grounded because it only includes information present in the facts.,3.3%,True,"The facts contain information about cardiovascular causes, which is related to the question."
+Blokium_Cort__Instruccion-Blokium-Cort-para-Web#0240,¿Qué ocurre con el salicilato al usar agentes corticoides?,Los corticoides aumentan la eliminación de salicilato.,,True,The student answer matches the ground truth in wording and meaning.,False,The student answer does not address the effects of using corticosteroids on salicylate.,True,The student's answer is grounded because it only contains information present in the facts.,Los corticoides aumentan la eliminación de salicilato.,True,The facts are relevant because they mention the effect of corticoids on salicilato.
+Blokium_Gesic__Instruccion-para-WEB-Blokium-Gesic#0320,¿Cuál es la dosis inicial recomendada de acetilcisteína para tratamiento en caso de sobredosificación?,150 mg/kg en 200 ml de solución de dextrosa al 5% a pasar en 15 minutos.,"**BETAHISTINA DICLORHIDRATO (OTEVIL)**
+
+**Indicaciones y Posología**
+
+La betahistina diclorhidrato se utiliza para tratar el síndrome de Ménière, definido por la triada de síntomas: vértigo (con náusea y vómitos), pérdida de audición y acúfenos. También se utiliza para otros vértigos.
+
+La posología recomendada es:
+
+* Dosis inicial: 16 mg, tres veces al día.
+* Dosis máxima diaria: 48 mg, repartida en 3 tomas.
+* Dosis de mantenimiento: se instaurará en función de la respuesta al tratamiento hasta alcanzar la dosis mínima eficaz (8 mg, tres veces al día).
+
+**Farmacocinética**
+
+El diclorhidrato de betahistina se absorbe completamente tras su administración oral y alcanza la concentración máxima en 1 hora. La unión a proteínas plasmáticas es prácticamente inexistente. La eliminación es casi exclusivamente renal (85-90%).
+
+**Advertencia**
+
+Ante dudas o consultas, es importante consultar a un profesional de la salud.
+
+Referencias:
+
+[6] Otevil__WEB-D2982-E-2655-01-Instruccion-Otevil.txt",False,"The student answer does not mention the initial dose of acetilcisteína, which is the main information requested in the question.",False,"The student answer does not address the question and goes off-topic, as it provides information about a different medication.",False,The student answer introduces unsupported information not present in the facts.,150 mg/kg en 200 ml de solución de dextrosa al 5% a pasar en 15 minutos.,False,"The facts mention a solution of dextrosa, but do not provide information about the treatment for over-dosing with acetilcisteína."
+Callexe_Inyectable__Instruccion-Callexe-Inyectable-editable#0400,¿Cuál % de pacientes con Levetiracetam discontinúan por eventos adversos?,15.0%,"**Levetiracetam**
+
+El medicamento Levetiracetam se ha asociado con varias reacciones adversas. En estudios clínicos bien controlados en adultos que utilizaban levetiracetam comprimidos, el 15% de los pacientes que recibieron levetiracetam y el 11,6% de los pacientes que recibieron placebo discontinuaron o tuvieron una reducción de la dosis como resultado de un evento adverso.
+
+Entre las reacciones adversas más frecuentes (>1%) que resultaron en la discontinuación o la reducción de la dosis se encuentran:
+
+* Astenia (falta de energía) (1,3%)
+* Mareos (sensación de movimiento) (1,4%)
+* Somnolencia (sueño excesivo) (4,4%)
+
+En el estudio con control de placebo que utilizó levetiracetam comprimidos, el 8,3% de los pacientes que recibieron levetiracetam y el 1,3% de los pacientes que recibieron placebo discontinuaron o tuvieron una reducción de la dosis como resultado de un evento adverso.
+
+**Convulsiones Mioclónicas**
+
+En el estudio con control de placebo que utilizó levetiracetam comprimidos, el 8,3% de los pacientes que recibieron levetiracetam y el 1,3% de los pacientes que recibieron placebo discontinuaron o tuvieron una reducción de la dosis como resultado de un evento adverso.
+
+**Convulsiones Tónico-Clónicas Generalizadas Primarias**
+
+No hay información suficiente para responder con precisión sobre las reacciones adversas en esta población.
+
+**Experiencia Posterior a la Comercialización**
+
+Se han informado varios eventos adversos durante el uso de levetiracetam posterior a la aprobación. Debido a que una población de tamaño incierto informa voluntariamente estos eventos, no siempre es posible estimar su frecuencia en forma confiable o establecer una relación causal con la exposición al medicamento.
+
+**Advertencia**
+
+Ante dudas sobre el uso de levetiracetam, consultar a un profesional médico.",False,The student answer does not contain the ground truth value or an equivalent wording/paraphrase.,True,The student answer provides specific information about the discontinuation rate of Levetiracetam due to adverse events.,True,The student answer is grounded because it only includes information present in the facts.,15.0%,True,"The facts are relevant because they contain information about the percentage of patients who discontinue Levetiracetam due to adverse events, which is related to the question."
