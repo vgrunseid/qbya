@@ -47,28 +47,28 @@ OUT_JSONL = EVAL_DIR / "4-evolved_questions.jsonl"
 OUT_CSV = EVAL_DIR / "4-evolved_questions.csv"
 
 # ---- Prompt base (llaves escapadas sólo si mostrásemos JSON literal en el prompt; aquí pedimos JSON en la salida)
-QUESTION_EVOLVE_PROMPT = """<instrucciones>
-<rol>Sos un experto en lingüística con experiencia en la creación de conjuntos de prueba para modelos de lenguaje.</rol>
+QUESTION_EVOLVE_PROMPT = """<instructions>
+<role>You are an experienced linguistics expert for building testsets for large language model applications.</role>
 
-<tarea>
-Reescribí la siguiente pregunta para que sea **más indirecta y más breve**.  
-La nueva versión debe estar **en español**.
+<task>
+Rewrite the following question to be more indirect and compressed. Must be in spanish
 
-<reglas>
-1) Hacela más indirecta (menos literal o explícita).
-2) Hacela más corta.
-3) Terminá con signo de interrogación "?". Sin puntuación adicional.
-4) Devolvé SOLO un JSON con esta estructura: {{"question": "<pregunta_reescrita>"}}
-</reglas>
+<rules>
+1) Make it more indirect.
+2) Make it shorter.
+3) Use abbreviations if possible.
+4) The question MUST have between 7 and 10 words.
+5) End with a question mark "?". No extra punctuation.
+6) Output JSON ONLY with this schema: {{"question": "<rewritten>"}}
+</rules>
 
-Pregunta original:
-<pregunta>
+Original question:
+<question>
 {question}
-</pregunta>
+</question>
 {extra_constraints}
-</tarea>
-</instrucciones>""".strip()
-
+</task>
+</instructions>""".strip()
 
 
 # ---------- Utils básicos ----------

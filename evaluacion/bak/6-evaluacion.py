@@ -60,118 +60,102 @@ OUT_CSV   = EVAL_DIR / "6-correctness_eval.csv"
 
 
 # -------- Prompts (JSON estricto; llaves escapadas donde corresponde)
-CORRECTNESS_PROMPT = """<instrucciones>
-<rol>Sos un docente que está calificando un examen.</rol>
+CORRECTNESS_PROMPT = """<instructions>
+<role>You are a teacher grading a quiz.</role>
+<task>
+You will be given a QUESTION, the GROUND TRUTH (correct) ANSWER, and the STUDENT ANSWER.
 
-<tarea>
-Vas a recibir una PREGUNTA, la RESPUESTA CORRECTA (ground truth) y la RESPUESTA DEL ESTUDIANTE.
-</tarea>
+<rules>
+Grade ONLY factual accuracy of the student answer relative to the ground truth.
+Do NOT penalize the student for adding extra information if it does not contradict the ground truth.
 
-<reglas>
-Calificá ÚNICAMENTE la precisión factual de la respuesta del estudiante en relación con la respuesta correcta.
-No penalices si el estudiante agrega información adicional, siempre que no contradiga la respuesta correcta.
+Correctness decision rules (apply in order):
+1) If the STUDENT ANSWER explicitly contains the GROUND TRUTH value anywhere in the text, mark it as correct.
+   - Consider minor formatting/locale variations as equivalent (e.g., decimal comma vs dot, thin/thousands separators, extra spaces, case/diacritics).
+   - Example: "1,279 mg" == "1.279 mg" == "1 279 mg".
+2) If the STUDENT ANSWER provides an equivalent wording/paraphrase of the GROUND TRUTH (same meaning), mark it as correct.
+3) Only if the requested specific information is missing or contradicted, mark it as incorrect.
 
-Reglas de decisión de correctitud (aplicalas en orden):
-1) Si la RESPUESTA DEL ESTUDIANTE contiene explícitamente el valor de la RESPUESTA CORRECTA en cualquier parte del texto, marcala como correcta.
-   - Considerá equivalentes las pequeñas variaciones de formato o región (por ejemplo, coma o punto decimal, separadores de miles, espacios, mayúsculas, tildes).
-   - Ejemplo: "1,279 mg" == "1.279 mg" == "1 279 mg".
-2) Si la RESPUESTA DEL ESTUDIANTE expresa el mismo significado mediante una redacción o paráfrasis equivalente, marcala como correcta.
-3) Solo si la información solicitada falta o contradice la respuesta correcta, marcala como incorrecta.
+Output JSON ONLY: {{\"explanation\":\"<one concise sentence>\", \"is_correct\": <true|false>}}.
+No markdown, no extra keys, no additional text.
+</rules>
 
-Devolvé ÚNICAMENTE un JSON con esta estructura:
-{{"explanation": "<una sola oración breve>", "is_correct": <true|false>}}
-Sin formato Markdown, sin texto adicional ni claves extra.
-</reglas>
-
-PREGUNTA:
+QUESTION:
 {question}
 
-RESPUESTA CORRECTA:
+GROUND TRUTH:
 {ground_truth_answer}
 
-RESPUESTA DEL ESTUDIANTE:
+STUDENT ANSWER:
 {answer}
-</tarea>
-</instrucciones>""".strip()
+</task>
+</instructions>""".strip()
 
+RELEVANCE_PROMPT = """<instructions>
+<role>You are a teacher grading a quiz.</role>
+<task>
+You will be given a QUESTION and a STUDENT ANSWER.
 
-RELEVANCE_PROMPT = """<instrucciones>
-<rol>Sos un docente que está calificando un examen.</rol>
+<rules>
+Grade whether the STUDENT ANSWER directly addresses the QUESTION and is concise/relevant.
+- If the answer helps answer the question and stays on topic, it is relevant.
+- If it does not address the question or goes off-topic, it is not relevant.
 
-<tarea>
-Vas a recibir una PREGUNTA y una RESPUESTA DEL ESTUDIANTE.
-</tarea>
+Output JSON ONLY: {{\"explanation\":\"<one concise sentence>\", \"is_relevant\": <true|false>}}.
+No markdown, no extra keys, no additional text.
+</rules>
 
-<reglas>
-Evaluá si la RESPUESTA DEL ESTUDIANTE responde directamente a la PREGUNTA y si es concisa y relevante.
-- Si la respuesta ayuda a responder la pregunta y se mantiene en el tema, es relevante.
-- Si no responde la pregunta o se desvía del tema, no es relevante.
-
-Devolvé ÚNICAMENTE un JSON con esta estructura:
-{{"explanation": "<una sola oración breve>", "is_relevant": <true|false>}}
-Sin formato Markdown, sin texto adicional ni claves extra.
-</reglas>
-
-PREGUNTA:
+QUESTION:
 {question}
 
-RESPUESTA DEL ESTUDIANTE:
+STUDENT ANSWER:
 {answer}
-</tarea>
-</instrucciones>""".strip()
+</task>
+</instructions>""".strip()
 
+GROUNDEDNESS_PROMPT = """<instructions>
+<role>You are a teacher grading a quiz.</role>
+<task>
+You will be given FACTS and a STUDENT ANSWER.
 
-GROUNDEDNESS_PROMPT = """<instrucciones>
-<rol>Sos un docente que está calificando un examen.</rol>
+<rules>
+Determine if the STUDENT ANSWER is fully grounded in the FACTS and does not introduce unsupported information.
+- If all claims in the answer are supported by the facts, it is grounded.
+- If the answer contains information not present in the facts, it is not grounded.
 
-<tarea>
-Vas a recibir un conjunto de HECHOS (FACTS) y una RESPUESTA DEL ESTUDIANTE.
-</tarea>
+Output JSON ONLY: {{\"explanation\":\"<one concise sentence>\", \"is_grounded\": <true|false>}}.
+No markdown, no extra keys, no additional text.
+</rules>
 
-<reglas>
-Determiná si la RESPUESTA DEL ESTUDIANTE está completamente fundamentada en los HECHOS y no introduce información que no esté respaldada.
-- Si todas las afirmaciones de la respuesta están sustentadas por los hechos, marcala como fundamentada (grounded).
-- Si la respuesta contiene información que no aparece en los hechos, marcala como no fundamentada (not grounded).
-
-Devolvé ÚNICAMENTE un JSON con esta estructura:
-{{"explanation": "<una sola oración breve>", "is_grounded": <true|false>}}
-Sin formato Markdown, sin texto adicional ni claves extra.
-</reglas>
-
-HECHOS:
+FACTS:
 {doc_string}
 
-RESPUESTA DEL ESTUDIANTE:
+STUDENT ANSWER:
 {answer}
-</tarea>
-</instrucciones>""".strip()
+</task>
+</instructions>""".strip()
 
+RETRIEVAL_RELEVANCE_PROMPT = """<instructions>
+<role>You are a teacher grading a quiz.</role>
+<task>
+You will be given FACTS (retrieved passages) and a QUESTION.
 
-RETRIEVAL_RELEVANCE_PROMPT = """<instrucciones>
-<rol>Sos un docente que está calificando un examen.</rol>
+<rules>
+Assess whether the FACTS are relevant to the QUESTION.
+- If the facts contain any keywords or semantics related to the question, they are relevant (even if partially).
+- If they are completely unrelated, they are not relevant.
 
-<tarea>
-Vas a recibir un conjunto de HECHOS (fragmentos recuperados) y una PREGUNTA.
-</tarea>
+Output JSON ONLY: {{\"explanation\":\"<one concise sentence>\", \"is_retrieval_relevant\": <true|false>}}.
+No markdown, no extra keys, no additional text.
+</rules>
 
-<reglas>
-Evaluá si los HECHOS son relevantes para la PREGUNTA.
-- Si los hechos contienen palabras clave o información semánticamente relacionada con la pregunta, se consideran relevantes (aunque sea parcialmente).
-- Si los hechos no tienen ninguna relación con la pregunta, se consideran no relevantes.
-
-Devolvé ÚNICAMENTE un JSON con esta estructura:
-{{"explanation": "<una sola oración breve>", "is_retrieval_relevant": <true|false>}}
-Sin formato Markdown, sin texto adicional ni claves extra.
-</reglas>
-
-HECHOS:
+FACTS:
 {doc_string}
 
-PREGUNTA:
+QUESTION:
 {question}
-</tarea>
-</instrucciones>""".strip()
-
+</task>
+</instructions>""".strip()
 
 
 # -------- Ollama (HTTP)
@@ -575,15 +559,6 @@ def main():
             sys.stderr.write(f"[ERROR] Fila {i} (chunk_id={chunk_id}) evaluando correctitud: {e}\n")
             corr_expl, is_correct = "Model error.", False
 
-        print(f"\n[{i+1}/{total}] Pregunta: {question}")
-        print(f"Respuesta correcta (ground truth): {gt}")
-        print(" ")
-        print("Respuesta del RAG:")
-        print(rag_answer if rag_answer.strip() else "(sin respuesta)")
-        status = "✅ CORRECTA" if is_correct else "❌ INCORRECTA"
-        print(f"[{i+1}/{total}] {status}  chunk={chunk_id}")
-
-
         if is_correct:
             correct += 1
 
@@ -673,20 +648,6 @@ def main():
             elapsed = time.time() - t0
             acc = 100.0 * correct / (i + 1)
             print(f"[{i+1}/{total}] acc_prom={acc:.1f}%  t={elapsed:.1f}s", flush=True)
-
-
-
-        if args.eval_relevance:
-            print(f"Relevancia de la respuesta: {'💬 Relevante' if is_relevant else '🚫 No relevante'} — {rel_expl}")
-
-        if args.eval_groundedness:
-            print(f"Fundamentación (groundedness): {'🧩 Correcta' if is_grounded else '⚠️ No fundamentada'} — {grd_expl}")
-
-        if args.eval_retrieval:
-            print(f"Relevancia de recuperación: {'🔍 Relevante' if is_ret_rel else '🚫 No relevante'} — {rr_expl}")
-
-        print("--------------------------------------------------------------")
-
 
     # --- Guardar resultados
     with Path(args.out_jsonl).open("w", encoding="utf-8") as jf:

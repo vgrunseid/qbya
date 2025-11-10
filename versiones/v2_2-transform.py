@@ -34,27 +34,16 @@ def is_likely_heading(line: str) -> bool:
     s = ustrip(line)
     if not s:
         return False
-
-    # Permitir signos típicos en títulos (– — - : ;)
-    simple = re.sub(r"[\s\-–—_:;]+", " ", s)
-
-    # 1) Línea corta tipo título
-    if len(simple) <= 100:
-        # a) TODO MAYÚSCULAS (con acentos) → pinta a título
-        if simple == simple.upper() and re.search(r"[A-ZÁÉÍÓÚÜÑ]", simple):
+    if len(s) <= 80:
+        if s == s.upper() and re.search(r"[A-ZÁÉÍÓÚÜ]", s):
             return True
-        # b) Termina en ":" y no parece oración
         if s.endswith(":") and not re.search(r"[\.!?]$", s[:-1]):
             return True
-        # c) Estilo markdown corto
-        if s.startswith(("#", "##")) and len(s.split()) <= 12:
+        if s.startswith(("#", "##")) and len(s.split()) <= 10:
             return True
-        # d) Capitalizado y sin punto final, pocas palabras
-        if s[0].isupper() and not s.endswith(".") and len(s.split()) <= 12:
+        if s[0].isupper() and not s.endswith(".") and len(s.split()) <= 10:
             return True
-
     return False
-
 
 def split_paragraphs(text: str) -> List[str]:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
@@ -81,47 +70,6 @@ def sentence_split(s: str) -> List[str]:
         else:
             out.append(pp)
     return out
-
-# --- helper: detectar y cortar en líneas-título ALL CAPS dentro de un mismo párrafo ---
-_ALLCAPS_LINE_RX = re.compile(
-    r"^[A-ZÁÉÍÓÚÜ0-9][A-ZÁÉÍÓÚÜ0-9\s\-\–\—/°º.,()]+$"
-)
-
-def _is_allcaps_heading_line(s: str) -> bool:
-    s = ustrip(s)
-    if not s:
-        return False
-    # largo acotado, todo en mayúsculas (o números/guiones), y con alguna letra latina
-    if len(s) <= 80 and _ALLCAPS_LINE_RX.match(s) and re.search(r"[A-ZÁÉÍÓÚÜ]", s):
-        return True
-    return False
-
-def _explode_on_allcaps(para: str) -> list[str]:
-    """
-    Si dentro de un párrafo hay líneas-título en MAYÚSCULAS puras,
-    corta el párrafo en subpárrafos para que cada título quede solo.
-    """
-    lines = [ln for ln in para.splitlines()]
-    out: list[str] = []
-    buf: list[str] = []
-
-    def flush():
-        if buf:
-            txt = "\n".join([x for x in buf]).strip()
-            if txt:
-                out.append(txt)
-            buf.clear()
-
-    for ln in lines:
-        if _is_allcaps_heading_line(ln):
-            flush()
-            out.append(ln.strip())  # el heading queda como párrafo individual
-        else:
-            buf.append(ln)
-    flush()
-    # si no detectó nada, devuelve el párrafo original
-    return out or [para]
-
 
 def approx_token_count(s: str) -> int:
     # Conteo aprox. por "palabras/signos"
@@ -185,30 +133,17 @@ def compile_aliases() -> Dict[str, List[re.Pattern]]:
 ALIASES_RX = compile_aliases()
 
 def match_canonical(title: str) -> Optional[Tuple[str, str]]:
-    """
-    Intenta mapear un título a una sección canónica.
-    - Tolerante a MAYÚSCULAS, dobles guiones, rayas, y ausencia de ":".
-    - Mantiene el 'raw_title' tal como viene (salvo espacios).
-    """
-    t_raw = ustrip(title)
-    if not t_raw:
+    t = ustrip(title)
+    if not t:
         return None
-
-    # Normalización suave para buscar alias: colapsar separadores a un espacio
-    t_norm = re.sub(r"[\s\-–—_:;]+", " ", t_raw, flags=re.UNICODE).strip()
-
-    # 1) Probar contra patrones de alias (case-insensitive)
     for canonical, rx_list in ALIASES_RX.items():
         for rx in rx_list:
-            if rx.search(t_norm):
-                return canonical, t_raw
-
-    # 2) Intuir por coincidencia de texto en MAYÚSCULAS (e.g., "INDICACIONES")
-    t_up = t_norm.upper().replace("  ", " ")
+            if rx.search(t):
+                return canonical, t
+    t_up = t.upper().replace("  ", " ")
     for canonical in ALIASES_RX.keys():
         if canonical in t_up or t_up in canonical:
-            return canonical, t_raw
-
+            return canonical, t
     return None
 
 # =========================
@@ -312,50 +247,8 @@ class SemanticLabeler:
 # Sección: seccionado y chunking
 # ==========================
 
-# === NEW helper ===
-def _starts_with_canonical_colon(para: str) -> Optional[Tuple[str, str, str]]:
-    """
-    Si el párrafo arranca con un encabezado tipo "Acción Terapéutica: ...",
-    devuelve (canonical, raw_title_con_dos_puntos, cuerpo_despues_de_":").
-    Si no, devuelve None.
-    """
-    s = ustrip(para)
-    if not s:
-        return None
-    # Cortamos en el primer ":" solo si aparece temprano (evita casos de oraciones normales).
-    colon_pos = s.find(":")
-    if colon_pos == -1 or colon_pos > 80:
-        return None
-    head = ustrip(s[:colon_pos + 1])  # incluye ":"
-    body = ustrip(s[colon_pos + 1:])
-    if not body:
-        return None
-    m = match_canonical(head)
-    if m:
-        # m = (canonical, raw_title)
-        # Usamos el raw_title reconstruido con ":" para mantenerlo consistente
-        raw = m[1]
-        if not raw.endswith(":"):
-            raw = raw + ":"
-        return (m[0], raw, body)
-    return None
-
-def _compose_section_text(raw_title: Optional[str], body_paragraphs: list[str]) -> str:
-    body = "\n\n".join(body_paragraphs).strip()
-    if raw_title:
-        # Garantizamos que el título termine con ":" (cosmético) y lo incluimos en el contenido
-        t = raw_title.strip()
-        if not t.endswith(":"):
-            t = t + ":"
-        if body:
-            return f"{t}\n\n{body}"
-        return t
-    return body
-
 def build_sections(text: str, use_semantic: bool = False, sem_labeler: Optional[SemanticLabeler] = None) -> List[Section]:
-    base_paragraphs = split_paragraphs(text)
-    paragraphs = [sub for p in base_paragraphs for sub in _explode_on_allcaps(p)]
-
+    paragraphs = split_paragraphs(text)
     sections: List[Section] = []
 
     cur_title_raw: Optional[str] = None
@@ -372,56 +265,29 @@ def build_sections(text: str, use_semantic: bool = False, sem_labeler: Optional[
         looks_heading = is_likely_heading(para)
         m = match_canonical(para) if looks_heading else None
 
-        if not m:
-            inline = _starts_with_canonical_colon(para)
-            if inline:
-                # Cerrar sección previa
-                if cur_buf or cur_title_raw:
-                    sec_text = _compose_section_text(cur_title_raw, cur_buf)
-                    end_char = pos
-                    sections.append(Section(
-                        canonical=cur_canonical or None,
-                        raw_title=cur_title_raw,
-                        start_char=cur_start,
-                        end_char=end_char,
-                        text=sec_text,
-                        confidence=1.0 if cur_canonical else 0.0,
-                    ))
-                    cur_buf = []
-
-                # Nueva sección
-                cur_title_raw = inline[1]  # ej. "Acción Terapéutica:"
-                cur_canonical = inline[0]  # ej. "ACCIÓN TERAPÉUTICA"
-                cur_start = pos
-
-                # En inline, el "cuerpo" es lo que viene después de ":"
-                cur_buf.append(inline[2])
-                continue
-
         if m:
-            # Encabezado "puro": cerrar lo anterior, abrir nuevo
-            if cur_buf or cur_title_raw:
-                sec_text = _compose_section_text(cur_title_raw, cur_buf)
+            if cur_buf:
+                sec_text = "\n\n".join(cur_buf).strip()
+                end_char = offset - len(para) - 2 if pos >= 0 else cur_start + len(sec_text)
                 sections.append(Section(
                     canonical=cur_canonical or None,
                     raw_title=cur_title_raw,
                     start_char=cur_start,
-                    end_char=pos,
+                    end_char=max(cur_start, end_char),
                     text=sec_text,
                     confidence=1.0 if cur_canonical else 0.0,
                 ))
                 cur_buf = []
+
             cur_title_raw = m[1]
             cur_canonical = m[0]
-            cur_start = pos
+            cur_start = offset
             continue
 
-        # Contenido
         cur_buf.append(para)
 
-    # Última sección
-    if cur_buf or cur_title_raw:
-        sec_text = _compose_section_text(cur_title_raw, cur_buf)
+    if cur_buf:
+        sec_text = "\n\n".join(cur_buf).strip()
         end_char = len(text)
         sections.append(Section(
             canonical=cur_canonical or None,
@@ -432,18 +298,18 @@ def build_sections(text: str, use_semantic: bool = False, sem_labeler: Optional[
             confidence=1.0 if cur_canonical else 0.0,
         ))
 
-    # Etiquetado semántico opcional
-    if use_semantic and sem_labeler:
-        for i, s in enumerate(sections):
+    if use_semantic and sem_labeler is not None:
+        for s in sections:
             if not s.canonical:
-                label, score = sem_labeler.label(s.text)
-                if label:
-                    sections[i].canonical = label
-                    sections[i].confidence = score
+                can, score = sem_labeler.label(s.text[:2000])
+                if can:
+                    s.canonical = can
+                    s.confidence = score
+                else:
+                    s.canonical = None
+                    s.confidence = score
 
     return sections
-
-
 
 def chunk_section_text(text: str, max_tokens: int = 500, overlap: int = 80) -> List[str]:
     if not text.strip():
@@ -630,22 +496,6 @@ def iter_input_files(p: Path) -> Iterable[Path]:
 # Sección: MAIN
 # ================
 
-# === helpers para título en cada chunk ===
-def _title_line(sec) -> str:
-    raw = (sec.raw_title or "").strip()
-    if not raw:
-        raw = (sec.canonical or "SECCIÓN").title()
-    if not raw.endswith(":"):
-        raw += ":"
-    return raw
-
-def _prefix_title_to_part(title: str, part: str) -> str:
-    p = part.lstrip()
-    # Evita duplicar si ya comienza con el mismo título (case-insensitive)
-    if not p.lower().startswith(title.lower()):
-        return f"{title}\n\n{part}"
-    return part
-
 def main() -> int:
     ap = argparse.ArgumentParser(description="Transforma .txt de prospectos en JSONL de chunks con secciones y brand por LLM (Ollama).")
     ap.add_argument("-i", "--input", required=True, help="Archivo o carpeta con .txt / .md")
@@ -702,19 +552,19 @@ def main() -> int:
                     print(f"↷ {f.name}: vacío, salto")
                 continue
 
-            # PDF para contexto del LLM
+            # Buscar PDF candidato para darle contexto al LLM
             pdf_path = find_pdf_for(f, pdf_root)
             context = extract_context_for_brand(f, pdf_path, max_chars=args.brand_context_chars)
 
-            # Nombre comercial vía LLM (fallback al stem)
+            # Pedir nombre comercial al LLM (con fallback al stem si falla)
             brand = query_ollama_brand(
                 context=context,
                 model=args.brand_llm_model,
                 host=args.brand_llm_host,
                 timeout=args.brand_timeout,
-            ) or f.stem
+            ) or f.stem  # fallback mínimo
 
-            # Secciones
+            # construir secciones y chunks desde el TXT
             sections = build_sections(raw, use_semantic=bool(sem_labeler), sem_labeler=sem_labeler)
 
             if args.verbose:
@@ -723,27 +573,22 @@ def main() -> int:
                 src = f"(PDF: {pdf_path.name})" if pdf_path else "(TXT)"
                 print(f"→ {f.name}: secciones={len(sections)} (etiquetadas={secs_ok}, unknown={secs_unk})  drug={brand}  fuente={src}")
 
-
             doc_id = f.stem
             chunk_idx = 0
             for sec in sections:
                 canonical = sec.canonical or "UNKNOWN"
-
-                # Divide el texto de la sección en partes según los tokens, pero sin alterar el texto original
                 parts = chunk_section_text(sec.text, max_tokens=args.max_tokens, overlap=args.overlap)
-
                 for part in parts:
                     rid = f"{doc_id}#{total_chunks:04d}"
-
                     rec = {
                         "id": rid,
-                        "text": part,  # ← sin tocar el texto: tal como está en el .txt
+                        "text": part,
                         "metadata": {
                             "doc_id": doc_id,
                             "doc_name": f.name,
                             "drug_name": brand.lower().strip(),
                             "section_canonical": canonical,
-                            "section_raw": sec.raw_title,  # guarda el título en metadatos
+                            "section_raw": sec.raw_title,
                             "section_confidence": float(sec.confidence),
                             "chunk_index": chunk_idx,
                             "char_start": int(sec.start_char),
@@ -752,7 +597,6 @@ def main() -> int:
                             "pdf_source": str(pdf_path) if pdf_path else None,
                         },
                     }
-
                     jf.write(json.dumps(rec, ensure_ascii=False) + "\n")
                     chunk_idx += 1
                     total_chunks += 1
@@ -762,7 +606,6 @@ def main() -> int:
     print(f"Listo. Archivos procesados: {processed_files}  (vistos: {total_files})")
     print(f"Se escribieron {total_chunks} chunks → {out_path}")
     return 0
-
 
 if __name__ == "__main__":
     raise SystemExit(main())

@@ -575,11 +575,6 @@ def main():
             sys.stderr.write(f"[ERROR] Fila {i} (chunk_id={chunk_id}) evaluando correctitud: {e}\n")
             corr_expl, is_correct = "Model error.", False
 
-        print(f"\n[{i+1}/{total}] Pregunta: {question}")
-        print(f"Respuesta correcta (ground truth): {gt}")
-        print(" ")
-        print("Respuesta del RAG:")
-        print(rag_answer if rag_answer.strip() else "(sin respuesta)")
         status = "✅ CORRECTA" if is_correct else "❌ INCORRECTA"
         print(f"[{i+1}/{total}] {status}  chunk={chunk_id}")
 
@@ -673,20 +668,6 @@ def main():
             elapsed = time.time() - t0
             acc = 100.0 * correct / (i + 1)
             print(f"[{i+1}/{total}] acc_prom={acc:.1f}%  t={elapsed:.1f}s", flush=True)
-
-
-
-        if args.eval_relevance:
-            print(f"Relevancia de la respuesta: {'💬 Relevante' if is_relevant else '🚫 No relevante'} — {rel_expl}")
-
-        if args.eval_groundedness:
-            print(f"Fundamentación (groundedness): {'🧩 Correcta' if is_grounded else '⚠️ No fundamentada'} — {grd_expl}")
-
-        if args.eval_retrieval:
-            print(f"Relevancia de recuperación: {'🔍 Relevante' if is_ret_rel else '🚫 No relevante'} — {rr_expl}")
-
-        print("--------------------------------------------------------------")
-
 
     # --- Guardar resultados
     with Path(args.out_jsonl).open("w", encoding="utf-8") as jf:

@@ -2,25 +2,18 @@
 # -*- coding: utf-8 -*-
 
 """
-5-filtrar_preg.py — Evaluar y filtrar preguntas por groundedness (1–5) con pre-filtro de mención explícita de fármaco.
-
-Flujo:
-  1) PRE-GROUNDED: LLM chequea SOLO la pregunta:
-     - 1 si NO menciona explícitamente una droga/marca
-     - 5 si SÍ menciona explícitamente
-     Si da 1, se corta la evaluación y se registra score=1.
-  2) Si el pre-score=5, se ejecuta el GROUNDED_PROMPT con el contexto (chunk ó documento con ventana) y se obtiene score 1..5.
+5-filtrar_preg.py — Evaluar y filtrar preguntas por groundedness (1–5).
 
 Entradas (en este orden de preferencia):
-  - evaluacion/4-evolved_questions.csv   (si existe)
-  - evaluacion/2-answers.csv
-  - evaluacion/1-questions.csv
-  - Chunks: out_chunks/chunks.jsonl
+  - /Users/vivi/qbya-project/qbya/evaluacion/evolved_questions.csv   (si --use-evolved)
+  - /Users/vivi/qbya-project/qbya/evaluacion/answers.csv
+  - /Users/vivi/qbya-project/qbya/evaluacion/questions.csv
+  - Chunks: /Users/vivi/qbya-project/qbya/out_chunks/chunks.jsonl
 
 Salidas:
-  - evaluacion/5-grounded_eval.jsonl
-  - evaluacion/5-grounded_eval.csv
-  - evaluacion/5-filtered_questions.csv  (score >= threshold)
+  - /Users/vivi/qbya-project/qbya/evaluacion/grounded_eval.jsonl
+  - /Users/vivi/qbya-project/qbya/evaluacion/grounded_eval.csv
+  - /Users/vivi/qbya-project/qbya/evaluacion/filtered_questions.csv  (score >= threshold)
 
 Requisitos:
   (.qbya) pip install -U pandas requests
@@ -48,64 +41,30 @@ EVAL_JSONL = EVAL_DIR / "5-grounded_eval.jsonl"
 EVAL_CSV = EVAL_DIR / "5-grounded_eval.csv"
 FILTERED_CSV = EVAL_DIR / "5-filtered_questions.csv"
 
-# --- Prompts ---
-
-# Pre-filtro: SOLO evalúa si la pregunta menciona explícitamente una droga o marca (1 ó 5)
-PRE_GROUNDED_PROMPT = """<instrucciones>
-<rol>Sos un experto en farmacología y redacción de preguntas médicas.</rol>
-
-<tarea>
-Vas a recibir una PREGUNTA.  
-Tu única tarea es decidir si la pregunta **menciona explícitamente un medicamento, fármaco o sustancia activa**, incluyendo nombres comerciales o genéricos.
-</tarea>
-
-<reglas>
-- Si la pregunta **SÍ** menciona de forma explícita un medicamento, una sustancia farmacológica, o un principio activo (por ejemplo: “Alercas”, “diclofenac”, “ácido bempedoico”, “hidrocortisona”, “amoxicilina”, “Etoricoxib”, etc.), el puntaje debe ser **5**.  
-- Si la pregunta **NO** contiene ningún nombre de medicamento o sustancia activa (solo menciona “el medicamento”, “la droga”, “este fármaco”, “el tratamiento”, “los comprimidos”, etc.), el puntaje debe ser **1**.  
-
-Definiciones:
-- “Explícita” significa que aparece un nombre de producto farmacéutico, sustancia activa o componente químico del fármaco.  
-- Considerá tanto nombres comerciales (por ejemplo “Paracetamol Bayer”, “Alercas”, “DILCORAN D”) como genéricos o químicos (“diclofenac”, “hidrocortisona”, “ácido bempedoico”, “bisoprolol”, “valsartán”, etc.).
-- No penalices mayúsculas, minúsculas, ni variaciones de formato.
-
-Devolvé ÚNICAMENTE un JSON con esta estructura:
-{{"explanation": "<una sola oración breve>", "score": <1 o 5>}}
-Sin texto adicional, sin Markdown ni claves extras.
-</reglas>
-
-<pregunta>
-{question}
-</pregunta>
-</instrucciones>""".strip()
-
-
-# Groundedness con regla dura incluida (pero solo se ejecuta si pre=5)
+# --- Prompt (llaves escapadas para str.format)
 GROUNDED_PROMPT = """<instrucciones>
 <rol>Sos un experto en lingüística y redacción de evaluaciones para modelos de lenguaje.</rol>
 
 <tarea>
-Vas a recibir un fragmento de texto (contexto) y una pregunta supuestamente relacionada con ese texto.
-Tu tarea es evaluar en qué medida la pregunta puede responderse utilizando SOLO la información disponible en el contexto.
+Vas a recibir un fragmento de texto (contexto) y una pregunta supuestamente relacionada con ese texto. 
+Tu tarea es evaluar en qué medida la pregunta puede responderse utilizando **solo la información disponible en el contexto**.
 La evaluación debe ser estricta y seguir las reglas de abajo en el orden dado.
 </tarea>
 
 <reglas>
-MENCIÓN DE MEDICAMENTO (confirmada por pre-filtro):
-La pregunta ya fue validada como que nombra explícitamente un medicamento o sustancia activa.
+REGLA 1 (PUERTA DURA) — MENCIÓN DE MEDICAMENTO (OBLIGATORIA):
+1= Si la pregunta **NO** menciona de forma explícita un medicamento (marca comercial p.ej. "Alercas", o sustancia/monodroga p.ej. "fexofenadina"), entonces el puntaje debe ser **1** automáticamente, sin considerar el contexto.
 
-Evaluá ahora la posibilidad de respuesta usando SOLO el contexto:
-1 = El contexto no permite responder en absoluto (aunque nombra la droga).
-2 = Información muy escasa; difícilmente respondible.
-3 = Información parcial; se puede inferir algo pero no del todo claro.
-4 = Información sustancial; mayormente respondible.
+Definiciones:
+- "Explícita" significa que aparece el nombre propio o la sustancia en la redacción de la pregunta.
+- No cuentan términos genéricos como "el medicamento", "este fármaco", "antibiótico", "antihistamínico" si no se nombra la droga/marca concreta.
+
+Luego de aplicar la Regla 1, si la pregunta **sí** nombra un medicamento, evaluá la posibilidad de respuesta con **solo** el contexto:
+1 = Si la pregunta **NO** menciona de forma explícita un medicamento (marca o droga)
 5 = Totalmente y sin ambigüedades respondible solo con el contexto.
 
-Devolvé únicamente un JSON con claves en INGLÉS:
-{{"explanation": "<una sola oración breve>", "score": 1}}
-{{"explanation": "<una sola oración breve>", "score": 2}}
-{{"explanation": "<una sola oración breve>", "score": 3}}
-{{"explanation": "<una sola oración breve>", "score": 4}}
-{{"explanation": "<una sola oración breve>", "score": 5}}
+Devolvé **únicamente** un JSON con esta estructura (claves en INGLÉS):
+{{"explanation": "<una sola oración breve>", "score": <1..5>}}
 Sin texto adicional, sin Markdown ni claves extras.
 </reglas>
 
@@ -117,6 +76,8 @@ Sin texto adicional, sin Markdown ni claves extras.
 {question}
 </pregunta>
 </instrucciones>""".strip()
+
+
 
 
 # --- Utils de chunks
@@ -192,7 +153,11 @@ def ollama_chat_json(
         "model": model,
         "messages": messages,
         "stream": False,
-        "options": {"temperature": float(temperature)}
+        "options": {
+        "temperature": float(temperature),
+        "num_ctx": 16384,     # 🔹 contexto largo fijo (16k tokens)
+        "num_predict": 256,   # 🔹 salida acotada
+        },
     }
     r = requests.post(url, json=payload, timeout=(timeout_connect, timeout_read))
     if r.status_code == 404:
@@ -204,7 +169,6 @@ def ollama_chat_json(
     r.raise_for_status()
     return r.json()
 
-# --- Parsers JSON (tolerantes)
 def parse_grounded_from_resp(resp: dict) -> Tuple[str, int]:
     content = (resp.get("message", {}) or {}).get("content", "") or ""
     content = content.strip()
@@ -240,19 +204,13 @@ def parse_grounded_from_resp(resp: dict) -> Tuple[str, int]:
     # 3) fallback
     return content.replace("\n", " ")[:300], 3
 
+
 def clamp_score(sc: int) -> int:
     try:
         sc = int(sc)
     except Exception:
         return 3
     return max(1, min(5, sc))
-
-def clamp_score_1_or_5(sc: int) -> int:
-    try:
-        sc = int(sc)
-    except Exception:
-        return 1
-    return 5 if sc == 5 else 1
 
 def main():
     ap = argparse.ArgumentParser()
@@ -271,7 +229,7 @@ def main():
     ap.add_argument("--doc-window", type=int, default=0, help="Si >0 y scope=document, ventana K centrada en el chunk base.")
     ap.add_argument("--max-context-chars", type=int, default=12000)
     ap.add_argument("--threshold", type=int, default=4, help="Score mínimo para conservar (1..5).")
-    ap.add_argument("--print-decisions", action="store_true", help="Imprime decisiones del pre-filtro y grounded.")
+    ap.add_argument("--print-decisions", action="store_true", help="Imprime question + score + keep/drop.")
     ap.add_argument("--log-every", type=int, default=10)
     args = ap.parse_args()
 
@@ -284,6 +242,7 @@ def main():
     df = None
     if args.evolved and Path(args.evolved).exists():
         df = pd.read_csv(args.evolved)
+        # columnas esperadas: chunk_id, question_evolved
         if "chunk_id" not in df.columns or ("question_evolved" not in df.columns and "question" not in df.columns):
             raise RuntimeError(f"{args.evolved} debe tener 'chunk_id' y 'question_evolved' o 'question'.")
         use_col = "question_evolved" if "question_evolved" in df.columns else "question"
@@ -331,47 +290,6 @@ def main():
             sys.stderr.write(f"[WARN] Fila {i}: chunk_id={chunk_id} no está en chunks.jsonl. Salto.\n")
             continue
 
-        # ---------- PRE-FILTRO SOLO SOBRE LA PREGUNTA ----------
-        pre_user_prompt = PRE_GROUNDED_PROMPT.format(question=q)
-        pre_system_prompt = "Return strict JSON with keys 'explanation' and 'score'. No extra text."
-        try:
-            pre_resp = ollama_chat_json(
-                base_url=args.ollama_base_url,
-                model=args.model,
-                system_prompt=pre_system_prompt,
-                user_prompt=pre_user_prompt,
-                temperature=args.temperature,
-                timeout_connect=10.0,
-                timeout_read=120.0,
-            )
-            pre_expl, pre_score = parse_grounded_from_resp(pre_resp)
-            pre_score = clamp_score_1_or_5(pre_score)  # fuerza a {1,5}
-        except Exception as e:
-            sys.stderr.write(f"[ERROR] Fila {i} (chunk_id={chunk_id}) en pre-filtro: {e}\n")
-            pre_expl, pre_score = "Model error.", 1   # por seguridad, bajamos a 1
-
-        if pre_score == 1:
-            # Corta aquí: no evalúa groundedness, descarta por umbral si corresponde
-            if args.print_decisions:
-                print(f"[{i+1}/{total}] pre=1  keep=False  Q: {q}", flush=True)
-            rows_eval.append({
-                "chunk_id": chunk_id,
-                "question": q,
-                "pre_score": pre_score,
-                "pre_explanation": pre_expl,
-                "score": 1,
-                "explanation": "[PRE-only] Sin mención explícita de droga/marca."
-            })
-            # no entra a kept_rows (salvo que threshold <=1)
-            if 1 >= int(args.threshold):
-                kept_rows.append({"chunk_id": chunk_id, "question": q})
-            if args.log_every and ((i + 1) % args.log_every == 0):
-                elapsed = time.time() - t0
-                print(f"[{i+1}/{total}] evaluadas - t={elapsed:.1f}s", flush=True)
-            continue
-        # ---------- FIN PRE-FILTRO (solo seguimos si pre=5) ----------
-
-        # Armar contexto para GROUNDED
         if args.scope == "chunk":
             context = get_text_from_chunk(ch)
         else:
@@ -384,20 +302,11 @@ def main():
 
         if not context.strip():
             sys.stderr.write(f"[WARN] Fila {i}: contexto vacío. Salto.\n")
-            # igual guardamos registro con pre=5 pero sin contexto válido
-            rows_eval.append({
-                "chunk_id": chunk_id,
-                "question": q,
-                "pre_score": pre_score,
-                "pre_explanation": pre_expl,
-                "score": 1,
-                "explanation": "[ERR] Contexto vacío."
-            })
             continue
 
         context_capped = ellipsis(context, args.max_context_chars)
         user_prompt = GROUNDED_PROMPT.format(context=context_capped, question=q)
-        system_prompt = "Return strict JSON with keys 'explanation' and 'score'. No extra text."
+        system_prompt = "You must output strict JSON with keys 'explanation' and 'score'."
 
         try:
             resp = ollama_chat_json(
@@ -411,25 +320,24 @@ def main():
             )
             explanation, score = parse_grounded_from_resp(resp)
         except Exception as e:
-            sys.stderr.write(f"[ERROR] Fila {i} (chunk_id={chunk_id}) grounded: {e}\n")
+            sys.stderr.write(f"[ERROR] Fila {i} (chunk_id={chunk_id}): {e}\n")
             explanation, score = "Model error.", 3
 
         score = clamp_score(score)
 
         keep = score >= max(1, min(5, int(args.threshold)))
         if args.print_decisions:
-            print(f"[{i+1}/{total}] pre=5  score={score} keep={keep}  Q: {q}", flush=True)
+            print(f"[{i+1}/{total}] score={score} keep={keep}  Q: {q}", flush=True)
 
         rows_eval.append({
             "chunk_id": chunk_id,
             "question": q,
-            "pre_score": pre_score,
-            "pre_explanation": pre_expl,
             "score": score,
             "explanation": explanation,
         })
 
         if keep:
+            # Conservamos la pregunta en el CSV filtrado
             kept_rows.append({
                 "chunk_id": chunk_id,
                 "question": q,
@@ -445,7 +353,7 @@ def main():
             jf.write(json.dumps(r, ensure_ascii=False) + "\n")
     pd.DataFrame(rows_eval).to_csv(Path(args.out_csv), index=False, encoding="utf-8")
 
-    # Guardar filtradas (según threshold)
+    # Guardar filtradas
     pd.DataFrame(kept_rows).to_csv(Path(args.out_filtered), index=False, encoding="utf-8")
 
     print(f"✓ Evaluaciones -> {args.out_jsonl}")

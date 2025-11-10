@@ -94,6 +94,8 @@ def brand_root(name: str) -> str:
     m = re.match(r"[a-z]+", n)
     return m.group(0) if m else n
 
+
+# ----------------- Embeddings -----------------
 # ----------------- Embeddings -----------------
 def make_embeddings(provider: str, openai_model: str, e5_model: str):
     if provider == "openai":
@@ -101,19 +103,35 @@ def make_embeddings(provider: str, openai_model: str, e5_model: str):
         if not os.getenv("OPENAI_API_KEY"):
             raise RuntimeError("Definí OPENAI_API_KEY para usar provider=openai.")
         return OpenAIEmbeddings(model=openai_model)
+
     if provider == "e5":
         class E5Emb:
             def __init__(self, name: str):
+                # Modelo original para documentos (lo mantenemos tal cual)
                 from sentence_transformers import SentenceTransformer
                 self.model = SentenceTransformer(name, device="cpu")
+
+                # >>> Modelo SOLO para la QUERY (BGE-M3, 1024-d) <<<
+                from FlagEmbedding import BGEM3FlagModel
+                self.qmodel = BGEM3FlagModel("BAAI/bge-m3", use_fp16=False, device="cpu")
+                self.qmaxlen = 8192  # o el valor que ya uses como args.max_length
+
             def embed_documents(self, texts: List[str]) -> List[List[float]]:
                 texts = [f"passage: {t}" for t in texts]
-                return self.model.encode(texts, normalize_embeddings=True, convert_to_numpy=True).tolist()
+                return self.model.encode(
+                    texts,
+                    normalize_embeddings=True,
+                    convert_to_numpy=True
+                ).tolist()
+
             def embed_query(self, text: str) -> List[float]:
-                q = f"query: {text}"
-                return self.model.encode([q], normalize_embeddings=True, convert_to_numpy=True)[0].tolist()
+                # >>> ÚNICO CAMBIO REAL: la query se embebe con BGE-M3 (1024-d) <<<
+                enc = self.qmodel.encode_queries([text], max_length=self.qmaxlen)
+                return enc["dense_vecs"][0]
+
         return E5Emb(e5_model)
-    raise ValueError("provider debe ser 'openai' o 'e5'.")
+
+
 
 # ----------------- Index helpers -----------------
 def unique_drugs(vs: Chroma) -> List[str]:
@@ -346,44 +364,21 @@ def apply_rerank(docs_scores: List[Tuple[Document, float]],
     return docs_scores
 
 def print_results(docs_scores: List[Tuple[Document, float]], emit) -> None:
-    """
-    Imprime los resultados recuperados mostrando el ID real del chunk (ej. 03-Prospecto-Gadopril#0007)
-    si está disponible en los metadatos.
-    """
     if not docs_scores:
         emit("(sin resultados)")
         return
-
     for i, (doc, score) in enumerate(docs_scores, 1):
         md = doc.metadata or {}
         sec = md.get("section_canonical") or md.get("section_raw") or "UNKNOWN"
-        drug = md.get("drug_name")
-        doc_name = md.get("doc_name")
-
-        # Mostrar el id real del chunk si existe
-        chunk_id = md.get("id")
-        if not chunk_id:
-            # fallback: reconstruir o usar índice
-            chunk_idx = md.get("chunk_index")
-            chunk_id = f"{doc_name}#{chunk_idx:04d}" if chunk_idx is not None else "?"
-
-        head = f"\n[{i}] score={score:.4f} | {drug} | {sec} | {chunk_id}"
-        emit(head)
-
         snippet = (doc.page_content or "").replace("\n", " ")
-        emit(f"     {snippet[:220]}{'…' if len(snippet) > 220 else ''}")
+        emit(f"\n[{i}] score={score:.4f} | {md.get('drug_name')} | {sec} | {md.get('doc_name')}")
+        emit(f"     {snippet[:220]}{'…' if len(snippet)>220 else ''}")
 
 # ----------------- LLM -----------------
 def make_llm(backend: str, model: str, temperature: float = 0.1):
     if backend == "ollama":
         from langchain_ollama import OllamaLLM
-    #    return OllamaLLM(model=model, temperature=temperature)
-        return OllamaLLM(
-            model=model,
-            temperature=0,
-            num_ctx=16384,      # ↑ contexto (default suele ser 2048)
-            num_predict=256    # respuesta corta y enfocada
-        )
+        return OllamaLLM(model=model, temperature=temperature)
     if backend == "openai":
         from langchain_openai import ChatOpenAI
         return ChatOpenAI(model=model, temperature=temperature)
@@ -396,82 +391,41 @@ def infer_majority_drug(docs: List[Document]) -> Optional[str]:
     top, cnt = c.most_common(1)[0]
     return top if (cnt / max(1, len(drugs))) >= 0.6 else None
 
-import re
-
-def _ensure_citations(ans: str) -> str:
-    """Si el modelo no incluyó ninguna [n], forzamos al menos [1]."""
-    if re.search(r"\[(\d+)\]", ans):
-        return ans
-    # agrega sección Referencias si no está
-    if "Referencias:" not in ans:
-        ans = ans.rstrip() + "\n\nReferencias: [1]"
-    return ans
-
-import re
-import unicodedata
-
-def _ensure_citations(ans: str) -> str:
-    if re.search(r"\[(\d+)\]", ans):
-        return ans
-    return ans.rstrip() + "\n\nReferencias: [1]"
-
-def _norm(s: str) -> str:
-    s = "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
-    return s.lower().strip()
-
-def extract_keywords(q: str, max_n: int = 8) -> list[str]:
-    toks = re.findall(r"[a-záéíóúüñ0-9]+", _norm(q))
-    stop = {"de","del","la","el","los","las","un","una","unos","unas","y","o","u","en","para","por","con","sin","sobre","que","es","son","se","a","al"}
-    toks = [t for t in toks if t not in stop and len(t) >= 3]
-    seen, out = set(), []
-    for t in toks:
-        if t not in seen:
-            out.append(t)
-            seen.add(t)
-        if len(out) >= max_n:
-            break
-    return out
-
 def build_answer(llm, query: str, section_hint: Optional[str], docs: List[Document]) -> str:
-    ctx_blocks = []
+    # contexto compacto
+    ctx_parts = []
     for i, d in enumerate(docs, 1):
         md = d.metadata or {}
-        drug = md.get("drug_name") or "UNKNOWN"
         sec = md.get("section_canonical") or md.get("section_raw") or "UNKNOWN"
-        head = f"[{i}] {drug} • {sec} • {md.get('doc_name')}"
-        body = d.page_content or ""
-        ctx_blocks.append(f"{head}\n{body}")
-    context = "\n\n-----\n\n".join(ctx_blocks)
+        head = f"[{i}] {md.get('drug_name')} • {sec} • {md.get('doc_name')}"
+        ctx_parts.append(head + "\n" + (d.page_content or ""))
+    context = "\n\n-----\n\n".join(ctx_parts[:6])
 
-    kw = extract_keywords(query)
-    kw_line = ", ".join(kw) if kw else "(sin palabras clave relevantes)"
+    focus = f" Enfocate en la sección: {section_hint.upper()}." if section_hint else ""
 
-    prompt = f"""
-Sos un asistente de búsqueda en prospectos médicos. 
-Tu única tarea es **responder exactamente la pregunta indicada abajo**, basándote 
-EXCLUSIVAMENTE en el texto de los fragmentos numerados del CONTEXTO.
+    prompt = f"""Sos un asistente para información de prospectos médicos. Respondé de forma breve, factual y con citas [#].{focus}
+Si la pregunta no está respondida por el contexto, decí explícitamente que el contexto no alcanza.
 
-NO inventes, NO cambies el tema, y NO respondas a otra pregunta diferente.
+Pregunta: {query}
 
-PREGUNTA A RESPONDER (foco obligatorio):
-{query}
-
-CONTEXTO:
+Contexto:
 {context}
 
-INSTRUCCIONES:
-1. Leé la PREGUNTA y mantenela como único foco.
-2. Si encontrás información en el CONTEXTO que responda directa o parcialmente a esa pregunta, resumila en 1–3 oraciones.
-3. Si el CONTEXTO no tiene información relacionada con esa pregunta específica, respondé literalmente:
-   "No hay información suficiente en el contexto para responder con precisión."
-4. No respondas sobre otros temas ni uses conocimiento externo.
-5. Citá los fragmentos usados con Referencias: [n].
-""".strip()
+Instrucciones:
+- No inventes información ni asumas datos que no estén en el contexto. No uses conocimiento externo.
+- Si una frase no puede respaldarse con fragmentos del contexto, omitila.
+- Mencioná explícitamente el nombre exacto del medicamento según el metadato `drug_name` de los fragmentos citados.
+- Si la consulta incluye varios medicamentos, organizá la respuesta en subsecciones por medicamento, cada una con su `drug_name`.
+- Resumí en oraciones claras y lenguaje para consumidor final; explicá términos técnicos entre paréntesis si aparecen en el contexto.
+- Responde solo a lo que se pregunta; incluye únicamente información necesaria y directamente relacionada (puedes añadir detalles que aclaren la respuesta). No agregues información no solicitada. Si el dato no está en el CONTEXTO, escribe: “No hay información suficiente para responder con precisión.”
+- No des consejos médicos personalizados; limitate a lo que figura en los prospectos. Podés cerrar con una advertencia general (p. ej., consultar a un profesional ante dudas).
+- No extrapoles a otras presentaciones/dosis/indicaciones si no figuran en los fragmentos citados.
+- Mostrá 1–4 referencias al final como [1], [2], … usando los índices de los fragmentos provistos (en el orden que aparecen en el bloque Contexto).
+- Si la pregunta no menciona un medicamento y el contexto no muestra claramente un único fármaco, indicá que no hay información suficiente para responder con precisión.
+- Si hay inconsistencias entre fragmentos, indicá que el contexto es insuficiente o contradictorio para responder con precisión.
 
-    ans = llm.invoke(prompt)
-    return _ensure_citations(str(ans))
-
-
+Respuesta:"""
+    return llm.invoke(prompt)
 
 # ----------------- MAIN -----------------
 def main() -> int:
@@ -488,7 +442,7 @@ def main() -> int:
     ap.add_argument("--e5-model", default="intfloat/multilingual-e5-base")
 
     # Recuperación
-    ap.add_argument("-k", "--topk", type=int, default=12)
+    ap.add_argument("-k", "--topk", type=int, default=6)
     ap.add_argument("--neighbors", type=int, default=1)
     ap.add_argument("--rerank", choices=["none","keyword","cross"], default="keyword")
     ap.add_argument("--rerank-model", default="BAAI/bge-reranker-v2-m3")
@@ -504,6 +458,16 @@ def main() -> int:
                     help="full: imprime todo; answer: imprime SOLO la respuesta del LLM.")
     args = ap.parse_args()
 
+    
+# === MINIMAL PATCH: calcular embedding de la PREGUNTA con BGE-M3 (1024-d) ===
+    from FlagEmbedding import BGEM3FlagModel  # pip install FlagEmbedding>=1.2.11
+    _device = getattr(args, "device", "cpu")
+    _fp16 = bool(getattr(args, "fp16", False))
+    _maxlen = getattr(args, "max_length", 8192)
+    _bge_q = BGEM3FlagModel("BAAI/bge-m3", use_fp16=_fp16, device=_device)
+    _encq = _bge_q.encode_queries([args.query], max_length=_maxlen)
+    qvec = _encq["dense_vecs"][0]
+    # === END MINIMAL PATCH ===
     emit = make_emitter(args.output)
 
     # Si pide SOLO respuesta, forzamos generación de respuesta
@@ -621,7 +585,7 @@ def main() -> int:
         except TypeError:
             llm = make_llm(getattr(args, "llm_backend"), getattr(args, "llm_model"))
         try:
-            ans = build_answer(llm, query, sec_hint, [d for d,_ in docs_scores[:args.topk]])
+            ans = build_answer(llm, query, sec_hint, [d for d,_ in docs_scores[:6]])
             if args.output == "answer":
                 print(str(ans).strip())
             else:

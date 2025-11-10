@@ -73,35 +73,33 @@ def extract_context_and_meta(obj: Dict[str, Any]) -> Dict[str, Any]:
 # Prompt (tu versión, ajustado a salida plana)
 # -------------------------
 def build_prompt(context: str) -> str:
-    return f"""<instrucciones>
-A continuación se muestra un fragmento de un prospecto médico:
-
-<contexto>
+    return f"""<instructions>
+Here is some context:
+<context>
 {context}
-</contexto>
+</context>
+<role>You are a teacher creating a quiz from a given context.</role>
+<task>
+Your task is to generate 1 question that can be answered using the provided context, following these rules:
 
-<rol>Tu rol es el de un docente que diseña preguntas de evaluación a partir del texto del prospecto.</rol>
+<rules>
+1. The question should make sense to humans even when read without the given context.
+2. The question should be fully answered from the given context.
+3. The question should be framed from a part of context that contains important information. It can also be from tables, code, etc.
+4. The answer to the question should not contain any links.
+5. The question should be of moderate difficulty.
+6. The question must be reasonable and must be understood and responded by humans.
+7. Do not use phrases like 'provided context', etc. in the question.
+8. Avoid framing questions using the word "and" that can be decomposed into more than one question.
+9. The question should not contain more than 10 words, make use of abbreviations wherever possible.
+10. The question must explicitly include a medication mention from the context: either the commercial brand name, the generic/active substance, or another clear term that identifies the drug (e.g., "Ozempic", "semaglutide", "acetaminophen", etc.).
+</rules>
 
-<tarea>
-Generá **1 pregunta** en idioma español que pueda responderse claramente usando solo la información del fragmento anterior, siguiendo estas reglas:
+To generate the question, first identify the most important or relevant part of the context. Then frame a question around that part that satisfies all the rules above.
 
-<reglas>
-1. La pregunta debe tener sentido por sí sola, incluso sin leer el fragmento.
-2. La pregunta debe mencionar si o si en forma explícita el **nombre del medicamento o principio activo** que aparece en el texto (por ejemplo: “Alercas”, “fexofenadina”, “diclofenac”).
-3. La respuesta debe poder obtenerse directamente del texto dado (sin inferencias externas).
-4. La pregunta debe centrarse en información relevante del prospecto (por ejemplo: posología, contraindicaciones, efectos adversos, conservación, advertencias, etc.).
-5. No incluyas frases como “según el texto” o “en el contexto dado”.
-6. Evitá preguntas dobles con la palabra “y” que puedan dividirse en más de una pregunta.
-7. Usá un lenguaje claro y natural para un lector humano (no técnico).
-8. La pregunta no debe superar las 18 palabras.
-9. Terminá siempre con signo de interrogación.
-</reglas>
-
-Salida esperada:
-Solo la pregunta generada, sin comillas ni texto adicional.
-</tarea>
-</instrucciones>""".strip()
-
+Output only the generated question with a "?" at the end, no other text or characters.
+</task>
+</instructions>""".strip()
 
 
 # -------------------------
