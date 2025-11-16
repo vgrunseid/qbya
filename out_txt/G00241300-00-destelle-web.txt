@@ -1,0 +1,1171 @@
+DESTELLE®
+DROSPIRENONA 3 mg
+ESTETROL 14,2 mg
+Comprimidos recubiertos
+Venta bajo receta. Vía de administración: oral. Industria Argentina.
+
+COMPOSICIÓN
+
+INDICACIONES
+
+Cada comprimido recubierto rosa de DESTELLE® (activo) contiene:
+Drospirenona ................................................................................. 3,000 mg Estetrol .........................................................................................14,200 mg
+Excipientes
+Lactosa monohidrato.................................................................. 39,600 mg Almidón de maíz .........................................................................14,400 mg
+Povidona K25 ................................................................................ 4,000 mg Sodio almidón glicolato ............................................................... 3,200 mg
+Estearato de magnesio vegetal ................................................... 0,800 mg Óxido de hierro rojo (CI 77491) ................................................... 0,004 mg
+Hidroxipropilmetilcelulosa1) ......................................................... 1,194 mg Triacetina1) .......................................................................................0,237 mg
+Dióxido de titanio1) ........................................................................ 0,465 mg Cera carnauba2) ............................................................................. 0,006 mg
+Cera blanca2) .................................................................................. 0,006 mg Goma laca2) .....................................................................................0,012 mg
+1) Componente de Aquarius BAT 218006 white 1,896 mg
+2) Componente de Opaglos GS-2-0700 0,024 mg
+
+Cada comprimido recubierto blanco de DESTELLE® (placebo) contiene:
+Celulosa microcristalina PH 102 ............................................... 74,250 mg Estearato de magnesio vegetal ....................................................0,750 mg
+Hidroxipropilmetilcelulosa 3cP1) ...............................................  0,568 mg Hidroxipropilmetilcelulosa 6cP1) ................................................ 0,568 mg
+Polietilenglicol1) ...........................................................................0,1520 mg Polisorbato 801) ........................................................................... 0,0190 mg
+Dióxido de titanio1) .........................................................................0,594 mg Cera carnauba2) ............................................................................. 0,006 mg
+Cera blanca2) .................................................................................. 0,006 mg Goma laca2) .....................................................................................0,012 mg
+1) Componente de Opadry YS-1-7003 Blanco 1,900 mg
+2) Componente de Opaglos GS-2-0700 0,024 mg
+
+ACCIÓN TERAPÉUTICA
+
+Anovulatorio. Código ATC G03AA18
+
+DESTELLE® es una combinación de drospirenona, un progestágeno, y estetrol, un estrógeno, indicado para evitar el embarazo en mujeres con potencial reproductivo.
+DESTELLE® puede ser menos eficaz en mujeres con un IMC ≥ 30 kg/m2.
+En mujeres con IMC ≥ 30 kg/m2, la disminución de la eficacia puede estar asociada con el aumento del IMC.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+Los anticonceptivos hormonales combinados (AHCs) previenen el embarazo principalmente mediante la supresión de la ovulación.
+
+Farmacodinamia
+La drospirenona es un análogo de la espironolactona con actividad antimineralocorticoide y antiandrogénica. El estrógeno de DESTELLE® es estetrol, un análogo sintético de un estrógeno nativo presente durante el embarazo, que es selectivo para el receptor nuclear de estrógeno-α
+(RE-α) y RE-ß.
+
+Electrofisiología cardíaca
+A dosis 5 veces mayor que la dosis máxima recomendada (es decir, una dosis supraterapéutica de 15 mg DRSP/71 mg E4), DESTELLE® no prolonga el intervalo QT en ningún grado clínicamente relevante.
+
+Fármacos que pueden de aumentar la concentración sérica de potasio Existe la posibilidad de un aumento en la concentración sérica de potasio en mujeres que toman DESTELLE® junto con otros medicamentos que pueden aumentar la concentración sérica de potasio.
+Se llevó a cabo un estudio de interacción farmacológica de DRSP 3 mg / E2 1 mg versus placebo en 24 mujeres posmenopáusicas levemente hipertensas que tomaban enalapril 10 mg dos veces al día. Las concentraciones de potasio se obtuvieron cada dos días durante un total de 2  semanas  en  todos  los  sujetos.  Las  concentraciones  séricas  medias de potasio en el grupo de tratamiento con DRSP/E2 en relación con el valor inicial fueron 0,22 mEq/l más altas que las del grupo placebo. Las
+
+concentraciones séricas de potasio también se midieron en múltiples puntos de tiempo durante 24 horas al inicio y el día 14. En el día 14, las relaciones para la Cmáx y el área bajo la curva (AUC) de potasio sérico en el grupo DRSP/E2 con respecto al grupo placebo fueron 0,955 (IC 90 %:
+0,914, 0,999) y 1,010 (IC 90%: 0,944, 1,08), respectivamente. Ningún paciente en ninguno de los grupos de tratamiento desarrolló hiperpotasemia (concentración sérica de potasio >5.5 mEq/L).
+
+Farmacocinética
+Absorción, distribución, metabolismo y excreción.
+Las propiedades farmacocinéticas de E4 y DRSP tras la administración de DESTELLE® se muestran en la tabla a continuación: (Tabla 2)
+
+Tabla 2. Farmacocinéticas de E4 y DRSP
+
+E4
+
+DRSP
+
+Otros efectos farmacodinámicos de DESTELLE® . (Tabla 1)
+
+Parámetros farmacocinéticos de dosis múltiples
+
+Tabla 1. Efectos farmacodinámicos de los AHCs sobre los parámetros hemostáticos, metabólicos y endócrinos.
+
+Media (CV%) Cmáx, ng/ml
+Media (CV%) AUC0-24h, ng*/ml
+
+17,9 (68,1)
+
+59,1 (24,3)
+
+48,7 (24,6)
+
+519,0 (27,7)
+
+Dirección del cambio
+
+Proporcionalidad de la dosis
+
+15 mg a 75 mg
+
+1-10 mg
+
+Categoría
+
+Factores de coagulación
+
+Aumento
+
+↑ Recuento de plaquetas; antígenos factores II, VII, actividad coagulante Factor VIII,
+IX, X, XII, complejo VII-X y beta-tromboglobulina;
+
+fribinógeno y actividad fribinogénica;
+
+Disminución
+↓ (Acelerada) Tiempo de protrombina, tiempo parcial de tromboplastina, tiempo de agregación plaquetaria
+
+↓ Antifactor Xa y antitrombina III, actividad de antitrombina III
+
+Corticoesteroides
+
+Antígeno del plasminógeno y actividad
+↑ Globulina fijadora de corticosteroides
+(CBG), corticosteroides circulantes totales
+
+-
+
+Glucosa
+
+Lípidos
+
+-
+
+↑
+
+↓ Tolerancia a la glucosa
+
+↓ Concentración de lipoproteínas de baja densidad
+
+Sin cambio
+
+Tiempo hasta alcanzar el estado estacionario, días
+
+Relación de acumulación
+
+Absorción
+
+4
+
+1,6
+
+10
+
+2,3
+
+Mediana (rango) Tmáx, horas
+Efecto de comidas con alto contenido graso (en relación con el ayuno)
+
+1,0 (1,0 a 3,0)
+
+0,5 (0,5 a 2)
+
+-
+
+-
+
+Media geométrica (IC 90%)
+Cmáx, Relación
+Media geométrica (IC 90%)
+AUC0-INF, Relación
+Distribución
+
+Unión a proteínas plasmáticas
+
+Eliminación
+
+0,51 (0,37, 0,70)
+
+0,75 (0,66, 0,84)
+
+1,01 (0,86, 1,19)
+
+1,08 (1,02, 1,14)
+
+46% a 50%
+
+95% a 97%a
+
+Vida media de eliminación, horas
+
+27%b
+
+34
+
+Metabolismo
+
+Vías primarias
+
+Lipoproteína plasmática de alta densidad (HDL) y concentración de subfracción colesterol HDL2, niveles de triglicéridos
+
+-
+
+-
+
+Metabolismo de fase 2 para formar glucurónido y conjugados de sulfato que tienen una actividad estrogénica in vitro muy poco significativa. Los estudios in vitro muestran que UGT287 es la isoforma UGT dominante que cataliza la formación de glucurónido de E4-16 .
+
+CYP3A4: dos metabolitos principales: forma ácida de DRSP generada por la apertura del anillo de lactona y la 4,5-dihidrodrospirenona formada por reducción seguida por sulfatación. Ambos metabolitos no son farmacológicamente activos.
+
+↓ Posible disminución de las concentraciones de testosterona libre
+
+↓ Androstenediona, progesterona, testosterona libre, estradiol
+↓ Captación de resina T3
+
+DHEA-S, FSH, LH,
+Dihidrotestosterona
+
+Excreción
+
+Vías primarias
+
+% de dosis en la orina
+
+69% (0% sin cambios)
+
+% de dosis en las heces
+
+22% (100% sin cambios)
+
+38%
+
+44%
+
+a  Unida principalmente a la albúmina b   Sufre reciclaje enterohepático.
+Cmax: Concentración plasmática máxima, AUC0-t= Área bajo la curva de concentración plasmática-tiempo integrada desde el momento de la administración (0) hasta el momento de la última observación cuantificable (t); AUC0-INF= Área bajo la curva de  concentración  plasmática-tiempo  integrada  desde  el  momento  de  la  administración extrapolado a infinito desde AUC0-t; IC: Intervalo de confianza; Tmáx= tiempo hasta alcanzar la concentración máxima
+
+↔ TSH, concentraciones de T3 libre y T4 libre en mujeres con función tiroidea normal
+
+Mineralocorticoides
+
+Proteínas plasmáticas
+
+Hormonas sexuales
+
+↑ Aldosterona
+
+↑ Concentraciones de sustrato renina/angiotensinógeno, alfa 1-antitripsina, ceruloplasmina
+↑ Globulina fijadora de hormonas sexuales
+(SHBH)
+
+Hormonas tiroideas
+
+↑ Globulina fijadora de tiroxina (TBG), niveles totales de hormona tiroidea, niveles totales de T3 y T4
+
+Poblaciones Especíales
+No se observaron diferencias clínicamente significativas en la farmacocinética  de  E4  o  DRSP  en  mujeres  según  la  raza/etnia  (japonesa  y caucásica).
+
+Pacientes con Insuficiencia Hepática
+Se desconoce el efecto de la insuficiencia hepática sobre la farmacocinética de E4.
+La  exposición  media  a  DRSP  es  aproximadamente  tres  veces  mayor en mujeres con insuficiencia hepática moderada que la exposición en mujeres con función hepática normal. Se desconoce el efecto de la insuficiencia hepática grave sobre la farmacocinética de DRSP.
+
+Pacientes con Insuficiencia Renal
+Se desconoce el efecto de la insuficiencia renal sobre la farmacocinética de E4. Las concentraciones séricas medias de DRSP aumentaron en un 37 % en sujetos con CLcr de 30 a 49 ml/min que seguían una dieta con un bajo nivel de potasio que utilizaban medicamentos ahorradores de potasio.  No  se  observaron  diferencias  clínicamente  significativas  en la farmacocinética de DRSP sobre la base de un CLcr de 50 a 79 ml/ min. El tratamiento con DRSP no mostró ningún efecto clínicamente significativo  sobre  la  concentración  sérica  de  potasio.  Aunque  no  se observó hiperpotasemia en el estudio, en cinco de los siete sujetos que continuaron usando medicamentos ahorradores de potasio durante el estudio,  las  concentraciones  séricas  medias  de  potasio  aumentaron hasta 0,33 mEq/l.
+
+Estudios de interacción con otros medicamentos y otras formas de interacción
+
+Estudios clínicos
+Inhibidor  potente  de  CYP3A4:  el  uso  concomitante  de  un  AOC  que contiene DRSP 3 mg/EE 20 μg con ketoconazol (inhibidor potente de CYP3A4) aumentó el AUCo-24h y la Cmáx de DRSP en 2,68 veces (IC 90%:
+2,44; 2,95) y 1,97 veces. (IC 90%: 1.79; 2.17), respectivamente.
+Inductor  de  CYP3A4:  El  uso  concomitante  de  un  AOC  que  contiene DRSP 3 mg/EE 20 μg con una dosis alta (inducción potente de CYP3A)
+y una dosis baja de rifampicina (inducción débil de CYP3A4) disminuyó el AUCo-24h de DRSP en un 86 % (IC 90%: 85 %; 87%) y 30% (IC 90%:
+25%; 34%), respectivamente.
+Inhibidor de UGT2B7: No se observaron diferencias clínicamente significativas en la farmacocinética de drosperinona-estetrol.cuando se usa concomitantemente con ácido valproico (inhibidor de UGT2B7).
+Sustrato de CYP3A: La farmacocinética de los sustratos de CYP3A, midazolam y simvastatina, no se vio afectada por las concentraciones de DRSP en estado estacionario alcanzadas después de la administración de 3 mg de DRSP/día.
+Sustrato de CYP2C19: La administración oral diaria de 3 mg de DRSP durante  14  días  no  afectó  el  clearance  oral  de  sustrato  CYP2C19  - omeprazol (40 mg, dosis oral única) y el producto CYP2C19 5-hidroxi omeprazol.
+
+CYP2E1, UGT1A9, UGT2B7, P-pg transportadora de drogas, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, MATE1 y MATE2-K o en una dosis clínicamente relevante.
+
+Efectos de drosperinona-estetrol sobre lamotrigina Se sabe que los estrógenos reducen las concentraciones plasmáticas de lamotrigina, probablemente debido a la inducción de la glucuronidación de lamotrigina. No se dispone de datos in vitro o in vivo para determinar el impacto de E4 sobre la exposición a lamotrigina
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+Inicie  el  tratamiento  con  DESTELLE®  usando  el  comprimido  indicado como Inicio - Día 1. Tome un comprimido por vía oral a la misma hora todos los días con o sin alimentos.
+
+Información adicional sobre administración Para  lograr  la  máxima  eficacia  anticonceptiva,  tome  un  comprimido diariamente, aproximadamente a la misma hora. La dosis recomendada de DESTELLE® es de un comprimido todos los días durante 28 días seguidos: un comprimido activo de color rosa diariamente durante los primeros 24 días, seguidos por un comprimido placebo blanco diariamente durante los 4 días siguientes (ver Tabla 3).
+
+Tabla 3 - Instrucciones para la administración de DESTELLE®
+
+Inicio del tratamiento con DESTELLE® en mujeres que no usan actualmente anticonceptivos hormonales
+
+Pasar al tratamiento con DESTELLE® a partir de otro método anticonceptivo
+• Anticonceptivo oral combinado (AOC)
+
+• Sistema Transdérmico
+
+Importante
+• En mujeres con ciclos menstruales irregulares, puede
+
+ser necesario realizar una prueba de embarazo antes del inicio del tratamiento con este producto.
+
+Inicio - día 1:
+• Tome el primer comprimido activo de color rosa, el
+
+primer día de la menstruación.
+
+• Tome los siguientes comprimidos activos de color rosa
+
+una vez al día a la misma hora todos los días durante un total de 24 días.
+
+• Tome un comprimido placebo de color blanco diariamente durante 4 días y a la misma hora del día en que tomó los comprimidos activos.
+
+• Comience cada caja para 28 días de tratamiento, el
+
+mismo día de la semana que la caja del primer ciclo (es decir, el día después de tomar el último comprimido)
+Si no comienza el primer día de la menstruación, use un anticonceptivo no hormonal (p. ej., condones y/o espermicida) como respaldo hasta haber tomado un comprimido activo diariamente durante 7 días seguidos.
+
+Inicie el tratamiento con DESTELLE® el día en que:
+
+• habría comenzado la nueva caja del AOC anterior.
+
+• habría programado la siguiente aplicación.
+
+Estudios in vitro
+E4 no es un sustrato de CYP1A1, CYP2B6, CYP2C8, CYP2C9, CYP206,
+CYP3A4,  OATP1B1,  OATP1B3,  OAT1,  OAT3,  OCT2,  MATE1,  MATE2-K.
+Es poco probable que E4 induzca CYP1A2, CYP2B6, CYP3A4 o inhiba
+CYP3A4,  CYP1A2,  CYP2B6,  CYP2C8,  CYP2C9,  CYP2C19,  CYP206,
+
+• Inserto vaginal
+• Inyección
+• Sistema Intrauterino
+
+• habría programado la siguiente inserción.
+• habría programado la siguiente inyección.
+• Después de su remoción.
+
+(SIU)
+
+• Implante
+
+• Después de su remoción.
+
+• Píldora de progestágeno únicamente
+
+Inicio del tratamiento con DESTELLE® después del parto
+(>20 semanas de gestación)
+
+Inicio del tratamiento con DESTELLE® después de un aborto o aborto espontáneo
+• ≤ 14 semanas de
+
+gestación
+
+• > 14 semanas pero ≤ 20 semanas de gestación
+
+• Después de tomar el último comprimido.
+
+No debe comenzar antes de las 4 semanas posteriores al parto (debido al mayor riesgo de tromboembolismo [ver
+Contraindicaciones y Advertencias]
+Si ha vuelto a tener ciclos menstruales, siga las Instrucciones para “Inicio del tratamiento con DESTELLE® en mujeres que no usan actualmente anticonceptivos hormonales”.
+Si no ha vuelto a tener ciclos menstruales, considere la posibilidad de ovulación y embarazo. Si no está embarazada, use métodos anticonceptivos no hormonales adicionales durante los primeros 7 días en que utilice DESTELLE®.
+
+Dentro de los primeros 7 días de aborto o del aborto espontáneo en el primer trimestre completo, use anticonceptivos no hormonales adicionales durante los siguientes 7 días.
+
+Después de los primeros 7 días, siga las Instrucciones para “Inicio del tratamiento con DESTELLE® en mujeres que no usan actualmente anticonceptivos hormonales”.
+
+Después de 4 semanas después de un aborto o aborto espontáneo en el segundo trimestre. Considere la duración del embarazo y el aumento del riesgo de tromboembolismo [ver Advertencias ]
+Si han regresado los ciclos menstruales, siga las instrucciones para “Inicio del tratamiento con DESTELLE® en mujeres que no usan actualmente anticonceptivos hormonales”.
+Si no ha vuelto a tener ciclos menstruales deberá considerar la posibilidad de ovulación y embarazo. Si no está embarazada, utilice métodos anticonceptivos no hormonales adicionales durante los primeros 7 días de uso de DESTELLE®
+
+Dosis omitidas
+Tabla 4 - Instrucciones para el caso en que se haya omitido tomar los comprimidos de DESTELLE® dentro de una pauta terapéutica mensual
+
+• Si olvida tomar un
+
+comprimido activo de color rosa
+
+• Si olvida tomar dos o más comprimidos activos de color rosa en la Semana 1 o en la Semana 2
+
+• Si olvida tomar dos comprimidos activos de color rosa en la Semana 3
+
+• Si olvida tomar uno o más comprimidos placebo de color blanco
+
+Tome el comprimido omitido lo antes posible y el siguiente comprimido a la hora programada, incluso si debe tomar dos comprimidos activos en un día. Continúe tomando un comprimido por día hasta terminar la caja.
+Tome el comprimido omitido lo antes posible y el comprimido correspondiente al día de la fecha (eso significa tomar dos comprimidos en un día) y descarte los otros comprimidos omitidos. Continúe tomando un comprimido por día hasta terminar la caja.
+Use un anticonceptivo no hormonal como respaldo hasta que haya tomado los comprimidos de color rosa durante
+7 días consecutivos.
+Tome el comprimido omitido lo antes posible y el comprimido correspondiente al día de la fecha (eso significa tomar dos comprimidos en un día) y descarte los otros comprimidos omitidos. Termine los comprimidos activos y descarte los comprimidos placebo que esté en la caja. Comience una nueva caja de comprimidos el día siguiente.
+Use un anticonceptivo no hormonal como respaldo hasta que haya tomado los comprimidos de color rosa durante
+7 días consecutivos.
+Omita los días en que ha omitido las píldoras y continúe tomando un comprimido diariamente hasta terminar la caja.
+
+Recomendaciones de administración después de vómitos o diarrea aguda Si se presentan vómitos o diarrea aguda dentro de las 3 a 4 horas posteriores a la toma de un comprimido activo, tome el nuevo comprimido activo (programado para el día siguiente) lo antes posible. Tome el nuevo comprimido dentro de las 12 horas siguientes a la hora habitual en que toma del comprimido, en caso de ser posible. Si se omiten más de dos comprimidos, siga los consejos para comprimidos omitidos, incluido el uso de anticonceptivos no hormonales de respaldo.
+
+CONTRAINDICACIONES
+
+DESTELLE® está contraindicado en mujeres que tengan probadamente o desarrollen las siguientes condiciones:
+• Antecedentes de enfermedades trombóticas/tromboembólicas arteriales o venosas en la actualidad o un mayor riesgo de tenerlas. Los ejemplos incluyen mujeres sobre las que se ha comprobado que:
+- Fuman, si tiene 35 años o más
+- Tienen en la actualidad o ha tenido trombosis venosa profunda o embolia pulmonar
+- Tienen una enfermedad cerebrovascular
+- Tiene enfermedad de las arterias coronarias
+- Tienen enfermedades valvulares trombogénicas o del ritmo cardíaco trombogénico (por ejemplo, endocarditis bacteriana subaguda con enfermedad valvular o fibrilación auricular)
+ - Tienen hipercoagulopatías hereditarias o adquiridas
+- Tiene hipertensión no controlada o hipertensión con enfermedad vascular
+- Tiene diabetes mellitus con hipertensión o daño del órgano blanco;
+o diabetes mellitus > 20 años de duración
+- Tiene migrañas con aura
+
+• Cursa actualmente o tiene antecedentes de neoplasia maligna hormono-sensible (p. ej., cáncer de mama)
+
+• Adenoma hepático, carcinoma hepatocelular, hepatitis aguda o cirrosis grave (descompensada)
+
+• Uso de combinaciones de medicamentos para la hepatitis C que contienen ombitasvir/paritaprevir/ritonavir, con o sin dasabuvir, debido a la posibilidad de presentar elevaciones de la ALT
+
+• Sangrado uterino anormal de etiología no diagnosticada
+• Insuficiencia renal
+• Insuficiencia suprarrenal
+Para mayor información ver Advertencias y Precauciones.
+
+ADVERTENCIAS
+
+ Desórdenes tromboembólicos y otros problemas vasculares
+• Interrumpa el tratamiento con DESTELLE® si ocurre un evento trombótico/tromboembólico arterial o venoso.
+
+• Interrumpa  el  tratamiento  con  DESTELLE®  si  presenta  una  pérdida inexplicable  de  la  visión,  proptosis,  diplopía,  edema  de  papilas  o lesiones vasculares de la retina y evalúe la existencia de trombosis venosa de la retina de inmediato.
+
+• Suspenda el tratamiento con DESTELLE® durante una inmovilización
+
+prolongada.
+
+• Comience el tratamiento con DESTELLE® con una antelación no menor de cuatro semanas después del parto en mujeres que no estén amamantando. El riesgo de tromboembolismo posparto disminuye después de la tercera semana posparto, mientras que la probabilidad
+
+de ovulación aumenta después de la tercera semana posparto.
+
+Antes de comenzar el tratamiento con DESTELLE® se deberá evaluar el historial médico o antecedentes familiares de desórdenes trombóticos o tromboembólicos y considerar si el historial sugiere una hipercoagulopatía hereditaria o adquirida.
+DESTELLE® está contraindicado en mujeres con alto riesgo de enfermedades trombóticas/tromboembólicas arteriales o venosas [ver Contraindicaciones )].
+
+Eventos cardiovasculares y cerebrovasculares
+El uso de AHC aumenta el riesgo de eventos cardiovasculares y cerebrovasculares,  tales  como  infarto  de  miocardio  y  accidentes  cerebrovasculares. El riesgo es mayor entre las mujeres mayores de 40 años, las fumadoras y las mujeres con hipertensión, dislipidemia, diabetes u obesidad. El riesgo aumenta con la edad, particularmente en mujeres de 35 años o más, y en relación con la cantidad de cigarrillos que consumen. Además de los cigarrillos, el uso de otros productos que contienen nicotina, incluidos habanos, tabaco sin humo, tabaco para pipas de  agua,  cigarrillos  electrónicos  y  terapia  de  reemplazo  de  nicotina, también puede aumentar el riesgo de eventos cardiovasculares graves derivados del uso de AHC.
+
+Tromboembolia venosa
+El uso de AOC también aumenta el riesgo de eventos tromboembólicos venosos (TEV), como trombosis venosa profunda y embolia pulmonar.
+Se ha estimado que la tasa de TEV en mujeres que usan AOC es de 3 a 9 casos por cada 10 000 mujeres-año y se debe considerar en el contexto de otras subpoblaciones de mujeres con potencial reproductivo que no están tomando AHC [ver Reacciones adversas].
+Los factores de riesgo de TEV incluyen tabaquismo, obesidad, antecedentes familiares de TEV e inmovilización prolongada, además de otros factores que contraindican el uso de AHC [ver Contraindicaciones]. La presencia de múltiples factores de riesgo de TEV puede aumentar el riesgo de forma sinérgica. El riesgo de TEV es más alto durante el primer año de uso de AHC y cuando se reinicia la anticoncepción hormonal después de un descanso de cuatro semanas o más. El riesgo de TEV vuelve a los valores basales aproximadamente 3 meses después de discontinuar el uso de AHC.
+
+Tromboembolismo venoso posparto
+El riesgo de TEV aumenta durante las primeras seis semanas posparto en comparación con el riesgo en mujeres no embarazadas, que no atraviesan el período de posparto. El riesgo es más alto en las primeras tres semanas después del parto, pero sigue siendo más alto que el valor inicial hasta al menos seis semanas después del parto. La presencia de múltiples factores de riesgo de TEV puede aumentar aún más el riesgo.
+Las complicaciones obstétricas pueden extender el riesgo elevado hasta
+12 semanas después del parto.
+
+PRECAUCIONES
+
+Hiperpotasemia
+DESTELLE®  está  contraindicado  en  mujeres  con  afecciones  que  predisponen a la hiperpotasemia (p. ej., insuficiencia renal, insuficiencia hepática  e  insuficiencia  suprarrenal).  Las  mujeres  que  reciben  diariamente  tratamiento  a  largo  plazo  para  afecciones  o  enfermedades crónicas con medicamentos que pueden aumentar las concentraciones
+
+séricas de potasio deben efectuarse controles de las concentraciones séricas  de  potasio  durante  el  primer  ciclo  de  tratamiento.  Se  deben vigilar  las  concentraciones  séricas  de  potasio  en  mujeres  con  mayor riesgo de hiperpotasemia (es decir, aquellas mujeres que toman un Inhibidor potente de CYP3A4 a largo plazo y en forma concomitante con DESTELLE® (ver Interacciones con otros medicamentos y otras formas de interacción). Se debe supervisar a las mujeres que toman DESTELLE® y que luego desarrollan afecciones médicas y/o que comienzan a tomar medicamentos que las exponga a un mayor riesgo de hiperpotasemia.
+DESTELLE® contiene drospirenona, un progestágeno, que tiene actividad antimineralocorticoide, incluido el potencial de producir hiperpotasemia en mujeres de alto riesgo, comparable con una dosis de 25 mg de espironolactona. La mayoría de las mujeres que desarrollaron hiperpotasemia  en  los  ensayos  clínicos  de  drosperenona-estetrol  tuvieron solo elevaciones leves de potasio y/o aumentos aislados que volvieron a la normalidad mientras aún recibían la medicación del estudio.
+
+Hipertensión
+DESTELLE® está contraindicado en mujeres con hipertensión no controlada o hipertensión con enfermedad vascular [consulte Contraindicaciones]. Para todas las mujeres, incluidas aquellas con hipertensión bien controlada, se debe controlar la presión arterial periódicamente y suspender DESTELLE® si la presión arterial aumenta significativamente.
+Se ha informado un aumento en la presión arterial en mujeres que usan AOC. Este aumento es más probable en mujeres mayores con una duración prolongada de uso.
+
+Migraña
+DESTELLE® está contraindicado en mujeres que tienen migrañas con aura  [ver  Contraindicaciones].  Se  debe  interrumpir  DESTELLE®  en mujeres que usan DESTELLE® y desarrollan nuevas migrañas que son recurrentes, persistentes o intensas.
+Se debe discontinuar DESTELLE® si hay un aumento en la frecuencia o intensidad de las migrañas durante el uso de AHC (que pueden ser prodrómicas de un evento cerebrovascular).
+Las migrañas con aura aumentan el riesgo de accidente cerebrovascular. Este riesgo de accidente cerebrovascular aumenta aún más en las mujeres que presentan migrañas con el uso de AHC.
+
+Enfermedad hepática
+Enzimas hepáticas elevadas
+DESTELLE® está contraindicado en mujeres con hepatitis aguda o cirrosis grave  (descompensada)  [ver  Contraindicaciones].  Interrumpa  o  suspenda permanentemente DESTELLE® en caso de presentar elevación persistente o significativa de las enzimas hepáticas. DESTELLE® puede provocar la elevación de las enzimas hepáticas.
+
+Tumores hepáticos
+DESTELLE® está contraindicado en mujeres con adenomas hepáticos y tumores hepáticos malignos [ver Contraindicaciones)]. Los AHC aumentan el riesgo de tumores hepáticos, particularmente adenomas hepáticos.
+La ruptura de adenomas hepáticos puede causar la muerte por hemorragia abdominal.
+
+Riesgo de elevaciones de las enzimas hepáticas con el tratamiento concomitante para la hepatitis C.
+Los  AHC,  como  DESTELLE®  están  contraindicados  para  su  uso  con
+
+combinaciones  de  medicamentos  para  la  hepatitis  C  que  contengan ombitasvir/paritaprevir/ritonavlr (con o sin dasabuvir) [ver Contraindicaciones]. Interrumpa DESTELLE® antes de comenzar la terapia con el régimen de medicamentos combinados ombitasvir/paritaprevir/ritonavir (con o sin dasabuvir). DESTELLE® puede reiniciarse aproximadamente 2 semanas después de completar el tratamiento con este régimen de medicamentos combinados contra la hepatitis C.
+Durante los ensayos clínicos con el régimen de medicamentos combinados para la hepatitis C mencionado anteriormente, las elevaciones de ALT superiores a 5 veces el límite superior normal (LSN), incluidos algunos casos superiores a 20 veces el LSN, fueron significativamente más frecuentes en mujeres que usaban etinilestradiol.
+Medicamentos  que  contienen  (EE),  como  los  AHC.  Las  mujeres  que usaban medicamentos que contenían estrógenos además de EE tuvieron una tasa de elevación de ALT similar a las que no recibían ningún estrógeno. DESTELLE® contiene E4 en lugar de EE, pero se recomienda precaución ya que no existen datos disponibles en elación con la administración concomitante con este régimen de combinación de medicamentos para la hepatitis C.
+
+Tolerancia a la glucosa e hipertrigliceridemia
+
+Tolerancia a la glucosa
+Se  debe  supervisar  atentamente  a  las  mujeres  con  prediabetes y  diabetes  que  usen  DESTELLE®  puede  disminuir  la  tolerancia  a  la glucosa
+
+Hipertrigliceridemia
+Se deben considerar métodos anticonceptivos alternativos para mujeres  con  hipertrigliceridemia.  Las  mujeres  con  hipertrigliceridemia,  o antecedentes familiares de la misma, pueden tener un aumento en las concentraciones de triglicéridos séricos cuando usan DESTELLE® lo que puede aumentar el riesgo de pancreatitis.
+
+Intolerancia a la lactosa
+Los comprimidos de DESTELLE® contienen lactosa, por lo tanto los pacientes con problemas hereditarios raros de intolerancia a la galactosa, deficiencia  de  lactasa  Lapp  o  malabsorción  de  glucosa-galactosa  no deben tomar este medicamento.
+
+Enfermedad de la vesícula biliar y colestasis Se debe considerar suspender DESTELLE® en mujeres con enfermedad sintomática de la vesícula biliar o enfermedad colestásica. Los estudios sugieren un mayor riesgo de desarrollar enfermedad de la vesícula biliar entre las usuarias de AHC. El uso de AHC también puede empeorar la enfermedad de la vesícula biliar existente.
+Antecedentes  de  colestasis  relacionada  con  AHC  predice  un  mayor riesgo con el uso posterior de AHC. Las mujeres con antecedentes de colestasis relacionada con el embarazo pueden tener un mayor riesgo de colestasis relacionada con los AHCs.
+
+Efecto sobre las globulinas fijadoras
+Aumente la dosis de la terapia de reemplazo de hormona tiroidea según sea necesario en mujeres que toman DESTELLE®. El componente de estrógeno de DESTELLE® puede aumentar las concentraciones séricas de globulina fijadora de tiroxina, globulina fijadora de hormonas sexuales y globulina fijadora de cortisol.
+
+Sangrado irregular y amenorrea
+
+Sangrado y manchado imprevistos
+Las  mujeres  que  usan  DESTELLE®  pueden  experimentar  sangrado  y manchado  imprevistos  (intercurrentes  o  intracíclicos),  especialmente durante los primeros 4 meses de uso. Las irregularidades en el sangrado pueden resolverse con el tiempo o al cambiar a un tratamiento con un producto anticonceptivo diferente. Si el sangrado persiste u ocurre después de ciclos previamente regulares, se deben evaluar causas tales como embarazo o neoplasias. Se definió como sangrado imprevisto al sangrado o manchado que ocurrió entre el día 4 y el día 24 de un ciclo de 28 días. Según los diarios de los sujetos de un estudio la proporción de sujetos que informaron sangrado o manchado imprevistos por ciclo de 28 días disminuyó con el tiempo: 30,3 % en el ciclo 1 versus 17,4 % en el ciclo 12. La media de días de sangrado/manchado imprevisto por ciclo también disminuyó gradualmente con el tiempo, con una media de 0,4 (± 1,42) días de sangrado en el Ciclo 1, versus una media de 0,2
+(± 0,98) días de sangrado en el Ciclo 12.
+
+Ausencia del sangrado por deprivación
+Las mujeres que usan DESTELLE® pueden experimentar ausencia del sangrado programado (deprivación), incluso si no están embarazadas [ver Reacciones adversas]. La proporción de sujetos que informaron ausencia del sangrado por deprivación se mantuvo constante en general, con  un  promedio  de  15,5  %  de  sujetos  que  informaron  ausencia  del sangrado por deprivación desde los Ciclos 1 al 12.
+Si no se produce el sangrado por deprivación, se deberá considerar la posibilidad de embarazo. Si la paciente no ha cumplido con el cronograma de posología prescrito (olvidó uno o dos comprimidos activos o comenzó a tomarlos un día después de lo prescrito), se debe considerar la posibilidad de embarazo al momento de la primera falta y realizar las medidas de diagnóstico apropiadas.
+Tras discontinuar DESTELLE® puede presentarse amenorrea u oligomenorrea, especialmente si estas afecciones eran preexistentes.
+
+Depresión
+Se debe controlar a las mujeres con antecedentes de depresión y suspender  DESTELLE®  si  la  depresión  reaparece  en  un  grado  grave.  Los datos sobre la asociación de los AOC con el inicio de la depresión o la exacerbación de la depresión existente son limitados.
+
+Neoplasias malignas
+Cáncer de mama
+DESTELLE® está contraindicado en mujeres que actualmente tienen o han tenido cáncer de mama porque el cáncer de mama puede ser sensible a las hormonas [ver Contraindicaciones (4)].
+Los estudios epidemiológicos no han encontrado una asociación consistente entre el uso de anticonceptivos orales combinados (AOC) y el riesgo de cáncer de mama. Los estudios no muestran una asociación entre  el  uso  (actual  o  pasado)  de  AOC  y  riesgo  de  cáncer  de  mama.
+Sin embargo, algunos estudios reportan un pequeño incremento en el riesgo de cáncer de mama entre usuarias actuales o recientes (<6 meses desde el último uso) y usuarias actuales con mayor duración de uso de AOC.
+
+Cáncer de cuello uterino
+No se ha establecido claramente una relación causal entre el uso de
+
+AHC y el desarrollo de cáncer de cuello uterino y neoplasia intra-epitelial. En estudios de observación, el uso de anticonceptivos hormonales orales en mujeres durante cinco años o más, en comparación con mujeres que no los usaron, se asoció con un mayor riesgo de cáncer de cuello uterino y neoplasia intra-epitelial. En estos estudios, el uso de anticonceptivos hormonales orales en mujeres durante 10 años o más, en comparación con mujeres que recibieron anticonceptivos hormonales orales durante 5 a 9 años, se asoció con un mayor riesgo de cáncer de cuello uterino y neoplasia intra-epitelial. Las limitaciones de estos estudios epidemiológicos incluyen el posible sesgo de recuerdo, las diferencias en el comportamiento sexual y otros factores, como establecer si había datos sobre infección persistente por el virus del papiloma humano (VPH) de alto riesgo.
+
+Angioedema hereditario
+Se debe evitar el uso de DESTELLE® en mujeres con angioedema hereditario.  Los  estrógenos  exógenos  pueden  inducir  o  exacerbar  los síntomas del angioedema hereditario.
+
+Cloasma
+Se debe evitar el uso DESTELLE® en mujeres con antecedentes de cloasma gravídica o mayor sensibilidad al sol y/o exposición a la radiación ultravioleta. Puede producirse cloasma con el uso de DESTELLE® especialmente en mujeres con antecedentes de cloasma gravídico.
+
+Interacciones
+Efectos de otras drogas sobre los anticonceptivos hormonales Las interacciones farmacológicas clínicamente significativas con otros medicamentos que afectan a DESTELLE® se presentan en la Tabla 5.
+
+Tabla 5. Interacciones farmacológicas clínicamente significativas con otros medicamentos que afectan a DESTELLE®
+
+Inductores de CYP3A
+
+Efecto clínico DRSP es un sustrato de CYP3A4. El uso concomitante con inductores potentes  de  CYP3A  o  ciertos  inductores  moderados  o  débiles  de CYP3A puede disminuir la exposición a DRSP lo que puede conducir a una falla anticonceptiva.
+Inductores fuertes de
+CYP3A
+
+Prevención o
+Manejo
+
+Inductores moderados y débiles de CYP3A
+
+Evitar el uso concomitante. Si el uso concomitante es inevitable, use un método anticonceptivo alternativo (p. ej., sistema intrauterino) o un método anticonceptivo no hormonal de respaldo durante la coadministración y hasta 28 días después de la interrupción del inductor potente de CYP3A.
+Use un método anticonceptivo alternativo o de respaldo durante la coadministración y hasta 28 días después de la interrupción del inductor de CYP3A, a menos que la información de prescripción del inductor de CYP3A moderado o débil específico indique que no existe una interacción clínicamente significativa con DESTELLE®
+
+Inhibidores potentes de CYP3A
+Efecto clínico DRSP  es  un  sustrato  de  CYP3A4.  El  uso  concomitante  con  inhibidores potentes de CYP3A puede aumentar la exposición a DRSP, lo que puede aumentar el riesgo de reacciones adversas a DESTELLE® incluida híperglucemia [ver Precauciones ]
+
+Prevención o
+Manejo
+
+Considere controlar la concentración sérica de potasio en pacientes que tomen un inhibidor potente de CYP3A4 a largo plazo y de forma concomitante con DESTELLE®
+Drogas que pueden reducir la absorción de DESTELLE®
+Efecto clínico
+
+El  uso  concomitante  con  medicamentos  como  secuestradores  de ácidos biliares puede disminuir la exposición a E4 y DRSP, lo que puede  conducir  a  una  falla  anticonceptiva  y/o  a  un  aumento  del sangrado intermenstrual.
+Separe el tiempo de administración de DESTELLE®y el fármaco concomitante. Consulte la información de prescripción del fármaco concomitante para obtener información adicional.
+
+Prevención o
+Manejo
+
+Efectos de DESTELLE® sobre otros medicamentos La tabla 6 incluye interacciones con otros medicamentos clínicamente significativas con DESTELLE® que afectan a otros fármacos.
+
+Tabla  6.  Interacciones  con  otros  medicamentos  clínicamente significativas de DESTELLE® sobre otros fármacos
+
+Medicamentos antidiabéticos
+Efecto clínico
+
+El uso concomitante de DESTELLE® puede reducir el efecto hipoglucemiante de los medicamentos antidiabéticos [ver
+Precauciones )].
+Aumentar la frecuencia del control de la glucosa y la posología del fármaco antidiabético, según sea necesario, en función de los niveles de glucosa.
+
+Fármacos que pueden aumentar la concentración sérica de potasio.
+Efecto clínico
+
+Existe la posibilidad de un aumento en la concentración sérica de potasio en mujeres que toman DESTELLE® junto con otros medicamentos que pueden aumentar la concentración sérica de potasio [ver Precauciones].
+Monitorear la concentración sérica de potasio en mujeres con mayor riesgo de hiperpotasemia
+
+Corticosteroides sistémicos
+Efecto clínico
+
+El uso concomitante de DESTELLE® puede disminuir la exposición a lamotrigina lo que puede reducir la eficacia de lamotrigina.
+Ajuste la dosis de lamotrigina según lo recomendado en la Información de prescripción sobre la base del inicio o la suspensión de DESTELLE®
+
+El uso concomitante de DESTELLE® puede aumentar la exposición a ciertos corticosteroides sistémicos, lo que puede incrementar el riesgo de reacciones adversas relacionadas con los corticosteroides.
+Seguir las recomendaciones para corticosteroides de acuerdo con la Información de prescripción. Considerar efectuar un monitoreo más frecuente de las reacciones adversas relacionadas con los corticosteroides cuando se utilicen concomitantemente con DESTELLE®
+
+Terapia de reemplazo hormonal tiroideo
+Efecto clínico
+
+Prevención o
+Manejo
+
+El uso concomitante de DESTELLE® puede aumentar la concentración de globulina fijadora de tiroxina [ver Precauciones].
+Controlar el nivel de la hormona estimulante de la tiroides (TSH) y seguir la recomendación para el reemplazo de hormona tiroidea de acuerdo con su Información de prescripción
+
+Carcinogénesis, Mutagénesis, Alteraciones de la Fertilidad En  un  estudio  de  carcinogenicidad  oral  de  24  meses  en  ratones  con dosis de hasta 10 mg/kg/día de DRSP, equivalente a 2 veces la expoPrevención o
+Manejo
+
+Prevención o
+Manejo
+Lamotrigina
+Efecto clínico
+
+Prevención o
+Manejo
+
+Prevención o
+Manejo
+
+sición clínica máxima (sobre la base del AUC), hubo un aumento en los carcinomas de la glándula de Harder en el grupo DRSP a dosis elevadas.
+En un estudio similar en ratas que recibieron dosis de hasta 10 mg/kg/ día de DRSP, 10 veces la exposición clínica máxima (sobre la base del AUC), hubo una mayor incidencia de feocromocitomas benignos y totales (benignos y malignos) de las glándulas suprarrenales en el grupo
+DRSP a dosis elevadas.
+Se realizaron estudios in vivo e in vitro de mutagénesis para DRSP y no se observó evidencia de actividad mutagénica. No se considera que E4 sea genotóxico sobre la base del peso de la evidencia recogida en los estudios de mutagénesis in vivo e in vitro.
+
+Embarazo
+Interrumpa el tratamiento con DESTELLE® si se produce un embarazo, ya que no hay razón para usar anticonceptivos hormonales durante el embarazo [ver Contraindicaciones]. Los estudios epidemiológicos y los meta-análisis realizados no han encontrado un mayor riesgo de anomalías congénitas genitales o no genitales, (incluidas anomalías cardíacas y defectos de reducción de las extremidades) tras la exposición a los AOC antes de la concepción o durante el inicio de embarazo. Los estudios de toxicidad reproductiva llevados a cabo con E4 solo han mostrado efectos farmacológicos esperados en animales, que se consideran consistentes con la exposición a estrógenos.
+En la población de EE. UU., los antecedentes de riesgos estimados de defectos congénitos importantes y de aborto espontáneo en embarazos clínicamente reconocidos es del 2 al 4 por ciento y del 15 al 20 por ciento, respectivamente.
+
+Lactancia
+La hormona anticonceptiva y/o sus metabolitos están presentes en la leche humana. Los AOC pueden reducir la producción de leche en mujeres lactantes. La reducción puede ocurrir en cualquier momento, pero es menos probable que ocurra una vez que la lactancia materna está bien establecida. Siempre que sea posible, se debe aconsejar a la mujer lactante que utilice otros métodos anticonceptivos hasta que deje de amamantar [ver Posología y modo de administración]. Los beneficios para el desarrollo y la salud de la lactancia materna se deben considerar junto con la necesidad clínica de la madre de recibir DESTELLE® y cualquier posible efecto adverso en el lactante producido por DESTELLE® o por la afección materna subyacente.
+Después de la administración oral de DRSP 3 mg/EE 30 μg, alrededor del 0,02 % de la dosis de DRSP se excretó en la leche materna de las mujeres dentro de las 24 horas posparto. Esto da como resultado una dosis potencial diaria máxima de menos de 1 μg de DRSP en un lactante.
+
+Empleo en pediatría
+Se ha establecido la seguridad y eficacia de drospirenona-estetrol en mujeres en edad reproductiva. de 16-50 años de edad. No está indicado el uso de DESTELLE® con anterioridad a la menarca.
+
+Empleo en ancianos
+No se ha estudiado el uso de DESTELLE® en mujeres post-menopáusicas y no está indicado en esta población.
+
+Insuficiencia hepática
+ DESTELLE® está contraindicado en mujeres con insuficiencia hepática [ver Contraindicaciones, Precauciones]. La exposición media de DRSP
+
+en  mujeres  con  insuficiencia  hepática  moderada  es  de  aproximadamente tres veces mayor que la exposición en mujeres con función hepática normal. No se ha estudiado el uso de DESTELLE® en mujeres con insuficiencia hepática grave.
+
+Insuficiencia renal
+DESTELLE® está contraindicado en mujeres con insuficiencia renal [ver
+Contraindicaciones, Precauciones].
+En pacientes con clearance de creatinina (CLcr) de 50-79 ml/min, los niveles séricos de DRS fueron comparables con los de aquéllos en el grupo control con CLcr ≥ 80 ml/min. En sujetos con CLcr de 30-49 ml/ min, las concentraciones séricas de DRSP fueron en promedio 37% más elevadas que los sujetos en el grupo control. Asimismo, existe un potencial para desarrollar híperpotasemia en sujetos con insuficiencia renal cuyo potasio sérico se encuentra en el rango de referencia superior y que estén usando fármacos ahorradores de potasio en forma concomitante [ver Precauciones, Interacciones con otros medicamentos y otras formas de interacción].
+
+Raza/Etnia
+No se observaron diferencias clínicamente significativas entre la farmacocinética de E4 o DRSP en función de la raza.
+
+Índice de masa corporal (IMC/Peso corporal)
+No se ha evaluado adecuadamente la seguridad y eficacia de drospirenona-estetrol en mujeres con un IMC ≥ 35kg/m2.
+
+REACCIONES ADVERSAS
+
+Las  siguientes  reacciones  adversas  clínicamente  significativas  con  el uso de AOC se analizan en la sección de Advertencias y precauciones de este prospecto:
+• Eventos cardiovasculares graves, incluidos tromboembolismo venoso
+
+y arterial.
+
+• Hiperpotasemia.
+• Enfermedad hepática.
+ Debido a que los ensayos clínicos se llevan a cabo en condiciones muy variables, las tasas de reacciones adversas observadas en los ensayos clínicos de un fármaco no pueden compararse directamente con las tasas de los ensayos clínicos de otro fármaco y es posible que no reflejen las tasas observadas en la práctica.
+Los  datos  proporcionados  reflejan  la  experiencia  recogida  con  el  uso de  drosperinona-estetrol  en  dos  grandes  estudios  prospectivos  para la prevención del embarazo en mujeres de 16 a 50 años de edad. La duración media de la exposición al medicamento fue de 317 y 257 días para los estudios respectivos. La población del estudio tenía una edad promedio de 27 años, con un IMC medio de 25 kg/m2. La distribución racial fue la siguiente: 83% Blanca: 11% Negra; 3% Asiática; y 3% Otras.
+
+Tabla 8 - Reacciones adversas que ocurrieron en el 2% de las mujeres que recibierondrosperinona-estetrol en dos estudios clínicos
+
+Término preferido
+ (TP)
+
+Cualquier reacción adversa•••
+
+Participantes con reacciones adversas en un ensayo de fase 3
+ (n [%]) (N = 2073)*
+
+Participantes con reacciones adversas en dos ensayos de fase 3
+(n [%]) (N=3632)**
+
+1205 (58.1)
+
+2126 (58,5)
+
+Alteración del estado de ánimo 1
+
+226 (10,9)
+
+Sangrado irregular 2
+
+201 (9.7)
+
+Síntomas en las mamas3
+
+Cefalea 4
+
+Dismenorreas5
+
+Aumento de peso6
+
+Acné 7
+
+Libido disminuida/ perdida 8
+
+110 (5,3)
+
+100 (4,8)
+
+84 (4.1)
+
+68 (3,3)
+
+66 (3,2)
+
+27 (1,3)
+
+329 (9.1)
+
+393 (10,8)
+
+197 (5.4)
+
+227 (6.3)
+
+133 (3,7)
+
+108 (3,0)
+
+136 (3,7)
+
+72 (2,0)
+
+*Representa la población para análisis de seguridad de uno de los estudio **Representa la población para análisis de seguridad de dos estudios para DRSP/E4.
+***Cualquier reacción adversa equivale a cualquier evento adverso ≥ 2%.
+
+1. Incluye TP: trastorno de adaptación, trastorno afectivo, agitación, ira, ansiedad, estado depresivo, depresión, síntoma depresivo, desorientación,  trastorno  emocional,  angustia  emocional,  estado  de  ánimo eufórico, trastorno de ansiedad generalizada, insomnio, irritabilidad, estado de ánimo alterado, cambios de humor, nerviosismo, ataque de pánico, trastorno de pánico, miedo al desempeño, inquietud, trastorno del sueño, estrés, ideación suicida, llanto.
+
+2. Incluye  TP:  sangrado  por  deprivación  anormal,  amenorrea,  hemorragia  del  cuello  uterino,  sangrado  coital,  sangrado  uterino disfuncional,  menometrorragia,  menorragia,  trastorno  menstrual, menstruación irregular, metrorragia, oligomenorrea, polimenorrea, hemorragia uterina, hemorragia vaginal.
+
+3. Incluye  TP:  anisomastia,  quiste  mamario,  decoloración  mamaria, malestar mamario, trastorno mamario, congestión mamaria, agrandamiento  mamario,  masa  mamaria,  edema  mamario,  dolor  en  las mamas,  hinchazón  mamaria,  sensibilidad  mamaria,  enfermedad flbroquística de las mamas, galactorrea, ginecomastia, mastoptosis, trastorno del pezón, dolor en el pezón.
+
+4. Incluye TP: cefalea, cefalea premenstrual y cefalea tensional.
+5. Incluye  TP:  dolor  de  anexos  uterinos,  dismenorrea,  calambres  premenstruales, malestar pélvico, dolor pélvico, espasmo uterino.
+
+6. Incluye TP: aumento de peso, fluctuación de peso, aumento del índice de masa corporal, pérdida de peso deficiente y obesidad.
+
+7. Incluye TP: acné y acné quístico.
+8. Incluye TP: disminución de la libido y pérdida de la libido.
+
+Reacciones adversas que llevaron a la interrupción del estudio (>1 %)
+De las 3.632 mujeres enroladas en dos estudios clínicos para la prevención del embarazo en mujeres de 16 a 50 años de edad, el 8,6 % discontinuó  debido  a  una  reacción  adversa;  la  reacción  adversa  más frecuente que motivó la discontinuación fue sangrado irregular (2,8%).
+Seis  sujetos  (0,17  %)  discontinuaron  su  participación  en  el  estudio debido a la nueva aparición de migraña con aura; dos sujetos (0,05%)
+discontinuaron debido a migraña intensa.
+
+Desórdenes tromboembólicos y otros problemas vasculares Durante los dos estudios, se notificó un evento tromboembólico en una mujer que había estado tomando drosperinona-estetro durante 75 días y tenía un IMC normal < 25 kg/m2.
+
+Depresión
+En uno de los estudios, 36 (1,7 %) sujetos informaron depresión mientras usaban drosperinona-estetrol. A nueve (0,3 %) sujetos se les retiró el medicamento como resultado de síntomas de depresión.
+
+Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https:// www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+Siguiendo pautas internacionales, el producto DESTELLE® se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia diseñadas  para  identificar,  caracterizar,  prevenir  o  minimizar  riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+SOBREDOSIS
+
+La  sobredosis  de  los  AHC  puede  causar  náuseas,  vómitos  y  cefalea intensas. Se han producido informes individuales de complicaciones tromboembólicas y sangrado vaginal debidas a sobredosis. En pacientes pediátricos que ingirieron AHC en forma no intencional se informaron náuseas y vómitos y algunos desarrollaron irritabilidad y somnolencia;
+en raras ocasiones se describieron casos de sangrado vaginal.
+
+Recomendaciones para el manejo de sobredosis Se  debe  considerar  la  administración  de  una  terapia  anticoagulante profiláctica  a  corto  plazo  para  pacientes  con  alto  riesgo  de  TEV.  Monitorear los niveles de potasio y sodio séricos y verificar evidencia de acidosis metabólica.
+
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA “DR. RICARDO GUTIÉRREZ”
+Tel.: (011) 4962-6666/2247
+
+HOSPITAL “DR. A. POSADAS”
+Tel.: (011) 4654-6648/4658-7777
+
+CENTRO NACIONAL DE INTOXICACIONES
+Tel.: 0800-333-0160
+Optativamente otros centros de Intoxicaciones.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+PRESENTACIONES
+
+Envase conteniendo 1 blíster por 28 comprimidos recubiertos (24 activos de color rosa + 4 placebos de color blanco).
+
+Información para la paciente
+
+Composición
+Cada comprimido recubierto rosa de DESTELLE® (activo) contiene:
+Drospirenona .............................................................................3,000 mg Estetrol .....................................................................................14,200 mg
+Excipientes
+Lactosa monohidrato..............................................................39,600 mg Almidón de maíz .....................................................................14,400 mg
+Povidona K25 ............................................................................4,000 mg Sodio almidón glicolato ........................................................... 3,200 mg
+Estearato de magnesio vegetal ...............................................0,800 mg Óxido de hierro rojo (CI 77491) ...............................................0,004 mg
+Hidroxipropilmetilcelulosa1) .....................................................1,194 mg Triacetina1) .................................................................................. 0,237 mg
+Dióxido de titanio1) ....................................................................0,465 mg Cera carnauba2) .........................................................................0,006 mg
+Cera blanca2) ..............................................................................0,006 mg Goma laca2) ..........................................................................        0,012 mg
+1)  Componente de Aquarius BAT 218006 white 1,896 mg
+2)  Componente de Opaglos GS-2-0700 0,024 mg
+
+Cada  comprimido  recubierto  blanco  de  DESTELLE®  (placebo)
+contiene:
+Celulosa microcristalina PH 102 ........................................... 74,250 mg Estearato de magnesio vegetal ............................................... 0,750 mg
+Hidroxipropilmetilcelulosa 3cP1) ...........................................  0,568 mg Hidroxipropilmetilcelulosa 6cP1) ............................................0,568 mg
+Polietilenglicol1) .......................................................................0,1520 mg Polisorbato 801) .......................................................................0,0190 mg
+Dióxido de titanio1) .................................................................... 0,594 mg Cera carnauba2) .........................................................................0,006 mg
+Cera blanca2) ..............................................................................0,006 mg Goma laca2) .................................................................................0,012 mg
+1)  Componente de Opadry YS-1-7003 Blanco 1,900 mg
+2)  Componente de Opaglos GS-2-0700 0,024 mg
+
+• Sírvase leer esta información antes de comenzar a tomar el medicamento, aun cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información nueva (o alguna información puede haber cambiado).
+
+• Si tiene alguna duda, consulte a su médico.
+• Este medicamento se le ha recetado solamente a usted, y no debe dárselo a otras personas aunque tengan los mismos síntomas que usted, ya que puede perjudicarles.
+
+• Si experimenta efectos adversos, consulte a su médico, incluso si se
+
+trata de efectos adversos que no aparecen en este prospecto.
+
+• Esta información no reemplaza el hablar con su médico acerca de su
+
+enfermedad o el tratamiento.
+
+1. ¿Cuál es la información más importante que debo saber
+
+sobre este producto?
+
+No use DESTELLE® si fuma y tiene más de 35 años. Fumar aumenta el riesgo de efectos secundarios cardiovasculares graves (problemas cardíacos y de los vasos sanguíneos) derivados de las píldoras anticonceptivas, incluida la muerte por infarto cardíaco, coágulos de sangre o derrames cerebrales. El riesgo aumenta con la edad y el número de cigarrillos que fuma
+
+2. ¿Qué es y para que se utiliza este producto?
+DESTELLE® es un anticonceptivo hormonal combinado que contiene 3 mg de drospirenona y 14,2 mg de estetrol, y se utiliza para prevenir el embarazo en mujeres en edad fértil. Actúa inhibiendo la ovulación, engrosando el moco cervical y alterando el revestimiento del útero, lo que dificulta la implantación del óvulo fecundado.
+• DESTELLE® no protege contra las infecciones por VIH (SIDA) y contra
+
+otras infecciones de transmisión sexual.
+
+• DESTELLE® puede ser menos efectivo si tiene un IMC de 30 o más. En mujeres con un IMC de 30 o más, DESTELLE® puede volverse menos efectivo a medida que aumenta su IMC.
+
+• Se desconoce si DESTELLE® es seguro y eficaz en mujeres con un IMC
+
+de 35 o superior.
+
+3.  ¿Qué  es  lo  que  debo  saber  antes  de  tomar  DESTELLE®  y
+
+durante el tratamiento?
+
+- ¿Quiénes no deben tomar/usar DESTELLE®?
+No tome DESTELLE® si usted:
+• fuma y tiene 35 años de edad y más.
+• tiene o ha tenido coágulos de sangre en sus brazos, piernas, pulmones
+
+u ojos.
+
+• tiene un problema con su sangre que hace que se coagule más de lo
+
+normal.
+
+• tiene ciertos problemas en las válvulas del corazón o latidos cardíacos irregulares que aumentan el riesgo de tener coágulos de sangre.
+
+• tuvo un derrame cerebral.
+• tuvo un ataque al corazón.
+• tiene  presión  arterial  alta  que  no  se  puede  controlar  con  medicamentos o tiene presión arterial alta con problemas en los vasos sanguíneos.
+• tiene diabetes:
+
+–  con presión arterial alta o daños en los riñones, los ojos, los nervios
+
+o los vasos sanguíneos, o –  durante más de 20 años.
+
+• tiene ciertos tipos de migrañas intensas con aura.
+• tiene problemas hepáticos, incluidos tumores hepáticos.
+• tiene cualquier sangrado vaginal inesperado
+• tiene o ha tenido cáncer de mama o cualquier tipo de cáncer sensible
+
+• Este medicamento debe ser indicado por su médico y prescripto bajo
+
+a las hormonas femeninas
+
+una receta médica
+
+• tiene enfermedad renal o insuficiencia renal
+
+• tiene función reducida de la glándula suprarrenal (insuficiencia suprarrenal)
+
+• toma cualquier combinación de medicamentos para la hepatitis c que contenga ombitasvir/parltaprevlr/ritonavir, con o sin dasabuvir.
+Esto puede aumentar los niveles de la enzima hepática “alanina aminotransferasa” (ALT) en la sangre.
+
+Si ocurre alguna de estas afecciones mientras está tomando DESTELLE®, deje  de  tomar  DESTELLE®  de  inmediato  y  hable  con  su  médico.  Utilice  métodos  anticonceptivos  no  hormonales  cuando  deje  de  tomar
+DESTELLE®.
+
+- ¿Qué debo informar a mi médico antes de tomar/usar DESTELLE®?
+Antes de tomar DESTELLE®, dígale a su médico si:
+• tiene programada una cirugía. DESTELLE® puede aumentar su riesgo de coágulos de sangre después de la cirugía. Hable con su médico sobre tomar DESTELLE® antes y después de su cirugía o en caso de que no pueda caminar durante un período prolongado (inmovilizado).
+• está deprimida en la actualidad o ha estado deprimida anteriormente.
+• ha tenido coloración amarillenta en la piel o los ojos (ictericia) causada por el embarazo (colestasis del embarazo).
+
+• está embarazada o cree que puede estar embarazada.
+• está amamantando o planea amamantar. DESTELLE® puede disminuir la cantidad de leche materna que produce. DESTELLE® puede pasar a la leche materna. Hable con su médico sobre el mejor método anticonceptivo para usted mientras amamanta.
+
+No se sabe si las píldoras anticonceptivas hormonales causan cáncer de mama. Algunos estudios, pero no todos, sugieren que podría haber un ligero aumento en el riesgo de cáncer de mama entre las usuarias que lo utilizaron por períodos prolongados.
+Si tiene cáncer de mama ahora, o lo ha tenido en el pasado, no use anticonceptivos hormonales porque algunos cánceres de mama son sensible a las hormonas.
+Las mujeres que usan píldoras anticonceptivas pueden tener una probabilidad ligeramente mayor de contraer cáncer de cuello uterino. Sin embargo, esto puede deberse a otras razones tales como tener más parejas sexuales.
+
+- ¿Puedo tomar DESTELLE® con otros medicamentos?
+Informe a su médico sobre todos los medicamentos que está tomando, incluidos los medicamentos de venta bajo receta y de venta libre, las vitaminas y los suplementos a base de hierbas. Si actualmente recibe un tratamiento diario a largo plazo para una afección crónica con alguno de los siguientes medicamentos, debe hablar con su médico antes de tomar DESTELLE®:
+• Inductores de CYP (aprepitant, barbitúricos, bosentán, carbamazepina, efavirenz, felbamato, griseofulvina, oxcarbazepina, fenitoína, rifampicina, ribavirina, topiramato, productos que contienen hierba de San Juan y otros)
+
+• Inhibidores de CYP (itraconazol, voriconazol, fluconazol, ketoconazol
+
+y otros)
+
+• Suplementos con potasio
+• Corticoesteroides
+
+DESTELLE®  puede  afectar  la  forma  en  que  actúan  otros  medicamentos y en que otros medicamentos pueden afectar la eficacia de
+DESTELLE®.
+Sepa qué medicamentos está tomando. Lleve una lista de los mismos para mostrarle a su médico.
+
+4. ¿Cómo debo tomar destelle®?
+La vía de administración de DESTELLE® es oral. Tome DESTELLE® exactamente como se lo indicó su médico, a las horas del día que correspondan respetando la dosis y duración.
+• Tome 1 píldora todos los días a la misma hora. Tome las píldora en el
+
+orden indicado en su blíster.
+
+• Trague  las  píldoras  de  color  rosa  y  las  píldoras  blancas  enteras.
+
+Puede tomar DESTELLE® con o sin alimentos.
+
+• No omita sus píldoras, incluso si no tiene relaciones sexuales con frecuencia.  Si  olvida  tomar  las  píldoras  (incluso  si  comienza  a  tomarlas en forma tardía), podría quedar embarazada. Cuantas más píldoras olvide tomar, más probable será que quede embarazada.
+• Si  tiene  problemas  para  recordar  tomar  DESTELLE®,  hable  con  su médico.  Cuando  comience  a  tomar  DESTELLE®  por  primera  vez, pueden  aparecer  manchado  o  sangrado  leve  entre  sus  períodos.
+Póngase en contacto con su médico si esto no desaparece después de unos meses.
+
+• Algunas mujeres no tienen períodos menstruales mientras toman anticonceptivos  hormonales,  incluso  cuando  no  están  embarazadas. Sin embargo, si no tiene un período y no ha tomado DESTELLE® de acuerdo con las instrucciones provistas, si no tiene 2 períodos seguidos o si siente que puede estar embarazada, llame a su médico. Si la prueba de embarazo le da positiva, debe dejar de tomar
+DESTELLE®.
+
+• Si tiene vómitos o diarrea (dentro de las 3 a 4 horas posteriores a la toma de una píldora activa color rosa), tome lo antes posible otra píldora activa color rosa programada para el día siguiente. Si es posible, tome la nueva píldora activa color rosa dentro de las 12 horas posteriores a la hora en que la toma habitualmente. Si olvida más de 2 píldoras activa color rosa, siga las instrucciones de”¿Qué debo hacer si olvido tomar algún comprimido de DESTELLE®?”
+
+• Si tiene vómitos o diarrea durante más de 2 días (48 horas) seguidos, o si toma ciertos medicamentos, incluidos algunos antibióticos y algunos productos herbales como la hierba de San Juan, es posible que sus píldoras no funcionen tan bien. Use un método anticonceptivo no hormonal adicional, como condones o espermicida, hasta que hable con su médico.
+
+• Hable con su médico antes de someterse a una cirugía mayor. Asegúrese de usar otra forma de control de la natalidad no hormonal (como condones o espermicida) si su médico le indica que suspenda
+DESTELLE® antes de su cirugía.
+
+• Inhibidores de la proteasa del virus del VIH/hepatitis C e inhibidores no nucleósidos de la transcriptasa inversa (nelfinavir, ritonavir, boceprevir, telaprevir, indinavir, nevirapina, etravirina y otros)
+
+• Lamotrigina
+• Diuréticos ahorradores de potasio (espironolactona y otros)
+
+Antes de empezar a tomar DESTELLE®
+• Decida a qué hora del día quiere tomar su píldora. Es importante tomarla a la misma hora todos los días y en el orden indicado en el blíster.
+
+• Tenga  a  disposición  un  método  anticonceptivo  no  hormonal  de
+
+respaldo (como condones o espermicida) y, si es posible, una caja adicional completa de píldoras.
+
+¿Cuándo debo empezar a tomar DESTELLE®?
+Si comienza a tomar DESTELLE® y no ha usado un método anticonceptivo hormonal anteriormente:
+• Comience el primer día (Día 1) de su período menstrual natural (Inicio - Día 1). No necesita un método anticonceptivo no hormonal de respaldo.
+
+• Si comienza a tomar DESTELLE® cualquier día que no sea el primer día de su período menstrual natural, use un método anticonceptivo no hormonal de respaldo (como condones o espermicida) hasta que haya tomado una (1) píldora activa (rosa) cada día durante siete (7) días.
+
+Si comienza a tomar DESTELLE® y está cambiando desde otro método de control de la natalidad:
+• Comience su nueva caja de DESTELLE® el mismo día que comenzaría
+
+el siguiente envase de su método anticonceptivo anterior.
+
+• No continúe tomando las píldoras de su caja de anticonceptivos anterior.
+
+Si comienza a tomar DESTELLE® y anteriormente usó un anillo vaginal
+
+o un parche transdérmico:
+
+• Comience a usar DESTELLE® el día en que se habría vuelto a aplicar
+
+el parche o se habría insertado el anillo vaginal.
+
+Si comienza a tomar DESTELLE® y está cambiando desde un método de progestágeno únicamente, tal como un implante o una inyección:
+• Comience a tomar DESTELLE® el día de la extracción de su implante
+
+o el día en que le habrían aplicado la siguiente inyección.
+
+Si comienza a tomar DESTELLE® y está cambiando desde un dispositivo o sistema intrauterino (DIU o SIU):
+• Comience a tomar DESTELLE® el día de la extracción de su DIU.o SIU.
+• No necesita un método anticonceptivo no hormonal de respaldo si le quitaron el DIU o el SIU el primer día (Día 1) de su período. Si le quitan el DIU o el SIU cualquier otro día, use un método anticonceptivo no hormonal de respaldo, como condones o espermicidas, durante los primeros 7 días de la administración de DESTELLE®.
+
+Si empieza a tomar DESTELLE® después de haber dado a luz y tenía más de 20 semanas de embarazo:
+• No comience DESTELLE® antes de las 4 semanas después de haber
+
+dado a luz.
+
+• Si sus ciclos menstruales han regresado, consulte “Si comienza a tomar DESTELLE® y no ha usado un método anticonceptivo hormonal anteriormente”.
+
+• Si no ha vuelto a tener sus ciclos menstruales, use métodos anticonceptivos no hormonales adicionales (como condones o espermicidas)
+durante los primeros 7 días en que tome DESTELLE®.
+
+Si comienza a tomar DESTELLE® después de un aborto o aborto espontáneo y tenía 14 semanas de embarazo o menos:
+• Si se encuentra dentro de los primeros 7 días del aborto o aborto
+
+espontáneo:
+–  Use métodos anticonceptivos no hormonales adicionales, como condones  o  espermicidas,  durante  los  primeros  7  días  en  que
+
+tome DESTELLE®.
+
+• Después de los primeros 7 días después de un aborto o aborto espontáneo:
+–  Consulte “Si comienza a tomar DESTELLE® y no ha usado un método anticonceptivo hormonal anteriormente”.
+
+Si comienza a tomar DESTELLE® después de un aborto o aborto espontáneo y tenía más de 14 semanas de embarazo, pero llevaba 20 semanas o menos de embarazo:
+• Comience DESTELLE® después de 4 semanas tras el aborto o aborto
+
+espontáneo.
+
+• Si ha vuelto a tener sus ciclos menstruales, consulte “Si comienza a tomar DESTELLE® y no ha usado un método anticonceptivo hormonal anteriormente”.
+
+• Si no ha tenido nuevamente sus ciclos menstruales, use un método anticonceptivo no hormonal adicional (como condones o espermicida)
+durante los primeros 7 días en que tome DESTELLE®.
+
+Lleve un calendario para tener un registro de su período menstrual.
+Si es la primera vez que toma píldoras anticonceptivas, lea la sección anterior “¿Cuándo debo comenzar a tomar DESTELLE®.?” y siga estas instrucciones.
+
+Antes de empezar a tomar DESTELLE®
+• Decida a qué hora del día quiere tomar su píldora. Es importante
+
+tomarla aproximadamente a la misma hora todos los días.
+
+• Observe  su  caja  de  comprimidos  DESTELLE®.  El  envase  tiene  24 comprimidos  recubiertos  (o  píldoras)  “activas”  de  color  rosa  (con hormonas) que debe tomar durante 3 semanas y 3 días, seguidas de 4 comprimidos recubiertos (o píldoras) blancas “inactivas” (sin hormonas).
+
+Comienzo - día 1: coloque la tira de la etiqueta del día que comienza con el primer día de su período.  No  consuma  alcohol  mientras  se encuentra en tratamiento con DESTELLE®
+No cambie sus dosis como así tampoco suspenda la administración de DESTELLE® sin consultar primero con su médico.
+
+- ¿Qué debo hacer en caso de sobredosis?
+Si toma más de la dosis recetada de DESTELLE®, consulte a su médico o al centro de intoxicaciones:
+
+HOSPITAL DE PEDIATRÍA “DR. RICARDO GUTIERREZ”
+Tel.: (011) 4962-6666/2247
+HOSPITAL “DR. A. POSADAS”
+Tel.: (011) 4654-6648/4658-7777
+CENTRO NACIONAL DE INTOXICACIONES
+Tel.: 0800-333-0160
+
+-¿Qué debo hacer si olvido tomar alguna píldora de DESTELLE®?
+Si olvida 1 píldora activa de color rosa en las semanas 1, 2 o 3, siga estos pasos:
+• Tómela tan pronto como lo recuerde. Tome la siguiente píldora a la hora habitual. Esto significa que puede tomar 2 píldoras en 1 día.
+• Luego continúe tomando 1 píldora todos los días hasta terminar el
+
+envase.
+
+• No necesita usar un método anticonceptivo no hormonal de respaldo
+
+si tiene relaciones sexuales.
+
+Si olvida 2 o más píldoras activas de color rosa de su envase, en la semana 1 o en la semana 2, siga los siguientes pasos:
+• Tome 1 píldora omitida lo antes posible y tome la píldora programada para el día de la fecha (lo que significa que tomará 2 píldoras en 1 día).
+
+• Deseche las otras píldoras omitidas.
+• Luego continúe tomando 1 píldora por día hasta terminar el envase.
+• Use  un  método  anticonceptivo  no  hormonal  de  respaldo  (como condones  o  espermicida)  si  tiene  relaciones  sexuales  durante  los primeros 7 días después de olvidar tomar sus píldoras.
+
+Si olvida tomar 2 píldoras activas de color rosa consecutivas de su envase en la semana 3, siga estos pasos:
+• Tome 1 píldora omitida lo antes posible y tome la píldora programada para el día de la fecha (lo que significa que tomará 2 píldoras en 1 día
+
+• Descarte las demás píldoras omitidas
+• Continúe tomando 1 píldora por día hasta terminar las píldoras activas de  color  rosa  del  envase.  Luego,  descarte  del  envase  las  píldoras placebo blancas.
+
+• Comience un nuevo envase de píldoras al día siguiente.
+• Si este mes no tiene su período, llame a su médico ya que podría
+
+estar embarazada.
+
+• Podría  quedar  embarazada  si  tiene  relaciones  sexuales  durante los primeros 7 días tras reiniciar el tratamiento con sus píldoras.
+Debe  usar  un  método  anticonceptivo  no  hormonal  de  respaldo
+(como  condones  o  espermicida)  si  tiene  relaciones  sexuales  durante  los  primeros  7  días  después  de  reiniciar  la  ingesta  de  sus píldoras.
+
+Si olvida tomar 1 o más píldoras inactivas blancas, siga estos pasos:
+• Omita los días en que olvidó tomar sus píldoras.
+• Siga tomando 1 píldoras por día hasta terminar el envase.
+Si tiene alguna pregunta o duda sobre la información contenida en este prospecto, llame a su médico.
+
+5. ¿Cuáles son los efectos adversos que puede tener DESTELLE®?
+DESTELLE® puede causar efectos secundarios graves, incluidos coágulos de sangre en sus pulmones, ataque al corazón o derrame cerebral que puede conducir a la muerte. Algunos otros ejemplos de coágulos de sangre graves incluyen coágulos de sangre en las piernas o en los ojos. Pueden producirse coágulos de sangre graves, especialmente si fuma, tiene obesidad, presión arterial alta, diabetes, colesterol alto o tiene más de 35 años. Es más probable que se produzcan coágulos de sangre graves si:
+• es la primera vez que empieza a tomar píldoras anticonceptivas
+• vuelve a tomar las mismas píldoras anticonceptivas u otras diferentes
+
+después de no haberlas usado durante un mes o más tiempo
+
+Llame a su médico o vaya a la sala de emergencias de un hospital de inmediato si tiene:
+• dolor en las piernas que no desaparece
+• dificultad para respirar repentina y severa
+• cambio repentino en la visión o ceguera
+• dolor en el pecho
+
+• cefalea intensa y repentina diferente de las cefaleas habituales
+• debilidad o entumecimiento en brazos o piernas
+• problemas en el habla
+
+Otros efectos secundarios graves incluyen:
+• niveles  elevados  de  potasio  en  sangre  (hiperpotasemia).  Ciertos medicamentos y afecciones también pueden aumentar los niveles de potasio en sangre. Su médico puede controlar los niveles de potasio en su sangre durante el tratamiento con DESTELLE®. Llame a su médico o vaya a la sala de emergencias de un hospital de inmediato si tiene signos o síntomas de niveles altos de potasio en la sangre, que incluyen:
+–  debilidad o entumecimiento en brazos o piernas –  palpitaciones  (sentir  que  el  corazón  se  le  acelera  o  se  agita)  o
+
+latidos cardíacos irregulares
+
+–  náuseas
+–  vómitos
+–  dolor intenso en el pecho
+–  dificultad para respirar
+
+•  hipertensión. Debe ver a su médico para controlar su presión arterial con regularidad.
+
+• cefaleas no preexistentes o que empeoran, incluidas cefaleas por
+
+migraña.
+
+• posible cáncer sensible a las hormonas femeninas, como cáncer de mama, cáncer de piel (melanoma), cáncer de pulmón y cáncer de cerebro.
+
+• problemas hepáticos, incluidos los siguientes:
+
+–  aumento de las enzimas hepáticas en la sangre
+–  tumores hepáticos raros
+–  ictericia. Llame a su médico si tiene la piel o los ojos amarillentos.
+• cambios en los niveles de azúcar y grasas (colesterol y triglicéridos)
+
+en su sangre.
+
+• problemas de la vesícula biliar (colestasis), especialmente si anteriormente ha tenido colestasis del embarazo.
+
+• sangrado vaginal o manchado irregular o inusual entre sus períodos menstruales, especialmente durante los primeros 4 meses de tomar DESTELLE®, o ausencia de períodos menstruales
+
+• Depresión
+• posible cáncer en el cuello uterino
+• hinchazón de la piel, especialmente alrededor de la boca, los ojos y la garganta (angioedema). Llame a su médico de inmediato si tiene la cara, los labios, la boca, la lengua o la garganta hinchados, lo que puede ocasionar dificultad para tragar o respirar. Su probabilidad de tener angioedema es mayor si tiene antecedentes de angioedema.
+
+• manchas oscuras en la piel alrededor de la frente, la nariz, las mejillas  y  alrededor  de  la  boca,  especialmente  durante  el  embarazo
+(cloasma). Las mujeres que tienden a contraer cloasma deben evitar pasar mucho tiempo expuestas a la luz solar, cabinas de bronceado y lámparas solares mientras toman DESTELLE®. Use protector solar si tiene que estar bajo la luz del sol.
+
+¿Cuáles son los efectos secundarios más comunes de DESTELLE®?
+Los efectos secundarios más comunes de DESTELLE® incluyen:
+• sangrado vaginal irregular (incluida ausencia del período)
+• cambios de humor
+
+• cefalea
+• sensibilidad, dolor e incomodidad en los senos
+• dolor durante los períodos menstruales
+• acné
+• aumento de peso
+• disminución del deseo sexual
+Estos no son todos los posibles efectos secundarios de DESTELLE®.
+Llame a su médico para obtener mayor información sobre los efectos secundarios.
+
+Comunicación de efectos adversos
+Este prospecto resume la información más importante de DESTELLE®.
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto.
+
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes  o  llamar  a
+ANMAT responde 0800-333-1234”.
+
+También  puede  comunicarse  al  Departamento  de  Farmacovigilancia Gador S.A., a farmacovigilancia@gador.com o teléfono 0800-220-2273.
+Mediante la comunicación de efectos no deseados usted puede contribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este medicamento.
+Siguiendo pautas internacionales, el producto DESTELLE®. se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la
+ANMAT.
+
+PGR: Conjunto de actividades e intervenciones en Farmacovigilancia diseñadas para identificar, caracterizar, prevenir o minimizar riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+6. Condiciones de conservación y almacenamiento de DESTELLE® Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+7. Presentaciones de DESTELLE®
+Envase  conteniendo  1  blíster  por  28  comprimidos  recubiertos  (24 activos de color rosa + 4 placebos de color blanco).
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Para acceder a la última versión del Prospecto e Instructivo Paciente escanee el código
+
+Visitá nuestro sitio:
+www.gador.com/productos
+
+O envianos tu consulta a:
+info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel: 4858-9000.
+
+Elaborado en: Ruta 8, Km 60, Calle 10, Parque Industrial Pilar, Buenos Aires, Argentina.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado N° 60.120. Fecha de última revisión: 04/2024
+G00241300-00

@@ -1,0 +1,233 @@
+ELANT®
+TENELIGLIPTINA
+
+Industria Argentina
+Venta Bajo Receta
+
+COMPRIMIDOS
+RECUBIERTOS
+
+Fórmula
+Cada  comprimido  recubierto  contiene:  TENELIGLIPTINA  20,00  mg  (como  teneligliptina bromhidrato  31  mg).  Excipientes:  celulosa  microcristalina  65  mg;  manitol  65,5  mg;
+crospovidona 18 mg; hidroxipropilcelulosa 1,5 mg; croscarmelosa sódica 12 mg; talco 4 mg; estearato de magnesio 3 mg. Cubierta: alcohol polivinilico 1,6 mg; dióxido de titanio
+1 mg; polietilenglicol 3000 0,8 mg; talco 2,1 mg; polietilenglicol 6000 0,5 mg
+
+Acción Terapéutica: la teneligliptina es un hipoglucemiante oral, inhibidor de la dipeptidil peptidasa 4 (DPP-4).
+Clase ATC: A10BH.
+
+Indicaciones:  ELANT  está  indicado  para  mejorar  el  control  de  la  glucemia  en  los pacientes  adultos  con  diabetes  tipo  2,  que  no  hayan  respondido  adecuadamente  al tratamiento con dieta y ejercicio, ni al agregado de biguanidas, sulfonilureas, ni tiazolidinedionas.
+
+Acción Farmacológica
+Mecanismo de acción: el péptido similar al glucagón tipo 1 (GLP-1) es secretado por el tracto  gastrointestinal  en  respuesta  a  los  alimentos,  promueve  la  secreción  de  insulina desde  el  páncreas  y,  mediante  la  supresión  de  la  secreción  de  glucagón,  ajusta  la glucemia postprandial. La teneligliptina al inhibir la actividad de la dipeptidil peptidasa 4
+(DPP-4), suprime la degradación del GLP-1, aumentando la concentración sanguínea de GLP-1 activado, mediante la cual despliega el efecto hipoglucémico. Se ha descripto que la administración de teneligliptina una vez al día a pacientes con diabetes tipo 2 mejora la glucemia post desayuno, almuerzo y cena y también la glucemia en ayunas y la concentración de hemoglobina glicosilada (HbA1c).
+
+Farmacocinética: la teneligliptina se absorbe bien en el tracto digestivo, alcanzando la concentración  plasmática  máxima  a  los  60  minutos  de  administrada.  Los  alimentos disminuyen un 20% la concentración plasmática máxima pero no modifican el AUC. Se ha informado que la unión a las proteínas del plasma es del orden del 78 al 82%. En la sangre se ha detectado teneligliptina sin modificar y cinco metabolitos principales, siendo el M1
+(71,1%) y el M2 (14,7%) los más preponderantes.
+No se ha descripto si estos presentan actividad biológica. El metabolismo de la teneligliptina está relacionado principalmente con la isoenzima 3A4 del citocromo P450 (CYP3A4) y las  flavinas  monooxigenasas  1  y  3  (FMO-01  y  FMO-03).  Por  otra  parte  la  teneligliptina mostró un efecto inhibidor débil sobre CYP2D6, CYP3A4 y FMO, pero no mostró efecto
+inhibitorio sobre CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C8/9, CYP2C19, CYP2E1 y no produjo inducción del CYP1A2 ni del CYP3A4. Luego de la administración oral alrededor del  21%  de  la  dosis  se  eliminó  sin  cambios  en  la  orina.  Luego  de  la  administración  de teneligliptina marcada con C14, 45,4% se eliminó en la orina y 46,5% se eliminó en las heces. La administración de teneligliptina a pacientes con alteración de la función renal no produjo cambios significativos en la concentración plasmática máxima, en la vida media ni en el AUC. La administración a pacientes con disfunción hepática leve (Child-Pugh 5-6)
+
+1
+
+cambio hacia otra modalidad terapéutica.
+Durante la administración continua, puede haber casos que requieran la interrupción de la administración o la reducción de  la dosis. Por  el contrario,  en otros casos su efecto puede  disminuir  o  resultar  insuficiente,  ya  sea  por  intemperancia  del  paciente  o  por complicaciones  infecciosas.  Se  sugiere  precaución  en  cuanto  a  su  administración continua  permanente,  en  la  determinación  de  la  dosis  necesaria  en  cada  caso  o  en  la elección  de  las  drogas  que  se  administren  concomitantemente,  teniendo  en  cuenta además la magnitud de la ingesta dietética, la glucemia o la posible existencia de cuadros infecciosos.
+Debido  a  que  existe  el  riesgo  de  que  se  presenten  efectos  adversos  tales  como  la prolongación del QT, es preferible evitar la administración en pacientes con QT prolongado o antecedentes del mismo (síndrome de QT prolongado congénito), en pacientes con antecedentes de torsades des pointes o en pacientes en tratamiento con otros medicamentos que prolongan el QT.
+Embarazo: se ha informado que la teneligliptina atraviesa la placenta en los animales de experimentación.  No  existe  experiencia  en  mujeres  embarazadas.  En  las  mujeres embarazadas, o que pudieran estarlo, sólo se administrará ELANT si el médico considera que los beneficios del tratamiento superan los riesgos potenciales.
+Lactancia:  se  ha  informado  que  la  teneligliptina  pasa  a  la  leche  en  los  animales  de experimentación.
+No debe administrase ELANT a mujeres que se encuentran amamantando.
+Uso pediátrico: no ha sido determinada la seguridad de la teneligliptina en menores de 18 años.
+Uso  en  geriatría:  no  es  necesario  disminuir  la  dosis.  Sin  embargo,  debido  a  que  las funciones fisiológicas pueden estar disminuidas en los ancianos, se recomienda administrarlo con precaución.
+No debe emplearse en pacientes con cuadros similares como intolerancia a la glucosa, glucosuria.
+
+Interacciones  medicamentosas:  otros  medicamentos  antidiabéticos  (sulfonilureas, secretagogos de la insulina de acción rápida, inhibidores de la alfa-glucosidasa, biguanidas, tiazolidinedionas, análogos del GLP-1, inhibidores SGLT2, insulinas): administrar con precaución  por  el  riesgo  de  hipoglucemia,  especialmente  a  los  pacientes  que  reciben drogas  del  grupo  sulfonilureas.  Para  reducir  el  riesgo  de  hipoglucemia  considerar  la disminución de la dosis de sulfonilureas.
+Medicamentos  que  aumentan  la  acción  hipoglucemiante  (betabloqueantes,  salicilatos, inhibidores  de  la  monoaminooxidasa):  administrar  con  precaución  por  el  riesgo  de hipoglucemia.
+Medicamentos inhibidores potentes del CYP3A4 (ketoconazol, itraconazol, claritromicina, inhibidores de la proteasa): administrar con precaución por el riesgo de aumento de las concentraciones de teneligliptina, hipoglucemia o aumento del QT.
+Medicamentos  que  disminuyen  la  acción  hipoglucemiante  (adrenalina,  hormonas córticosuprarrenales,  hormonas  tiroideas):  administrar  con  precaución  por  el  riesgo  de hiperglucemia.
+Medicamentos  que  prolongan  el  QT  (antiarrítmicos  de  clase  IA:  Sulfato  de  quinidina, procainamida;  antiarrítmicos  de  clase III:  Amiodarona,  sotalol):  administrar  con precaución por el riesgo de prolongación del QT.
+
+Reacciones adversas: se ha informado que las reacciones adversas más frecuentes han sido la hipoglucemia y la constipación.
+La  hipoglucemia  puede  aparecer  con  la  asociación  con  otros  medicamentos  para  la diabetes mellitus (al asociar glimepirida 8,9%, pioglitazona 1,5%). En particular, se han informado síntomas graves de hipoglucemia con otros inhibidores DPP-4 en asociación con sulfonilureas, incluyendo casos con pérdida de la conciencia. Debe considerarse la reducción de la dosis de las sulfonilureas. También se han informado cuadros de hipoglua moderada (Child-Pugh 7-9) tampoco produjo cambios significativos en la Cmax ni en el AUC. No se ha informado experiencia clínica en pacientes con disfunción hepática severa
+(Child-Pugh  >9).  Los  parámetros  farmacocinéticos  en  ancianos  sanos  fueron  prácticamente similares a los observados en los individuos jóvenes.
+No se han informado variaciones farmacocinéticas de importancia clínica con la administración  conjunta  de  teneligliptina  con  glimepirida  o  pioglitazona.  La  administración conjunta con metformina produjo un aumento del AUC de alrededor de 21%. La administración conjunta con ketoconazol aumentó la Cmax y el AUC en 37% y 49%.
+
+Posología y Modo de administración
+Adultos
+Habitualmente se administra un comprimido de 20 mg una vez al día. Sin embargo, en casos de efecto insuficiente, se puede aumentar la dosis a dos comprimidos (40 mg) una vez al día, observando cuidadosamente la evolución.
+ELANT puede administrarse en cualquier momento del día, con los alimentos o lejos de ellos.
+
+Contraindicaciones:  ELANT  está  contraindicado  en  pacientes  con  antecedentes  de hipersensibilidad  a  cualquiera  de  los  componentes  del  medicamento.  Pacientes  con diabetes tipo 1. Cetoacidosis. Pre coma o coma diabético. Infecciones graves. Pre y post quirúrgico. Traumatismos graves. Lactancia.
+
+Advertencias:  por  no  estar  determinada  su  seguridad  debido  a  la  falta  de  experiencia clínica se recomienda administrar con suma precaución a pacientes con alteración severa de la función hepática y a pacientes con insuficiencia cardíaca: (Clases III-IV NYHA).
+Por  aumentar  el  riesgo  potencial  de  hipoglucemia  se  recomienda  administrar  con precaución  a  los  pacientes  que  reciben  drogas  del  grupo  sulfonilureas;  pacientes  con insuficiencia hipofisaria o insuficiencia suprarrenal; pacientes en estado de debilitamiento, desnutrición,  inanición,  ingesta  alimentaria  irregular  y/o  insuficiente;  pacientes  en ejercicio muscular intenso; individuos con consumo excesivo de alcohol.
+En los pacientes con antecedentes de cirugía abdominal u obstrucción intestinal puede estar aumentado el riesgo de obstrucción intestinal.
+En los pacientes con arritmias o antecedentes previos de bradicardia severa, pacientes cardiópatas  con  insuficiencia  cardíaca  congestiva,  o  pacientes  con  hipokalemia  puede estar  aumentado  el  riesgo  de  prolongación  del  QT.  Dado  que  se  han  detectado  raros casos de neumonía intersticial con otros inhibidores de DPP4 (vidagliptina) es necesario monitorear la  condición respiratoria en pacientes bajo tratamiento con ELANT.
+
+Farmacovigilancia
+Como todo producto de reciente comercialización, ELANT se encuentra sujeto a un Plan de Gestión de Riesgo (PGR).
+
+Precauciones: explicar al paciente el cuadro de hipoglucemia y su tratamiento, especialmente en el caso de uso asociado con sulfonilureas. Para reducir el riesgo de hipoglucemia, considerar la disminución de la dosis de las sulfonilureas.
+ELANT  sólo  debe  indicarse  a  pacientes  con  un  diagnóstico  establecido  de  diabetes mellitus tipo 2.
+No debe emplearse en pacientes con cuadros similares como intolerancia a la glucosa, glucosuria renal o alteración de la función tiroidea.
+La administración de ELANT sólo debe considerarse en los casos en que el tratamiento básico  de  la  diabetes  tipo  2,  basado  en  la  dieta  y  el  ejercicio  físico,  haya  resultado ineficiente.
+Durante la administración de ELANT, se debe controlar periódicamente la glucemia y la hemoglobina glicosilada (HbA1c) para comprobar los efectos. En caso que el efecto sea insuficiente  luego  de  la  administración  durante  3  meses,  el  médico  debe  considerar  el
+
+2
+
+cemia sin utilizar otros medicamentos para la diabetes (1,0%).
+Si  se  observan  síntomas  de  hipoglucemia,  se  deben  adoptar  las  medidas  adecuadas como la ingestión de alimentos o bebidas que contengan hidratos de carbono.
+Si se presenta constipación puede aumentar el riesgo de obstrucción intestinal. Por tal motivo, se debe realizar una observación cuidadosa y, en caso de constatarse anomalías como  estreñimiento  severo,  distensión  abdominal,  dolor  abdominal  persistente  o vómitos, suspender la administración y llevar a cabo las medidas adecuadas.
+Las siguientes reacciones adversas fueron informadas con una incidencia menor del 1%, sin haberse confirmado la relación con la droga en todos los casos:
+Digestivas:  constipación,  distensión  abdominal,  malestar  abdominal,  náuseas,  dolor abdominal, flatulencia, estomatitis, pólipos gástricos, pólipos colónicos, úlcera duodenal, pancreatitis aguda.
+Hepáticas: elevación de la AST (TGO), de la ALT (TGP) y de la gamma-GTP.
+Renales: proteinuria, cetonuria, sangre oculta en orina.
+Dermatológicas: eczema, erupción cutánea, prurito, dermatitis alérgica.
+Otras: elevación de la CPK, elevación del potasio sérico, astenia.
+
+Sobredosificación: los síntomas de sobredosis pueden estar relacionados con hipoglucemia  o  aumento  del  QT.  Se  recomienda  emplear  las  medidas  habituales  de  soporte, como  eliminar  del  tubo  digestivo  el  medicamento  no  absorbido,  monitoreo  clínico  y tratamiento  clínico  adecuado.  Es  probable  que  la  hemodiálisis  no  resulte  efectiva teniendo en cuenta la elevada unión proteica de la teneligliptina.
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o comunicarse con los Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+Presentación: envases con 30 comprimidos recubiertos.
+Fecha de última revisión: noviembre 2016.
+
+Forma de conservación
+- Conservar en lugar seco a temperatura inferior a 30°C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD. Certificado N°: 58.170 Laboratorios CASASCO S.A.I.C. - Boyacá 237  -  Ciudad Autónoma de Buenos Aires
+
+INFORMACION PARA EL PACIENTE
+CONSULTE A SU MÉDICO
+
+Lea esta información para el paciente antes de comenzar a tomar ELANT y cada vez que repita la receta ya que puede haber nueva información. Esta información no reemplaza a su conversación con el médico sobre su enfermedad o su tratamiento.
+
+¿Qué es ELANT y para qué se usa?
+ELANT contiene como principio activo teneligliptina que pertenece a un grupo de medicamentos llamados «antidiabéticos orales». Los antidiabéticos orales se usan para reducir los niveles altos de azúcar (glucosa) en sangre.
+ELANT se utiliza para tratar pacientes adultos con diabetes tipo 2 cuando la diabetes no
+
+3
+
+4
+
+puede  controlarse  únicamente  por  la  dieta  y  el  ejercicio.  Su  médico  le  podrá  recetar ELANT  solo  o  en  combinación  con  otros  medicamentos  antidiabéticos  que  ya  esté tomando si estos no son lo suficientemente efectivos para controlar la diabetes.
+La diabetes tipo 2 es un trastorno del metabolismo que se caracteriza por niveles altos de azúcar en sangre (hiperglucemia) producida por una resistencia a la insulina o falta relativa de la misma.
+La insulina es una sustancia que ayuda a reducir los niveles de azúcar en sangre, especialmente  después  de  las  comidas.  El  glucagón  es  una  sustancia  que  promueve  la producción de azúcar por el hígado y hace que aumenten los niveles de azúcar en sangre.
+Ambas sustancias se producen en el páncreas.
+
+Antes de usar ELANT
+No tome ELANT
+- Si es alérgico a teneligliptina o a cualquiera de los demás componentes de este medicamento. Si cree que pudiera ser alérgico a teneligliptina o cualquier otro componente de ELANT, no tome este medicamento y consulte a su médico.
+- Si padece diabetes tipo 1 (es decir, su organismo no produce insulina).
+- Si padece una situación llamada cetoacidosis diabética (una complicación grave de la diabetes).
+- Si tiene infecciones graves.
+- Antes o después de operaciones quirúrgicas o traumatismos graves.
+- Durante el amamantamiento o lactancia
+
+Tenga especial cuidado con ELANT
+-  Si  está  tomando  un  medicamento  antidiabético  conocido  como  una  sulfonilurea  (ej.
+glimepirida, glipizida). su médico podría querer reducir su dosis de sulfonilurea cuando la tome conjuntamente con ELANT para evitar que baje mucho el nivel de glucosa en sangre
+[hipoglucemia].
+- Si tiene problemas de funcionamiento de las glándulas hipófisis, tiroides, suprarrenales;
+debilitamiento, desnutrición, problemas de alimentación irregular y/o insuficiente, practica ejercicio muscular intenso o consume alcohol en exceso.
+- Si padece una enfermedad severa del hígado.
+- Si padece una alteración severa del corazón (insuficiencia cardiaca o arritmias).
+- Si ha tenido reacciones alérgicas a cualquier otro medicamento que tome para controlar la cantidad de azúcar en sangre.
+- Si tiene antecedentes de cirugía abdominal u obstrucción intestinal.
+- Si presenta lesiones cutáneas diabéticas, una complicación frecuente esta condición. Se aconseja seguir las recomendaciones sobre cuidados de la piel y los pies indicadas por su medico
+
+Embarazo
+Si  está  embarazada,  cree  que  podría  estar  embarazada  o  tiene  intención  de  quedarse embarazada, informe a su médico o farmacéutico antes de utilizar este medicamento.
+Debe evitarse el uso de ELANT durante el embarazo, salvo que el medico lo considere esencial.
+
+Lactancia
+El principio activo de ELANT pasa a la leche materna y puede producir problemas en el lactante. No debe tomar ELANT si está dando el pecho o planea darlo.
+
+ELANT puede administrarse en cualquier momento del día, con los alimentos o lejos de ellos.
+
+Uso en niños y adolescentes
+No ha sido determinada la seguridad de la teneligliptina en menores de 18 años.
+
+Uso en ancianos
+No  es  necesario  ajustar  la  dosis.  Sin  embargo,  debido  a  que  las  funciones  fisiológicas pueden estar disminuidas en los ancianos, se recomienda tomarlo con precaución.
+
+Uso en pacientes con problemas de riñón
+Su médico debe decidir si puede tomar ELANT y la dosis adecuada
+
+Uso en pacientes con problemas de hígado Su médico debe decidir si puede tomar ELANT y la dosis adecuada.
+
+Efectos sobre la capacidad de conducción de vehículos ELANT  no  tiene  ninguna  influencia  sobre  la  capacidad  de  conducir  vehículos  y  utilizar maquinas.  Sin  embargo,  al  tomar  ELANT  en  combinación  con  otros  medicamentos llamados sulfonilureas y/o insulina puede producir niveles demasiado bajos de azúcar en la sangre (hipoglucemia) que puede afectar su capacidad para conducir y usar maquinas sin un punto seguro de apoyo. No conduzca vehículos ni opere maquinarias peligrosas si ni se siente bien o esta mareado tomando ELANT.
+
+Toma simultánea de otros medicamentos
+Informe a su médico o farmacéutico si está utilizando, ha utilizado recientemente o podría tener que utilizar cualquier otro medicamento, incluso los que se venden sin receta y los medicamentos a base de hierbas.
+Su médico puede cambiar su dosis de ELANT si está tomando otros medicamentos tales como:
+-  Otros  medicamentos  para  la  diabetes,  especialmente  sulfonilureas,  ya  que  podrían aumentar el riesgo de hipoglucemia (azúcar baja en sangre).
+-  Otros  medicamentos  que  favorecen  la  hipoglucemian  (betabloqueantes,  salicilatos, antihipertensivos, inhibidores de la Monoamino-oxidasa).
+-  Otros  medicamentos  que  pueden  aumentar  los  niveles  de  teneligliptina  en  sangre (ketoconazol,  itraconazol,  claritromicina,  drogas  para  HIV  como  inhibidores  de  la proteasa).
+
+Uso apropiado del medicamento ELANT
+Se olvidó de tomar ELANT
+Si  se  olvida  de  tomar  una  dosis  de  este  medicamento,  tómela  en  cuanto  se  acuerde.
+Luego tome la siguiente dosis a su hora habitual. Si ya es casi la hora de la siguiente dosis, sáltese la dosis olvidada.
+No tome una dosis doble para compensar las dosis olvidadas.
+
+A tener en cuenta mientras toma ELANT
+Efectos indeseables (adversos)
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede  producir  efectos adversos, aunque no todas las personas los sufran.
+
+¿Cómo usar ELANT?
+Adultos
+Habitualmente se administra un comprimido de 20 mg una vez al día. Sin embargo, en casos de efecto insuficiente, su médico podrá aumentar la dosis a dos comprimidos (40 mg) una vez al día, observando cuidadosamente la evolución.
+
+Algunos síntomas exigen atención médica inmediata Debe dejar de tomar ELANT y acudir a su médico inmediatamente si experimenta alguno de los siguientes efectos adversos:
+-  Hipoglucemia:  síntomas  de  un  descenso  del  azúcar  en  sangre  como  temblor, sudoración, ansiedad, visión borrosa, cosquilleo de labios, palidez, cambios ven el humor
+
+5
+
+6
+
+o confusión.
+- Hipersensibilidad: angioedema (raros: pueden afectar hasta 1 de cada 1.000 personas):
+síntomas que incluyen cara, lengua o garganta hinchadas, dificultad al tragar, dificultad al respirar, aparición repentina de sarpullido o urticaria, que pueden ser indicativos de una reacción llamada “angioedema”.
+- Pancreatitis: inflamación del páncreas (frecuencia no conocida): síntomas que incluyen dolor intenso y persistente en el abdomen (área del estómago), que puede llegar hasta su espalda, así como náuseas y vómitos.
+
+Otros efectos adversos
+Las siguientes reacciones adversas fueron informadas con una frecuencia menor del 1% sin haberse confirmado la relación con la droga en todos los casos:
+-  Digestivas:  constipación,  distensión  abdominal,  malestar  abdominal,  nauseas,  dolor abdominal,  flatulencia,  inflamación  de  la  boca,  ulcera  de  duodeno,  inflamación  de páncreas.
+- Hepáticas: elevación de enzimas del hígado (TGO, TGP y gamma GTP)
+- Del Riñón: proteínas en la orina (proteinuria); sangre en orina no visible a simple vista.
+- De la Piel: eczema, erupción cutánea, prurito, dermatitis alérgica.
+- Otras: decaimiento, aumento de potasio en sangre.
+Si  se  presenta  constipación  puede  aumentar  el  riesgo  de  obstrucción  intestinal.  Si presenta  estreñimiento  severo,  distención  abdominal,  dolor  abdominal  persistente  o vómitos, suspender la toma de la medicación y consultar al medico
+
+¿Cómo conservar ELANT?
+- Conservar en lugar seco a temperatura inferior a 30°C.
+- Mantener alejado del alcance de los niños.
+
+Presentación
+Envases con 30 comprimidos
+
+Si Ud. toma dosis mayores de ELANT de las que debiera Si  ha  tomado  demasiados  comprimidos  de  ELANT,  o  si  otra  persona  ha  tomado  su medicamento, consulte a su médico inmediatamente. Puede necesitar atención médica.
+Si ha de visitar a un médico o ir al hospital más próximo, lleve consigo el envase. Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual.
+No lo recomiende a otras personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la ANMAT http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234”
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N°58.170
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+7
+
+E-2744-01 / D3071 / Act. 11/2016
+
+CASASCO
+
+8

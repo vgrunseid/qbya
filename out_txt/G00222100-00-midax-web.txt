@@ -1,0 +1,761 @@
+MIDAX® 2,5 - 5 - 10
+OLANZAPINA 2,5 - 5 - 10 mg
+
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de MIDAX® 2,5 contiene:
+Olanzapina ....................................................................................2,50 mg Lactosa monohidrato.................................................................77,50 mg
+Hidroxipropilcelulosa EXF ..........................................................4,00 mg Crospovidona ...............................................................................5,00 mg
+Celulosa microcristalina PH 102 ............................................. 10,00 mg Estearato de magnesio vegetal ..................................................1,00 mg
+HPMC 3 cP .................................................................................0,583 mg HPMC 6 cP .................................................................................0,583 mg
+Dióxido de titanio...................................................................... 0,609 mg PEG 400 ......................................................................................0,156 mg
+Polisorbato 80 ........................................................................... 0,020 mg Goma laca .................................................................................. 0,025 mg
+Cera blanca .................................................................................0,013 mg Cera carnauba ............................................................................0,013 mg
+
+Cada comprimido recubierto de MIDAX® 5 contiene:
+Olanzapina ....................................................................................5,00 mg Lactosa monohidrato.................................................................155,0 mg
+Hidroxipropilcelulosa EXF ..........................................................8,00 mg Crospovidona ............................................................................ 10,00 mg
+Celulosa microcristalina PH 102 ............................................. 20,00 mg Estearato de magnesio vegetal ..................................................2,00 mg
+HPMC 3 cP ..................................................................................1,185 mg HPMC 6 cP ..................................................................................1,185 mg
+Dióxido de titanio.......................................................................1,239 mg PEG 400 ......................................................................................0,317 mg
+Polisorbato 80 ...........................................................................0,040 mg Goma laca ...................................................................................0,017 mg
+Cera blanca ................................................................................0,009 mg Cera carnauba ...........................................................................0,009 mg
+
+Cada comprimido recubierto de MIDAX® 10 contiene:
+Olanzapina ................................................................................. 10,00 mg Lactosa monohidrato.................................................................310,0 mg
+Hidroxipropilcelulosa EXF ....................................................... 16,00 mg Crospovidona ............................................................................ 20,00 mg
+Celulosa microcristalina PH 102 .............................................40,00 mg Estearato de magnesio vegetal ..................................................4,00 mg
+HPMC 3 cP ..................................................................................2,376 mg HPMC 6 cP ..................................................................................2,376 mg
+Dióxido de titanio...................................................................... 2,485 mg PEG 400 .....................................................................................0,636 mg
+Polisorbato 80 ........................................................................... 0,080 mg Goma laca .................................................................................. 0,023 mg
+Cera blanca .................................................................................0,012 mg Cera carnauba ............................................................................0,012 mg
+
+ACCIÓN TERAPÉUTICA
+
+Antipsicótico.
+Código ATC N05AH03
+
+INDICACIONES
+
+Esquizofrenia
+La  Olanzapina  está  indicada  para  el  tratamiento  de  la  esquizofrenia
+(DSM-IV) en pacientes adultos y adolescentes (edades 13-17). La eficacia se estableció en tres ensayos clínicos en pacientes adultos con esquizofrenia: dos de 6 semanas de duración y un ensayo de mantenimiento.
+En pacientes adolescentes con esquizofrenia (edades 13-17), la eficacia
+
+se estableció en un ensayo de 6 semanas.
+Al decidir entre los tratamientos alternativos disponibles para los adolescentes, los médicos deberían considerar el mayor potencial (en los adolescentes, en comparación con los adultos) de aumento de peso y dislipidemia. Los médicos deberían considerar los riesgos potenciales a largo plazo cuando se prescriba a los adolescentes y en muchos casos esto puede llevar a considerar prescribir primero otras drogas en los adolescentes. [Véase Precauciones especiales de uso].
+
+Trastorno bipolar Tipo I (manía o episodios mixtos)
+
+Monoterapia
+La  Olanzapina  está  indicada  en  pacientes  adultos  y  adolescentes (edades 13-17) para el tratamiento agudo de manía o episodios mixtos asociados  con  trastorno  bipolar  Tipo  I  (DSM-IV)  y  el  tratamiento  de mantenimiento  del  trastorno  bipolar  Tipo  I.  La  eficacia  se  estableció en tres ensayos clínicos en pacientes adultos con episodios maníacos o mixtos asociados con el trastorno bipolar Tipo I: dos ensayos de 3 a 4 semanas y un ensayo de monoterapia de mantenimiento. En pacientes adolescentes con episodios maníacos o mixtos asociados con el trastorno bipolar Tipo I (edades 13-17), la eficacia se estableció en un ensayo de 3 semanas.
+Al decidir entre los tratamientos alternativos disponibles para los adolescentes, los médicos deberían considerar el mayor potencial (en los adolescentes, en comparación con los adultos) de aumento de peso y dislipidemia. Los médicos deberían considerar los riesgos potenciales a largo plazo cuando se prescriba a los adolescentes, y en muchos casos esto puede llevar a considerar prescribir primero otras drogas en los adolescentes. [Véase Precauciones especiales de uso].
+
+Combinación con litio o valproato
+La olanzapina está indicada en pacientes adultos para el tratamiento de  episodios  maníacos  o  mixtos  asociados  al  trastorno  bipolar  Tipo  I
+(DSM-IV) como terapia combinada con litio o valproato. La eficacia se estableció en dos ensayos clínicos de 6 semanas en adultos. La efectividad de la terapia combinada para el uso a largo plazo no se ha evaluado sistemáticamente en estudios clínicos controlados.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+En estudios no clínicos, la olanzapina mostró una gama de afinidades (Ki <100 nM) por los receptores de serotonina 5HT2A/2C, 5HT3, 5HT6;
+receptores de dopamina D1, D2, D3, D4 y D5; receptores muscarínicos colinérgicos M1-M5; receptores α1 adrenérgicos y receptores de histamina H1. Los estudios de comportamiento con olanzapina en animales indicaron  un  antagonismo  5HT,  dopaminérgico  y  colinérgico  concordante con el perfil de unión al receptor. La olanzapina demostró una afinidad in vitro mayor sobre los receptores de serotonina 5HT2 que en los receptores de dopamina D2 y mayor actividad in vivo en los modelos de 5HT2 que en los de D2. Estudios electrofisiológicos demostraron que la olanzapina reducía de forma selectiva la actividad de las neuronas dopaminérgicas mesolímbicas (A10), a la vez que mostró escaso efecto en las vías estriadas (A9) relacionadas con la función motora. La olanzapina redujo la respuesta de evitación condicionada, un test indicativo de la actividad antipsicótica, a dosis inferiores a las que producen catalepsia, que es un efecto indicativo de reacciones adversas motoras. Al contrario que algunos agentes antipsicóticos, la olanzapina aumenta la respuesta en un test “ansiolítico”.
+En un estudio de Tomografía por Emisión de Positrones (TEP) de dosis única (10 mg) en voluntarios sanos, la olanzapina produjo una ocupación de los receptores 5 HT2A mayor que la de los receptores de dopamina D2. Además, un estudio de imagen por tomografía computarizada por emisión de fotón único (SPECT) en pacientes esquizofrénicos
+
+reveló que los pacientes con respuesta a olanzapina presentaban una ocupación de receptores D2 en estriado, menor que los pacientes con respuesta  a  algunos  antipsicóticos  y  a  risperidona,  comparable  a  los pacientes con respuesta a clozapina.
+
+ficas entre adolescentes y adultos incluyen un menor peso medio y un menor porcentaje de fumadores entre los adolescentes. Dichos factores posiblemente contribuyeron al aumento en la exposición media que se observó en los adolescentes.
+
+Propiedades Farmacocinéticas
+
+Absorción
+La olanzapina se absorbe bien después de su administración oral, la concentración plasmática máxima se alcanza en un plazo de 5 a 8 horas. Su absorción no se modifica con la ingesta. No se ha determinado la  biodisponibilidad  oral  absoluta  relacionada  con  la  administración intravenosa.
+
+Distribución
+La unión de la olanzapina a las proteínas plasmáticas representa aproximadamente un 93%, dentro del intervalo de concentración de 7 hasta aproximadamente 1.000 ng/ml. Olanzapina se une preferentemente a la albúmina y a la a1-glucoproteína ácida.
+
+Biotransformación
+La olanzapina se metaboliza en el hígado a través de reacciones de conjugación y oxidación. El principal metabolito circulante es el 10-N-glucurónido, que no traspasa la barrera hematoencefálica. Los citocromos
+P450-CYP1A2 y P450-CYP2D6 contribuyen a la síntesis de los metabolitos N-desmetilo y 2-hidroximetilo ambos mostraron una actividad farmacológica  in  vivo  significativamente  menor  que  olanzapina  en estudios en animales. La actividad farmacológica predominante deriva del fármaco progenitor olanzapina.
+
+Eliminación
+Después de la administración oral, la semivida terminal de eliminación media de olanzapina en voluntarios sanos varió en función de la edad y el género.
+En sujetos sanos de edad avanzada (65 años o más) en comparación con  sujetos  más  jóvenes  la  semivida  de  eliminación  media  fue  más prolongada (51,8 frente a 33,8 horas) y el aclaramiento se redujo (17,5 frente a 18,2 litros/hora). La variabilidad farmacocinética observada en los sujetos de edad avanzada está comprendida en el rango de los no ancianos. En 44 pacientes con esquizofrenia, mayores de 65 años, la dosis de 5 a 20 mg/día no se asoció con ningún perfil diferenciado de reacciones adversas.
+En mujeres, comparando con los resultados en hombres, la semivida de eliminación media estaba prolongada en cierta medida (36,7 frente a 32,3 ) y el aclaramiento se redujo (18,9 frente a 27,3 litros/hora). Sin embargo, la olanzapina (5-20 mg) presentó un perfil de seguridad comparable tanto en mujeres (n=467) como en hombres (n=869).
+
+Insuficiencia renal
+En pacientes con deterioro renal (aclaramiento de creatinina <10 ml/ min) comparados con pacientes sanos, no hubo diferencia significativa ni en la semivida de eliminación media (37,7 frente a 32,4 horas) ni en el  aclaramiento  (21,2  frente  a  25,0  litros/hora).  Aproximadamente  el 57% de la olanzapina radiactiva se elimina en la orina, principalmente en forma de metabolitos.
+
+Insuficiencia hepática
+Se  observó  un  escaso  efecto  sobre  la  farmacocinética  de  olanzapina administrada oralmente (2,5 – 7,5 mg dosis única) en sujetos con disfunción hepática de leve a moderada.
+
+Fumadores
+En sujetos no fumadores, comparados con sujetos fumadores (mujeres y hombres) estaba prolongada la semivida de eliminación media (38,6 frente a 30,4 horas) y reducido el aclaramiento (18,6 frente a 27,7 litros / hora). El aclaramiento plasmático de la olanzapina es menor en los sujetos de edad avanzada que en los sujetos jóvenes, en las mujeres que en los varones y en los no fumadores que en los fumadores. Sin embargo, el impacto de la edad, el sexo o el tabaco sobre el aclaramiento y la semivida de la olanzapina es pequeño en comparación con la variabilidad global entre los diferentes sujetos. En un estudio realizado con sujetos caucasianos, japoneses y chinos, no se encontraron diferencias entre los parámetros farmacocinéticos de las tres poblaciones.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Esquizofrenia
+
+Adultos
+Selección de la dosis
+La olanzapina debe administrarse vía oral en un esquema de una vez al día, independientemente de las comidas, comenzado generalmente con 5 a 10 mg inicialmente, con una dosis objetivo de 10 mg/día dentro de varios días. La eficacia se estableció en tres ensayos clínicos en pacientes adultos con esquizofrenia: dos de 6 semanas de duración y un ensayo de mantenimiento. En pacientes adolescentes con esquizofrenia (edades 13-17), la eficacia se estableció en un ensayo de 6 semanas. Ajustes de dosis adicionales, si están indicados, deben realizarse en general en intervalos de no menos de 1 semana, ya que el estado estacionario  de  la  olanzapina  no  se  alcanzaría  durante  aproximadamente 1 semana en el paciente típico. Cuando se requieren ajustes de la dosis, se recomiendan aumentos/disminuciones de la dosis de 5 mg una vez al día.
+La eficacia en la esquizofrenia se demostró en un intervalo de dosis de 10 a 15 mg/día en ensayos clínicos. Sin embargo, dosis superiores a 10 mg/día no demostraron ser más eficaces que la dosis de 10 mg/día. Un aumento a una dosis mayor que la dosis objetivo de 10 mg/día (es decir, a una dosis de 15 mg/día o mayor) se recomienda solo después de la evaluación clínica. La olanzapina no está indicada para su uso en dosis superiores a 20 mg/día.
+
+Dosificación en poblaciones especiales
+La dosis inicial recomendada es de 5 mg en pacientes que están débiles, tienen predisposición a reacciones de hipotensión, que de otro modo  exhiben  una  combinación  de  factores  que  pueden  dar  lugar  a un  metabolismo  más  lento  de  la  olanzapina  (por  ejemplo,  pacientes mujeres no fumadoras, ≥ 65 años de edad), o que pueden ser farmacodinámicamente  más  sensibles  a  la  olanzapina  (Ver  Precauciones,
+Interacciones  Medicamentosas,  empleo  en  ancianos  y  Propiedades Farmacológicas).  Cuando  se  indica,  el  aumento  de  la  dosis  en  estos pacientes debe realizarse con precaución.
+
+Tratamiento de mantenimiento
+Dosis entre 10 mg/día a 20 mg/día. El médico que elige utilizar olanzapina durante períodos prolongados debe reevaluar periódicamente la utilidad a largo plazo del medicamento para cada paciente.
+
+Adolescentes
+Selección de la dosis
+La dosis inicial recomendada para olanzapina es de 2,5 o 5 mg/día, con una  dosis  objetivo  de  10  mg/día,  administrada  como  una  sola  dosis diaria independientemente de las comidas ya que su absorción no es afectada por los alimentos. Cuando se requieren ajustes de dosis, se recomienda realizar aumentos / disminuciones a intervalos de 2,5 o 5 mg.
+La eficacia en adolescentes con esquizofrenia se ha demostrado sobre la base de un rango de dosis flexibles de 2.5 a 20 mg / día. La seguridad y eficacia de dosis superiores a 20 mg / día no han sido evaluadas.
+
+Tratamiento de Mantenimiento
+La eficacia de olanzapina para el tratamiento de mantenimiento de la esquizofrenia en los adolescentes no ha sido evaluada en forma sistemática, sin embargo, la eficacia de mantenimiento puede extrapolarse a partir de los datos obtenidos en adultos junto con comparaciones de los parámetros farmacocinéticos de la olanzapina en pacientes adultos y  adolescentes.  Por  lo  tanto,  generalmente  se  recomienda  continuar el tratamiento en los pacientes que respondieron al tratamiento agudo, pero con la menor dosis necesaria para mantener la remisión. Los pacientes  deben  ser  periódicamente  reevaluados  para  determinar  la necesidad del tratamiento de mantenimiento.
+
+Trastorno bipolar Tipo I (manía o episodios mixtos)
+
+Población pediátrica
+Adolescentes (edades comprendidas entre 13 y 17 años): la farmacocinética de olanzapina en adolescentes es similar a la de adultos. En los  ensayos  clínicos,  la  exposición  media  a  olanzapina  fue  aproximadamente un 27% superior en adolescentes. Las diferencias demográAdultos
+Monoterapia, selección de la dosis
+La  dosis  inicial  recomendada  para  olanzapina  es  de  10  a  15  mg  administrada  una  vez  al  día  como  monoterapia.  La  olanzapina  puede ser administrada independientemente de las comidas. Los ajustes de
+
+dosis (aumento /disminución) si están indicados, deberían ocurrir en períodos de tiempo no menores de 24 horas. Cuando son necesarios ajustes de la dosis, se recomiendan aumento/disminución de la dosis de 5 mg una vez al día. . La eficacia se estableció en tres ensayos clínicos en pacientes adultos con episodios maníacos o mixtos asociados con el trastorno bipolar Tipo I: dos ensayos de 3 a 4 semanas y un ensayo de monoterapia de mantenimiento. En pacientes adolescentes con episodios maníacos o mixtos asociados con el trastorno bipolar Tipo I (edades
+13-17), la eficacia se estableció en un ensayo de 3 semanas.
+ No se ha evaluado la seguridad de las dosis superiores a 20 mg/día en ensayos clínicos.
+
+cerebral transitoria), algunos de ellos de desenlace mortal. En los pacientes tratados con olanzapina se incrementó en tres veces el número de  acontecimientos  adversos  cerebrovasculares  comparado  con  los pacientes tratados con placebo (1,3 % vs 0,4 % respectivamente). Todos los pacientes tratados con olanzapina y placebo que experimentaron un  accidente  cerebrovascular,  como  acontecimiento  adverso,  tenían factores de riesgo pre-existentes. Se identificaron, la edad (mayor de 75 años) y la demencia de tipo vascular/mixta como factores de riesgo para  la  aparición  de  acontecimientos  adversos  cerebrovasculares  en asociación con el tratamiento con olanzapina. La eficacia de olanzapina no fue establecida en estos ensayos.
+
+Monoterapia, mantenimiento
+Dosis de 5 a 20 mg/día. El médico que elige utilizar olanzapina durante períodos prolongados debe reevaluar periódicamente la utilidad a largo plazo del medicamento para cada paciente.
+
+Selección de la dosis para el tratamiento complementario Cuando se administra como tratamiento complementario de litio o valproato, la dosis oral de olanzapina debe comenzar por lo general con 10 mg una vez al día, independientemente de las comidas.
+La eficacia antimaníaca se demostró en un rango de dosis de 5 mg a 20 mg/día. No se ha evaluado la seguridad de dosis superiores a 20 mg/día.
+
+ Adolescentes
+Selección de la dosis
+Monoterapia: La dosis inicial recomendada para olanzapina es de 2,5 o 5 mg/día, con una dosis objetivo de 10 mg/día, administrada como una sola dosis diaria independientemente de las comidas ya que su absorción no es afectada por los alimentos. Cuando se requieren ajustes de dosis, se recomienda realizar aumentos / disminuciones a intervalos de 2,5 o 5 mg.
+La eficacia en adolescentes con trastorno bipolar tipo I (maníaco o episodios mixtos) se ha demostrado sobre la base de un rango de dosis flexibles de 2.5 a 20 mg / día. La seguridad y eficacia de dosis superiores a 20 mg / día no han sido evaluadas.
+
+Tratamiento de Mantenimiento
+La  eficacia  de  olanzapina  para  el  tratamiento  de  mantenimiento  del trastorno  bipolar  tipo  I  en  los  adolescentes  no  se  ha  evaluado,  sin embargo, la eficacia de mantenimiento puede extrapolarse a partir de datos  obtenidos  en  adultos  junto  con  comparaciones  de  parámetros farmacocinéticos de la olanzapina en pacientes adultos y adolescentes.
+Por  lo  tanto,  generalmente  se  recomienda  continuar  el  tratamiento en los pacientes que respondieron al tratamiento agudo, pero con la menor dosis necesaria para mantener la remisión. Los pacientes deben ser periódicamente reevaluados para determinar la necesidad del tratamiento de mantenimiento.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+Pacientes con riesgo conocido de glaucoma de ángulo estrecho.
+
+ADVERTENCIAS
+
+Psicosis y/o trastornos del comportamiento asociados a demencia La olanzapina no está recomendada para su uso en pacientes con psicosis y/o trastornos del comportamiento asociados a demencia debido a un aumento de la mortalidad y del riesgo de accidente cerebrovascular. En ensayos clínicos controlados con placebo (de 6 a 12 semanas de duración) en pacientes de edad avanzada (edad media 78 años) con psicosis y/o trastornos del comportamiento asociados a demencia, se incrementó en dos veces la incidencia de muerte en los pacientes tratados con olanzapina comparados con los pacientes tratados con placebo
+(3,5 % vs 1,5 % respectivamente). La mayor incidencia de muerte no se relacionó con la dosis de olanzapina (dosis media diaria de 4,4 mg)
+o con la duración del tratamiento. Los factores de riesgo que pueden predisponer  a  esta  población  de  pacientes  a  un  aumento  de  la  mortalidad  incluyen,  edad  >  65  años,  disfagia,  sedación,  malnutrición  y deshidratación, enfermedades pulmonares (p.ej. neumonía con o sin aspiración) o uso concomitante de benzodiazepinas. Sin embargo, la incidencia de muerte fue mayor en los pacientes tratados con olanzapina que en los pacientes tratados con placebo independientemente de estos factores de riesgo. En los mismos ensayos clínicos, se notificaron acontecimientos adversos cerebrovasculares (p.ej. ictus, isquemia
+
+Enfermedad de Parkinson
+No se recomienda el uso de olanzapina para el tratamiento de la psicosis inducida por agonistas dopaminérgicos usados en pacientes con enfermedad  de  Parkinson.  En  ensayos  clínicos  se  han  notificado  de forma  muy  frecuente  casos  de  empeoramiento  de  la  sintomatología parkinsoniana y alucinaciones con mayor frecuencia que el placebo y asimismo se observó que olanzapina no fue más efectiva que el placebo en el tratamiento de los síntomas psicóticos.
+
+Síndrome Neuroléptico Maligno (SNM)
+El SNM es un trastorno que puede suponer riesgo vital, que se asocia con medicamentos antipsicóticos. En raras ocasiones se han notificado casos de SNM asociados al tratamiento con olanzapina. Las manifestaciones clínicas del SNM comprenden hipertermia, rigidez muscular, alteraciones de conciencia y signos de inestabilidad del sistema nervioso autónomo (pulso o presión arterial irregulares, taquicardia, diaforesis y trastornos del ritmo cardíaco). Entre los signos adicionales se observa un  incremento  en  la  creatin-fosfoquinasa,  mioglobinuria  (rabdomiólisis)  e  insuficiencia  renal  aguda.  Si  un  paciente  desarrolla  signos  y síntomas indicativos de SNM o presenta fiebre alta inexplicable sin manifestaciones clínicas adicionales de SNM, se deben suspender todos los medicamentos antipsicóticos, incluida la olanzapina.
+
+Actividad anticolinérgica
+Aunque  la  olanzapina  ha  mostrado  una  actividad  anticolinérgica  in vitro, la experiencia durante los ensayos clínicos ha mostrado una baja incidencia de efectos relacionados. Sin embargo, ya que la experiencia clínica con olanzapina en pacientes con enfermedades concomitantes es limitada, se recomienda precaución cuando se prescriba olanzapina a pacientes que presentan hipertrofia prostática o íleo paralítico y enfermedades relacionadas.
+
+Neutropenia
+Se deben tomar precauciones en pacientes que presentan recuentos bajos de leucocitos y/o neutrófilos por cualquier motivo; en pacientes en tratamiento con medicamentos de los que se conoce que provocan neutropenia;  en  pacientes  con  un  historial  de  depresión  /  toxicidad medular inducida por fármacos; en pacientes con depresión medular causadas por enfermedades concomitantes, radioterapia o quimioterapia y en pacientes con trastornos asociados a hipereosinofília o con enfermedad mieloproliferativa. Se han notificado con frecuencia casos de neutropenia tras el uso concomitante de olanzapina y valproato.
+
+Tromboembolismo
+Se ha notificado una asociación temporal del tratamiento con olanzapina con tromboembolismo venoso de manera poco frecuente (= 0,1% y <1%). No se ha establecido una relación causal entre el tratamiento con olanzapina y la aparición de tromboembolismo venoso. Sin embargo, ya que los pacientes con esquizofrenia a menudo presentan factores de riesgo adquiridos de tromboembolismo venoso se deben identificar todos  los  posibles  factores  de  riesgo  asociados  a  tromboembolismo venoso, por ejemplo, la inmovilización del paciente, y tomar medidas preventivas.
+
+Convulsiones
+La  olanzapina  debe  ser  administrada  con  precaución  a  los  enfermos con antecedentes de convulsiones o que están sujetos a factores que puedan bajar el umbral convulsivo. De manera poco frecuente, se han notificado convulsiones en este tipo de pacientes cuando se les trata con olanzapina. En la mayoría de estos casos existían antecedentes de convulsiones o factores de riesgo de convulsiones.
+
+Discinesia tardía
+En estudios comparativos de un año de duración o menos, la olanzapina se asoció de forma estadísticamente significativa con una menor incidencia de discinesia relacionada con el tratamiento. Sin embargo, el riesgo de discinesia tardía aumenta con la exposición a largo plazo
+
+y, por lo tanto, si apareciesen signos o síntomas de discinesia tardía en un  enfermo  tratado  con  olanzapina,  se  debe  considerar  la  reducción de la dosis o la suspensión de la medicación. Estos síntomas pueden empeorar temporalmente o incluso aparecer después de la terminación del tratamiento.
+
+Muerte súbita de origen cardíaco
+En informes post comercialización con olanzapina, se ha notificado el acontecimiento de muerte súbita de origen cardíaco en pacientes que tomaban olanzapina. En un estudio de cohortes observacional retrospectivo el riesgo de una supuesta muerte súbita de origen cardíaco en pacientes tratados con olanzapina fue aproximadamente el doble que en pacientes que no tomaban antipsicóticos. En el estudio, el riesgo del uso de olanzapina fue comparable al riesgo del uso de antipsicóticos atípicos incluidos en un análisis agrupado.
+
+ficiencia  cardíaca  congestiva,  hipertrofia  cardíaca,  hipopotasemia  o hipomagnesemia.
+
+Efectos generales sobre el SNC
+Teniendo en cuenta los efectos primarios de la olanzapina sobre el sistema nervioso central, se recomienda prudencia cuando se combine con otros medicamentos de acción central o con alcohol.
+Debido a que muestra antagonismo dopaminérgico in vitro, la olanzapina puede antagonizar los efectos de los agonistas dopaminérgicos directos e indirectos.
+
+Hipotensión postural
+En pacientes de edad avanzada medicados con olanzapina se observó hipotensión postural de forma poco frecuente. Se recomienda medir la presión arterial de forma periódica en pacientes mayores de 65 años.
+
+PRECAUCIONES
+
+Identificación de las pruebas de laboratorio que sean de utilidad.
+Función hepática
+Con  frecuencia  se  ha  observado  una  elevación  asintomática  y  transitoria  de  las  aminotransferasas  hepáticas,  ALT,  AST,  especialmente  al inicio  del  tratamiento.  Se  deben  tomar  precauciones  y  establecer  un seguimiento en pacientes con ALT y/o AST elevada; en pacientes con signos y síntomas de insuficiencia hepática; en pacientes con condiciones previas asociadas con una reserva funcional hepática limitada y en pacientes que están siendo tratados con medicamentos potencialmente hepatotóxicos. Cuando se diagnostique hepatitis (incluyendo daño hepatocelular, colestásico o mixto) se debe interrumpir el tratamiento con olanzapina.
+
+Hiperglucemia y diabetes
+De manera poco frecuente se han notificado casos de hiperglucemia y/o  aparición  o  exacerbación  de  diabetes  ocasionalmente  asociada  a cetoacidosis o coma, con algún desenlace mortal.
+En algunos casos se ha notificado un aumento previo de peso, lo que puede  ser  un  factor  de  predisposición.  Es  aconsejable  realizar  un seguimiento  clínico  apropiado  de  acuerdo  con  las  guías  clínicas  de antipsicóticos utilizadas, por ejemplo, medición de la glucemia basal, a las 12 semanas de comenzar el tratamiento con olanzapina y después anualmente. Los pacientes tratados con cualquier medicamento antipsicótico,  incluida  olanzapina,  deben  ser  controlados  por  si  presentan algún signo o síntoma de hiperglucemia (tales como polidipsia, poliuria, polifagia y debilidad). Y los pacientes con diabetes mellitus o que presenten factores de riesgo de desarrollar diabetes mellitus deben ser vigilados regularmente por si empeora el control de la glucemia. Se debe controlar el peso de forma regular, por ejemplo, basal, a las 4, 8 y 12 semanas después de haber comenzado el tratamiento con olanzapina y después trimestralmente.
+
+Alteraciones lipídicas
+Se han observado alteraciones lipídicas no deseadas en pacientes tratados con olanzapina. Estas alteraciones lipídicas deberían ser controladas de forma adecuada desde un punto de vista clínico, especialmente en  pacientes  con  dislipidemias  y  en  aquellos  que  presentan  factores de riesgo para el desarrollo de alteraciones lipídicas. A los pacientes tratados con cualquier medicamento antipsicótico, incluida olanzapina, se les debe hacer un control regular de los niveles de lípidos, de acuerdo con las guías clínicas de antipsicóticos utilizadas, por ejemplo, basal, a las 12 semanas de haber comenzado el tratamiento con olanzapina y después cada 5 años.
+
+Discontinuación del tratamiento
+Se  han  notificado  en  raras  ocasiones  (=  0,01  %  y  <  0,1  %),  síntomas agudos tales como sudoración, insomnio, temblor, ansiedad, náuseas o vómitos al interrumpir el tratamiento con olanzapina de forma repentina.
+
+Intervalo QT
+En ensayos clínicos las prolongaciones clínicamente significativas del intervalo QTc (corrección de Fridericia del intervalo QT [QTcF] = 500 milisegundos [msec] en cualquier momento posterior a la línea de base en pacientes con una situación basal de QTcF < 500 msec) fueron poco frecuentes (de 0,1 % a 1 %) en pacientes tratados con olanzapina, sin que existan diferencias significativas en comparación con el placebo en lo referente a eventos cardíacos asociados. Sin embargo, se deben tomar precauciones cuando se prescriba olanzapina junto con medicamentos que prolonguen el intervalo QTc, especialmente en pacientes de edad avanzada, en pacientes con síndrome QT congénito prolongado, insuLactosa
+Los comprimidos de MIDAX® contienen lactosa. Los pacientes con intolerancia hereditaria a galactosa, insuficiencia de lactasa de Lapp (insuficiencia observada en ciertas poblaciones de Laponia) o malabsorción de glucosa o galactosa no deben tomar este medicamento.
+
+INTERACCIONES MEDICAMENTOSAS
+
+Los estudios de interacciones se han realizado solo en adultos.
+
+Efectos de otros fármacos sobre la olanzapina Ya  que  la  olanzapina  es  metabolizada  por  el  CYP1A2,  las  sustancias que específicamente puedan inducir o inhibir esta isoenzima pueden afectar la farmacocinética de la olanzapina.
+
+Inducción del CYP1A2
+El tabaco y la carbamazepina pueden inducir el metabolismo de la olanzapina, lo que puede producir una reducción de las concentraciones de olanzapina. Tan solo se ha observado un incremento de leve a moderado en el aclaramiento de olanzapina. Las consecuencias clínicas parecen ser limitadas, pero se recomienda la monitorización y, en caso necesario, se puede considerar un incremento de la dosis de olanzapina.
+
+Inhibición del CYP1A2
+Se  ha  demostrado  que  la  fluvoxamina,  un  inhibidor  específico  del CYP1A2, inhibe significativamente el metabolismo de la olanzapina. El incremento medio de la Cmáx de olanzapina después de la administración de fluvoxamina fue del 54% en mujeres no fumadoras y del 77% en varones fumadores. El incremento medio del área bajo la curva de olanzapina fue del 52% y 108% respectivamente. Se debe considerar una dosis inicial de olanzapina inferior en pacientes que se encuentren en tratamiento con fluvoxamina o con cualquier otro inhibidor del CYP1A2, tales como ciprofloxacino. Se debe considerar una reducción de la dosis de olanzapina si se inicia un tratamiento con un inhibidor del CYP1A2.
+
+Disminución de la biodisponibilidad
+El carbón activado reduce la biodisponibilidad de la olanzapina oral de un 50 a un 60% y se debe tomar al menos dos horas antes o después de la olanzapina. No se ha observado que la fluoxetina (un inhibidor del CYP2D6), dosis únicas de antiácidos (aluminio, magnesio) o la cimetidina afecten de forma significativa la farmacocinética de la olanzapina.
+
+Efecto de la olanzapina sobre otros fármacos La olanzapina puede antagonizar los efectos de los agonistas dopaminérgicos directos e indirectos.
+La olanzapina no inhibe las principales isoenzimas del CYP450 in vitro (p.ej. 1A2, 2D6, 2C9, 2C19, 3A4). De modo que no se espera ninguna interacción especial tal y como se ha comprobado en estudios in vivo donde no se encontró una inhibición del metabolismo de los siguientes principios  activos:  antidepresivos  tricíclicos  (metabolizados  mayoritariamente por el CYP2D6), warfarina (CYP2C9), teofilina (CYP1A2) o diazepam (CYP3A4 y 2C19).
+La  olanzapina  no  mostró  interacción  cuando  se  administró  conjuntamente con litio o biperideno.
+La monitorización terapéutica de los niveles plasmáticos de valproato no indicó la necesidad de un ajuste de la dosis de valproato tras la introducción de olanzapina como tratamiento concomitante.
+
+Actividad general sobre el SNC
+Se debe tener precaución en pacientes que consuman alcohol o que estén en tratamiento con medicamentos que puedan producir depresión del sistema nervioso central.
+
+No se recomienda el uso concomitante de olanzapina con medicamentos  antiparkinsonianos  en  pacientes  con  enfermedad  de  Parkinson  y demencia.
+
+Intervalo QTc
+Se debe tener precaución cuando olanzapina se administre concomitantemente junto con medicamentos que prolongan el intervalo QTc.
+
+Carcinogénesis, mutagénesis y trastornos de fertilidad Olanzapina no es carcinogénica de acuerdo con los estudios llevados a cabo en ratas y ratones.
+La  olanzapina  no  ha  presentado  actividad  mutagénica  ni  tampoco actividad clastogénica en una amplia serie de pruebas normalizadas, entre otras, ensayos de mutación bacteriana y ensayos in vitro e in vivo con mamíferos.
+La  olanzapina  no  ha  presentado  efecto  teratógeno.  El  estado  de  sedación  modificó  la  conducta  de  apareamiento  en  las  ratas  macho.
+Los ciclos menstruales en la rata se alteraron con dosis de 1,1 mg/kg (3 veces la dosis máxima en humanos) y los parámetros de la función reproductora, con dosis de 3 mg/kg (9 veces la dosis máxima en humanos). La descendencia de las ratas tratadas con olanzapina mostró un retraso en el desarrollo fetal así como una disminución transitoria en el grado de actividad.
+No se conocen los efectos sobre la fertilidad.
+
+Embarazo
+No hay ningún estudio adecuado y bien controlado en mujeres embarazadas. Se debe recomendar a las mujeres que notifiquen a su médico si se encuentran embarazadas o piensan quedarse embarazadas durante el tratamiento con olanzapina. De cualquier manera, como la experiencia humana es limitada, la olanzapina se debe usar en el embarazo sólo cuando los beneficios superan los riesgos para el feto.
+Los recién nacidos expuestos a antipsicóticos (como olanzapina) durante el tercer trimestre de embarazo están en peligro de sufrir reacciones adversas extrapiramidales y/o síndromes de abstinencia que pueden variar en gravedad y duración tras la exposición. Se han notificado casos de síntomas de agitación, hipertonía, hipotonía, temblor, somnolencia, dificultad respiratoria o alteraciones alimenticias.  Por  consiguiente,  se  debe  vigilar  estrechamente  a  los recién nacidos.
+
+Lactancia
+En  un  estudio  en  mujeres  sanas,  durante  la  lactancia,  olanzapina  se excretó  en  la  leche  materna.  La  exposición  media  del  lactante  en  el estado estacionario (mg/kg) se estimó en un 1,8% de la dosis materna de olanzapina (mg/kg). Se debe desaconsejar la lactancia materna a las madres tratadas con olanzapina.
+
+Empleo en pediatría
+La seguridad y eficacia de olanzapina en el tratamiento de la esquizofrenia y la manía o episodios mixtos asociados con el trastorno bipolar
+Tipo I se establecieron en estudios a corto plazo en adolescentes (edades de 13 a 17 años), en un rango de 2,5 a 20 mg / día. La dosis inicial recomendada para los adolescentes es menor que para los adultos (Ver
+Posología y Forma de Administración).
+En  comparación  con  los  pacientes  adultos,  los  adolescentes  fueron propensos a ganar más peso, a experimentar mayor sedación y tener elevaciones mayores en el colesterol total, triglicéridos, colesterol LDL, prolactina  y  niveles  de  transaminasas  hepáticas  (Ver  Advertencias,
+Precauciones y Reacciones Adversas). Al decidir entre los tratamientos alternativos  disponibles para los adolescentes, los médicos deberían considerar el mayor potencial (en la población adolescente en comparación con los adultos) de aumento de peso y dislipidemia. Los médicos deberían considerar los riesgos potenciales a largo plazo cuando prescriban a adolescentes, y en muchos casos esto puede llevarlos a considerar prescribir primero otras drogas en los adolescentes.
+La seguridad y eficacia de olanzapina en niños menores de 13 años de edad no han sido establecidas.
+
+Empleo en ancianos
+En pacientes con Esquizofrenia, no hubo indicación de alguna tolerabilidad diferente a la olanzapina en pacientes geriátricos en comparación con los pacientes más jóvenes. Estudios en pacientes geriátricos con  psicosis  relacionadas  con  demencia  han  sugerido  que  en  esta población podría haber un perfil de tolerabilidad totalmente diferente en comparación con pacientes más jóvenes con Esquizofrenia. Los pacientes geriátricos con psicosis relacionada con demencia tratados con drogas antipsicóticas atípicas tienen un mayor riesgo de muerte que los pacientes que reciben placebo. La olanzapina no está aprobada para
+
+el tratamiento de pacientes con psicosis relacionadas con demencia.
+La presencia de factores que puedan reducir la eliminación farmacocinética  o  aumentar  la  respuesta  farmacodinámica  a  la  olanzapina deberían dar lugar a la consideración de una dosis inicial más baja para cualquier paciente geriátrico (Ver Posología y Forma de Administración,
+Precauciones).
+
+Empleo en insuficiencia hepática y renal En  estos  pacientes  debe  considerarse  la  utilización  de  dosis  iniciales inferiores (5 mg). En casos de insuficiencia hepática moderada (cirrosis, insuficiencia clase A o B de la escala Child-Pugh), la dosis inicial debe ser de 5 mg y sólo incrementarse con precaución.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas No  se  han  realizado  estudios  de  los  efectos  sobre  la  capacidad  para conducir y utilizar máquinas. Puesto que olanzapina puede causar somnolencia y mareos, los pacientes deben ser prevenidos sobre el uso de maquinaria y vehículos motorizados.
+
+REACCIONES ADVERSAS
+
+Resumen del perfil de seguridad
+Adultos
+Las reacciones notificadas más frecuentemente (observadas en ≥ 1% de los pacientes) asociadas al uso de olanzapina en ensayos clínicos fueron somnolencia, aumento de peso, eosinofilia, aumento de los niveles de prolactina, colesterol, glucosa y triglicéridos, glucosuria, aumento del apetito, mareos, acatisia, parkinsonismo, leucopenia, neutropenia, discinesia, hipotensión ortostática, efectos anticolinérgicos, aumentos asintomáticos y transitorios de las aminotransferasas hepáticas, exantema, astenia, cansancio, fiebre, artralgia, aumento de la fosfatasa alcalina, gamma glutamil transferasa alta, ácido úrico alto, creatinfosfoquinasa alta y edema.
+La siguiente tabla recoge las reacciones adversas y las exploraciones complementarias  observadas  durante  la  experiencia  post-comercialización y en los ensayos clínicos. Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de frecuencia. Los intervalos de frecuencia utilizados son: Muy frecuentes (≥1/10), frecuentes  (≥1/100  a  <1/10),  poco  frecuentes  (≥1/1.000  a  <1/100), raras (≥1/10.000 a <1/1.000), muy raras (<1/10.000), frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Muy frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Raras
+
+Frecuencia poco conocida
+
+Trastornos de la sangre y el sistema linfático
+
+Eosinofilia
+Leucopenia10
+Neutropenia10
+
+Trombocitopenia11
+
+Trastornos del sistema inmunológico
+
+Hipersensibilidad11
+
+Hipotermia12
+
+Síndrome
+Neuroléptico
+Maligno12
+Síntomas de retirada7,12
+
+Trastornos del metabolismo y de la nutrición
+Aumento de peso1
+
+Aparición o exacerbación de diabetes ocasionalmente asociada a cetoacidosis o coma, incluyendo algún caso mortal11
+
+Niveles de colesterol elevados2,3
+Niveles de glucosa elevados4
+Niveles de triglicéridos elevados2,5
+Glucosuria
+Aumento del apetito
+
+Trastornos del sistema nervioso
+Somnolencia Mareos
+Acatisia6
+Parkinsonismo6
+Discinesia6
+
+Convulsiones, en la mayoría de los casos existían antecedentes de convulsiones o factores de riesgo de convulsiones11
+Distonía
+(incluyendo crisis oculógiras)11
+Discinesia tardía11
+Amnesia9
+Disartria
+Tartamudeo11
+Síndrome de piernas inquietas11
+
+Trastornos cardíacos
+
+Exploraciones complementarias
+
+Bradicardia
+Prolongación del intervalo
+QTc
+
+Taquicardia/ fibrilación ventricular, muerte súbita11
+
+Aumento de los niveles plasmáticos de prolactina8
+
+Aumento de la bilirrubina total
+
+Aumento de la fosfatasa alcalina10
+Niveles elevados de creatinfosfoquinasa11
+Gamma glutamil transferasa alta10
+Ácido úrico elevado10
+
+Trastornos vasculares
+
+Hipotensión ortostática10
+
+Tromboembolismo
+(incluyendo tromboembolia pulmonar y trombosis venosa profunda)
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+Epistaxis9
+
+Distensión abdominal9
+Hipersecreción salival11
+
+Pancreatitis11
+
+Hepatitis
+(incluyendo daño hepatocelular, colestásico o mixto)11
+
+Trastornos gastrointestinales
+
+Efectos anticolinérgicos transitorios leves, incluyendo estreñimiento y sequedad de boca
+
+Trastornos hepatobiliares
+
+Aumentos asintomáticos y transitorios de las aminotransferasas hepáticas (ALT,
+AST) especialmente al comienzo del tratamiento
+
+Trastornos de la piel y del tejido subcutáneo
+
+Exantema
+
+Reacciones de fotosensibilidad
+Alopecia
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Artralgia9
+
+Rabdomiolisis11
+
+Trastornos renales y urinarios
+
+Incontinencia urinaria, retención urinaria
+Dificultad para iniciar la micción11
+
+Embarazo, puerperio y enfermedades perinatales
+
+Reacción a fármaco con eosinofilia y síntomas sistémicos
+(DRESS por sus siglas en inglés)
+
+Síndrome de abstinencia neonatal al fármaco
+
+Trastornos del aparato reproductor y de la mama
+
+Priapismo12
+
+Disfunción eréctil en hombres
+Disminución de la libido en hombres y mujeres
+
+Amenorrea
+Agrandamiento de las mamas
+Galactorrea en mujeres
+Ginecomastia/ agrandamiento de las mamas en hombres
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Astenia
+Cansancio
+Edema
+Fiebre10
+
+1.  Se observó un aumento de peso clínicamente significativo en los niveles basales de todas las categorías de índice de masa corporal (IMC). Después del tratamiento a corto plazo (duración media de 47 días), se observó de forma muy frecuente (22,2%) un aumento ≥7% del nivel basal del peso corporal, de forma frecuente (4,2%) un aumento ≥ 15% del mismo y de forma poco frecuente (0,8%) ≥25%. Se observó de forma muy frecuente un aumento ≥7%, ≥15% y ≥25% del nivel basal del peso corporal (64,4%,
+31,7% y 12,3% respectivamente) en pacientes con una exposición a largo plazo (al menos 48 semanas).
+
+2.  El  aumento  medio  de  los  valores  de  lípidos  en  ayunas  (colesterol  total, colesterol LDL y triglicéridos) fue mayor en pacientes sin evidencia de desajustes lipídicos basales.
+
+3.  Observado para niveles basales normales en ayunas (<5,17 mmol/l) que aumentaron  a  niveles  elevados  (≥  6,2  mmol/l).  Fueron  muy  frecuentes los cambios en los niveles de colesterol en ayunas desde niveles basales límites (≥5,17 -<6,2 mmol/l) a niveles elevados (≥6,2 mmol/l).
+
+4.  Observado para niveles basales normales en ayunas (<5,56 mmol/l) que aumentaron a niveles elevados (≥7 mmol/l). Fueron muy frecuentes los cambios en los niveles de glucosa en ayunas desde niveles basales límites
+(≥5,56-<7 mmol/l) a niveles elevados (≥7 mmol/l).
+
+5.  Observado para niveles basales normales en ayunas (<1,69 mmol/l) que aumentaron  a  niveles  elevados  (≥2,26  mmol/l).  Fueron  muy  frecuentes los cambios en los niveles de triglicéridos en ayunas desde niveles basales límites (≥1,69 mmol/l - <2,26 mmol/l) a niveles elevados (≥2,26 mmol/l).
+6.  En ensayos clínicos la incidencia de parkinsonismo y distonía en pacientes tratados  con  olanzapina  fue  numéricamente  mayor,  pero  sin  diferencia estadísticamente significativa de la de placebo. Los pacientes tratados con olanzapina presentaron una menor incidencia de parkinsonismo, acatisia y distonía en comparación con dosis correspondientes de haloperidol. En ausencia de información detallada de antecedentes individuales sobre alteraciones del movimiento de tipo extrapiramidal, agudas y tardías, en la actualidad no se puede llegar a la conclusión de que olanzapina produzca menos discinesia tardía y/u otros síndromes extrapiramidales tardíos.
+7.  Se  han  notificado  síntomas  agudos  tales  como  sudoración,  insomnio, temblor,  ansiedad,  náuseas  y  vómitos  al  interrumpir  el  tratamiento  con olanzapina de forma repentina.
+
+8.  En ensayos clínicos de hasta 12 semanas, en aproximadamente un 30% de los pacientes tratados con olanzapina que presentaron valores basales normales  de  prolactina,  las  concentraciones  plasmáticas  de  prolactina excedieron  el  límite  superior  del  rango  normal.  En  la  mayoría  de  estos pacientes, las elevaciones fueron moderadas en términos generales, y se mantuvieron por debajo de dos veces el límite superior del rango normal.
+9.  Reacciones  adversas  identificadas  en  los  ensayos  clínicos  de  la  Base  de
+
+Datos Integrados de Olanzapina.
+
+10. Según la evaluación de los valores medidos en los ensayos clínicos de la
+
+Base de Datos Integrados de Olanzapina.
+
+11. Reacciones adversas identificadas a partir de notificaciones espontáneas post comercialización con una frecuencia determinada utilizando la Base de Datos Integrados de Olanzapina.
+
+12. Reacciones adversas identificadas a partir de informes espontáneos post comercialización  con  una  frecuencia  estimada  en  el  límite  superior  del intervalo de confianza del 95% utilizando la Base de Datos Integrados de
+Olanzapina.
+
+Exposición a largo plazo (al menos 48 semanas)
+La proporción de pacientes que presentaron un cambio negativo clínicamente significativo en el aumento de peso o en los niveles de glucosa, colesterol  total/LDL/HDL  o  triglicéridos  aumentó  con  el  tiempo.  En pacientes adultos que completaron de 9 a 12 meses de tratamiento, la tasa media de aumento de los niveles de glucosa sanguínea disminuyó después de aproximadamente 6 meses.
+
+Información adicional en poblaciones especiales En  ensayos  clínicos  realizados  en  pacientes  de  edad  avanzada  con demencia,  el  tratamiento  con  olanzapina  se  asoció  con  una  mayor incidencia  de  muertes  y  reacciones  adversas  cerebrovasculares  en comparación con placebo (ver Advertencias). Las reacciones adversas muy frecuentes asociadas con el uso de olanzapina en este grupo de
+
+pacientes fueron trastornos de la marcha y caídas. Se observaron con frecuencia  neumonía,  aumento  de  la  temperatura  corporal,  letargo, eritema, alucinaciones visuales e incontinencia urinaria.
+En ensayos clínicos realizados en pacientes con psicosis inducida por fármacos (agonistas dopaminérgicos) asociada a enfermedad de Parkinson, se han notificado de forma muy frecuente casos de empeoramiento de la sintomatología parkinsoniana y alucinaciones, y de forma más frecuente que con placebo.
+En  un  ensayo  clínico  realizado  en  pacientes  que  presentaban  manía bipolar, el tratamiento combinado con valproato y olanzapina dio lugar a una incidencia de neutropenia de 4,1%; un posible factor asociado podría ser la presencia de niveles plasmáticos elevados de valproato.
+La olanzapina administrada junto con litio o valproato dio lugar a una mayor incidencia (≥ 10%) de temblor, sequedad de boca, aumento del apetito y aumento de peso. Los trastornos del lenguaje también fueron notificados de forma frecuente. Durante el tratamiento con olanzapina en combinación con litio o divalproato (combinación de ácido valproico y valproato sódico) se produjo un incremento ≥7% del peso corporal con respecto al nivel basal en el 17,4% de los pacientes durante la fase aguda del tratamiento (hasta 6 semanas). El tratamiento a largo plazo con olanzapina (hasta 12 meses) para la prevención de las recaídas en pacientes con trastorno bipolar se asoció a un incremento de ≥ 7% del peso, con respecto al valor basal, en el 39,9% de los pacientes.
+
+Adolescentes
+La siguiente tabla resume las reacciones adversas notificadas con mayor frecuencia  en  pacientes  adolescentes  (edades  comprendidas  entre  13 y  17  años)  que  en  pacientes  adultos  o  reacciones  adversas  que  únicamente se han identificado durante los ensayos clínicos a corto plazo en adolescentes. Parece ser que el aumento de peso clínicamente significativo (≥ 7%) ocurre con mayor frecuencia en la población adolescente en comparación  con  adultos  con  exposiciones  comparables.  La  magnitud del aumento de peso y la proporción de pacientes adolescentes para los que dicho aumento fue clínicamente significativo, fueron mayores para la exposición a largo plazo (de al menos 24 semanas) que a corto plazo.
+Las reacciones adversas se enumeran en orden decreciente de gravedad dentro  de  cada  intervalo  de  frecuencia.  Los  intervalos  de  frecuencia utilizados son: Muy frecuentes (≥1/10), frecuentes (≥1/100 a <1/10).
+
+Trastornos del metabolismo y de la nutrición Muy frecuentes: Aumento de peso13, niveles de triglicéridos elevados14, aumento del apetito.
+Frecuentes: Niveles de colesterol elevados15
+Trastornos del sistema nervioso
+Muy  frecuentes:  Sedación  (incluyendo:  hipersomnia,  letargia,  somnolencia)
+Trastornos gastrointestinales
+Frecuentes: Sequedad de boca
+Trastornos hepatobiliares
+Muy frecuentes: Aumentos de las aminotransferasas hepáticas (ALT/AST)
+Exploraciones complementarias
+Muy frecuentes: Disminución de la bilirrubina total, elevación de la GGT, aumento de los niveles plasmáticos de prolactina16
+
+13. Después del tratamiento a corto plazo (duración media de 22 días), se observó de forma muy frecuente (40,6%) un aumento del peso corporal ≥7% con respecto al valor basal del peso corporal, de forma frecuente (7,1%)
+un aumento ≥15% del mismo y de forma frecuente (2,5%) un aumento ≥25%. Con  una exposición a largo plazo (de al menos 24 semanas), el 89,4% presentaron una ganancia ≥ 7%, el 55,3% presentaron una ganancia ≥ 15% y el 29,1% presentaron una ganancia ≥ 25% del nivel basal del peso corporal.
+
+14. Observado para niveles basales normales en ayunas (<1,016 mmol/l)
+que aumentaron a niveles elevados (≥1,467 mmol/l) y cambios en los niveles de triglicéridos en ayunas desde niveles basales límites (≥1,016 mmol/l - <1,467 mmol/l) a niveles elevados (≥1,467 mmol/l).
+
+15. Se observaron de forma frecuente cambios en los niveles de colesterol total en ayunas desde niveles basales normales (<4,39 mmol/l) que aumentaron a niveles elevados (≥5,17 mmol/l). Fueron muy frecuentes los cambios en los niveles de colesterol total en ayunas desde niveles basales límites (≥4,39-<5,17 mmol/l) a niveles elevados (≥5,17 mmol/l).
+
+16. El aumento de los niveles plasmáticos de prolactina fue notificado en el
+
+47,4% de los pacientes adolescentes.
+
+Notificación de Sospecha de Reacciones Adversas:
+Es importante notificar la sospecha de reacciones adversas al medicamento  tras  su  autorización.  Ello  permite  una  supervisión  continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/ eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o  telefónicamente  al 0800-220-2273.
+
+SOBREDOSIFICACION
+
+Signos y síntomas
+Entre los síntomas muy frecuentes de la sobredosis (con una incidencia >  10%)  se  encuentran:  taquicardia,  agitación/agresividad,  disartria, síntomas extrapiramidales diversos y reducción del nivel de conciencia desde la sedación hasta el coma. Otras consecuencias de la sobredosis médicamente  significativa  son  delirio,  convulsiones,  coma,  posible síndrome neuroléptico maligno, depresión respiratoria, aspiración, hipertensión o hipotensión, arritmias cardíacas (< del 2 % de los casos de sobredosis) y paro cardiopulmonar. Se han notificado casos mortales en sobredosis agudas con cantidades bajas, por ejemplo 450 mg, aunque también se han notificado casos de supervivencia tras sobredosis agudas de aproximadamente 2 g de olanzapina oral.
+
+Tratamiento
+No  hay  un  antídoto  específico  para  olanzapina.  No  se  recomienda  la inducción de la emesis. Para el tratamiento de la sobredosis se pueden utilizar procedimientos estándar (por ejemplo, lavado gástrico, administración  de  carbón  activado).  La  administración  concomitante  de carbón activado reduce la biodisponibilidad oral de olanzapina en un 50 a 60 %. Se debe instaurar un tratamiento sintomático y monitorear las funciones vitales según la situación clínica, con tratamiento de la hipotensión y el colapso circulatorio además de soporte de la función respiratoria. No se debe utilizar adrenalina, dopamina u otros agentes simpaticomiméticos  con  actividad  agonista  beta,  puesto  que  la  estimulación beta podría empeorar la hipotensión. Es necesario hacer un monitoreo cardiovascular para detectar posibles arritmias. Es necesario que el paciente continúe con una estrecha supervisión y monitoreo clínico hasta su recuperación.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA DR. RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL DR. ALEJANDRO POSADAS:
+(011) 4654-6648 / 4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONTENIDO POR ENVASE
+
+Envase conteniendo 14 comprimidos recubiertos (2 blisters con 7 comprimidos recubiertos).
+Envase conteniendo 28 comprimidos recubiertos (4 blisters con 7 comprimidos recubiertos).
+
+CONSERVACIÓN
+
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+
+PRESENTACIONES
+
+MIDAX®  2,5  se  presenta  en  envases  conteniendo  28  comprimidos recubiertos.
+MIDAX® 5 se presenta en envases conteniendo 14 y 28 comprimidos recubiertos.
+MIDAX® 10 se presenta en envases conteniendo 14 y 28 comprimidos recubiertos.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”
+
+Información para el paciente
+
+COMPOSICIÓN
+Cada comprimido recubierto de MIDAX® 2,5 contiene:
+Olanzapina ....................................................................................2,50 mg Lactosa monohidrato.................................................................77,50 mg
+Hidroxipropilcelulosa EXF ..........................................................4,00 mg Crospovidona ...............................................................................5,00 mg
+Celulosa microcristalina PH 102 ............................................. 10,00 mg Estearato de magnesio vegetal ..................................................1,00 mg
+HPMC 3 cP .................................................................................0,583 mg HPMC 6 cP .................................................................................0,583 mg
+Dióxido de titanio...................................................................... 0,609 mg PEG 400 ......................................................................................0,156 mg
+Polisorbato 80 ........................................................................... 0,020 mg Goma laca .................................................................................. 0,025 mg
+Cera blanca .................................................................................0,013 mg Cera carnauba ............................................................................0,013 mg
+
+Cada comprimido recubierto de MIDAX® 5 contiene:
+Olanzapina ....................................................................................5,00 mg Lactosa monohidrato.................................................................155,0 mg
+Hidroxipropilcelulosa EXF ..........................................................8,00 mg Crospovidona ............................................................................ 10,00 mg
+Celulosa microcristalina PH 102 ............................................. 20,00 mg Estearato de magnesio vegetal ..................................................2,00 mg
+HPMC 3 cP ..................................................................................1,185 mg HPMC 6 cP ..................................................................................1,185 mg
+Dióxido de titanio.......................................................................1,239 mg PEG 400 ......................................................................................0,317 mg
+Polisorbato 80 ...........................................................................0,040 mg Goma laca ...................................................................................0,017 mg
+Cera blanca ................................................................................0,009 mg Cera carnauba ...........................................................................0,009 mg
+
+Cada comprimido recubierto de MIDAX® 10 contiene:
+Olanzapina ................................................................................. 10,00 mg Lactosa monohidrato.................................................................310,0 mg
+Hidroxipropilcelulosa EXF ....................................................... 16,00 mg Crospovidona ............................................................................ 20,00 mg
+Celulosa microcristalina PH 102 .............................................40,00 mg Estearato de magnesio vegetal ..................................................4,00 mg
+HPMC 3 cP ..................................................................................2,376 mg HPMC 6 cP ..................................................................................2,376 mg
+Dióxido de titanio...................................................................... 2,485 mg PEG 400 .....................................................................................0,636 mg
+Polisorbato 80 ........................................................................... 0,080 mg Goma laca .................................................................................. 0,023 mg
+Cera blanca .................................................................................0,012 mg Cera carnauba ............................................................................0,012 mg
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+1) ¿Cuál es la información más importante que debo saber
+
+sobre MIDAX®?
+
+• No se recomienda el uso de MIDAX® en pacientes de edad avanzada
+
+con demencia ya que puede tener efectos adversos graves.
+
+2) ¿Qué es MIDAX® y para que se utiliza?
+MIDAX® contiene el principio activo olanzapina. MIDAX® pertenece al
+
+grupo de medicamentos denominados antipsicóticos y está indicado para tratar las siguientes enfermedades:
+• Esquizofrenia
+• Trastorno Bipolar I (manía o episodios mixtos).
+
+3) ¿Qué es lo que debo saber antes de tomar MIDAX® y durante
+
+el tratamiento?
+
+No tome MIDAX®
+• Si es alérgico a la olanzapina o a alguno de los demás componentes de este medicamento. La reacción alérgica puede manifestarse en forma de erupción, picor, hinchazón de la cara o de los labios o dificultad para respirar. Si le pasara esto, dígaselo a su médico.
+
+• Si previamente se le han diagnosticado problemas en los ojos tales como ciertos tipos de glaucoma (aumento de la presión en el ojo).
+
+¿Qué debo informar a mi médico antes de tomar MIDAX®?
+Consulte a su médico antes de empezar a tomar MIDAX®.
+
+Informe a su médico si usted presenta cualquiera de las siguientes situaciones:
+• Si sufre demencia, usted o su cuidador o familiar deben informar a su médico si ha tenido alguna vez un infarto cerebral o una falta de riego sanguíneo en el cerebro.
+
+• Enfermedad de Parkinson
+• Problemas de próstata
+• Bloqueo intestinal (Íleo paralítico)
+• Enfermedad del hígado o riñón
+• Alteraciones de la sangre
+• Enfermedades del corazón
+• Diabetes
+• Convulsiones
+• Si  cree  que  puede  tener  pérdida  de  sales  como  consecuencia  de tener diarrea y vómitos intensos de forma prolongada o por el uso de medicamentos diuréticos (comprimidos para orinar).
+
+• Si está embarazada o en periodo de lactancia, cree que podría estar
+
+embarazada o tiene intención de quedarse embarazada
+
+• Si está dando el pecho a su bebé, ya que pequeñas cantidades de
+
+olanzapina pueden pasar a la leche materna, no amamantar.
+
+Como precaución rutinaria, si tiene más de 65 años, convendría que su médico le controlara la tensión arterial.
+• No se recomienda el uso de MIDAX® en pacientes de edad avanzada
+
+con demencia ya que puede tener efectos adversos graves.
+
+• Medicamentos de este tipo pueden provocar movimientos inusuales, sobre todo en la cara o en la lengua. Si le pasara esto después de haber tomado MIDAX®, dígaselo a su médico.
+
+• En muy raras ocasiones, medicamentos de este tipo producen una combinación  de  fiebre,  respiración  acelerada,  sudoración,  rigidez muscular y un estado de obnubilación o somnolencia. Si le ocurriera esto, póngase en contacto con su médico inmediatamente.
+
+• Se ha observado un aumento de peso en los pacientes que están tomando olanzapina. Usted y su médico deben comprobar su peso con  regularidad.  Si  fuera  necesario,  su  médico  le  puede  ayudar a planificar una dieta o considerar la posibilidad de remitirle a un nutricionista.
+
+• Se han observado niveles elevados de azúcar y grasas (triglicéridos y colesterol) en sangre en los pacientes que están tomando olanzapina.  Su  médico  debe  hacerle  análisis  de  sangre  para  controlar su azúcar en sangre y los niveles de grasa antes de que comience a tomar MIDAX® y de forma regular durante el tratamiento.
+
+• Si usted o alguien en su familia tiene antecedentes de coágulos sanguíneos, consulte con su médico, ya que los medicamentos de este tipo han sido asociados con la formación de coágulos en la sangre.
+
+¿Puedo tomar MIDAX® con otros medicamentos?
+Informe  a  su  médico  acerca  de  todos  los  medicamentos  que  toma.
+Ello incluye:
+
+Medicamentos bajo receta
+Medicamentos de venta libre
+Suplementos a base de hierbas
+Solo  use  otros  medicamentos  al  mismo  tiempo  que  MIDAX®,  si  su médico se lo autoriza. Es posible que sienta cierta sensación de sueño si combina MIDAX® con antidepresivos o medicamentos para la ansiedad o que ayuden a dormir (tranquilizantes).
+
+Informe a su médico si está utilizando, ha utilizado recientemente o pudiera tener que utilizar cualquier otro medicamento.
+
+En concreto, diga a su médico si está tomando:
+• medicación para la enfermedad de Parkinson.
+• carbamazepina  (un  antiepiléptico  y  estabilizador  del  humor),  fluvoxamina (un antidepresivo) o ciprofloxacino (un antibiótico). Puede que necesiten cambiar su dosis de MIDAX®.
+
+Uso de MIDAX® con alcohol:
+No debe beber alcohol si le han administrado MIDAX® porque puede producir somnolencia.
+
+Conducción y uso de máquinas:
+Existe el riesgo de sufrir somnolencia cuando esté tomando MIDAX®.
+Si le ocurriera esto, no conduzca vehículos ni use maquinaria. Consúltelo con su médico.
+
+4) ¿Cómo debo tomar MIDAX®?
+Tome MIDAX® exactamente como se lo indicó el médico, a las horas del día que correspondan respetando la dosis y duración.
+En caso de duda, consulte de nuevo a su médico.
+Su médico le indicará cuántos comprimidos de MIDAX® debe tomar y durante cuánto tiempo. La dosis diaria de MIDAX® oscila entre 5 mg y 20 mg. Consulte con su médico si vuelve a sufrir los síntomas, pero no deje de tomar MIDAX® a menos que se lo diga su médico.
+
+Debe tomar sus comprimidos de MIDAX® una vez al día, siguiendo las indicaciones de su médico. Procure tomar los comprimidos a la misma hora todos los días. Puede tomarlos con o sin alimentos. Los comprimidos recubiertos de MIDAX® son para administración vía oral. Debe tragar los comprimidos de MIDAX® enteros con agua.
+
+No cambie sus dosis como así tampoco suspenda la administración de MIDAX® sin consultar primero con su médico. Si su hijo toma/usa MIDAX®, el médico que lo atiende decidirá la forma farmacéutica y dosis correcta, según la edad y el peso de su hijo.
+
+¿Qué debo hacer en caso de tomar más dosis de lo indicado?
+Póngase en contacto con su médico o diríjase inmediatamente al hospital. Enséñele al médico el envase con los comprimidos.
+Si toma/usa más de la dosis recetada de MIDAX®, consulte a su médico o al centro de intoxicaciones.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA DR. RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL DR. ALEJANDRO POSADAS:
+(011) 4654-6648 / 4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Tome sus comprimidos tan pronto como se acuerde. No tome una dosis doble para compensar las dosis olvidadas.
+
+Si interrumpe el tratamiento con MIDAX®.
+No interrumpa el tratamiento simplemente porque note que se encuentra  mejor.  Es  muy  importante  que  continúe  tomando  MIDAX® mientras se lo diga su médico.
+Si deja de tomar MIDAX® de forma repentina, pueden aparecer síntomas como sudoración, imposibilidad para dormir, temblor, ansiedad, o náuseas y vómitos. Su médico puede sugerirle que reduzca la dosis gradualmente antes de dejar el tratamiento.
+Si tiene cualquier otra duda sobre el uso de este medicamento, pregunte a su médico.
+
+5) ¿Cuáles son los efectos adversos que puede tener MIDAX®?
+Al igual que todos los medicamentos, este medicamento puede producir efectos adversos, aunque no todas las personas los sufran.
+
+Póngase en contacto inmediatamente con su médico si usted tiene:
+• Movimientos  inusuales  (un  efecto  adverso  frecuente  que  puede afectar hasta 1 de cada 10 personas) especialmente de la cara o de la lengua;
+
+• Si presenta en las piernas hinchazón, dolor o enrojecimiento, acuda
+
+al médico de inmediato.
+
+• Combinación de fiebre, respiración acelerada, sudoración, rigidez muscular y un estado de obnubilación o somnolencia (la frecuencia no puede ser estimada a partir de los datos disponibles).
+
+Efectos  adversos  muy  frecuentes  incluyen  aumento  de  peso;  somnolencia;  y  aumento  de  los  niveles  de  prolactina  en  sangre.  En  las primeras  fases  del  tratamiento,  algunas  personas  pueden  sentir mareos o desmayos (con latidos del corazón más lentos), sobre todo al  incorporarse  cuando  están  tumbados  o  sentados.  Esta  sensación suele desaparecer espontáneamente, pero si no ocurriera así, consulte con su médico.
+
+Efectos  adversos  frecuentes  incluyen  cambios  en  los  niveles  de  algunas  células  sanguíneas,  lípidos  circulantes  y  al  comienzo  del  tratamiento  aumentos  temporales  de  las  enzimas  hepáticas;  aumento de  los  niveles  de  azúcar  en  sangre  y  orina;  aumento  de  los  niveles de ácido úrico y creatinfosfoquinasa en sangre; aumento del apetito;
+mareos; agitación; temblor; movimientos extraños (discinesia); estreñimiento; sequedad de boca; erupción en la piel; pérdida de fuerza;
+cansancio excesivo; retención de líquidos que provoca inflamación de las manos, los tobillos o los pies; fiebre; dolor en las articulaciones;
+y disfunciones sexuales tales como disminución de la libido en hombres y mujeres o disfunción eréctil en hombres.
+
+Efectos  adversos  poco  frecuentes  incluyen  hipersensibilidad  (p.  ej.
+inflamación de la boca y de la garganta, picores, erupción en la piel);
+diabetes  o  empeoramiento  de  la  diabetes,  relacionados  ocasionalmente con cetoacidosis (acetona en sangre y orina) o coma; convulsiones, en la mayoría de los casos se relacionan con antecedentes de convulsiones  (epilepsia);  rigidez  muscular  o  espasmos  (incluyendo movimientos de los ojos); síndrome de piernas inquietas; problemas con el habla; tartamudeo; pulso lento; sensibilidad a la luz del sol;
+sangrado  por  la  nariz;  distensión  abdominal;  salivación  excesiva;
+pérdida de memoria u olvidos; incontinencia urinaria; pérdida de la habilidad para orinar; pérdida de cabello; ausencia o disminución de los periodos menstruales; y cambios en la glándula mamaria en hombres y en mujeres tales como producción anormal de leche materna o crecimiento anormal.
+
+Durante el tratamiento con olanzapina, los pacientes de edad avanzada con demencia pueden sufrir ictus, neumonía, incontinencia urinaria, caídas, cansancio extremo, alucinaciones visuales, una subida de la temperatura corporal, enrojecimiento de la piel y tener problemas al  caminar.  Se  han  notificado  algunos  fallecimientos  en  este  grupo particular de pacientes.
+
+MIDAX® puede empeorar los síntomas en pacientes con enfermedad de Parkinson.
+Los efectos adversos más frecuentes en adolescentes de 13 a 17 años son: niveles altos de grasas en la sangre (colesterol y triglicéridos), aumento de peso, aumento del apetito, sedación, aumento de algunas enzimas hepáticas, sequedad de boca, aumento de niveles plasmáticos de la hormona prolactina.
+Los efectos adversos descriptos pueden no estar en su totalidad, consulte con su médico ante la aparición de algún efecto adverso.
+
+6) ¿Cómo debo conservar MIDAX®?
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+
+7) Informacion adicional
+MIDAX® contiene lactosa
+
+Si su médico le ha indicado que padece una intolerancia a ciertos azúcares, consulte con él antes de tomar este medicamento.
+
+Este folleto resume la información más importante de MIDAX®, para mayor información y ante cualquier duda CONSULTE CON SU MÉDICO.
+No use este medicamento si la etiqueta o el envase está dañado.
+Ud. puede tomar/usar MIDAX® hasta el último día del mes indicado en el envase. No tome MIDAX® luego de la fecha de vencimiento.
+Ante  cualquier  inconveniente  con  el  producto  el  paciente  por  favor complete la ficha disponible en https://www.argentina.gob.ar/anmat/ farmacovigilancia/notificanos/pacientes  o  llame  a  ANMAT  responde
+0800-333-1234”
+
+Presentaciones
+MIDAX®  2,5  se  presenta  en  envases  conteniendo  28  comprimidos recubiertos.
+MIDAX® 5 se presenta en envases conteniendo 14 y 28 comprimidos recubiertos.
+MIDAX® 10 se presenta en envases conteniendo 14 y 28 comprimidos recubiertos.
+
+Contenido por envase
+Envase  conteniendo  14  comprimidos  recubiertos  (2  blisters  con  7 comprimidos recubiertos).
+Envase  conteniendo  28  comprimidos  recubiertos  (4  blisters  con  7 comprimidos recubiertos).
+
+“Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”
+
+Importante
+Informamos que MIDAX® 2,5mg, 5mg y 10mg comprimidos recubiertos se elabora actualmente en la planta de Gador S.A.
+Por  esta  razón  Ud  notará  una  variación  en  el  aspecto  de  los comprimidos y del empaque:
+
+Los comprimidos tendrán grabado MDX en una cara y la concentración en la otra
+
+Las dimensiones y formatos de estuche y blister serán ligeramente diferentes.
+
+Estas  modificaciones  han  sido  contempladas  pensando  en el paciente y desde luego mantienen la calidad, seguridad y eficacia.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+Envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado
+
+en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado No ° 59.575.
+
+Fecha última revisión: 12/2021
+
+G00222100-00

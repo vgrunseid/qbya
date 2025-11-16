@@ -1,0 +1,738 @@
+GRIXAN® 2,5
+APIXABAN 2,5 mg
+
+GRIXAN® 5
+APIXABAN 5 mg
+
+COMPRIMIDOS
+RECUBIERTOS
+
+total. Se observaron contribuciones adicionales de la excreción biliar e intestinal directa en estudios clínicos y no clínicos, respectivamente. El apixaban tiene una depuración total cercana a 3,3 l/h y una vida media de aproximadamente 12 horas. La O-desmetilación y la hidroxilación en la fracción 3 -oxopiperidinilo son los sitios principales de biotransformación.
+El apixaban es metabolizado principalmente vía CYP3A4/5 con contribuciones menores de CYP1A2, 2C8, 2C9, 2C19 y 2J2. El apixaban intacto es el principal componente hallado en el plasma humano sin metabolitos circulantes activos presentes. El apixaban es un sustrato de las proteínas de transporte denominadas P-gp y proteína de resistencia del cáncer de mama (BCRP).
+
+COMPRIMIDOS
+RECUBIERTOS
+
+Pacientes de edad avanzada
+Los pacientes de edad avanzada (mayores de 65 años de edad) mostraron concentraciones plasmáticas más altas que los más jóvenes, con valores medios del ABC que fueron aproximadamente 32% más altos y sin diferencia en Cmax.
+
+Venta Bajo Receta                                                                                       Industria Argentina
+
+FÓRMULAS
+
+GRIXAN 2,5
+Cada comprimido recubierto contiene:
+Apixaban 2,500 mg. Excipientes: povidona K30 3,125 mg; lactosa monohidrato 48,750 mg;
+celulosa microcristalina 48,750 mg; croscarmelosa sódica 6,250 mg; lauril sulfato de sodio 1,875 mg; crospovidona 12,500 mg; estearato de magnesio 1,250 mg; opadry II blanco
+2,940 mg (alcohol polivinílico parcialmente hidrolizado 1,1760 mg, dióxido de titanio 0,7350 mg, polietilenglicol 3000 0,5939 mg, talco 0,4351 mg), óxido de hierro amarillo 0,060 mg.
+
+GRIXAN 5
+Cada comprimido recubierto contiene:
+Apixaban 5,000 mg. Excipientes: povidona K30 6,255 mg; lactosa monohidrato 97,500 mg;
+celulosa microcristalina 97,500 mg; croscarmelosa sódica 12,500 mg; lauril sulfato de sodio 3,750 mg; crospovidona 25,000 mg; estearato de magnesio 2,500 mg; opadry II blanco 5,880 mg (alcohol polivinílico parcialmente hidrolizado 2,3520 mg, dióxido de titanio 1,4700 mg, polietilenglicol 3000 1,1878 mg, talco 0,8702 mg); óxido de hierro amarillo 0,120 mg.
+
+ACCIÓN TERAPÉUTICA
+Agente Antitrombótico, inhibidor directo del Factor Xa. Código ATC: B01 AF02
+
+INDICACIONES
+-Prevención de eventos de tromboembolia venosa (TEV) en pacientes adultos sometidos a cirugía electiva de sustitución de cadera o rodilla.
+-Prevención del accidente cerebrovascular (ACV) y de la embolia sistémica en pacientes adultos con fibrilación auricular no-valvular (FANV) con uno o más factores de riesgo tales como ACV o ataque isquémico transitorio (AIT) previos; edad mayor o igual a 75 años;
+hipertensión; diabetes mellitus; insuficiencia cardíaca sintomática (mayor o igual a Clase
+2 escala NYHA).
+-Tratamiento de la trombosis venosa profunda (TVP) y de la embolia pulmonar (EP), y prevención de las recurrencias de la TVP y de la EP en pacientes adultos.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de acción
+El apixaban es un inhibidor potente, reversible, directo y altamente selectivo del sitio activo del Factor Xa cuando es administrado por vía oral. No requiere antitrombina III para la actividad antitrombótica. El apixaban inhibe el Factor Xa libre y ligado al coágulo, y la actividad de protrombinasa. El apixaban no tiene efecto directo en la agregación plaquetaria, pero inhibe indirectamente la agregación plaquetaria inducida por la trombina. Al inhibir el Factor Xa, el apixaban impide la generación de trombina y el desarrollo de trombos. Estudios preclínicos del apixaban en modelos animales han demostrado eficacia antitrombótica en la prevención de trombosis arterial y venosa, en dosis que preservaban la hemostasia.
+
+Propiedades farmacodinámicas
+Los efectos farmacodinámicos del apixaban reflejan el mecanismo de acción (inhibición del Factor Xa). Debido a la inhibición del Factor Xa, el apixaban prolonga parámetros de las pruebas de coagulación tales como el tiempo de protrombina (PT), RIN y el tiempo de tromboplastina parcial activada (PTTa). Los cambios que se observan en esas pruebas de coagulación con la dosis terapéutica prevista son pequeños y están sujetos a gran variabilidad. No se recomienda basar en ellos la evaluación de los efectos farmacodinámicos del apixaban. En el ensayo de generación de trombina, apixaban reduce el potencial de trombina endógena, una medida de la generación de trombina en el plasma humano.
+El apixaban muestra también actividad anti-Factor Xa, como se evidenció de la reducción de la actividad enzimática del Factor Xa en varios kits comerciales anti-Factor Xa; sin embargo, los resultados difieren entre los kits. Los datos de los estudios clínicos se encuentran solamente disponibles para el estudio cromogénico de heparina Rotachrom. La actividad anti-Factor Xa guarda una estrecha relación directa, lineal con la concentración plasmática del apixaban, de modo que alcanza valores máximos cuando el apixaban alcanza sus concentraciones plasmáticas máximas. La relación entre la concentración plasmática del apixaban y la actividad anti-Factor Xa es aproximadamente lineal en un amplio intervalo de dosis de apixaban.
+En pacientes que toman apixaban para la prevención del TEV después de cirugía de reemplazo de cadera o rodilla, los resultados demuestran una fluctuación menor de 1,6 veces en la actividad anti-Factor Xa de pico a valle.
+En pacientes con fibrilación auricular no valvular que toman apixaban para la prevención del ACV y de la embolia sistémica, los resultados demuestran una fluctuación de menos de 1,7 veces en la actividad anti-factor Xa máxima a mínima. En pacientes que tomen apixaban para el tratamiento de la TVP y de la EP o prevención de las recurrencias de la TVP y EP, los resultados demuestran una fluctuación menor de 2,2 veces entre los niveles máximos y mínimos.
+Aunque el tratamiento con apixaban no requiere vigilancia sistemática de la exposición, el estudio cuantitativo de anti-Factor Xa calibrado puede ser útil en situaciones excepcionales en que el conocimiento de la exposición al apixaban puede ayudar a fundamentar decisiones clínicas; p. ej., sobredosis y cirugía de urgencia.
+
+FARMACOCINÉTICA
+Absorción
+La biodisponibilidad absoluta del apixaban es aproximadamente del 50% para dosis de hasta 10 mg. El apixaban se absorbe rápidamente con concentraciones máximas (Cmax) que aparecen de 3 a 4 horas después de la ingesta del comprimido. La ingesta con alimentos no afecta el ABC ni la Cmax de apixaban en la dosis de 10 mg. El apixaban puede tomarse con o sin alimentos. El apixaban demuestra una farmacocinética lineal con aumentos proporcionales de dosis, en la exposición a dosis orales de hasta 10 mg. En dosis de ≥
+25 mg, el apixaban muestra una absorción limitada por la disolución con reducción de biodisponibilidad. Los parámetros de exposición al apixaban muestran variabilidad baja a moderada, que se expresa en una variabilidad intrasujeto y entre sujetos ~20% CV y ~30%
+CV, respectivamente. Después de la administración oral de 10 mg de apixaban como 2 comprimidos triturados de 5 mg disueltos en 30 ml de agua, la exposición fue comparable a la exposición después de la administración oral de 2 comprimidos completos de 5 mg.
+Después de la administración oral de 10 mg de apixaban como 2 comprimidos triturados de 5 mg en 30 g de puré de manzana, la Cmax y el ABC fueron el 21% y 16% inferior, respectivamente, en comparación con la administración de 2 comprimidos completos de 5 mg. La reducción en la exposición no se considera clínicamente relevante.
+Después de la administración de un comprimido triturado de 5 mg de apixaban disuelto en 60 ml de glucosa al 5% en agua (G5A) y administrado a través de una sonda nasogástrica, la exposición fue similar a la observada en otros ensayos clínicos con individuos sanos que recibieron una dosis oral única de un comprimido de 5 mg de apixaban.
+Teniendo en cuenta el predecible perfil farmacocinético de apixaban proporcional a la dosis, los resultados de biodisponibilidad obtenidos de los estudios realizados son aplicables a dosis menores de apixaban.
+
+Distribución
+La unión a proteínas plasmáticas es de aproximadamente 87% en seres humanos. El volumen de distribución (Vss) aproximado es de 21 litros.
+
+Biotransformación y eliminación
+El apixaban se elimina por diversas vías. De la dosis de apixaban administrada a seres humanos, cerca de 25% se recuperó en la forma de metabolitos, en su mayor parte en las heces. La excreción renal del apixaban representa alrededor del 27% de la depuración
+
+1
+
+discontinúe el tratamiento con warfarina u otro tratamiento con AVK e inicie el tratamiento con Apixaban cuando el Rango Internacional Normalizado (RIN) sea < 2
+
+Cambio de tratamiento con GRIXAN a antagonistas de la vitamina K (AVK)
+Cuando cambie el tratamiento con Apixaban a tratamiento con AVK, continúe con la administración de apixaban durante al menos dos días después de empezar el tratamiento con AVK. Después de 2 días de coadministración de Apixaban con AVK, mida el RIN antes de la próxima dosis programada de Apixaban. Continúe la coadministración de Apixaban y AVK hasta que el RIN sea ≥ 2,0.
+
+Pacientes de edad avanzada
+Prevención de TEV y tratamiento/prevención de recurrencias de la TVP y EP - No es necesario ajustar la dosis.
+FANV - No se requiere ajuste de dosis, a menos que se cumplan los criterios de reducción de dosis.
+
+Insuficiencia renal
+En pacientes con insuficiencia renal leve o moderada aplican las siguientes recomendaciones: Para la prevención del TEV en cirugía electiva de cadera o rodilla (únicamente para 2,5 mg). Para el tratamiento de la TVP, tratamiento de EP y prevención de las recurrencias de la TVP y de la EP, no es necesario un ajuste de dosis. Para la prevención del ictus y la embolia sistémica en pacientes con FANV, y creatinina sérica ≥ 1.5 mg/dl (133 micromoles/l)
+asociada a edad ≥ 80 años o peso corporal ≤ 60 kg, es necesaria una reducción de dosis como la descrita anteriormente. En ausencia de otros criterios de reducción de dosis (edad, peso corporal), no es necesario un ajuste de dosis. En pacientes con insuficiencia renal grave (clearance de creatinina de 15-29 ml/min) aplican las siguientes recomendaciones:
+Para la prevención del TEV en cirugía electiva de cadera o rodilla, para el tratamiento de la TVP, tratamiento de EP y prevención de las recurrencias de la TVP y de la EP, apixaban se debe usar con precaución. Para la prevención del ACV y la embolia sistémica en pacientes con FANV, los pacientes deben recibir una dosis menor de apixaban, de 2,5 mg dos veces al día. En pacientes con clearance de creatinina < 15 ml/min o en pacientes sometidos a diálisis, no hay experiencia clínica y por tanto no se recomienda apixaban.
+
+Insuficiencia hepática
+GRIXAN  está  contraindicado  en  pacientes  con  enfermedad  hepática  asociada  a coagulopatía y riesgo de sangrado de trascendencia clínica.
+No se recomienda su uso en pacientes con insuficiencia hepática grave.
+Se debe emplear con precaución en pacientes con insuficiencia hepática leve o moderada (Child-Pugh A o B). No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve o moderada. Los pacientes con valores elevados de enzimas hepáticas (alanino aminotransferasa [ALT]/aspartato transaminasa [AST] > 2 x límite superior de lo normal
+[ULN]) o bilirrubina total ≥ 1,5 x ULN fueron excluidos de los estudios clínicos. Por lo tanto, se debe usar GRIXAN con precaución en esta población.
+Antes de iniciar el tratamiento con GRIXAN, se debe medir la función hepática.
+
+Peso corporal
+Prevención de TEV y tratamiento/prevención de recurrencias de la TVP y EP - No es necesario ajustar la dosis.
+FANV - No se requiere ajuste de dosis, a menos que se cumplan los criterios de reducción de dosis.
+
+Género
+No es necesario ajustar la dosis.
+
+Pacientes sometidos a ablación con catéter (FANV)
+El tratamiento con apixaban se puede continuar en pacientes que requieran una ablación por catéter.
+
+Pacientes sometidos a Cardioversión
+El tratamiento con apixaban se puede iniciar o continuar en pacientes con FANV que requieran cardioversión.
+En pacientes no tratados previamente con anticoagulantes, y de acuerdo con las actuales guías médicas se debe considerar descartar la existencia de un trombo en la aurícula izquierda utilizando técnicas basadas en imágenes (por ejemplo, ecocardiografía transesofágica
+(ETE) o escáner de tomografía computarizada (TC)) antes de la cardioversión.
+Para asegurar una anticoagulación adecuada, a los pacientes que inicien tratamiento con apixaban, se les deben administrar 5 mg dos veces al día durante al menos 2,5 días (5 dosis individuales) antes de la cardioversión. La pauta posológica debe reducirse a una dosis de 2,5 mg dos veces al día durante al menos 2,5 días (5 dosis individuales) si el paciente cumple los criterios de reducción de dosis.
+Si se requiere realizar la cardioversión antes de que puedan administrarse las 5 dosis de apixaban, debe administrarse una dosis de carga de 10 mg, seguida de dosis de 5 mg dos veces al día. El régimen de dosificación debe reducirse a una dosis de carga de 5 mg, seguida de dosis de 2,5 mg dos veces al día, si el paciente cumple los criterios de reducción de dosis. La administración de la dosis de carga debe realizarse al menos 2 horas antes de la cardioversión.
+Para todos los pacientes que requieran cardioversión, antes de la cardioversión se debe confirmar que el paciente ha tomado apixaban según lo prescrito. Las decisiones sobre inicio y duración del tratamiento deben tomarse teniendo en cuenta las recomendaciones establecidas en las guías de tratamiento anticoagulante en pacientes sometidos a cardioversión.
+
+Pacientes con FANV y síndrome coronario agudo (SCA) y/o intervención coronaria percutánea (ICP)
+La experiencia es limitada en el tratamiento con apixaban a la dosis recomendada para los pacientes con FANV cuando se utiliza en combinación con agentes antiplaquetarios en aquellos pacientes que tengan un SCA y/o se hayan sometido a una ICP después de que se haya alcanzado la hemostasis.
+
+Población pediátrica
+No se han establecido la seguridad y la eficacia de GRIXAN en pacientes menores de 18 años de edad. No hay información disponible a la fecha.
+
+Forma de administración
+Para administración oral.
+GRIXAN se debe tragar con agua, con o sin alimentos.
+Para pacientes que no pueden tragar los comprimidos enteros, los comprimidos de GRIXAN se pueden triturar y disolver con agua, o glucosa al 5% en agua (G5A), o jugo de manzana o mezclarse con puré de manzana y administrarse inmediatamente por vía oral.
+Como alternativa, los comprimidos de GRIXAN se pueden triturar y disolver en 60 ml de agua o G5A y administrarse inmediatamente a través de una sonda nasogástrica.
+Los comprimidos triturados de GRIXAN son estables en agua, G5A, jugo de manzana, y puré de manzana hasta 4 horas.
+
+CONTRAINDICACIONES
+•Hipersensibilidad al principio activo o a alguno de los excipientes.
+•Sangrado activo de trascendencia clínica.
+•Enfermedad hepática asociada a coagulopatía y riesgo de sangrado de trascendencia clínica •Lesión o patología si se considera que supone riesgo significativo de sangrado mayor.
+Esto puede incluir úlcera gastrointestinal existente o reciente; presencia de neoplasias malignas con alto riesgo de sangrado; daño cerebral o espinal reciente; cirugía cerebral, espinal u oftálmica reciente; hemorragia intracraneal reciente; sospecha o diagnóstico de várices esofágicas, malformaciones arteriovenosas, aneurismas vasculares; o anomalías vasculares intraespinales o intracerebrales mayores.
+•Tratamiento concomitante con cualquier otro agente anticoagulante como heparinas no fraccionadas (UFH), heparinas de bajo peso molecular (enoxaparina, dalteparina, etc.), derivados de heparinas (fondaparinux, etc.), anticoagulantes orales (warfarina, rivaroxabán, dabigatran, etc.), excepto en circunstancias específicas de cambio de tratamiento anticoagulante, cuando las heparinas no fraccionadas se administren a las dosis necesarias para mantener abierto un catéter venoso o arterial central o cuando se administre heparina no fraccionada durante la ablación por catéter en pacientes con fibrilación auricular.
+
+ADVERTENCIAS Y PRECAUCIONES
+Riesgo de hemorragia
+Al igual que con otros anticoagulantes, se debe estar muy atento a la aparición de cualquier
+
+3
+
+precaución en pacientes con insuficiencia renal grave (clearance de creatinina de 15-29 ml/min).
+Para la prevención del ACV y de la embolia sistémica en pacientes con fibrilación auricular no-valvular (FANV) los pacientes con insuficiencia renal severa (clearance de creatinina de 15-29 ml/min) y pacientes que presenten dos de las siguientes características: creatinina sérica ≥ 1,5 mg/dl (133 micromoles/l), asociada a edad ≥ 80 años o peso corporal ≤ 60 kg deben recibir una dosis menor de apixaban, de 2,5 mg administrados dos veces al día.
+En pacientes con clearance de creatinina < 15 ml/min, o en pacientes sometidos a diálisis, no hay experiencia clínica y por tanto apixaban no está recomendado.
+
+Pacientes de edad avanzada
+Con el aumento de la edad puede aumentar el riesgo de hemorragias.
+También la administración conjunta de apixaban con ácido acetilsalicílico se debe realizar con precaución en pacientes de edad avanzada, a causa del potencial aumento en el riesgo de sangrado.
+
+Peso corporal
+Un bajo peso corporal (≤ 60 kg) puede aumentar el riesgo de sangrado.
+
+Pacientes con insuficiencia hepática
+El apixaban está contraindicado en pacientes con enfermedad hepática asociada a coagulopatía y riesgo de sangrado de trascendencia clínica.
+No se recomienda en pacientes con insuficiencia hepática grave.
+Debe utilizarse con precaución en pacientes con insuficiencia hepática leve o moderada
+(Child Pugh A o B).
+Se excluyó de los ensayos clínicos a los pacientes con valores elevados de enzimas hepáticas (GOT/GPT >2xLSN) o bilirrubina total ≥1,5xLSN. Por tanto, el apixaban debe utilizarse con precaución en esta población. Antes de iniciar el tratamiento con apixaban, se debe medir la función hepática.
+
+Recomendaciones de uso
+1.La decisión de iniciar o no el tratamiento anticoagulante se debe tomar de forma individualizada, a partir de la evaluación del riesgo trombótico y hemorrágico de cada paciente.
+2.Debido a que estos fármacos no cuentan aún con un antídoto específico que revierta su efecto, se recomienda al personal de salud realizar un seguimiento clínico continuado de los pacientes, evaluando el cumplimiento terapéutico, teniendo en cuenta las situaciones clínicas en las que sea necesario interrumpir o ajustar el tratamiento anticoagulante (ej.:
+aparición de sangrados y/o otros efectos adversos, intervenciones quirúrgicas, ajuste de dosis por variación en la función renal, posibles interacciones farmacológicas que pudieran llegar a presentarse, cambio del tipo de anticoagulante, etc.).
+3.Advertir a sus pacientes acerca de:
+•La importancia de la adherencia a dicho tratamiento, con el fin de evitar posibles complicaciones.
+•Signos y síntomas de alarma y cuándo es necesario solicitar la atención de un profesional.
+•La necesidad de que los pacientes siempre informen a otros médicos, enfermeros, dentistas, farmacéuticos o cualquier personal de la salud que se encuentra bajo tratamiento anticoagulante, a la hora de someterse a cualquier cirugía o a un procedimiento invasivo.
+•Que, durante el tratamiento con anticoagulantes, las inyecciones intramusculares pueden causar hematomas, por lo que deben evitarse. Las inyecciones subcutáneas e intravenosas, por otra parte, no conducen a tales complicaciones.
+4.No prescribir anticoagulantes orales concomitantemente con medicamentos que aumenten el riesgo de producir hemorragias, como agentes antiplaquetarios, heparinas, agentes fibrinolíticos y AINEs en uso crónico.
+5.Se recomienda utilizar con precaución en condiciones que conlleven un riesgo incrementado de hemorragia. La administración debe interrumpirse en caso de presentar hemorragia
+6.Se recuerda a los profesionales sanitarios la necesidad de notificar las sospechas de reacciones adversas, en particular por tratarse de fármacos de reciente comercialización.
+
+Interacción con inhibidores tanto del citocromo P450 3A4 (CYP3A4) y de la glucoproteína
+P (P-gp)
+No se recomienda el uso de apixaban en pacientes que reciben tratamiento sistémico concomitante con inhibidores potentes del CYP3A4 y de la P-gp, tales como antimicóticos azólicos (p. ej., ketoconazol, itraconazol, voriconazol y posaconazol) o inhibidores de la proteasa del VIH (p. ej., ritonavir). Estos medicamentos pueden duplicar la exposición al apixaban o aumentarla aún más ante la presencia de factores adicionales que aumentan la exposición al apixaban (p. ej., insuficiencia renal grave).
+
+Interacción con los inductores del CYP3A4 y de la P-gp El uso concomitante de apixaban con inductores potentes del CYP3A4 y la P-gp (p. ej., rifampicina, fenitoína, carbamazepina, fenobarbital o hierba de San Juan [Hypericum perforatum]) puede causar una reducción de ~50% en la exposición a apixaban. En un estudio clínico en pacientes con fibrilación auricular, se observó una disminución de la eficacia y un mayor riesgo de sangrado cuando se coadministraba apixaban junto con inductores potentes del CYP3A4 y de la P-gp, en comparación a cuando se administraba solamente apixaban.
+En los pacientes que reciben tratamiento sistémico concomitante con inductores potentes tanto del CYP3A4 como de la P-gp se aplican las siguientes recomendaciones:
+•para la prevención del TEV en cirugía electiva de cadera o rodilla, para la prevención del ACV y la embolia sistémica en pacientes con FANV y para la prevención de las recurrencias de la TVP y de la EP, apixaban se debe usar con precaución;
+•para el tratamiento de la TVP y tratamiento de EP, no se debe utilizar apixaban ya que la eficacia se puede ver comprometida.
+
+Cirugía de fractura de cadera
+No se ha evaluado en estudios clínicos la eficacia y seguridad del uso del apixaban en pacientes que se someten a una cirugía no electiva de fractura de cadera. Por tanto, no es recomendable en estos pacientes.
+
+Parámetros de laboratorio
+Los resultados de las pruebas de coagulación (p. ej., tiempo de protrombina [PT], Relación Normalizada Internacional [RIN] y tiempo de tromboplastina parcial activada [PTTa]) se modifican de acuerdo con el mecanismo de acción del apixaban. Los cambios que se observan en estas pruebas con la dosis terapéutica prevista son pequeños y están sujetos a una gran variabilidad.
+
+Información sobre excipientes
+GRIXAN contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, deficiencia total de lactasa o problemas de mala absorción de glucosa o galactosa no deben tomar este medicamento.
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por comprimido, lo que lo convierte esencialmente en “libre de sodio”
+
+Interacciones medicamentosas
+Inhibidores del CYP3A4 y la P-gp
+La administración concomitante de apixaban con ketoconazol (400 mg una vez al día), un potente inhibidor del CYP3A4 y de la P-gp, aumentó dos veces el ABC media del apixaban y un aumento de 1,6 veces en la Cmax media de apixaban.
+No se recomienda el uso de apixaban en pacientes que reciben tratamiento sistémico concomitante con inhibidores potentes tanto del CYP3A4 como de la P-gp, como los antimicóticos azólicos (p.ej., ketoconazol, itraconazol, voriconazol y posaconazol) o inhibidores de la proteasa del VIH (p. ej., ritonavir).
+Es de esperar que principios activos que no se consideran inhibidores potentes ni de CYP3A4 ni de la P-gp (por ejemplo, amiodarona, claritromicina, diltiazem, fluconazol, naproxeno, quinidina, verapamilo) aumenten en menor grado la concentración plasmática de apixaban. No es necesario ningún ajuste de dosis de apixaban en administración concomitante con inhibidores no potentes del CYP3A4 y/o la P-gp. Por ejemplo, el diltiazem
+(360 mg una vez al día), considerado un inhibidor moderado del CYP3A4 y débil de la P-gp, aumentó 1,4 veces los valores medios del ABC del apixaban y aumentó 1,3 veces la Cmax.
+El naproxeno (500 mg en dosis única), inhibidor de la P-gp pero no del CYP3A4, aumentó 1,5 y 1,6 veces, respectivamente, los valores medios del ABC y la Cmax del apixaban. La claritromicina (500 mg, dos veces al día), un inhibidor de la P-gp y un inhibidor potente del CYP3A4 aumentaron 1,6 veces y 1,3 veces el ABC medio y la Cmax de apixaban respectivamente.
+
+5
+
+Insuficiencia renal
+La concentración máxima del apixaban no se vio afectada en la disfunción renal. La exposición al apixaban aumentó en correlación con la disminución de la función renal, según se evaluó por la depuración medida de creatinina. En personas con insuficiencia renal leve
+(clearance de creatinina de 51-80 ml/min), moderada (clearance de creatinina de 30-50 ml/min) y grave (clearance de creatinina de 15-29 ml/min), las concentraciones plasmáticas
+(ABC) de apixaban aumentaron 16%, 29% y 44%, respectivamente, en comparación con las personas con clearance de creatinina normal. La disfunción renal no tuvo efecto evidente en la relación entre la concentración plasmática del apixaban y la actividad anti-Factor Xa. En sujetos con enfermedad renal terminal (ERT), el ABC de apixaban se incrementó en un 36% en comparación con el observado en sujetos con función renal normal, cuando se administró una dosis única de 5 mg de apixaban inmediatamente después de la hemodiálisis. La hemodiálisis, iniciada dos horas después de la administración de una dosis única de 5 mg de apixaban, disminuyó en un 14% el ABC en estos sujetos con ERT, lo que se corresponde con un clearance de apixaban de 18 ml/min durante la diálisis. Por tanto, es poco probable que la hemodiálisis sea una medida efectiva para manejar la sobredosis de apixaban.
+
+Insuficiencia hepática
+En un estudio que comparaba 8 sujetos con insuficiencia hepática leve, puntaje Child-Pugh A 5 (n = 6) y puntaje 6 (n = 2), y 8 sujetos con insuficiencia hepática moderada (puntaje
+Child-Pugh B 7 (n = 6) y puntaje 8 (n = 2) contra 16 sujetos control sanos, la farmacocinética y la farmacodinamia de una dosis única de 5 mg de apixaban no sufrieron alteraciones en los sujetos con insuficiencia hepática. Los cambios en la actividad anti-Factor Xa y en la RIN fueron similares entre los sujetos con insuficiencia hepática leve a moderada y los sujetos sanos.
+
+Género
+La exposición al apixaban fue aproximadamente 18% más alta en mujeres que en varones.
+
+Origen étnico y raza
+En general, los estudios de Fase I no mostraron ninguna diferencia perceptible en la farmacocinética del apixaban entre los sujetos blancos o caucásicos, asiáticos y negros o afroamericanos. Los resultados de un análisis de farmacocinética poblacional en pacientes que recibieron apixaban concordaron con los resultados de Fase I.
+
+Peso corporal
+En comparación con la exposición al apixaban en sujetos con peso corporal de 65 a 85 kg, el peso corporal > 120 kg se vio vinculado a una exposición aproximadamente 30% menor, y el peso corporal < 50 kg, a una exposición aproximadamente 30% mayor.
+
+Relación entre farmacocinética y farmacodinamia
+Se ha evaluado la relación farmacocinética y farmacodinámica (PK-PD) entre la concentración plasmática de apixaban y varios puntos finales PD (actividad anti -Factor Xa, RIN,
+PT, PTTa) después de la administración de un amplio intervalo de dosis (0,5 a 50 mg). La relación entre la concentración plasmática de apixaban y la actividad del antifactor Xa se describió mejor mediante un modelo lineal. La relación PK-PD observada en los pacientes que recibieron apixaban coincidió con la establecida en los sujetos sanos.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Prevención del TEV en cirugía electiva de reemplazo de cadera o rodilla La dosis recomendada de apixaban es de 2,5 mg por vía oral dos veces al día. La dosis inicial se debe tomar de 12 a 24 horas después de la cirugía. Los médicos pueden considerar los beneficios potenciales de la anticoagulación precoz para la profilaxis de la TEV así como también los riesgos del sangrado posquirúrgico al decidir el momento de la administración dentro de este lapso.
+
+En pacientes sometidos a una cirugía de sustitución de cadera:
+La duración recomendada del tratamiento es de 32 a 38 días.
+
+En pacientes sometidos a una cirugía de sustitución de rodilla:
+La duración recomendada del tratamiento es de 10 a 14 días.
+
+Prevención del ACV y de la embolia sistémica en pacientes con fibrilación auricular no-valvular (FANV)
+La dosis recomendada de apixaban es de 5 mg administrados dos veces al día por vía oral.
+
+Reducción de dosis
+La dosis recomendada de apixaban es 2,5 mg administrados dos veces al día para pacientes con FANV y al menos dos de las siguientes características: edad ≥ 80 años, peso corporal
+≤ 60 kg, o creatinina sérica ≥ 1,5 mg/dl (133 micromoles/l). El tratamiento debe continuarse a largo plazo.
+
+Tratamiento de la TVP, tratamiento de la EP y prevención de las recurrencias de la TVP y de la EP La dosis recomendada de apixaban para el tratamiento de la TVP aguda y el tratamiento de la EP es de 10 mg dos veces al día por vía oral, durante los primeros 7 días, seguida de 5 mg dos veces al día por vía oral. De acuerdo con las guías médicas disponibles, la duración corta del tratamiento (como mínimo de 3 meses) se debe basar en factores de riesgo transitorios (p.ej. cirugía reciente, traumatismo, inmovilización). La dosis recomendada de apixaban para la prevención de las recurrencias de la TVP y de la EP es de 2,5 mg dos veces al día por vía oral. Cuando esté indicada la prevención de las recurrencias de la TVP y de la EP, se debe iniciar con 2,5 mg dos veces al día después de completar 6 meses de tratamiento con apixaban 5 mg dos veces al día o con otro anticoagulante, tal como se indica en la Tabla que se muestra a continuación:
+Dosificación recomendada.
+
+Tratamiento de la TVP o EP
+
+Prevención de las recurrencias de la TVP y/o EP después de completar 6 meses de tratamiento de TVP o EP
+
+Pauta de tratamiento
+
+10 mg dos veces al día durante los primeros 7 días seguida de 5 mg dos veces al día
+
+Dosis máxima diaria
+20 mg
+
+10 mg
+
+2,5 mg dos veces al día
+
+5 mg
+
+La duración del tratamiento global se debe individualizar después de una evaluación minuciosa del beneficio del tratamiento frente al riesgo de hemorragia.
+
+Dosis omitidas
+Si deja de tomar una dosis, el paciente debe tomar inmediatamente GRIXAN y luego continuar su régimen anterior de dos veces al día.
+
+Cambio de tratamiento
+Se puede realizar el cambio de tratamiento de los anticoagulantes parenterales al apixaban (y viceversa) en la próxima dosis programada. Estos medicamentos no se deben administrar simultáneamente.
+
+Cambio de tratamiento con antagonistas de la vitamina K (AVK) a GRIXAN Cuando cambie el tratamiento de antagonistas de la vitamina K (AVK) a Apixaban,
+
+2
+
+signo de sangrado en el paciente que toma apixaban. Se recomienda usar con precaución en situaciones clínicas que aumentan el riesgo de hemorragia. Se debe interrumpir la administración del apixaban si se produce hemorragia grave.
+Aunque el tratamiento con apixaban no requiere un monitoreo rutinario de su exposición, un estudio cuantitativo anti-Factor Xa calibrado puede ser útil en situaciones excepcionales en las que conocer la exposición a apixaban permita ayudar en la toma de decisiones clínicas, por ejemplo, sobredosis y cirugía de emergencia.
+
+Interacción con otros medicamentos que afectan a la hemostasia Debido al aumento del riesgo de sangrado, está contraindicado el tratamiento concomitante con cualquier otro anticoagulante.
+El uso concomitante de apixaban con agentes antiplaquetarios aumenta el riesgo de sangrado.
+Se debe tener cuidado si los pacientes reciben tratamiento concomitante con inhibidores selectivos de la recaptación de serotonina (ISRSs) o inhibidores de la recaptación de serotonina y noradrenalina (IRSNs), o antiinflamatorios no esteroideos (AINEs), incluyendo ácido acetilsalicílico.
+Después de una cirugía, el uso concomitante de otros inhibidores de la agregación plaquetaria junto con apixaban no está recomendado.
+En pacientes con fibrilación auricular y condiciones que requieran mono o doble terapia con fármacos antiplaquetarios, se debe hacer una cuidadosa evaluación de los potenciales beneficios frente a los potenciales riesgos antes de coadministrar este tratamiento con apixaban.
+En un estudio clínico en pacientes con fibrilación auricular, el uso concomitante de AAS incrementó las tasas de sangrado mayor con respecto a las de apixaban, de un 1,8% al año a un 3,4% al año, y aumentó el riesgo de sangrado con respecto al de warfarina, de un 2,7% al año a un 4,6% al año. En este ensayo clínico, hubo un uso limitado (2,1%) de doble terapia con fármacos antiplaquetarios.
+Un ensayo clínico incluyó pacientes con fibrilación auricular que tenían SCA y/o se hubieran sometido a una ICP y un periodo de tratamiento planificado con un inhibidor de P2Y12, con o sin AAS, y anticoagulantes orales (ya sea apixaban o un antagonista de la vitamina
+K) durante 6 meses. El uso concomitante de AAS incrementó el riesgo de sangrado mayor según clasificación ISTH (International Society on Thrombosis and Hemostasis) o sangrado no mayor clínicamente relevante (NMCR) en pacientes tratados con apixaban del 16,4% por año al 33,1% por año.
+En un estudio clínico en pacientes de alto riesgo tras síndrome coronario agudo reciente sin fibrilación auricular, caracterizados por múltiples comorbilidades cardíacas y no cardíacas, y que recibieron AAS solo o combinación de AAS con clopidogrel, se observó un aumento significativo del riesgo de sangrado mayor, clasificado según ISTH para apixaban (5,13% al año) en comparación con el placebo (2,04% al año).
+
+Uso de agentes trombolíticos para el tratamiento del ACV isquémico agudo Hay experiencia muy limitada con el uso de agentes trombolíticos para el tratamiento del ACV isquémico agudo en pacientes a los que se administró apixaban.
+
+Pacientes con prótesis valvulares cardíacas No se ha estudiado la seguridad y eficacia de apixaban en pacientes con prótesis valvulares cardíacas, con o sin fibrilación auricular. Por tanto, no se recomienda el uso de apixaban en este grupo de pacientes.
+
+Pacientes con síndrome antifosfolipídico No se recomienda el uso de anticoagulantes orales de acción directa (ACOD) incluyendo apixaban en pacientes con antecedentes de trombosis a los que se les haya diagnosticado síndrome antifosfolipídico. Particularmente en pacientes con triple positividad (anticoagulante lúpico, anticuerpos anticardiolipina y anticuerpos anti-beta 2-glucoproteína I), el tratamiento con ACOD podría asociarse a mayores tasas de episodios trombóticos recurrentes que el tratamiento con antagonistas de la vitamina K.
+
+Cirugía y procedimientos invasivos
+El apixaban debe discontinuarse al menos 48 horas antes de una cirugía electiva o procedimientos invasivos con un riesgo moderado o elevado de sangrado. Esto incluye intervenciones para las que no puede excluirse la probabilidad de sangrado clínicamente significativo, o para las que el riesgo de sangrado es inaceptable.
+El apixaban debe discontinuarse al menos 24 horas antes de la cirugía electiva o procedimientos invasivos con un riesgo bajo de sangrado. Esto incluye intervenciones para las cuales se espera que cualquier sangrado producido sea mínimo, no crítico por la localización o fácilmente controlable.
+Si no puede retrasarse la cirugía o los procedimientos invasivos, deben tomarse las precauciones apropiadas, teniendo en consideración el riesgo aumentado de sangrado.
+Este riesgo de sangrado debe sopesarse con respecto a la urgencia de la intervención.
+El apixaban debe reiniciarse tan pronto como sea posible luego del procedimiento invasivo o intervención quirúrgica, siempre que la situación clínica lo permita y se haya establecido una hemostasia adecuada.
+Para pacientes con fibrilación auricular que requieran una ablación por catéter, se puede mantener el tratamiento con apixaban.
+
+Interrupción temporal
+La interrupción de anticoagulantes, incluyendo el apixaban, por motivos de sangrado activo, cirugía electiva, o procedimientos invasivos coloca a los pacientes en un riesgo aumentado de trombosis. Deben evitarse períodos sin tratamiento y si la anticoagulación con apixaban debe discontinuarse temporalmente por cualquier razón, el tratamiento debe reinstaurarse lo antes posible.
+
+Punción o anestesia raquídea o epidural
+Cuando se emplea anestesia neuraxial (anestesia raquídea o epidural) o se realiza punción raquídea (lumbar) o epidural, los pacientes tratados con agentes antitrombóticos para la prevención de complicaciones tromboembólicas están en riesgo de desarrollar un hematoma epidural o raquídeo que puede ocasionar parálisis prolongada o permanente. El riesgo de estos eventos puede aumentar con el uso posoperatorio de catéteres epidurales permanentes o el uso concomitante de medicamentos que afectan la hemostasia. Los catéteres epidurales o intratecales permanentes deben retirarse por lo menos 5 horas antes de la primera dosis de apixaban. El riesgo puede aumentar también con la punción epidural o raquídea traumática o repetida. La aparición de signos y síntomas de deterioro neurológico debe ser estrictamente monitoreado (p. ej., entumecimiento o debilidad de las piernas, disfunción del intestino o la vejiga). Ante cualquier deterioro neurológico, se requerirá diagnóstico y tratamientos urgentes. Antes de la intervención neuraxial, el médico deberá ponderar los riesgos y beneficios posibles en pacientes que reciben o recibirán tratamiento anticoagulante con fines de tromboprofilaxis.
+No existe experiencia clínica sobre el uso del apixaban con catéteres intratecales o epidurales permanentes. En caso de que exista dicha necesidad y de acuerdo con los datos de farmacocinética (PK), debe transcurrir un intervalo de 20 a 30 horas (es decir, 2x vida media) entre la última dosis de apixaban y la extracción del catéter, y se debe omitir al menos una dosis antes de retirar el catéter. La siguiente dosis de apixaban se puede administrar al menos 5 horas después de retirar el catéter. Al igual que con todos los nuevos anticoagulantes orales, la experiencia con el bloqueo neuraxial es limitada; por lo tanto, se recomienda suma precaución al usar apixaban ante la presencia del bloqueo neuraxial.
+
+Pacientes con EP hemodinámicamente inestables o pacientes que requieran trombólisis o embolectomía pulmonar.
+El apixaban no está recomendado como una alternativa a la heparina no fraccionada en pacientes que presentan embolia pulmonar que están hemodinámicamente inestables o que puedan ser sometidos a trombólisis o embolectomía pulmonar, ya que no se ha establecido la seguridad y eficacia de apixaban en estas situaciones clínicas.
+
+Pacientes con cáncer activo
+Los pacientes con cáncer activo pueden tener un alto riesgo tanto de tromboembolismo venoso como de eventos hemorrágicos. Cuando se considere apixaban para el tratamiento de la TVP o la EP en pacientes con cáncer, se debe realizar una evaluación cuidadosa de los beneficios frente a los riesgos.
+
+Pacientes con insuficiencia renal
+La limitada cantidad de datos clínicos indica que las concentraciones plasmáticas de apixaban se incrementan en pacientes con insuficiencia renal grave (clearance de creatinina de 15-29 ml/min), lo que puede llevar un riesgo aumentado de sangrado. Para la prevención del TEV en pacientes sometidos a cirugía electiva de cadera o rodilla, tratamiento de TVP, tratamiento de EP y prevención de recurrencias de TVP y EP, apixaban debe utilizarse con
+
+4
+
+Inductores del CYP3A4 y la P-gp
+La administración concomitante de apixaban con rifampicina, inductor potente tanto del CYP3A4 como de la P-gp, originó una disminución aproximada del 54% y 42%, respectivamente, en los valores medios del ABC y la Cmax del apixaban. El uso concomitante de apixaban con otros inductores potentes del CYP3A4 y la P-gp (p. ej., fenitoína, carbamazepina, fenobarbital o hierba de San Juan [Hypericum perforatum]) puede causar una disminución en la concentración plasmática de apixaban. No es necesario ajustar la dosis de apixaban durante el tratamiento concomitante con dichos medicamentos. No obstante, en pacientes que reciben tratamiento sistémico concomitante con inductores potentes tanto del CYP3A4 como de la P-gp, apixaban se debe utilizar con precaución para la prevención del TEV en cirugía electiva de cadera o rodilla, para la prevención del ACV y la embolia sistémica en pacientes con FANV y para la prevención de las recurrencias de la TVP y de la EP.
+No se recomienda apixaban para el tratamiento de la TVP y tratamiento de EP en pacientes que reciben tratamiento sistémico concomitante con inductores potentes tanto del CYP3A4 como de la P-gp, ya que la eficacia se puede ver comprometida.
+
+Anticoagulantes, Inhibidores de la agregación plaquetaria, ISRSs, IRSNs y AINEs Debido al aumento del riesgo de sangrado, está contraindicado el tratamiento concomitante con cualquier otro anticoagulante, excepto en circunstancias específicas de cambio de tratamiento anticoagulante, cuando se administre heparina no fraccionada a las dosis necesarias para mantener abierto un catéter central venoso o arterial o cuando se administre heparina no fraccionada durante la ablación por catéter en pacientes con fibrilación auricular.
+Después de la administración combinada de enoxaparina (40 mg en dosis única) con apixaban (5 mg en dosis única), se observó un efecto aditivo en la actividad anti-Factor
+Xa.
+Cuando se administró apixaban junto con 325 mg de ácido acetilsalicílico, una vez al día, no se observaron interacciones farmacocinéticas ni farmacodinámicas evidentes.
+La coadministración de apixaban con clopidogrel (75 mg una vez al día) o con la combinación de clopidogrel y ácido acetilsalicílico (75 mg y 162 mg, respectivamente, una vez al día), o con prasugrel (60 mg seguidos de 10 mg una vez al día) en estudios de Fase
+1 no mostró un aumento importante en los parámetros estándar del tiempo de sangrado, ni mayor inhibición de la agregación plaquetaria ni en las pruebas de coagulación (PT,
+RIN y PTTa), en comparación con la administración de medicamentos antiplaquetarios sin apixaban. El aumento de los valores en las pruebas de coagulación (TP, RIN, y PTTa) fue consistente con los efectos del apixaban solo.
+El naproxeno (500 mg), inhibidor de la P-gp, aumentó 1,5 y 1,6 veces los valores del ABC media y la Cmax del apixaban, respectivamente. Aumentos esperables en los valores de las pruebas de coagulación fueron observados para apixaban.
+No se observó cambio en el efecto del naproxeno sobre la agregación plaquetaria inducida por el ácido araquidónico, ni se observó prolongación del tiempo de sangrado de trascendencia clínica después de la coadministración de apixaban y naproxeno.
+A  pesar  de  estos  resultados,  algunas  personas  pueden  mostrar  una  respuesta farmacodinámica más intensa cuando se coadministran agentes antiplaquetarios con el apixaban. Se debe usar el apixaban con precaución cuando se coadministra con ISRSs,
+IRSNs, AINEs, AAS y/o inhibidores de P2Y12 porque estos medicamentos generalmente aumentan el riesgo de sangrado.
+Hay experiencia limitada acerca de la administración conjunta con otros inhibidores de la agregación plaquetaria (como antagonistas de los receptores de GPIIb/IIIa, dipiridamol, dextrano o sulfinpirazona) o agentes trombolíticos. Como dichos agentes aumentan el riesgo de sangrado, no se recomienda la administración conjunta de estos productos con apixaban.
+
+Otros tratamientos concomitantes
+No se observó interacción farmacocinética ni farmacodinámica de trascendencia clínica cuando se coadministró apixaban con atenolol o famotidina. La administración concomitante de apixaban, 10 mg, con atenolol, 100 mg, no tuvo efecto de relevancia clínica en la farmacocinética de apixaban. Después de la administración concomitante de los dos medicamentos, los valores de la ABC media y la Cmax del apixaban fueron 15% y 18% más bajos que cuando se administra solo. La administración de 10 mg de apixaban con 40 mg de famotidina no tuvo efecto en el ABC ni la Cmax del apixaban.
+
+Efectos del apixaban en otros productos farmacéuticos Los estudios in vitro del apixaban mostraron ausencia de efecto inhibitorio en la actividad de
+CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6 o CYP3A4 (IC50 > 45μM) y efecto inhibitorio débil en la actividad de CYP2C19 (IC50 > 20 μM)
+en  concentraciones  que  son  significativamente  mayores  que  las  concentraciones plasmáticas máximas que se observan en seres humanos. El apixaban no indujo a CYP1A2,
+CYP2B6 ni CYP3A4/5 en concentraciones de hasta 20μM. Por lo tanto, no es de esperar que el apixaban altere la depuración metabólica de los medicamentos coadministrados que metabolizan esas enzimas. El apixaban no es un inhibidor importante de la P-gp.
+En estudios efectuados en sujetos sanos, como se describe a continuación, el apixaban no alteró significativamente la farmacocinética de la digoxina, el naproxeno ni el atenolol.
+Digoxina: La coadministración de apixaban (20 mg una vez al día) y digoxina (0,25 mg una vez al día), un sustrato de la P-gp, no afectó el ABC ni la Cmax de la digoxina. Por lo tanto, el apixaban no inhibe el transporte del sustrato mediado por P-gp
+Naproxeno: La coadministración de dosis únicas de apixaban (10 mg) y naproxeno (500 mg), un AINE de uso frecuente, no tuvo efecto en el ABC ni la Cmax del naproxeno.
+Atenolol: La coadministración de una dosis única de apixaban (10 mg) y atenolol (100 mg), un betabloqueante de uso frecuente no alteró la farmacocinética del atenolol.
+Carbón activado: La administración de carbón activado reduce la exposición a apixaban.
+
+CARCINOGÉNESIS, MUTAGÉNESIS Y ALTERACIONES DE LA FERTILIDAD Los datos preclínicos no revelan ningún peligro especial para los seres humanos, de acuerdo con estudios convencionales de seguridad farmacológica, toxicidad de dosis repetidas, genotoxicidad, poder carcinógeno, fertilidad y desarrollo embriofetal, y toxicidad en animales jóvenes.
+Los efectos principales observados en los estudios de toxicidad de dosis repetidas fueron aquellos relacionados con la acción farmacodinámica del apixaban en los parámetros de coagulación de la sangre. En los estudios de toxicidad, el aumento de la tendencia al sangrado fue mínimo o inexistente. Sin embargo, dado que esto se puede atribuir a una sensibilidad menor de las especies no clínicas en comparación con los seres humanos, este resultado debe interpretarse con precaución cuando se lo extrapola a los seres humanos.
+En la leche de rata, se encontró una alta relación leche/plasma materno (Cmax alrededor de 8 veces, ABC alrededor de 30 veces), posiblemente debido al transporte activo hacia la leche.
+En los estudios con animales a los que se les administró apixaban no se observaron efectos sobre la fertilidad.
+
+Embarazo
+No existen datos sobre el uso del apixaban en mujeres embarazadas. Los estudios en animales no indican efectos perjudiciales directos ni indirectos de toxicidad reproductiva.
+Como medida de precaución, es preferible evitar el uso de apixaban durante el embarazo.
+
+Lactancia
+Se desconoce si el apixaban o sus metabolitos se excretan en la leche materna humana.
+Datos obtenidos en animales indican que el apixaban se excreta en la leche. No se puede descartar que exista algún riesgo en los recién nacidos y lactantes.
+Debe tomarse la decisión de interrumpir la lactancia o suspender o evitar el tratamiento con apixaban, teniendo en cuenta el beneficio de la lactancia materna para el niño y el beneficio de la terapia para la madre.
+
+Uso en Pediatría
+No se ha establecido la seguridad y eficacia de GRIXAN en niños y adolescentes menores de 18 años.
+
+EFECTOS SOBRE LA HABILIDAD PARA CONDUCIR Y UTILIZAR MAQUINARIAS GRIXAN tiene una influencia insignificante o nula en la capacidad para conducir y operar maquinaria
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+La seguridad del apixaban se ha investigado en 7 ensayos clínicos en fase III incluyendo más de 21.000 pacientes. Más de 5.000 pacientes fueron incluidos en estudios de prevención del TEV, más de 11.000 pacientes en estudios de FANV y más
+
+6
+
+de 4.000 pacientes en estudios de tratamiento de TEV, con una exposición total media de 20 días, 1,7 años y 221 días respectivamente.
+Las reacciones adversas frecuentes fueron hemorragias, contusiones, epistaxis y hematomas.
+En estudios de prevención del TEV, en total el 11% de los pacientes tratados con apixaban, 2,5 mg dos veces al día experimentó reacciones adversas. La incidencia global de reacciones adversas relacionadas con sangrados con apixaban fue de un 10% en los estudios de apixaban frente a enoxaparina. En los estudios de FANV, la incidencia global de reacciones adversas relacionadas con sangrado con apixaban fue del 24,3% en el estudio de apixaban frente a warfarina de un 9,6% en el estudio de apixaban frente al ácido acetilsalicílico.
+En el estudio de apixaban frente a warfarina la incidencia de sangrado gastrointestinal mayor según ISTH (incluyendo sangrado del tracto gastrointestinal superior, del tracto gastrointestinal inferior, y sangrado rectal) fue de 0,76%/año con apixaban. La incidencia de sangrado ocular mayor según ISTH fue de 0,18%/año con apixaban.
+En los estudios de tratamiento de TEV, la incidencia global de reacciones adversas relacionadas con sangrado con apixaban fue de 15,6% en el estudio de apixaban frente a warfarina y del 13,3% en el estudio de apixaban frente a placebo.
+
+Tabla de reacciones adversas
+Las reacciones adversas se presentan en la Tabla a continuación, según la clasificación por órganos y sistemas (MedDRA) y su frecuencia utilizando la siguiente convención: muy frecuentes (≥ 1/10); frecuentes (≥ 1/100 y < 1/10); poco frecuentes (≥ 1/1000 y < 1/100);
+raras (≥ 1/10000 y < 1/1000); muy raras (< 1/10000); desconocidas (no pueden estimarse a partir de los datos disponibles) para la prevención del TEV, la FANV y el tratamiento de TEV, respectivamente.
+
+Clasificación de órganos y sistemas MedDRA
+
+Trastornos de la sangre y del sistema linfático
+
+Anemia
+
+Trombocitopenia
+
+Trastornos del sistema inmunológico
+
+Prevención de TEV en pacientes adultos sometidos a cirugía electiva de cadera o rodilla (TEVp)
+
+Prevención del ACV y de la embolia sistémica en pacientes con FANV, con uno o más factores de riesgo (FANV)
+
+Tratamiento de la TVP y de la EP y prevención de recurrencias de la TVP y EP (TEVt)
+
+Frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Poco frecuentes
+
+Frecuentes
+
+Hipersensibilidad y anafilaxis
+
+Raras
+
+Poco frecuentes
+
+Poco frecuentes
+
+SOBREDOSIFICACIÓN
+No hay antídoto contra GRIXAN. Una sobredosis de apixaban puede aumentar el riesgo de sangrado. Si surgen complicaciones hemorrágicas, se debe suspender el tratamiento e investigar el origen del sangrado. Debe considerarse el inicio de un tratamiento apropiado, como la hemostasia quirúrgica o la transfusión de plasma fresco congelado. En estudios clínicos controlados, el apixaban, administrado por vía oral a sujetos sanos en dosis de hasta 50 mg diarios durante 3 a 7 días (25 mg dos veces al día durante 7 días o 50 mg una vez al día durante 3 días) no tuvo ningún efecto adverso de trascendencia clínica.
+En voluntarios sanos, la administración de carbón activado a las 2 y 6 horas después de la ingestión de una dosis de 20 mg de apixaban, redujo el ABC medio de apixaban en un 50% y 27% respectivamente y no tuvo impacto en la Cmax. La vida media de eliminación de apixaban disminuyó de 13,4 horas cuando se administró apixaban solo, a 5,3 horas y 4,9 horas respectivamente cuando se administró carbón activado a las 2 y 6 horas de la administración de apixaban. Por tanto, la administración de carbón activado puede utilizarse para manejar la sobredosis o ingestión accidental de apixaban.
+Si el sangrado pusiera en peligro la vida del paciente y no se pudiera controlar con las medidas anteriores, puede considerarse la administración de concentrados de complejo protrombínico (CPPs) o Factor VIIa recombinante. Tal como demuestran los cambios en el ensayo de generación de trombina, fue evidente la reversión de los efectos farmacodinámicos del apixaban al final de la infusión, y se alcanzaron los valores basales a las 4 horas de iniciarse una infusión de 30 minutos de un CPP de 4 -factores en voluntarios sanos.
+Sin embargo, actualmente no hay experiencia con el uso de productos CPP de 4-factores para revertir el sangrado en individuos que han recibido apixaban. Actualmente no hay experiencia con el uso de Factor VIIa recombinante en pacientes que reciben apixaban.
+Se debe considerar la readministración del Factor VIIa recombinante y ajustar la dosis dependiendo de la mejoría del sangrado.
+
+Dependiendo de la disponibilidad local, se debe considerar la posibilidad de consultar a un experto en coagulación en caso de sangrados mayores.
+La hemodiálisis disminuyó el ABC de apixaban en un 14% en sujetos con enfermedad renal terminal (ERT), cuando se administró por vía oral una dosis única de 5 mg de apixaban.
+Por tanto, es poco probable que la hemodiálisis sea una medida efectiva para manejar la sobredosis de apixaban.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Prurito
+
+Angioedema
+
+Trastornos del sistema nervioso
+
+Hemorragia cerebral†
+
+Trastornos oculares
+
+Hemorrragia ocular (incluyendo hemorragia conjuntival)
+
+Trastornos vasculares
+
+Poco frecuentes
+
+Poco frecuentes
+
+Poco frecuentes*
+
+Desconocidas
+
+Desconocidas
+
+Desconocidas
+
+Esta especialidad medicinal está libre de gluten.
+
+Desconocidas
+
+Poco frecuentes
+
+Raras
+
+PRESENTACIÓN
+Envases con 60 comprimidos.
+
+Raras
+
+Frecuentes
+
+Poco frecuentes
+
+Fecha de última revisión: mayo 2024.
+
+FORMA DE CONSERVACIÓN
+-Conservar en lugar seco, desde 15° C hasta 25° C.
+-Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli – Farmacéutico.
+ESPECIALIDAD MEDICINAL AUTORIZADA POR EL MINISTERIO DE SALUD DE LA NACION.
+Certificado N° 60.163.
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires, Argentina
+
+Hemorragias, hematomas
+
+Frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Hipotensión  (incluyendo  hipotensión  durante  la intervención)
+
+Poco frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Hemorragia intra-abdominal
+
+Desconocidas
+
+Poco frecuentes
+
+Desconocidas
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+Epistaxis
+
+Hemoptisis
+
+Poco frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Raras
+
+Poco frecuentes
+
+Poco frecuentes
+
+Hemorragia del tracto respiratorio
+
+Desconocidas
+
+Raras
+
+Raras
+
+Trastornos gastrointestinales
+
+Náuseas
+
+Hemorragia gastrointestinal
+
+Frecuentes
+
+Poco frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Hematoquecia
+
+Poco frecuentes
+
+Poco frecuentes
+
+Poco frecuentes
+
+Hemorragia hemorroidal
+
+Desconocidas
+
+Poco frecuentes
+
+Poco frecuentes
+
+Hemorragia bucal
+
+Desconocidas
+
+Poco frecuentes
+
+Frecuentes
+
+Hemorragia rectal, sangrado gingival
+
+Raras
+
+Frecuentes
+
+Frecuentes
+
+Hemorragia retroperitoneal
+
+Desconocidas
+
+Raras
+
+Desconocidas
+
+Trastornos hepatobiliares
+
+Prueba de función hepática anormal, aspartato aminotransferasa elevada, aumento de la fosfatasa alcalina sérica, aumento de la bilirrubina sérica
+
+Poco frecuentes
+
+Poco frecuentes
+
+Poco frecuentes
+
+Gamma- glutamil transferasa elevada
+
+Poco frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Alanino aminotransferasa elevada
+
+Poco frecuentes
+
+Poco frecuentes
+
+Frecuentes
+
+Trastornos de la piel y el tejido subcutáneo
+
+Erupción cutánea
+
+Alopecia
+
+Eritema multiforme
+
+Vasculitis cutánea
+
+Desconocidas
+
+Poco frecuentes
+
+Frecuentes
+
+Raras
+
+Poco frecuentes
+
+Poco frecuentes
+
+Desconocidas
+
+Muy raras
+
+Desconocidas
+
+Desconocidas
+
+Desconocidas
+
+Desconocidas
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Hemorragia muscular
+
+Raras
+
+Raras
+
+Poco frecuentes
+
+Trastornos renales y urinarios
+
+Hematuria
+
+Poco frecuentes
+
+Frecuentes
+
+Frecuentes
+
+Trastornos del aparato reproductor y de la mama
+Hemorragia hemorragia urogenital
+
+anormal,
+
+vaginal
+
+Poco frecuentes
+
+Poco frecuentes
+
+Frecuentes
+
+Trastornos generales y alteraciones en el lugar de administración Sangrado  en  el  sitio  de  aplicación  de inyecciones
+
+Desconocidas
+
+Exploraciones complementarias
+
+Poco frecuentes
+
+Poco frecuentes
+
+Sangre oculta en heces positiva
+
+Desconocidas
+
+Poco frecuentes
+
+Poco frecuentes
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+
+Hematoma
+Hemorragia  post-procedimiento
+(incluyendo hematoma  post-operatorio,  hemorragia  de heridas,  hematoma  del  vaso  en  el  sitio  de  la punción  y  hemorragia  en  el  sitio  del  catéter).
+Secreción de la herida, hemorragia en el sitio de la  incisión  (incluyendo  hematoma  en  el  sitio  de la incisión), hemorragia quirúrgica.
+
+Frecuentes
+Poco frecuentes
+
+Frecuentes
+Poco frecuentes
+
+Frecuentes
+Poco frecuentes
+
+Hemorragia traumática
+
+Desconocidas
+
+Poco frecuentes
+
+Poco frecuentes
+
+*No hubo recurrencias de prurito generalizado en CV 185057 (prevención a largo plazo de
+TEV)
+†El término "hemorragia cerebral" abarca todas las hemorragias intracraneales o intraespinales (es decir, ACV hemorrágico o en putamen, hemorragias cerebelosas, intraventriculares o subdurales).
+
+El uso de apixaban puede vincularse a un mayor riesgo de sangrado oculto o manifiesto de cualquier tejido u órgano, lo que puede ocasionar anemia posthemorrágica. Los signos y síntomas y la gravedad variarán según el sitio y el grado o la extensión del sangrado.
+
+Reporte de sospecha de reacciones adversas El reporte de la sospecha de reacciones adversas después de la autorización del medicamento es importante. Permite continuar monitoreando el equilibrio riesgo/beneficio del medicamento. Se les solicita a los profesionales de la salud que reporten todas las sospechas de reacciones adversas de acuerdo con las regulaciones locales.
+
+7
+
+E-7051-01 / D7390 / Act.: 06/2024
+
+8

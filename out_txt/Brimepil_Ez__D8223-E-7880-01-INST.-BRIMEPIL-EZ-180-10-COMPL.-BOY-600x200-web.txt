@@ -1,0 +1,449 @@
+BRIMEPIL® EZ 180/10
+ÁCIDO BEMPEDOICO 180 mg
+EZETIMIBE 10 mg
+
+COMPRIMIDOS RECUBIERTOS
+
+Venta Bajo Receta                                                                                  Industria Argentina
+
+FÓRMULA
+Cada comprimido recubierto contiene:
+Ácido bempedoico 180,000 mg, Ezetimibe 10,000 mg. Excipientes: lactosa monohidrato 36,000 mg, celulosa microcristalina 305,900 mg, hidroxipropilcelulosa 4,200 mg, almidón glicolato sódico 51,000 mg, dióxido de silicio coloidal  3,000 mg, lauril sulfato de sodio 3,900 mg, estearato de magnesio 6,000 mg, opadry II blanco 14,910 mg
+(alcohol polivinílico parcialmente hidrolizado 5,964 mg, dióxido de titanio 3,728 mg, polietilenglicol 3000 3,012 mg, talco  2,206 mg), azul índigo carmín laca alumínica (36%)
+0,090 mg.
+
+ACCIÓN TERAPÉUTICA
+Cód. ATC:C10BA10 - asociaciones de agentes hipolipemiantes.
+
+INDICACIONES
+BRIMEPIL EZ está indicado como complemento de la dieta y del tratamiento con estatinas ya empleadas en la máxima dosis tolerada, para el tratamiento de adultos con hipercolesterolemia familiar heterocigótica o enfermedad cardiovascular aterosclerótica establecida que requieren una reducción adicional del C-LDL.
+
+Limitaciones de uso
+No se ha determinado el efecto de la asociación de ácido bempedoico y ezetimibe sobre la morbilidad y mortalidad cardiovascular.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de acción
+
+Ácido bempedoico
+El ácido bempedoico es un inhibidor de la adenosina trifosfato-citrato liasa (ACL) que reduce el colesterol de lipoproteínas de baja densidad (C-LDL) mediante la inhibición de la síntesis de colesterol en el hígado.
+ACL es una enzima situada en la vía de biosíntesis del colesterol antes de la participación  de  la  3-hidroxi-3-metil-glutaril-coenzima  A  (HMGCoA)  reductasa.  El  ácido bempedoico y su metabolito activo, ESP15228, requieren la activación de la coenzima
+A (CoA) por la acil-CoA sintetasa 1 de cadena muy larga (ACSVL1) a ETC-1002-CoA y ESP15228-CoA, respectivamente.
+ACSVL1  se  expresa  principalmente  en  el  hígado.  La  inhibición  del  ACL  por ETC-1002-CoA da como resultado una disminución de la síntesis de colesterol en el hígado y reduce el CLDL en sangre mediante la regulación positiva de los receptores de lipoproteínas de baja densidad.
+Ezetimibe
+Ezetimibe reduce el colesterol en sangre al inhibir la absorción de colesterol en el intestino delgado. Se ha demostrado que el objetivo molecular de ezetimibe es el transportador de esteroles, Niemann-Pick C1-Like 1 (NPC1L1), que participa en la absorción intestinal de colesterol y fitoesteroles. La ezetimibe se localiza en el borde en cepillo del intestino delgado e inhibe la absorción de colesterol, lo cual lleva a una disminución en el transporte de colesterol intestinal al hígado. Esto provoca una reducción de las reservas de colesterol hepático y un aumento de los receptores de LDL, lo cual da como resultado la eliminación del colesterol de la sangre.
+
+Farmacodinamia
+La administración de ácido bempedoico en combinación con estatinas a la máxima dosis tolerada, con o sin otros agentes modificadores de lípidos, disminuye el C-LDL, el colesterol no unido a lipoproteínas de alta densidad (C-no-HDL), la apolipoproteína B
+(apo B) y el colesterol total (CT) en pacientes con hiperlipidemia.
+
+Electrofisiología cardíaca
+Se ha realizado un ensayo QT con ácido bempedoico. A una dosis de 240 mg (1,3 veces la dosis recomendada aprobada), el ácido bempedoico no prolonga el intervalo QT en ningún grado clínicamente relevante.
+No se ha evaluado el efecto de ezetimibe o de la asociación de ácido bempedoico y ezetimibe sobre el intervalo QT.
+
+FARMACOCINÉTICA
+Absorción
+BRIMEPIL EZ
+La biodisponibilidad de la asociación de ácido bempedoico y ezetimibe es similar  a la correspondiente a la de los comprimidos individuales coadministrados. Los valores de concentración plasmática máxima (Cmáx) para el ácido bempedoico y su metabolito activo (ESP15228) fueron similares entre las formulaciones, pero los valores de ezetimibe glucurónido y Cmáx de ezetimibe fueron aproximadamente un 22% y un 13% más bajos, respectivamente, para la asociación de ácido bempedoico y ezetimibe en comparación con los comprimidos individuales coadministrados. Dado un alcance general similar de exposición a ezetimibe glucurónido y ezetimibe (medida por el AUC), es poco probable que una Cmáx un 22% menor sea clínicamente significativa.
+
+Ácido bempedoico
+Después de la administración oral única de la asociación de ácido bempedoico y ezetimibe (180 mg de ácido bempedoico y 10 mg de ezetimibe), la Cmáx media (± DE) y el AUC del ácido bempedoico fueron 12,6 (±2,80) μg/ml y 202 (±43,4) μg.hr/mL, respectivamente; la mediana del tiempo hasta la concentración máxima (Tmáx) fue de 3,0 horas. Después de la administración de dosis múltiples de monoterapia con ácido bempedoico, la concentración plasmática máxima en estado estacionario (Cmáx) y el AUC a 180 mg/día fueron 20,6±6,1 μg/mL y 289,0±96,4 μg∙h/mL, respectivamente. La farmacocinética del ácido bempedoico en estado estacionario fue generalmente lineal en un rango de >60 mg a 220 mg (aproximadamente del 33% al 122% de la dosis recomendada de 180 mg al día). No hubo cambios dependientes del tiempo en la farmacocinética del ácido bempedoico después de la administración repetida a la dosis recomendada, y el estado estacionario del ácido bempedoico se alcanzó después de 7 días. La tasa de acumulación media fue de aproximadamente 2,3 veces.
+La Cmáx y el AUC en estado estacionario del metabolito activo (ESP15228) del ácido bempedoico fueron 2,8±0,9 μg/mL y 51,2±17,2 μg∙h/mL, respectivamente. ESP15228 probablemente hizo una contribución menor a la actividad clínica general del ácido bempedoico según la exposición sistémica, la potencia relativa y las propiedades farmacocinéticas.
+
+Ezetimibe
+Después de una dosis única de la asociación de ácido bempedoico y ezetimibe a adultos en ayunas, se alcanzó una Cmáx media ± DE de ezetimibe de 3,56±1,90 ng/mL con una mediana de Tmáx de 5 horas. Se alcanzaron valores medios de Cmáx de ezetimibe
+- glucurónido de 107±46 ng/mL con una mediana de Tmáx de 1 hora. Para la monoterapia con ezetimibe, no hubo una desviación sustancial de la proporcionalidad de la dosis entre 5 mg y 20 mg (0,5 a 2 veces la dosis recomendada). No se puede determinar la biodisponibilidad absoluta de ezetimibe, ya que el compuesto es prácticamente insoluble en medios acuosos adecuados para inyección.
+
+Efecto de la comida
+BRIMEPIL EZ
+Después de la administración de la asociación de ácido bempedoico y ezetimibe con un desayuno rico en grasas y calorías en sujetos sanos, el AUC del ácido bempedoico y la ezetimibe fueron comparables a los del estado de ayuno. En comparación con el estado de ayuno, el estado de alimentación produjo reducciones del 30% y del 12% en la Cmáx y retrasos de 2 horas y 2,5 horas en el tiempo medio para alcanzar la concentración máxima (Tmáx) de ácido bempedoico y ezetimibe, respectivamente. Para ezetimibe - glucurónido, se observó una disminución del 12% y del 42% en el AUC y la Cmáx, respectivamente, en condiciones de alimentación en comparación con condiciones de ayuno.
+Este efecto de los alimentos no se considera clínicamente significativo.
+
+Distribución
+Ácido bempedoico
+El volumen aparente de distribución (V/F) del ácido bempedoico fue de 18 L. La unión a proteínas plasmáticas del ácido bempedoico, su glucurónido y su metabolito activo,
+ESP15228, fue del 99,3%, 98,8% y 99,2%, respectivamente. El ácido bempedoico no se divide en las células sanguíneas.
+
+Ezetimibe
+Ezetimibe y ezetimibe - glucurónido se unen en gran medida (>90%) a las proteínas plasmáticas humanas.
+
+Eliminación
+Ácido bempedoico
+El aclaramiento en estado estacionario (CL/F) del ácido bempedoico fue de 11,2 mL/min después de una dosis diaria; el aclaramiento renal del ácido bempedoico inalterado representó menos del 2% del aclaramiento total. La semivida media ± DE del ácido bempedoico en humanos fue de 21±11 horas en estado estacionario.
+
+Ezetimibe
+Tanto ezetimibe como ezetimibe - glucurónido se eliminan del plasma con una semivida de aproximadamente 22 horas para ambos.
+
+Metabolismo
+Ácido bempedoico
+La principal vía de eliminación del ácido bempedoico es a través del metabolismo del acil glucurónido. El ácido bempedoico también se convierte de forma reversible en un metabolito activo (ESP15228) según la actividad aldo-ceto reductasa observada in vitro en hígado humano. La proporción media del metabolito AUC en plasma/fármaco original para ESP15228 después de la administración de dosis repetidas fue del 18 % y se mantuvo constante a lo largo del tiempo. El ácido bempedoico y ESP15228 se convierten en conjugados de glucurónido inactivos in vitro mediante UGT2B7. El ácido bempedoico, ESP15228 y sus respectivas formas conjugadas se detectaron en plasma;
+el ácido bempedoico representó la mayoría (46%) del AUC0-48h y su glucurónido fue el siguiente en prevalencia (30%). ESP15228 y su glucurónido representaron el 10 % y el 11 % del AUC0-48h en plasma, respectivamente.
+
+Ezetimibe
+Ezetimibe se metaboliza principalmente en el intestino delgado y el hígado mediante conjugación con glucurónido, con posterior excreción biliar y renal. Se ha observado un metabolismo oxidativo mínimo en todas las especies evaluadas.
+En humanos, ezetimibe se metaboliza rápidamente a ezetimibe - glucurónido. Ezetimibe y ezetimibe-glucurónido son los principales compuestos derivados de fármacos detectados en plasma y constituyen aproximadamente del 10% al 20% y del 80% al 90% del fármaco total en plasma, respectivamente. Los perfiles de concentración plasmática-tiempo muestran múltiples picos, lo cual sugiere reciclaje enterohepático.
+
+Excreción
+Ácido bempedoico
+Después de la administración oral única de 240 mg de ácido bempedoico (1,3 veces la dosis recomendada aprobada), aproximadamente el 70% de la dosis total (ácido bempedoico y sus metabolitos) se recuperó en la orina, principalmente como conjugado de acil glucurónido de ácido bempedoico, y aproximadamente el 30% se recuperó en las heces. Menos del 5% de la dosis administrada se excretó como ácido bempedoico inalterado en heces y orina combinadas.
+
+Ezetimibe
+Tras la administración oral de 14C-ezetimibe (20 mg) a sujetos humanos, la ezetimibe total (ezetimibe+ezetimibe-glucurónido) representó aproximadamente el 93% de la radiactividad total en plasma. Aproximadamente el 78% y el 11% de la radiactividad administrada se recuperaron en las heces y la orina, respectivamente, durante un período de recolección de 10 días. Después de 48 horas, no había niveles detectables de radiactividad en el plasma.
+La ezetimibe fue el componente principal en las heces y representó el 69% de la dosis administrada, mientras que la ezetimibe-glucurónido fue el componente principal en la orina y representó el 9% de la dosis administrada.
+
+Poblaciones específicas
+Pacientes con insuficiencia renal
+Ácido bempedoico
+La farmacocinética del ácido bempedoico se evaluó en un estudio farmacocinético de dosis única en sujetos con diversos grados de función renal. El AUC medio del ácido bempedoico en sujetos con insuficiencia renal leve (n=8) fue 1,5 veces mayor en comparación con aquellos con función renal normal (n=6). En comparación con aquellos con función renal normal, el AUC medio del ácido bempedoico fue mayor en pacientes con insuficiencia renal moderada (n=5) o severa (n=5), 2,3 veces y 2,4 veces, respectivamente.
+En  un análisis farmacocinético poblacional con datos agrupados de todos los ensayos clínicos (n=2261) para evaluar más a fondo los efectos de la función renal sobre el AUC en estado estacionario del ácido bempedoico, se encontró que en comparación con los pacientes con función renal normal, las exposiciones medias al ácido bempedoico fueron mayores en pacientes con insuficiencia renal leve o moderada, 1,4 veces (IC del 90%: 1,3, 1,4) y 1,9 veces (IC del 90%: 1,7, 2,0), respectivamente. Estas diferencias no fueron clínicamente significativas.
+Los estudios clínicos realizados con  ácido bempedoico no incluyeron pacientes con insuficiencia renal severa (TFGe < 30 mL/min/1,73 m2) ni pacientes con ESRD en diálisis.
+
+Ezetimibe
+Después de una dosis única de 10 mg de ezetimibe en pacientes con enfermedad renal severa (n=8; CrCl medio ≤ 30 mL/min/1,73 m2), el AUC medio de ezetimibe total, ezetimibe-glucurónido y ezetimibe aumentó aproximadamente 1,5 veces en comparación con sujetos sanos (n=9). No es necesario ajustar la dosis del componente ezetimibe. Sin embargo, existe experiencia limitada con el ácido bempedoico en pacientes con insuficiencia renal severa.
+
+Pacientes con insuficiencia hepática
+BRIMEPIL EZ no se recomienda en pacientes con insuficiencia hepática moderada o severa debido a los efectos desconocidos del aumento de la exposición a ezetimibe.
+
+Ácido bempedoico
+La farmacocinética del ácido bempedoico y su metabolito (ESP15228) se estudió en pacientes con función hepática normal o insuficiencia hepática leve o moderada
+(ChildPugh A o B) después de una dosis única (n=8/grupo). En comparación con los pacientes con función hepática normal, la Cmáx y el AUC medios del ácido bempedoico disminuyeron en un 11% y un 22%, respectivamente, en pacientes con insuficiencia hepática leve y en un 14% y 16%, respectivamente, en pacientes con insuficiencia hepática moderada. En comparación con los pacientes con función hepática normal, la Cmáx y el AUC medias de ESP15228 disminuyeron en un 13% y un 23%, respectivamente, en pacientes con insuficiencia hepática leve y en un 24% y 36%, respectivamente, en pacientes con insuficiencia hepática moderada. No se espera que esto resulte en una menor eficacia.
+
+1
+
+durante el embarazo debería tener poco impacto en el resultado del tratamiento a largo plazo de la hiperlipidemia primaria en la mayoría de los pacientes.
+Se desconoce el riesgo de fondo estimado de defectos congénitos importantes y abortos espontáneos para la población indicada. En la población general de EE. UU., el riesgo de fondo estimado de defectos congénitos importantes y abortos espontáneos en embarazos clínicamente reconocidos es del 2% al 4% y del 15% al 20%, respectivamente.
+
+Datos
+Datos en animales
+Ácido bempedoico
+El ácido bempedoico no fue teratogénico cuando se administró por vía oral en dosis de 60 y 80 mg/kg/día, lo cual resultó en 11 y 12 veces la exposición sistémica en humanos a la dosis humana máxima recomendada (MRHD) de 180 mg en ratas y conejas preñadas, respectivamente. En un estudio de desarrollo embriofetal en ratas, se administró ácido bempedoico por vía oral a ratas preñadas en dosis de 10, 30 y 60 mg/kg/día durante el período de organogénesis desde el día 6 al 17 de gestación. Hubo aumentos en la incidencia de variaciones esqueléticas fetales no adversas (huesos largos y escápula doblados y osificación incompleta) en dosis ≥ 10 mg/kg/día (menos que la exposición clínica) en ausencia de toxicidad materna. En dosis tóxicas para la madre, el ácido bempedoico provocó disminuciones en el número de fetos viables, aumentos en las pérdidas postimplantación y aumento de la resorción total a 60 mg/kg/día (11 veces la MRHD) y reducción del peso corporal fetal a ≥ 30 mg/kg/día (4 veces la MRHD). No se observaron efectos adversos en el desarrollo cuando se administró ácido bempedoico a conejas preñadas durante el período de organogénesis (días de gestación 6 a 18)
+en dosis de hasta 80 mg/kg/día (12 veces la MRHD).
+En un estudio de desarrollo prenatal y posnatal en ratas preñadas a las que se les administraron dosis orales de ácido bempedoico de 5, 10, 20, 30 y 60 mg/kg/día durante el embarazo y la lactancia (del día 6 de gestación al día 20 de lactancia), hubo efectos adversos en el parto en presencia de toxicidad materna, que incluyen: aumento del número de crías nacidas muertas, reducciones en el número de crías vivas, supervivencia de las crías, crecimiento de las crías y ligeros retrasos en el aprendizaje y la memoria con ≥ 10 mg/kg/día (en exposiciones equivalentes a la MRHD).
+
+Ezetimibe
+En estudios de desarrollo embriofetal orales (por sonda) de ezetimibe realizados en ratas (días de gestación 6-15) y conejos (días de gestación 7-19) durante la organogénesis, no hubo evidencia de toxicidad materna o embrioletalidad en ninguna de las dosis probadas (250, 500, 1000 mg/kg/día) a exposiciones equivalentes a 10 a 150 veces la MRHD, según el AUC, en ratas y conejos. En ratas, se observó un aumento de la incidencia de hallazgos esqueléticos fetales comunes (un par adicional de costillas torácicas, centros vertebrales cervicales no osificados, costillas acortadas) con 1000 mg/kg/día (aproximadamente 10 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total). En conejos tratados con ezetimibe, se observó una mayor incidencia de costillas extratorácicas con 1000 mg/kg/día (150 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total). La exposición múltiple de animal a humano para ezetimibe total al nivel sin efecto observado fue de 6 veces para ratas y 134 veces para conejos.
+La exposición fetal a ezetimibe (conjugada y no conjugada) se confirmó en estudios posteriores de transferencia placentaria realizados utilizando una dosis materna de 1000 mg/kg/día. La relación de exposición al plasma materno fetal (ezetimibe total) fue de 1,5 para ratas en el día 20 de gestación y de 0,03 para conejas en el día 22 de gestación.
+El efecto de ezetimibe sobre el desarrollo prenatal y posnatal y la función materna se evaluó en ratas preñadas a dosis de 100, 300 o 1000 mg/kg/día (desde el día 6 de gestación hasta el día 21 de lactancia). No se observaron toxicidad materna ni resultados adversos en el desarrollo hasta la dosis más alta probada (17 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total).
+Los estudios de dosis múltiples de ezetimibe coadministrada con estatinas en ratas y conejos durante la organogénesis dan como resultado exposiciones más altas a ezetimibe y estatinas. Los resultados reproductivos ocurren con dosis más bajas en la terapia combinada en comparación con la monoterapia.
+Combinación a dosis fija de ácido bempedoico/ezetimibe (FCDP)
+En un estudio combinado de desarrollo embriofetal en ratas, se administraron ácido bempedoico y ezetimibe por vía oral a 4 y 112 veces la MRHD (según el AUC) durante el período de organogénesis (días de gestación 6 a 17) en ratas preñadas. El ácido bempedoico en combinación con ezetimibe no alteró los efectos sobre el perfil de desarrollo embriofetal del ácido bempedoico o la ezetimibe.
+
+Lactancia
+Resumen de riesgos
+No hay información sobre la presencia de ácido bempedoico en la leche humana o animal, los efectos del fármaco en el lactante o los efectos del fármaco en la producción de leche.
+No hay información sobre la presencia de ezetimibe en la leche humana. Ezetimibe está presente en la leche de rata. Cuando un fármaco está presente en la leche animal, es probable que esté presente en la leche humana. No hay información sobre los efectos de ezetimibe en el lactante ni sobre los efectos sobre la producción de leche.
+BRIMEPIL EZ disminuye la síntesis de colesterol y posiblemente la síntesis de otras sustancias biológicamente activas derivadas del colesterol y podría causar daño al lactante.
+Debido a la posibilidad de que se produzcan reacciones adversas graves en un lactante, según el mecanismo de acción, informe a las pacientes que no se recomienda la lactancia materna durante el tratamiento con BRIMEPIL EZ.
+Datos
+Datos de animales
+Ezetimibe se encontró presente en la leche de ratas lactantes. La proporción de plasma de cría a madre para ezetimibe total fue de 0,5 en el día 12 de lactancia.
+
+Uso en Pediatría
+No se ha establecido la seguridad y eficacia del ácido bempedoico y ezetimibe en pacientes pediátricos.
+
+Uso geriátrico
+De los 301 pacientes en el ensayo clínico de ácido bempedoico y ezetimibe, 149 (50%)
+tenían 65 años o más, mientras que 49 (16%) tenían 75 años o más. No se observaron diferencias generales en seguridad o eficacia entre estos pacientes y los pacientes más jóvenes, y otras experiencias clínicas informadas no han identificado diferencias en las respuestas entre los pacientes de edad avanzada y los más jóvenes. Sin embargo, no se puede descartar una mayor sensibilidad en algunas personas mayores.
+
+Insuficiencia renal
+No es necesario ajustar la dosis en pacientes con insuficiencia renal leve o moderada.
+Existe experiencia limitada con ácido bempedoico en pacientes con insuficiencia renal severa (TFGe < 30 mL/min/1,73 m2) y el ácido bempedoico no se ha estudiado en pacientes con enfermedad renal terminal (ESRD) que reciben diálisis.
+
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve (Child-Pugh A). BRIMEPIL EZ no se recomienda en pacientes con insuficiencia hepática moderada o severa (Child-Pugh B o C) debido a los efectos desconocidos del aumento de la exposición a ezetimibe.
+
+Carcinogénesis, mutagénesis, deterioro de la fertilidad
+Ácido bempedoico
+El ácido bempedoico resultó negativo en cuanto a mutagenicidad en un ensayo de Ames in vitro y negativo en cuanto a clastogenicidad en el ensayo de aberración cromosómica de linfocitos humanos in vitro. El ácido bempedoico fue negativo tanto en el ensayo de micronúcleo de ratón in vivo como en el ensayo de micronúcleo de médula ósea/cometa hepático in vivo de rata. En un estudio de carcinogenicidad en ratas de 2 años de duración, se administraron a ratas Wistar dosis orales de ácido bempedoico de 3, 10 y 30 mg/kg/día.
+En ratas macho se observó una mayor incidencia de adenomas hepatocelulares hepáticos y adenomas hepatocelulares combinados con carcinomas, adenomas de células foliculares de la glándula tiroides y adenomas de células foliculares combinados con carcinomas, y adenomas de células de los islotes pancreáticos combinados con carcinomas en la dosis de 30 mg/kg/día (exposición equivalente a la dosis humana máxima recomendada (MRHD), basada en el AUC). En un estudio de carcinogenicidad en ratones de 2 años de duración, se administró a ratones CD-1 dosis orales de ácido bempedoico de 25, 75 y 150 mg/kg/día.
+Se observaron aumentos relacionados con el ácido bempedoico en la incidencia de adenomas hepatocelulares hepáticos, carcinomas hepatocelulares y adenomas hepatocelulares combinados con carcinomas en ratones macho con 75 y 150 mg/kg/día
+(exposiciones equivalentes a la MRHD). Las observaciones de tumores de hígado y tiroides son consistentes con el agonista de PPAR alfa en roedores. Se desconoce la relevancia humana de los hallazgos del tumor de células de los islotes pancreáticos.
+En un estudio de fertilidad y desarrollo embriofetal temprano en ratas, se administró ácido bempedoico por vía oral a ratas macho y hembra en dosis de 10, 30 y 60 mg/kg/día.  A  los  machos  se  les  administró  la  dosis  durante  28  días  antes  del apareamiento y a las hembras 14 días antes del apareamiento hasta el día 7 de gestación. No se observaron efectos adversos sobre la fertilidad en las hembras en ausencia de toxicidad materna. No se observaron efectos sobre los resultados de fertilidad masculina, pero se observaron disminuciones en el recuento de espermatozoides con 60 mg/kg/día (9 veces la MRHD).
+Ezetimibe
+En un estudio realizado sobre carcinogenicidad dietética de 104 semanas con ezetimibe en ratas a dosis de hasta 1500 mg/kg/día (machos) y 500 mg/kg/día (hembras)
+(aproximadamente 20 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total).
+En otro estudio de carcinogenicidad dietética de 104 semanas con ezetimibe en ratones a dosis de hasta 500 mg/kg/día (>150 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total). No hubo aumentos estadísticamente significativos en la incidencia de tumores en ratas o ratones tratados con medicamentos.
+No se observó evidencia de mutagenicidad in vitro en una prueba de mutagenicidad microbiana (Ames) con Salmonella typhimurium y Escherichia coli con o sin activación metabólica. No se observó evidencia de clastogenicidad in vitro en un ensayo de aberración cromosómica en linfocitos de sangre periférica humana con o sin activación metabólica.
+Además, no hubo evidencia de genotoxicidad en la prueba de micronúcleos de ratón in vivo.
+En estudios de fertilidad oral (por sonda) de ezetimibe realizados en ratas, no hubo evidencia de toxicidad reproductiva en dosis de hasta 1000 mg/kg/día en ratas macho o hembra (aproximadamente 7 veces la exposición humana a 10 mg diarios según el AUC0-24h para ezetimibe total).
+
+REACCIONES ADVERSAS
+Las siguientes reacciones adversas clínicamente significativas se describen en otra parte del prospecto.
+• Hiperuricemia.
+• Rotura tendinosa.
+
+Experiencia en ensayos clínicos
+Ácido bempedoico
+Los datos que se describen a continuación reflejan la exposición a ácido bempedoico en dos ensayos controlados con placebo que incluyeron 2009 pacientes tratados con ácido bempedoico durante 52 semanas (duración media del tratamiento de 52 semanas). La edad media de los pacientes tratados con ácido bempedoico fue 65,4 años, el 29% eran mujeres, el 3% de raza hispana, el 95% de raza blanca, el 3% de raza negra, el 1% de raza asiática y el 1% de otras razas. Todos los pacientes recibieron ácido bempedoico
+180 mg por vía oral una vez al día más tratamiento con estatinas de máxima tolerancia solo o en combinación con otros tratamientos hipolipemiantes. Al inicio del estudio, el 97% de los pacientes presentaban enfermedad cardiovascular aterosclerótica clínica (ASCVD) y alrededor del 4% presentaban un diagnóstico de hipercolesterolemia familiar heterocigótica (HeFH). Los pacientes que tomaban simvastatina 40 mg/día o más fueron excluidos de los ensayos.
+Las reacciones adversas llevaron a la interrupción del tratamiento en el 11% de los pacientes tratados con ácido bempedoico y en el 8% de los pacientes tratados con placebo.
+Las razones más comunes para la interrupción del tratamiento con ácido bempedoico fueron espasmos musculares (0,5% frente a 0,3% de placebo), diarrea (0,4% frente a
+0,1% de placebo) y dolor en las extremidades (0,3% frente a 0,0% de placebo). Las reacciones adversas informadas en al menos el 2% de los pacientes tratados con ácido bempedoico y con mayor frecuencia que en los pacientes tratados con placebo se muestran en la Tabla 1.
+
+Tabla 1. Reacciones adversas (≥ 2 % y mayores que el placebo) en pacientes tratados con ácido bempedoico con ASCVD y HeFH.
+
+Reacción adversa
+
+Infección del tracto respiratorio superior
+Espasmos musculares
+Hiperuricemia
+Dolor de espalda
+Dolor o malestar abdominal
+Bronquitis
+Dolor en las extremidades
+Anemia
+Enzimas hepáticas elevadas
+
+Ácido bempedoico
++ estatina ± otros tratamientos hipolipemiantes
+(N = 2009)
+%
+4,5
+3,6
+3,5
+3,3
+3,1
+3,0
+3,0
+2,8
+2,1
+
+Placebo
+(N = 999)
+
+4,0
+2,3
+1,1
+2,2
+2,2
+2,5
+1,7
+1,9
+0,8
+
+Ruptura de tendón
+El ácido bempedoico se asoció con un mayor riesgo de rotura  tendinosa, que ocurrió en el 0,5 % de los pacientes tratados con ácido bempedoico frente al 0% de los pacientes tratados con placebo.
+
+Gota
+El ácido bempedoico se asoció con un mayor riesgo de gota, que ocurrió en el 1,5% de los pacientes tratados con ácido bempedoico frente al 0,4% de los pacientes tratados con placebo.
+
+Hiperplasia prostática benigna
+El ácido bempedoico se asoció con un mayor riesgo de hiperplasia prostática benigna (HPB) en hombres sin antecedentes informados de HPB, que ocurrió en el 1,3% de los pacientes tratados con ácido bempedoico frente al 0,1% de los pacientes tratados con placebo. Se desconoce la importancia clínica.
+
+Fibrilación auricular
+El ácido bempedoico se asoció con una mayor frecuencia de fibrilación auricular, que ocurrió en el 1,7% de los pacientes tratados con ácido bempedoico frente al 1,1% de los pacientes tratados con placebo.
+
+Pruebas de laboratorio
+
+3
+
+El ácido bempedoico no se estudió en pacientes con insuficiencia hepática severa
+(Child Pugh C).
+
+Ezetimibe
+Después de una dosis única de 10 mg de ezetimibe, el AUC medio de ezetimibe total aumentó aproximadamente 1,7 veces en pacientes con insuficiencia hepática leve
+(ChildPugh A), en comparación con sujetos sanos. Los valores medios de AUC para ezetimibe total y ezetimibe aumentaron aproximadamente de 3 a 4 veces y de 5 a 6 veces, respectivamente, en pacientes con insuficiencia hepática moderada (Child-Pugh
+B) o severa (Child-Pugh C). En un estudio de dosis múltiples de 14 días (10 mg al día)
+en pacientes con insuficiencia hepática moderada, el AUC medio para ezetimibe total y ezetimibe aumentó aproximadamente 4 veces el día 1 y el día 14 en comparación con sujetos sanos.
+
+Otras poblaciones específicas
+Ácido bempedoico
+La farmacocinética del ácido bempedoico no se vio afectada por la edad, el sexo, la raza o el peso.
+
+Ezetimibe
+Geriatría: En un estudio de dosis múltiples con ezetimibe administrada 10 mg una vez al día durante 10 días, las concentraciones plasmáticas de ezetimibe total fueron aproximadamente 2 veces mayores en sujetos sanos de mayor edad (≥65 años) en comparación con sujetos más jóvenes.
+Sexo: En un estudio de dosis múltiples con ezetimibe administrada 10 mg una vez al día durante 10 días, las concentraciones plasmáticas de ezetimibe total fueron ligeramente más altas (<20%) en mujeres que en hombres.
+Raza: La farmacocinética de ezetimibe no se ve afectada por la raza.
+
+Estudios de interacción medicamentosa
+
+Ácido bempedoico
+Sustratos de citocromo P450
+Los estudios de interacción metabólica in vitro sugieren que el ácido bempedoico, así como sus formas de metabolito activo y glucurónido, no son metabolizados ni interactúan con las enzimas del citocromo P450.
+Interacciones medicamentosas mediadas por transportadores Los estudios de interacción medicamentosa in vitro sugieren que el ácido bempedoico, así como su metabolito activo y su forma glucurónido, no son sustratos de los transportadores de fármacos comúnmente caracterizados, con la excepción del glucurónido de ácido bempedoico, que es un sustrato de OAT3. El ácido bempedoico inhibe débilmente OAT3 en múltiplos altos de concentraciones clínicamente relevantes, y el ácido bempedoico y su glucurónido inhiben débilmente OATP1B1 y OATP1B3 en concentraciones clínicamente relevantes.
+El ácido bempedoico inhibe débilmente la OAT2 in vitro, que probablemente sea el mecanismo responsable de elevaciones menores en la creatinina sérica y el ácido úrico.
+Probenecid
+La administración de 180 mg de ácido bempedoico con probenecid en estado estacionario produjo un aumento de 1,7 y 1,2 veces en el AUC y C máx del ácido bempedoico, respectivamente. El AUC y la Cmáx del metabolito activo del ácido bempedoico (ESP15228) aumentaron 1,9 y 1,5 veces, respectivamente. Estas elevaciones no son clínicamente significativas y no afectan las recomendaciones de dosificación.
+
+Estatinas
+Las interacciones farmacocinéticas entre el ácido bempedoico (en exposición sistémica relevante para la población con ASCVD indicada) y 20 mg de simvastatina, 10 mg de atorvastatina, 40 mg de pravastatina y 10 mg de rosuvastatina se evaluaron en ensayos clínicos.
+Simvastatina: La administración de 20 mg de simvastatina con 240 mg de ácido bempedoico o 40 mg con 180 mg de ácido bempedoico en sujetos sanos en estado estacionario resultó en aumentos de aproximadamente 2 veces (91% para 20 mg y 96% para 40 mg) y 1,5 veces (54% para 20 mg y 52% para 40 mg) en el AUC y Cmáx del ácido de simvastatina, respectivamente.
+Pravastatina: la administración de 40 mg de pravastatina con 240 mg de ácido bempedoico en estado estacionario en sujetos sanos produjo aumentos del 99% (2 veces) y del 104% (2 veces) en el AUC y la Cmáx del ácido de pravastatina, respectivamente.
+Atorvastatina y rosuvastatina: Se observaron elevaciones de 1,7 veces en el AUC de atorvastatina y rosuvastatina y/o sus principales metabolitos, lo cual sugiere una interacción débil. Estas elevaciones generalmente estuvieron dentro de las exposiciones individuales a las estatinas y no afectan las recomendaciones de dosificación.
+Warfarina
+Los estudios in vitro indican que el ácido bempedoico no es un inhibidor ni inductor del CYP2C9. Debido a que la warfarina se elimina principalmente a través del CYP2C9, no se espera que el ácido bempedoico altere su farmacocinética.
+Otros
+El ácido bempedoico no tuvo ningún efecto sobre la farmacocinética de la metformina o del anticonceptivo oral  (noretisterona y etinilestradiol).
+
+Ezetimibe
+Ezetimibe no tuvo ningún efecto significativo sobre una serie de fármacos (cafeína, dextrometorfano, tolbutamida y midazolam intravenoso) que se metabolizan por el citocromo P450 (1A2, 2D6, 2C8/9 y 3A4). Esto indica que  ezetimibe no es un inhibidor ni un inductor de estas isoenzimas del citocromo P450, y es poco probable que la ezetimibe afecte el metabolismo de los fármacos que son metabolizados por estas enzimas.
+Ciclosporina: la administración de ezetimibe con ciclosporina (75 a 150 mg dos veces al día) resultó en un aumento de 2,4 y 2,9 veces en el AUC y Cmáx total de ezetimibe, respectivamente.
+Fibratos: La administración de ezetimibe con fenofibrato (200 mg una vez al día durante 14 días) resultó en un aumento de 1,48 y 1,64 veces en el AUC y Cmáx total de ezetimibe, respectivamente. La administración con gemfibrozilo (600 mg dos veces al día durante
+7 días) resultó en un aumento de 1,64 y 1,91 veces en el AUC y la Cmáx totales de ezetimibe, respectivamente.
+Colestiramina: la administración de ezetimibe con colestiramina (4 g dos veces al día durante 14 días) resultó en una disminución del 55% y del 4% en el AUC y la Cmáx totales de ezetimibe, respectivamente.
+No se observó interacción farmacocinética clínicamente significativa después de la coadministración de ezetimibe con antiácido combinado de hidróxido de aluminio y magnesio, cimetidina, glipizida, lovastatina, pravastatina, atorvastatina, rosuvastatina, fluvastatina, simvastatina, digoxina, etinilestradiol/levonorgestrel y warfarina.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Dosificación recomendada
+La dosis recomendada de BRIMEPIL EZ, en combinación con el tratamiento con estatinas en la máxima dosis tolerada, es de un comprimido por vía oral una vez al día.
+Un comprimido de BRIMEPIL EZ contiene 180 mg de ácido bempedoico y 10 mg de ezetimibe.
+El comprimido debe tomarse entero, sin triturar ni masticar. BRIMEPIL EZ se puede tomar con o sin alimentos.
+Después del inicio de BRIMEPIL EZ, corresponde dosar los niveles de lípidos dentro de las 8 a 12 semanas.
+
+Coadministración con secuestradores de ácidos biliares BRIMEPIL EZ debe administrarse al menos 2 horas antes o al menos 4 horas después de los componentes secuestrantes de ácidos biliares.
+
+CONTRAINDICACIONES
+BRIMEPIL EZ está contraindicado en pacientes con hipersensibilidad conocida a los componentes de la fórmula. Se han notificado reacciones de hipersensibilidad con ezetimibe, incluidas anafilaxia, angioedema, erupción cutánea y urticaria.
+
+ADVERTENCIAS Y PRECAUCIONES
+Hiperuricemia
+El ácido bempedoico, un componente de BRIMEPIL EZ, inhibe la OAT2 tubular renal y podría aumentar los niveles de ácido úrico en sangre. En los ensayos clínicos, el 26% de los pacientes tratados con ácido bempedoico con valores iniciales normales de ácido úrico (frente al 9,5% del placebo) experimentaron hiperuricemia una o más veces, y el 3,5% de los pacientes experimentaron hiperuricemia clínicamente significativa notificada como una reacción adversa (frente al 1,1% del placebo). Los aumentos en los niveles de ácido úrico generalmente ocurrieron dentro de las primeras 4 semanas de inicio del tratamiento y persistieron durante todo el tratamiento. Después de 12 semanas de tratamiento, el aumento medio ajustado por placebo en el ácido úrico en comparación con el valor inicial fue de 0,8 mg/dL para los pacientes tratados con ácido bempedoico.
+El nivel elevado de ácido úrico en sangre podría provocar el desarrollo de gota. Se informó gota en el 1,5% de los pacientes tratados con ácido bempedoico y en el 0,4% de los pacientes tratados con placebo. El riesgo de episodios de gota fue mayor en pacientes con antecedentes de gota (11,2% de ácido bempedoico frente a 1,7% de placebo), aunque la gota también ocurrió con más frecuencia que el placebo en pacientes tratados con ácido bempedoico que no presentaban antecedentes de gota
+(1,0% ácido bempedoico frente a 0,3% placebo).
+Aconseje a los pacientes que se comuniquen con su médico si se presentan síntomas de hiperuricemia. Evalúe el ácido úrico sérico cuando esté clínicamente indicado. Vigile a los pacientes para detectar signos y síntomas de hiperuricemia e inicie el tratamiento con fármacos reductores de urato según corresponda.
+
+Rotura tendinosa
+El ácido bempedoico se asocia con un mayor riesgo de rotura o lesión tendinosa. En los ensayos clínicos, se produjo rotura tendinosa en el 0,5% de los pacientes tratados con ácido bempedoico frente al 0% de los pacientes tratados con placebo y afectó al manguito rotador (el hombro), el tendón del bíceps o el tendón de Aquiles. La rotura tendinosa se produjo a las pocas semanas o meses de comenzar con ácido bempedoico. La rotura tendinosa podría ocurrir con mayor frecuencia en pacientes mayores de 60 años, en aquellos que toman corticosteroides o fluoroquinolonas, en pacientes con insuficiencia renal y en pacientes con trastornos tendinosos previos.
+Suspenda BRIMEPIL EZ inmediatamente si el paciente experimenta rotura tendinosa.
+Considere suspender BRIMEPIL EZ si el paciente experimenta dolor, hinchazón o inflamación en las articulaciones.
+Aconseje a los pacientes que descansen ante el primer signo de tendinitis o rotura de tendón y que se comuniquen con su médico si se presentan síntomas de tendinitis o rotura de tendón. Considere una terapia alternativa en pacientes con antecedentes de trastornos tendinosos o rotura de tendones.
+
+Interacciones medicamentosas
+No se han realizado estudios farmacocinéticos específicos de interacción medicamentosa con la asociación. Las interacciones medicamentosas que se han identificado en estudios con ácido bempedoico o ezetimibe determinan las interacciones que pueden ocurrir con BRIMEPIL EZ.
+
+Simvastatina
+Impacto clínico
+
+Intervención
+
+Pravastatina
+Impacto clínico
+
+Intervención
+
+Ciclosporina
+Impacto clínico
+
+Intervención
+
+Fibratos
+Impacto clínico
+
+Intervención
+
+Colestiramina
+Impacto clínico
+
+Intervención
+
+El uso concomitante de ácido bempedoico y ezetimibe con simvastatina provoca un aumento en la concentración de simvastatina y puede aumentar el riesgo de miopatía relacionada con simvastatina.
+Evite el uso concomitante de ácido bempedoico y ezetimibe con simvastatina mayor a 20 mg.
+
+El uso concomitante de ácido bempedoico y ezetimibe con pravastatina provoca un aumento en la concentración de pravastatina y puede aumentar el riesgo de miopatía relacionada con pravastatina.
+Evite el uso concomitante de ácido bempedoico y ezetimibe con pravastatina superior a 40 mg.
+
+El uso concomitante de ácido bempedoico con ezetimibe y ciclosporina aumenta las concentraciones de ezetimibe y ciclosporina.
+Controle las concentraciones de ciclosporina en pacientes que reciben ácido bempedoico con ezetimibe y ciclosporina. En pacientes tratados con ciclosporina, los efectos potenciales del aumento de la exposición a ezetimibe por el uso concomitante deben sopesarse cuidadosamente frente a los beneficios de las alteraciones en los niveles de lípidos proporcionados por ácido bempedoico y ezetimibe.
+
+Tanto el fenofibrato como  ezetimibe pueden aumentar la excreción de colesterol hacia la bilis, provocando colelitiasis. No se recomienda la coadministración de ácido bempedoico y ezetimibe con fibratos distintos del fenofibrato.
+Si se sospecha colelitiasis en un paciente que recibe ácido bempedoico con ezetimibe y fenofibrato se indican estudios de la vesícula biliar y se debe considerar una terapia hipolipemiante alternativa.
+
+El uso concomitante de ácido bempedoico con ezetimibe y colestiramina disminuye la concentración de ezetimibe. Esto podría resultar en una reducción de la eficacia.
+Administre ácido bempedoico y ezetimibe al menos 2 horas antes o al menos 4 horas después de los secuestrantes de ácidos biliares.
+
+Embarazo
+Resumen de riesgos
+Suspenda  BRIMEPIL  EZ cuando  se  reconozca  el  embarazo,  a  menos  que  los beneficios del tratamiento superen los riesgos potenciales para el feto.
+No hay datos disponibles sobre el uso de ácido bempedoico en mujeres embarazadas para evaluar el riesgo asociado al fármaco de defectos congénitos importantes, abortos espontáneos o resultados maternos o fetales adversos. No hay datos suficientes sobre el uso de ezetimibe en mujeres embarazadas para evaluar el riesgo asociado al fármaco de defectos congénitos importantes, abortos espontáneos o resultados maternos o fetales adversos. En estudios de reproducción animal, el ácido bempedoico no fue teratogénico en ratas y conejos cuando se administró en dosis que resultaron en exposiciones de hasta 11 y 12 veces, respectivamente, las exposiciones humanas a la dosis clínica máxima, según el AUC. En estudios de desarrollo embriofetal orales (por sonda) de ezetimibe realizados en ratas y conejos durante la organogénesis, no hubo evidencia de toxicidad materna o efectos teratogénicos o toxicológicos embriofetales a exposiciones de hasta 10 y 150 veces la exposición humana, respectivamente, según el AUC. La asociación de ácido bempedoico y ezetimibe disminuye la síntesis de colesterol y posiblemente la síntesis de otras sustancias biológicamente activas derivadas del colesterol; por lo tanto, BRIMEPIL EZ podría causar daño fetal cuando se administra a mujeres embarazadas según el mecanismo de acción. Además, el tratamiento de la hiperlipidemia generalmente no es necesario durante el embarazo. La aterosclerosis es un proceso crónico y la interrupción de los fármacos hipolipemiantes
+
+2
+
+El ácido bempedoico se asoció con cambios persistentes en múltiples pruebas de laboratorio dentro de las primeras 4 semanas de tratamiento. Los valores de las pruebas de laboratorio volvieron a los valores iniciales después de la interrupción del tratamiento.
+Aumento de la creatinina y el nitrógeno ureico en sangre: en general, hubo un aumento medio en la creatinina sérica de 0,05 mg/dL en comparación con el valor inicial con ácido bempedoico en la semana 12. Aproximadamente el 3,8% de los pacientes tratados con ácido bempedoico tuvieron valores de nitrógeno ureico en sangre que se duplicaron
+(frente a 1,5% placebo), y alrededor del 2,2% de los pacientes tuvieron valores de creatinina que aumentaron en 0,5 mg/dL (frente al 1,1% del placebo).
+
+Disminución de la hemoglobina y los leucocitos: Aproximadamente el 5,1% de los pacientes tratados con ácido bempedoico (frente al 2,3% del placebo) tuvieron disminuciones en los niveles de hemoglobina de 2 o más g/dL y por debajo del límite inferior normal en una o más ocasiones. Se informó anemia en el 2,8% de los pacientes tratados con ácido bempedoico y en el 1,9% de los pacientes tratados con placebo. La disminución de la hemoglobina fue generalmente asintomática y no requirió intervención médica. También se observó una disminución del recuento de leucocitos. Aproximadamente el 9,0% de los pacientes tratados con ácido bempedoico con un recuento inicial de leucocitos normal tuvieron una disminución por debajo del límite inferior normal en una o más ocasiones (frente al 6,7% del placebo). La disminución de leucocitos fue generalmente asintomática y no requirió intervención médica. En los ensayos clínicos, hubo un pequeño desequilibrio en las infecciones de la piel o los tejidos blandos, incluida la celulitis (0,8% frente a 0,4%), pero no hubo desequilibrio en otras infecciones.
+
+Aumento del recuento de plaquetas: aproximadamente el 10,1% de los pacientes tratados con ácido bempedoico (frente al 4,7% del placebo) tuvieron aumentos en el recuento de plaquetas de 100 × 109/L o más en una o más ocasiones. El aumento del recuento de plaquetas fue asintomático, no resultó en un mayor riesgo de eventos tromboembólicos y no requirió intervención médica.
+
+Aumento de las enzimas hepáticas: se observaron aumentos de las transaminasas hepáticas (AST y/o ALT) con ácido bempedoico. En la mayoría de los casos, las elevaciones fueron transitorias y se resolvieron o mejoraron al continuar el tratamiento o después de la interrupción del mismo. Se produjeron aumentos a más de 3 veces el límite superior normal (LSN) en AST en el 1,4% de los pacientes tratados con ácido bempedoico frente al 0,4% de los pacientes con placebo, y se produjeron aumentos a más de 5 veces el LSN en el 0,4% de los tratados con ácido bempedoico frente a 0,2% de pacientes tratados con placebo. Se produjeron aumentos de ALT con una incidencia similar entre los pacientes tratados con ácido bempedoico y con placebo. Las elevaciones de las transaminasas fueron generalmente asintomáticas y no se asociaron con elevaciones ≥2 veces el LSN en la bilirrubina o con colestasis.
+
+Aumento de la creatina quinasa: aproximadamente el 1,0% de los pacientes (frente al 0,6% del placebo) tuvieron elevaciones de los niveles de CK de 5 o más veces el valor normal en una o más ocasiones, y el 0,4% de los pacientes (frente al 0,2% del placebo)
+tuvieron elevaciones de los niveles de CK de 10 o más veces.
+
+Ezetimibe
+En 10 ensayos clínicos doble ciego controlados con placebo, 2396 pacientes con hiperlipidemia primaria (rango de edad de 9 a 86 años, 50% mujeres, 90% caucásicos,
+5% de raza negra, 3% de raza hispana, 2% de raza asiática) y C-LDL elevado fueron tratados con ezetimibe 10 mg/día durante una mediana de duración del tratamiento de 12 semanas (rango de 0 a 39 semanas).
+Las reacciones adversas provocaron la interrupción del tratamiento en el 3,3% de los pacientes tratados con ezetimibe y en el 2,9% de los pacientes tratados con placebo. Los motivos más comunes para la interrupción del tratamiento con ezetimibe fueron artralgia
+(0,3%), mareos (0,2%) y aumento de la gamma-glutamiltransferasa (0,2%). Las reacciones adversas informadas en ≥2% de los pacientes tratados con ezetimibe y con una incidencia mayor que el placebo en estudios controlados con placebo de ezetimibe, independientemente de la evaluación de causalidad, se muestran en la Tabla 2.
+
+Tabla 2. Reacciones adversas clínicas que ocurren en ≥2% de los pacientes tratados con ezetimibe y con una incidencia mayor que la del placebo, independientemente de la causalidad.
+
+Reacción adversa
+
+Infección del tracto respiratorio superior
+Diarrea
+Artralgia
+Sinusitis
+Dolor en extremidad
+Fatiga
+Influenza
+
+Ezetimibe 10 mg
+(%) N = 2396
+4,3
+4,1
+3,0
+2,8
+2,7
+2,4
+2,0
+
+Placebo
+(%) N = 1159
+2,5
+3,7
+2,2
+2,2
+2,5
+1,5
+1,5
+
+La frecuencia de reacciones adversas menos comunes fue comparable entre ezetimibe y placebo.
+En un ensayo factorial de grupo paralelo, aleatorizado, doble ciego, controlado con placebo, de 4 grupos, de 12 semanas de duración, 85 pacientes recibieron la asociación de ácido bempedoico 180 mg y ezetimibe 10 mg una vez al día. La edad media de los pacientes tratados con ácido bempedoico 180 mg y ezetimibe 10 mg fue de 62 años, el 51% eran mujeres, el 12% de raza hispana, el 78% de raza blanca, el 19% de raza negra y el 2% de raza asiática. Al inicio del estudio, el 61% de los pacientes tenía enfermedad cardiovascular aterosclerótica clínica (ASCVD) y/o un diagnóstico de hipercolesterolemia familiar heterocigótica. Todos los pacientes recibieron ácido bempedoico 180 mg y ezetimibe 10 mg más tratamiento con estatinas de máxima tolerancia. Se excluyeron del ensayo los pacientes que tomaban simvastatina 40 mg/día o más y los pacientes que recibían tratamiento hipolipemiante sin estatinas (incluidos fibratos, niacina, secuestradores de ácidos biliares, ezetimibe e inhibidores de PCSK9).
+Las reacciones adversas llevaron a la interrupción del tratamiento en el 8% de los pacientes con ácido bempedoico 180 mg y ezetimibe 10 mg, el 5% de los pacientes con placebo, el 10% de los pacientes con ácido bempedoico y el 12% de los pacientes con ezetimibe.  El  motivo  más  común  para  la  interrupción  del  tratamiento  con  ácido bempedoico 180 mg y ezetimibe 10 mg fue el malestar bucal (2% de ácido bempedoico
+180 mg y ezetimibe 10 mg frente a 0% de placebo). Las reacciones adversas notificadas con más frecuencia (incidencia ≥3% y mayor que el placebo) observadas con ácido bempedoico 180 mg  y ezetimibe 10 mg, pero no observadas en los ensayos clínicos de ácido bempedoico o ezetimibe, fueron infección del tracto urinario (5,9% con ácido bempedoico 180 mg  y ezetimibe 10 mg frente a 2,4% placebo), nasofaringitis (4,7% con ácido bempedoico 180 mg  y ezetimibe 10 mg frente a 0% de placebo) y estreñimiento
+(4,7% con ácido bempedoico 180 mg  y ezetimibe 10 mg frente a 0% de placebo).
+
+Experiencia posterior a la comercialización Estas reacciones son reportadas voluntariamente por una población de tamaño incierto, por lo que en general no es posible estimar de manera confiable su frecuencia o establecer una relación causal con la exposición al medicamento.
+En la experiencia posterior a la comercialización de ezetimibe, se han informado las siguientes reacciones adversas adicionales:
+Reacciones de hipersensibilidad, que incluyen anafilaxia, angioedema, erupción cutánea y urticaria; eritema multiforme; mialgia; creatinfosfoquinasa elevada; miopatía/rabdomiólisis; elevaciones de las transaminasas hepáticas; hepatitis; dolor abdominal; trombocitopenia; pancreatitis; náuseas; mareos; parestesia; depresión; dolor de cabeza; colelitiasis; colecistitis.
+En la experiencia posterior a la comercialización del ácido bempedoico, se han informado las siguientes reacciones adversas adicionales:
+Hipersensibilidad: angioedema, sibilancias, erupción cutánea y urticaria
+
+SOBREDOSIFICACIÓN
+No existe experiencia clínica con la sobredosis de la asociación de ácido bempedoico y ezetimibe.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Esta especialidad medicinal está libre de gluten.
+
+PRESENTACIÓN
+Envases con 30 comprimidos recubiertos.
+
+Fecha de última revisión: junio de 2025.
+
+FORMA DE CONSERVACIÓN
+- Conservar en lugar seco, desde 15°C hasta 25°C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+Especialidad Medicinal autorizada por el Ministerio de Salud de la Nación.
+Certificado N° 60.406
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 -   Ciudad Autónoma de Buenos Aires, Argentina.
+
+E-7880-01 / D8223/ Act.: 04/2025
+
+4

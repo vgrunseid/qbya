@@ -1,0 +1,493 @@
+Venta bajo receta
+Industria Argentina
+
+BISOPIL® 2,5 - 5 y 10
+BISOPROLOL FUMARATO 2,5 - 5 y 10 mg
+Comprimido recubierto
+
+COMPOSICIÓN
+Cada comprimido recubierto de BISOPIL® 2,5 contiene:
+Bisoprolol fumarato ..............................................................2,5 mg Excipientes:  Celulosa  microcristalina  PH  102,  Almidón  pregelatinizado,  Crospovidona,  Estearato  de  magnesio,  Dióxido  de  silicio coloidal, Opadry YS-1-7003 blanco1), Opaglos GS-2-07002) ....... c.s
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+Cada comprimido recubierto de BISOPIL® 5 contiene:
+Bisoprolol fumarato ................................................................. 5 mg Excipientes: Celulosa microcristalina PH 102, Almidón pregelatinizado, Dióxido de silicio coloidal, Crospovidona, Estearato de magnesio,
+Opadry YS-1-7003 blanco1), Óxido de hierro rojo (CI N°77491), Óxido de hierro amarillo (CI N°77492), Opaglos GS-2-07002)................c.s.
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+Cada comprimido recubierto de BISOPIL® 10 contiene:
+Bisoprolol fumarato ...............................................................10 mg Excipientes: Celulosa microcristalina PH 102, Almidón pregelatinizado, Crospovidona, Estearato de magnesio, Dióxido de silicio coloidal,
+Opadry YS-1-7003 blanco1), Óxido de hierro rojo (CI N°77491), Óxido de hierro negro (CI N°77499), Opaglos GS-2-07002) ...................c.s.
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+
+ACCIÓN TERAPÉUTICA
+Grupo  farmacoterapéutico:  agentes  beta-bloqueantes  selectivos.
+Código ATC: C07AB07.
+
+INDICACIONES
+Hipertensión.
+Angina de pecho.
+Tratamiento de la insuficiencia cardiaca crónica estable, con función ventricular sistólica izquierda reducida junto con inhibidores de la ECA y diuréticos, y opcionalmente, con digitálicos.
+
+ACCIÓN FARMACOLÓGICA
+Farmacodinamia
+Bisoprolol es un bloqueante de los receptores beta 1 adrenérgicos altamente selectivo, desprovisto de actividad simpaticomimética intrínseca y de efecto estabilizador de membrana relevante. Presenta una escasa afinidad por los receptores beta 2 de la musculatura lisa bronquial y vascular, así como por los receptores beta 2 implicados en la regulación metabólica. Por esta razón, no se espera que bisoprolol afecte a la resistencia de las vías respiratorias ni a los efectos metabólicos  mediados  por  receptores  beta  2.  La  selectividad  beta
+1 de bisoprolol se mantiene a dosis superiores de las terapéuticamente recomendadas.
+Bisoprolol se usa en el tratamiento de la hipertensión, la angina de pecho y la insuficiencia cardiaca. Al igual que con otros bloqueantes de los receptores beta 1, no está claro el modo de acción en la hipertensión. Sin embargo, se sabe que bisoprolol deprime marcadamente la actividad de la renina plasmática.
+Mecanismo  antianginoso:  bisoprolol  al  inhibir  los  receptores  beta cardiacos inhibe la respuesta dada a la activación simpática. Como resultado,  reduce  la  actividad  cardiaca  y  la  contractibilidad  y,  por lo tanto, disminuye la demanda de oxígeno del músculo cardiaco.
+La indicación al respecto de la insuficiencia cardiaca se investigó en el estudio CIBIS II. Se incluyeron 2.647 pacientes en total, el 83% (n
+= 2.202) pertenecían a la clase III de la NYHA y un 17 % (n = 445)
+a la clase IV de la NYHA. Todos ellos sufrían insuficiencia cardiaca sistólica estable y sintomática (fracción de eyección ≤ 35%, valorada
+
+mediante ecocardiografía). La mortalidad total se redujo del 17,3 % al 11,8 % (reducción relativa 34 %). Se observó una disminución en la incidencia de muerte súbita (3,6 % vs. 6,3 %, reducción relativa
+44 %) y un número menor de episodios de insuficiencia cardiaca que requirieron hospitalización (12 % vs. 17,6 %, reducción relativa 36 %). Finalmente, se ha demostrado una mejora significativa del status funcional de acuerdo con la clasificación NYHA. Durante el inicio y el ajuste de dosificación del tratamiento con bisoprolol, se observaron hospitalizaciones  debido  a  bradicardia  (0,53  %),  hipotensión  (0,23
+%),  y  descompensación  aguda  (4,97  %),  pero  que  no  fueron  más frecuentes que en el grupo placebo (0 %; 0,3 % y 6,74 %). Durante todo el estudio, el número de accidentes vasculares fatales e incapacitantes fue de 20 en el grupo al que se administró bisoprolol y de 15 en el grupo placebo.
+El estudio CIBIS III investigó a 1.010 pacientes con edad ≥ 65 y con insuficiencia cardiaca crónica de leve a moderada (ICC; clasificación NYHA  II  o  III)  y  fracción  de  eyección  del  ventrículo  izquierdo  ≤  35
+%, que no habían sido tratados previamente con inhibidores de la ECA, beta-bloqueantes o bloqueantes del receptor de angiotensina.
+Los pacientes fueron tratados con una combinación de bisoprolol y enalapril durante un periodo de 6 a 24 meses tras un tratamiento inicial de 6 meses con bisoprolol o enalapril.
+Hubo una tendencia hacia una frecuencia más elevada de empeoramiento  de  la  insuficiencia  cardiaca  crónica  cuando  se  utilizaba bisoprolol  en  el  tratamiento  inicial  de  6  meses.  La  no  inferioridad de bisoprolol en primer lugar frente a enalapril en primer lugar no se demostró en los análisis por protocolos, aunque las dos estrategias para el inicio del tratamiento de la insuficiencia cardiaca congestiva mostraron un índice similar del punto final primario de muerte y hospitalización combinadas al final del estudio (32,4 % en el grupo del bisoprolol como primer tratamiento frente a 33,1 % en el grupo de enalapril como primer tratamiento). El estudio muestra que bisoprolol puede utilizarse también en pacientes ancianos con insuficiencia cardiaca crónica con enfermedad de leve a moderada.
+Tras la administración aguda en pacientes con enfermedad coronaria sin insuficiencia cardiaca crónica, bisoprolol reduce la frecuencia cardiaca y el volumen de latido, y por tanto, el gasto cardiaco y el consumo de oxígeno. En la administración crónica disminuyen las resistencias vasculares periféricas que se ven aumentadas al inicio del tratamiento.
+
+FARMACOCINÉTICA
+Tras la administración oral, bisoprolol se absorbe y tiene una disponibilidad del 90 %. La unión de bisoprolol a proteínas plasmáticas es de un 30 %. El volumen de distribución es 3,5 l/Kg. El aclaramiento total es aproximadamente de 15 l/h. La vida media plasmática es de 10 - 12 horas, lo que proporciona un efecto de 24 horas tras una dosis única diaria.
+Bisoprolol se elimina del organismo por dos vías. El 50 % se metaboliza en el hígado dando lugar a metabolitos inactivos que serán eliminados por los riñones. El otro 50 % se elimina por los riñones de forma inalterada. Dado que la eliminación tiene lugar en la misma proporción en hígado y riñones, no se requiere un ajuste de dosis en pacientes con insuficiencia hepática o renal. No se ha estudiado la farmacocinética en pacientes con insuficiencia cardiaca crónica estable y con función hepática o renal deteriorada.
+La cinética de bisoprolol es lineal e independiente de la edad.
+En pacientes con insuficiencia cardiaca crónica (NYHA grado III) los niveles plasmáticos de bisoprolol son mayores y la vida media se prolonga en comparación con los valores de los voluntarios sanos.
+La concentración plasmática máxima en estado estacionario es de 64 ± 21 ng/ml a una dosis diaria de 10 mg y la semivida es de 17
+± 5 horas.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+Instrucciones de administración
+Los comprimidos de bisoprolol deben administrarse por la mañana y pueden ser ingeridos con alimentos. Deben tragarse con líquido y no se deben masticar.
+Hipertensión / Angina de pecho
+Adultos
+La dosis debe ajustarse individualmente para cada paciente, teniendo  en  cuenta  la  frecuencia  cardiaca  y  el  éxito  del  tratamiento.  Se recomienda iniciar el tratamiento con 5 mg al día. La dosis habitual es  de  10  mg  una  vez  al  día  con  una  dosis  máxima  recomendada de 20 mg al día.
+Pacientes de edad avanzada
+Se recomienda iniciar el tratamiento con la menor dosis posible.
+Pacientes con insuficiencia renal o hepática En pacientes con trastornos funcionales hepáticos o renales de leves a moderados, normalmente no es necesario ajustar la dosis del medicamento. En pacientes con insuficiencia renal grave (aclaramiento de creatinina < 20 ml/min) y en pacientes con insuficiencia hepática grave, la dosis no debe exceder de 10 mg una vez al día.
+La  experiencia  con  bisoprolol  en  pacientes  dializados  es  limitada, sin embargo, hasta el momento no se ha demostrado que la pauta posológica deba ser modificada en este tipo de pacientes.
+Interrupción del tratamiento
+El tratamiento no debe interrumpirse de forma brusca. La dosis debe reducirse lentamente, disminuyendo a la mitad cada semana.
+Insuficiencia cardiaca crónica estable
+El tratamiento estándar de la insuficiencia cardiaca crónica consiste en un inhibidor de la ECA (o un bloqueante del receptor de angiotensina, en caso de intolerancia de los inhibidores de la ECA), un agente beta-bloqueante,  diuréticos  y,  cuando  sea  adecuado,  digitálicos.
+Los pacientes deben estar estables (no haber sufrido crisis agudas)
+cuando se inicie el tratamiento con bisoprolol.
+Es recomendable que el médico especialista tenga experiencia previa en el manejo de casos de insuficiencia cardiaca crónica.
+Puede ocurrir un empeoramiento transitorio de la insuficiencia cardiaca, hipotensión o bradicardia durante la fase de ajuste de la dosis y después del mismo.
+Fase de ajuste de la dosis
+El tratamiento de la insuficiencia cardiaca crónica estable con bisoprolol requiere de una fase de ajuste de la dosis.
+El tratamiento con bisoprolol debe ser iniciado con un aumento gradual de la dosis de acuerdo con los siguientes pasos:
+
+• 1,25 mg una vez al día durante una semana, si es bien tolerado aumentar a
+• 2,5 mg una vez al día durante una semana más, si es bien tolerado aumentar a
+• 3,75  mg  una  vez  al  día  durante  una  semana  más,  si  es  bien tolerado aumentar a
+• 5  mg  una  vez  al  día  durante  4  semanas,  si  es  bien  tolerado aumentar a
+• 7,5 mg una vez al día durante 4 semanas, si es bien tolerado aumentar a
+• 10 mg una vez al día para la terapia de mantenimiento.
+La dosis máxima recomendada es de 10 mg una vez al día.
+Se  recomienda  una  estrecha  monitorización  de  los  signos  vitales
+(frecuencia cardiaca, presión arterial) y de los síntomas de empeoramiento  de  la  insuficiencia  cardiaca  durante  la  fase  de  ajuste  de la dosis. Los síntomas pueden aparecer el mismo día de inicio del tratamiento.
+Modificación del tratamiento
+Si la dosis máxima recomendada no se tolera bien, se puede considerar una disminución gradual de la dosis.
+En casos de empeoramiento pasajero de la insuficiencia cardiaca, hipotensión o bradicardia, se recomienda una reconsideración de la dosificación de la medicación concomitante.
+También puede ser necesario disminuir temporalmente la dosis de bisoprolol o considerar su interrupción.
+La reintroducción y/o el ajuste de dosis de bisoprolol se debe tener en cuenta siempre y cuando el paciente esté de nuevo estable.
+Duración del tratamiento
+El tratamiento de la insuficiencia cardiaca crónica estable con bisoprolol es, por lo general, un tratamiento a largo plazo.
+El tratamiento con bisoprolol no debe interrumpirse de forma brusca, ya que ello podría llevar a un empeoramiento transitorio de las condiciones del paciente, especialmente en pacientes con cardiopatía isquémica. Se recomienda la reducción gradual de la dosis.
+Insuficiencia renal o hepática
+No se dispone de datos farmacocinéticos acerca del tratamiento con bisoprolol en pacientes con insuficiencia cardiaca crónica y con insuficiencia hepática o renal. Por lo tanto, los ajustes posológicos graduales en dichos pacientes deben realizarse con mayor precaución.
+Pacientes de edad avanzada
+No es necesario ajustar la dosis.
+Niños y adolescentes
+No existen datos acerca de la seguridad y eficacia en niños y adolescentes con bisoprolol, por lo que no se recomienda su utilización en estos grupos de población.
+
+CONTRAINDICACIONES
+Bisoprolol está contraindicado en:
+• hipersensibilidad al principio activo o a alguno de los excipientes,
+• insuficiencia cardiaca aguda o durante los episodios de descompensación de la insuficiencia cardiaca que requieran de tratamiento inotrópico i.v.,
+• shock cardiogénico,
+• bloqueo AV de segundo o tercer grado (sin marcapasos),
+• síndrome del nodo sinusal,
+• bloqueo auriculoventricular,
+• bradicardia,
+• hipotensión,
+• asma bronquial grave o enfermedad pulmonar obstructiva crónica grave,
+• formas  graves  de  oclusión  arterial  periférica  avanzada  y  formas graves de síndrome de Raynaud,
+• combinaciones con floctafenina y sultoprida,
+• feocromocitoma no tratado,
+• acidosis metabólica.
+
+ADVERTENCIAS Y PRECAUCIONES
+El  tratamiento  con  bisoprolol  de  la  insuficiencia  cardiaca  crónica estable debe iniciarse con una fase de ajuste de dosis.
+La interrupción del tratamiento con bisoprolol no debe hacerse bruscamente a menos que esté claramente indicado, especialmente en pacientes  con  enfermedad  cardíaca  isquémica,  ya  que  ello  podría llevar a un empeoramiento transitorio del estado cardiaco.
+El inicio del tratamiento de la insuficiencia cardiaca crónica estable con bisoprolol precisa de una monitorización regular.
+Si  se  interrumpe  bruscamente  el  tratamiento,  existe  riesgo  de  infarto  de  miocardio  y  muerte  súbita  en  pacientes  con  cardiopatía isquémica.
+Bisoprolol debe utilizarse con precaución en pacientes con:
+• hipertensión o angina de pecho acompañada de fallo cardiaco
+• broncoespasmo  (asma  bronquial,  enfermedades  respiratorias obstructivas).
+En el asma bronquial o en otras enfermedades pulmonares obstructivas  crónicas  que  puedan  causar  sintomatología,  deben  administrarse  broncodilatadores  en  forma  concomitante.  Ocasionalmente, puede producirse un incremento de la resistencia en las vías respiratorias en pacientes con asma, por lo que la dosis de los agonistas beta-2 puede tener que aumentarse,
+• diabetes  mellitus  con  amplias  fluctuaciones  de  la  glucemia,  ya que pueden enmascararse los síntomas de la hipoglucemia (p. ej., taquicardia, palpitaciones o sudoración),
+• ayuno prolongado,
+• tratamientos de desensibilización en curso. Como otros beta-bloqueantes, bisoprolol puede aumentar tanto la sensibilidad frente a los alergenos como la gravedad de las reacciones anafilácticas. El tratamiento con adrenalina no siempre da el resultado terapéutico esperado,
+• bloqueo AV de primer grado,
+• angina de Prinzmetal,
+• enfermedad arterial periférica oclusiva (las molestias pueden verse acentuadas, especialmente al inicio del tratamiento),
+• anestesia general.
+
+En pacientes sometidos a anestesia general, los beta-bloqueantes reducen  la  incidencia  de  arritmias  e  isquemia  miocárdica  durante la inducción anestésica, la intubación y el periodo post-operatorio.
+Actualmente, se recomienda mantener el tratamiento con beta-bloqueantes  durante  el  periodo  perioperatorio.  El  anestesista  debe estar debidamente informado del tratamiento con beta-bloqueantes debido a la posibilidad de interacción con otros medicamentos que pudiera producir bradiarritmias, disminución de la taquicardia refleja y disminución de la capacidad para compensar pérdidas de sangre.
+Si se considera necesario suspender el tratamiento beta-bloqueante antes de la cirugía, se realizará de forma gradual y completa antes de las 48 horas previas a la anestesia.
+No  existe  experiencia  terapéutica  con  bisoprolol  en  el  tratamiento de la insuficiencia cardiaca en pacientes con las siguientes enfermedades y condiciones:
+• diabetes mellitus insulino-dependiente (tipo I),
+• deterioro grave de la función renal,
+• deterioro grave de la función hepática,
+• miocardiopatía restrictiva,
+• cardiopatías congénitas,
+• valvulopatías con afección hemodinámica significativa,
+• infarto de miocardio en los últimos tres meses.
+En pacientes con psoriasis o con antecedentes de psoriasis, la administración de beta-bloqueantes (p. ej., bisoprolol) se realizará tras evaluar cuidadosamente la relación riesgo-beneficio.
+Bisoprolol no debe administrarse en pacientes con feocromocitoma hasta haber instaurado previamente el tratamiento alfa-bloqueante.
+Durante el tratamiento con bisoprolol, los síntomas de una tirotoxicosis pueden quedar enmascarados.
+Uso en deportistas:
+Se  debe  advertir  a  los  pacientes  que  este  medicamento  contiene bisoprolol, que puede producir un resultado positivo en las pruebas de control de dopaje.
+Interacciones farmacológicas
+Combinaciones contraindicadas
+Floctafenina:  los  beta-bloqueantes  pueden  impedir  las  reacciones cardiovasculares compensatorias asociadas a hipotensión o al shock inducido por floctafenina.
+Sultoprida:  bisoprolol  no  debe  administrarse  concomitantemente con  sultoprida  ya  que  existe  un  incremento  del  riesgo  de  arritmia ventricular.
+Combinaciones no recomendadas
+Antagonistas del calcio, tipo verapamilo y, en menor medida, del tipo diltiazem: efectos negativos sobre la contractilidad y la conducción auriculoventricular. La administración intravenosa de verapamilo en pacientes en tratamiento con beta-bloqueantes puede provocar hipotensión grave y bloqueo auriculoventricular.
+Antiarrítmicos de clase I (p. ej., quinidina, disopiramida, lidocaína, fenitoína, flecainida, propafenona) en pacientes con insuficiencia cardiaca crónica: pueden potenciar los efectos sobre el tiempo de conducción auriculoventricular y aumentar el efecto inotrópico negativo.
+Antihipertensivos  de  acción  central  como  clonidina  y  otros  (p.  ej., metildopa, moxonidina, rilmenidina): el uso concomitante de medicamentos  antihipertensivos  de  acción  central  puede  empeorar  del fallo  cardiaco  al  disminuir  el  tono  simpático  central  (disminución de la frecuencia cardiaca y del gasto cardiaco, vasodilatación). Su retirada brusca, especialmente si se ha interrumpido previamente el beta-bloqueante, puede aumentar el riesgo de “hipertensión rebote”.
+Combinaciones que deben utilizarse con precaución Antagonistas del calcio tipo dihidropiridina como felodipino y amlodipino:  no  puede  descartarse  que  su  utilización  concomitante  en pacientes  con  insuficiencia  cardiaca  pueda  aumentar  el  riesgo  de hipotensión y de un posterior deterioro de la función de la bomba ventricular.
+Hipertensión /Angina de pecho
+Antiarrítmicos  de  clase  I  (p.  ej.,  quinidina,  disopiramida,  lidocaína, fenitoína, flecainida, propafenona): pueden potenciar los efectos sobre el tiempo de conducción auriculoventricular y aumentar el efecto inotrópico negativo.
+Antiarrítmicos de clase III (p. ej., amiodarona): puede potenciarse el efecto sobre el tiempo de conducción auriculoventricular.
+Beta-bloqueantes tópicos (p. ej., gotas oculares para el tratamiento
+
+del glaucoma): pueden sumarse a los efectos sistémicos de bisoprolol.
+Parasimpaticomiméticos:  su  utilización  concomitante  puede  aumentar el tiempo de conducción auriculoventricular y el riesgo de bradicardia.
+Insulina  y  medicamentos  antidiabéticos  orales:  intensificación  del efecto hipoglucemiante. El bloqueo de receptores beta-adrenérgicos puede enmascarar los síntomas de hipoglucemia.
+Agentes anestésicos: atenuación de la taquicardia refleja y aumento del riesgo de hipotensión.
+Digitálicos:  disminución  de  la  frecuencia  cardiaca,  incremento  del tiempo de conducción auriculoventricular.
+Antiinflamatorios no esteroideos (AINEs): los AINEs pueden reducir los efectos hipotensores de bisoprolol.
+Agentes beta-simpaticomiméticos (p .ej., isoprenalina, dobutamina):
+en combinación con bisoprolol pueden reducir el efecto de ambos.
+Simpaticomiméticos con efecto estimulante sobre receptores beta y alfa-adrenérgicos (p. ej., noradrenalina, adrenalina): en combinación con bisoprolol pueden desenmascarar los efectos vasoconstrictores mediados por receptores alfa-adrenérgicos producidos con un aumento de la presión arterial y exacerbación de la claudicación intermitente. Se considera que esta interacción es más probable si se utilizan beta-bloqueantes no selectivos.
+El uso concomitante con medicamentos antihipertensivos así como con otros medicamentos con potencial efecto hipotensor (p.ej., antidepresivos tricíclicos, barbitúricos, fenotiazinas) puede incrementar el riesgo de hipotensión.
+Combinaciones cuyo uso debe evaluarse
+Mefloquina: riesgo incrementado de bradicardia.
+Inhibidores de la monoaminooxidasa (excepto los inhibidores de la MAO B): aumento del efecto hipotensor de los beta-bloqueantes pero también el riesgo de crisis hipertensivas.
+Rifampicina: Posible ligera reducción de la vida media de bisoprolol debido a la inducción de las enzimas metabólicas hepáticas. Normalmente no es necesario ajustar la dosis.
+Derivados de ergotamina: Exacerbación de los trastornos circulatorios periféricos.
+Embarazo y lactancia
+Embarazo
+Bisoprolol tiene efectos farmacológicos que pueden causar efectos perjudiciales en el embarazo y/o en el feto/recién nacido. En general, los agentes bloqueantes beta-adrenérgicos disminuyen la perfusión placentaria,  lo  que  se  ha  asociado  con  retraso  en  el  crecimiento, muerte  intrauterina,  aborto  o  parto  prematuro.  Pueden  aparecer reacciones adversas  (p. ej.,  hipoglucemia y bradicardia) en el feto y en el recién nacido. Si el tratamiento con bloqueantes beta-adrenérgicos es necesario, son preferibles los bloqueantes adrenérgicos beta-1 selectivos.
+Bisoprolol  no  debe  administrarse  durante  el  embarazo  a  no  ser que  sea  estrictamente  necesario.  Si  el  tratamiento  con  bisoprolol se  considera  necesario,  deberá  monitorizarse  el  flujo  sanguíneo uteroplacentario y el crecimiento del feto. Si se producen efectos perjudiciales durante el embarazo o en el feto, debe considerarse la posibilidad de un tratamiento alternativo. El recién nacido deberá estar  estrechamente  monitorizado.  Generalmente  son  de  esperar síntomas  de  hipoglucemia  y  bradicardia  durante  los  3  primeros días.
+Lactancia
+Se desconoce si este medicamento se excreta en la leche humana.
+Por  tanto,  no  se  recomienda  la  lactancia  mientras  se  sigue  tratamiento con bisoprolol.
+Datos preclínicos sobre seguridad
+Los datos preclínicos, basados en estudios convencionales de seguridad farmacológica, toxicidad a dosis repetidas, genotoxicidad o carcinogenicidad,  no  muestran  riesgos  especiales  en  humanos. Al igual que otros beta-bloqueantes, bisoprolol administrado a altas dosis causó toxicidad maternal (disminución de la ingesta de alimento y disminución del peso corporal) y toxicidad embrio-fetal (aumento de la incidencia de resorciones, peso al nacer disminuido, retraso del desarrollo físico), pero no fue teratogénico.
+Efectos sobre la capacidad para conducir y utilizar máquinas No existen estudios acerca de los efectos sobre la capacidad para
+
+conducir  y  utilizar  máquinas.  En  un  estudio  con  bisoprolol  en  pacientes con enfermedad coronaria no se observaron efectos negativos sobre la capacidad de conducción. Sin embargo, debido a la variedad de reacciones individuales al medicamento, la capacidad para conducir o utilizar maquinas puede verse afectada. Esto debe tenerse en cuenta especialmente al inicio del tratamiento y en los cambios de medicación, así como en asociación con alcohol.
+
+REACCIONES ADVERSAS
+Las reacciones adversas notificadas, que son en la mayoría de los casos  de  intensidad  leve  a  moderado,  se  clasifican  por  órganos  y sistemas y según su frecuencia: frecuentes (≥ 1/100 a < 1/10), ocasionales (≥ 1/1.000 a ≤ 1/100) y raras (≤ 1/1.000).
+Trastornos cardiacos
+Frecuentes: bradicardia en pacientes con insuficiencia cardiaca crónica, empeoramiento de la insuficiencia cardiaca en pacientes con insuficiencia cardiaca crónica.
+Ocasionales: alteraciones de la conducción AV, empeoramiento de la insuficiencia cardiaca (en pacientes con angina de pecho o hipertensión), bradicardia (en pacientes con angina de pecho o hipertensión).
+Raras: dolor de pecho.
+Trastornos vasculares:
+Frecuentes: sensación de frío o entumecimiento en las extremidades, hipotensión.
+Ocasionales: hipotensión ortostática.
+Trastornos psiquiátricos:
+Ocasionales: alteraciones del sueño, depresión.
+Raras: pesadillas, alucinaciones.
+Trastornos del sistema nervioso:
+Frecuentes: mareos*, cefaleas*.
+Raras: desmayo.
+Trastornos oculares:
+Raras: disminución de la producción de lágrimas (a tener en cuenta si el paciente utiliza lentes de contacto), conjuntivitis.
+Trastornos del oído y del laberinto:
+Raras: deterioro de la audición.
+Trastornos respiratorios, torácicos y mediastínicos:
+Ocasionales:  broncoespasmo  en  pacientes  con  asma  bronquial  o historia de obstrucción de vías aéreas.
+Raras: rinitis alérgica.
+Trastornos gastrointestinales:
+Frecuentes:  molestias  gastrointestinales  como  náuseas,  vómitos, diarrea, y estreñimiento.
+Trastornos hepatobiliares:
+Raras: hepatitis.
+Trastornos de la piel y tejido subcutáneo:
+Raras: reacciones de hipersensibilidad (prurito, rubefacción, erupción cutánea), los beta-bloqueantes pueden causar o empeorar la psoriasis o inducir reacciones similares a la psoriasis, alopecia.
+Trastornos músculoesqueléticos y del tejido conjuntivo:
+Ocasionales: debilidad muscular y calambres.
+Trastornos del aparato reproductor y de la mama:
+Raras: trastornos de la potencia sexual.
+Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes: fatiga*.
+Ocasionales:  astenia  (en  pacientes  con  angina  de  pecho  o  hipertensión).
+Exploraciones complementarias
+Raras: aumento de triglicéridos, aumento de enzimas hepáticas (ALAT,
+ASAT).
+*  Estos  síntomas  aparecen  sobretodo  en  pacientes  con  angina  de pecho o hipertensión al inicio del tratamiento. Generalmente son de
+
+carácter leve y suelen desaparecer en 1-2 semanas.
+
+SOBREDOSIFICACIÓN
+En caso de sobredosis (p. ej., dosis diarias de 15 mg en lugar de 7,5 mg) se ha comunicado bloqueo AV de tercer grado, bradicardia y mareos. En general, los síntomas esperados con mayor frecuencia por  sobredosis  de  beta-bloqueantes  son  bradicardia,  hipotensión, broncoespasmo, insuficiencia cardiaca aguda e hipoglucemia. Hasta la fecha, tan solo se ha informado de unos pocos casos de sobredosis  con  bisoprolol  (máximo  2000  mg)  en  pacientes  que  sufren hipertensión  y/o  enfermedad  coronaria,  apareciendo  bradicardia y/o hipotensión, recuperándose todos los pacientes. Después de la administración de una dosis única elevada de bisoprolol, existe una gran variabilidad interindividual y parece ser que los pacientes con insuficiencia  cardiaca  son  probablemente  muy  sensibles.  Por  esta razón, es condición indispensable iniciar el tratamiento de estos pacientes de forma gradual. En caso de sobredosis, debe suspenderse el tratamiento con bisoprolol e instaurarse un tratamiento de apoyo y sintomático. Los pocos datos disponibles indican que bisoprolol es prácticamente  no  dializable.  En  base  a  los  efectos  farmacológicos esperados y en las recomendaciones para otros agentes beta-bloqueantes,  se  deben  considerar  las  siguientes  medidas  generales cuando se justifique clínicamente.
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros Centros de Intoxicaciones”.
+Bradicardia: administración intravenosa de atropina. Si la respuesta no es la adecuada, se puede administrar con precaución isoprenalina  o  cualquier  otro  medicamento  con  actividad  cronotrópica.  En algunos casos puede ser necesaria la colocación de un marcapasos transvenoso.
+Hipotensión: se deben administrar líquidos intravenosos y vasopresores. Puede ser útil la administración de glucagón intravenoso.
+Bloqueo AV  (segundo  o  tercer  grado):  se  deberá  monitorizar  a  los pacientes  cuidadosamente  y  se  les  administrará  isoprenalina  en perfusión o mediante la colocación de un marcapasos transvenoso.
+Empeoramiento  grave  de  la  insuficiencia  cardiaca:  administración vía  intravenosa  de  diuréticos,  medicamentos  inotrópicos  y  vasodilatadores.
+Broncoespasmo: se debe contrarrestar con tratamiento broncodilatador como isoprenalina o medicamentos beta2-simpaticomiméticos y/o aminofilina.
+Hipoglucemia: administración de glucosa i.v.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al  siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos  y/o  al  Departamento  de  Farmacovigilancia  de  GADOR  S.A.  vía  email  a  farmacovigilancia@gador.com  o telefónicamente al 0800-220-2273.
+
+PRESENTACIONES
+BISOPIL® 2,5 -  5 y 10: envases conteniendo 30 comprimidos recubiertos.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO:
+Conservar en su envase original a temperatura ambiente entre 15oC y 25oC.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+INFORMACIÓN PARA EL PACIENTE
+
+COMPOSICIÓN
+Cada comprimido recubierto de BISOPIL® 2,5 contiene:
+Bisoprolol fumarato ............................................................2,5 mg Excipientes: Celulosa microcristalina PH 102, Almidón pregelatinizado, Crospovidona,  Estearato  de  magnesio, Dióxido  de  silicio coloidal, Opadry YS-1-7003 blanco1), Opaglos GS-2-07002) ..... c.s
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+Cada comprimido recubierto de BISOPIL® 5 contiene:
+Bisoprolol fumarato ............................................................... 5 mg
+Excipientes: Celulosa microcristalina PH 102, Almidón pregelatinizado, Dióxido de silicio coloidal, Crospovidona, Estearato de magnesio, Opadry YS-1-7003 blanco1), Óxido de hierro rojo (CI N°77491),
+Óxido de hierro amarillo (CI N°77492), Opaglos GS-2-07002) .....c.s.
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+Cada comprimido recubierto de BISOPIL® 10 contiene:
+Bisoprolol fumarato .............................................................10 mg Excipientes:  Celulosa  microcristalina  PH  102, Almidón  pregelatinizado,  Crospovidona,  Estearato  de  magnesio,  Dióxido  de  silicio coloidal,  Opadry  YS-1-7003  blanco1),  Óxido  de  hierro  rojo  (CI
+N°77491),  Óxido  de  hierro  negro  (CI  N°77499),  Opaglos  GS-207002) .......................................................................................c.s.
+1) Compuesto por: Hidroxipropilmetilcelulosa 3CP, Hidroxipropilmetilcelulosa 6 CP, Dióxido de titanio, Polisorbato 80 y Polietilenglicol 400.
+2) Compuesto por: Goma laca, Cera de abejas y Cera Carnauba.
+
+Su médico le ha prescripto BISOPIL®. Antes de empezar a tomar este  medicamento,  lea  la  siguiente  información  detenidamente.
+La misma tiene el propósito de guiarlo con respecto al uso seguro de este medicamento. Esta información no reemplaza las indicaciones de su médico. Si usted posee alguna duda sobre BISOPIL®, consulte a su médico. Este medicamento se le ha prescripto solo a
+Usted, y no deberá compartirlo con otras personas, ya que puede ser perjudicial. Si presenta efectos adversos consulte a su médico, incluso  si  se  trata  de  efectos  adversos  no  incluidos  en  esta  información.
+
+Qué es BISOPIL® y para qué se utiliza
+Bisoprolol pertenece a un grupo de medicamentos denominados beta-bloqueantes. Este grupo de medicamentos protegen al corazón cuando tiene demasiada actividad.
+Bisoprolol se utiliza para el tratamiento de:
+• presión sanguínea elevada,
+• angina de pecho (dolor cardiaco),
+• insuficiencia cardiaca que causa dificultad respiratoria al realizar esfuerzos o retención de líquidos. En este caso, bisoprolol se puede utilizar como tratamiento adicional con otros medicamentos para la insuficiencia cardiaca.
+
+Qué necesita saber antes de empezar a tomar BISOPIL®
+No tome BISOPIL®
+• si es alérgico (hipersensible) a bisoprolol o a cualquiera de los demás componentes de BISOPIL®
+• si  tiene  shock  cardiogénico,  que  es  una  enfermedad  cardiaca grave que produce pulso débil y acelerado; bajada de la presión arterial; piel fría y sudorosa; debilidad y desvanecimientos,
+• si alguna vez ha sufrido asma o dificultad respiratoria grave, ya que puede afectar a su respiración,
+• si  está  tomando  un  medicamento  llamado  sultropida  utilizado para tratar trastornos psiquiátricos graves o un medicamento contra el dolor llamado floctafenina (ver también la sección “Uso de BISOPIL® con otros medicamentos”),
+• si tiene frecuencia cardiaca lenta (menos de 60 pulsaciones por minuto). Pregunte a su médico si tiene dudas,
+• si tiene la presión arterial muy baja,
+• si tiene problemas de ciculación graves (que puede producir hormigueos en los dedos de las manos y pies o volverlos pálidos o azules).
+
+• si tiene ciertos problemas graves del ritmo cardiaco,
+• si tiene insuficiencia cardiaca, que acaba de ocurrir o si no está estabilizada y requiere de tratamiento hospitalario,
+• si  padece  acidosis  metabólica,  que  es  una  afección  que  se produce cuando existe una acumulación excesiva de ácido en la sangre. Su médico le podrá aconsejar,
+• si sufre feocromocitoma no tratado, que es un tumor de la glándula adrenal.
+Consulte  a  su  médico  si  no  está  seguro  de  tener  alguno  de  los problemas anteriores.
+
+Tenga especial cuidado con BISOPIL®
+• si tiene dificultad para respirar (asma).
+Debe administrarse al mismo tiempo que el tratamiento broncodilatador. Puede necesitar una dosis mayor del estimulante beta2,
+• si tiene diabetes este medicamento puede enmascarar los síntomas de un descenso de la glucosa en sangre (tales como pulso acelerado, palpitaciones o sudoración),
+• si está haciendo dieta de alimentos sólidos,
+• si está recibiendo tratamiento contra las reacciones de hipersensibilidad (reacciones alérgicas).
+Bisoprolol  puede  aumentar  la  hipersenbilidad  a  las  sustancias a  las  que  usted  es  alérgico  y  la  gravedad  de  dicha  reacción.  El tratamiento con adrenalina puede no tener el resultado deseado.
+Puede necesitar una dosis mayor de adrenalina (epinefrina),
+• con bloqueo cardiaco de primer grado (trastornos en la conducción cardiaca),
+• si tiene angina de Prinzmetal, que es un tipo de dolor en el pecho causado  por  espasmos  de  las  arterias  coronarias  que  riegan  el músculo cardiaco,
+• si tiene algún problema de circulación en las extremidades de su cuerpo, por ejemplo en las manos o en los pies,
+• si va a acudir al médico, al hospital o al dentista para una cirugía con anestesia, debe informar que medicamentos está tomando,
+• en combinación con antagonistas del calcio, como verapamilo o diltiazem. Su uso concomitante no está recomendado, ver también “Uso de BISOPIL® con otros medicamentos”,
+• si tiene o ha tenido psoriasis (una enfermad crónica de la piel que produce lesiones escamosas y sequedad),
+• en  feocromocitoma  (tumor  de  la  glándula  adrenal).  Su  médico tratará esta enfermedad antes de prescribirle bisoprolol,
+• si tiene un problema de tiroides. Bisoprolol puede enmascarar los síntomas de una hiperactividad tiroidea.
+Hasta el momento, no hay experiencia terapéutica del uso de bisoprolol en el tratamiento de la insuficiencia cardiaca en pacientes con las siguientes enfermedades y condiciones:
+• diabetes mellitus tratada con insulina (tipo I),
+• enfermedad de riñón grave,
+• enfermedad de hígado grave,
+• ciertas enfermedades del corazón,
+• ataque cardiaco en los 3 últimos meses.
+El tratamiento de la insuficiencia cardiaca con bisoprolol requiere de  un  regular  control  médico.  Esto  es  absolutamente  necesario especialmente al inicio del tratamiento.
+No debe interrumpirse bruscamente el tratamiento con bisoprolol a no ser que existan razones de peso.
+No  debe  interrumpirse  bruscamente  el  tratamiento  en  pacientes con hipertensión y angina de pecho acompañada de insuficiencia cardiaca. La dosis debe reducirse gradualmente a la mitad semanalmente.
+Consulte a su médico si padece, o ha padecido en el pasado, algunas de estas situaciones.
+
+Uso en deportistas
+Este medicamento contiene bisoprolol que puede producir un resultado positivo en las pruebas de control de dopaje.
+
+Uso de BISOPIL® con otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado
+
+recientemente otros medicamentos, incluso los adquiridos sin receta médica. Algunos medicamentos no deben tomarse al mismo tiempo que BISOPIL®, mientras que otros requieren un ajuste de la dosis.
+Es de importancia que le informe a su médico o farmacéutico si, además de BISOPIL®, usted está utilizando alguno de los siguientes medicamentos:
+• medicamentos para el control de la presión arterial o medicamentos utilizados para problemas del corazón (tales como amiodarona,  amlodipino,  clonidina,  glucósidos  digitálicos,  diltiazem, disopiramida, felodipino, flecainida, lidocaína, metildopa, moxonidina, fenitoína, propafenona, quinidina, rilmenidina, verapamilo),
+• tranquilizantes y tratamiento para la psicosis (una enfermedad mental), por ejemplo barbitúricos (también se utilizan para tratar la epilepsia), fenotiazinas (también se usan contra los vómitos y las náuseas) y sultoprida,
+• medicamentos  para  la  depresión,  por  ejemplo,  antidepresivos tricíclicos, inhibidores de la MAO,
+• medicamentos utilizados durante la anestesia (ver también “Tenga especial cuidado con BISOPIL®”),
+• medicamentos contra el dolor (por ejemplo, ácido acetilsalicílico, diclofenaco, floctafenina, indometacina, ibuprofeno, naproxeno),
+• medicamentos  para  el  asma,  para  la  congestión  nasal  o  para determinados trastornos oculares como glaucoma (aumento de la presión en el ojo) o para la dilatación (ampliar) de la pupila,
+• medicamentos utilizados en el tratamiento del shock (por ejemplo, adrenalina, dobutamina, noradrenalina),
+• mefloquina, un medicamento contra la malaria,
+• rifampincina, un antibiótico.
+• derivados de la ergotamina para el tratamiento de la migraña.
+Todos estos medicamentos, al igual que bisoprolol, pueden modificar la presión arterial y/o la función cardiaca.
+• Insulina u otros medicamentos para la diabetes. El efecto reductor sobre la glucosa en sangre puede verse aumentado. Pueden enmascararse los síntomas de un descenso de los niveles de glucosa.
+
+Embarazo y lactancia
+Bisoprolol puede tener efectos perjudiciales en el embarazo y/o en el feto. Existe una mayor posibilidad de parto prematuro, aborto, bajo nivel de azúcar en sangre y reducción de la frecuencia cardiaca del neonato. También puede afectar al crecimiento del bebé.
+Por tanto, bisoprolol no debe ser utilizado durante el embarazo.
+Se desconoce si bisoprolol pasa a la leche humana y, por tanto, su uso no se recomienda durante la lactancia.
+
+Conducción y uso de maquinarias
+No se han realizado estudios sobre los efectos de bisoprolol sobre la capacidad para conducir y utilizar máquinas.
+Este  medicamento  puede  hacer  que  se  sienta  cansado,  somnoliento  o  mareado.  Si  tiene  estos  efectos  adversos,  no  conduzca o  utilice  máquinas.  Sea  especialmente  cauto  al  inicio  del  tratamiento, con los cambios de dosis y en combinación con el alcohol.
+
+Toma de BISOPIL® con alimentos y bebidas Bisoprolol puede administrarse con o sin alimentos, el comprimido tiene que tragarse entero con ayuda de un vaso de agua.
+Los  mareos  y  el  dolor  de  cabeza  que  bisoprolol  podría  producir, pueden empeorar si consume alcohol. Si le ocurre esto, evite el consumo de alcohol.
+
+Cómo tomar BISOPIL®
+Cumpla  exactamente  las  instrucciones  de  administración  de BISOPIL® indicadas por su médico y consúltele si tiene dudas.
+BISOPIL® debe tomarse por la mañana, antes, durante o después del desayuno. Trague los comprimidos enteros con ayuda de un vaso de agua y no los mastique ni los triture. Su médico le dirá cuántos comprimidos debe tomar.
+La dosis normal es:
+
+Hipertensión/Angina de pecho
+Adultos
+La dosis debe ajustarse individualmente.
+La dosis de inicio recomendada es 5 mg al día.
+
+La  dosis  habitual  para  adultos  es  de  10  mg  diarios.  Su  médico puede aumentar o disminuir la dosis.
+La dosis máxima diaria recomendada es de 20 mg al día.
+Insuficiencia hepática o renal
+Si tiene algún trastorno grave de la función renal o de la función hepática: máximo 10 mg por día.
+Pacientes de edad avanzada
+Normalmente no se precisa un ajuste de dosis. Su médico comenzará el tratamiento con la menor dosis posible.
+Niños y adolescentes
+No hay experiencia pediátrica con bisoprolol, por tanto, su uso no está recomendado en este grupo de edad.
+
+Insuficiencia cardiaca (fuerza de bombeo de corazón reducida)
+Cuando  inicie  el  tratamiento  con  bisoprolol,  ya  estará  utilizando un inhibidor de la ECA, un diurético o un digitálico (medicamentos para el corazón o para la tensión arterial).
+La  dosis  se  incrementará  gradualmente  hasta  alcanzar  la  más adecuada para usted:
+
+• 1,25 mg una vez al día durante una semana. Si se tolera bien, la dosis puede aumentarse a
+• 2,5 mg una vez al día durante una semana más. Si se tolera bien, la dosis puede aumentarse a
+• 3,75 mg una vez al día durante una semana más. Si se tolera bien, la dosis puede aumentarse a
+• 5 mg una vez al día durante las próximas 4 semanas. Si se tolera bien, la dosis puede aumentarse a
+• 7,5 mg una vez al día durante las próximas 4 semanas. Si se tolera bien, la dosis puede aumentarse a
+• 10 mg una vez al día como dosis de mantenimiento.
+
+La dosis máxima diaria es de 10 mg de bisoprolol.
+Su  médico  determinará  la  dosis  óptima  para  usted  basándose, entre otros, en los posibles efectos adversos.
+Después de la primera dosis de 1,25 mg su médico le controlará la  presión  arterial,  la  frecuencia  cardiaca  y  los  trastornos  de  la función del corazón.
+Insuficiencia hepática o renal
+Los aumentos de dosis deben realizarse con mayor precaución.
+Pacientes de edad avanzada
+Normalmente, no es necesario ajustar la dosis.
+Niños y adolescentes
+No se recomienda el uso de bisoprolol en niños, ya que no se han realizado estudios de sus efectos en este grupo de pacientes.
+Si su médico le ha indicado que tome 1⁄2 (medio) comprimido diario, siga las siguientes instrucciones para fraccionar los comprimidos ranurados de BISOPIL®.
+• Colocar  los  comprimidos  sobre  una  superficie  plana,  dura  (ej.
+mesa o mesada), con la cara de la ranura hacia arriba.
+• Presionar con los dedos índices de ambas manos colocados a cada lado de la ranura hasta romper el comprimido.
+
+• No administrar a niños ni a adolescentes.
+• Su médico decidirá si debe tomar BISOPIL® con otros medicamentos para el tratamiento de su enfermedad.
+
+Duración del tratamiento
+Por lo general, el tratamiento con bisoprolol es a largo plazo.
+
+Si usted toma más BISOPIL® del que debiera Si accidentalmente usted ha ingerido una sobredosis de este medicamento,  consulte  inmediatamente  a  su  médico,  farmacéutico o  llame  a  los  centros  de  Información  Toxicológica,  indicando  el medicamento y la cantidad tomada:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de Intoxicaciones.
+Se recomienda llevar el envase y el prospecto del medicamento al profesional sanitario.
+Los  síntomas  de  una  sobredosis  pueden  incluir  vértigo,  mareo, fatiga y/o dificultad para respirar.
+Además, puede producirse una reducción de la frecuencia cardiaca, disminución de la presión sanguínea, insuficiencia cardiaca y bajada de los niveles de glucosa en sangre (lo cual puede producir sensación de hambre, sudoración y palpitaciones).
+
+Si olvidó tomar BISOPIL®
+No  tome  una  dosis  doble  para  compensar  las  dosis  olvidadas.
+Tome su dosis tan pronto como lo recuerde y luego continúe con la dosis normal al día siguiente.
+
+Si interrumpe el tratamiento con BISOPIL® El tratamiento con bisoprolol no debe interrumpirse bruscamente.
+Si deja de repente de tomar este medicamento, su estado podría empeorar. En lugar de esto, la dosis debe reducirse de forma gradual durante unas semanas tal y como le indicará su médico.
+
+Posibles efectos adversos
+Como todos los medicamentos, BISOPIL® puede producir efectos adversos, aunque no todas las personas los padecen.
+Los efectos adversos que pueden tener lugar son:
+Frecuentes (se producen en más de 1 persona de cada 100 tratadas, y en menos de 1 de cada 10):
+• Enlentecimiento de la frecuencia cardiaca. Este efecto adverso es poco frecuente durante el tratamiento de la hipertensión o de la angina de pecho.
+• Agotamiento. Este efecto adverso es poco frecuente durante el tratamiento de la hipertensión o de la angina de pecho.
+• Mareos,  cansancio  y  dolor  de  cabeza  (especialmente,  al  inicio del tratamiento en pacientes con hipertensión o angina de pecho.
+Por lo general de carácter leve y suelen desaparecer tras 1 – 2 semanas).
+• Sensación de frío o entumecimiento en las extremidades (dedos de las manos o de los pies, orejas o nariz); con más frecuencia, calambres o sensación de dolor al caminar.
+• Empeoramiento de la insuficiencia cardiaca. Este efecto adverso es poco frecuente durante el tratamiento de la hipertensión o de la angina de pecho.
+• Presión  arterial  muy  baja  (hipotensión),  especialmente  en  pacientes con fallo cardiacos.
+
+• Sensación de mareo (náuseas), vómitos.
+• Diarrea.
+• Estreñimiento.
+Ocasionales (puede afectar más de 1 persona de cada 1000 tratadas, pero menos de 1 de cada 100):
+• Agotamiento. Este efecto adverso es frecuente durante el tratamiento de la insuficiencia cardiaca.
+• Sensación  de  mareo,  sobre  todo  al  levantarse  repentinamente
+(hipotensión ortostática).
+• Trastornos del sueño.
+• Depresión.
+• Ralentización de la frecuencia cardiaca. Este efecto adverso es muy frecuente durante el tratamiento de la insuficiencia cardiaca.
+• Irregularidades del ritmo cardiaco.
+• Empeoramiento de la insuficiencia cardiaca. Este efecto adverso es frecuente durante el tratamiento de la insuficiencia cardiaca.
+• Los pacientes con asma o con antecedentes de problemas respiratorios pueden tener dificultad para respirar.
+• Debilidad muscular y calambres.
+Efectos adversos raros (puede afectar a menos de 1 persona de cada 1.000 tratadas):
+• Pesadillas.
+• Alucinaciones (imaginar cosas).
+• Desvanecimiento.
+• Problemas de audición.
+• Inflamación  de  la  mucosa  de  la  nariz,  provocando  mucosidad nasal con irritación.
+• Reacciones alérgicas (picor, enrojecimiento, erupción cutánea).
+• Sequedad de ojos por reducción del flujo lacrimal (esto puede ser problemático si se usan lentes de contacto).
+• Inflamación del hígado (hepatitis), que provoca dolor abdominal, pérdida del apetito y, a veces, ictericia con coloración amarillenta del blanco de los ojos y de la piel, y oscurecimiento de la orina.
+• Reducción del rendimiento sexual (alteraciones de la potencia).
+• Aumento de los niveles de lípidos en sangre (triglicéridos) y de las enzimas hepáticas.
+• Empeoramiento de la psoriasis o aparición de una erupción similar a la psoriasis con piel seca, formación de escamas y pérdida de cabello.
+• Picor o enrojecimiento de los ojos (conjuntivitis).
+• Dolor de pecho.
+Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la ANMAT:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde 0800-333-1234”
+Conservar BISOPIL® en su envase original a temperatura ambiente entre 15oC y 25oC.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com/productos o solicítela por correo electrónico: info@gador.com
+
+GADOR S.A.
+Darwin 429, C1414CUI, C.A.B.A. Teléfono: 4858-9000.
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+E.M.A.M.S. Certificado No58.191
+Fecha de última revisión: 11/2016
+
+G00176101-01

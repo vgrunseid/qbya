@@ -1,0 +1,480 @@
+UROVAL®
+MIRABEGRON
+
+Venta Bajo Receta
+Industria Argentina
+
+COMPRIMIDOS RECUBIERTOS
+DE LIBERACIÓN PROLONGADA
+
+Fórmulas
+UROVAL 25
+Cada  comprimido  recubierto  de  liberación  prolongada  contiene:  Mirabegron 25,000  mg.  Excipientes:  oxido  de  polietileno  40,000  mg;  hidroxipropilcelulosa
+1,600 mg; butilhidroxitolueno 0,200 mg; fosfato tricálcico 130,200 mg; estearato de magnesio 3,000 mg; hidroxipropilmetilcelulosa E15 1,391 mg; polietilenglicol
+6000 0,588 mg; dióxido de titanio 1,313 mg; talco 1,333 mg; povidona K-30 0,250 mg; óxido de hierro amarillo 0,125 mg.
+
+UROVAL 50
+Cada  comprimido  recubierto  de  liberación  prolongada  contiene  Mirabegron 50,000  mg.  Excipientes:  oxido  de  polietileno  80,000  mg;  hidroxipropilcelulosa
+3,200 mg; butilhidroxitolueno 0,400 mg; fosfato tricálcico 260,400 mg; estearato de magnesio 6,000 mg; hidroxipropilmetilcelulosa E15 2,782 mg; polietilenglicol
+6000 1,176 mg; dióxido de titanio 2,626 mg; talco 2,666 mg; povidona K-30 0,500 mg; óxido de hierro amarillo 0,250 mg.
+
+ACCIÓN TERAPÉUTICA
+Antiespasmódico urinario.
+Código ATC: G04BD12
+
+INDICACIONES
+Tratamiento sintomático de la urgencia, aumento de la frecuencia de micción y/o incontinencia  de  urgencia  que  puede  producirse  en  pacientes  adultos  con síndrome de vejiga hiperactiva (VH).
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de acción
+UROVAL  es  un  agonista  potente  y  selectivo  del  receptor  beta  3  adrenérgico.
+Mirabegron indujo relajación del músculo liso de la vejiga en tejido aislado de rata y humano, aumentó las concentraciones del adenosin-monofosfato cíclico (AMPc)
+en tejido de vejiga de rata y mostró un efecto relajante de la vejiga en modelos funcionales de vejiga de rata. Mirabegron aumentó el volumen medio miccional y disminuyó  la  frecuencia  de  las  contracciones  no  miccionales,  sin  afectar  a  la presión de vaciado o la orina residual en modelos de hiperactividad de la vejiga en ratas. En un modelo en monos, mirabegron mostró una disminución de la frecuencia de vaciado. Estos resultados indican que mirabegron potencia la función de llenado de la orina estimulando los receptores beta 3 adrenérgicos en la vejiga.
+Durante la fase de llenado de orina, cuando ésta se acumula en la vejiga, predomina la estimulación de la función simpática.
+Se libera noradrenalina de las terminaciones nerviosas, lo que induce predominantemente la activación del receptor beta adrenérgico en la musculatura de la vejiga y, por tanto, la relajación del músculo liso de la misma.
+Durante la fase de vaciado de la orina, la vejiga está predominantemente bajo el control del sistema nervioso parasimpático.
+La acetilcolina, liberada a partir de terminaciones nerviosas pélvicas, estimula a los receptores colinérgicos M2 y M3, induciendo la contracción de la vejiga. La activación  de  la  vía  M2  también  inhibe  el  aumento  de  AMPc  inducido  por  el receptor  beta  3  adrenérgico.  Por  tanto,  la  estimulación  del  receptor  beta  3 adrenérgico no debería interferir con el proceso de vaciado. Esto se confirmó en ratas  con  obstrucción  parcial  de  la  uretra,  en  las  que  mirabegron  disminuía  la frecuencia  de  las  contracciones  no  miccionales  sin  que  afectara  al  volumen miccional, a la presión de vaciado o al volumen de orina residual.
+
+Efectos farmacodinámicos
+Urodinámica
+Mirabegron  a dosis  de 50 mg y  100 mg una  vez  al día  durante 12 semanas en varones con síntomas del tracto urinario inferior (STUI) y obstrucción de la salida vesical (OSV) no mostró efecto sobre los parámetros de cistometría y era seguro y bien tolerado. Los efectos de mirabegron sobre la velocidad de flujo máximo y la presión  del  detrusor  a  la  velocidad  de  flujo  máximo  se  evaluó  en  un  estudio urodinámico compuesto por 200 pacientes varones con STUI y OSV. La administración  de  mirabegron  a  dosis  de  50  mg  y  100  mg  una  vez  al  día  durante  12 semanas no afectó de forma adversa a la velocidad de flujo máximo ni a la presión del detrusor a la velocidad de flujo máximo. En este estudio en pacientes varones con STUI/OSV, la media ajustada (SE) en el volumen residual postmiccional (ml)
+varió desde el inicio hasta el final del tratamiento: 0,55 (10,702), 17,89 (10,190), 30,77 (10,598) para el placebo y los grupos de tratamiento de mirabegron 50 mg y 100 mg.
+Efecto sobre el intervalo QT
+Mirabegron  a  dosis  de  50  mg  o  100  mg  no  tenía  efecto  sobre  el  intervalo  QT corregido  individualmente  en  función  de  la  frecuencia  cardiaca  (intervalo  QTcI)
+cuando se evaluaba por sexos o como grupo completo.
+En un estudio completo QT (TQT) (n=164 varones sanos y n=153 mujeres sanas con una edad media de 33 años) se evaluó el efecto de la administración repetida de mirabegron por vía oral a la dosis indicada (50 mg una vez al día) y a dos dosis supraterapéuticas (100 y 200 mg una vez al día) sobre el intervalo QTcI. Las dosis supraterapéuticas representan aproximadamente 2,6 y 6,5 veces la exposición de la  dosis  terapéutica,  respectivamente.  Se  usó  como  control  positivo  una  dosis única de 400 mg de moxifloxacino. Cada nivel de dosis de mirabegron y moxifloxacino  se  evaluó  en  grupos  de  tratamiento  independientes  incluido  el  control placebo (diseño cruzado paralelo). Tanto en los varones como en las mujeres que recibieron  50  mg  y  100  mg  de  mirabegron,  el  límite  superior  del  intervalo  de confianza  del  95%  unilateral  no  excedía  de  10  ms  en  ninguno  de  los  puntos temporales para la diferencia media de tiempo equivalente más larga con respecto al placebo en el intervalo QTcI.
+En mujeres a las que se administró mirabegron a dosis de 50 mg, la diferencia media con respecto al placebo en el intervalo QTcI a las 5 horas después de la dosis  fue  de  3,67  ms  (límite  superior  del  IC  del  95%  unilateral  5,72  ms).  En  los varones, la diferencia fue de 2,89 ms (límite superior del IC del 95% unilateral 4,90 ms). A una dosis de mirabegron de 200 mg, el intervalo QTcI no excedía de 10 ms en ningún punto temporal en los varones, mientras que en las mujeres el límite superior del intervalo de confianza del 95% unilateral excedía de 10 ms entre las 0,5 y las 6 horas, con una diferencia máxima con respecto al placebo a las 5 horas donde el efecto medio fue de 10,42 ms (límite superior del IC del 95% unilateral
+13,44 ms). Los resultados de QTcF y QTcIf coincidían con los de QTcI.
+En este estudio TQT, mirabegron aumentaba la frecuencia cardiaca en el ECG de forma dependiente de la dosis a lo largo del intervalo de dosis de 50 mg a 200 mg examinado. La diferencia media máxima con respecto al placebo en la frecuencia cardíaca oscilaba de 6,7 lpm con 50 mg de mirabegron hasta 17,3 lpm con 200 mg de mirabegron en sujetos sanos.
+Efectos sobre la frecuencia del pulso y la presión arterial en pacientes con VH En  los  pacientes  con  VH  (media  de  edad  de  59  años)  pertenecientes  a  tres estudios controlados con placebo, doble ciego fase 3 de 12 semanas de duración que recibieron 50 mg de mirabegron una vez al día, se observó un aumento en la diferencia  media  con  respecto  al  placebo  de  aproximadamente  1  lpm  en  la frecuencia  del  pulso  y  de  aproximadamente  1  mm  Hg  o  menos  en  la  presión arterial sistólica/presión arterial diastólica (PAS/PAD). Los cambios en la frecuencia  del  pulso  y  en  la  presión  arterial  son  reversibles  tras  la  interrupción  del tratamiento.
+Efecto sobre la presión intraocular (PIO)
+Dosis de 100 mg de mirabegron una vez al día no aumentaban la PIO en sujetos sanos tras 56 días de tratamiento.
+En un estudio en fase 1 en el que se evaluó el efecto de mirabegron sobre la PIO usando  la  tonometría  de  aplanación  de  Goldmann  en  310  sujetos  sanos,  una dosis de 100 mg de mirabegron no era inferior al placebo para la variable principal de la diferencia entre tratamientos en el cambio medio desde el inicio del estudio al día 56 en la PIO media por sujeto; el límite superior del IC del 95% bilateral para la diferencia entre tratamientos entre 100 mg de mirabegron y placebo era de 0,3 mm Hg.
+Eficacia clínica y seguridad
+La  eficacia  de  mirabegron  se  evaluó  en  tres  estudios  controlados  con  placebo, doble ciego, aleatorizados fase 3 de 12 semanas de duración para el tratamiento de  la  vejiga  hiperactiva  con  síntomas  de  urgencia  y  frecuencia  con  o  sin incontinencia.  Se  incluyeron  pacientes  mujeres  (72%)  y  varones  (28%)  con  una media de edad de 59 años (intervalo de 18 a 95 años). La población del estudio estaba  compuesta  por  aproximadamente  el  48%  de  pacientes  no  tratados previamente  con  antimuscarínicos  y  aproximadamente  el  52%  de  pacientes tratados previamente con medicación antimuscarínica. En un estudio, 495 pacientes recibieron un control activo (tolterodina de liberación prolongada).
+Las variables co-primarias de eficacia fueron (1) cambio desde el nivel basal hasta el final del tratamiento en el número medio de episodios de incontinencia durante
+24  horas  y  (2)  cambio  desde  el  nivel  basal  hasta  el  final  del  tratamiento  en  el número medio de micciones en 24 horas basado en un diario miccional de 3 días.
+Mirabegron mostró mejoras estadísticamente significativas en comparación con el placebo tanto para las variables co-primarias como para las secundarias (volumen medio miccional (ml); grado medio de urgencia, número medio de episodios de incontinencia de urgencia en 24 horas, número medio de episodios de urgencia grado 3 o 4 en 24 horas, satisfacción con el tratamiento-escala visual analógica).
+Mirabegron 50 mg una vez al día fue eficaz en la primera medida de la semana 4 y la eficacia se mantenía durante el periodo de tratamiento de 12 semanas. En un estudio  a  largo  plazo  comparativo  directo  y  aleatorizado  se  demostró  que  la eficacia se mantenía durante el periodo de tratamiento de 1 año.
+Mejora subjetiva en las mediciones de la calidad de vida relacionadas con la salud.
+En los tres estudios controlados con placebo, doble ciego fase 3 de 12 semanas de duración el tratamiento de los síntomas de VH con mirabegron una vez al día, se dio como resultado una mejora estadísticamente significativa con respecto al placebo en las siguientes medidas de calidad de vida relacionada con la salud:
+satisfacción con el tratamiento y molestia de los síntomas.
+Eficacia en pacientes con o sin tratamiento previo con antimuscarínicos para la VH.
+Se demostró la eficacia en pacientes con o sin tratamiento previo antimuscarínico para la VH. Además, mirabegron mostró eficacia en pacientes que previamente interrumpieron el tratamiento para la VH con antimuscarínicos debido a un efecto insuficiente.
+
+FARMACOCINÉTICA
+Absorción
+Tras  la  administración  oral  de  mirabegron  en  voluntarios  sanos,  el  fármaco  se absorbe hasta alcanzar concentraciones plasmáticas máximas (Cmáx) entre las 3 y las 4 horas. La biodisponibilidad absoluta aumentó del 29% a dosis de 25 mg al 35% a dosis de 50 mg. La Cmáx media y el AUC media aumentaron proporcionalmente más que la dosis en todo el intervalo de dosis. En la población general de varones y mujeres un aumento de  2  veces en la  dosis,  de  50 mg  a  100 mg de mirabegron,  aumentó  la  Cmáx  y  el  AUCtau  aproximadamente  2,9  y  2,6  veces, respectivamente, mientras que un aumento de 4 veces en la dosis, de 50 mg a 200 mg  de  mirabegron,  aumentó  la  Cmáx  y  el  AUCtau  aproximadamente  8,4  y  6,5 veces.  Las  concentraciones  en  estado  estacionario  se  consiguen  en  los  7  días siguientes  a  la  administración  de  mirabegron  una  vez  al  día.  Después  de  una administración diaria, la exposición en plasma de mirabegron en estado estacionario es aproximadamente el doble que la observada tras una dosis única.
+Efecto de los alimentos sobre la absorción La administración conjunta de un comprimido de 50 mg con una comida con alto contenido  en  grasa  redujo  la  Cmáx  y  el  AUC  de  mirabegron  el  45%  y  el  17%, respectivamente. Una comida con bajo contenido en grasas disminuyó la Cmáx y el AUC de mirabegron el 75% y el 51%, respectivamente. En los estudios en fase
+3 se administró mirabegron con o sin alimentos y se demostró tanto la seguridad como la eficacia. Por tanto, mirabegron puede tomarse con o sin alimentos a la dosis recomendada.
+Distribución
+Mirabegron  se  distribuye  ampliamente.  El  volumen  de  distribución  en  estado estacionario (Vdss) es aproximadamente de 1.670 l. Mirabegron se une (aproximadamente  el  71%)  a  proteínas  plasmáticas  humanas  y  muestra  una  afinidad moderada por la albúmina y la alfa 1glicoproteína ácida. Mirabegron se distribuye entre los eritrocitos. La concentración en eritrocitos in vitro de 14C-mirabegron era aproximadamente 2 veces más elevada que en el plasma.
+Biotransformación
+Mirabegron se metaboliza a través de múltiples vías que implican dealquilación, oxidación,  glucuronidación  (directa)  e  hidrólisis  de  amidas.  Mirabegron  es  el principal componente en circulación tras la administración de una única dosis de 14C-mirabegron.  Se  observaron  dos  metabolitos  principales  en  el  plasma humano; ambos son glucurónidos en fase 2 que representan el 16% y el 11% de la exposición total.
+Estos metabolitos no son farmacológicamente activos.
+En  base  a  los  estudios  in  vitro,  mirabegron  es  poco  probable  que  inhiba  el metabolismo  de  los  medicamentos  administrados  de  manera  conjunta  que  son metabolizados por las enzimas del citocromo P450: CYP1A2, CYP2B6, CYP2C8,
+CYP2C9, CYP2C19 y CYP2E1, porque mirabegron no inhibió la actividad de estas enzimas  a  concentraciones  clínicamente  relevantes.  Mirabegron  no  indujo  al CYP1A2  ni  al  CYP3A.  Se  prevé  que  mirabegron  no  provoque  una  inhibición clínicamente relevante del transporte mediado por el OCT.
+Aunque los estudios in vitro sugieren la participación de CYP2D6 y CYP3A4 en el metabolismo  oxidativo  de  mirabegron,  los  resultados  in  vivo  indican  que  estas isoenzimas tienen una función limitada en la eliminación total. Los estudios in vitro y ex vivo han mostrado la implicación de la butirilcolinesterasa, la UGT y, posiblemente,  el  alcohol  deshidrogenasa  (ADH)  en  el  metabolismo  de  mirabegron, además de CYP3A4 y CYP2D6.
+Polimorfismo del CYP2D6
+En  sujetos  sanos  que  genotípicamente  son  metabolizadores  lentos  de  los sustratos de CYP2D6 (utilizados como sustitutos para la inhibición de CYP2D6), la media de la Cmáx y del AUCinf de una única dosis de 160 mg de una formulación
+IR de mirabegron eran el 14% y el 19% más altos que en aquellos que metabolizan el fármaco rápidamente, lo que indica que el polimorfismo genético de CYP2D6 tiene un impacto mínimo sobre la media de la exposición en plasma a mirabegron.
+No se prevé la interacción de mirabegron con inhibidores conocidos de CYP2D6, por lo que no se ha estudiado esta posibilidad. No es necesario ajustar la dosis de mirabegron cuando se administra con inhibidores de CYP2D6 o en pacientes que son metabolizadores lentos de CYP2D6.
+Eliminación
+El aclaramiento corporal total (CLtot) del plasma es aproximadamente de 57 l/h.
+La  semivida  de  eliminación  terminal  (t1/2)  es  aproximadamente  de  50  horas.  El aclaramiento renal (CLR) es aproximadamente de 13 l/h, que se corresponde con prácticamente el 25% del CLtot. La eliminación renal de mirabegron se produce principalmente a través de la secreción tubular activa junto con la filtración glomerular. La excreción en orina de mirabegron inalterado es dosis-dependiente y oscila
+
+desde aproximadamente el 6,0% tras una dosis diaria de 25 mg al 12,2% si la dosis diaria  es  de  100  mg.  Tras  la  administración  de  160  mg  de  14C-mirabegron  a voluntarios sanos, aproximadamente el 55% del marcaje radiactivo se recuperó en la orina y el 34% en las heces. El mirabegron inalterado representa el 45% de la radiactividad en la orina,  lo  que  indica  la  presencia  de  metabolitos.  El  mirabegron  inalterado representa la mayoría de la radiactividad fecal.
+Edad
+La Cmáx y el AUC de mirabegron y sus metabolitos después de dosis múltiples orales  en  voluntarios  ancianos  (≥  65años)  eran  similares  a  los  de  voluntarios jóvenes (18 a 45 años).
+Sexo
+La Cmáx y el AUC son aproximadamente del 40% al 50% más altos en mujeres que en varones. Las diferencias entre sexos en la Cmáx y el AUC se atribuyen a diferencias en el peso corporal y en la biodisponibilidad.
+Raza
+La farmacocinética de mirabegron no está influenciada por la raza.
+Insuficiencia renal
+Tras la administración de una dosis única de 100 mg de mirabegron a voluntarios con insuficiencia renal leve (TFGe- MDRD de 60 a 89 ml/min/1,73 m2), la media de la  Cmáx  y  del  AUC  de  mirabegron  aumentaron  el  6%  y  el  31%  con  respecto  a voluntarios  con  una  función  renal  normal.  En  voluntarios  con  insuficiencia  renal moderada (TFGe-MDRD de 30 a 59 ml/min/1,73 m2), la Cmáx y el AUC aumentaron el 23% y el 66%, respectivamente.
+En voluntarios con insuficiencia renal grave (TFGe17 MDRD de 15 a 29 ml/min/1,73 m2), los valores medios de la Cmáx y del AUC eran el 92% y el 118% más altos.
+Mirabegron  no  se  ha  estudiado  en  pacientes  con  enfermedad  renal  en  fase terminal (TFG < 15 ml/min/1,73 m2 o pacientes que requieren hemodiálisis).
+Insuficiencia hepática
+Tras la administración de una única dosis de 100 mg de mirabegron en voluntarios con insuficiencia hepática leve (Child-Pugh Clase A), la media de la Cmáx y el AUC de mirabegron habían aumentado el 9% y el 19% con respecto a voluntarios con una función hepática normal. En voluntarios con insuficiencia hepática moderada
+(Child-Pugh Clase B), los valores medios de Cmáx y AUC eran el 175% y el 65% más altos. Mirabegron no se ha estudiado en pacientes con insuficiencia hepática grave (Child-Pugh Clase C).
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Adultos (incluidos pacientes de edad avanzada).
+La dosis recomendada es de 50 mg una vez al día con o sin alimentos.
+
+Poblaciones especiales
+Insuficiencia renal y hepática
+Mirabegron  no  se  ha  estudiado  en  pacientes  con  enfermedad  renal  en  fase terminal  (TFG  <  15  ml/min/1,73  m2  o  pacientes  que  requieren  hemodiálisis)  o insuficiencia hepática grave (Child-Pugh Clase C) y, por tanto, no se recomienda su uso en estas poblaciones de pacientes.
+En la siguiente tabla se incluyen las dosis diarias recomendadas en pacientes con insuficiencia renal o hepática en ausencia y en presencia de inhibidores potentes del CYP3A.
+
+Insuficiencia renal 1  Leve
+
+Insuficiencia hepática 2
+
+Moderada
+Severa
+Leve
+Moderada
+
+Inhibidores potentes del CYP3A 3
+Sin inhibidor
+50 mg
+50 mg
+25 mg
+50 mg
+25 mg
+
+Con inhibidor
+25 mg
+25 mg
+No recomendado
+25 mg
+No recomendado
+
+1 leve: TFG de 60 a 89 ml/min/1.73m2; moderada: TFG de 30 a 59 ml/min/1.73 m2;
+grave: TFG de 15 a 29ml/min/ 1.73 m2
+2 leve: Child- Pugh Clase A; Moderada: Child-Pugh Clase B 3 inhibidores potentes del CYP3A ver sección 4.5
+
+Sexo
+No es necesario ajustar la dosis en función del sexo
+
+Población pediátrica
+No  se  ha  establecido  todavía  la  seguridad  y  eficacia  de  mirabegron  en  niños menores de 18 años. No se dispone de datos.
+
+Forma de administración
+El comprimido de UROVAL debe tomarse una vez al día, con líquido, debe tragarse entero sin masticar, partir ni machacar.
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo o a alguno de los excipientes Hipertensión  grave  no  controlada,  definida  como  presión  arterial  sistólica  ≥180 mm/Hg y/o presión arterial diastólica ≥110 mm/Hg
+
+ADVERTENCIAS Y PRECAUCIONES
+Insuficiencia renal
+No  se  ha  estudiado  mirabegron  en  pacientes  con  enfermedad  renal  en  fase terminal (TFG < 15 ml/min/1,73m2 o en pacientes que requieren hemodiálisis) y, por tanto, no se recomienda su uso en esta población de pacientes. Los datos son limitados en pacientes con insuficiencia renal grave (TFG 15 a 29 ml/min/1,73m2);
+en  base  a  un  estudio  farmacocinético  se  recomienda  en  esta  población  una reducción de la dosis a 25 mg. No se recomienda el uso mirabegron en pacientes con insuficiencia renal grave (TFG de 15 a 29 ml/min/1,73m2) que reciben de forma concomitante inhibidores potentes del CYP3A.
+Insuficiencia hepática
+No  se  ha  estudiado  mirabegron  en  pacientes  con  insuficiencia  hepática  grave (Child-Pugh Clase C) y, por tanto, no se recomienda su uso en esta población de pacientes, No se recomienda el uso de mirabegron en pacientes con insuficiencia hepática  moderada  (Child-Pugh  Clase  B)  que  reciben  de  forma  concomitante inhibidores potentes del CYP3A.
+Hipertensión
+No se ha evaluado mirabegron en pacientes con hipertensión grave no controlada (presión arterial sistólica ≥ 180 mm Hg y/o presión arterial diastólica ≥ 110 mm
+Hg); por lo tanto, no se recomienda su uso en esta población de pacientes. Los datos  son  limitados  en  pacientes  con  hipertensión  en  estadío  2  (presión  arterial sistólica ≥ 160 mm Hg o presión arterial diastólica ≥ 100 mm Hg).
+Pacientes con prolongación congénita o adquirida del intervalo QT Mirabegron, a dosis terapéuticas, no ha demostrado prolongación del intervalo QT clínicamente  relevante  en  los  ensayos  clínicos.  Sin  embargo,  ya  que  en  estos ensayos  no  se  incluyeron  pacientes  con  antecedentes  de  prolongación  del intervalo QT o pacientes que estuvieran tomando medicamentos que se sabe que prolongan el intervalo QT, se desconoce el efecto de mirabegron en estos pacientes. Se debe tener precaución cuando se administre mirabegron en estos pacientes.
+Pacientes  con  obstrucción  en  el  tracto  de  salida  vesical  y  pacientes  que  toman medicamentos antimuscarínicos para la Vejiga Hiperactiva
+En  la  experiencia  postcomercialización  se  ha  reportado  retención  urinaria  en pacientes con obstrucción en el tracto de salida vesical (OSV) y en pacientes que toman medicamentos antimuscarínicos para el tratamiento de la Vejiga Hiperactiva, y que además toman mirabegron.
+Un estudio clínico, controlado, de seguridad en pacientes con OSV, no demostró un  incremento  de  retención  urinaria  en  pacientes  tratados  con  mirabegron;  sin embargo, mirabegron debería ser administrado con precaución a pacientes que toman medicación antimuscarínica para el tratamiento de la Vejiga Hiperactiva.
+
+Interacciones medicamentosas
+Datos in vitro
+Mirabegron se transporta y se metaboliza a través de múltiples vías. Mirabegron es un sustrato para citocromo P450 (CYP) 3A4, CYP2D6, butirilcolinesterasa, uridina difosfatoglucuronosiltranferasas  (UGT),  transportador  de  flujo  de  glicoproteína  P
+(P-gp) y de los transportadores de influjo de los cationes orgánicos (OCT) OCT1, OCT2 Y OCT3. Los estudios de mirabegron en microsomas hepáticos humanos y enzimas CYP humanas recombinantes mostraron que mirabegron es un inhibidor moderado  y  tiempo  dependiente  de  CYP2D6  y  un  inhibidor  débil  de  CYP3A.
+Mirabegron inhibió el transporte de fármacos mediado por P-gp a concentraciones elevadas.
+Datos in vivo
+Polimorfismo de CYP2D6
+El polimorfismo genético del CYP2D6 tiene un mínimo impacto sobre la exposición media del plasma a mirabegron. No se prevé la interacción de mirabegron con un inhibidor  conocido  del  CYP2D6,  y  no  fue  estudiada.  No  es  necesario  ajustar  la dosis  de  mirabegron  cuando  se  administra  con  inhibidores  del  CYP2D6  o  en pacientes que son metabolizadores lentos del CYP2D6.
+Interacciones farmacológicas
+El efecto de los fármacos administrados conjuntamente sobre la farmacocinética de  mirabegron  y  el  efecto  de  mirabegron  sobre  la  farmacocinética  de  otros medicamentos fue estudiado en estudios de dosis única y de dosis múltiples. La mayoría de las interacciones farmacológicas fueron estudiadas usando una dosis de 100 mg de mirabegron administrados como comprimidos con formulación de sistema oral de absorción controlada (OCAS). En los estudios de interacción de mirabegron con metoprolol y con metformina se usaron 160 mg de mirabegron de liberación inmediata (IR).
+No se esperan interacciones farmacológicas clínicamente relevantes entre mirabegron y los medicamentos que inhiban, induzcan o sean sustrato para una de las isoenzimas de CYP o transportadores excepto en el caso del afecto inhibidor de mirabegron sobre el metabolismo de los sustratos del CYP2D6.
+Efecto de los inhibidores enzimáticos
+En voluntarios sanos, la exposición de Mirabegron (AUC) se incrementó 1,8 veces en presencia del potente inhibidor del CYP3A/P.pg, ketoconazol. No se requiere ajuste de dosis cuando UROVAL se combina con inhibidores del citocromo CYP3A y/o P-gp. Sin embargo, en pacientes con insuficiencia renal leve a moderada (TFG de 30 a 89 ml/min/1,73m2) o insuficiencia hepática leve (Child Pugh Clase A) que reciben  de  forma  concomitante  inhibidores  potentes  del  CYP3A  tales  como Itraconazol, ketaconazol, ritonavir y claritromicina, la dosis recomendada es de 25 mg una vez al día con o sin alimentos. No se recomienda UROVAL en pacientes con insuficiencia renal grave (TFG de 15 a 29 mi/min/1,73m2) o en pacientes con insuficiencia  hepática  moderada  (Child  Pugh  Clase  B)  que  reciban  en  forma concomitante inhibidores potentes del CYP3A.
+Efectos de los inductores enzimáticos
+Las sustancias que son inductores del CYP3A o P-gp disminuyen las concentraciones plasmáticas de mirabegron. No se requiere ajuste de dosis para mirabegron cuando se administre con dosis terapéuticas de rifamplicina y otros inductores del CYP3A o P-gp.
+Efecto de mirabegron sobre los sustratos CYP2D6 En  voluntarios  sanos,  la  potencia  inhibitoria  de  mirabegron  sobre  CYP2D6  es moderada y la actividad del CYP2D6 se recupera dentro de los 15 días siguientes a  la  interrupción  del  tratamiento  con  mirabegron.  La  administración  de  dosis múltiples de mirabegron IR una vez al día resultó un incremento del 90% en la C y en  un  incremento  del  229%  en  el  AUC  de  una  dosis  única  de  metoprolol.  La administración  de  dosis  múltiples  de  mirabegron  una  vez  al  día  resultó  un incremento del 79% en la C y en un incremento del 241% en el AUC de una dosis única de desipramina.
+Se  recomienda  precaución  si  mirabegron  se  administra  de  forma  concomitante con  medicamentos  que  tienen  un  estrecho  margen  terapéutico  y  que  sean metabolizados  de  forma  significativa  por  el  CYP2D6,  tales  como,  tioridazina, antiarrítmicos  Tipo  1C  (por  ejemplo,  flecainida,  propafenona)  y  antidepresivos tricícliclos  (por  ejemplo,  Imipramina,  desipramina).  También  se  recomienda precaución si mirabegron se administra de forma concomitante con sustratos del CYP2D6 que son dosificados individualmente.
+Efecto de mirabegron en los transportadores Mirabegron es un inhibidor débil de P-gp. Mirabegron aumentó la CMax y el AUC hasta un 29% y 27% respectivamente, de la digoxina, sustrato de P-gp en voluntarios sanos. Para los pacientes que están iniciando una combinación de mirabegron y digoxina deben monitorizarse y utilizarse para valorar la dosis de digoxina con la que  se  obtiene  el  efecto  clínico  deseado.  Se  debería  considerar  el  potencial  de mirabegron  para  la  inhibición  de  P-gp  cuando  se  combina  mirabegron  con sustratos P-gp sensibles como por ejemplo dabigatran.
+Otras interacciones
+No se han observado interacciones clínicamente relevantes cuando se administra mirabegron  de  forma  concomitante  con  dosis  terapéuticas  de  solifenacina, tamsulosina,  wafarina,  metformina  o  un  anticonceptivo  oral  combinado  que contenga etlnilestradiol y levonorgestrel.
+No se recomienda ajuste de dosis.
+El aumento de la exposición a mirabegron debido a las interacciones farmacológicas puede estar asociado con aumentos en la frecuencia del pulso.
+
+Datos preclínicos sobre seguridad
+En  estudios  preclínicos  se  han  identificado  órganos  diana  de  toxicidad  que coinciden con las observaciones clínicas.
+Se observaron en ratas aumentos transitorios en las enzimas hepáticas y cambios en  los  hepatocitos  (necrosis  y  disminución  en  las  partículas  de  glucógeno).
+También  se  observó  un  aumento  de  la  frecuencia  cardiaca  en  ratas,  conejos, perros y monos. Los estudios de genotoxicidad y carcinogenicidad no han mostrado potencial genotóxico o carcinogénico in vivo.
+No se observaron efectos sobre la fertilidad a dosis subletales (dosis equivalente en  humanos  fueron  19  veces  más  alta  que  la  dosis  máxima  recomendada  en humanos  (DMRH).  Las  principales  conclusiones  de  los  estudios  de  desarrollo embriofetal  en  conejo  incluían  malformación  del  corazón  (aorta  dilatada, cardiomegalia)  a  las  exposiciones  sistémicas  de  36  veces  superiores  a  las observadas  a  la  DMRH.  Además,  se  observaron  malformaciones  del  pulmón
+(ausencia del lóbulo accesorio del pulmón) y aumento de la pérdida post-implementación en el conejo a las exposiciones sistémicas  14  veces  superiores  a  las  observadas  a  la  DMRH,  mientras  que  se notificaron  efectos  reversibles  en  osificación  (costillas  onduladas,  osificación tardía, disminución del número de esternebras osificadas, metacarpos o metatarsos) a exposiciones sistémicas 22 veces superiores a las observadas a la DMRH.
+La  toxicidad  embriofetal  observada  ocurrió  a  dosis  asociadas  con  la  toxicidad maternal.  Las  malformaciones  cardiovasculares  observadas  en  el  conejo mostraron ser mediadas vía activación del receptor beta 1 adrenérgico.
+Los estudios farmacocinéticos realizados con mirabegron marcado con radioactividad han mostrado que el compuesto original y/o sus metabolitos se excretan en la leche de las ratas a niveles que son aproximadamente 1,7 veces superior a los niveles plasmáticos 4 horas después de la administración.
+
+Embarazo
+Hay datos limitados relativos al uso de mirabegron en mujeres embarazadas. Los estudios realizados en animales han mostrado toxicidad para la reproducción. No
+
+1
+
+2
+
+se recomienda utilizar UROVAL durante el embarazo, ni en mujeres en edad fértil que no estén utilizando métodos anticonceptivos.
+
+Lactancia
+Mirabegron se excreta en la leche de roedores y, por tanto, se espera que esté presente  en  la  leche  humana.  No  se  han  realizado  estudios  para  evaluar  el impacto de mirabegron sobre la producción de leche en humanos, su presencia en la leche materna humana o sus efectos sobre el lactante.
+Mirabegron no debe administrarse durante la lactancia.
+
+Fertilidad
+No se observaron efectos relacionados con el tratamiento de mirabegron sobre la fertilidad  en  animales.  No  se  ha  establecido  el  efecto  de  mirabegron  sobre  la fertilidad humana.
+
+Uso en Pediatría
+No  se  ha  establecido  todavía  la  seguridad  y  eficacia  de  mirabegron  en  niños menores de 18 años. No se dispone de datos.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de mirabegron sobre la capacidad para conducir y utilizar máquinas es nula o insignificante.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+La seguridad de mirabegron se evaluó en 8.433 pacientes con VH, de los cuales 5.648 recibieron al menos una dosis de mirabegron en el programa de desarrollo clínico  fase  2/3  y  622  pacientes  recibieron  mirabegron  al  menos  durante  1  año
+(365 días). En los tres estudios controlados con placebo, doble ciego fase 3 de 12 semanas  de  duración,  el  88%  de  los  pacientes  completó  el  tratamiento  con mirabegron y el 4% abandonó el estudio debido a acontecimientos adversos. La mayoría de las reacciones adversas fueron de intensidad leve a moderada.
+La  mayoría  de  las  reacciones  adversas  frecuentes  referidas  por  los  pacientes tratados  con  50  mg  de  mirabegron  durante  los  tres  estudios  controlados  con placebo,  doble  ciego  fase  3  de  12  semanas  de  duración  son  taquicardia  e infecciones del tracto urinario. La frecuencia de taquicardia fue del 1,2% en los pacientes que recibieron 50 mg de mirabegron. La taquicardia indujo al abandono en el 0,1% de los pacientes tratados con 50 mg de mirabegron. La frecuencia de infecciones del tracto urinario fue del 2,9% en pacientes tratados con 50 mg de mirabegron. Las infecciones del tracto urinario no indujeron la retirada de ninguno de  los  pacientes  tratados  con  50  mg  de  mirabegron.  Entre  las  reacciones adversas graves se incluía la fibrilación auricular (0,2%).
+Las  reacciones  adversas  observadas  durante  el  estudio  con  control  activo (antimuscarínico)  de  1  año  de  duración  (largo  plazo)  fueron  similares  en  tipo  e intensidad a las observadas en los tres estudios controlados con placebo, doble ciego fase 3 de 12 semanas de duración.
+En la siguiente tabla se reflejan las reacciones adversas observadas con mirabegron  en  los  tres  estudios  controlados  con  placebo,  doble  ciego  fase  3  de  12 semanas de duración. La frecuencia de las reacciones adversas se define como sigue: muy frecuentes (≥1/10); frecuentes (≥1/100 a <1/10); poco frecuentes (≥
+1/1.000 a <1/100); raras (≥1/10.000 a <1/1.000); muy raras (<1/10.000). Dentro de  cada  grupo  de  frecuencia,  las  reacciones  adversas  se  presentan  en  orden decreciente de gravedad.
+
+Tabla de reacciones adversas
+
+C lasific ació n ó rg an o s  d el
+M ed D R A
+
+d e sistem a
+
+F recu en te s
+
+P o co  fre cu en tes
+
+R ara s
+
+Infecciones infestaciones
+Trastornos oculares
+Trastornos cardiacos
+
+Trastornos gastrointestinales
+
+Trastornos de la piel y del tejido subcutáneo
+
+Trastornos musculoesqueléticos e hinchazón  del  tejido  conjuntivo.
+Trastornos  del  aparato reproductor y de la mama
+Exploraciones complementarias
+
+e
+
+Infección tracto urinario
+
+del
+
+Infección vaginal
+Cistitis
+
+Edema de parpados
+
+Edema labial
+
+Vasculitis
+Leucocitoclástica
+Púrpura
+
+Taquicardia
+
+Nauseas
+Diarrea
+Estreñimiento
+
+Palpitación
+Fibrilación auricular
+Dispepsia
+Gastritis
+
+Urticaria
+Erupción
+Erupción macular
+Erupción papular
+Prurito
+Hinchazón  de articulaciones
+
+las
+
+Prurito vulvovaginal
+
+la
+
+de
+Aumento presión arterial
+Aumento  niveles  de
+GGt
+Aumento  niveles  de
+AST
+Aumento  niveles  de
+ALT
+
+Trastornos  del  sistema nervioso
+
+Dolor de cabeza
+Mareos
+
+Reacciones  adversas  muy  raras  (pueden  afectar  hasta  1  de  cada  10.000 personas)
+• Crisis hipertensiva.
+Reacciones  adversas  de  frecuencia  no  conocida  (la  frecuencia  no  puede estimarse a partir de los datos disponibles)
+• Insomnio
+UROVAL puede aumentar la posibilidad de producir retención urinaria si tiene una obstrucción de la salida de la vejiga o si el paciente está tomando otros medicamentos para tratar la vejiga hiperactiva.
+
+Sobredosificación
+Mirabegron se ha administrado a voluntarios sanos a dosis únicas de hasta 400 mg.  A  esta  dosis,  entre  los  acontecimientos  adversos  notificados  se  incluyeron palpitaciones (1 de 6 sujetos) y aumentos de la frecuencia del pulso que excedía de 100 latidos por minuto (lpm) (3 de 6 sujetos). Dosis múltiples de mirabegron de hasta 300 mg diarios durante 10 días mostraron aumentos en la frecuencia del pulso  y  en  la  presión  arterial  sistólica  cuando  se  administraban  a  voluntarios sanos.
+El tratamiento de la sobredosis debe ser sintomático y complementario. En caso de sobredosis, se recomienda realizar un seguimiento de la frecuencia del pulso, la presión arterial y el ECG.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694 Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160 Centro de Asistencia Toxicológica La Plata: (0221) 451-5555
+
+Esta especialidad medicinal es libre de gluten.
+
+PRESENTACIÓN
+Envases con 30 comprimidos recubiertos de liberación prolongada.
+
+Fecha de última revisión: diciembre de 2018.
+
+FORMA DE CONSERVACIÓN
+- Conservar entre 15 y 30 °C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+ESPECIALIDAD  MEDICINAL  AUTORIZADA  POR  EL  MINISTERIO  DE  SALUD  Y
+DESARROLLO SOCIAL DE LA NACION.
+Certificado N° 58.875
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires - Argentina.
+
+INFORMACIÓN PARA EL PACIENTE
+CONSULTE A SU MÉDICO
+
+Venta Bajo Receta
+Industria Argentina
+
+Lea esta información para el paciente antes de comenzar a tomar UROVAL y cada vez que repita la receta ya que puede haber nueva información. Esta información no  reemplaza  a  su  conversación  con  el  médico  sobre  su  enfermedad  o  su tratamiento.
+
+Fórmulas
+UROVAL 25
+Cada  comprimido  recubierto  de  liberación  prolongada  contiene:  Mirabegron
+25,000 mg. Excipientes: oxido de polietileno; hidroxipropilcelulosa; butilhidroxitolueno;  fosfato  tricálcico;  estearato  de  magnesio;  hidroxipropilmetilcelulosa  E15;
+polietilenglicol  6000;  dióxido  de  titanio;  talco;  povidona  K-30;  óxido  de  hierro amarillo.
+
+UROVAL 50
+Cada  comprimido  recubierto  de  liberación  prolongada  contiene  Mirabegron
+50,000 mg. Excipientes: oxido de polietileno; hidroxipropilcelulosa; butilhidroxitolueno;  fosfato  tricálcico;  estearato  de  magnesio;  hidroxipropilmetilcelulosa  E15;
+polietilenglicol  6000;  dióxido  de  titanio;  talco;  povidona  K-30;  óxido  de  hierro amarillo.
+
+¿Qué es UROVAL y para qué se usa?
+UROVAL contiene el principio activo mirabegron. Es un medicamento que relaja el músculo  liso  de  la  vejiga  (estimulando  receptores  beta  3  adrenérgicos),  lo  que reduce los síntomas asociados a la vejiga hiperactiva.
+UROVAL se utiliza para tratar los síntomas de vejiga hiperactiva en adultos que:
+• Necesitan vaciar su vejiga repentinamente (denominado urgencia miccional).
+• Tienen que vaciar su vejiga más a menudo de lo normal (denominado aumento de la frecuencia urinaria).
+•  Son  incapaces  de  retener  la  orina  cuando  su  vejiga  está  llena  (denominado incontinencia de urgencia).
+
+Antes de usar UROVAL
+No use UROVAL
+- Si es alérgico al mirabegron o a cualquiera de los demás componentes de este medicamento.
+- Si tiene presión arterial muy alta no controlada.
+
+Tenga especial cuidado con UROVAL
+Consulte a su médico o farmacéutico antes de empezar a usar UROVAL
+• Si tiene problemas para vaciar su vejiga o tiene un chorro de orina débil o si toma otros medicamentos para el tratamiento de la vejiga hiperactiva tales como drogas anticolinérgicas.
+•  Si  tiene  problemas  de  riñón  o  de  hígado.  Puede  que  sea  necesario  que  su médico reduzca la dosis o puede decirle que no use UROVAL especialmente si está tomando otros medicamentos tales como itraconazol, ketoconazol, ritonavir o claritromicina. Informe a su médico sobre los medicamentos que toma.
+• Si tiene una anomalía conocida en el electrocardiograma (estudio del corazón)
+como  prolongación  del  intervalo  qt  o  está  tomando  cualquier  medicamento conocido por causar dicha anomalía tales como: medicamentos utilizados para las alteraciones del ritmo cardíaco como por ejemplo quinidina, sotalol, procainamida, ibutilida, flecainida, dofetilida y amiodarona; medicamentos utilizados para la  rinitis  alérgica;  medicamentos  antipsicóticos  (medicamentos  para  enfermedades  mentales)  como  por  ejemplo  tioridazina,  mesoridazina,  haloperidol  y clorpromazina; agentes antiinfecciosos como por ejemplo pentamidina, moxifloxacino, eritromicina y claritromicina.
+
+Toma simultánea de otros medicamentos
+Informe a su médico farmacéutico si está utilizando, ha utilizado recientemente o podría tener que utilizar cualquier otro medicamento.
+UROVAL puede afectar al modo en cómo funcionan otros medicamentos, al igual que otros medicamentos pueden afectar a cómo funciona este medicamento.
+• Informe a su médico si usted utiliza tioridazina (un medicamento para enfermedades  mentales),  propafenona  o  flecainida  (medicamentos  para  anomalías  del ritmo  cardíaco),  imipramina  o  desipramina  (medicamentos  utilizados  para  la depresión).  Estos  medicamentos  específicos  pueden  requerir  que  su  médico ajuste la dosis.
+•  Informe  a  su  médico  si  usted  utiliza  digoxina,  (un  medicamento  para  la insuficiencia  cardíaca  o  en  caso  de  anomalías  del  ritmo  cardíaco).  Su  médico medirá los niveles en sangre de este medicamento. Si el nivel en sangre está fuera del intervalo permitido, su médico ajustara la dosis de digoxina.
+• Informe a su médico si usted utiliza dabigatran etexilato (un medicamento para prevenir la formación de coágulos de sangre en las venas después de una cirugía de sustitución de rodilla o de reemplazo de cadera).
+Puede que su médico tenga que ajustar la dosis de este medicamento
+
+¿Cómo usar UROVAL?
+Siga  exactamente  las  instrucciones  de  administración  de  este  medicamento indicadas  por  su  médico.  En  caso  de  duda,  consulte  de  nuevo  a  su  médico  o farmacéutico.
+La dosis recomendada en adultos (incluidos pacientes de edad avanzada) es un comprimido de 50 mg por vía oral una vez al día. Si tiene problemas renales o hepáticos,  puede  que  sea  necesario  que  su  médico  reduzca  la  dosis  a  un comprimido de 25 mg por vía oral una vez al día. Debe tomar este medicamento con líquido y tragar el comprimido entero. No machaque ni mastique el comprimido de UROVAL puede tomarse con o sin alimentos.
+
+Embarazo y lactancia
+
+3
+
+Si  está  embarazada,  cree  que  podría  estar  embarazada  o  tiene  intención  de quedarse embarazada, no debería de utilizar UROVAL Si  está  en  período  de  lactancia,  consulte  a  su  médico  o  farmacéutico  antes  de utilizar  este  medicamento.  Es  probable  que  este  medicamento  pase  a  la  leche materna. Usted junto con su médico deberán decidir si utilizar UROVAL o dar el pecho. Nunca haga ambas cosas.
+
+Uso en niños
+No  administre  este  medicamento  a  niños  y  adolescentes  menores  de  18  años debido a que la seguridad y eficacia de UROVAL en este grupo de edad no ha sido establecida.
+
+Efectos sobre la capacidad de conducción de vehículos No  existe  información  que  sugiera  que  este  medicamento  afecta  su  capacidad para conducir o utilizar máquinas.
+
+Toma conjunta de UROVAL con alimentos y bebidas UROVAL puede tomarse con o sin alimentos.
+
+Uso apropiado del medicamento UROVAL
+Si se olvidó de tomar UROVAL
+Si  olvidó  tomar  su  medicamento,  tome  la  dosis  olvidada  tan  pronto  como  lo recuerde. Si quedan menos de 6 horas para la siguiente dosis programada, omita la dosis y continúa tomando el medicamento a la hora habitual.
+No  tome  una  dosis  doble  para  compensar  las  dosis  olvidadas.  Si  olvida  varias dosis, consulte a su médico y siga sus recomendaciones.
+
+A tener en cuenta mientras toma UROVAL
+Efectos indeseables (adversos)
+Al igual que todos los medicamentos UROVAL puede producir efectos adversos, aunque no todas las personas los sufran.
+Entre  los  efectos  adversos  más  graves  puede  incluirse  latido  cardíaco  irregular (fibrilación auricular). Este es un efecto adverso poco frecuente (puede afectar a 1 de cada 100 personas), pero si este efecto adverso aparece, deje inmediatamente de tomar el medicamento y busque asesoramiento médico urgente.
+Consulte  con  su  médico  si  aparece  dolor  de  cabeza,  especialmente  de  forma repentina,  tipo  migraña,  sensación  de  los  latidos  del  corazón  (palpitaciones).
+Pueden ser signos de una presión arterial muy elevada. Otros efectos adversos incluyen:
+
+Efectos adversos frecuentes (pueden afectar hasta 1 de cada 10 personas)
+- Aumento de la frecuencia cardíaca (taquicardia).
+-  Infección  de  las  estructuras  que  conducen  la  orina  (infecciones  de  las  vías urinarias).
+- Náuseas.
+- Estreñimiento.
+- Dolor de cabeza.
+- Diarrea.
+- Mareo.
+
+Efectos  adversos  poco  frecuentes  (pueden  afectar  hasta  1  de  cada  100 personas)
+- Infección de vejiga (cistitis).
+- Sensación de los latidos del corazón (palpitaciones).
+- Infección vaginal.
+- Indigestión (dispepsia).
+- Infección de estómago (gastritis).
+- Hinchazón de las articulaciones.
+- Picor en la vulva o en la vagina (prurito vulvovaginal).
+- Aumento de la presión arterial.
+- Aumento de las enzimas hepáticas (GGT, AST y ALT).
+-  Picor,  erupción  o  habones  (urticaria,  erupción,  erupción  macular,  erupción papular, prurito).
+Efectos adversos raros (pueden afectar hasta 1 de cada 1.000 personas)
+- Hinchazón de los párpados (edema de párpados).
+- Hinchazón de los labios (edema de labios).
+-  Hinchazón  de  las  capas  más  internas  de  la  piel  causada  por  acumulación  de líquido, que puede afectar a cualquier parte del cuerpo incluidos la cara, la lengua o la garganta y que puede causar dificultad para respirar (angioedema).
+- Manchas pequeñas de color púrpura sobre la piel (púrpura).
+- Inflamación de vasos sanguíneos pequeños que afecta principalmente a la piel
+(vasculitis leucocitoclástica).
+- Incapacidad para vaciar completamente la vejiga (retención urinaria).
+
+Efectos adversos muy raros (pueden afectar hasta 1 de cada 10.000 personas)
+- Crisis hipertensiva
+
+Efectos  adversos  de  frecuencia  no  conocida  (la  frecuencia  no  puede estimarse a partir de los datos disponibles)
+- Insomnio
+UROVAL  puede  aumentar  la  posibilidad  de  no  poder  vaciar  su  vejiga  (retención urinaria) si tiene una obstrucción de la salida de la vejiga o si está tomando otros medicamentos  para  tratar  la  vejiga  hiperactiva.  Informe  a  su  médico  inmediatamente si no puede vaciar su vejiga.
+Si  experimenta  cualquier  efecto  adverso,  consulte  a  su  médico  o  farmacéutico, incluso si se trata de efectos adversos que no aparecen en este prospecto.
+
+¿Cómo conservar UROVAL?
+- Conservar entre 15 y 30 °C
+- Mantener alejado del alcance de los niños.
+
+No utilice este medicamento después de la fecha de vencimiento que aparece en el estuche, blíster o frasco. La fecha de vencimiento es el último día del mes que se indica.
+Los medicamentos no se deben tirar por los desagües ni a la basura. Pregunte a su farmacéutico cómo deshacerse de los envases y de los medicamentos que ya no necesita. De esta forma, ayudará a proteger el medio ambiente.
+
+Esta especialidad medicinal es libre de gluten.
+
+Presentación
+Envases con 30 comprimidos recubiertos de liberación prolongada.
+
+Si Ud. toma dosis mayores de UROVAL de las que debiera Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694 Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160 Centro de Asistencia Toxicológica La Plata: (0221) 451-5555
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual.
+No lo recomiende a otras personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la ANMAT http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a
+ANMAT responde 0800-333-1234”
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+ESPECIALIDAD  MEDICINAL  AUTORIZADA  POR  EL  MINISTERIO  DE  SALUD  Y
+DESARROLLO SOCIAL DE LA NACION.
+Certificado N° 58.875
+
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires - Argentina.
+
+E-3467-01 / D3795 / Act.: 04/2019
+
+4
+
+3795379537953795

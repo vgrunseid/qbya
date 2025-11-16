@@ -1,0 +1,372 @@
+BLOKIUM® COX GESIC
+ETORICOXIB 60 mg
+PARACETAMOL 325 mg
+
+COMPRIMIDOS RECUBIERTOS
+
+Venta Bajo Receta
+Industria Argentina
+
+FÓRMULAS
+Cada comprimido recubierto contiene:
+Etoricoxib 60,00 mg; Paracetamol 325,00 mg. Excipientes: celulosa microcristalina
+56,00 mg; fosfato tricálcico 150,50 mg; croscarmelosa sódica 42,00 mg; hidroxipropilcelulosa  10,50  mg; crospovidona 49,00  mg; estearato  de magnesio  7,00  mg;
+opadry II (talco 2,00 mg; alcohol polivinílico 5,33 mg; dióxido de titanio 3,33 mg;
+polietilenglicol  3000  2,67  mg)  13,33  mg;  talco  4,92  mg;  óxido  de hierro  amarillo
+0,08 mg; polietilenglicol 6000 1,67 mg.
+
+ACCIÓN TERAPÉUTICA
+Etoricoxib es un inhibidor  selectivo de la ciclooxigenasa-2 (COX-2) con actividad analgésica - antiinflamatoria. Paracetamol tiene una acción analgésica y antipirética.
+
+Código ATC:  M01AH05. (Medicamentos  antiinflamatorios,  antirreumáticos no esteroides - Coxibs - etoricoxib). N02BE01 (paracetamol)
+
+INDICACIONES
+BLOKIUM COX GESIC está  indicad o para el alivio sintomátic o de afecciones dolorosas e inflamatorias agudas o crónicas del sistema musculoesquelético.
+BLOKIUM COX GESIC también está indicado para el tratamiento a corto plazo del dolor moderado asociado a cirugía odontológica.
+La decisión  de prescribir un medicamento  que contiene inhibidor  selectivo de la COX-2 debe estar basada en una evaluación de los riesgos globales de cada paciente en particular.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de Acción
+Etoricoxib es un inhibidor  por  vía oral, selectivo de la ciclooxigenasa 2 (COX-2)
+dentro del intervalo de dosis terapéuticas. Etoricoxib produce una inhibición dosis dependiente de la COX-2 sin inhibir la COX-1 a dosis de hasta 150 mg al día. Por este motivo Etoricoxib no inhibe la síntesis gástrica de prostaglandinas y no tiene efecto sobre la función plaquetaria.
+La ciclooxigenas a es responsable  de la síntesis  de prostaglandinas . Hasta la fecha se han descrito 3 isoformas de la COX, que justifican en parte las diferencias farmacológicas del paracetamol frente a los AINE y a los inhibidores selectivos de la COX-2. La COX-1 se considera la isoenzima constitutiva tisular, responsable de los efectos fisiológicos de las prostaglandinas, y su inhibición por parte de los AINE no selectivos es la causa de algunos de sus efectos adversos  gastrointestinales y renales. La COX-2 se expresa de forma reactiva en los procesos  inflamatorios, dando lugar a las manifestaciones del dolor y de la fiebre, por lo que su inhibición confiere actividad antiinflamatoria y analgésica. Sin embargo, también participa de la regulación fisiológica de algunos tejidos, por lo que los inhibidores selectivos de la COX-2 no están desprovistos de efectos adversos, sobre todo tromboembólicos, cardiovasculares y renales. La COX-3 parece ser la isoforma constitutiva del sistema nervioso central, y el blanco específico del paracetamol, aunque no es una isoforma codificada en un gen distinto como la COX-2, sino una variante de la trascripción de la COX-1, que forma parte de una gran familia de enzimas relacionadas con la actividad de la COX (COX-1, COX-3 y proteínas relacionadas con la COX, PCOX).
+El paracetamol es un inhibidor débil, aunque parece que selectivo, de la COX-3, mientras que los inhibidores selectivos COX-2 no son activos frente a la COX-3.
+Además, parte de la actividad analgésica del paracetamol podría deberse a otras acciones  centrales, como la inhibición  de la hiperalgesia  espinal provocada por la activación  de los  receptores NMDA, la activación  de las vías serotoninérgicas descendentes que inhiben la transmisión del dolor en el asta posterior de la médula espinal, o la activación de mecanismos hipoalgésicos mediados por óxido nítrico.
+El mecanismo de acción antipirética del paracetamol se basa en la inhibición de la síntesis de PGE2, dependiente de la actividad de la COX, en el centro hipotalámico regulador  de la temperatura.  A este  a nivel,  la reacción  pirogénica se debe  a la estimulación de la síntesis del pirógeno endógeno PGE2 por parte de la interleucina
+2 (IL-2), lo que produce  una regulación  al alza de la temperatura corporal basal.
+El paracetamol  y los  AINE  tienen  actividad  antipirética  cuando  la temperatura corporal está previamente aumentada, pero en condiciones normales no producen hipotermia. Su efecto causa una reducción del valor termostático corporal, lo que activa los fenómenos de disipación del calor mediante la vasodilatación cutánea y el aumento de la sudoración.
+El paracetamol, a diferencia de otros AINE, no presenta actividad antiinflamatoria destacable, no es antiagregante plaquetario, ni uricosúrico.
+
+FARMACOCINÉTICA
+Etorocoxib
+Absorción
+Administrado por vía oral, etoricoxib tiene una buena absorción. La biodisponibilidad absoluta  es aproximadamente del 100%. Tras administrar 120 mg una vez  al día hasta alcanzar el estado estacionario, la concentración plasmática máxima (media geométrica Cmáx= 3,6 μg/ml) se observa aproximadamente 1 hora después  de la administración a adultos en ayunas (Tmáx). La media geométrica del área bajo la curva
+(ABC0-24h) es de 37,8 μg·hr/ml. La farmacocinética de etoricoxib es lineal en el rango de dosis clínica. El índice de absorción se vio afectado, resultando en un descenso del 36% en la Cmáx y en un aumento en el Tmáx a las 2 horas. Estos datos no se consideran clínicamente significativos. Los ensayos clínicos efectuados con etoricoxib la administración se realizó sin tener en consideración la ingesta de alimento. No se ha observado efecto significativo sobre la absorción si etoricoxib se suministra con alimentos ricos en grasas.
+Distribución
+Etoricoxib se une a las proteínas plasmáticas humanas en aproximadamente un 92% en el rango de concentraciones de 0,05 a 5 μg/ml. El volumen de distribución (Vdss)
+en el estado estacionario es de unos 120 litros en seres humanos. Etoricoxib atraviesa la placenta en ratas y conejos, y la barrera hematoencefálica en ratas.
+Metabolismo
+Etoricoxib  es intensamente  metabolizado,  de forma que <1% de una  dosis  se recupera en orina como fármaco original. La principal vía metabólica para formar el 6’-hidroximetil derivado es la catalizada por las enzimas del CYP. La CYP3A4 parece contribuir al metabolismo de etoricoxib in vivo. Los estudios in vitro indican que la
+
+1
+
+ADVERTENCIAS Y PRECAUCIONES
+Etoricoxib
+Efectos gastrointestinales
+En pacientes tratados con etoricoxib, han ocurrido algunos casos de complicaciones en el tracto gastrointestinal superior (perforaciones, úlceras o hemorragias (PUH)), algunos de los cuales resultaron fatales.
+Se aconseja  precaución con el tratamiento  de pacientes  que  se encuentren en riesgo de desarrollar una complicación gastrointestinal con AINEs, con los de edad avanzada, pacientes que estén utilizando otros AINEs o ácido acetilsalicílico concomitantemente o pacientes con antecedentes previos de enfermedad gastrointestinal, tal como ulceraciones o hemorragia GI.
+Existe un riesgo incrementado de efectos adversos gastrointestinales (ulceración gastroduodenal  u otras complicaciones  gastrointestinales) cuando etorico xib es tomado concomitantemente con ácido  acetilsalicílico (aún  a dosis  bajas). No se ha demostrado diferencia significativa en la seguridad gastrointestinal entre los  inhibidores  selectivos  de la COX-2 + ácido  acetilsalicílico  vs.  AINEs  + ácido acetilsalicílico en estudios clínicos a largo plazo.
+Efectos cardiovasculares
+Los estudios clínicos sugieren que la clase de los inhibidores selectivos de la COX-2 puede estar asociada con un riesgo de eventos trombóticos (especialmente Infarto de Miocardio  (IAM)  y Accidente  Cerebrovascular (ACV)), en relación  a placebo y a algunos AINEs. Dado que los riesgos cardiovasculares de etoricoxib pueden incrementarse  según la dosis  y la duración  de la exposición, deben emplearse durante el menor tiempo posible y a la menor dosis efectiva diaria posible. Debe reevaluarse  periódicamente  la necesidad de alivio sintomático  del paciente  y la respuesta al tratamiento, especialmente en pacientes con osteoartritis.
+Los pacientes con factores de riesgo significativos para sufrir eventos cardiovasculares (ej.  hipertensión , hiperlipidemi a, diabetes, tabaquismo), sólo  deben ser tratados con etoricoxib después de una evaluación cuidadosa.
+Los inhibidores selectivos de la COX-2 no constituyen un sustituto del ácido acetilsalicílico para la profilaxis de enfermedades tromboembólicas cardiovasculares, debido a su falta de efecto antiagregante plaquetario. Por lo tanto, no deben suspenderse las terapias antiplaquetarias.
+Efectos renales
+Las prostaglandinas renales  pueden  desempeñar un papel  compensatorio  en el mantenimiento de la perfusión renal. Por lo tanto, bajo condiciones  de perfusión renal comprometida, la administración de etoricoxib puede provocar una reducción en la formación de prostaglandina y, en forma secundaria, en el flujo sanguíneo renal, deteriorando con ello la función renal. Los pacientes con un alto riesgo de presentar tal  respuesta son  aquéllos con una  función renal  preexistente  significativamente deteriorada, insuficiencia cardíaca descompensada, o cirrosis. En tales pacientes se debe considerar el monitoreo de la función renal.
+Retención de líquidos, edema e hipertensión Tal como suced e con las demás  droga s conocida s por  inhibir  la síntesis  de prostaglandinas, se observó retención de líquidos, edema e hipertensión en algunos pacientes que recibieron etoricoxib. Todas las drogas antiinflamatorias no esteroides
+(AINEs), incluyendo el etoricoxib,  pueden estar  asociadas con la aparición  de insuficiencia cardíaca congestiva nueva o recurrente. Se debe actuar con precaución en pacientes  con antecedentes  de insuficiencia cardíaca,  disfunción  ventricular izquierda, o hipertensión, y en pacientes  con edema  preexistente  causado por cualquier otro motivo. Si existen pruebas clínicas de deterioro de la condición en este tipo de pacientes, se deben tomar las medidas apropiadas, las cuales incluirán la discontinuación de etoricoxib.
+Etoricoxib puede estar asociado con hipertensión más frecuente y severa que con algunos otros AINEs e inhibidores selectivos de la COX-2, particularmente a altas dosis. Por lo tanto, la hipertensión debe ser controlada antes del tratamiento con etoricoxib (ver Contraindicaciones) y debe prestarse especial atención al monitoreo de la presión arterial durante el tratamiento con etoricoxib. La presión sanguínea debe ser monitoreada durante  dos  semanas  luego  del inicio  del tratamiento, y posteriormente, de forma periódica. Si la presión arterial se eleva significativamente, debe considerarse un tratamiento alternativo.
+Efectos hepáticos
+En aproximadamente  1% de los  pacientes que participaron  en ensayos clínicos tratados hasta durante un año con etoricoxib 30, 60 y 90 mg diarios se informaron elevaciones del nivel de alanina aminotransferasa (ALT) y/o de aspartato aminotransferasa (AST) (aproximadamente de tres o más veces el límite superior normal).
+Todo paciente con síntomas y/o signos que sugieran disfunción hepática, o en quien se haya detectado un análisis anómalo de la función hepática debe ser monitoreado.
+Si se producen signos de insuficiencia hepática o si se detectan análisis anómalos de la función hepática en forma persistente (tres veces el límite superior normal), etoricoxib debe ser discontinuado.
+Generalidades
+Si durante el tratamien to el estado de los  pacien tes  se deteriora  en cualquier función orgánica descripta anteriormente, se deben tomar las medidas apropiadas y considerar la suspensión del tratamiento con etoricoxib. Se debe mantener una supervisión médica apropiada al utilizar etoricoxib en personas de edad avanzada y en pacientes con disfunción renal, hepática, o cardíaca.
+Se debe actuar con precaución al iniciar un tratamiento con etoricoxib en pacientes deshidratados. Es aconsejable rehidratar al paciente antes de iniciar el tratamiento con etoricoxib.
+Se han comunicado muy raramente casos de reacciones cutáneas severas, algunas de ellas fatales, incluyendo dermatitis exfoliativa, síndrome de Stevens-Johnson y necrólisis epidérmica tóxica en asociación con el uso de AINEs, incluyendo algunos inhibidores de la COX-2, durante el seguimiento post-comercialización. El riesgo de producir estas reacciones parece ser mayor al inicio del tratamiento, particularmente dentro del primer mes. Se han reportado casos de reacciones de hipersensibilidad serias (como anafilaxia y angioedema) en pacientes en tratamiento con etoricoxib. Se ha asociado el incremento del riesgo de reacciones en piel con algunos inhibidores selectivos de la COX-2, en pacientes con antecedentes de alergias a otras drogas.
+Debe discontinuarse el etoricoxib ante la aparición inicial de rash, lesiones en las mucosas o ante cualquier otro signo de hipersensibilidad.
+Etoricoxib puede enmascarar la fiebre y otros signos de inflamación.
+Debe tenerse precaución cuando se administra etoricoxib concomitantemente con warfarina u otros anticoagulantes orales.
+El uso de etoricoxib, al igual que cualquier otro producto farmacéutico que inhiba la ciclooxigenasa/ síntesis de prostaglandinas, no está recomendado en mujeres con intención de concebir.
+Paracetamol
+Se debe administrar con precaución, evitando tratamientos prolongados en pacientes con anemia, afecciones cardíacas o pulmonares o con disfunción grave hepática y renal (en este último caso, el uso ocasional es aceptable, pero la administración prolongada de dosis elevadas puede aumentar el riesgo de aparición de efectos renales adversos).
+La utilización  de paracetamol en pacientes que consumen habitualmente alcohol (tres o más bebidas alcohólicas al día) puede provocar daño hepático. En alcohólicos crónicos no se debe administrar más de 2 g/día de paracetamol.
+Se recomienda precaución en pacientes asmáticos sensibles al ácido acetilsalícilico,
+
+3
+
+Efecto de etoricoxib sobre las drogas metabolizadas por las sulfotransferasas
+Etoricoxib es un inhibidor de la actividad de la sulfotransferasa humana, particularmente de SULT1E1, y demostró incrementar las concentraciones séricas de etinil estradiol. Si bien el conocimiento actual sobre los efectos de las sulfotransferasas múltiples es limitado, y aunque se están investigando las consecuencias clínicas para varias  drogas, puede resultar  prudente  actuar  con cuidado al administrar etoricoxib en forma  concurrente  con otras drogas metabolizadas primariamente por las sulfotransferasas humanas (por ejemplo, salbutamol oral y minoxidil).
+Efecto de etoricoxib sobre las drogas metabolizadas por las isoenzimas CYP De acuerdo a estudios  in vitro, etoricoxib no inhibe  los  citocromos P450  (CYP)
+1A2,  2C9,  2C19, 2D6, 2E1, ni 3A4. En un estudio  realizado en sujetos  sanos,  la administración diaria de etoricoxib 120 mg no alteró la actividad de CYP3A4 hepática evaluada por la prueba de aliento de eritromicina.
+Efectos de otras drogas sobre la farmacocinética de etoricoxib El camino principal del metabolismo de etoricoxib depende de las enzimas CYP. La CYP3A4 parece contribuir al metabolismo de etoricoxib in vivo. Los estudios in vitro indican  que  la CYP2D6,  CYP2C9,  CYP1A2  y CYP2C19  también  pueden  catalizar el camino metabólico principal, si bien sus contribuciones cuantitativas no se han estudiado in vivo.
+• Ketoconazol: ketoconazol, un inhibidor potente de CYP3A4, administrado a dosis de 400 mg una vez por día durante 11 días a voluntarios sanos no tuvo ningún efecto  clínicamente  importante  sobre  la farmacocinética de dosis  únicas  de etoricoxib 60 mg (aumento de 43% en el ABC).
+
+• Rifampicina: la coadministración de etoricoxib con rifampicina, un inductor potente de las enzimas  CYP, produjo  una  disminución  de 65%  en las concentraciones plasmáticas  de etoricoxib. Tal interacción puede  resultar  en la recurrencia  de los  síntomas  cuando  se coadministre  etoricoxib  con  rifampicina.  Si bien  esta información puede sugerir un incremento en la dosis, no se han estudiado dosis de etoricoxib superiores a las enumeradas para cada indicación en combinación con rifampicina y, por lo tanto, no se recomiendan
+
+• Antiácidos: los antiácidos no afectan la farmacocinética de etoricoxib en un nivel
+
+clínicamente significativo.
+
+Paracetamol
+Interacciones farmacológicas de tipo farmacodinámico Las fenotiacinas interfieren en la termorregulación; su administración junto a dosis elevadas  de paracetamol  puede  provocar  hipotermia.  Pacientes  tratadas  con mifepristona y sulprostona junto con paracetamol presentaron un incremento del dolor abdominal. El uso combinado de paracetamol y ácido acetilsalicílico u otros
+AINE de forma crónica parece incrementar el riesgo de aparición de la nefropatía por  analgé sicos.  Se ha demost rado que la combinación  de paracetamol y un opioide menor, como la codeína, el dextropropoxifeno o el tramadol, incrementa la eficacia antiálgica. La asociación del paracetamol y la cafeína podría incrementar levemente la eficacia analgésica, y la combinación del paracetamol con un AINE aumenta la eficacia terapéutica pero también los efectos adversos.
+
+Interacciones farmacocinéticas
+El paracetamol se metaboliza a nivel hepático, en parte por el CYP2E1, y en menor cuantía por el CYP1A2, y posiblemente también por el CYP3A4. La administración de inductores incrementa la capacidad metabolizadora, disminuye las concentraciones plasmáticas del paracetamol y puede reducir su eficacia, pero sobre todo aumenta la producción del metabolito NABQI y el riesgo de hepatotoxicidad. En contraposición, los inhibidores metabólicos pueden reducir la activación de este metabolito y reducir la probabilidad de toxicidad hepática.  Los  principa les fármacos inductores del CYP2E1 son el etanol, administrado de forma crónica, y la isoniacida. Los inductores enzimáticos de otros citocromos como el omeprazol, los barbitúricos (fenobarbital), la fenitoína, la carbamacepina, la rifampicina, el ritonavir, la sulfinpirazona o el tabaco también pueden incrementar la actividad de la metabolización oxidativa. En estos casos debe valorarse el pertinente ajuste de la dosis o la pauta. Ocasionalmente, el paracetamol  puede  producir  hepatotoxicidad a dosis  terapéuticas  cuando  se administra a pacientes alcohólicos o que consumen cantidades elevadas de etanol.
+Los  mecanismos de tal interacción  no son  totalmente conocidos,  aunque tanto podría deberse a la inducción  del CYP2E1 por el etanol como a la depleción  de glutatión, a la malnutrición que a menudo se asocia al alcoholismo y a cambios en la glucuronoconjugación por el ayuno. Se aconseja advertir en este sentido a los pacientes de riesgo, como alcohólicos crónicos.  Los inhibidores metabólicos pueden reducir la formación de NABQI y el riesgo de hepatotoxicidad. Entre ellos destacan el etanol (administrado de forma aguda), el disulfiram, el ciprofloxacino, la cimetidina, la claritromicina, la eritromicina, el zumo de pomelo, el ketoconazol y la paroxetina. Se debe tener precaución con las siguientes interacciones:
+- Anticoagulantes  orales (acenocumarol, warfarina): la administración  crónica de dosis  de paracetamol  superiores  a 2 g/día  con  este  tipo  de productos,  puede provocar un incremento del efecto anticoagulante, posiblemente debido  a una disminución de la síntesis hepática de los factores que favorecen la coagulación.
+Dada su aparente escasa relevancia clínica, se considera la alternativa terapéutica a salicilatos, cuando existe terapia con anticoagulantes.
+
+- Alcohol etílico: potenciación de la toxicidad del paracetamol, por posible inducción de la producción hepática de productos hepatotóxicos derivados del paracetamol.
+- Ant iconvuls ivantes  (fenitoína,  fenobarbital,  metilofenobarbital,  prim idona):
+disminución de la biodisponibilidad del paracetamol, así como potenciación de la hepatotoxicidad en sobredosis, debido a la inducción del metabolismo hepático.
+- Diuréticos del asa: los efectos de los diuréticos pueden verse reducidos, ya que el paracetamol puede disminuir la excreción renal de prostaglandinas y la actividad de la renina plasmática.
+
+- Isoniazida: disminución del aclaramiento de paracetamol, con posible potenciación
+
+de su acción y/o toxicidad, por inhibición de su metabolismo hepático.
+
+- Lamotrigina: disminución del área bajo la curva (20%) y de la vida media (15%)
+de lamotrigina, con posible inhibición de su efecto, por posible inducción de su metabolismo hepático.
+
+- Metoclopramida  cisaprida  y domperidona: los  gastrocinéticos aumentan  las concentraciones  plasmáticas  máximas  de paracetamol,  reducen  el tiempo necesario para alcanzarlas y disminuyen el tiempo de inicio de la analgesia. En casos de migraña se ha recomendado el uso de la asociación del paracetamol con  metoclopramida,  por  la actividad  antiemética  de ésta  y la mayor  rapidez de absorción e inicio del efecto analgésico del paracetamol debido a su acción procinética.
+
+- Probenecid: puede reducir el metabolismo y la eliminación renal del paracetamol, lo que puede incrementar ligeramente la eficacia terapéutica del paracetamol, y también elevar el riesgo de toxicidad.
+
+- Propa nol ol: el propra nolol  inhibe  el sistema  enzimá tic o respon sable  de la glucuronidación  y oxidación  del paracetamol.  Por lo tanto, puede potenciar la acción del paracetamol.
+
+- Rifampicina: aumento del aclaramiento de paracetamol por posible inducción de
+
+su metabolismo hepático.
+
+- Resinas de intercambio iónico (colestiramina):  disminución en la absorción del
+
+5
+
+Poco comunes: edema facial, prurito, rash.
+Rara: eritema
+Muy  raras: urticaria, síndrome de Stevens-Johnson, necrólisis  epidérmica tóxica.
+No conocida: exantema fijo medicamentoso.
+Trastornos musculoesqueléticos, del tejido conectivo y óseo Poco  comunes: calambres/  espasmos  musculares, rigidez/ dolor  musculoesquelético.
+Trastornos renales y urinarios
+Poco comunes: proteinuria, incremento en los valores de creatinina sérica.
+Muy raras: insuficiencia renal incluyendo fallo renal, habitualmente reversible ante la discontinuación del tratamiento.
+Trastornos generales y condiciones del sitio de administración Comunes: astenia/ fatiga, enfermedad pseudogripal.
+Poco comunes: dolor de pecho.
+
+Paracetamol
+A la dosis recomendada de BLOKIUM COX GESIC, los efectos indeseables del paracetamol son leves y no causan abandono del tratamiento.
+A dosis terapéuticas se han descripto  como efectos colaterales erupciones cutáneas, molestias gastrointestinales y cefalea de rebote o inducida por analgésicos. Muy raramente se han observado agranulocitosis, trombocitopenia, piuria estéril, nefropatía inducida por analgésicos y reacción anafiláctica.
+En pacientes con síndrome de Gilbert presentan una deficiencia de glucuroniltransferasa, por ello aumentan las concentraciones de paracetamol y se forma, además, más cantidad del metabolito tóxico, lo que significa mayor riesgo en caso de sobredosis.
+Riesgos de reacciones cutáneas graves
+Se ha informado acerca del riesgo de reacciones cutáneas serias, tales como síndrome de Stevens-Johnson, necrólisis  epidérmica tóxica y pustulosis exantemática aguda generalizada,  asociadas al uso de paracetamol.  Estas reacciones pueden ocurrir con el primer uso de paracetamol o en cualquier momento mientras se está tomando.
+Ante  la aparición  de rash cutáneo durante el uso de paracetamol se debe suspender el tratamiento y buscar atención médica de inmediato. Cualquier paciente que haya experimentado una reacción cutánea grave relacionada al uso de paracetamol no debe tomar de nuevo la droga y se deberá consultar con el médico, el uso de analgésicos u antipiréticos alternativos.
+
+Pruebas de laboratorio
+Etoricoxib
+Poco  comunes: incremento  en los  niveles de nitrógeno  ureico en sangre, incremento en el nivel de creatina fosfoquinasa, hipercalcemia, aumento del ácido úrico.
+Raras: disminución de la concentración de sodio plasmático.
+
+SOBREDOSIFICACIÓN
+Etoricoxib
+En los estudios clínicos, la administración  de dosis únicas de etoricoxib de hasta 500 mg y de dosis múltiples de hasta 150 mg/día durante 21 días no mostró efectos de toxicidad significativos. Hubo reportes de sobredosificación aguda  con etoricoxib, aunque  no se informaron experiencias adversas en la mayoría  de los  casos.  Las reacciones  adversa s más  frecuentemente observadas fueron consistentes con el perfil de seguridad del etoricoxib (Ej.
+eventos gastrointestinales, eventos cardiorrenales).
+En caso de sobredosis, resulta razonable  emplear  las medidas de soporte habituales, como por ejemplo,  extraer  el material no absorbido  del  tracto gastrointestinal, hacer monitoreo clínico, e instituir tratamientos de soporte, de ser necesarios.
+Etoricoxib no es dializable por hemodiálisis y se desconoce si es dializable por diálisis peritoneal.
+
+Paracetamol
+La ingestión de 10 a 15 g de paracetamol en adultos puede producir necrosis hepatocelular grave y menos a menudo necrosis tubular renal. Los síntomas comienzan dentro de las primeras 24 horas con náuseas, vómitos, depresión del sensorio  y sudoración.  El daño  hepático  suele  manifestarse  con  dolor abdominal a las 48-72 horas pudiendo desarrollarse encefalopatía, coma y muerte. Un progresivo incremento del tiempo de protrombina es un indicador de evolución hacia la insuficiencia hepática. Los pacientes con antecedentes de alcoholismo o que recibían drogas inductoras enzimáticas son particularmente sensibles al desarrollo de daño hepático.
+En caso de sobredosificación el paciente debe ser hospitalizado para inmediatamente efectuar lavado gástrico, administrar carbón activado y comenzar tratamiento con acetilcisteína por vía oral o endovenosa. La efectividad del antídoto es máxima cuando se administra en las primeras 8 horas.
+La dosis parenteral inicial recomendada de acetilcisteína es de 150 mg/kg en 200 ml de solución de dextrosa al 5% a pasar en 15 minutos. Se prosigue con 50 mg/kg en 500 ml de la misma solución a pasar en 4 horas y finalmente 100 mg/kg en 1 litro de solución en las siguientes 16 horas. La dosis inicial por vía oral es de 140 mg/kg como solución al 5% seguida por 70 mg/kg/4 horas hasta completar 17 dosis.
+La metromina puede utilizarse como alternativa en dosis de 2,5 g vía oral c/4 horas.
+
+Ante  la eventualidad  de una  sobredosificación,  concurrir  al Hospital  más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+PRESENTACIÓN
+Envases con 14 y 28 comprimidos recubiertos.
+
+Fecha de última revisión: noviembre de 2024.
+
+FORMA DE CONSERVACIÓN
+- Conservar entre 15 y 30°C
+- Mantener alejado del alcance de los niños.
+
+7
+
+CYP2D6, CYP2C9, CYP1A2 y CYP2C19 también pueden catalizar  la principal vía metabólica, pero sus funciones no se han estudiado in vivo.
+Se han identificado cinco metabolitos en el hombre. El principal metabolito es el derivado de etoricoxib ácido 6’-carboxílico, formado por la posterior oxidación del 6’-hidroximetil derivado.
+Estos metabolitos principales no demuestran actividad, o son sólo débilmente activos como inhibidores de la COX-2. Ninguno de estos metabolitos inhibe la COX-1.
+Eliminación
+La eliminación de etoricoxib se produce casi exclusivamente por su metabolismo, seguido  por  la eliminación  renal. Las concentraciones  de etoricoxib alcanzan  el estado estacionario en un plazo de siete días tras la administración de una dosis única diaria de 120 mg, con un cociente de acumulación de aproximadamente 2, que corresponde a una vida media de unas 22 horas.
+Paracetamol
+Absorción
+El paracetamol se absorbe por vía oral de forma rápida y casi completa, mayoritariamente en el duodeno, siendo su biodisponibilidad superior al 90%. Por vía oral, la concentración plasmática máxima se alcanza entre los 15 min y 1 h, dependiendo de la formulación farmacéutica empleada. El paracetamol se utiliza como marcador de la velocidad del vaciamiento gástrico, puesto que se ha comprobado que su velocidad de absorción depende de la rapidez del tránsito gastroduodenal. La velocidad de dispersión de la forma farmacéutica en el estómago también influye en la rapidez de absorción y el inicio de la acción farmacológica. La presencia de alimentos en el estómago, sobre todo con alto contenido en carbohidratos, y la posición en decúbito, especialmente en el lateral izquierdo, pueden enlentecer su absorción. Los fármacos que alteran la motilidad gastrointestinal también afectan su absorción.
+Distribución
+El paracetamol  se une levemente a las proteínas  plasmáticas  (<20%)  y tiene  un volumen de distribución de 0,9 l/kg. La concentración en saliva es similar a la del plasma y se ha utilizado para monitorizar las concentraciones plasmáticas y para estudios farmacocinéticos. La concentración en sangre total es un 20% superior a la del plasma. Atraviesa la barrera placentaria y se encuentra en la leche materna a concentraciones algo inferiores a las del plasma.
+Metabolismo
+Un 90-95%  de la dosis  se metaboliza en el hígado,  mayoritariamente  mediante conjugación, para posteriormente excretarse por orina. La depuración total es de 5 ml/min/kg. La conjugación con ácido glucurónico mediante la glucuronosiltransferasa
+(uridín-difosfato-glucuronosiltransferasa,  UDP-glucuronosiltransferasa,  UGT)
+representa un 60%, y la conjugación  con grupos sulfúricos mediante  la sulfatasa otro 30%. Un 5-10% se oxida por isoenzimas del citocromo P450 (principalmente
+CYP2E1, y menos por CYP1A2 y CYP3A4), formándose, entre otros, un metabolito tóxico altamente reactivo, la N-acetilbenzoquinonaimina (NABQI, 4%). En condiciones normales, la NABQI es rápidamente inactivada por los grupos sulfhidrilo del glutatión reducido (GSH), y se elimina en la orina conjugado con cisteína y ácido mercaptúrico.
+Sin embargo, a dosis  elevadas, la velocidad de formación  del metabolito tóxico supera la de síntesis de glutatión, y entonces la NABQI reacciona con enzimas y otras proteínas del hepatocito, conduciendo a un daño irreversible y necrosis celular.
+Eliminación
+La semivida de eliminación en adultos está entre 1-3 h (promedio 2,3 h), mientras que en neonatos se encuentra entre 2-5 h. Un 2-5% de la dosis de paracetamol se elimina inalterada en la orina y el resto como glucurónico y sulfato. La depuración renal es de 10 ml/min, ligeramente dependiente del flujo urinario, pero no del pH.
+Su eliminación disminuye en presencia de insuficiencia hepática aguda y grave, o en casos de patología crónica. En la insuficiencia renal se observa acumulación de sus metabolitos conjugados, por lo que hay que espaciar más la administración,
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+BLOKIUM COX GESIC se administra por vía oral una vez por día. Se puede tomar con las comidas o alejado de las mismas. El inicio de acción puede ser más rápido cuando se administra BLOKIUM COX GESIC alejado de las comidas. Esto deberá considerarse cuando se necesite un alivio sintomático rápido.
+Dado que los riesgos cardiovasculares de etoricoxib pueden incrementarse con la dosis y con la duración de la exposición, BLOKIUM COX GESIC debe emplearse solo una vez por día y durante el menor tiempo posible. Debe reevaluarse periódicamente la necesidad de alivio sintomático del paciente y la respuesta al tratamiento, especialmente en pacientes con osteoartritis. Si se requiere el ajuste de posología para cualquiera de los  principios activos de la combinación  a dosis  baja  deben utilizarse los componentes individuales para determinar la posología.
+
+Poblaciones especiales
+Edad avanzada
+No es necesario realizar ningún ajuste posológico en pacientes de edad avanzada.
+Así como sucede con otros medicamentos, se debe tener precaución en pacientes de este grupo etario.
+Insuficiencia hepática
+En pacientes con insuficiencia hepática leve (puntuación de Child-Pugh de 5 a 6), se debe administrar un comprimido una vez por día. El uso de BLOKIUM COX GESIC en pacientes con insuficiencia hepática severa (Child-Pugh ≥19) está contraindicado.
+Insuficiencia renal
+Para pacientes con un clearance de creatinina ≥ 30 ml/min. no es necesario realizar ajustes en la dosis. BLOKIUM COX GESIC está contraindicado en pacientes con un clearance de creatinina < 30 ml/min.
+Uso Pediátrico
+BLOKIUM COX GESIC está contraindicado en niños y adolescentes de menos de 16 años de edad.
+
+CONTRAINDICACIONES
+BLOKIUM COX GESIC esta contraindicado en:
+- pacientes con hipersensibilidad conocida a etoricoxib, paracetamol o a cualquiera
+
+de los componentes del producto.
+
+- pacientes con úlcera péptica activa o hemorragias gastrointestinales (GI).
+- pacientes  que hayan  experimentad o bronco espasmo, rinitis aguda, pólipos nasales, edema angioneurótico, urticaria o reacciones de tipo alérgico luego de la administración de ácido acetilsalicílico o de otras drogas antiinflamatorias no esteroides (AINEs) incluyendo inhibidores de la COX-2 (Ciclooxigenasa 2).
+
+- embarazo y lactancia.
+- pacientes con disfunción hepática severa (albúmina sérica < 25 g/l o puntuación
+
+de Child-Pugh ≥ 10).
+
+- pacientes con clearance de creatinina estimado <30 ml/min.
+- niños y adolescentes menores a 16 años de edad.
+- pacientes con enfermedad inflamatoria intestinal.
+- pacientes con Insuficiencia Cardíaca Congestiva (NYHA II-IV).
+- pacientes con hipertensión, cuya presión arterial se haya persistentemente por
+
+encima de los 140/90 mm Hg y no haya sido adecuadamente controlada.
+
+- cardiopatía isquémica, enfermedad arterial periférica y/o enfermedad cerebrovascular establecidas.
+
+2
+
+debido a que se han descrito ligeras reacciones de broncoespasmo con paracetamol (reacción cruzada)  en estos pacientes, aunque  sólo  se han  manifestado  en una minoría de dichos pacientes, puede provocar reacciones graves en algunos casos, especialmente cuando se administra en dosis altas.
+El uso simultáneo de más de un medicamento que contenga paracetamol, puede dar lugar a cuadros de intoxicación. Los cuadros tóxicos asociados a paracetamol se pueden producir tanto por la ingesta de una sobredosis única o por varias tomas con dosis excesivas de paracetamol. Se han producido comunicaciones de casos de hepatotoxicidad con dosis diarias inferiores a 4 g.
+Si el dolor se mantiene durante más de 5 días o la fiebre durante más de 3 días, o, empeoran o aparecen otros síntomas, se debe reevaluar la situación clínica.
+Cuando se requiera la administración de dosis inferiores a 1 g de paracetamol por toma se deberán emplear otras presentaciones de paracetamol que se adapten a la dosificación requerida.
+
+Interacciones medicamentosas
+Etoricoxib
+Interacciones farmacodinámicas
+- Anticoagulantes orales
+En sujetos estabilizados bajo tratamiento crónico con warfarina, la administración de etoricoxib 120 mg diarios estuvo asociada con un incremento aproximado de 13%  en el Rango Normatizado Internacional  (RIN) del tiempo de protrombina.
+Por lo tanto, se debe monitorear  muy  estrechamente  a aquellos  pacientes  que reciban  anticoagulantes  orales en cuanto  a su RIN del tiempo de protrombina, particularmente durante los primeros días de iniciado el tratamiento con etoricoxib, o cuando se realice un cambio en la dosis de etoricoxib.
+- Diuréticos, antagonistas de la angiotensina II e inhibidores de la ECA Los AINEs pueden reducir el efecto de los diuréticos y otras drogas antihipertensivas.
+En algunos pacientes con la función renal comprometida (por ejemplo, pacientes deshidratados o pacientes de edad avanzada con la función renal comprometida), la administración concomitante de un inhibidor de la ECA o de un antagonista de la angiotensina II con agentes que inhiben las ciclooxigenasas puede provocar un deterioro adicional de la función renal, incluyendo posibles fallas renales agudas, lo cual  generalmente  resulta reversible. Se deben considerar tales interacciones en pacientes que reciban etoricoxib en forma concomitante con inhibidores de la ECA o con antagonistas de la angiotensina II. Por lo tanto, la combinación debe administrarse con precaución, especialmente en pacientes de edad avanzada.
+Los pacientes deben estar adecuadamente hidratados y se debe realizar el monitoreo de la función renal después del inicio de la terapia concomitante, y posteriormente en forma periódica.
+- Ácido acetilsalicílico
+En un estudio realizado en sujetos sanos en estado estable, etoricoxib 120 mg una vez por día no tuvo ningún efecto sobre la actividad antiagregante del ácido acetilsalicílico (81 mg una vez por día). Etoricoxib puede ser utilizado en forma concomitante con el ácido acetilsalicílico a las dosis utilizadas como profilaxis cardiovascular (ácido acetilsalicílico a dosis bajas). Sin embargo, la administración concomitante de ácido acetilsalicílico a dosis bajas con etoricoxib puede resultar en un aumento de la tasa de ulceración gastrointestinal, o en otras complicaciones, respecto al uso de etoricoxib solo. No se recomienda la administración concomitante de etoricoxib y dosis de ácido acetilsalicílico por encima de las administradas como profilaxis cardiovascular, o con otros AINEs.
+- Ciclosporina y tacrólimo
+Si bien esta interacción  no se estudió  con etoric oxib,  la coadministración  de ciclosporina o tacrólimo con cualquier AINE puede incrementar el efecto nefrotóxico de la ciclosporina o del tacrólimo. Cuando se utilicen en combinación etoricoxib y cualquiera de dichas drogas debe monitorearse la función renal.
+Interacciones farmacocinéticas
+Efecto de etoricoxib sobre la farmacocinética de otras drogas
+• Litio: los AINEs disminuyen la secreción renal de litio y, por lo tanto, incrementan los niveles plasmáticos de dicha droga. De ser necesario, se recomienda monitorear estrechamente  el nivel  de litio  en sangre,  ajustar  la dosis  de litio  mientras  se administre la combinación y cuando se retire el AINE.
+
+• Metotrexato: dos estudios investigaron los efectos de etoricoxib 60, 90, o 120 mg administrados una vez por día durante siete días en pacientes que recibían dosis de metotrexato de 7,5 a 20 mg una vez por semana para la artritis reumatoidea.
+Etoric oxib a 60 y 90 mg no tuvo  ningún efecto  sobre  las concentr aciones plasmáticas de metotrexato o el clearance renal. En un estudio,  etoricoxib 120 mg no tuvo ningún efecto, pero en el otro estudio, etoricoxib 120 mg incrementó las concentraciones plasmáticas de metotrexato en un 28% y redujo el clearance renal de metotrexato en un 13%. Cuando se administren etoricoxib y metotrexato en forma concomitante, se recomienda realizar un adecuado monitoreo en busca de toxicidad relacionada con metotrexato.
+
+• Anticonceptivos orales: la administración de etoricoxib 60 mg con un anticonceptivo oral conteniendo 35 μg de etinil estradiol  (EE)  y 0,5  a 1 mg de noretindrona, durante 21 días incrementó el ABC 0-24 hs. del estado estacionario EE en un 37%.
+Etoricoxib 120 mg administrado con el mismo anticonceptivo oral, ya sea en forma concomitante o con una separación de 12 horas, incrementó entre 50 y 60% el ABC
+0-24 hs en estado de equilibrio del EE. El incremento en la concentración de EE se debe tener en cuenta al seleccionar cualquier anticonceptivo oral para utilizar junto con etoricoxib. Un aumento en la exposición a EE puede aumentar la incidencia de eventos adversos asociados con los anticonceptivos orales (por ejemplo, eventos tromboembólicos venosos en mujeres de riesgo).
+
+• Terapia  de reemplazo  hormonal: la administración  de etoricoxib  120  mg con terapia  de reemplazo  hormonal  basada en estrógenos conjugados  durante  28 días, incrementó el estado de equilibrio  medio  del ABC 0-24 hs de la estrona
+(41%), equilina (76%), y el 17-β-estradiol (22%) no conjugados. El efecto de la posología crónica recomendada de etoricoxib (30, 60 y 90 mg) no fue estudiado.
+El efecto de etoricoxib 120 mg en la exposición (ABC 0-24 hs) a los componentes estrogénicos,  fue  menor  a la mitad  del  observado  cuando  los  estrógenos conjugados fueron administrados solos y la dosis se incrementó de 0,625 a 1,25 mg.  La relevancia clínica de estos incrementos es desconocida, y no fueron estudia das dosis  más  elevadas de estrógeno s conjugados  en combinació n con  etoricoxib.  Estos  incrementos  en las  concentraciones  estrogénicas  deben considerarse al seleccionar la terapia de reemplazo hormonal post-menopáusica a utilizar  con etoricoxib,  ya que el incremento  a la exposición  ante  estrógenos puede también incrementar  el riesgo  de reacciones  adversas asociadas a la terapia de reemplazo hormonal.
+
+• Prednisona/prednisolona: en estudios de interacción medicamentosa, etoricoxib no tuvo efectos clínicamente importantes sobre la farmacocinética de prednisona/prednisolona.
+
+• Digoxina:  etoricoxib 120  mg administrado una  vez  por día  durante  10 días  a voluntarios  sanos no alteró el ABC 0-24 hs plasmática en estado estable, ni la eliminación renal de digoxina. Se observó un incremento en la Cmáx de digoxina
+(aproximadamente  de 33%). Tal aumento  no resulta generalmente  importante para la mayoría de los pacientes. Sin embargo, y cuando etoricoxib y digoxina se administren en forma concomitante, se debe monitorear a los pacientes de alto riesgo por toxicidad a la digoxina.
+
+4
+
+paracetamol,  reducen  la biodisponibilidad del paracetamol,  y por  ello  puede reducirse la analgesia.
+
+- Antiácidos: puede reducir la absorción del paracetamol y disminuir su eficacia, por
+
+lo que se recomienda separar su administración al menos 1 h.
+
+- Los fármacos que retrasan el vaciamiento gástrico o reducen la motilidad intestinal, como los anticolinérgicos o los opioides, pueden enlentecer su absorción, pero la asociación del paracetamol con un opioide tiene una utilidad clínica demostrada
+(véase Interacciones farmacodinámicas).
+
+- Los anticonceptivos orales pueden incrementar el metabolismo del paracetamol y reducir  su efecto. Parece  que  la combinación puede  incrementar  los efectos indeseables del etinilestradiol.
+
+Embarazo
+Tal como sucede con cualquier droga inhibidora de la COX-2, no se recomienda el uso de etoricoxib en mujeres que intenten concebir.
+No se dispone de datos clínicos sobre embarazos expuestos a etoricoxib. Los estudios realizados en animales mostraron toxicidad en la reproducción. Se desconoce el potencial de riesgo  humano  en el embarazo. Etoricoxib,  como cualquier otra droga  que  inhibe  la síntesis  de prostaglandinas, puede  provocar  inercia  uterina y cierre  prematuro del conducto  arterioso  durante  el último trimestre. Etoricoxib está  contraindicado  en embarazo.  Si una  mujer quedara embarazada durante  el tratamiento, se debe discontinuar la administración de BLOKIUM COX GESIC.
+
+Lactancia
+Se desconoce si etoricoxib es excretado o no en leche  materna.  Etoricoxib  es excretado en la leche  de ratas lactantes.  Las  mujeres  que  utilicen etoricoxib  no deben amamantar a sus bebés.
+
+Uso en Pediatría
+BLOKIUM COX GESIC no debe usarse en niños y adolescentes menores a 16 años de edad.
+
+Efectos sobre la capacidad de conducir y operar maquinarias No se realizaron estudios sobre el efecto de etoricoxib en la capacidad de conducir o de operar maquinarias. Sin embargo, aquellos pacientes que experimenten mareos, vértigo,  o somnolencia mientras reciban etoricoxib no deben conducir ni operar maquinarias.
+
+REACCIONES ADVERSAS
+Etoricoxib
+Tanto  en estudios clínicos como en la experiencia post  comercialización, se informaron las siguientes reacciones adversas con una incidencia superior a placebo en pacientes con osteoartritis, artritis reumatoidea, lumbalgia crónica o espondilitis anquilosante tratados con etoricoxib 30 mg, 60 mg o 90 mg durante un máximo de 12 semanas.
+[Muy  comunes (≥1/10),  Comunes (≥1/100  <1/10)  Poco  comunes (≥1/1.000,  < 1/100) Raras (≥1/10.000 ≤1/1.000) Muy raras (< 1/10.000) no conocidas (no pueden ser estimadas con la información disponible)].
+Infecciones e infestaciones
+Comunes: osteítis alveolar.
+Poco comunes: gastroenteritis, infección de vías respiratorias superiores, infección del tracto urinario.
+Trastornos de la sangre y del sistema linfático Poco comunes: anemia (principalmente asociada a hemorragia gastrointestinal), leucopenia, trombocitopenia.
+Trastornos del sistema inmune
+Muy  raras: reacciones  de hipersensibilidad, incluyendo angioedema,  reacciones anafilácticas/anafilactoides incluyendo shock.
+Trastornos metabólicos y de nutrición
+Comunes: edema/retención de líquidos.
+Poco comunes: aumento o disminución del apetito, aumento de peso.
+Trastornos psiquiátricos
+Poco comunes: ansiedad, depresión, disminución de la agudeza mental.
+Muy raras: confusión, alucinaciones.
+No conocidas: nerviosismo
+Trastornos del sistema nervioso
+Comunes: mareos, cefalea.
+Poco comunes: disgeusia, insomnio, parestesia/ hipestesia, somnolencia.
+Trastornos oculares
+Poco comunes: visión borrosa, conjuntivitis.
+Trastornos del oído y laberínticos
+Poco comunes: tinnitus, vértigo.
+Trastornos cardíacos
+Comunes: palpitaciones
+Poco comunes: fibrilación  atrial, insuficiencia cardíaca  congestiva,  cambios  no específicos en el electrocardiograma, angina de pecho, infarto de miocardio*.
+No conocidas: taquicardia, arritmia.
+Trastornos vasculares
+Comunes: hipertensión.
+Poco comunes: rubor, accidente cerebrovascular *, ataque isquémico transitorio.
+Muy raras: crisis hipertensiva.
+Trastornos respiratorios, torácicos y mediastinales
+Poco comunes: tos, disnea, epistaxis.
+Muy raros: broncoespasmo.
+Trastornos gastrointestinales
+Comunes: trastornos gastrointestinales (por ejemplo, dolor abdominal, flatulencia, pirosis), diarrea, dispepsia, malestar epigástrico, náuseas.
+Poco comunes : distensión  abdominal, reflujo  ácido,  cambios  en el patrón  de movimientos intestinales, constipación, boca seca, úlcera gastroduodenal, síndrome de colon irritable, esofagitis, úlcera oral, vómitos, gastritis.
+Muy raras: ulcera péptica incluyendo perforación y hemorragias gastrointestinales (predominante en pacientes de edad avanzada).
+No conocidos: pancreatitis
+Trastornos hepatobiliares
+Comunes: incremento en ALT, incremento en AST.
+Muy raras: hepatitis.
+Frecuencia no conocida: ictericia.
+* En base al análisis de los estudios clínicos de largo plazo controlados con placebo y droga activa, se ha asociado a los inhibidores selectivos de la COX-2 con un incremento del riesgo de eventos trombóticos arteriales serios, incluyendo infarto de miocardio y accidente cerebrovascular.
+El incremento del  riesgo  absoluto para estos  eventos  es improbable  que exceda el 1% por año basado en los datos existentes (poco comunes).
+Trastornos dermatológicos y del tejido subcutáneo
+Comunes: equimosis.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+Especialidad Medicinal autorizada por el Ministerio de Salud de la Nación.
+Certificado N° 60.262
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires - Argentina
+
+6
+
+E-7350-01 / D7689 / Act.: 09/2024
+
+8

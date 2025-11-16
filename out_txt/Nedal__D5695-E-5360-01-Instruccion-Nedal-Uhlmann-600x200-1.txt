@@ -1,0 +1,380 @@
+200 mm
+
+200 mm
+
+b Para más información, véase el apartado correspondiente a continuación.
+c “Vulvovaginitis, balanitis e infecciones genitales relacionadas” incluye, por ejemplo, los siguientes términos preferidos predefinidos: micosis vulvovaginal, infección vaginal, balanitis, micosis genital, candidiasis vulvovaginal, vulvovaginitis, balanitis por Candida, candidiasis genital, infección genital, infección genital masculina, infección del pene, vulvitis, vaginitis bacteriana y absceso vulvar.
+d Infección del tracto urinario incluye los siguientes términos preferentes, listados en orden de frecuencia notificada: infección del tracto urinario, cistitis, infección del tracto urinario por Escherichia, infección del tracto genitourinario, pielonefritis, trigonitis, uretritis, infección renal y prostatitis.
+e “Hipovolemia” incluye, por ejemplo, los siguientes términos preferidos predefinidos: deshidratación, hipovolemia, hipotensión.
+f “Poliuria” incluye los términos preferidos de polaquiuria, poliuria y aumento de la diuresis.
+g La variación media del hematocrito con respecto al valor inicial fue del 2.30% en el grupo tratado con 10 mg de dapagliflozina y del -0.33% en el grupo placebo. Los valores de hematocrito > 55% fueron notificados en el 1.3% de los pacientes tratados con dapagliflozina 10 mg frente al 0.4% de los pacientes tratados con placebo.
+h La variación media con respecto al valor inicial fue, en el grupo tratado con 10 mg de dapagliflozina frente al grupo placebo, respectivamente: colesterol total 2.5% frente a - 0.0%; HDL 6.0% frente a 2.7%; LDL 2.9% frente a -1.0%; triglicéridos -2.7% frente a - 0.7%.
+i Ver Advertencias y precauciones.
+j La reacción adversa fue identificada durante la vigilancia post comercialización. Erupción incluye los siguientes términos preferentes, listados en orden de frecuencia en los ensayos clínicos: erupción, erupción generalizada, erupción prurítica, erupción macular, erupción maculo-papular, erupción pustular, erupción vesicular y erupción eritematosa. En ensayos clínicos controlados con activo o con placebo (dapagliflozina,
+N=5936, Control total, N=3403), la frecuencia de la erupción fue similar en dapagliflozina (1,4%) y en el control total (1,4%), respectivamente.
+k Informado en el estudio de resultados cardiovasculares en pacientes con diabetes tipo 2 (DECLARE). La frecuencia se basa en la tasa anual.
+* Reacciones adversas notificadas en ≥ 2% de los pacientes tratados con 10 mg de dapagliflozina, con una frecuencia ≥1% mayor que en el grupo placebo y en al menos 3 pacientes más que en el grupo placebo.
+** Reacciones adversas notificadas por el investigador como posiblemente relacionadas, probablemente relacionadas o relacionadas con el tratamiento del ensayo y notificadas en ≥ 0.2% de los pacientes, con una frecuencia ≥ 0.1% mayor que en los pacientes del grupo placebo y en al menos 3 pacientes más que en el grupo placebo.
+
+Descripción de algunas reacciones adversas seleccionadas Vulvovaginitis, balanitis e infecciones genitales relacionadas.
+En 13 estudios clínicos controlados de eficacia y seguridad, se informaron vulvovaginitis, balanitis e infecciones genitales relacionadas en el 5,5% y el 0,6% de los pacientes que recibieron dapagliflozina 10 mg y placebo, respectivamente. La mayoría de las infecciones fueron leves a moderadas, y los pacientes respondieron a un ciclo inicial de tratamiento estándar y rara vez dieron como resultado la interrupción del tratamiento con dapagliflozina.
+Estas infecciones fueron más frecuentes en las mujeres (8,4% y 1,2% para dapagliflozina y el placebo, respectivamente), y los pacientes con una historia previa tenían más probabilidades de tener una infección recurrente.
+Fascitis necrotizante del perineo (gangrenas de Fournier).
+Se han notificado casos de gangrena de Fournier después de la comercialización en pacientes que toman inhibidores de SGLT2, incluyendo dapagliflozina.
+
+Hipoglucemia
+La frecuencia de hipoglucemia dependió del tipo de tratamiento de base utilizado en los estudios clínicos en diabetes mellitus.
+Para estudios de dapagliflozina en monoterapia, de adición a metformina o de adición a sitagliptina (con o sin metformina), la frecuencia de episodios menores de hipoglucemia fue similar entre los distintos grupos de tratamiento (< 5%), incluido el grupo placebo hasta la semana 102 de tratamiento. En todos los estudios, los episodios mayores de hipoglucemia fueron poco frecuentes y se repartieron de manera equitativa entre los grupos de dapagliflozina y el placebo. En los estudios sobre la adición de dapagliflozina a una sulfonilurea o insulina, fue mayor la incidencia de hipoglucemia.
+
+Hipovolemia
+En 13 estudios clínicos controlados de eficacia y seguridad sugieren la reacción adversa de hipovolemia (incluyendo los casos de deshidratación, hipovolemia o hipotensión) fue del 1.1% en el grupo tratado con 10 mg de dapagliflozina y del 0.7% en el grupo placebo; menos del 0.2% de los pacientes presentaron reacciones adversas graves, que se repartieron equitativamente entre el grupo tratado con 10 mg de dapagliflozina y el grupo placebo.
+
+Cetoacidosis diabética en diabetes mellitus tipo 2.
+Los factores precipitantes para la CAD fueron los esperados en una población con diabetes mellitus tipo 2.
+
+Infecciones urinarias
+En 13 estudios clínicos controlados de eficacia y seguridad las infecciones urinarias fueron más frecuentes en el grupo tratado con 10 mg de dapagliflozina que en el grupo placebo
+(4.7% frente al 3.5%, respectivamente). La mayoría de las infecciones fueron de intensidad leve a moderada, respondieron a un ciclo inicial de tratamiento convencional y sólo en raras ocasiones provocaron la suspensión del tratamiento con dapagliflozina. Estas infecciones fueron más frecuentes en las mujeres y la probabilidad de una infección recurrente fue mayor en los pacientes que tenían antecedentes de estas infecciones.
+
+Aumento de la creatinina
+Las reacciones adversas al medicamento relacionadas con el aumento de creatinina fueron agrupadas (disminución del clearence renal de creatinina, insuficiencia renal, incremento de la creatinina sérica, descenso de la tasa de filtración glomerular). En el grupo de seguridad de 13 estudios, esta agrupación de reacciones se notificó en 3.2% del grupo de pacientes tratados con 10 mg de dapagliflozina, y en 1.8% del grupo de pacientes tratados con placebo. En pacientes con función renal normal o insuficiencia renal leve (valor inicial de TFGe ≥ 60 ml/min/1,73m2) esta agrupación de reacciones adversas se notificó en 1.3% del grupo de pacientes tratados con 10 mg de dapagliflozina, y en 0.8% del grupo de pacientes tratados con placebo, estas reacciones fueron más comunes en pacientes con un valor inicial de TFGe ≥ 30 y < 60 ml/min/1,73m2 (18,5% dapagliflozina 10 mg frente a 9.3% con placebo).
+Una evaluación adicional de los pacientes que presentaban acontecimientos adversos relacionados con el riñón mostró que la mayoría presentaba cambios en la creatinina sérica de ≤ 0.5 mg/dl desde el valor inicial. Los aumentos en la creatinina fueron generalmente transitorios durante el tratamiento continuado o reversible después de la interrupción del tratamiento.
+
+SOBREDOSIFICACIÓN
+Dapagliflozina no mostró ningún indicio de toxicidad en voluntarios sanos, con dosis únicas de hasta 500 mg (50 veces la dosis máxima recomendada en el ser humano). Se detectó la presencia de glucosa en la orina de estos pacientes durante un período que dependió de la dosis administrada (al menos 5 días con la dosis de 500 mg), sin que se notificaran casos de deshidratación, hipotensión o desequilibrio electrolítico, y sin efectos de importancia clínica en el intervalo QTc. La incidencia de hipoglucemia fue similar a la registrada con un placebo.
+En los estudios clínicos en los que se administraron dosis de hasta 100 mg una vez al día (10 veces la dosis máxima recomendada en el ser humano) durante 2 semanas a voluntarios sanos y a pacientes con diabetes tipo 2, la incidencia de hipoglucemia fue ligeramente mayor que con el placebo y no dependió de la dosis. Las incidencias de reacciones adversas de deshidratación o hipotensión fueron similares a las registradas con el placebo, y no hubo variaciones de importancia clínica en función de la dosis en los parámetros de laboratorio tales como las concentraciones séricas de electrolitos y biomarcadores de la función renal.
+En caso de sobredosis, debe administrarse un tratamiento de apoyo adecuado que depende del estado clínico del paciente. No se ha investigado la eliminación de dapagliflozina mediante hemodiálisis.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Esta especialidad medicinal está libre de gluten.
+
+m m
+0
+0
+6
+
+5
+
+NEDAL® 10
+
+DAPAGLIFLOZINA
+(como Propanodiol monohidrato) 10,000 mg
+
+COMPRIMIDOS
+RECUBIERTOS
+
+Venta Bajo Receta
+
+       Industria Argentina
+
+FÓRMULA
+Cada comprimido recubierto contiene:
+DAPAGLIFLOZINA (como Propanodiol monohidrato) 10,000 mg. Excipientes: Celulosa Microcristalina 218,700 mg; Povidona K-30 8,400 mg; Croscarmelosa Sódica 14,000 mg;
+Crospovidona 22,400 mg; Dióxido de silicio coloidal 1,400 mg; Estearato de magnesio 2,800 mg; Óxido de Hierro amarillo 0,060 mg; Opadry II Blanco 5,940 mg (Alcohol Polivinílico parcialmente hidrolizado 2,376 mg; Dióxido de titanio 1,485 mg; Polietilenglicol 3000 1,200 mg; Talco 0,879 mg).
+
+ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: Fármacos usados en diabetes, Inhibidores del cotransportador de sodio-glucosa 2 (SGLT2).
+
+Código ATC: A10BK01
+
+INDICACIONES
+Diabetes mellitus tipo 2:
+NEDAL está indicado para mejorar el control glucémico en adultos con diabetes tipo 2, como complemento de la dieta y el ejercicio.
+- En Monoterapia cuando la metformina se considera inadecuada debido a la intolerancia.
+- Además de otros medicamentos para el tratamiento de la diabetes tipo 2.
+
+Insuficiencia cardíaca
+NEDAL está indicado en adultos para el tratamiento de la insuficiencia cardíaca crónica sintomática con reducción de fracción de eyección.
+
+ACCIÓN FARMACOLÓGICA
+Propiedades farmacodinámicas
+Modo de acción
+Dapagliflozina es un inhibidor extremadamente potente (Ki: 0.55 nM), selectivo y reversible del cotransportador 2 de sodio - glucosa (SGLT2).
+La inhibición de SGLT2 por dapagliflozina reduce la reabsorción de glucosa del filtrado glomerular en el túbulo renal proximal con una reducción concomitante de la reabsorción de sodio que conduce a excreción de glucosa y diuresis osmótica. Por tanto, dapagliflozina aumenta la llegada de sodio al túbulo distal, donde se cree que aumenta la retroalimentación tubuloglomerular y reduce la presión intraglomerular. Los efectos secundarios de la inhibición de SGLT2 con dapagliflozina también incluyen una modesta reducción en presión arterial, reducción del peso corporal y aumento del hematocrito. Los beneficios cardio-renales de dapagliflozina no depende únicamente del efecto hipoglucemiante y no se limita a los pacientes con diabetes.
+
+Dapagliflozina mejora tanto la glucemia en ayunas como la glucemia posprandial reduciendo la reabsorción renal de glucosa y provocando su excreción en la orina.
+Esta excreción de glucosa (efecto glucosúrico) se observa desde la administración de la primera dosis, continúa durante el intervalo de administración de 24 horas y se mantiene durante todo el período de tratamiento. La cantidad de glucosa eliminada por los riñones a través de este mecanismo depende de la concentración de glucosa en la sangre (glucemia)
+y de la TFG. Así, en sujetos con glucosa normal, la dapagliflozina tiene una baja propensión a causar hipoglucemia. Dapagliflozina no altera la producción endógena normal de glucosa en respuesta a la hipoglucemia. El efecto de dapagliflozina es independiente de la secreción y acción de la insulina. En los estudios clínicos de dapagliflozina se ha observado que la función de las células beta evaluada con el modelo de homeostasis (HOMA) mejora con el tiempo.
+
+El SGLT2 se expresa selectivamente en los riñones, Dapagliflozina no inhibe otras sustancias importantes para el transporte de la glucosa en los tejidos periféricos, y su efecto en el SGLT2 es muy selectivo, siendo más de 1400 veces mayor que su efecto en el SGLT1, que es el principal transportador responsable de la absorción de glucosa en el intestino.
+
+Efectos farmacodinámicos
+Después de la administración de dapagliflozina se observaron aumentos de la cantidad de glucosa excretada en la orina tanto en voluntarios sanos como en pacientes con diabetes tipo 2. Los pacientes con diabetes tipo 2 excretaron aproximadamente 70 gramos al día de glucosa en la orina (lo que corresponde a 280 kcal/día) durante el tratamiento con 10 mg de dapagliflozina al día durante 12 semanas. Se comprobó la excreción sostenida de glucosa en pacientes con diabetes tipo 2 tratados con 10 mg al día de dapagliflozina durante un período de hasta 2 años.
+Esta excreción urinaria de glucosa inducida por dapagliflozina también provoca diuresis osmótica y aumentos del volumen de orina en pacientes con diabetes tipo 2.
+En pacientes con diabetes tipo 2 tratados con una dosis de dapagliflozina de 10 mg, tales aumentos del volumen de orina se mantuvieron después de 12 semanas y ascendieron a aproximadamente 375 ml al día. El aumento del volumen de orina se acompañó de un aumento pequeño y transitorio de la natriuresis, sin modificaciones de las concentraciones séricas de sodio.
+La excreción urinaria de ácido úrico también aumentó de manera transitoria (entre 3 y 7 días)
+y se acompañó de una reducción de la concentración sérica de ácido úrico.
+Después de 24 semanas, las disminuciones de las concentraciones séricas de ácido úrico fluctuaron entre -48.3 y -18.3 micromoles/litro (entre -0.87 mg/dl y -0.33 mg/dl).
+
+Eficacia y seguridad clínica
+Diabetes mellitus tipo 2
+Tanto la mejora del control glucémico como la reducción de la morbilidad y mortalidad cardiovascular son una parte integral del tratamiento de la diabetes tipo 2.
+
+FARMACOCINÉTICA
+Absorción
+Después de su administración oral, dapagliflozina mostró una absorción buena y rápida. En general, las concentraciones plasmáticas máximas de dapagliflozina (Cmax) se alcanzaron en un plazo de 2 horas después de la administración en ayunas.
+En el estado de equilibrio, las medias geométricas de Cmax y ABCt (área bajo la curva de concentraciones plasmáticas en función del tiempo) fueron de 158 ng/ml y 628 ng h/ml, respectivamente, tras la administración de dosis de dapagliflozina de 10 mg una vez al día.
+La biodisponibilidad oral absoluta de dapagliflozina es del 78% tras la administración de una dosis de 10 mg. La administración de dapagliflozina junto con una comida con un alto contenido de lípidos redujo la Cmax hasta un 50% y prolongó el Tmax aproximadamente
+1 hora, sin modificar el ABC con respecto a la administración en ayunas. Se considera que estos cambios carecen de importancia clínica y que NEDAL puede tomarse con o sin alimentos.
+Distribución
+Dapagliflozina se une aproximadamente un 91% a las proteínas. La unión a las proteínas no se vio afectada por distintos estados patológicos (por ejemplo, disfunción renal o hepática). El volumen de distribución medio de dapagliflozina fue de 118 litros en el estado de equilibrio.
+Biotransformación
+Dapagliflozina es objeto de un extenso metabolismo que da lugar básicamente a la formación del metabolito inactivo 3-O-glucurónido de dapagliflozina. Ni el 3-O-glucurónido de dapagliflozina ni otros metabolitos contribuyen a los efectos hipoglucemiantes del medicamento. La formación del 3-O-glucurónido de dapagliflozina es mediada por la enzima
+UGT1A9 presente en el hígado y los riñones, y el metabolismo mediado por el citocromo P 450 (CYP) representa una vía de eliminación poco importante en el ser humano.
+Eliminación
+La vida media terminal plasmática (t1⁄2) de dapagliflozina fue de 12.9 horas en promedio tras la administración de una dosis oral única de 10 mg de dapagliflozina a voluntarios sanos. La depuración sistemática total media de dapagliflozina administrada por vía intravenosa fue de 207 ml/minuto. Dapagliflozina y sus metabolitos relacionados se eliminan básicamente por excreción urinaria, mientras que menos del 2% se elimina en forma de dapagliflozina intacta.
+
+Después de la administración de 50 mg de [14C]- dapagliflozina, se recuperó el 96% de la dosis: el 75% en la orina y el 21% en las heces. En las heces, alrededor del 15% de la dosis se excretó en forma del fármaco original.
+Linealidad
+La exposición a dapagliflozina aumentó proporcionalmente a la dosis entre 0.1 y 500 mg, y su farmacocinética no varió en función del tiempo tras la administración diaria durante un período de hasta 24 semanas.
+Poblaciones especiales
+Disfunción renal
+En el estado de equilibrio (20 mg de dapagliflozina una vez al día durante 7 días), los pacientes con diabetes tipo 2 y disfunción renal leve, moderada o grave (determinada por la depuración plasmática de iohexol) presentaron exposiciones sistémicas medias a dapagliflozina un 32%, un 60% y un 87% mayores, respectivamente, que los pacientes con diabetes tipo 2 y una función renal normal. La excreción urinaria de glucosa en 24 horas en el estado de equilibrio dependió en gran medida de la función renal, y los pacientes con diabetes tipo 2 y una función renal normal o con disfunción renal leve, moderada o grave excretaron 85, 52, 18 y 11 gramos de glucosa al día, respectivamente. Se desconocen los efectos de la hemodiálisis en la exposición a dapagliflozina.
+Disfunción hepática
+En pacientes con disfunción hepática leve o moderada (clases A y B según la escala de Child- Pugh), los valores medios de Cmax y ABC de dapagliflozina aumentaron un 12% y un 36%, respectivamente, frente a los de controles sanos equiparados. Se considera que estas diferencias carecen de importancia clínica. En pacientes con disfunción hepática grave (clase C según la escala de Child-Pugh), los valores medios de Cmax y ABC de dapagliflozina aumentaron un 40% y un 67%, respectivamente, con respecto a los de controles sanos equiparados.
+Pacientes de edad avanzada (≥ 65 años)
+La edad en sí, hasta los 70 años, no produce un aumento de importancia clínica de la exposición. No obstante, es probable que aumente la exposición debido a la disminución de la función renal asociada con la edad. No se dispone de datos suficientes para sacar conclusiones sobre la exposición en pacientes mayores de 70 años.
+Población pediátrica
+No se ha estudiado la farmacocinética de dapagliflozina en la población pediátrica.
+Sexo
+Se estima que el ABCss media de dapagliflozina en mujeres es aproximadamente un 22% mayor que en varones.
+Raza
+No existen diferencias de exposición que revistan alguna importancia clínica entre pacientes de raza blanca, de raza negra o asiáticos.
+Peso corporal
+Se determinó que la exposición a dapagliflozina disminuye en los pacientes con un mayor peso corporal. Por consiguiente, los pacientes de bajo peso pueden mostrar una exposición un poco mayor y los pacientes de mayor peso una pequeña disminución de la exposición.
+Sin embargo, se considera que estas diferencias de exposición carecen de importancia clínica.
+
+Datos preclínicos sobre seguridad
+Los datos preclínicos obtenidos en estudios convencionales de seguridad farmacológica, toxicidad tras dosis repetidas, genotoxicidad, potencial cancerígeno y fecundidad, no revelan ningún riesgo especial para el ser humano. Dapagliflozina no produjo tumores ni en ratones ni en ratas con ninguna de las dosis examinadas en los estudios de 2 años de duración sobre el poder cancerígeno.
+Toxicidad para la reproducción y el desarrollo La administración directa de dapagliflozina a ratas jóvenes recién destetadas y la exposición indirecta durante la última fase del embarazo (período correspondiente al segundo y tercer trimestre de la gestación con respecto a la maduración renal humana) y la lactancia, se asocian, cada una, con un aumento de la incidencia y/o intensidad de dilataciones pélvicas y tubulares renales en las crías.
+En un estudio de toxicidad en ratas jóvenes en el que dapagliflozina se administró directamente desde el día posnatal 21 hasta el día posnatal 90, se observaron dilataciones pélvicas y tubulares renales con todas las dosis; con la dosis más baja examinada, las exposiciones de las crías fueron ≥ 15 veces la dosis máxima recomendada para el ser humano.
+Estos hallazgos se acompañaron de aumentos del peso de los riñones y de hipertrofia renal macroscópica, en función de la dosis, con todos los niveles de dosis examinados.
+Las dilataciones pélvicas y tubulares renales observadas en animales jóvenes no fueron totalmente reversibles durante el período de recuperación de aproximadamente 1 mes.
+En un estudio separado sobre el desarrollo prenatal y posnatal también se administró dapagliflozina a ratas hembras desde el día 6 hasta el día 21 de la gestación y las crías fueron expuestas indirectamente in útero y a través de la lactancia. (Se llevó a cabo un estudio satélite para evaluar la excreción de dapagliflozina en la leche y la exposición de las crías).
+Se observó un aumento de la incidencia o intensidad de dilataciones pélvicas renales en la progenie adulta de las ratas tratadas, aunque sólo con la dosis máxima examinada (las exposiciones asociadas de las madres y de las crías fueron, respectivamente, de 1415 y 137 veces la exposición humana correspondiente a la dosis máxima recomendada). Los demás efectos tóxicos en el desarrollo se limitaron a reducciones del peso corporal de las crías en función de la dosis, pero solamente con dosis ≥ 15 mg/kg/día (asociadas con exposiciones de las crías ≥ 29 veces la exposición humana correspondiente a la dosis máxima recomendada).
+La toxicidad materna, que se observó únicamente con la máxima dosis examinada, se limitó a reducciones pasajeras del peso corporal y del consumo de alimentos al principio del tratamiento. El grado de exposición (NOAEL) en el que no se observaron efectos tóxicos en el desarrollo, que corresponde a la dosis más baja examinada, se asocia con una exposición sistémica de las madres de aproximadamente 19 veces la exposición humana correspondiente a la dosis máxima recomendada.
+En otros estudios sobre el desarrollo embrionario y fetal en ratas y conejos, dapagliflozina se administró durante los intervalos correspondientes a los períodos de organogénesis más importantes de cada especie. En conejos no se observaron efectos tóxicos ni en las madres ni en el desarrollo con ninguna de las dosis examinadas; la dosis máxima examinada produjo una exposición sistémica de aproximadamente 1191 veces la exposición humana correspondiente a la dosis máxima recomendada. En ratas, dapagliflozina no tuvo efectos embrioletales ni teratógenos con exposiciones de hasta 1441 veces la exposición correspondiente a la dosis máxima recomendada.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Posología Diabetes tipo 2:
+Se recomienda la dosis de dapagliflozina de 10 mg una vez al día.
+Cuando dapagliflozina se coadministra con insulina o con un secretagogo de insulina, por ejemplo, una sulfonilurea, puede administrarse una dosis menor de insulina o del secretagogo para reducir el riesgo de hipoglucemia (véanse las secciones Interacciones con otros medicamentos y otras formas de interacción y Reacciones adversas).
+Insuficiencia cardíaca
+La dosis recomendada es de 10 mg de dapagliflozina una vez al día.
+Poblaciones especiales
+Tratamiento de la diabetes mellitus en pacientes con insuficiencia renal No se requiere ajuste de dosis basada en la función renal.
+Dado que la eficacia glucémica depende de la función renal, no debe iniciarse el tratamiento con NEDAL para mejorar el control glucémico en pacientes con una tasa de filtración glomerular [TFG] <60 ml / min y debe suspenderse a TFG persistentemente por debajo de 45 ml / min.
+Tratamiento de la insuficiencia cardíaca en pacientes con insuficiencia renal No se requiere ajuste de dosis basada en la función renal.
+Disfunción hepática
+No es necesario ajustar la dosis en pacientes con disfunción hepática leve o moderada.
+En pacientes con disfunción hepática grave se recomienda una dosis inicial de 5 mg. Si el paciente tolera bien esta dosis, puede aumentarse hasta 10 mg cuando se indique.
+Pacientes de edad avanzada (≥ 65 años)
+No se recomienda ajustar la dosis en función de la edad de los pacientes.
+Niños
+Aún no se han demostrado la seguridad y la eficacia de dapagliflozina en niños entre 0 y < 18 años. No se dispone de información al respecto.
+Modo de administración
+NEDAL puede tomarse una vez al día a cualquier hora por vía oral, con alimentos o sin ellos.
+Los comprimidos deben ingerirse enteros.
+
+1
+
+2
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo o a cualquiera de los excipientes.
+
+ADVERTENCIAS Y PRECAUCIONES
+Tratamiento de la diabetes mellitus
+La eficacia glucémica de dapagliflozina depende de la función renal, y la eficacia se reduce en pacientes que tienen insuficiencia renal moderada y es probable que esté ausente en pacientes con insuficiencia renal grave. En pacientes con disfunción renal moderada (TFG
+< 60 ml/min una mayor proporción de pacientes tratados con dapagliflozina presentaron reacciones adversas de hipotensión y de elevación de las concentraciones de creatinina, fósforo o paratohormona (PTH), en comparación con placebo.
+Para mejorar el control glucémico en el tratamiento de la diabetes mellitus, no se recomienda el uso de NEDAL en pacientes con disfunción renal moderada a grave (TFG < 60 ml/min y debe interrumpirse a TFG persistentemente por debajo de 45 ml/min. NEDAL no se ha estudiado en insuficiencia renal grave (TFG <30 ml/min) o enfermedad renal en etapa terminal (ESRD).
+Se recomienda efectuar una supervisión de la función renal en los siguientes casos:
+• Antes de iniciar el tratamiento con dapagliflozina y luego al menos una vez al año.
+• Antes de iniciar un tratamiento con medicamentos concomitantes que podrían alterar la función renal, y luego de manera periódica.
+• Si el estado del paciente tiende a una disfunción renal moderada, al menos 2 a 4 veces al año.
+Tratamiento de la insuficiencia cardíaca Existe experiencia limitada con dapagliflozina para el tratamiento de la insuficiencia cardíaca en pacientes con insuficiencia renal (TFG <30 ml/min). La dapagliflozina debe usarse con precaución en estos pacientes.
+En pacientes tratados con dapagliflozina tanto por insuficiencia cardíaca como por diabetes mellitus tipo 2, debe considerarse el tratamiento hipoglucemiante si la TFG desciende de forma persistente por debajo de 45 ml/min.
+Uso en pacientes con disfunción hepática Es escasa la experiencia adquirida en estudios clínicos en pacientes con disfunción hepática.
+La exposición a dapagliflozina es mayor en los pacientes con disfunción hepática grave.
+Uso en pacientes con riesgo de hipotensión Debido a su modo de acción, dapagliflozina aumenta la diuresis, lo que puede conducir a una ligera reducción de la presión arterial observada en estudios clínicos (véase la sección Propiedades farmacodinámicas), puede ser más pronunciada en pacientes con hiperglucemia muy marcada.
+Debe tenerse cautela si la reducción de la presión arterial provocada por dapagliflozina podría plantear un riesgo, por ejemplo, pacientes con antecedentes de hipotensión al recibir un tratamiento antihipertensivo o en pacientes de edad avanzada.
+Cetoacidosis diabética
+Los inhibidores del cotransportador de sodio-glucosa 2 (SGLT2) deben usarse con precaución en pacientes con mayor riesgo de CAD. Los pacientes que pueden estar en mayor riesgo de CAD incluyen pacientes con una baja reserva de función de células beta
+(p. ej., pacientes con diabetes tipo 1, pacientes con diabetes tipo 2 con péptido C bajo o diabetes autoinmune latente en adultos (LADA) o pacientes con antecedentes de pancreatitis), pacientes con condiciones que conducen a una ingesta restringida de alimentos o deshidratación severa, pacientes para quienes se administran dosis de insulina reducida y pacientes con mayores requerimientos de insulina debido a enfermedad médica aguda, cirugía o abuso de alcohol.
+El riesgo de cetoacidosis diabética se debe considerar en el caso de síntomas inespecíficos tales como náuseas, vómitos, anorexia, dolor abdominal, sed excesiva, dificultad respiratoria, confusión, fatiga o somnolencia inusuales. Si estos síntomas aparecen, se debe evaluar de forma inmediata a los pacientes para valorar si se trata de una cetoacidosis, independientemente de los niveles de glucosa en sangre.
+En pacientes dónde se sospecha o diagnostica CAD, se debe de interrumpir inmediatamente el tratamiento con dapagliflozina.
+Se debe de interrumpir el tratamiento en pacientes que están hospitalizados por un procedimiento quirúrgico mayor o enfermedades agudas graves. En ambos casos, el tratamiento con dapagliflozina se puede reanudar una vez que el estado del paciente se haya estabilizado.
+Diabetes mellitus tipo 2
+Se han notificado casos raros de cetoacidosis diabética (CAD), incluyendo casos potencialmente mortales, en pacientes tratados con inhibidores de la SGLT2, incluida dapagliflozina, en ensayos clínicos y tras la comercialización. En varios casos, la presentación del cuadro clínico fue atípico con ascenso moderado de los niveles de glucosa en sangre, por debajo de 14 mmol/l (250 mg/dl). Se desconoce si es más probable que la CAD ocurra con dosis más elevadas de dapagliflozina.
+En pacientes donde se sospecha o se diagnostica CAD, se debe suspender el tratamiento con dapagliflozina inmediatamente.
+No se recomienda reanudar el tratamiento con un inhibidor SGLT2 en los pacientes tratados con el inhibidor de SGLT2 con CAD, a no ser que haya identificado y resuelto otro factor desencadenante claro.
+Fascitis necrotizante perineal (gangrena de Fournier)
+Se han notificado casos posteriores a la comercialización de fascitis necrotizante del perineo (también conocida como gangrena de Fournier) en pacientes de sexo femenino y masculino que toman inhibidores de SGLT2. Este es un evento raro pero grave y potencialmente mortal que requiere intervención quirúrgica urgente y tratamiento con antibióticos.
+Se debe aconsejar a los pacientes que busquen atención médica si experimentan una combinación de síntomas de dolor, sensibilidad, eritema o inflamación en el área genital o perineal, con fiebre o malestar. Tenga en cuenta que la infección urogenital o el absceso perineal pueden preceder a la fascitis necrotizante. Si se sospecha gangrena de Fournier, se debe suspender la administración de NEDAL y debe instituirse de recibir un tratamiento inmediato (incluyendo antibióticos y el desbridamiento quirúrgico).
+Infecciones del tracto urinario
+La excreción urinaria de glucosa puede asociarse con un aumento del riesgo de infección urinaria; por lo tanto, debe considerarse la posibilidad de interrumpir temporalmente dapagliflozina durante el tratamiento de la pielonefritis o la urosepsis.
+Insuficiencia cardíaca
+La experiencia en estudios clínicos con dapagliflozina en la clase IV de la NYHA es limitada.
+Amputaciones de miembros inferiores
+Se ha observado un aumento de casos de amputación de miembros inferiores (principalmente del dedo del pie) en ensayos clínicos en diabetes mellitus tipo 2 a largo plazo en curso con otro inhibidor SGLT2. Se desconoce si esto constituye un efecto de clase. Es importante aconsejar a los pacientes acerca del cuidado rutinario preventivo de los pies.
+Análisis de orina
+En vista del modo de acción de NEDAL, se detectará la presencia de glucosa en la orina de los pacientes tratados con este medicamento.
+Interacciones medicamentosas
+Interacciones farmacodinámicas
+Diuréticos
+Dapagliflozina podría potenciar el efecto diurético de las tiazidas y de los diuréticos de asa y aumentar el riesgo de deshidratación e hipotensión (véase la sección Advertencias y precauciones especiales de uso).
+Insulina y secretagogos de insulina
+La insulina y los secretagogos de insulina, como las sulfonilureas, causan hipoglucemia. En consecuencia, en caso de coadministración con dapagliflozina, puede ser necesario reducir la dosis de insulina o del secretagogo de insulina para limitar el riesgo de hipoglucemia en pacientes con diabetes tipo 2 (véanse las secciones Posología y forma de administración y Reacciones adversas).
+Interacciones farmacocinéticas
+El metabolismo de dapagliflozina consiste básicamente en glucuronidación dependiente de la UDP glucuronosiltransferasa 1A9 (UGT1A9).
+En estudios in vitro, dapagliflozina no inhibió las siguientes formas del citocromo P450 (CYP):
+CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, y no indujo las formas CYP1A2, CYP2B6 o CYP3A4. En consecuencia, se prevé que dapagliflozina no alterará la depuración metabólica de los fármacos coadministrados cuyo metabolismo depende de estas enzimas.
+Efectos de otros fármacos en dapagliflozina Los estudios de interacciones realizados en voluntarios sanos, durante los cuales se administraron principalmente dosis únicas, indican que los siguientes fármacos no alteran la farmacocinética de dapagliflozina: metformina, pioglitazona, sitagliptina, glimepirida, voglibosa, hidroclorotiazida, bumetanida, valsartán y simvastatina.
+Tras la coadministración de dapagliflozina con la rifampicina (un inductor de distintos transportadores activos y de enzimas que metabolizan medicamentos) se observó una disminución del 22% de la exposición sistémica a dapagliflozina (ABC), aunque no se
+
+3
+
+observó un efecto de importancia clínica en la excreción urinaria de glucosa de 24 horas.
+No es necesario ajustar la dosis. No se anticipa ningún efecto de importancia clínica con otros inductores (por ejemplo, carbamazepina, fenitoína, fenobarbital).
+Tras la coadministración de dapagliflozina con el ácido mefenámico (un inhibidor de UGT1A9) se observó un aumento del 55% de la exposición sistémica a dapagliflozina, aunque no se observó un efecto de importancia clínica en la excreción urinaria de glucosa de 24 horas. No es necesario ajustar la dosis de dapagliflozina.
+Efecto de dapagliflozina en otros fármacos En los estudios de interacciones realizados en voluntarios sanos, durante los cuales se administraron principalmente dosis únicas, dapagliflozina no alteró la farmacocinética de los siguientes fármacos: metformina, pioglitazona, sitagliptina, glimepirida, hidroclorotiazida, bumetanida, valsartán, digoxina (sustrato de la glucoproteína P) y warfarina (S-warfarina, sustrato de la CYP2C9); dapagliflozina tampoco alteró el efecto anticoagulante de la warfarina medido por el índice normalizado internacional [INR]. La coadministración de una dosis única de dapagliflozina de 20 mg y de simvastatina (un sustrato de CYP3A4) elevó un 19% el ABC de la simvastatina y un 31% el ABC del ácido de simvastatina. Se considera que la elevación de las exposiciones a la simvastatina y al ácido de simvastatina carece de importancia clínica.
+Interferencia con el ensayo de 1,5-anhidroglucitol (1,5-AG)
+No se recomienda controlar el control glucémico con el ensayo 1,5-AG, ya que las mediciones de 1,5-AG no son confiables para evaluar el control glucémico en pacientes que toman inhibidores de SGLT2. Se aconseja el uso de métodos alternativos para controlar el control glucémico.
+Embarazo
+Se carece de información sobre el uso de dapagliflozina en mujeres embarazadas. Estudios en ratas revelaron una toxicidad de dapagliflozina en el riñón en desarrollo durante el período correspondiente al segundo y tercer trimestre de la gestación humana (véase la sección
+Datos de seguridad preclínica). Por consiguiente, no se recomienda utilizar dapagliflozina durante el segundo y tercer trimestre de embarazo.
+Si se detecta un embarazo, debe suspenderse el tratamiento con dapagliflozina.
+Lactancia
+No se sabe si dapagliflozina y/o sus metabolitos se excretan en la leche materna humana.
+Los datos toxicológicos y farmacodinámicos en animales han demostrado que dapagliflozina y sus metabolitos sí se excretan en la leche y ejercen efectos farmacológicos en los animales lactantes (véase la sección Datos de seguridad preclínica). Como no se puede descartar un riesgo para los recién nacidos o lactantes, las mujeres que amamantan no deben utilizar dapagliflozina.
+Fertilidad
+No se ha estudiado el efecto de dapagliflozina en la fecundidad de seres humanos. En ratas no se detectó ningún efecto en la fecundidad de machos y hembras, independientemente de la dosis de dapagliflozina administrada.
+Uso en Pediatría
+Sólo se han realizado estudios de interacciones en adultos.
+Efectos en la capacidad para conducir o utilizar máquinas NEDAL no afecta, o sólo de manera insignificante, la capacidad para conducir y utilizar máquinas. Se debe alertar a los pacientes sobre el riesgo de hipoglucemia al coadministrar dapagliflozina con una sulfonilurea o con insulina.
+Incompatibilidades: No aplica.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad.
+Diabetes tipo 2
+En estudios clínicos en diabetes tipo 2, más de 15,000 pacientes han sido tratados con dapagliflozina.
+La evaluación primaria de seguridad y tolerabilidad se realizó en un análisis agrupado predefinido de 13 estudios clínicos controlados con placebo a corto plazo, (hasta 24 semanas) con 2360 pacientes recibieron 10 mg de dapagliflozina y 2295 fueron tratados con placebo.
+En el estudio de resultados cardiovasculares de dapagliflozina en diabetes mellitus tipo 2, 8.574 pacientes recibieron 10 mg de dapagliflozina y 8.569 recibieron placebo durante un tiempo medio de exposición de 48 meses. En total, hubo 30.623 pacientes-años de exposición a dapagliflozina. La reacción adversa más frecuente en los estudios clínicos fueron las infecciones genitales.
+Insuficiencia cardíaca.
+En el estudio de resultados cardiovasculares de dapagliflozina en pacientes con insuficiencia cardíaca con eyección reducida fracción, 2.368 pacientes fueron tratados con dapagliflozina
+10 mg y 2.368 pacientes con placebo durante un tiempo medio de exposición de 18 meses.
+La población de pacientes incluyó pacientes con diabetes mellitus tipo 2 y sin diabetes, y pacientes con TFGe ≥ 30 ml / min / 1,73 m2.
+El perfil de seguridad global de dapagliflozina en pacientes con insuficiencia cardíaca fue consistente con el conocido perfil de seguridad de dapagliflozina.
+Lista de reacciones adversas
+Las reacciones adversas descritas a continuación se identificaron durante los estudios clínicos controlados con placebo y post-comercialización. Ninguna mostró alguna relación con la dosis administrada. Las reacciones adversas se clasificaron por clases de trastornos
+(por órgano y sistema) y las categorías de frecuencia se definieron de la siguiente manera:
+reacciones muy frecuentes (≥1/10), frecuentes (≥1/100, <1/10), poco frecuentes (≥1/1.000, <1/100), raras (≥1/10.000, <1/1.000), muy raras (<1/10.000), y de frecuencia desconocida
+(imposible de calcular a partir de los datos disponibles).
+
+Reacciones adversas observadas en estudios clínicos controlados con placebos y experiencia post comercialización
+
+Clase de trastornos
+(por órgano y sistema)
+
+Infecciones e infestaciones
+
+Trastornos del metabolismo y de la nutrición
+
+Trastornos del sistema nervioso
+Trastornos gastrointestinales
+
+Trastornos de la piel y del tejido subcutáneo
+Trastornos de la
+
+piel y del tejido subcutáneo
+
+Trastornos osteomusculares y del tejido conjuntivo
+Trastornos renales y urinarios
+Trastornos del sistema reproductor y de las mamas
+Exploraciones complementarias
+
+Muy frecuentes
+
+Frecuentes*
+
+Poco frecuentes**
+
+Raras
+
+Vulvovaginitis, balanitis e infecciones genitales relacionadasb,c
+Infección urinariab,d
+
+Infección por hongos**
+
+Hipoglucemia
+(en caso de coadministración con una SU o insulina)b
+
+Hipovolemiab,e
+Sensación de sed**
+
+Cetoacidosis diabética
+(cuando se usa en
+
+diabetes tipo 2 mellitus) b, i, k
+
+Mareos
+
+Erupciónj k
+
+Lumbalgia*
+
+Disuria
+Poliuria*,f
+
+Elevación del hematocrito
+Disminución del aclaramiento renal de creatinina durante el inicio del tratamientob
+Dislipemiah
+
+Estreñimiento**
+Sequedad de boca**
+
+Hiperhidrosis
+
+Nicturia**
+
+Prurito vulvovaginal**
+Prurito genital**
+Elevación de la
+Creatininemia durante  el inicio del tratamiento**,b
+Elevación de la concentración de urea en sangre**
+Disminución de peso**
+
+a La tabla muestra datos que abarcan un período de hasta 24 semanas (corto plazo), independientemente del rescate glucémico.
+
+4
+
+7
+
+PRESENTACIÓN
+Envases con 30 comprimidos recubiertos.
+
+Fecha de última revisión: Enero de 2023.
+
+FORMA DE CONSERVACIÓN
+- Conservar en lugar seco, desde 15 °C hasta 25 °C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+ESPECIALIDAD MEDICINAL AUTORIZADA POR EL MINISTERIO DE SALUD DE LA NACIÓN.
+Certificado N° 59.824
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires, Argentina.
+
+m m
+0
+0
+6
+
+6
+
+8
+
+E-5360-01 / D5695 / Act.: 01/2023

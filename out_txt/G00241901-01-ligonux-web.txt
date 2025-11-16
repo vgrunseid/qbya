@@ -1,0 +1,465 @@
+LIGONUX®
+NUSINERSEN 12 mg / 5ml
+
+Solución para inyección intratecal
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICION
+
+Cada vial de 5 ml de LIGONUX® contiene:
+Nusinersen (como nusinersen sódico 12,65 mg) .....................12,00 mg Calcio cloruro dihidrato ................................................................1,050 mg
+Cloruro de magnesio hexahidratado......................................... 0,800 mg Cloruro de potasio ........................................................................1,100 mg
+Cloruro de sodio .........................................................................43,850 mg Fosfato de sodio dibásico anhidro ............................................. 0,500 mg
+Fosfato de sodio monobásico dihidrato .....................................0,250 mg Hidróxido de sodio/ Ácido clorhídrico .......................................csp pH 7,2
+Agua para inyectables .................................................................... csp 5 ml
+
+ACCIÓN TERAPÉUTICA
+
+NUSINERSEN es de un grupo de medicamentos llamados oligonucleótidos antisentido (OAS)
+Código ATC: M09AX07
+
+INDICACIONES
+
+LIGONUX®  está  indicado  para  el  tratamiento  de  la  atrofia  muscular espinal 5q.
+
+PROPIEDADES FARMACOLÓGICAS:
+
+Mecanismo de acción
+Nusinersen  es  un  oligonucleótido  antisentido  (ASO)  que  aumenta  la proporción de inclusión del exón 7 en neuronas motoras de supervivencia 2 (SMN2) transcriptos de ácido ribonucleico mensajero (mRNA) uniéndose a un sitio de amortiguamiento de empalme intrónico (ISS-N1)
+encontrado en el intrón 7 del SMN2 ácido ribonucleico pre-mensajero (pre-ARNm). Al unirse, el ASO desplaza los factores de empalme, que normalmente suprimen el empalme. El desplazamiento de estos factores conduce a la retención del exón 7 en el ARNm de SMN2 y, por lo tanto, cuando se produce el ARNm de SMN2, puede traducirse en la proteína SMN funcional de longitud completa. AME es una enfermedad neuromuscular progresiva resultante de mutaciones en el cromosoma
+5q en el gen SMN1. Un segundo gen SMN2, ubicado cerca de SMN1, es responsable de una pequeña cantidad de producción de proteína SMN.
+AME es un espectro clínico de enfermedad con gravedad de la enfermedad vinculada a un menor número de copias del gen SMN2 y una edad más temprana de inicio de los síntomas.
+
+Farmacocinética
+La farmacocinética de dosis única y múltiple de Nusinersen, administrada  vía  inyección  intratecal,  se  determinó  en  pacientes  pediátricos diagnosticados con AME.
+
+Absorción
+La  inyección  intratecal  de  Nusinersen  en  el  líquido  cefalorraquídeo
+(LCR)  permite  la  disponibilidad  total  de  Nusinersen  para  su  distribución desde el LCR hasta los tejidos diana del sistema nervioso central
+(SNC).  Las  concentraciones  medias  de  Nusinersen  en  LCR  se  acumularon aproximadamente 1,4 a 3 veces tras múltiples dosis de carga y mantenimiento, y alcanzaron el estadio estacionario en el plazo de 24 meses aproximadamente. Después de la administración intratecal, las concentraciones plasmáticas de Nusinersen fueron relativamente bajas en comparación con la concentración mínima de LCR. La mediana de los valores plasmáticos del Tmáx osciló entre 1,7 y 6,0 horas. Los valores plasmáticos medios del Cmáx y del AUC aumentaron aproximadamente de forma proporcional a la dosis en el intervalo de dosis evaluado. No se observó ninguna acumulación en las medidas de exposición plasmática
+(Cmáx y AUC) tras dosis múltiples.
+
+Distribución
+Los datos de las autopsias de los pacientes (n = 3) muestran que Nusinersen  administrado  por  vía  intratecal  se  distribuye  ampliamente en el SNC, alcanzando niveles terapéuticos en los tejidos diana de la médula espinal. Asimismo, se demostró la presencia de Nusinersen en las neuronas y otros tipos de células de la médula espinal y del cerebro, así como en tejidos periféricos como el músculo esquelético, el hígado y el riñón.
+
+Biotransformación
+Nusinersen se metaboliza lentamente mediante la hidrólisis mediada por la exonucleasa (3 ‘y 5’) y no es un sustrato, inhibidor o inductor de enzimas CYP450.
+
+Eliminación
+Se estima que la vida media de eliminación terminal en el LCR es de 135 a 177 días. Se espera que la vía de eliminación principal de Nusinersen y de sus metabolitos sea mediante la excreción urinaria.
+
+Poblaciones especiales
+Sexo
+La  mayoría  de  los  pacientes  estudiados  eran  caucásicos.  El  análisis farmacocinético de la población muestra que el Sexo no afecta la farmacocinética de Nusinersen.
+
+Insuficiencia renal y hepática
+No se ha estudiado la farmacocinética de Nusinersen en pacientes con insuficiencia renal o hepática. No se pudo evaluar de forma exhaustiva el efecto de la insuficiencia renal o hepática como co-variables en el modelo de farmacocinética poblacional debido a los pocos pacientes con insuficiencia renal o hepática clínicamente relevante. Los análisis de farmacocinética poblacional no revelaron ninguna correlación aparente entre los marcadores de bioquímica clínica hepática y renal y la variabilidad entre sujetos.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+El  tratamiento  con  LIGONUX®  únicamente  debe  iniciarlo  un  médico con experiencia en el manejo de la atrofia muscular espinal (AME). La decisión de tratar a un paciente se debe basar en una evaluación por un experto que valore para ese paciente los beneficios esperados frente a  los  posibles  riesgos  del  tratamiento  con  Nusinersen.  Los  pacientes con hipotonía profunda e insuficiencia respiratoria al nacer, en los que no se ha estudiado Nusinersen, puede que no presenten un beneficio clínicamente significativo debido a la deficiencia grave de proteína de supervivencia de la neurona motora (SNM).
+
+Posología
+LIGONUX®  es  para  uso  intratecal  por  punción  lumbar.  La  dosis  recomendada  es  12  mg  (5  ml)  por  administración.  El  tratamiento  con LIGONUX®  se  debe  iniciar  lo  antes  posible  tras  el  diagnóstico  con  4 dosis de carga los días 0, 14, 28 y 63. A partir de entonces, se debe administrar una dosis de mantenimiento una vez cada 4 meses.
+
+Duración del tratamiento
+La  información  sobre  la  eficacia  a  largo  plazo  de  este  medicamento no  está  disponible.  La  necesidad  de  continuación  de  la  terapia  debe revisarse periódicamente y considerarse de forma individual según la presentación clínica y la respuesta del paciente a la terapia.
+
+Omisión o retraso de la dosis
+Dosis de Carga:
+Si se retrasa o se olvida una dosis de carga, se debe administrar LIGONUX® lo antes posible, dejando al menos 14 días entre dosis, y continuar la dosificación a la frecuencia prescripta.
+P. ej., si la tercera dosis de carga se administra 30 días tarde, en el día 58 (en lugar del día 28 según el esquema inicial), entonces la cuarta dosis de carga se debe administrar 35 días después, en el día 93 (en lugar del día 63, según el esquema inicial) administrando la dosis de mantenimiento 4 meses después.
+
+Dosis de mantenimiento:
+
+Dosis de mantenimiento
+
+> 4 a < 8 meses desde la última dosis
+
+≥ 8 a < 16 meses desde la última dosis
+
+Momento de la administración de la dosis
+
+Administrar  la  dosis  de  mantenimiento  retrasada  lo  antes posible; después administrar  la  siguiente  dosis  de  mantenimiento  según  la fecha  programada  al  inicio,  siempre  que  estas  dos  dosis  se administren con al menos 14 días de diferencia*;
+
+Administrar la dosis omitida lo antes posible y luego la siguiente dosis 14 días después*;
+
+≥ 16 a < 40 meses desde la última dosis
+
+Administrar  la  dosis  olvidada  lo  antes  posible  y  luego  la  siguiente dosis 14 días después*, seguida de una tercera dosis
+14 días después*;
+
+≥ 40 meses desde la última dosis
+
+Administrar todas las dosis de carga en los intervalos prescritos
+(días 0, 14, 28 y 63)*
+
+*  Después de las recomendaciones anteriores, se debe administrar una dosis de mantenimiento 4 meses después de la última dosis y repetirla cada 4 meses.
+
+Posología en poblaciones especiales
+Insuficiencia Renal
+No se ha estudiado el uso de nusinersen en pacientes con insuficiencia renal. No se ha establecido la seguridad y eficacia en pacientes con insuficiencia renal y se debe supervisar a estos pacientes de forma estrecha.
+
+Insuficiencia hepática
+No se ha estudiado el uso de nusinersen en pacientes con insuficiencia hepática. Nusinersen no se metaboliza a través del sistema enzimático del citocromo P450 en el hígado; por lo tanto, es poco probable que sea necesario ajustar la dosis en pacientes con insuficiencia hepática
+(ver Interacción con otros medicamentos y otras formas de interacción).
+
+Método de administración
+LIGONUX® se administra por vía intratecal mediante punción lumbar.
+El  tratamiento  debe  ser  administrado  por  profesionales  de  la  salud con experiencia en la realización de punciones lumbares. LIGONUX® se  administra  como  una  inyección  en  bolo  intratecal  durante  1  a  3 minutos, usando una aguja de anestesia raquídea. La inyección no se debe administrar en áreas de la piel donde haya signos de infección o inflamación. Se recomienda que el volumen de líquido cefalorraquídeo
+(LCR), equivalente al volumen de LIGONUX® inyectable, se retire antes de la administración de LIGONUX®.
+Se puede requerir sedación para administrar LIGONUX®, según lo indique la condición clínica del paciente. Puede considerarse que la ecografía (u otras técnicas de imagen) guíe la administración intratecal de
+
+LIGONUX®, particularmente en pacientes más jóvenes y en pacientes con escoliosis. Se debe usar una técnica aséptica al preparar y administrar LIGONUX®.
+
+Precauciones especiales para su eliminación y otras manipulaciones
+Para un solo uso.
+
+Instrucciones para la preparación del producto medicinal antes de su administración
+1.  Se debe inspeccionar visualmente el vial de LIGONUX® para detectar partículas antes de la administración. En caso de observar partículas y/o que el líquido en el vial no sea transparente e incoloro, no se debe utilizar el vial.
+
+2.  Se debe seguir una técnica aséptica cuando se prepare la solución de
+
+LIGONUX® para administración intratecal.
+
+3.  Antes de la administración, se debe sacar el vial de la heladera y dejar que alcance la temperatura ambiente (25° C) sin usar fuentes externas de calor.
+
+4.  Si el vial sigue sin abrir y la solución no se ha utilizado, se debe meter
+
+de nuevo en la heladera.
+
+5.  Justo antes de la administración, introduzca la aguja de la jeringa en el vial por el centro del sello para retirar el volumen necesario. No se debe diluir LIGONUX®. No se requiere el uso de filtros externos.
+6.  Una vez extraída la solución en la jeringa, utilizar de forma inmediata, si no se utiliza se debe eliminar.
+
+7.  La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él se debe realizar de acuerdo con la normativa local.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o alguno de los excipientes.
+
+ADVERTENCIAS
+
+Procedimiento de punción lumbar
+Existe un riesgo de presentar reacciones adversas como consecuencia del  procedimiento  de  punción  lumbar  ej:  aracnoiditis,  cefalea,  dolor de espalda y vómitos; (Ver Reacciones adversas). Se pueden observar posibles dificultades con esta vía de administración en pacientes muy jóvenes y en pacientes con escoliosis. A discreción del médico, se puede considerar el uso de ecografía u otras técnicas de imagen para guiar la administración intratecal de Nusinersen. En caso de sospecha de aracnoiditis, se debe realizar una IRM para confirmar la aracnoiditis y el alcance de la inflamación. La identificación de aracnoiditis impide el uso del lugar de inyección hasta que se haya descartado la inflamación local
+
+Trombocitopenia y anomalías en la coagulación Se  han  observado  anomalías  en  la  coagulación  y  trombocitopenia, incluso trombocitopenia grave aguda, tras la administración de otros oligonucleótidos antisentido administrados por vía subcutánea o intravenosa. Si está clínicamente indicado, se recomienda realizar un análisis de sangre para controlar los niveles de plaquetas y la coagulación antes de la administración de Nusinersen.
+
+Toxicidad Renal
+Se ha observado toxicidad renal tras la administración de otros oligonucleótidos antisentido administrados por vía subcutánea e intravenosa.
+Si  está  clínicamente  indicado,  se  recomienda  realizar  un  análisis  de orina para controlar los niveles de proteína en orina (preferiblemente en la primera orina de la mañana). En caso de proteinuria persistente, se debe considerar la realización de evaluaciones adicionales.
+
+Hidrocefalia
+Se han recibido reportes de hidrocefalia comunicante no asociada con meningitis  o  sangrado  en  pacientes  tratados  con  Nusinersen  luego de  su  comercialización.  Algunos  pacientes  fueron  implantados  con una derivación ventrículo peritoneal. En pacientes con estado de conciencia disminuida se deberá considerar la evaluación de una posible
+
+hidrocefalia. Los beneficios y riesgos del tratamiento con Nusinersen en  pacientes  con  derivación  ventrículo  peritoneal  se  desconocen  en el  presente  y  el  mantenimiento  del  tratamiento  debe  considerarse cuidadosamente.
+
+PRECAUCIONES
+
+Interacción con otros medicamentos y otras formas de interacción No se han realizado estudios clínicos de las interacciones con otros medicamentos. Los estudios in vitro indicaron que Nusinersen no induce ni inhibe el metabolismo mediado por CYP450. Los estudios in vitro indican que la probabilidad de interacciones con Nusinersen debido a la competición por la unión a proteínas plasmáticas, o debido a la competición con los transportadores de los mismos es baja.
+Los  estudios  in  vitro  indicaron  que  Nusinersen  no  induce  ni  inhibe el  metabolismo  oxidativo  mediado  por  CYP450  y,  por  lo  tanto,  no debe interferir con otros medicamentos que utilizan estas vías metabólicas. Nusinersen no es un sustrato ni un inhibidor de los transportadores humanos BCRP, P-gp, OAT1, OAT3, OCT1, OCT2, OATP1B1,
+OATP1B3 o BSEP.
+
+Carcinogénesis, mutagénesis y trastornos de fertilidad Nusinersen no demostró evidencia de genotoxicidad. En estudios en ratones de dos años de duración, con niveles de exposición plasmática
+104 veces superiores a los de los pacientes que recibieron 12 mg de nusinersen  de  mantenimiento,  no  se  evidencio  carcinogenicidad.  Se realizaron estudios de toxicidad reproductiva usando la administración subcutánea de Nusinersen en ratones y conejos. No se observó ningún impacto en la fertilidad masculina o femenina, desarrollo fetal embrionario o desarrollo pre/post natal. En estudios de toxicidad en animales no se observaron efectos sobre la fertilidad masculina o femenina. No hay datos disponibles sobre los posibles efectos sobre la fertilidad en humanos.
+
+Toxicología
+En estudios de toxicidad de dosis repetidas (14 semanas y 53 semanas)
+de administración intratecal a monos cynomolgus jóvenes, Nusinersen fue bien tolerado. La excepción fue un déficit agudo transitorio en los reflejos espinales inferiores que ocurrieron en los niveles de dosis más altos en cada estudio (3 ó 4 mg por dosis, equivalente a 30 ó 40 mg por dosis intratecal en pacientes). Estos efectos se observaron varias horas después de la dosis y generalmente se resolvieron en 48 horas. En el estudio de dosificación intratecal de 53 semanas en monos cynomolgus no se observaron efectos de toxicidad en niveles hasta 14 veces la dosis de mantenimiento clínico anual recomendada.
+
+Embarazo y lactancia
+Embarazo
+No  hay  o  es  limitada  la  cantidad  de  datos  del  uso  de  Nusinersen  en mujeres  embarazadas.  Los  estudios  en  animales  no  indican  efectos dañinos directos o indirectos con respecto a la toxicidad para la reproducción.  Como  medida  de  precaución,  es  preferible  evitar  el  uso  de Nusinersen durante el embarazo.
+
+Lactancia
+Se desconoce si Nusinersen / metabolitos se excretan en la leche humana. No se puede excluir el riesgo en recién nacidos/niños. Se debe decidir si es necesario interrumpir la lactancia o interrumpir el uso del fármaco teniendo en cuenta la importancia del medicamento para la madre.
+
+Insuficiencia Renal
+(Ver Posologia: poblaciones especiales)
+
+Insuficiencia Hepática
+(Ver , Posologia: Poblaciones Especiales).
+
+Efecto en la capacidad de conducir o la utilización de maquinaria Nusinersen  no  posee  o  es  prácticamente  nula  su  influencia  sobre  la capacidad de conducir y utilizar maquinarias.
+
+REACCIONES ADVERSAS
+
+Resumen del perfil de seguridad
+Las  reacciones  adversas  (RAMs)  más  frecuentes  asociadas  a  la  administración de Nusinersen fueron cefalea, vómitos y dolor de espalda.
+Dos estudios clínicos de fase 3 en lactantes y niños con AME junto con un estudio Fase 2 en lactantes y niños con AME y , estudios abiertos que incluyeron lactantes presintomáticos genéticamente diagnosticados con AME y lactantes y niños con AME fueron las bases del análisis de seguridad. Otro estudio enroló lactantes y pacientes con aparición tardía que incluyó aquellos que habían completado estudios previos de la molécula. De los 352 pacientes que recibieron Nusinersen durante un  tiempo  de  hasta  5  años,  271  pacientes  recibieron  el  tratamiento durante al menos 1 año.
+
+Tabla de reacciones adversas
+La evaluación de las reacciones adversas se basa en los siguientes datos de frecuencia:
+Muy frecuentes (> 1/10)
+Desconocido (no se puede estimar a partir de los datos disponibles)
+
+Tabla  1:  Reacciones  adversas  asociadas  al  procedimiento  de punción lumbar notificadas en el estudio con casos de AME de inicio más tardío con una incidencia al menos un 5% mayor en los pacientes tratados con Nusinersen que con el control simulado.
+
+Clasificación de Órganos del
+Sistema MedDRA
+
+Trastornos del Sistema nervioso
+
+Trastornos gastrointestinales
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Trastornos del Sistema
+Inmunologico
+
+Término Preferente de MedDRA
+
+Categoría de Frecuencia, n=84
+
+Cefalea *
+Meningitis aseptica
+Aracnoiditis
+
+Muy Frecuentes
+Frecuencia no conocida
+Frecuencia no conocida
+
+Vómitos *
+
+Muy Frecuentes
+
+Dolor de espalda *
+
+Muy Frecuentes
+
+Hipersensibilidad**
+
+Frecuencia no conocida
+
+Infecciones e infestaciones Meningitis
+
+Frecuencia no conocida
+
+*   Acontecimientos adversos considerados relacionados con el procedimiento de punción lumbar. Estos acontecimientos se pueden considerar manifestaciones del síndrome post punción lumbar. Estas reacciones adversas se notificaron en un estudio de pacientes con AME de inicio más tardío con una incidencia al menos un 5 % mayor en los pacientes tratados con Nusinersen (n= 84) en comparación con el control simulado.
+
+** Angioedema, urticaria y erupción.
+
+Se han observado casos de hidrocefalia comunicante en el ámbito poscomercialización
+
+Descripción de las reacciones adversas seleccionadas Se han observado reacciones adversas asociadas a la administración de Nusinersen mediante punción lumbar. La mayoría de estas reacciones se  notifican  dentro  de  las  72  horas  siguientes  al  procedimiento.  La incidencia  y  la  gravedad  de  estos  eventos  fueron  coherentes  con  los eventos esperados con la punción lumbar. En los ensayos clínicos de Nusinersen no se han observado complicaciones graves de la punción lumbar,  como  infecciones  graves.  Algunos  acontecimientos  adversos frecuentemente asociados a la punción lumbar (p.ej., cefalea y dolor de espalda) no se pudieron evaluar en la población lactante expuesta a Nusinersen debido a la limitada comunicación propia de ese grupo de edad.
+
+Inmunogenicidad
+Se  determinó  la  respuesta  inmunogénica  a  Nusinersen  en  346  pacientes con muestras de plasma basales y post basales evaluadas para anticuerpos antimedicamentos (ADA). En general, la incidencia de anticuerpos antimedicamentos fue baja, con 15 pacientes (4%) clasificados
+
+como ADA positivo general, de los cuales 4 presentaron una respuesta transitoria, 5 presentaron respuesta persistente y 6 tuvieron respuestas que no pudieron clasificarse como transitorias o persistentes al momento del cierre de recopilación de datos. El impacto de inmunogenicidad sobre la seguridad no fue analizado formalmente ya que el número de pacientes con ADAs fue bajo. De todos modos, los datos de seguridad individual para los casos ADA positivo emergente del tratamiento, fueron revisados, y no se identificaron Eventos Adversos de interés.
+
+Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos y/o al Departamento de Farmacovigilancia de Gador S.A. via e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+Siguiendo pautas internacionales, el producto LIGONUX® se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia diseñadas  para  identificar,  caracterizar,  prevenir  o  minimizar  riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+la salud y una estrecha observación del estado clínico del paciente. Se debe aconsejar al paciente que busque atención médica si experimenta algún signo o síntoma de reacciones adversas.
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ - TELÉFONO:
+(011) 4962-6666/2247
+HOSPITAL A. POSADAS - TELÉFONO:
+(011) 4654-6648 / 4658- 7777
+HOSPITAL DE NIÑOS PEDRO ELIZALDE - TELÉFONO:
+(011) 4300 – 2115
+Opcionalmente, otros Centros de Intoxicaciones.”
+
+CONSERVACION
+
+Conservar de 2 a 8 °C, en el estuche protegido de la luz. No congelar.
+Si no es posible conservarlo en la heladera, LIGONUX® se puede conservar en su caja original, protegido de la luz por debajo de 30°C por hasta 14 días.
+Antes de la administración, los viales de LIGONUX® sin abrir se pueden sacar y volver a guardar en la heladera en caso necesario. Si se retira de la caja original, el tiempo total que el medicamento este fuera de la heladera no debe superar las 30 horas, a una temperatura que no exceda los 25°C.
+
+SOBREDOSIS
+
+No se informaron casos de sobredosis asociados a reacciones adversas en  estudios  clínicos.  En  el  caso  de  una  sobredosis,  se  debe  brindar atención médica de apoyo, que incluya consultas con un profesional de
+
+LIGONUX® se presenta en envases conteniendo un vial de vidrio transparente con Nusinersen 12 mg/ 5 ml.
+
+PRESENTACION
+
+Información para el paciente
+
+Composicion
+
+Cada vial con 5 ml de LIGONUX® contiene:
+Nusinersen (como nusinersen sódico 12,65 mg) ................. 12,00 mg Calcio cloruro dihidrato ............................................................ 1,050 mg
+Cloruro de magnesio hexahidratado......................................0,800 mg Cloruro de potasio .....................................................................1,100 mg
+Cloruro de sodio ......................................................................43,850 mg Fosfato de sodio dibásico anhidro ..........................................0,500 mg
+Fosfato de sodio monobásico dihidrato ................................. 0,250 mg Hidróxido de sodio/ Ácido clorhídrico ................................... csp pH 7,2
+Agua para inyectables .................................................................csp 5 ml
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aun cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+1)  ¿Qué es LIGONUX® y para qué se utiliza?
+
+LIGONUX® está compuesto por el principio activo Nusinersen, este
+
+último  pertenece  a  un  grupo  de  medicamentos  conocidos  como oligonucleótidos antisentido. LIGONUX® se usa para tratar una enfermedad genética llamada atrofia muscular espinal (AME). La Atrofia
+Muscular  Espinal  es  causada  por  una  deficiencia  de  una  proteína llamada neurona motora de la supervivencia (por su sigla en inglés SMN) en el cuerpo. Esto da lugar a la pérdida de células nerviosas en la médula espinal, lo que produce el debilitamiento de los músculos de los hombros, caderas, muslos y parte superior de la espalda. Asimismo, puede debilitar los músculos que se utilizan para respirar y tragar. LIGONUX® funciona ayudando al cuerpo a producir más proteína
+SMN de la que carecen las personas con AME. Esto reduce la pérdida de células nerviosas y, por lo tanto, puede mejorar la fuerza muscular.
+
+2)  ¿Qué es lo que debo saber antes de tomar LIGONUX® y
+
+durante el tratamiento?
+
+Se realizará un estudio genético previo para confirmar el diagnóstico de AME.
+
+LIGONUX® no debe administrarse:
+•  Si usted o su hijo son alérgicos a Nusinersen o a cualquiera de los demás componentes de este medicamento. Si no está seguro, hable con su médico antes de que usted o su hijo reciban LIGONUX®.
+
+Advertencias y Precauciones
+Existe el riesgo de que se produzcan efectos secundarios después de que se administre LIGONUX® mediante un procedimiento de punción
+
+lumbar (consulte la sección “Cómo se administra LIGONUX®”). Esto puede incluir dolores de cabeza, vómitos y dolor de espalda. También puede haber dificultades para administrar un medicamento con este método en pacientes muy jóvenes y aquellos con escoliosis (columna vertebral torcida y curvada).
+Se ha demostrado que otros productos que están en el mismo grupo de  medicamentos  que  LIGONUX®  afectan  las  células  de  la  sangre que ayudan a la coagulación. Antes de que usted o su hijo reciban
+LIGONUX®, su médico puede decidir hacer un análisis de sangre para verificar si la sangre de usted o de su hijo puede coagularse adecuadamente. Esto puede no ser necesario cada vez que usted o su hijo reciban LIGONUX®.
+Se ha demostrado que otros productos que están en el mismo grupo de medicamentos que LIGONUX® afectan los riñones. Antes de que usted o su hijo reciban LIGONUX®, su médico puede decidir hacerse una prueba de orina para verificar que sus riñones o los de su hijo estén funcionando normalmente. Esto puede no ser necesario cada vez que usted o su hijo reciban LIGONUX®.
+Se han recibido reportes de un pequeño número de pacientes que han  desarrollado  hidrocefalia  (acumulación  de  una  cantidad  importante  de  fluido  alrededor  del  cerebro)  luego  de  haber  recibido
+LIGONUX®. Algunos de estos pacientes han requerido el implante de un dispositivo denominado derivación ventrículo - peritoneal a fin de tratar la hidrocefalia. Si usted advierte cualquier síntoma de aumento de tamaño de la cabeza, disminución del estado de conciencia, náuseas, vómitos o dolor de cabeza persistentes; u otros síntomas que puedan preocuparlo, por favor infórmeselo a su médico o al médico de su hijo a fin de recibir el tratamiento necesario.
+Los beneficios y riesgos de continuar con el uso de LIGONUX® mientras  tenga  colocado  una   ̈derivación  ventrículo-  peritoneal ̈  no  se conocen hasta el presente.
+Hable con su médico antes de que usted o su hijo reciban LIGONUX®.
+
+¿Qué debo informar a mi médico antes de usar LIGONUX®?
+Si usted o su hijo están tomando alguna medicina, han tomado recientemente, o en un futuro podrían tomar alguna medicina.
+
+Si está embarazada o en periodo de lactancia, cree que podría estar embarazada o tiene intención de quedarse embarazada, consulte a su médico antes de que le administren este medicamento. Es preferible evitar el uso de LIGONUX® durante el embarazo y la lactancia.
+
+Conducción y uso de máquinas
+LIGONUX® no posee o es prácticamente nula su influencia sobre la capacidad de conducir y utilizar maquinarias.
+
+LIGONUX® contiene una pequeña cantidad de Sodio Cada dosis de LIGONUX® contiene menos de 1mmol (23mg) de sodio. Es esencialmente libre de sodio y puede ser usado por personas con una dieta restringida de sodio.
+
+3)  ¿Cómo se administra LIGONUX®?
+
+La dosis habitual de LIGONUX® es 12 mg.
+LIGONUX® se administra:
+•  El día 1 de tratamiento, día 0
+•  Luego nuevamente a los 14, 28 y 63 días,
+•  Luego, una vez cada 4 meses.
+
+LIGONUX® se administra mediante inyección en la parte inferior de la espalda. Esta inyección, llamada punción lumbar, se realiza introduciendo una aguja en el espacio que rodea la médula espinal. Un médico con experiencia en punciones lumbares será quien administre las inyecciones. Usted o su hijo también pueden recibir un medicamento para relajarlo o dormir durante el procedimiento.
+
+Su médico le dirá por cuánto tiempo necesita usted o su hijo que le administren LIGONUX®. No deje el tratamiento con LIGONUX® a menos que se lo indique su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+Si usa más de la dosis recetada de LIGONUX®, consulte a su médico o al centro de intoxicaciones:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ –TELÉFONO:
+(011) 4962-6666/2247
+HOSPITAL A. POSADAS - TELÉFONO:
+(011) 4654-6648 / 4658- 7777
+HOSPITAL DE NIÑOS PEDRO ELIZALDE - TELÉFONO:
+(011) 4300 – 2115
+Opcionalmente, otros Centros de Intoxicaciones.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si  usted  o  su  hijo  se  olvida  una  dosis  de  LIGONUX®,  hable  con  su médico para asegurarse de que LIGONUX® se puede administrar lo antes  posible.  Si  tiene  alguna  pregunta  sobre  cómo  se  administra
+LIGONUX®, consulte a su médico.
+
+4)  Posibles efectos adversos al usar LIGONUX®
+
+Al igual que todos los medicamentos, este medicamento puede producir efectos adversos, aunque  no  todas  las  personas  los  sufran.  Los  efectos  secundarios relacionados  con  la  punción  lumbar  pueden  ocurrir  mientras  se administra LIGONUX® o poco después. La mayoría de estos efectos secundarios se informan dentro de las 72 horas del procedimiento.
+
+Efectos secundarios muy frecuentes (pueden afectar a más de 1 de cada 10 personas)
+•  Dolor de espalda
+•  Dolor de cabeza
+•  Vómitos
+
+Frecuencia no conocida (la frecuencia no puede estimarse a partir de los datos disponibles):
+•  Infección Grave relacionada con la punción Lumbar (Ej: Meningitis)
+•  Hidrocefalia (acumulación de una cantidad importante de fluido
+
+alrededor del cerebro)
+
+•  Meningitis no causada por una infección (inflamación de la membraba situada alrededor de la medula espinal y del cerebro, que se puede presentar como rigidez de nuca, dolor de cabeza, fiebre, náuseas y vómitos)
+
+•  Hipersensibilidad  (una  reacción  alérgica  o  de  tipo  alérgica  que puede incluir hinchazón de la cara, los labios o de la lengua erupción cutánea o picazón)
+
+•  Aracnoiditis (inflamación de una membrana que rodea el cerebro y la medula espinal), que puede causar dolor en la parte baja de la espalda, o dolor, entumecimiento o debilidad en las piernas.
+
+Comunicación de efectos adversos
+Si  experimenta  cualquier  tipo  de  efecto  no  deseado,  consulte  a  su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto.
+
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la Página Web de la ANMAT:
+https://vigiflow-eforms.who-umc.org/ar/medicamentoso  llamar  a
+ANMAT responde 0800-333-1234”.
+También puede comunicarse al Departamento de Farmacovigilancia Gador S.A, a farmacovigilancia@gador.com o al 0800-220-2273.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+Siguiendo pautas internacionales, el producto LIGONUX® se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la
+ANMAT.
+PGR: Conjunto de actividades e intervenciones en Farmacovigilancia diseñadas para identificar, caracterizar, prevenir o minimizar riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+5)  Cómo almacenar LIGONUX®
+
+No  use  este  medicamento  después  de  la  fecha  de  caducidad  que aparece  en  el  envase.  La  fecha  de  vencimiento  se  refiere  al  último día de ese mes.
+Conservar de 2 a 8 °C, en el estuche protegido de la luz. No congelar.
+Si  no  es  posible  conservarlo  en  la  heladera,  LIGONUX®  se  puede conservar en su caja original, protegido de la luz por debajo de 30°C por hasta 14 días.
+Antes de la administración, los viales de LIGONUX® sin abrir se pueden sacar y volver a guardar en la heladera en caso necesario. Si se retira  de  la  caja  original,  el  tiempo  total  que  el  medicamento  este fuera de la heladera no debe superar las 30 horas, a una temperatura que no exceda los 25°C.
+
+6)  Presentación
+
+LIGONUX®  se  presenta  en  envases  conteniendo  un  vial  de  vidrio transparente con una solución de Nusinersen 12mg/ 5ml.
+
+La siguiente información está destinada solo a profesionales de la salud:
+1.  El vial de LIGONUX® debe inspeccionarse en busca de partículas antes de la administración. Si se observan partículas y / o el líquido en el vial no es transparente e incoloro, el vial no debe utilizarse.
+
+2.  Se  debe  usar  una  técnica  aséptica  al  preparar  la  solución  de
+
+LIGONUX® para la administración intratecal.
+
+3.  El vial debe sacarse del refrigerador y dejar que tome temperatura ambiente (25 ° C) sin utilizar fuentes de calor externas, antes de la administración.
+
+4.  Si el vial permanece sin abrir y no se utiliza la solución, debe devolverse al refrigerador.
+
+5.  Justo antes de la administración, retire la tapa de plástico e inserte la aguja de la jeringa en el vial a través del centro del sello superior para retirar el volumen apropiado. LIGONUX® no debe diluirse. El uso de filtros externos no es necesario.
+
+6.  LIGONUX® se administra como inyección en bolo intratecal durante 1 a 3 minutos, usando una aguja de anestesia raquídea.
+
+7.   La inyección no se debe administrar en áreas de la piel donde haya
+
+7)  Contenido del paquete y otra información
+
+signos de infección o inflamación.
+
+Qué contiene LIGONUX®
+-   El principio activo es nusinersen.
+-   Cada vial con 5 ml contiene nusinersen sódico equivalente a 12 mg
+
+nusinersen.
+
+8.  Se recomienda que el volumen de LCR, equivalente al volumen de LIGONUX® inyectable, se retire antes de la administración de
+LIGONUX®.
+
+9.   Una vez extraída la solución en la jeringa, utilizar de forma inmediata, si no se utiliza se debe eliminar.
+
+-   Cada ml de formulación contiene 2,4 mg de Nusinersen.
+
+10. Todo producto no utilizado o material de desecho se debe eliminar de acuerdo con los requisitos locales.
+
+Aspecto de LIGONUX® y contenido del envase LIGONUX® es una solución transparente incolora para inyección.
+Cada caja de LIGONUX® contiene un vial.
+Cada vial es para un solo uso.
+
+Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A.
+
+Darwin 429, C1414CUI,C.A.B.A., Tel: 4858-9000.
+
+Elaborado en: Calle 606, Dr. Silvio Dessy 351, Florencio Varela, Provincia de Buenos Aires.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. En Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado N° 60.149. Fecha de última revisión: 04/2025
+
+G00241901-01

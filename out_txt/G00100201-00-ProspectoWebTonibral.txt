@@ -1,0 +1,422 @@
+Venta bajo receta
+Industria Argentina
+
+COMPOSICION
+Cada comprimido recubierto de TONIBRAL® contiene:
+Memantina clorhidrato  .........................................................................10 mg Excipientes: Celulosa microcristalina (PH 102), Celulosa microcristalina (PH
+200), Almidón RX 1500, Dióxido de silicio coloidal, Croscaramelosa sódica, Estearato de magnesio vegetal, Opadry YS 1 7003, Opaglos AG-7350 .....c.s.
+Cada comprimido recubierto de TONIBRAL® 20 contiene:
+Memantina clorhidrato ..........................................................................20 mg Excipientes:  Celulosa  microcristalina,  Dióxido  de  silicio  coloidal,  Almidón pregelatinizado,  Croscaramelosa  sódica,  Estearato  de  magnesio,  Opadry
+YS 1 7003 blanco, Opaglos AG-7350, Óxido de hierro rojo, Óxido de hierro amarillo .......................................................................................................c.s.
+ACCION TERAPEUTICA
+Código ATC: N06DX01. Agente antidemencial.
+INDICACIONES
+TONIBRAL® (clorhidrato de memantina) está indicado en el tratamiento sintomático de la demencia del tipo Alzheimer de intensidad moderada a severa.
+ACCION FARMACOLÓGICA
+La memantina ejerce su efecto terapéutico a través de su acción antagonista no competitiva de los receptores NMDA (canales operados por receptores).
+No hay evidencia de que la memantina prevenga o haga más lenta la neurodegeneración que ocurre en la enfermedad de Alzheimer.
+La memantina presentó una afinidad baja por los receptores GABA, benzodiazepínicos,  dopaminérgicos,  adrenérgicos,  histaminérgicos  y  receptores de glicina y por canales Ca2+ voltaje dependientes, canales de Na+ ó K+. La memantina presentó, asimismo, efectos antagonistas en el receptor 5HT3, con una potencia similar a la que presenta para los receptores NMDA y para el bloqueo de receptores nicotínicos de acetilcolina con una potencia de un sexto a un décimo.
+Estudios in vitro han demostrado que la memantina no afecta a la inhibición reversible de la acetilcolinesterasa por donepecilo, galantamina o tacrina.
+FARMACOCINÉTICA
+Posterior a su administración oral, la memantina se absorbe bien y presenta una farmacocinética lineal a dosis terapéuticas. Se excreta predominantemente en la orina, inalterada con una vida media de eliminación de 60 a 80 horas aproximadamente.
+Absorción y distribución
+Posterior a su administración oral, la memantina es altamente absorbida y las concentraciones máximas se alcanzan en alrededor de 3 a 7 horas. Los alimentos no tienen ningún efecto sobre la absorción de la memantina. Su volumen de distribución es de 9-11 L/kg y la unión a las proteínas plasmáticas es baja (45%).
+Metabolismo y Eliminación
+La memantina posee una biotransformación baja. Cerca del 48% de la dosis administrada se excreta inalterada en la orina; el resto se convierte en tres metabolitos polares: el conjugado N-gludantano, la 6-hidroxi-memantina y la memantina 1-nitroso-deaminada. Estos metabolitos poseen una actividad antagonista mínima de los receptores NMDA. Un total de 74% de la dosis administrada es excretada como la suma de la droga madre y el conjugado
+N-gludantano. El sistema enzimático microsomal hepático CYP450 no desempeña un rol importante en el metabolismo de la memantina. La memantina tiene una vida media de eliminación de 60 a 80 horas aproximadamente.
+La  depuración  renal  comprende  secreción  tubular  activa  moderada  por reabsorción tubular dependiente del pH.
+Farmacocinética en poblaciones especiales Insuficiencia renal: La vida media de eliminación se incrementó en 18, 41 y 95% en sujetos con insuficiencia renal leve, moderada y severa, respectivamente, en comparación con sujetos sanos. No se requiere ajuste de dosis en pacientes con deterioro renal leve, siendo necesario el ajuste en insuficiencia moderada y grave. (Ver Dosis en poblaciones especiales).
+Insuficiencia hepática: La vida media de eliminación se incrementó en 16% en  pacientes  con  insuficiencia  hepática  moderada,  en  comparación  con sujetos sanos. No se requiere ajuste de dosis en pacientes con deterioro hepático leve y moderado. No se recomienda la administración de memantina a pacientes con insuficiencia hepática severa.
+Ancianos: La farmacocinética de la memantina es similar en jóvenes y ancianos.
+Género: Tras la administración de dosis múltiples de memantina 20 mg/día
+(en dos tomas diarias), las mujeres presentaron una exposición aproximadamente 45% mayor que los hombres, pero no se registró ninguna diferencia en la exposición al considerar el peso corporal.
+Interacciones medicamentosas
+Sustratos de Enzimas Microsomales: Estudios in vitro han demostrado que la memantina produce una mínima inhibición de las siguientes enzimas del CYP450 (1A2, 2A6, 2C9, 2D6, 2E1 y 3A4). Estos datos indican que no se
+
+ TONIBRAL®
+MEMANTINA CLORHIDRATO
+
+Comprimidos recubiertos
+
+esperan  interacciones  farmacocinéticas  con  fármacos  metabolizados  por estas enzimas. Memantina no inhibió la flavina monooxigenasa, la epóxido hidrolasa o la sulfonación in vitro.
+Inhibidores de Enzimas Microsomales: Dado que la memantina es mínimamente metabolizada, es improbable que se produzca una interacción entre la memantina y drogas inhibidoras del CYP450. La co-administración de memantina con un inhibidor de la colinesterasa (AchE) como el donepecilo, no afecta la farmacocinética de ninguno de los dos compuestos.
+Drogas Eliminadas por Vía Renal: La memantina se elimina, en parte, por secreción tubular. Estudios in vivo han demostrado que dosis múltiples del diurético hidroclorotiazida/triamtereno no afectaron el AUC de la memantina.
+La memantina no afectó la biodisponibilidad del triamtereno y disminuyó el AUC y la Cmáx de hidroclorotiazida en aproximadamente un 20%.
+La co-administración de memantina con la asociación hipoglucemiante (glibenclamida-metformina) no afectó la farmacocinética de la memantina, ni de metformina ni de glibenclamida. La memantina no modificó los efectos hipoglucemiantes  de  la  asociación  metformina-glibenclamida,  indicando ausencia de interacciones farmacodinámicas.
+Drogas que alcalinizan la orina: La depuración de memantina se redujo en aproximadamente 80% bajo condiciones de orina alcalina con pH 8. Por ello, los aumentos del pH urinario pueden producir una acumulación de la droga con un posible incremento de los eventos adversos. Es de esperar que las drogas alcalinizadoras de la orina (inhibidores de la anhidrasa carbónica, bicarbonato de sodio) reduzcan la eliminación renal de la memantina.
+Drogas altamente ligadas a las proteínas plasmáticas: Dado que la unión de la memantina a las proteínas plasmáticas es baja (45%), es improbable que se produzca una interacción con drogas altamente ligadas a las proteínas plasmáticas (warfarina y digoxina).
+POSOLOGIA Y FORMA DE ADMINISTRACIÓN
+La dosis de memantina que ha demostrado ser eficaz en estudios clínicos controlados es de 20 mg diarios. La dosis inicial sugerida de TONIBRAL® es de 5 mg en una toma diaria. La dosis diaria definida es de 20 mg diarios.
+Se ajustará la dosis aumentando 5 mg semanalmente, en una o dos tomas diarias, de la siguiente manera:
+1er. Semana (día 1 a 7): Medio comprimido de 10 mg una vez por día, durante 7 días 2da. Semana (día 8 a 14): 1 comprimido de 10 mg una vez por día o medio comprimido de 10 mg dos veces por día, durante 7 días.
+3er. Semana (día 15 a 21): 1 comprimido de 10 mg y medio comprimido de 10 mg una vez al día, o dividido en dos tomas (10 y 5 mg), durante 7 días.
+A partir de la 4ta. semana: 1 comprimido de 20 mg una vez por día ó 1 comprimido de 10 mg dos veces por día.
+Se puede tomar TONIBRAL® con o sin alimentos.
+El tratamiento debe ser iniciado y supervisado por un médico experimentado en el diagnóstico y tratamiento de la demencia tipo Alzheimer. El tratamiento se debe iniciar únicamente si se dispone de un cuidador que monitorice regularmente la toma del fármaco por parte del paciente. El diagnóstico debe seguir las directrices actuales. La tolerabilidad y la dosis de memantina se deben reevaluar de forma regular, preferiblemente dentro de los 3 meses posteriores al inicio del tratamiento. Por lo tanto el beneficio clínico de la memantina y la tolerabilidad del paciente al tratamiento se deben reevaluar de forma regular de acuerdo a las directrices clínicas vigentes. El tratamiento  de  mantenimiento  puede  continuarse  mientras  el  beneficio  terapéutico sea favorable y el paciente tolere el tratamiento con memantina. La interrupción del tratamiento con memantina se debe considerar cuando ya no se evidencie su efecto terapéutico o si el paciente no tolera el tratamiento.
+Se recomienda iniciar la terapia con memantina solo cuando un cuidador o familiar esté disponible para monitorear regularmente la ingesta del fármaco de forma correcta.
+Dosis en Poblaciones Especiales
+Insuficiencia renal: No se requiere ajuste de dosis en insuficiencia renal leve.
+En pacientes con insuficiencia renal moderada (aclaramiento de creatinina 30 - 49 ml/min), la dosis diaria debe ser de 10 mg al día. Si se tolera bien después de, al menos 7 días de tratamiento, la dosis podría aumentarse hasta 20 mg/día de acuerdo con el esquema de titulación estándar. En pacientes con insuficiencia renal severa (aclaramiento de creatinina de 5-29 ml/min.)
+la dosis diaria debe ser de 10 mg al día.
+Pacientes de edad avanzada: basándose en estudios clínicos, la dosis recomendada para los pacientes mayores de 65 años es de 20 mg al día (dos comprimidos de 10 mg o un comprimido de 20 mg), tal como se ha descrito anteriormente.
+Población Pediátrica:
+No se dispone de datos.
+Insuficiencia hepática: En pacientes con insuficiencia hepática leve o moderada (Child-Pugh A y Child-Pugh B) no es necesario ajustar la dosis. No existen datos disponibles sobre el uso de memantina en pacientes con insuficiencia hepática severa. No se recomienda la administración de memantina
+
+a pacientes con insuficiencia hepática severa.
+CONTRAINDICACIONES
+TONIBRAL®  (clorhidrato  de  memantina)  está  contraindicado  en  pacientes con hipersensibilidad conocida al clorhidrato de memantina o a cualquiera de los excipientes utilizados en la fórmula.
+ADVERTENCIAS
+Las  recomendaciones  o  resultados  obtenidos  de  los  estudios  clínicos  en pacientes con demencia tipo Alzheimer no pueden ser extrapolados a las personas con deterioro cognitivo leve.
+Información para Pacientes y Cuidadores de los enfermos: Se deberá instruir a los cuidadores de los enfermos sobre la administración y el escalonamiento de la dosis (intervalo mínimo de una semana entre los aumentos de dosis).
+Afecciones neurológicas
+Se  recomienda  precaución  en  el  tratamiento  de  pacientes  con  epilepsia, antecedentes de crisis convulsivas o en pacientes con factores de riesgo para padecer epilepsia.
+Condiciones genitourinarias
+Todos  aquellos  factores  que  aumenten  el  pH  urinario  pueden  requerir  un monitoreo riguroso del paciente, ya que puede disminuir la eliminación urinaria de memantina incrementándose sus niveles plasmáticos. Entre estos factores se incluyen cambios drásticos en la dieta, por ejemplo de carnívora a vegetariana, o una ingesta masiva de buffers gástricos alcalinizantes. Asimismo, el pH urinario puede estar elevado en estados de acidosis tubular renal o infecciones graves del tracto urinario por bacterias del género Proteus.
+Condiciones cardiológicas
+Debido a los datos limitados que hay en pacientes con infarto de miocardio reciente,  enfermedad  cardíaca  congestiva  (NYHA  III-IV)  o  hipertensión  no controlada, los pacientes que presentan estas condiciones deben supervisarse cuidadosamente.
+PRECAUCIONES
+Interacciones medicamentosas
+Antagonistas del N-metil-D-aspartato (NMDA): Se debe evitar la administración  concomitante  de  otros  antagonistas  del  N-metil-D-aspartato  (NMDA)
+como la amantadina, la ketamina y el dextrometorfano. Estos compuestos actúan sobre el mismo sistema receptor que memantina y, por lo tanto, las reacciones adversas (principalmente relacionadas con el Sistema Nervioso
+Central) pueden ser más frecuentes o más intensas (psicosis farmacotóxica).
+También hay un caso clínico publicado sobre el posible riesgo de la combinación de memantina y fenitoína.
+Sustratos  de  las  enzimas  microsomales:  Estudios  in  vitro  realizados  con sustratos marcados de las enzimas del CYP450 (1A2, 2A6, 2C9, 2D6, 2E1,
+3A4) presentaron una inhibición mínima de estas enzimas por parte de la memantina. No se esperan interacciones farmacocinéticas con drogas metabolizadas por estas enzimas.
+Efectos de inhibidores y/o sustratos de enzimas microsomales sobre el metabolismo de la memantina: La memantina se elimina predominantemente por vía renal y no se espera que las drogas que son sustratos y/o inhibidores del sistema CYP450, alteren el metabolismo de la memantina.
+Inhibidores  de  la Acetilcolinesterasa  (AChE):  La  co-administración  de  memantina con donepecilo HCl no afectó la farmacocinética de ninguno de los compuestos. En un estudio clínico controlado de 24 semanas en pacientes con enfermedad de Alzheimer moderada a severa, el perfil de eventos adversos observado con una combinación de memantina y donepecilo era similar al del donepecilo solo. No se observaron efectos relevantes de memantina sobre la farmacocinética de la galantamina.
+Drogas eliminadas por vía renal: Dado que la memantina se elimina en parte por secreción tubular, la co-administración de drogas que usan el mismo sistema  de  eliminación  renal  (hidroclorotiazida,  triamtereno,  metformina, cimetidina, ranitidina, procainamida, quinidina, quinina y nicotina), podrían resultar potencialmente en niveles plasmáticos alterados de ambos agentes.  Sin  embargo,  la  co-administración  de  memantina  e  hidroclorotiazida/ triamtereno no alteró la biodisponibilidad ni de la memantina ni del triamtereno, y la biodisponibilidad de la hidroclorotiazida disminuyó un 20%. La co-administración  de  memantina  con  la  asociación  glibenclamida-metformina, no afectó la farmacocinética de la memantina, ni de metformina ni de glibenclamida. La memantina no modificó los efectos hipoglucemiantes de la asociación metformina-glibenclamida, indicando ausencia de interacciones farmacodinámicas.
+Drogas que alcalinizan la orina: La depuración de memantina se redujo en aproximadamente 80% bajo condiciones de alcalinización de la orina con pH 8. Por ello, las alteraciones del pH de la orina hacia la alcalinidad pueden producir una acumulación de la droga con un posible incremento en los eventos adversos. El pH de la orina se altera con la dieta, fármacos (inhibidores anhidrasa carbónica, bicarbonato de sodio) y por la condición clínica del paciente (acidosis tubular renal o infecciones severas del tracto urinario causadas por bacterias del género Proteus). En consecuencia, la memantina debe ser utilizada con precaución bajo estas condiciones.
+Anticoagulantes orales: En la experiencia post-comercialización, se ha informado de casos aislados de incremento del cociente internacional normalizado (INR), en pacientes tratados concomitantemente con warfarina. Aunque no se ha establecido relación causal, es aconsejable realizar una monitorización estrecha del tiempo de protrombina o INR, en pacientes tratados concomitantemente con anticoagulantes orales.
+Otras  interacciones:  El  mecanismo  de  acción  sugiere  que  los  efectos  de la  L-dopa,  los  agonistas  dopaminérgicos  y  los  anticolinérgicos  pueden aumentar  con  el  tratamiento  concomitante  con  antagonistas  del  NMDA
+
+como memantina. Se pueden reducir los efectos de los barbitúricos y de los neurolépticos. La administración concomitante de memantina y agentes antiespasmódicos, como el dantroleno o el baclofeno, puede modificar sus efectos y hacer necesario un ajuste de la dosis.
+Carcinogénesis, Mutagénesis y Deterioro de la Fertilidad No se registró evidencia de carcinogénesis en un estudio oral de 113 semanas en ratones con dosis de 40 mg/kg/día (10 veces la dosis máxima recomendada para humanos (MRHD) sobre una base de mg/m2). Tampoco se reportó evidencia de carcinogénesis en ratas que recibieron dosis orales de 40 mg/kg/día durante 71 semanas seguidas por 20 mg/kg/día (20 y 10 veces la MRHD sobre una base de mg/m2, respectivamente) durante 128 semanas. No hubo evidencias de Carcinogenicidad en los estudios con ratones y ratas hasta su muerte.
+La memantina no presentó evidencia de potencial genotóxico al ser evaluada en el ensayo in vitro de mutación reversa S. typhimurium o E. Coli, en una prueba in vitro de aberraciones cromosómicas en linfocitos humanos, en un ensayo citogenético in vivo sobre daño cromosómico en ratas y en el ensayo in vivo de micronúcleo de ratón. Estos resultados fueron ambiguos en un ensayo in vitro de mutación genética en el que se utilizaron células V79 de hámsters chinos.
+No se observó deterioro de la fertilidad ni de la capacidad reproductiva en ratas a las que se les administraron hasta 18/mg/kg/día (9 veces la MRHD sobre  una  base  de  mg/m2)  por  vía  oral  a  partir  de  los  14  días  previos  al apareamiento  y  hasta  la  gestación  y  lactancia  en  hembras,  o  durante  60 días  previos  al  apareamiento  en  machos. Asimismo  no  se  han  notificado con memantina reacciones adversas en fertilidad ni en hombres o mujeres.
+Embarazo – Categoría B
+Memantina no resultó teratogénica ni en ratas ni en conejos, incluso a dosis tóxicas para la madre.
+No hay datos o éstos son limitados relativos al uso de memantina en mujeres embarazadas. Estudios con animales indican un riesgo potencial de disminución del crecimiento intrauterino con niveles de exposición idénticos o ligeramente más altos que los niveles de exposición en humanos. No se conoce el riesgo potencial para humanos. Memantina no debe utilizarse durante el embarazo excepto que sea considerado claramente necesario.
+Lactancia
+Se desconoce si la memantina es excretada en la leche humana, pero teniendo en cuenta la lipofilia del principio activo, es probable que así sea.
+Las mujeres que tomen memantina deben suspender la lactancia materna.
+Uso pediátrico
+No se han realizado estudios adecuados y bien controlados para documentar la seguridad y eficacia de la memantina en cualquier enfermedad pediátrica.
+No se recomienda su uso en menores de 18 años.
+Disfunción hepática
+La memantina está sometida a un metabolismo hepático parcial, con aproximadamente el 48% de dosis administrada excretada en orina como droga inalterada o como la suma de la droga madre y el conjugado N-gludantano
+(74%). No se requiere ajuste de dosis en pacientes con deterioro hepático leve o moderado. No se recomienda la administración de memantina a pacientes con insuficiencia hepática severa.
+Disfunción renal
+No se requiere ajuste de dosis en insuficiencia leve. En pacientes con insuficiencia renal moderada (aclaramiento de creatinina 30 - 49 ml/min), la dosis diaria debe ser de 10 mg al día. Si se tolera bien después de, al menos 7 días de tratamiento, la dosis podría aumentarse hasta 20 mg/día de acuerdo con el esquema de titulación estándar. En pacientes con insuficiencia renal severa (aclaramiento de creatinina de 5-29 ml/min.) la dosis diaria debe ser de 10 mg al día.
+Efectos sobre la capacidad para conducir y utilizar máquinas La  enfermedad  de  Alzheimer  de  moderada  a  grave  afecta  normalmente  la capacidad de conducción y compromete la capacidad para utilizar máquinas.
+Además, memantina presenta una influencia de leve a moderada sobre la capacidad para conducir y utilizar máquinas, de forma que se debe advertir especialmente a los pacientes ambulatorios para que tomen precauciones especiales.
+REACCIONES ADVERSAS
+Las reacciones adversas descriptas en pacientes con demencia medicados con memantina fueron generalmente de leves a moderadas en gravedad.
+Las reacciones adversas con mayor frecuencia de aparición fueron: vértigo, cefalea, constipación, somnolencia e hipertensión. Las reacciones adversas descriptas en la tabla a continuación se categorizan conforme al sistema de clasificación por órganos, acorde a la siguiente convención: muy frecuentes
+(≥ 1/10), frecuentes (de ≥1/100 a < 1/10), poco frecuentes (de ≥ 1/1.000 a < 1/100), raras (de ≥1/10.000 a < 1/1.000), muy raras (< 1/10.000), frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Trastornos
+
+Frecuencia
+
+Reacciones Adversas
+
+Poco frecuentes
+
+Infecciones fúngicas
+
+Infecciones e infestaciones
+Trastornos del sistema inmunológico
+
+Trastornos psiquiátricos
+
+Frecuentes
+
+Frecuentes
+Poco frecuentes
+
+Frecuencia no conocida
+Frecuentes
+
+Trastornos del sistema nervioso
+
+Trastornos cardíacos
+
+Trastornos vasculares
+
+Poco frecuentes
+Muy raras
+Poco frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Hipersensibilidad al medicamento
+Somnolencia
+Confusión
+Alucinaciones1
+Reacciones psicóticas2
+Vértigo
+Alteración del equilibrio
+Alteración de la marcha
+Convulsiones
+Insuficiencia cardíaca
+
+Hipertensión
+
+Trombosis venosa /
+
+tromboembolismo
+
+Trastornos respiratorios,
+
+torácicos y mediastínicos
+
+Frecuentes
+
+Disnea
+
+Trastornos gastrointestinales
+
+Trastornos hepatobiliares
+
+Trastornos generales y
+
+alteraciones en el lugar
+
+de administración
+
+Frecuentes
+
+Poco frecuentes
+
+Constipación
+
+Vómitos
+
+Frecuencia no conocida
+
+Pancreatitis2
+
+Frecuentes
+
+Pruebas de función
+
+hepática elevadas
+
+Frecuencia no conocida
+
+Hepatitis
+
+Frecuentes
+
+Poco frecuentes
+
+Cefaleas
+
+Fatiga
+
+Poco frecuentes
+
+Infecciones fúngicas
+
+Infecciones
+
+e infestaciones
+
+inmunológico
+
+Trastornos del sistema
+
+Frecuentes
+
+Trastornos psiquiátricos
+
+Frecuentes
+Poco frecuentes
+
+Frecuencia no conocida
+Frecuentes
+
+Trastornos del sistema nervioso
+
+Trastornos cardíacos
+
+Trastornos vasculares
+
+Poco frecuentes
+Muy raras
+Poco frecuentes
+Frecuentes
+Poco frecuentes
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+Frecuentes
+
+Hipersensibilidad al
+
+medicamento
+Somnolencia
+Confusión
+Alucinaciones1
+Reacciones psicóticas2
+Vértigo
+Alteración del equilibrio
+Alteración de la marcha
+Convulsiones
+Insuficiencia cardíaca
+Hipertensión
+Trombosis venosa / tromboembolismo
+Disnea
+
+Trastornos gastrointestinales
+
+Trastornos hepatobiliares
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Frecuentes
+Poco frecuentes
+Frecuencia no conocida
+Frecuentes
+
+Frecuencia no conocida
+Frecuentes
+Poco frecuentes
+
+Constipación
+Vómitos
+Pancreatitis2
+Pruebas de función hepática elevadas
+Hepatitis
+Cefaleas
+Fatiga
+
+1 Las alucinaciones se han observado principalmente en pacientes con enfermedad de Alzheimer grave.
+2 Se han notificado casos aislados en la experiencia post-comercialización.
+
+La enfermedad de Alzheimer ha sido asociada con depresión, ideación suicida y suicidio. La aparición de estos acontecimientos podrían ser reportados en pacientes tratados con memantina.
+La experiencia descrita a continuación deriva de estudios clínicos con memantina  administrada  dos  veces  al  día,  en  pacientes  con  enfermedad  de Alzheimer y demencia vascular:
+Los eventos adversos observados en al menos 2% de los pacientes que recibieron memantina y con mayor frecuencia que los pacientes que recibieron placebo,  fueron:  fatiga,  dolor,  hipertensión,  mareos,  cefalea,  constipación, vómitos, dolor de espalda, somnolencia, confusión, alucinaciones, tos, dificultad para respirar.
+En los estudios controlados con placebo en los cuales los pacientes con demencia recibieron dosis de memantina de hasta 20 mg/día, la probabilidad de discontinuación debida a un evento adverso fue la misma en el grupo que recibió memantina que en el grupo que recibió placebo. Ningún evento adverso individual ha sido asociado con la interrupción del tratamiento en 1% o más de los pacientes tratados con memantina y en un porcentaje mayor que con placebo.
+Eventos postcomercialización:
+Se  han  identificado  las  siguientes  reacciones  adversas  durante  el  uso  de memantina posterior a la aprobación. Debido a que estas reacciones se informan voluntariamente de una población de tamaño incierto, no siempre es posible estimar de manera confiable su frecuencia o establecer una relación causal con la exposición al medicamento. Estas reacciones incluyen: Insuficiencia cardiaca congestiva, hepatitis, pancreatitis aguda, insuficiencia renal aguda,  síndrome  de  Stevens-Johnson,  ideación  suicida,  agranulocitosis, leucopenia  (incluida  neutropenia),  pancitopenia,  púrpura  trombocitopénica trombótica, trombocitopenia.
+Notificación de Sospecha de Reacciones Adversas:
+Es importante notificar la sospecha de reacciones adversas al medicamento
+
+tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: http://sistemas.anmat.gov.ar/aplicaciones_net/fvg_eventos_adversos_nuevo/index.htlm  y/o  al  Departamento de Farmacovigilancia de GADOR S.A. vía email a farmacovigilancia@gador.
+com o telefónicamente al 0800-220-2273.
+ABUSO Y DEPENDENCIA DEL FÁRMACO
+El clorhidrato de memantina no es una sustancia controlada.
+SOBREDOSIFICACION
+Los signos y síntomas asociados a la sobredosis con memantina en estudios clínicos y reportes de comercialización a nivel mundial incluyen: agitación, confusión, cambios en el ECG, pérdida de la conciencia, psicosis, inquietud, movimientos lentos, somnolencia, estupor, paso inestable, alucinaciones visuales, vértigo, vómitos y debilidad.
+Síntomas:  Sobredosis  relativamente  altas  (200  mg  y  105  mg/día  durante 3 días respectivamente) se han asociado únicamente con síntomas como cansancio, debilidad y/o diarrea o han sido asintomáticas. En casos de sobredosis por debajo de 140 mg o dosis no conocida aparecieron en los pacientes síntomas a nivel del sistema nervioso central (confusión, adormecimiento, somnolencia, vértigo, agitación, agresividad, alucinaciones y alteraciones de la marcha) y/o de origen gastrointestinal (vómitos y diarreas).
+La sobredosificación más grande conocida fue con 2 g de memantina, administrada  conjuntamente  con  una  medicación  antidiabética.  El  paciente experimentó coma, diplopía y agitación, pero se recuperó posteriormente. En otro caso de sobredosis grave, el paciente también sobrevivió y se recuperó.
+Dicho paciente había recibido 400 mg de memantina por vía oral, y experimentó síntomas a nivel del sistema nervioso central tales como inquietud, psicosis, alucinaciones visuales, proconvulsividad, somnolencia, estupor e inconsciencia. Dado que las estrategias para el tratamiento de la sobredosificación evolucionan en forma continua, se recomienda contactar a un Servicio de Toxicología para determinar las últimas recomendaciones para el tratamiento de la sobredosificación de cualquier fármaco.
+Al igual que en cualquier caso de sobredosificación, se recomienda adoptar medidas generales de apoyo, y el tratamiento debe ser sintomático, no existe antídoto específico para la intoxicación o sobredosis. Se deben utilizar procedimientos clínicos estándar para la eliminación del principio activo de forma apropiada, por ej.: lavado gástrico, carbón activado (interrupción de la recirculación enterohepática potencial), acidificación de la orina, diuresis forzada. En caso de aparición de signos y síntomas de sobrestimulación general del sistema nervioso central (SNC), se debe considerar llevar a cabo un tratamiento clínico sintomático cuidadoso.
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ: (011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS: (011) 4654-6648/4658-7777.
+Optativamente otros centros de Intoxicaciones”.
+PRESENTACIONES
+TONIBRAL® (Memantina clorhidrato 10 mg) : Envases conteniendo 30 comprimidos recubiertos.
+TONIBRAL® 20 (Memantina clorhidrato 20 mg) : Envases conteniendo 30 comprimidos recubiertos.
+CONDICIONES DE CONSERVACION Y ALMACENAMIENTO Conservar en su envase original a temperatura ambiente hasta 30oC.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+INFORMACION PARA EL PACIENTE
+
+COMPOSICION
+Cada comprimido recubierto de TONIBRAL® contiene:
+Memantina clorhidrato .......................................................................10 mg Excipientes: Celulosa microcristalina (PH 102), Celulosa microcristalina (PH
+200), Almidón RX 1500, Dióxido de silicio coloidal, Croscaramelosa sódica, Estearato de magnesio vegetal, Opadry YS 1 7003, Opaglos AG-7350 .. c.s.
+Cada comprimido recubierto de TONIBRAL® 20 contiene:
+Memantina clorhidrato .......................................................................20 mg Excipientes:  Celulosa  microcristalina,  Dióxido  de  silicio  coloidal,  Almidón pregelatinizado,  Croscaramelosa  sódica,  Estearato  de  magnesio,  Opadry
+YS 1 7003 blanco, Opaglos AG-7350, Óxido de hierro rojo, Óxido de hierro amarillo ....................................................................................................c.s.
+La siguiente información tiene el propósito de guiarlo con respecto al uso seguro de este medicamento. Esta información no reemplaza las indicaciones de su médico. Si usted posee alguna pregunta sobre TONIBRAL®, consulte con su médico.
+Qué es TONIBRAL®?
+TONIBRAL®  contiene  el  principio  activo  clorhidrato  de  memantina.  Pertenece  a  un  grupo  de  medicamentos  conocidos  como  medicamentos anti-demencia.
+La pérdida de memoria en la enfermedad de Alzheimer se debe a una alteración en las señales del cerebro. El cerebro contiene los llamados receptores N-metil-D-aspartato (NMDA) que participan en la transmisión de señales nerviosas importantes en el aprendizaje y la memoria. TONIBRAL® forma parte del grupo de medicamentos llamados antagonistas de los receptores
+NMDA. TONIBRAL® actúa sobre estos receptores mejorando la transmisión de las señales nerviosas y la memoria.
+Se utiliza en el tratamiento de pacientes con enfermedad de Alzheimer de moderada a severa.
+ANTES DE USAR TONIBRAL®
+Antes de comenzar a tomar TONIBRAL®, coméntele a su médico sobre sus antecedentes de salud, incluyendo si usted:
+• tiene antecedentes de epilepsia (enfermedad del sistema nervioso que puede o no producir movimientos bruscos del cuerpo).
+•  ha  sufrido  recientemente  un  infarto  de  miocardio  (ataque  al  corazón), sufre enfermedad cardíaca congestiva o tiene hipertensión (presión arterial elevada) no controlada.
+• tiene insuficiencia renal (problemas de riñón), su médico debe controlar  atentamente  la  función  renal  y  si  es  necesario,  adaptar  las  dosis  de
+TONIBRAL®.
+• Si padece acidosis tubular renal (ATR, exceso de sustancias productoras de ácido en la sangre debido a una disfunción renal [problema de riñón])
+o infecciones graves del tracto urinario (conducto de la orina), su médico puede tener que ajustar la dosis del medicamento.
+
+• está embarazada, está planeando quedar embarazada o está en periodo de lactancia (“dar el pecho” a su bebé).
+Informe a su médico sobre todos los medicamentos que toma, incluidos aquellos  que  se  compran  sin  receta,  vitaminas  y  suplementos  dietarios.
+Los medicamentos pueden tener interacciones entre sí, que pueden causar efectos adversos serios.
+La administración de TONIBRAL® puede producir cambios en los efectos de los siguientes medicamentos, por lo que puede que su médico necesite ajustar la dosis:
+Amantadina (utilizada en el tratamiento de enfermedades por virus), ketamina (utilizada para la anestesia), dextrometorfano (utilizado para suprimir la tos), dantroleno (utilizado para relajar los músculos), baclofeno (utilizado para relajar los músculos), cimetidina y ranitidina (utilizados para proteger al estómago de úlceras o lesiones similares) , procainamida y quinidina (utilizados para tratar las arritmias del corazón), quinina (utilizado para tratar el paludismo), nicotina (sustancia que se encuentra en el tabaco), hidroclorotiazida o cualquier combinación con hidroclorotiazida (diurético que se usa para tratar la presión arterial alta y la retención de líquidos ocasionada por diversas afecciones), anticolinérgicos (utilizados para tratar alteraciones del movimiento o espasmos intestinales), anticonvulsivantes (utilizados para prevenir y eliminar las convulsiones), barbitúricos (utilizados para inducir el sueño), agonistas dopaminérgicos (sustancias como L-dopa, bromocriptina, utilizados para tratar el parkinson), neurolépticos (utilizados en el tratamiento de enfermedades mentales), anticoagulantes orales (sustancias utilizadas para evitar que se formen coágulos en la sangre).
+Si ingresa en un hospital, informe que se encuentra tomando memantina.
+Quiénes no deben tomar TONIBRAL®
+No tome TONIBRAL®:
+• si es alérgico (hipersensible) al clorhidrato de memantina o a cualquiera de los demás componentes del comprimido.
+• si tiene menos de 18 años.
+• si está embarazada o amantando (“darle el pecho” a su bebé)
+USO APROPIADO DEL MEDICAMENTO
+•  Siga  exactamente  las  instrucciones  de  administración  de  TONIBRAL® indicadas por su médico. Consulte a su médico si tiene dudas.
+• La dosis recomendada para adultos y ancianos es de 20 mg una vez al día.
+• Para reducir el riesgo de aparición de efectos indeseables, esta dosis ha de  alcanzarse  de  manera  gradual  siguiendo  un  esquema  de  tratamiento diario que le indicará su médico. Para ajustar la dosis existen comprimidos con diferentes dosis.
+• Al inicio del tratamiento empezará a tomar TONIBRAL® 5 mg, como se lo indique su médico, e incrementará de forma semanal 5 mg hasta alcanzar la dosis recomendada (de mantenimiento). La dosis recomendada de mantenimiento es de 20 mg una vez al día, que se alcanza al comienzo de la cuarta semana.
+• TONIBRAL® debe administrarse por vía oral una vez al día. Para sacar el máximo provecho de su medicación, deberá tomarla todos los días y a la misma hora.
+• Los comprimidos se deben tragar con un poco de agua. Los comprimidos se pueden tomar con o sin alimentos.
+• Si se da cuenta de que ha olvidado tomar su dosis de TONIBRAL®, espere y tome la siguiente dosis a la hora habitual. No tome una dosis doble para compensar la dosis olvidada.
+• Las mujeres que toman TONIBRAL® deben suspender la lactancia (“dar el pecho” a su bebé).
+• Si padece problemas de riñón, su médico decidirá la dosis apropiada para su condición. En este caso, su médico debe controlar periódicamente cómo funcionan sus riñones.
+•  Continúe  tomando  TONIBRAL®  mientras  lo  beneficie.  El  médico  debe evaluar su tratamiento periódicamente.
+• Si usted toma  demasiado TONIBRAL® o sobrepasa la dosis, llame a su médico o a un centro de intoxicaciones.
+• Consulte con su médico en caso de que tenga dudas sobre el uso de este producto.
+
+MODO DE CONSERVACIÓN
+• Conserve TONIBRAL® en su envase original y a temperatura ambiente hasta 30 oC.
+• Mantenga TONIBRAL® lejos del alcance de los niños
+• No utilice TONIBRAL® después de la fecha de caducidad que aparece en el envase. La fecha de caducidad es el último día del mes que se indica.
+EFECTOS INDESEABLES
+Al igual que todos los medicamentos, TONIBRAL® puede producir efectos indeseables, aunque no todas las personas los sufran.
+En general los efectos indeseables fueron de leves a moderados.
+Los más frecuentes fueron vértigo (sensación que se mueven los objetos que  nos  rodean),  dolor  de  cabeza,  constipación,  somnolencia  (sentirse cansado o con sueño, o no poder mantener los ojos abiertos), presión alta, alergia al medicamento, alteraciones del equilibrio (sentirse con inestabilidad), disnea (dificultad para respirar) y pruebas de función hepática alterada.
+Efectos adversos poco frecuentes: Cansancio, infecciones por hongos, sentirse confuso, alucinaciones, vómitos, alteración de la marcha, insuficiencia cardíaca y formación de coágulos en el sistema venoso (trombosis/tromboembolismo venoso).
+Muy raros: Convulsiones.
+Frecuencia no conocida (la frecuencia no puede estimarse a partir de los datos disponibles): Inflamación del páncreas, inflamación del hígado (hepatitis) y reacciones psicóticas.
+La enfermedad de Alzheimer se ha relacionado con depresión, ideación suicida y suicidio. Se ha informado de la aparición de estos acontecimientos en pacientes tratados con TONIBRAL®.
+Estos no son todos los efectos indeseables que pueden ocurrir con TONIBRAL®, consulte a su médico para tener más información.
+Llame a su médico inmediatamente, si presenta alguno de los efectos indeseables anteriormente mencionados, o cualquier otro efecto indeseable que le preocupe mientras está tomando TONIBRAL®.
+RECORDATORIO
+“Este medicamento ha sido prescripto sólo para su problema médico actual.
+No lo recomiende a otras personas”.
+“MANTENER  TODOS  LOS  MEDICAMENTOS  FUERA  DEL  ALCANCE  DE
+LOS NIÑOS”
+PRECAUCIONES A TOMAR DURANTE EL TIEMPO QUE SE UTILIZA TONIBRAL®.
+Debe informar a su médico si ha cambiado recientemente o tiene la intención de cambiar su dieta de manera sustancial (por ejemplo de dieta normal a dieta vegetariana estricta) o si padece acidosis tubular renal (exceso de sustancias productoras de ácido en la sangre debido a un problema de riñón) o infecciones graves del tracto urinario (estructura que lleva la orina), ya que su médico puede tener que ajustar la dosis del medicamento.
+TONIBRAL®  puede  influenciar  (de  leve  a  moderadamente)  sobre  la  capacidad para conducir y utilizar máquinas. Su médico le informará si su enfermedad y el tratamiento con TONIBRAL® le permite conducir y usar máquinas con seguridad.
+
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la ANMAT: http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234”
+
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS: (011) 4654-6648/4658-7777.
+Optativamente otros centros de intoxicaciones”.
+PRESENTACIONES
+TONIBRAL® (Memantina clorhidrato 10 mg): Envases conteniendo 30 comprimidos recubiertos.
+TONIBRAL® 20 (Memantina clorhidrato 20 mg): Envases conteniendo 30 comprimidos recubiertos.
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com.ar o solicítela por correo electrónico: info@gador.com.ar
+
+GADOR S.A. Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000.
+D.T.: Jorge N. Naquit – Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+E.M.A.M.S. Certificado No 52.407
+Producto registrado en Bolivia, Paraguay y República Dominicana.
+Fecha última revisión: 02/2020
+
+G00100201-00

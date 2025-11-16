@@ -1,0 +1,837 @@
+TOBLAPTIN® 15 - TOBLAPTIN® 30
+TOLVAPTAN 15 mg
+TOLVAPTAN 30 mg
+
+Comprimidos
+Venta bajo receta. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido de TOBLAPTIN® 15 contiene:
+Tolvaptan ............................................................................... 15,000 mg
+Excipientes:
+Hidroxipropilcelulosa EXF ....................................................... 9,513 mg Lactosa monohidrato ............................................................ 34,638 mg
+Almidón de maíz ................................................................... 10,000 mg Celulosa microcristalina PH101 ............................................ 10,000 mg
+Indigotina ............................................................................... 0,004 mg Hidroxipropilcelulosa LH22 .................................................... 4,782 mg
+Estearato de magnesio vegetal ............................................... 1,063 mg
+
+Cada comprimido de TOBLAPTIN® 30 contiene:
+Tolvaptan .............................................................................. 30,000 mg
+Excipientes:
+Hidroxipropilcelulosa EXF ..................................................... 19,026 mg Lactosa monohidrato ............................................................. 69,276 mg
+Almidón de maíz ................................................................... 20,000 mg Celulosa microcristalina PH101 ............................................ 20,000 mg
+Indigotina ............................................................................... 0,008 mg Hidroxipropilcelulosa LH22 .................................................... 9,564 mg
+Estearato de magnesio vegetal ................................................ 2,126 mg
+
+ACCIÓN TERAPÉUTICA
+
+Grupo farmacoterapéutico: Diuréticos, antagonistas de la vasopresina.
+Código ATC: C03XA01.
+
+INDICACIONES
+
+Hiponatremia
+TOBLAPTIN® está indicado para el tratamiento de la hiponatremia hipervolémica o euvolémica clínicamente significativa (sodio sérico menor a 125 mEq/l o hiponatremia menos marcada pero sintomática y resistente a  la  corrección  por  restricción  de  líquidos),  incluyendo  pacientes  con insuficiencia cardíaca y síndrome de secreción inadecuada de hormona antidiurética (SIHAD). No debe tratarse con TOBLAPTIN® a aquellos pacientes que requieren intervención para aumentar el sodio sérico con urgencia para prevenir o tratar síntomas neurológicos graves.
+
+Poliquistosis renal autosómica dominante TOBLAPTIN® está indicado para ralentizar la progresión del desarrollo de quistes y la insuficiencia renal asociada a poliquistosis renal autosómica dominante (PQRAD) en adultos con enfermedad renal crónica
+(ERC) en estadio 1 a 4 al inicio del tratamiento y con signos de enfermedad de progresión rápida.
+
+ACCIÓN FARMACOLÓGICA
+
+Mecanismo de acción
+Tolvaptán es un antagonista de la vasopresina que bloquea específicamente la unión de la vasopresina arginina (AVP) a los receptores V2 en las porciones distales de la nefrona. La afinidad de tolvaptán por el receptor V2 humano es 1,8 veces superior a la de la AVP nativa. Tolvaptán antagoniza el efecto de la vasopresina y produce un aumento en la excreción urinaria de agua que resulta en un incremento en la depuración  de  agua  libre  (acuaresis),  una  osmolalidad  de  la  orina  y  como consecuencia, la elevación de las concentraciones séricas de sodio. La excreción urinaria de sodio y potasio, y las concentraciones plasmáticas de potasio no cambian significativamente.
+Los metabolitos de tolvaptán, en comparación con tolvaptán, no tienen o tienen una actividad antagonista leve ante los receptores V2 humanos.
+Las  concentraciones  plasmáticas  de  AVP  nativa  pueden  aumentar (promedio 2-9 pg/ml) con la administración de tolvaptán.
+
+Efectos farmacodinámicos
+Se  han  determinado  los  efectos  farmacodinámicos  de  tolvaptán  en sujetos sanos y en sujetos con PQRAD en estadio 1 a 4 de ERC.
+En sujetos adultos sanos, la administración oral de dosis de 7,5 a 120 mg de tolvaptán produjo un incremento de la tasa de excreción urinaria en un plazo de 2 horas desde la administración. Después de dosis orales únicas de 7,5 a 60 mg, el volumen de orina de 24 horas aumentó de forma dependiente  de  la  dosis,  con  volúmenes  diarios  que  variaron  desde  3 hasta 9 litros. Para todas las dosis, las tasas de excreción de orina regresaron a los niveles basales después de 24 horas. Después de dosis únicas de 60 a 480 mg, se excretó una media de unos 7 litros durante 0 a 12 horas, con independencia de la dosis administrada. Dosis notablemente superiores de tolvaptán producen respuestas más mantenidas sin afectar a la magnitud de la excreción, ya que las concentraciones activas de tolvaptán están  presentes  durante  períodos  más  largos  de  tiempo.  Luego  de  la administración de una dosis única de 60 mg de tolvaptán, el aumento de los niveles de sodio ocurre entre las 2 a 4 horas posteriores a la dosis;
+entre 4 y 8 horas luego de la dosis, se observó un efecto máximo con un aumento de aproximadamente 6 mEq en el sodio sérico y un aumento de aproximadamente 9 ml/min en la velocidad de excreción urinaria. Por lo tanto, el efecto farmacológico presenta un retraso respecto de concentraciones plasmáticas de tolvaptán. Alrededor del 60% del efecto máximo en el sodio sérico se mantiene hasta 24 horas posteriores a la dosis, pero la tasa de excreción urinaria ya no se mantiene aumentada ese tiempo.
+Una dosis superior a 60 mg de tolvaptán no produce mayores incrementos de la acuaresis o el sodio sérico. Los efectos de tolvaptán en el rango de dosis recomendado de 15 a 60 mg una vez al día para el tratamiento de la hiponatremia, parece estar limitado a acuaresis y al aumento resultante en la concentración de sodio.
+Los efectos del aclaramiento de agua libre y del volumen de orina resultan evidentes en todos los estadios de la ERC, observándose efectos absolutos más reducidos en los estadios posteriores, lo que es coherente con la disminución del número de nefronas totalmente funcionales. Las reducciones agudas en el volumen renal total medio se observaron también al cabo de 3 semanas de tratamiento, en todos los estadios de ERC, desde
+−4,6 % en la ERC en estadio 1 hasta −1,9 % en la ERC en estadio 4.
+No se observaron efectos significativos en el intervalo QTc luego de la administración de 30 mg y 300 mg de tolvaptán en los días 1 y 5. En la dosis de 300 mg, se observó un pico plasmático de tolvaptán aproximadamente 4 veces mayor que la concentración máxima alcanzada luego de la dosis de 30 mg. Luego de la administración de moxifloxacina el intervalo QT aumentó en 12 ms a las 2 horas el día 1 y 17 ms después de 1 hora el día 5 luego del tratamiento, lo que indica que el estudio fue diseñado y llevado a cabo adecuadamente para detectar el efecto de tolvaptán en el intervalo QT, el cual estuvo presente.
+
+FARMACOCINÉTICA
+
+Absorción
+Tras la administración oral, tolvaptán se absorbe rápidamente, observándose el pico de las concentraciones plasmáticas aproximadamente 2  horas  después  de  la  administración.  La  biodisponibilidad  absoluta del tolvaptán es de aproximadamente el 56 %. La coadministración de tolvaptán junto con una comida con alto contenido en grasas aumentó las  concentraciones  máximas  de  tolvaptán  hasta  incluso  duplicarlas, si bien no se observaron cambios en el ABC. Si bien se desconoce la relevancia clínica de este hallazgo, la dosis matutina se debe tomar en ayunas con el fin de reducir al mínimo el riesgo innecesario de aumentar la exposición máxima.
+
+Distribución
+Tras dosis orales únicas de ≥ 300 mg, las concentraciones plasmáticas máximas parecen estabilizarse, posiblemente debido a la saturación de la absorción. Tolvaptán se fija de manera reversible (98 %) a las proteínas plasmáticas.
+
+o moderada (Ccr 20 a 50 ml/min) no fueron significativamente distintas a las concentraciones de tolvaptán en pacientes con una función renal normal (Ccr 80 a 150 ml/min).
+El inicio y la compensación del efecto de tolvaptán en el sodio sérico fueron más lentos en pacientes con insuficiencia renal severa.
+En un análisis farmacocinético de la población de pacientes con poliquistosis renal autosómica dominante, las concentraciones de tolvaptán aumentaron, en comparación con los sujetos sanos, a medida que la función renal se situó por debajo de una TFGe de 60 ml/min/1,73 m2.
+Se asoció una reducción de TFGeERC-EPI de 72,2 a 9,79 (ml/min/1,73 m2) a una reducción del 32 % en el aclaramiento corporal total.
+No se han evaluado la eficacia y la seguridad de tolvaptán en quienes tienen un aclaramiento de creatinina < 10 ml/min y, por lo tanto, se desconocen.
+Edad
+El aclaramiento de tolvaptán no se ve afectado significativamente por la edad.
+
+Metabolismo
+Tolvaptán es ampliamente metabolizado en el hígado, prácticamente en exclusiva por el CYP3A. Tolvaptán es un sustrato débil del CYP3A y no parece tener actividad inhibitoria. Los estudios in vitro indicaron que  tolvaptán  no  tiene  ninguna  actividad  inhibitoria  del  CYP3A.  Se han identificado catorce metabolitos en el plasma, la orina y las heces;
+todos menos uno de ellos también fueron metabolizados por el CYP3A.
+El metabolito ácido oxobutírico es el único presente con una concentración mayor del 10 % de la radioactividad plasmática total; todos los demás metabolitos están presentes a concentraciones más bajas que el tolvaptán. Los metabolitos de tolvaptán contribuyen entre poco y nada al efecto farmacológico de tolvaptán; todos los metabolitos presentan una actividad antagonista entre nula y débil respecto a los receptores
+V2 humanos, en comparación con tolvaptán. La semivida de eliminación terminal es de aproximadamente 8 horas y se alcanza el estado estacionario de las concentraciones de tolvaptán tras la primera dosis.
+
+Eliminación
+Menos  del  1  %  del  principio  activo  intacto  se  excreta  inalterado  en la  orina.  Los  experimentos  con  tolvaptán  marcado  radioactivamente mostraron que se recuperó el 40 % de la radioactividad en la orina y el 59 % en las heces, mientras que tolvaptán inalterado representó el 32 % de la radioactividad. Tolvaptán es únicamente un componente menor del plasma (3 %).
+
+Linealidad/no linealidad
+Después de dosis orales únicas, los valores de la Cmáx resultan menores que los aumentos proporcionales de dosis de 30 mg a 240 mg y después presentan una concentración estable con dosis de entre 240 mg y 480 mg, la ABC aumenta linealmente.
+Tras la administración de varias dosis diarias de 300 mg, la exposición a tolvaptán solo aumentó 6,4 veces en comparación con una dosis de 30 mg. En el caso de los regímenes con dosis dividida de 30 mg/día, 60 mg/día y 120 mg/día en pacientes con poliquistosis renal autosómica dominante, la exposición (ABC) a tolvaptán aumenta linealmente.
+
+Poblaciones especiales
+Insuficiencia hepática
+Se ha investigado el efecto de una función hepática leve o moderadamente disminuida (clases A y B en la escala Child-Pugh) sobre la farmacocinética de tolvaptán en pacientes con hepatopatías de orígenes diversos. No se han observado cambios clínicamente significativos en el aclaramiento de las dosis entre 5 mg y 60 mg. Se dispone de información muy limitada sobre el caso de los pacientes con insuficiencia hepática grave (clase C en la escala Child-Pugh).
+En un análisis farmacocinético de la población en pacientes con insuficiencia hepática, las ABC de tolvaptán en pacientes con una insuficiencia hepática grave (clase C en la escala Child-Pugh) y leve o moderada (clases
+A y B en la escala Child-Pugh) fueron 3,1 veces y 2,3 veces más elevadas que en los sujetos sanos.
+En pacientes con hiponatremia de cualquier origen, la depuración de tolvaptán se reduce a aproximadamente 2 ml/min/kg. La insuficiencia hepática moderada o severa o la insuficiencia cardíaca disminuyen la depuración y aumentan el volumen de distribución de tolvaptán; sin embargo, dichos cambios no son clínicamente relevantes.
+Insuficiencia renal
+En un análisis de farmacocinética poblacional de pacientes con insuficiencia cardíaca, las concentraciones de tolvaptán de pacientes con afectación de la función renal leve (aclaramiento de creatinina [Ccr] 50 a 80 ml/min)
+
+POSOLOGÍA - MODO DE ADMINISTRACIÓN
+
+Hiponatremia
+El tratamiento con TOBLAPTIN® se debe iniciar en el hospital debido a la necesidad de realizar una fase de ajuste de la dosis que requiere una estrecha monitorización del sodio sérico y del estado volémico.
+
+Posología
+TOBLAPTIN® se debe iniciar a una dosis de 15 mg una vez al día. Luego de al menos 24 horas, aumentar la dosis a 30 mg. La dosis podría incrementarse hasta un máximo de 60 mg una vez al día según sea tolerada para  conseguir  el  nivel  deseado  de  sodio  sérico.  TOBLAPTIN®  debe administrarse preferiblemente por las mañanas, con independencia de que se tome con o sin alimentos. TOBLAPTIN® no se debe tomar con jugo de pomelo.
+Dosis más bajas de tolvaptán podrían ser necesarias en pacientes con riesgo  de  corrección  demasiado  rápida  del  sodio  (por  ejemplo,  en pacientes  con  enfermedades  oncológicas,  niveles  basales  de  sodio sérico muy bajos, que toman diuréticos o que toman suplementos de sodio). En estos casos, las formulaciones de TOBLAPTIN® 15 mg y 30 mg podrían no ser adecuadas.
+Durante el ajuste de la dosis, se debe monitorizar tanto el sodio sérico como el estado volémico de los pacientes. Se debe evitar la restricción de  líquidos  durante  las  primeras  24  horas  de  tratamiento.  Se  debe informar a los pacientes tratados con TOBLAPTIN® que pueden tomar líquido si tienen sed.
+En caso de que no se produzca un incremento adecuado de los niveles de  sodio  sérico,  se  deben  considerar  otras  opciones  de  tratamiento, tanto en lugar de tolvaptán o como tratamiento coadyuvante a éste. El uso de tolvaptán en combinación con otras opciones puede aumentar el riesgo de una corrección demasiado rápida del sodio sérico.
+En aquellos pacientes en los que se consiga un incremento adecuado de los niveles de sodio séricos, deben monitorizarse a intervalos regulares la enfermedad subyacente y los niveles de sodio sérico, para evaluar si es necesario continuar el tratamiento con tolvaptán. En el contexto de la hiponatremia, la duración del tratamiento queda determinada por la enfermedad subyacente y su tratamiento. Se espera que el tratamiento con tolvaptán continúe hasta que la enfermedad subyacente haya sido tratada adecuadamente o hasta el momento en que la hiponatremia haya dejado de ser un problema clínico. Con el fin de minimizar el riesgo de daño hepático, TOBLAPTIN® no debe administrarse durante más de 30 días para el tratamiento de la hiponatremia.
+Luego de suspender el tratamiento con TOBLAPTIN®, se debe recomendar a los pacientes que reanuden la restricción de líquidos, y se deben controlar los cambios en el sodio sérico y el volumen sérico.
+
+Poliquistosis renal autosómica dominante
+El tratamiento con TOBLAPTIN® se debe iniciar y continuar bajo la supervisión de un profesional médico con experiencia en el tratamiento de la PQRAD y que conozca completamente los riesgos del tratamiento con tolvaptán, incluida la toxicidad hepática y los requisitos de monitoreo.
+
+Posología
+TOBLAPTIN® se debe administrar dos veces al día, con un régimen de dosis dividida de 45 mg (3 comprimidos de TOBLAPTIN® 15 mg) + 15 mg, 60 mg (2 comprimidos de TOBLAPTIN® 30 mg) + 30 mg o 90 mg
+(3 comprimidos de TOBLAPTIN® 30 mg) + 30 mg. La dosis matutina se deberá tomar al menos 30 minutos antes del desayuno. La segunda
+
+dosis diaria se podrá tomar con o sin alimentos. De acuerdo con estos regímenes de dosis dividida, las dosis totales diarias serán de 60 mg,
+90 mg o 120 mg.
+
+Modificaciones de la dosis recomendada
+La dosis inicial es de 60 mg de tolvaptán al día con un régimen de dosis dividida de 45 mg (3 comprimidos de TOBLAPTIN® 15 mg al levantarse, antes de desayunar) + 15 mg (8 horas después). La dosis inicial se puede ajustar al alza hasta un régimen de dosis dividida de 90 mg de tolvaptán [60 mg (2 comprimidos de TOBLAPTIN® 30 mg) + 30 mg]
+al día y, a partir de ahí, a un régimen de dosis dividida de 120 mg de tolvaptán [90 mg (3 comprimidos de TOBLAPTIN® 30 mg) + 30 mg] al día, si se toleran, con un intervalo de al menos una semana entre cada ajuste de dosis. La dosis se debe ajustar con cuidado, para asegurarse de que no haya una mala tolerancia a dosis altas como consecuencia de un ajuste al alza demasiado rápido. La dosis se podrá volver a ajustar a la baja dependiendo de la tolerabilidad. Los pacientes se deben mantener con la dosis más alta de TOBLAPTIN® que puedan tolerar.
+El objetivo del ajuste de dosis es bloquear la actividad de la vasopresina en el receptor renal V2 de la manera más completa y constante posible, a la vez que se mantiene un equilibrio hídrico aceptable.
+Se  recomienda  realizar  mediciones  de  la  osmolalidad  urinaria  para monitorizar si la inhibición de la vasopresina es adecuada. La monitorización periódica de la osmolalidad plasmática o de la concentración sérica  de  sodio  (para  calcular  la  osmolalidad  plasmática)  y/o  el  peso corporal se deben emplear para monitorizar el riesgo de deshidratación asociada a los efectos acuaréticos de tolvaptán en caso de que el paciente ingiera una cantidad insuficiente de agua.
+No se ha evaluado la seguridad y la eficacia de tolvaptán en pacientes con ERC en estadio 5. Por este motivo, se debe interrumpir el tratamiento con tolvaptán si la insuficiencia renal progresa a ERC en estadio 5.
+Se debe interrumpir el tratamiento cuando la capacidad para beber o el acceso al agua estén limitados.
+TOBLAPTIN® no se debe tomar con jugo de pomelo. Se debe indicar a los pacientes que beban una cantidad suficiente de agua u otros líquidos acuosos.
+
+Ajuste de la dosis en pacientes tratados con inhibidores potentes del CYP3A En pacientes que tomen inhibidores potentes del CYP3A, las dosis de tolvaptán se deben reducir de la siguiente manera:
+
+Dosis diaria dividida de tolvaptán
+
+Dosis reducida (una vez al día)
+
+90 mg
+(3 comprimidos de TOBLAPTIN® de 30 mg) + 30 mg
+
+30 mg
+(con reducción posterior a 15 mg si la dosis de 30 mg no se tolera bien)
+
+Se tienen que considerar nuevas reducciones de dosis si los pacientes no toleran bien las dosis reducidas de tolvaptán.
+
+Poblaciones especiales
+Insuficiencia renal
+Tolvaptán está contraindicado en pacientes anúricos.
+No se requiere un ajuste de la dosis en los pacientes con insuficiencia renal.
+No se han llevado a cabo ensayos clínicos con sujetos con índices de filtración glomerular < 10 ml/min ni con pacientes sometidos a diálisis.
+No se recomienda el luso de tolvaptán en pacientes con índices de filtración glomerular < 10 ml/min. El riesgo de daño hepático en pacientes con una función renal gravemente deteriorada (esto es, tasa de filtración glomerular estimada [TFGe] < 20) puede ser más elevado; estos pacientes  deben  ser  supervisados  estrechamente  para  detectar  una posible hepatotoxicidad. Los datos sobre pacientes con ERC en estadio
+4 temprano son más limitados que los de los pacientes en estadio 1, 2 o 3. No hay datos disponibles para los pacientes con ERC en estadio 4 tardío (TFGe < 25 ml/min/1,73 m2) y estadio 5. Se debe interrumpir el tratamiento con tolvaptán si la insuficiencia renal progresa a ERC en estadio 5.
+Insuficiencia hepática
+En pacientes con insuficiencia hepática grave, se deben valorar detenidamente los riesgos y beneficios del tratamiento con TOBLAPTIN®.
+Los pacientes deben ser tratados con cuidado y se deben monitorizar regularmente las enzimas hepáticas.
+TOBLAPTIN® está contraindicado en pacientes con valores elevados de las enzimas hepáticas y/o signos o síntomas de daño hepático antes del inicio del tratamiento, y que cumplan los requisitos para la interrupción permanente del tratamiento con tolvaptán.
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve o moderada (clases A y B en la escala Child-Pugh).
+Población de edad avanzada
+El aumento de la edad no tiene ningún efecto sobre las concentraciones plasmáticas de tolvaptán. Se dispone de datos limitados sobre la seguridad y la eficacia de tolvaptán en pacientes con PQRAD de más de 55 años de edad.
+Población pediátrica
+No  se  ha  establecido  todavía  la  seguridad  y  eficacia  de  tolvaptán  en niños y adolescentes. No se dispone de datos. No se recomienda el uso de TOBLAPTIN® en pacientes pediátricos.
+
+Modo de administración
+TOBLAPTIN® se administra por vía oral.
+Los comprimidos se deben tragar sin masticar y acompañados de un vaso de agua.
+TOBLAPTIN® no se debe tomar con jugo de pomelo.
+
+60 mg
+(2 comprimidos de TOBLAPTIN® de 30 mg) + 30 mg
+
+30 mg
+(con reducción posterior a 15 mg si la dosis de 30 mg no se tolera bien)
+
+CONTRAINDICACIONES
+
+45 mg
+(3 comprimidos de TOBLAPTIN® de 15 mg) + 15 mg
+
+15 mg
+
+Ajuste de la dosis en pacientes tratados con inhibidores moderados del CYP3A En pacientes que tomen inhibidores moderados del CYP3A, las dosis de tolvaptán se deben reducir de la siguiente manera:
+
+Dosis diaria dividida de tolvaptán
+
+Dosis dividida reducida
+
+90 mg
+(3 comprimidos de TOBLAPTIN® de 30 mg) + 30 mg
+
+45 mg
+(3 comprimidos de TOBLAPTIN® de 15 mg) + 15 mg
+
+60 mg
+(2 comprimidos de TOBLAPTIN® de 30 mg) + 30 mg
+
+45 mg
+(3 comprimidos de TOBLAPTIN® de 15 mg) + 15 mg
+
+30 mg + 15 mg
+
+15 mg + 15 mg
+
+•  Hipersensibilidad al principio activo o a alguno de los excipientes, o
+
+a la benzazepina o derivados de la benzazepina.
+
+•  Concentración elevada de enzimas hepáticas y/o signos o síntomas de daño hepático antes del inicio del tratamiento y cumplimiento de los requisitos para la interrupción permanente del tratamiento con tolvaptán.
+
+•  Anuria, ya que no se espera un beneficio clínico en pacientes que no
+
+pueden orinar.
+
+•  Hipovolemia, dado que los riesgos asociados al empeoramiento de la  hipovolemia,  incluidas  las  complicaciones  como  hipotensión  e insuficiencia renal, superan los posibles beneficios.
+
+•  Hiponatremia hipovolémica.
+•  Hipernatremia.
+•  Pacientes incapaces de percibir o responder a la sensación de sed.
+•  Embarazo.
+•  Lactancia.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+
+Necesidad urgente de elevar el sodio sérico de inmediato Tolvaptán no ha sido estudiado en un contexto de necesidad urgente de elevar el sodio sérico de inmediato. En estos pacientes, se debe considerar un tratamiento alternativo.
+
+Corrección excesivamente rápida del sodio sérico Los pacientes con una concentración basal de sodio sérico demasiado baja pueden correr un mayor riesgo de sufrir una corrección excesivamente rápida de dicho valor.
+Una  corrección  excesivamente  rápida  de  la  hiponatremia  (aumento ≥ 12 mmol/l/24 horas) puede causar una desmielinización osmótica que dé lugar a disartria, mutismo, disfagia, aletargamiento, cambios de tipo afectivo, cuadriparesia espástica, convulsiones, coma o muerte.
+Por  consiguiente,  una  vez  iniciado  el  tratamiento  debe  realizarse  un seguimiento estrecho de la concentración de sodio sérico y del estado volémico de los pacientes (ver más arriba).
+Para  reducir  al  mínimo  el  riesgo  de  que  se  produzca  una  corrección excesivamente rápida de la hiponatremia, el aumento del sodio sérico debe ser menor de 10-12 mmol/l/24 horas y de 18 mmol/l/48 horas. Por consiguiente, se aplican límites más conservadores durante la primera fase del tratamiento.
+En  caso  de  que  la  corrección  del  sodio  supere  los  6  mmol/l  durante las 6 primeras horas tras la administración o los 8 mmol/l durante las primeras 6-12 horas respectivamente, debe considerarse la posibilidad de que la corrección del sodio sérico se haya producido demasiado rápido. Debe realizarse una supervisión más frecuente del sodio sérico de estos pacientes y se recomienda administrarles fluidos hipotónicos. En caso de que el sodio sérico aumente a ≥ 12 mmol/l en un plazo de 24 horas o ≥ 18 mmol/l en un plazo de 48 horas, deberá interrumpirse o abandonarse el tratamiento con tolvaptán y administrarse a continuación fluidos hipotónicos.
+En el caso de los pacientes con un mayor riesgo de sufrir síndromes de desmielinización como por ejemplo los que presentan hipoxia, alcoholismo o desnutrición, el ritmo adecuado de la corrección del sodio puede ser inferior al de los pacientes que no presenten esos factores de riesgo.
+Deberá realizarse un seguimiento muy cuidadoso a estos pacientes.
+Los  pacientes  que  hayan  recibido  otro  medicamento  o  tratamiento para la hiponatremia que aumente la concentración de sodio en suero antes de iniciarse el tratamiento con TOBLAPTIN® deben tratarse con especial cuidado. Estos pacientes pueden correr un mayor riesgo de manifestar  una  corrección  rápida  de  la  concentración  de  sodio  en suero durante los primeros 1-2 días de tratamiento debido a los potenciales efectos aditivos.
+No se recomienda la administración concomitante de TOBLAPTIN® con otros tratamientos y medicamentos para la hiponatremia que aumenten la concentración sérica de sodio durante el tratamiento inicial o en otros pacientes con una concentración basal de sodio sérico muy baja.
+
+Toxicidad hepática idiosincrática
+Tolvaptán se ha asociado a elevaciones idiosincráticas de las concentraciones en sangre de alanina transaminasa (ALT) y de aspartato transaminasa (AST), con casos poco frecuentes de elevaciones concomitantes de la bilirrubina total (BT).
+En  la  experiencia  posterior  a  la  comercialización  con  tolvaptán  en  la PQRAD, se ha informado de insuficiencia hepática aguda que requiere trasplante de hígado.
+En un estudio doble ciego y controlado con placebo, en el que participaron pacientes con PQRAD, el periodo de manifestación de la lesión hepatocelular (por elevaciones de la ALT > 3 del LSN [límite superior normal]) se situó entre los 3 y 14 meses tras el comienzo del tratamiento y dichos aumentos fueron reversibles, dado que los valores de la ALT volvieron a ser < 3 del LSN, en un plazo de 1 a 4 meses. Si bien estas elevaciones concomitantes fueron reversibles al retirar inmediatamente  la  administración  de  tolvaptán,  representan  un  potencial  de  daño hepático  importante.  Cambios  similares  con  otros  medicamentos  se han  asociado  con  posibles  daños  hepáticos  irreversibles  y  potencialmente mortales.
+Los médicos prescriptores deben cumplir todas las medidas de seguridad que se indican a continuación.
+
+Con el fin de reducir el riesgo de que se produzca un daño hepático significativo y/o irreversible, se deben realizar análisis de sangre de transaminasas hepáticas y bilirrubina antes de iniciar el tratamiento con TOBLAPTIN®, así como cada mes durante 18 meses y a intervalos regulares (cada 3 meses) de ahí en adelante. Se recomienda monitorizar a la vez los síntomas que pueden ser indicativos de daño hepático, como fatiga, anorexia, náuseas, molestias en la parte superior derecha  del  abdomen,  vómitos,  fiebre,  erupción  cutánea,  prurito, orina oscura o ictericia.
+
+En el caso de pacientes que presenten valores anómalos de ALT, AST o BT antes del inicio del tratamiento, y que cumplan los criterios para la interrupción permanente (ver más adelante), el uso de tolvaptán está contraindicado. En caso de presentar valores iniciales anómalos,  por  debajo  de  los  límites  para  la  interrupción  permanente, solo se podrá iniciar el tratamiento si los beneficios potenciales del mismo superan a los posibles riesgos y se deben seguir realizando pruebas funcionales hepáticas con una mayor frecuencia. Se recomienda contar con el asesoramiento de un hepatólogo.
+Durante los primeros 18 meses de tratamiento, solo se podrá tratar con  TOBLAPTIN®  a  aquellos  pacientes  cuyo  médico  haya  determinado que la función hepática permite continuar con el tratamiento.
+En  caso  de  manifestarse  durante  el  tratamiento  el  comienzo  de signos  o  síntomas  sugestivos  de  una  lesión  hepática  o  aumentos anómalos  clínicamente  significativos  de  los  valores  de  ALT  o  AST, se debe interrumpir inmediatamente la administración de TOBLAPTIN®  y  repetir  los  análisis,  lo  que  incluye  la  obtención,  tan  pronto como sea posible (idealmente en un plazo de 48 a 72 horas) de los valores de ALT, AST, BT y fosfatasa alcalina (FA). Los análisis se deben seguir realizando con una mayor frecuencia hasta que se resuelvan o estabilicen los síntomas/signos/analíticas, momento en el cual se puede reiniciar el tratamiento con TOBLAPTIN®.
+La práctica clínica actual sugiere que se debe interrumpir el tratamiento con TOBLAPTIN® una vez se confirme el aumento o alteración sostenida de las concentraciones de transaminasas, e interrumpirse definitivamente en caso de producirse aumentos significativos y/o si persisten los síntomas clínicos de daño hepático.
+Las directrices recomendadas para la interrupción permanente son:
+•  ALT o AST > 8 veces el LSN
+•  ALT o AST > 5 veces el LSN durante más de 2 semanas
+•  ALT o AST > 3 veces el LSN y BT > 2 veces el LSN o el Cociente
+
+Normalizado Internacional (RIN) > 1,5
+
+•  ALT  o  AST  >  3  veces  el  LSN  con  síntomas  persistentes  de  daño
+
+hepático indicados anteriormente
+
+Si los valores de ALT y AST se mantienen por debajo de tres veces el  LSN,  se  puede  continuar  el  tratamiento  con  TOBLAPTIN®  con precaución, manteniendo una supervisión frecuente con las mismas dosis  o  bien  a  dosis  más  bajas,  ya  que  en  algunos  pacientes,  las concentraciones de transaminasas parecen estabilizarse durante el tratamiento continuo.
+
+Disponibilidad de agua
+Tolvaptán puede causar reacciones adversas relacionadas con la pérdida  de  agua,  como  sed,  poliuria,  nicturia,  polaquiuria,  xerostomía  y deshidratación. Por consiguiente, los pacientes deben tener acceso a agua (o a otros líquidos acuosos) y deben ser capaces de beber estos líquidos  en  cantidad  suficiente.  Con  el  fin  de  evitar  sufrir  una  sed excesiva o deshidratación, se debe indicar a los pacientes que beban en abundancia agua u otros líquidos acuosos al primer signo de sed.
+Además, los pacientes deben beber de 1 a 2 vasos de líquido antes de acostarse, con independencia de la sensación de sed que experimenten, y deben volver a beber tras cada micción nocturna.
+Si se trata con tolvaptán a pacientes con restricción de líquidos, se debe tener precaución especial para asegurarse de que los pacientes no se deshidraten en exceso.
+
+Deshidratación e hipovolemia
+El tratamiento con tolvaptán causa acuaresis profusa, que normalmente se compensa parcialmente con la ingesta de líquidos. La deshidratación  y  la  hipovolemia  pueden  ocurrir,  especialmente  en  pacientes con  depleción  de  volumen  que  reciben  diuréticos  o  con  restricción de  líquidos.  Se  debe  monitorizar  la  volemia  en  los  pacientes  tratados con tolvaptán, dado que este tratamiento puede dar lugar a una deshidratación grave, lo cual constituye un factor de riesgo de disfunción renal. En pacientes en tratamiento con tolvaptán que presentan signos o síntomas médicamente significativos de hipovolemia, se debe discontinuar o interrumpir el tratamiento con tolvaptán y proporcionar soporte  médico  con  control  de  los  signos  vitales,  balance  hídrico  y electrolitos. Se recomienda un control preciso del peso corporal. Una reducción progresiva del peso corporal podría ser un signo temprano de deshidratación progresiva. En caso de manifestarse una deshidratación, deberán tomarse las medidas adecuadas, incluyendo la necesidad de interrumpir o reducir la dosis de tolvaptán así como el aumento de  la  ingesta  de  líquidos.  Se  debe  tener  especial  cuidado  en  el  caso
+
+de  pacientes  con  afecciones  que  impidan  una  ingesta  adecuada  de líquidos o que corran un mayor riesgo de deshidratación, por ejemplo aquellos con vómitos o diarrea.
+Obstrucción del flujo urinario
+Hay  que  garantizar  la  excreción  de  orina.  Los  pacientes  con  una obstrucción parcial del flujo urinario, como por ejemplo los pacientes con hipertrofia de próstata o afectación de la micción, tienen un mayor riesgo de desarrollar retención aguda de orina.
+
+de  ácido  úrico  son  atribuibles  a  los  cambios  hemodinámicos  renales reversibles que se producen como respuesta a los efectos de tolvaptán sobre la osmolalidad urinaria y pueden ser clínicamente relevantes. Sin embargo, en el estudio doble ciego controlado con placebo, los acontecimientos  de  aumento  de  la  concentración  de  ácido  úrico  y/o  gota no fueron graves, ni causaron la interrupción del tratamiento. Se debe medir las concentraciones de ácido úrico antes de iniciar el tratamiento con TOBLAPTIN® y, a lo largo de éste, en función de los síntomas.
+
+Equilibrio hídrico y electrolítico
+Se debe supervisar en todos los pacientes el equilibrio hídrico y electrolítico, y especialmente en aquellos que presenten un trastorno renal o hepático. La administración de tolvaptán induce acuaresis copiosas y  puede  causar  deshidratación,  además  de  aumentar  la  concentración sérica de sodio, por lo que está contraindicada en pacientes con hipernatremia. Se tienen que evaluar los valores de creatinina sérica y  de  electrolitos  así  como  los  síntomas  de  desequilibrio  electrolítico
+(por  ejemplo,  mareo,  desmayo,  palpitaciones,  confusión,  debilidad, inestabilidad de la marcha, hiperreflexia, convulsiones o coma) antes y después de iniciar el tratamiento con TOBLAPTIN®, para poder detectar una posible deshidratación. La administración de tolvaptán puede causar  una  elevación  excesivamente  rápida  del  sodio  sérico  (>  12 mmol/l durante 24 horas); por consiguiente, se debe iniciar la supervisión de las concentraciones de sodio sérico en todos los pacientes como máximo  4-6  horas  después  de  iniciarse  el  tratamiento.  Durante  los 1-2 primeros días y hasta que se estabilice la dosis de tolvaptán, debe supervisarse la concentración de sodio sérico y el estado volémico como mínimo cada 6 horas.
+Durante el tratamiento a largo plazo, se tienen que monitorizar los electrolitos al menos cada tres meses.
+
+Anomalías en la concentración sérica de sodio Se  debe  corregir  cualquier  anomalía  relativa  al  sodio  (hiponatremia o  hipernatremia)  antes  de  iniciar  el  tratamiento  con  TOBLAPTIN®  en pacientes con PQRAD.
+
+Anafilaxia
+En la experiencia posterior a la comercialización se han notificado casos muy  raros  de  anafilaxia  (incluyendo  shock  anafiláctico  y  exantema generalizado) tras la administración de tolvaptán. Este tipo de reacción se  manifestó  tras  la  primera  administración  de  tolvaptán.  Se  debe vigilar a los pacientes de manera cuidadosa durante el tratamiento. Los pacientes con reacciones de hipersensibilidad conocidas a benzazepina o derivados de benzazepina (por ejemplo, benazepril, conivaptán, mesilato de fenoldopam o mirtazapina) pueden tener riesgo de reacciones de hipersensibilidad a tolvaptán.
+En caso de que se produjera una reacción anafiláctica o cualquier otra reacción  alérgica  grave,  se  debe  interrumpir  de  forma  inmediata  la administración de tolvaptán e iniciar un tratamiento adecuado. Dado que la hipersensibilidad es una contraindicación, no se debe reiniciar nunca  el  tratamiento  tras  una  reacción  anafiláctica  u  otra  reacción alérgica grave.
+
+Diabetes mellitus
+Los pacientes diabéticos con una concentración elevada de glucosa en sangre (por ejemplo, más de 300 mg/dl) pueden presentar pseudohiponatremia. Se debe descartar esta afección antes de iniciar el tratamiento con TOBLAPTIN® y durante el mismo.
+Tolvaptán  puede  causar  hiperglucemia.  Por  consiguiente,  se  debe tratar  con  precaución  a  los  pacientes  diabéticos  que  estén  tomando
+TOBLAPTIN®. Esto se aplica en particular a los pacientes con diabetes de tipo II no adecuadamente controlada.
+
+Aumento de la concentración de ácido úrico La  disminución  del  aclaramiento  del  ácido  úrico  por  el  riñón  es  un efecto conocido de tolvaptán. En un estudio doble ciego y controlado con placebo, en pacientes con PQRAD, se observaron valores elevados de ácido úrico de potencial significancia clínica (mayores de 10 mg/dl)
+en una mayor proporción de pacientes tratados con tolvaptán (6,2 %)
+en comparación con los pacientes que recibieron placebo (1,7 %). La reacción adversa gota se notificó con más frecuencia en los pacientes tratados con tolvaptán (2,9 %) que en los pacientes que recibieron el placebo (1,4 %). Además, en el ensayo a doble ciego y controlado con placebo se observó un mayor uso de alopurinol y otros medicamentos empleados para tratar la gota. Los efectos sobre la concentración sérica
+
+Efecto de tolvaptán sobre la tasa de filtración glomerular (TFG)
+Se  ha  observado  una  reducción  reversible  de  la  TFG  en  los  ensayos sobre PQRAD, al inicio del tratamiento con tolvaptán.
+
+Enfermedad renal crónica
+No se ha evaluado la seguridad y la eficacia de tolvaptán en pacientes con ERC en estadio 4 tardío (TFGe < 25 ml/min/1,73 m2) y estadio 5. Se debe interrumpir el tratamiento con tolvaptán si la insuficiencia renal progresa a ERC en estadio 5.
+
+Lactosa
+TOBLAPTIN®  contiene  lactosa  como  excipiente.  Los  pacientes  con intolerancia  hereditaria  a  galactosa,  alactasia  total  o  problemas  de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+Interacciones con otros medicamentos y otras formas de interacción Administración concomitante con otros tratamientos para la hiponatremia y medicamentos que aumenten la concentración sérica de sodio
+No hay experiencia de estudios clínicos controlados sobre el uso concomitante de tolvaptán con otros tratamientos para la hiponatremia como la solución de cloruro de sodio hipertónica, las formulaciones orales de sodio y medicamentos que aumenten la concentración sérica de sodio.
+Los medicamentos con un alto contenido en sodio, como los preparados analgésicos efervescentes y ciertos tratamientos para la dispepsia que contienen sodio, pueden aumentar la concentración de sodio en el suero. El uso concomitante de TOBLAPTIN® con otros tratamientos para la hiponatremia o medicamentos que aumenten la concentración sérica de sodio se puede asociar a un mayor riesgo de manifestar una corrección excesivamente rápida de la concentración sérica de sodio, por lo que no se recomienda durante el tratamiento inicial o en otros pacientes con una concentración basal de sodio sérico muy baja en los que una corrección rápida puede representar un riesgo de desmielinización osmótica.
+Hipercalemia o medicamentos que aumentan el potasio sérico El tratamiento con tolvaptán se asocia con una reducción aguda del volumen de líquido extracelular que podría dar como resultado un aumento del potasio sérico. Los niveles séricos de potasio deben ser monitoreados luego del inicio del tratamiento con TOBLAPTIN® en pacientes con potasio sérico > 5 mEq/l, así como en pacientes tratados con medicamentos que se sabe que aumentan los niveles séricos de potasio.
+Efecto de otros medicamentos sobre la farmacocinética de tolvaptán
+Inhibidores del CYP3A
+El  uso  concomitante  de  medicamentos  inhibidores  moderados  del CYP3A (por ejemplo, amprenavir, aprepitant, atazanavir, ciprofloxacina,  crizotinib,  darunavir/ritonavir,  diltiazem,  eritromicina,  fluconazol, fosamprenavir,  imatinib,  verapamilo)  o  inhibidores  potentes  del CYP3A (por ejemplo, itraconazol, ketoconazol, ritonavir, claritromicina)
+aumenta la exposición al tolvaptán.
+La administración concomitante de tolvaptán y ketoconazol dio como resultado un aumento del 440 % en el área bajo la curva (ABC) de la concentración  plasmática  en  función  del  tiempo  y  un  aumento  del 248  %  en  la  concentración  plasmática  máxima  observada  (Cmáx)  de tolvaptán.
+La administración concomitante de tolvaptán y fluconazol, un inhibidor moderado del CYP3A, dio como resultado un aumento de entre el 200 % y el 80 % en el ABC y la Cmáx de tolvaptán, respectivamente.
+La administración concomitante de tolvaptán junto con jugo de pomelo, un inhibidor del CYP3A entre moderado y potente, dobló el pico de las concentraciones (Cmáx) de tolvaptán.
+Se  recomienda  reducir  la  dosis  de  tolvaptán  en  los  pacientes  que estén siendo tratados con inhibidores entre moderados y potentes del CYP3A. Los pacientes que reciban inhibidores moderados o potentes del  CYP3A  deben  ser  tratados  con  precaución,  especialmente  si  los inhibidores se toman más de una vez al día.
+Inductores del CYP3A
+El uso concomitante de medicamentos inductores potentes del CYP3A
+
+(por  ejemplo,  rifampicina)  disminuirá  la  exposición  al  tolvaptán  así como su eficacia. La administración de tolvaptán junto con rifampicina reduce la Cmáx y el AUC de tolvaptán en torno al 85 %. Por consiguiente,  se  debe  evitar  administrar  de  forma  concomitante  tolvaptán  con inductores potentes del CYP3A (por ejemplo, rifampicina, rifabutina, rifapentina, fenitoína, carbamacepina e hipérico o hierba de San Juan).
+Diuréticos
+El uso de tolvaptán en combinación con diuréticos para el tratamiento de pacientes con PQRAD no ha sido ampliamente estudiado; si bien no parece haber un efecto sinérgico o aditivo en el uso concomitante de tolvaptán con diuréticos del asa y tiazídicos, cada clase de agente tiene el potencial de dar lugar a deshidratación grave, lo cual constituye un factor de riesgo de disfunción renal. En caso de manifestarse deshidratación o disfunción renal, se deben tomar las medidas adecuadas, lo que puede incluir la necesidad de interrumpir o reducir la dosis de tolvaptán y/o diuréticos así como de aumentar la ingesta de líquidos. Se debe evaluar y tratar otras posibles causas de disfunción renal o deshidratación.
+Efecto de tolvaptán sobre la farmacocinética de otros medicamentos
+Sustratos del CYP3A
+En sujetos sanos, el tolvaptán, un sustrato del CYP3A, no tuvo ningún efecto  sobre  las  concentraciones  plasmáticas  de  otros  substratos  del CYP3A  (por  ejemplo,  la  warfarina  o  la  amiodarona).  Tolvaptán  incrementó  las  concentraciones  plasmáticas  de  lovastatina  entre  un  1,3 y un 1,5. Si bien este aumento no tiene relevancia clínica, indica que tolvaptán  puede  potencialmente  aumentar  la  exposición  a  sustratos del CYP3A4.
+Sustratos de transportador
+Los estudios in vitro indican que tolvaptán es un sustrato y un inhibidor competitivo de la glucoproteína P (P-gp). Los estudios in vitro indican que tolvaptán o su metabolito oxobutírico pueden tener el potencial de inhibir los transportadores OATP1B1, OATP1B3, BCRP y OCT1. Las concentraciones de digoxina en estado estacionario aumentaron (1,3 veces la concentración plasmática máxima observada [Cmáx] y 1,2 veces el área bajo la curva de la concentración plasmática en relación con el tiempo a lo largo del intervalo posológico [ABCT]) al administrarse de forma conjunta con dosis diarias múltiples de 60 mg de tolvaptán. Por consiguiente, los pacientes tratados con digoxina o con otros sustratos de la glicoproteína P de índice terapéutico estrecho (por ejemplo, dabigatrán) deben ser tratados con precaución y deben ser evaluados por efectos en exceso durante el tratamiento con tolvaptán. Las estatinas empleadas  habitualmente  en  el  ensayo  fundamental  en  fase  3  de tolvaptán (por ejemplo, rosuvastatina y pitavastatina) son los sustratos de OATP1B1 o OATP1B3; sin embargo, no se observó ninguna diferencia en el perfil de acontecimientos adversos durante el ensayo pivotal en fase 3 de tolvaptán en pacientes con PQRAD. Si se administran los sustratos  de  OATP1B1  y  de  OATP1B3  (por  ejemplo,  estatinas  como rosuvastatina y pitavastatina), sustratos de OAT3 (por ejemplo, metotrexato o ciprofloxacina), sustratos de BCRP (por ejemplo, sulfasalazina)
+o sustratos de OCT1 (por ejemplo, metformina) junto con tolvaptán, los pacientes deben ser tratados con precaución y deben ser evaluados por los efectos excesivos de estos medicamentos.
+Fármaco(s) antihipertensivo(s) diurético(s) o no diurético(s)
+En los ensayos en pacientes con PQRAD, no se midió de forma rutinaria la tensión arterial en bipedestación. Por tanto, no se puede excluir el  riesgo  de  hipotensión  ortostática/postural  debido  a  la  interacción farmacodinámica con tolvaptán.
+Administración concomitante con análogos de la vasopresina Además de su efecto acuarético renal, tolvaptán es capaz de bloquear los receptores V2 de la vasopresina vascular que participan en la liberación de factores de coagulación (por ejemplo, factor de von Willebrand)
+de las células endoteliales. Por consiguiente, el efecto de los análogos de la vasopresina, como la desmopresina, se puede atenuar en pacientes  que  usen  estos  análogos  para  prevenir  o  controlar  hemorragias, administrados de forma conjunta con tolvaptán. No se recomienda la administración de TOBLAPTIN® con análogos de la vasopresina.
+Tabaquismo y alcohol
+Los datos relativos a los antecedentes de consumo de alcohol o tabaco en ensayos clínicos con pacientes con PQRAD son demasiado limitados para determinar posibles interacciones del tabaco o el alcohol con la seguridad y la eficacia del tratamiento de la PQRAD con tolvaptán.
+
+Carcinogénesis, mutagénesis, trastornos de la fertilidad y de la reproducción y otros datos preclínicos sobre seguridad Los datos de los estudios preclínicos no muestran riesgos especiales para los seres humanos según los estudios convencionales de farmacología  de  seguridad,  toxicidad  a  dosis  repetidas,  genotoxicidad  o potencial carcinogénico.
+En un estudio de fertilidad donde se administró por vía oral 100, 300 o 1000 mg/kg/día de tolvaptán a ratas macho y hembra, el nivel de dosis más alto se asoció con un número significativamente menor de cuerpos lúteos e implantes que el control.
+Dos estudios de la fertilidad en ratas detectaron efectos sobre la generación parental (reducción del consumo de alimentos e incremento del peso, salivación), pero tolvaptán no afectó al comportamiento reproductivo de los machos ni afectó a los fetos. En el caso de las hembras, se observaron ciclos menstruales anómalos en ambos estudios.
+El nivel sin efectos adversos observados (NOAEL) en el caso de los efectos en la reproducción en las hembras (100 mg/kg/día) fue unas ocho veces superior a la dosis máxima recomendada en humanos de 120 mg/día en base a una medición en mg/m2.
+En  estudios  de  desarrollo  embriofetal,  ratas  y  conejas  embarazadas recibieron  tolvaptán  por  vía  oral  durante  la  organogénesis.  Las  ratas recibieron de 2 a 162 veces la dosis máxima recomendada en humanos
+(DMRH) de tolvaptán (en base a la superficie corporal). La administración oral de tolvaptán a dosis de 10, 100 y 1000 mg/kg/día en ratas gestantes, se asoció a una reducción en el aumento de peso corporal materno y en la ingesta alimentaria a las dosis de 100 y 1000 mg/kg/ día (entre 16 y 162 veces la DMRH basada en la superficie corporal). A la dosis de 1000 mg/kg/día (162 veces la DMRH en base a la superficie corporal), se observó una reducción del peso fetal y retraso en la osificación fetal.
+La administración oral de tolvaptán a dosis de 100, 300 y 1000 mg/ kg/día (entre 32 y 324 veces la DMRH basado en la superficie corporal)
+en conejas embarazadas durante la organogénesis, estuvo asociada a una reducción en el aumento de peso corporal materno y en la ingesta alimentaria en todas las dosis, y abortos a las dosis medias y altas
+(alrededor de 97 y 324 veces la DMRH). Ante una dosis de 1000 mg/ kg/día (324 veces la DMRH), se observó un aumento en la incidencia de  muerte  embriofetal,  microftalmia  fetal,  párpados  abiertos,  labio leporino, braquimelia y malformaciones esqueléticas.
+
+Fertilidad
+En estudios en animales se han observado efectos sobre la fertilidad. Se desconoce cuál es el riesgo potencial para los seres humanos.
+
+Embarazo
+No hay datos o éstos son limitados relativos al uso de tolvaptán en mujeres embarazadas. En los estudios en animales se ha observado toxicidad reproductiva. No se recomienda utilizar TOBLAPTIN® en mujeres en edad fértil que no estén utilizando métodos anticonceptivos efectivos.
+TOBLAPTIN® está contraindicado durante el embarazo.
+Se desconoce el efecto de tolvaptan en el trabajo de parto y nacimiento en humanos.
+
+Lactancia
+Se desconoce si tolvaptán se excreta en la leche materna. En estudios en ratas se ha observado excreción de tolvaptán en la leche materna.
+No se puede excluir el riesgo en recién nacidos/niños. TOBLAPTIN® está contraindicado durante la lactancia.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de tolvaptán sobre la capacidad para conducir y utilizar maquinaria es pequeña. Al conducir y utilizar máquinas se tiene que tener en cuenta que, de manera ocasional, puede causar mareo, astenia, fatiga o síncope.
+
+Poblaciones especiales
+Empleo en población pediátrica
+No se ha establecido la seguridad y eficacia de tolvaptán en pacientes pediátricos. No se recomienda el uso de tolvaptán en pacientes pediátricos.
+Empleo en pacientes de edad avanzada
+El aumento de la edad no tiene ningún efecto sobre las concentraciones plasmáticas de tolvaptán, por lo que no es necesario el ajuste de la dosis.
+En estudios clínicos con pacientes hiponatrémicos tratados con tolvaptán, no se observaron diferencias en seguridad o eficacia entre pacientes de 65 años o más respecto a pacientes de menor edad, pero, no obstante, no se puede descartar una mayor sensibilidad de algunos individuos mayores. Se dispone de datos limitados sobre la seguridad y la eficacia de tolvaptán en pacientes con PQRAD de más de 55 años de edad.
+
+Empleo en insuficiencia renal
+Tolvaptán está contraindicado en pacientes anúricos.
+No se requiere un ajuste de la dosis en los pacientes con insuficiencia renal.
+No existen datos de estudios clínicos en pacientes con índices de filtración  glomerular  <  10  ml/min  ni  con  pacientes  sometidos  a  diálisis.
+No se recomienda el uso de TOBLAPTIN® en pacientes con índices de filtración glomerular < 10 ml/min.
+El riesgo de daño hepático en pacientes con una función renal gravemente  deteriorada  (esto  es,  tasa  de  filtración  glomerular  estimada
+[TFGe] < 20) puede ser más elevado; estos pacientes deben ser supervisados estrechamente para detectar una posible hepatotoxicidad. Se debe  interrumpir  el  tratamiento  con  TOBLAPTIN®  si  la  insuficiencia renal progresa a ERC en estadio 5.
+Empleo en insuficiencia hepática
+En pacientes con insuficiencia hepática grave, se deben valorar detenidamente los riesgos y beneficios del tratamiento con TOBLAPTIN®.
+Los pacientes deben ser tratados con cuidado y se deben monitorizar regularmente las enzimas hepáticas.
+Tolvaptán está contraindicado en pacientes con valores elevados de las enzimas hepáticas y/o signos o síntomas de daño hepático antes del inicio del tratamiento, y que cumplan los requisitos para la interrupción permanente del tratamiento con tolvaptán.
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve o moderada (clases A y B en la escala Child-Pugh).
+Empleo en insuficiencia cardíaca congestiva La  exposición  a  tolvaptán  en  pacientes  con  insuficiencia  cardíaca congestiva no aumenta a valores clínicamente relevantes. No es necesario ajustar la dosis.
+
+REACCIONES ADVERSAS
+
+Reacciones adversas notificadas en el tratamiento de la hiponatremia Las reacciones adversas más frecuentes (incidencia mayor o igual al 5% en relación al placebo) observadas en estudios clínicos de hiponatremia doble ciego, controlados con placebo, de 30 días de tratamiento con tolvaptán a dosis ajustadas (15 mg a 60 mg una vez al día), fueron sed, sequedad de boca, astenia, constipación, polaquiuria o poliuria e hiperglucemia.
+A  continuación  se  enumeran  las  reacciones  adversas  aparecidas durante el tratamiento con tolvaptán, agrupadas según el sistema de clasificación de órganos y por frecuencia. Las frecuencias se definen de la siguiente forma: frecuentes (mayor del 10 %); ocasionales (1 % al 10 %); raras (menor del 1 %). Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo de frecuencia. La frecuencia de las reacciones adversas notificadas durante el uso después de la comercialización no puede ser determinada, ya que se derivan de notificaciones espontáneas. Por lo tanto, la frecuencia de estas reacciones adversas se califica como “no conocida”.
+Trastornos del sistema inmunológico. Frecuencia no conocida: reacciones de hipersensibilidad que incluyen shock anafiláctico, erupción generalizada.
+Trastornos de la sangre y del sistema linfático. Raras: coagulación intravascular diseminada.
+Trastornos  del  metabolismo  y  la  nutrición.  Ocasionales:  polidipsia, deshidratación, hipercalcemia, hiperglucemia, hipoglucemia1, hipernatremia1,  hiperuricemia1,  apetito  disminuido.  Raras:  cetoacidosis diabética.
+Trastornos del sistema nervioso. Ocasionales: síncope1, cefalea1, mareo.
+Raras: disgeusia, accidente cerebrovascular. Frecuencia no conocida:
+síndrome de desmielinización osmótica.
+Trastornos cardíacos. Raras: trombo intracardíaco, fibrilación ventricular.
+Trastornos  vasculares.  Ocasionales:  hipotensión  ortostática.  Raras:
+trombosis venosa profunda.
+Trastornos  respiratorios,  torácicos  y  mediastínicos.  Raras:  embolia pulmonar, insuficiencia respiratoria.
+Trastornos gastrointestinales. Frecuentes: náuseas. Ocasionales: estreñimiento, diarrea1, xerostomía, sangrado gastrointestinal en pacientes con cirrosis. Raras: colitis isquémica.
+Trastornos hepatobiliares. Frecuencia no conocida: trastornos hepáticos2, insuficiencia hepática aguda3.
+Trastornos de la piel y del tejido subcutáneo. Ocasionales: equimosis, prurito. Raras: erupción pruriginosa1.
+
+Trastornos musculoesqueléticos y del tejido conjuntivo. Raras: rabdomiólisis.
+Trastornos renales y urinarios. Ocasionales: polaquiuria, poliuria. Raras:
+insuficiencia renal, hemorragia uretral.
+Trastornos del sistema reproductivo y de la mama. Raras: hemorragia vaginal.
+Trastornos  generales  y  alteraciones  en  el  lugar  de  administración.
+Frecuentes: sed. Ocasionales: astenia, pirexia, malestar1.
+Exploraciones complementarias. Ocasionales: presencia de sangre en orina1, alanina aminotransferasa elevada1, aspartato aminotransferasa elevada1, aumento de la creatinina en sangre. Raras: bilirrubina elevada1, tiempo de protrombina prolongado. Frecuencia no conocida: transaminasas elevadas2, hipernatremia.
+Procedimientos médicos y quirúrgicos. Frecuentes: corrección rápida de la hiponatremia, que en ocasiones da lugar a síntomas neurológicos.
+1 Observados en ensayos clínicos que investigan otras indicaciones.
+2 A partir de un estudio de seguridad posterior a la autorización sobre hiponatremia secundaria a SIHAD.
+3 Observado en la supervisión posterior a la comercialización de tolvaptán en PQRAD;
+fue necesario un trasplante de hígado.
+Descripción de reacciones adversas seleccionadas
+Corrección rápida de la hiponatremia
+En un estudio de seguridad posterior a la autorización de tolvaptán sobre hiponatremia secundaria a SIHAD, que incluyó una alta proporción de pacientes con tumores (especialmente con cáncer de pulmón microcítico), de pacientes con niveles basales de sodio sérico bajos y de pacientes con uso concomitante de diuréticos y/o solución de cloruro de sodio, se mostró que la incidencia de la corrección rápida de la hiponatremia era más elevada que en los ensayos clínicos.
+
+Reacciones adversas notificadas en el tratamiento de la poliquistosis renal autosómica dominante Las reacciones adversas predecibles desde el punto de vista farmacodinámico y notificadas con mayor frecuencia son sed, poliuria, nicturia y polaquiuria, que tuvieron lugar respectivamente en el 55 %, el 38 %, el 29 % y el 23 % de los pacientes. Además, tolvaptán se ha asociado a  elevaciones  idiosincrásicas  de  las  concentraciones  sanguíneas  de alanina transaminasa (ALT; 4,4 %) y de aspartato transaminasa (AST;
+3,1 %), con casos poco frecuentes de elevaciones concomitantes de la bilirrubina total (BT; 0,2 %).
+A  continuación  se  enumeran  las  reacciones  adversas  aparecidas durante el tratamiento con tolvaptán, agrupadas según el sistema de clasificación de órganos y por frecuencia. Las frecuencias se definen de la siguiente forma: frecuentes (mayor del 10 %); ocasionales (1 % al 10 %); raras (menor del 1 %). Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo de frecuencia. La frecuencia de las reacciones adversas notificadas durante el uso después de la comercialización no puede ser determinada, ya que se derivan de notificaciones espontáneas. Por lo tanto, la frecuencia de estas reacciones adversas se califica como “no conocida”.
+Trastornos del sistema inmunológico. Frecuencia no conocida: shock anafiláctico, erupción generalizada.
+Trastornos  del  metabolismo  y  la  nutrición.  Frecuentes:  polidipsia.
+Ocasionales: deshidratación, hipernatremia, apetito disminuido, hiperuricemia, hiperglucemia, gota.
+Trastornos psiquiátricos. Ocasionales: insomnio.
+Trastornos del sistema nervioso. Frecuentes: cefalea, mareo.
+Trastornos cardíacos. Ocasionales: palpitaciones.
+Trastornos respiratorios, torácicos y mediastínicos. Ocasionales: disnea.
+Trastornos gastrointestinales. Frecuentes: diarrea, boca seca. Ocasionales: dolor abdominal, distensión abdominal, estreñimiento, dispepsia, enfermedad por reflujo gastroesofágico.
+Trastornos  hepatobiliares.  Ocasionales:  función  hepática  anormal.
+Frecuencia no conocida: insuficiencia hepática aguda (observado en la supervisión posterior a la comercialización de tolvaptán en PQRAD; fue necesario un trasplante de hígado).
+Trastornos de la piel y del tejido subcutáneo. Ocasionales: erupción, prurito.
+Trastornos musculoesqueléticos y del tejido conjuntivo. Ocasionales:
+espasmos musculares.
+Trastornos renales y urinarios. Frecuentes: nicturia, polaquiuria, poliuria.
+Trastornos  generales  y  alteraciones  en  el  lugar  de  administración.
+Frecuentes: fatiga, sed. Ocasionales: astenia.
+Exploraciones complementarias. Ocasionales: alanina aminotransferasa elevada, aspartato aminotransferasa elevada, peso disminuido.
+Raras: bilirrubina elevada.
+
+Descripción de reacciones adversas seleccionadas
+Resultados analíticos
+Se observó una elevación (> 3 × límite superior de la normalidad [LSN]) de la ALT en el 4,4 % de los pacientes tratados con tolvaptán y en el 1,0 % de los pacientes con placebo, al tiempo que se observó una elevación (> 3 × LSN) de la AST en el 3,1 % de los pacientes tratados con tolvaptán y el 0,8 % de los pacientes con placebo en un ensayo con doble enmascaramiento, controlado por placebo en pacientes con PQRAD. Dos (0,2 %) de estos pacientes tratados con tolvaptán, así como un tercer paciente de un ensayo de ampliación abierto, mostraron aumentos en las enzimas hepáticas (> 3 × LSN) con elevaciones concomitantes en BT (> 2 × LSN).
+
+Notificación de Sospecha de Reacciones Adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continua de la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https://www.argentina.gob.ar/anmat/farmacovigilancia/ notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de GADOR S.A. vía email a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273(CARE).
+Siguiendo pautas internacionales, el producto TOBLAPTIN® se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR: Conjunto de actividades e intervenciones en Farmacovigilancia diseñadas para identificar, caracterizar, prevenir o minimizar riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones
+
+SOBREDOSIFICACIÓN
+
+En  los  ensayos  realizados  con  sujetos  sanos  se  han  tolerado  bien dosis únicas orales de hasta 480 mg (4 veces la dosis diaria máxima recomendada) y dosis múltiples de hasta 300 mg administrados una vez al día durante 5 días. No existe ningún antídoto específico para la intoxicación por tolvaptan. Puede preverse que los signos y síntomas de una sobredosis aguda sean los de un efecto farmacológico excesivo:
+aumento de la concentración sérica de sodio, poliuria, sed y deshidratación/hipovolemia.
+No se observó mortalidad en ratas o perros tras dosis únicas orales de 2.000  mg/kg  (dosis  máxima  viable).  Una  dosis  única  de  2.000  mg/ kg resultó letal en ratones, y los síntomas de toxicidad en los ratones afectados incluyeron un aumento de la actividad locomotora, marcha tambaleante, temblor e hipotermia.
+En caso de sospecha de sobredosis en pacientes se recomienda medir las constantes vitales, las concentraciones de electrolitos, realizar un ECG y medir el volumen de líquidos. La restitución adecuada de agua y/o  electrolitos  se  debe  mantener  hasta  que  disminuya  la  acuaresis.
+El  monitoreo  del  ECG  debe  comenzar  inmediatamente  y  continuar hasta que los parámetros del ECG estén dentro de rangos normales.
+La diálisis puede no resultar eficaz para eliminar el tolvaptán debido a la elevada afinidad de éste por las proteínas plasmáticas humanas (>
+98 %). La estrecha supervisión médica y el monitoreo deben continuar hasta la recuperación del paciente.
+
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros centros de intoxicaciones.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+Conservar en su envase original a fin de proteger el contenido de la luz y la humedad.
+
+PRESENTACIONES
+
+TOBLAPTIN® 15 y TOBLAPTIN® 30 se presentan en envases conteniendo 30 comprimidos.
+
+Este  medicamento  está  sujeto  a  seguimiento  adicional,  lo  que agilizará la detección de nueva información sobre su seguridad.
+
+Información para el paciente
+
+Composición
+Cada comprimido de TOBLAPTIN® 15 contiene:
+Tolvaptan ........................................................... ................ 15,000 mg
+Excipientes:
+Hidroxipropilcelulosa EXF ................................. ................... 9,513 mg Lactosa monohidrato ........................................ ................. 34,638 mg
+Almidón de maíz ............................................................... . 10,000 mg Celulosa microcristalina PH101 ......................................... 10,000 mg
+Indigotina .......................................................... .................. 0,004 mg Hidroxipropilcelulosa LH22 ................................................. 4,782 mg
+Estearato de magnesio vegetal ............................................ 1,063 mg
+
+Cada comprimido de TOBLAPTIN® 30 contiene:
+Tolvaptan ........................................................... ................ 30,000 mg
+Excipientes:
+Hidroxipropilcelulosa EXF ................................ .................. 19,026 mg Lactosa monohidrato ......................................................... 69,276 mg
+Almidón de maíz ............................................................... . 20,000 mg Celulosa microcristalina PH101 ........................................ 20,000 mg
+Indigotina .......................................................... .................. 0,008 mg Hidroxipropilcelulosa LH22 ................................................. 9,564 mg
+
+Estearato de magnesio vegetal ............................................. 2,126 mg
+
+TOBLAPTIN®  está  sujeto  a  un  plan  de  seguimiento  adicional,  que incluye medidas tendientes a agilizar la detección y la difusión de nueva información sobre su seguridad. Usted puede contribuir comunicando los efectos adversos que pudiera tener. En este prospecto encontrará los datos para la comunicación de cualquier inconveniente que tuviera con el producto.
+
+Lea todo el prospecto detenidamente antes de empezar a tomar este medicamento, y cada vez que se lo vuelvan a recetar, pues puede haber nueva información. Esta información no reemplaza a hablar con su médico sobre su estado de salud o su tratamiento.
+•  Conserve este prospecto, ya que puede tener que volver a leerlo.
+•  Si tiene alguna duda, CONSULTE A SU MÉDICO.
+•  Este medicamento se le ha recetado solamente a usted, y no debe dárselo a otras personas aunque tengan los mismos síntomas que usted, ya que puede perjudicarles.
+
+•  Si experimenta efectos no deseados, CONSULTE A SU MÉDICO, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto.
+
+Contenido del prospecto
+¿Qué es TOBLAPTIN® y para qué se utiliza?
+¿Qué necesita saber antes de empezar a utilizar TOBLAPTIN®?
+¿Cómo utilizar TOBLAPTIN®?
+Posibles efectos adversos de TOBLAPTIN®
+Recordatorio
+Conservación de TOBLAPTIN®
+Contenido del envase e información adicional
+
+¿Qué es TOBLAPTIN® y para qué se utiliza?
+TOBLAPTIN® es un medicamento que se utiliza para tratar distintas enfermedades.
+El principio activo de TOBLAPTIN® es tolvaptán.
+TOBLAPTIN®  se  utiliza  para  tratar  la  hiponatremia  (niveles  de sodio bajos en la sangre). TOBLAPTIN® aumenta los niveles de sodio bajos en sangre, en adultos con insuficiencia cardíaca y/o con ciertos desequilibrios  hormonales.  TOBLAPTIN®  cumple  su  función  eliminando el exceso de agua corporal por la orina.
+TOBLAPTIN®  se  utiliza  para  tratar  una  enfermedad  conocida como  «poliquistosis  renal  autosómica  dominante»  (PQRAD).
+Esta enfermedad da lugar al desarrollo de quistes rellenos de líquido en los riñones, lo que causa presión sobre los tejidos circundantes y  reduce  la  función  renal,  llegando  incluso  a  la  insuficiencia  renal.
+TOBLAPTIN® se usa para tratar la PQRAD en adultos con enfermedad renal crónica (ERC) en estadio 1 a 4 con signos de progresión rápida de la enfermedad.
+El principio activo tolvaptán bloquea el efecto de la vasopresina, una hormona que participa en la formación de quistes en los riñones de los  pacientes  con  PQRAD.  Al  bloquear  el  efecto  de  la  vasopresina,
+TOBLAPTIN® enlentece el desarrollo de quistes renales en los pacientes con PQRAD, reduce los síntomas de la enfermedad y aumenta la producción de orina.
+
+¿Qué necesita saber antes de empezar a utilizar TOBLAPTIN®?
+No tome TOBLAPTIN®
+•  Si es alérgico a tolvaptán o a alguno de los demás componentes de este medicamento o si es alérgico a la benzazepina o los derivados de la benzazepina (por ejemplo, benazepril, conivaptán, mesilato de fenoldopam o mirtazapina).
+
+•  Si se le ha dicho que tiene unas concentraciones elevadas de enzimas hepáticas en la sangre y que esto impide que reciba tratamiento con tolvaptán.
+
+•  Si sus riñones no funcionan (no hay producción de orina)
+•  Si sufre un trastorno asociado a un volumen sanguíneo muy bajo
+
+(por ejemplo, deshidratación grave o hemorragia).
+
+•  Si tiene un trastorno que aumenta la cantidad de sodio en su sangre.
+•  Si el nivel de sodio en su sangre debe aumentar inmediatamente.
+•  Si no siente la sensación de sed o no puede beber líquidos.
+•  Si está embarazada.
+•  Si está dando el pecho.
+
+Advertencias y precauciones
+Consulte a su médico antes de empezar a tomar TOBLAPTIN®:
+•  Si sufre enfermedad hepática.
+•  Si no puede beber agua suficiente o si tiene que limitar su ingesta
+
+de líquidos.
+
+•  Si no puede sentir sed.
+•  Si tiene dificultades para orinar (por ejemplo, tamaño aumentado
+
+de la próstata).
+
+•  Si  presenta  una  concentración  sanguínea  de  sodio  demasiado
+
+elevada o demasiado baja.
+
+•  Si ha sufrido en el pasado alguna reacción alérgica a benzazepina, tolvaptán u otros derivados de benzazepina (por ejemplo, benazepril, conivaptán, mesilato de fenoldopam o mirtazapina), o a cualquiera de los demás componentes de este medicamento.
+
+•  Si tiene diabetes.
+•  Si se le ha indicado que tiene una concentración elevada de ácido
+
+úrico en la sangre (lo que quizás le haya causado gota).
+
+•  Si tiene una enfermedad renal avanzada.
+•  Si está o planea quedar embarazada. No se sabe si TOBLAPTIN®
+
+puede dañar al feto.
+
+•  Si está amamantando. No se sabe si TOBLAPTIN® pasa a la leche materna. Su médico decidirá junto a usted si tomará TOBLAPTIN® o amamantará. No debe hacer ambas cosas.
+
+•  Si está tomando desmopresina (dDAVP).
+
+Cuando TOBLAPTIN® se usa para tratar la hiponatremia, puede hacer que el nivel de sodio en su sangre aumente demasiado rápido.  Esto  puede  aumentar  el  riesgo  de  una  afección  grave  llamada síndrome de desmielinización osmótica (SDO). El SDO puede provocar coma o muerte, o síntomas como:
+•  Dificultad para hablar.
+•  Problemas para tragar.
+•  Somnolencia.
+•  Confusión.
+•  Cambios de humor.
+•  Problemas para controlar el movimiento del cuerpo (movimiento involuntario) y debilidad en los músculos de los brazos y las piernas.
+
+•  Convulsiones.
+
+Informe a su médico inmediatamente si presenta alguno de estos o cualquier otro síntoma nuevo mientras toma TOBLAPTIN®.
+Puede tener mayor riesgo de SDO si:
+•  Tiene una enfermedad hepática.
+•  Si presenta carencias de nutrientes y vitaminas (desnutrición).
+•  Tiene nivel muy bajo de sodio en la sangre.
+•  Ha  estado  bebiendo  grandes  cantidades  de  alcohol  durante  un
+
+período prolongado (alcoholismo crónico).
+
+Para disminuir su riesgo de SDO mientras toma TOBLAPTIN®:
+•  El  tratamiento  con  TOBLAPTIN®  se  debe  iniciar  y  reiniciar  solo en un hospital, donde los niveles de sodio en sangre se pueden controlar de cerca.
+
+•  No tome TOBLAPTIN® si no puede sentir si tiene sed.
+•  Para  evitar  perder  demasiada  agua  corporal  (deshidratación)
+mientras tome TOBLAPTIN®, tenga siempre disponible agua para beber. A menos que su médico le indique lo contrario, tome agua siempre que sienta sed.
+
+•  Si su médico le indica continuar el tratamiento con TOBLAPTIN® luego de abandonar el hospital, es importante que no interrumpa y reinicie el tratamiento por su cuenta. Si deja de tomar por algún motivo TOBLAPTIN®, infórmelo inmediatamente a su médico. Es posible  que  deba  volver  al  hospital  para  reiniciar  el  tratamiento con TOBLAPTIN®.
+
+Este  medicamento  puede  hacer  que  su  hígado  no  funcione correctamente.  Por  este  motivo,  informe  a  su  médico  inmediatamente si manifiesta signos que puedan ser indicativos de problemas hepáticos, como:
+•  náuseas
+•  vómitos
+•  fiebre
+•  cansancio
+•  pérdida de apetito
+•  dolor abdominal
+•  orina oscura
+•  ictericia (color amarillento de la piel o los ojos)
+•  picazón (prurito) en la piel
+•  síndrome pseudogripal (dolor muscular y articular con fiebre)
+Durante el tratamiento con este medicamento, su médico le solicitará análisis sanguíneos mensuales para supervisar los cambios que puedan producirse en su función hepática.
+
+Beber una cantidad suficiente de agua
+Este medicamento produce una pérdida de agua porque aumenta la producción de orina. Esta pérdida de agua puede suponer la aparición de efectos adversos como sequedad bucal y sed o incluso efectos adversos más graves como problemas renales. Por consiguiente, es importante que tenga acceso a agua y que pueda ingerir cantidades suficientes de líquido cuando sienta sed. Antes de acostarse debe beber uno o dos vasos de agua incluso aunque no sienta sed y también debe beber agua después de orinar por la noche. Debe tener especial cuidado si sufre una enfermedad que reduzca la ingesta adecuada de líquidos o si tiene un mayor riesgo de deshidratación, por ejemplo si sufre vómitos o diarrea. Debido al aumento de la producción de orina,
+
+también es importante tener siempre cerca un baño.
+
+Niños y adolescentes
+No administre este medicamento a niños y adolescentes (menores de 18 años) porque no se ha estudiado en esta población.
+
+Otros medicamentos y TOBLAPTIN®
+Informe a su médico o farmacéutico si está tomando, ha tomado recientemente o pudiera tener que tomar cualquier otro medicamento, incluso los de venta sin receta. Conozca los medicamentos que toma, guarde una lista de ellos y ensénesela a su médico cuando utilice un nuevo medicamento.
+El uso de TOBLAPTIN® con ciertos medicamentos puede hacer que los niveles de TOBLAPTIN® en sangre aumenten demasiado. TOBLAPTIN® puede afectar la acción de otros medicamentos y otros medicamentos pueden afectar el efecto de TOBLAPTIN®.
+
+Los siguientes medicamentos pueden aumentar el efecto de TOBLAPTIN®:
+•  amprenavir,  atazanavir,  darunavir/ritonavir  y  fosamprenavir  (se
+
+utilizan para tratar el VIH/SIDA),
+
+•  aprepitant  (se  utiliza  para  evitar  las  náuseas  y  los  vómitos  en  la
+
+quimioterapia),
+
+•  crizotinib e imatinib (se utilizan para tratar el cáncer),
+•  ketoconazol, fluconazol o itraconazol (se utilizan para tratar infecciones por hongos),
+
+•  antibióticos macrólidos como la eritromicina o la claritromicina,
+•  verapamilo (se utiliza para tratar las enfermedades del corazón y
+
+la hipertensión arterial),
+
+•  diltiazem (se utiliza para tratar la hipertensión arterial y el dolor
+
+en el pecho).
+
+Los siguientes medicamentos pueden disminuir el efecto de TOBLAPTIN®:
+•  fenitoína o carbamacepina (se utilizan para tratar la epilepsia),
+•  rifampicina,  rifabutina  o  rifapentina  (se  utilizan  para  tratar  la
+
+tuberculosis),
+
+•  hipérico (un medicamento tradicional a base de plantas para aliviar el desánimo ligero y la ansiedad leve).
+
+TOBLAPTIN® puede aumentar el efecto de los siguientes medicamentos:
+•  digoxina (se utiliza para tratar la frecuencia cardíaca irregular y la
+
+insuficiencia cardíaca),
+
+•  dabigatrán (usado como anticoagulante de la sangre),
+•  rosuvastatina,  lovastatina  o  pitavastatina  (utilizados  para  disminuir la concentración de colesterol en la sangre),
+
+•  metotrexato (empleado para tratar el cáncer y la artritis),
+•  ciprofloxacina (un antibiótico),
+•  sulfasalazina  (se  utiliza  para  tratar  la  enfermedad  del  intestino
+
+irritable o la artritis reumatoide),
+
+•  metformina (para el tratamiento de la diabetes).
+
+TOBLAPTIN® puede disminuir el efecto de los siguientes medicamentos:
+•  análogos de la vasopresina como la desmopresina (utilizada para aumentar los factores de la coagulación sanguínea o para controlar la producción de orina o la incontinencia urinaria).
+
+Estos medicamentos pueden afectar a TOBLAPTIN® o ser afectados por este:
+•  diuréticos  (utilizados  para  aumentar  la  producción  de  orina).
+Cuando se toman al mismo tiempo que TOBLAPTIN®, estos medicamentos pueden aumentar el riesgo de padecer efectos adversos debidos a la pérdida de agua o pueden causar problemas de riñón.
+•  diuréticos u otros medicamentos para el tratamiento de la hipertensión.  Cuando  se  toman  al  mismo  tiempo  que  TOBLAPTIN®, estos medicamentos pueden aumentar el riesgo de sufrir bajadas de tensión al ponerse de pie o al incorporarse.
+
+•  medicamentos que aumentan el nivel de sodio en la sangre o que contienen grandes cantidades de sal, (por ejemplo, los comprimidos que se disuelven en agua y los que tratan la indigestión). Estos podrían aumentar los efectos de TOBLAPTIN®. Existe el riesgo de que esto pueda dar lugar a un exceso de sodio en su sangre.
+
+Puede que no suponga un problema el tomar estos medicamentos al mismo tiempo que TOBLAPTIN®. El médico decidirá qué es lo más conveniente para usted.
+
+Otras  interacciones  importantes  durante  el  tratamiento  con
+TOBLAPTIN®
+No tome jugo de pomelo mientras esté tomando este medicamento.
+
+Embarazo y lactancia
+No tome este medicamento si está embarazada o dando el pecho.
+Las mujeres potencialmente fértiles deben usar métodos anticonceptivos fiables mientras estén siendo tratadas con este medicamento.
+En caso de que esté embarazada o si se encuentra en fase de lactancia, o si cree que puede estar embarazada o tiene previsto quedarse embarazada, consulte a su médico antes de tomar este medicamento.
+
+Conducción y uso de máquinas
+Algunas  personas  pueden  sentirse  mareadas,  débiles  o  cansadas después de tomar TOBLAPTIN®. Si nota estos efectos, no conduzca ni utilice herramientas o máquinas.
+TOBLAPTIN® contiene lactosa.
+Si su médico le ha indicado que padece una intolerancia a ciertos azúcares, consulte con él antes de tomar este medicamento.
+
+¿Cómo utilizar TOBLAPTIN®?
+TOBLAPTIN® para el tratamiento de la hiponatremia Tome TOBLAPTIN® exactamente según las indicaciones de su médico. En caso de duda, consulte de nuevo a su médico.
+Tome TOBLAPTIN® una vez al día, con o sin alimentos. Trague los comprimidos sin masticar y acompañados de un vaso de agua.
+No  tome  jugo  de  pomelo  durante  el  tratamiento  con  TOBLAPTIN®, ya que esto podría hacer que los niveles de TOBLAPTIN® en sangre aumenten demasiado.
+Ciertos medicamentos o enfermedades pueden impedir que tome líquido o hacer que pierda mucho fluido corporal (por ejemplo, vómitos o diarrea). Si presenta estos problemas, llame inmediatamente a su médico.
+
+TOBLAPTIN® para el tratamiento de la poliquistosis renal autosómica dominante
+Solo los médicos especializados en el tratamiento de la PQRAD pueden recetar TOBLAPTIN®. Siga exactamente las instrucciones de administración de este medicamento indicadas por su médico. En caso de duda, consulte de nuevo a su médico.
+
+Dosis
+La cantidad diaria de TOBLAPTIN® se debe dividir en dos dosis, una más alta que la otra. La dosis más alta debe tomarla por la mañana al levantarse, al menos 30 minutos antes del desayuno, mientras que la más baja debe tomarse 8 horas más tarde, con o sin alimentos.
+Las combinaciones de dosis son:
+45 mg + 15 mg
+60 mg + 30 mg
+90 mg + 30 mg
+Normalmente, su tratamiento comenzará con una dosis de 45 mg por la mañana y 15 mg ocho horas más tarde. El médico podrá aumentar gradualmente su dosis hasta una combinación máxima de 90 mg al levantarse y 30 mg 8 horas más tarde. Para determinar cuál es la mejor dosis, el médico comprobará regularmente cómo tolera usted la dosis recetada. Siempre debe tomar la combinación de dosis más alta tolerable que le recete el médico.
+Si está tomando otros medicamentos que pueden aumentar los efectos de TOBLAPTIN®, puede que reciba dosis más bajas.
+
+Forma de administración
+Trague los comprimidos sin masticar y acompañados de un vaso de agua.
+La dosis de la mañana se debe tomar al menos 30 minutos antes del desayuno. La segunda dosis diaria podrá tomarse con o sin alimentos.
+
+Si olvidó tomar TOBLAPTIN®
+Si olvida tomar su medicamento, debe tomar la dosis tan pronto como lo recuerde el mismo día. Si no ha tomado los comprimidos un día, tome la dosis normal al día siguiente. No tome una dosis doble para compensar las dosis individuales olvidadas.
+
+Si interrumpe el tratamiento con TOBLAPTIN® Si  deja  de  tomar  TOBLAPTIN®  para  hiponatremia,  podría  producir
+
+que vuelva a tener niveles de sodio bajos. Sólo debe dejar de tomar TOBLAPTIN®  si  observa  efectos  adversos  que  requieran  atención médica urgente o si se lo indica su médico. Si su médico le indica que interrumpa el tratamiento con TOBLAPTIN® para hiponatremia, siga sus instrucciones sobre cómo limitar la cantidad de líquidos que debe tomar.
+Si  interrumpe  el  tratamiento  con  TOBLAPTIN®  para  PQRAD,  puede que los quistes renales crezcan igual de rápido que antes de empezar el tratamiento con este medicamento. Por consiguiente, solamente debe dejar de tomar este medicamento si nota efectos adversos que requieran una atención médica de urgencia o si así se lo indica su médico.
+Si tiene alguna duda acerca del uso de este medicamento, consulte a su médico.
+
+Si toma más TOBLAPTIN® del que debe
+En caso de que haya tomado más comprimidos de la dosis recetada, beba  agua  en  abundancia  y  póngase  inmediatamente  en  contacto con su médico o con el hospital más cercano. Recuerde llevar consigo el estuche del medicamento para que quede claro qué es lo que ha tomado. Si toma la dosis más alta muy tarde puede que tenga que ir con más frecuencia al baño por la noche.
+
+ Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros centros de intoxicaciones.
+
+Posibles efectos adversos de TOBLAPTIN®
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede producir efectos adversos, aunque no todas las personas los sufran.
+
+Efectos adversos graves
+Si sufre cualquiera de los siguientes efectos adversos, es posible que necesite recibir atención médica urgente. Deje de tomar TOBLAPTIN® y póngase de inmediato en contacto con un médico o acuda inmediatamente al hospital más próximo si:
+•  le cuesta orinar;
+•  se le hinchan la cara, los labios o la lengua, siente picazón, una erupción cutánea generalizada o tiene respiración sibilante (silbidos que se producen al respirar) o le cuesta respirar (síntomas de una reacción alérgica).
+
+TOBLAPTIN® puede hacer que su hígado no funcione correctamente.
+Consulte a su médico si aparecen síntomas de náuseas, vómitos, fiebre, cansancio, pérdida de apetito, dolor abdominal, orina oscura, ictericia (coloración amarillenta de la piel o los ojos), prurito en la piel o dolor articular y muscular con fiebre.
+
+TOBLAPTIN® puede provocar síndrome de desmielinización osmótica (SDO) cuando se usa para tratar la hiponatremia.
+Consulte a su médico si aparecen síntomas de dificultad para hablar,  problemas  para  tragar,  somnolencia,  confusión,  cambios  de humor,  problemas  para  controlar  el  movimiento  del  cuerpo  (movimiento involuntario) y debilidad en los músculos de los brazos y las piernas, o convulsiones.
+
+Otros efectos adversos
+Frecuentes (pueden afectar a más de 1 de cada 10 personas)
+•  sed (necesidad de ingerir una cantidad excesiva de agua)
+•  dolor de cabeza
+•  mareo
+•  diarrea
+•  sequedad bucal
+•  aumento  de  la  necesidad  de  orinar,  de  orinar  por  la  noche  o  de
+
+orinar con mayor frecuencia
+
+•  cansancio
+•  sensación de malestar
+•  aumento rápido del nivel de sodio
+
+Ocasionales (pueden afectar hasta 1 de cada 10 personas)
+•  deshidratación
+•  concentraciones elevadas de sodio, ácido úrico y azúcar en la sangre
+•  disminución del nivel de azúcar en sangre
+•  gota
+•  disminución del apetito
+•  dificultad para conciliar el sueño
+•  palpitaciones
+•  tensión arterial baja al ponerse de pie
+•  dificultad para respirar
+•  dolor de vientre
+•  sensación de estar lleno, tener el estómago hinchado o notar molestias en el estómago
+
+•  estreñimiento
+•  ardor de estómago
+•  función hepática anormal
+•  erupción cutánea
+•  sangrado irregular en zonas de la piel
+•  prurito
+•  espasmos musculares
+•  debilidad general
+•  fiebre
+•  sangre en la orina
+•  aumento de las concentraciones de enzimas hepáticas en la sangre
+•  aumento de los niveles de creatinina en la sangre
+•  pérdida de peso
+•  desmayos
+
+Raras (pueden afectar hasta 1 de cada 100 personas)
+•  aumento  de  la  concentración  de  bilirrubina  (una  sustancia  que puede causar amarilleamiento de la piel o los ojos) en la sangre
+
+•  alteración del sentido del gusto
+•  problemas renales
+
+Frecuencia  desconocida  (no  puede  estimarse  a  partir  de  los  datos disponibles)
+•  reacciones alérgicas
+•  erupción generalizada
+•  insuficiencia hepática aguda (IHA)
+•  síndrome de desmielinización osmótica
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto no deseado, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto. También puede comunicarse al Departamento de Farmacovigilancia GADOR S.A, a farmacovigilancia@gador.
+com o al 0800-220-2273(CARE).
+
+Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde 0800-333-1234
+
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+Siguiendo  pautas  internacionales,  el  producto  TOBLAPTIN®  se  encuentra  adherido  a  un  Plan  de  Gestión  de  Riesgo  (PGR)  aprobado por la ANMAT.
+PGR: Conjunto de actividades e intervenciones en Farmacovigilancia diseñadas para identificar, caracterizar, prevenir o minimizar riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”.
+
+Conservación de TOBLAPTIN®
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+Conservar en su envase original a fin de proteger el contenido de la
+
+luz y la humedad.
+Los medicamentos no se deben tirar por los desagües ni a la basura.
+Pregunte a su farmacéutico cómo deshacerse de los envases y de los medicamentos que ya no necesita. De esta forma, ayudará a proteger el medio ambiente.
+No utilice este medicamento si el envase está dañado.
+Ud. puede tomar TOBLAPTIN® hasta el último día del mes indicado en el envase. No tome TOBLAPTIN® luego de la fecha de vencimiento.
+
+Este folleto resume la información más importante de TOBLAPTIN®, para  mayor  información  y  ante  cualquier  duda  CONSULTE  CON  SU
+MÉDICO.
+
+Presentación
+TOBLAPTIN®  15  y  TOBLAPTIN®  30  se  presentan  en  envases  conteniendo 30 comprimidos.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestros sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429 - C1414CUI - C.A.B.A. Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado
+
+en Ciencias Farmacéuticas. E.M.A.M.S. Certificado N° 59.583. Fecha de última revisión: 01/2022.
+G00226800-00

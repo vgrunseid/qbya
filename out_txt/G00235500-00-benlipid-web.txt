@@ -1,0 +1,461 @@
+BENLIPID®
+ACIDO BEMPEDOICO 180 mg
+
+Comprimidos recubiertos
+Venta bajo receta. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de BENLIPID® contiene:
+Ácido bempedoico ..................................................................180,000 mg Celulosa microcristalina PH 102 ..............................................66,150 mg
+Dióxido de silicio coloidal ...........................................................5,000 mg Hidroxipropilcelulosa EXF ..........................................................4,800 mg
+Lactosa monohidrato.................................................................22,450 mg Lactosa monohidrato CD ...........................................................19,600 mg
+Almidón glicolato de sodio ...................................................... 23,000 mg Estearato de magnesio vegetal ..................................................9,000 mg
+Opadry II 85F28751 White1) .......................................................9,900 mg Opaglos GS 2-07002) ...................................................................0,024 mg
+1) Compuesto por: Alcohol polivinílico 3,960 mg, Dióxido de titanio 2,475 mg, Polietilenglicol 2,000 mg, Talco 1,465 mg.
+2) Compuesto por: Goma laca 0,012 mg, Cera blanca 0,006 mg, Cera carnauba
+0,006 mg.
+
+ACCIÓN TERAPÉUTICA
+
+Agentes modificadores de los lípidos, otros agentes modificadores de los lípidos.
+Código ATC: C10AX15.
+
+INDICACIONES
+
+BENLIPID® está indicado en adultos con hipercolesterolemia primaria (familiar y no familiar heterocigota) o dislipidemia mixta, como complemento de la dieta:
+En combinación con estatina o una estatina con otros tratamientos para la reducción de los lípidos en pacientes que no pueden alcanzar sus metas de C-LDL con la dosis máxima tolerada de una estatina.
+También está indicado en monoterapia o en combinación con otros tratamientos para la reducción de los lípidos en pacientes intolerantes a las estatinas o en los que esté contraindicada una estatina.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+El ácido bempedoico es un inhibidor de la adenosina trifosfato-citrato liasa (ACL) que reduce el colesterol de lipoproteínas de baja densidad
+(C-LDL) mediante la inhibición de la síntesis de colesterol en el hígado.
+La  ACL  es  una  enzima  secuencia  arriba  de  la  reductasa  3-hidróxido-3-metil-glutaril-coenzima A (HMG-CoA) en la vía de biosíntesis del colesterol. El ácido bempedoico, requiere la activación de la coenzima
+A (CoA) por la acil-CoA sintetasa 1 de cadena muy larga (ACSVL1) a ETC1002-CoA. La ACSVL1 se expresa principalmente en el hígado y no en el músculo esquelético. La inhibición de ACL por ETC-1002-CoA produce una reducción de la síntesis de colesterol en el hígado y reduce el C-LDL en la sangre mediante la regulación al alza de los receptores de las lipoproteínas de baja densidad. Además, la inhibición de ACL por ETC-1002-CoA produce supresión concomitante de la biosíntesis de los ácidos grasos hepáticos.
+
+Efectos farmacodinámicos
+La administración de ácido bempedoico en monoterapia y en combinación  con  otros  agentes  modificadores  de  los  lípidos,  disminuye  el C-LDL, el colesterol no de lipoproteínas de alta densidad (no-C-HDL), la apolipoproteína B (apo B) y el colesterol total (CT) en pacientes con hipercolesterolemia o dislipidemia mixta.
+
+Electrofisiología cardíaca
+A una dosis de 240 mg (1,3 veces la dosis aprobada recomendada), el ácido bempedoico no prolonga el intervalo QT en un grado clínicamente significativo.
+
+Propiedades farmacocinéticas
+Absorción
+Los datos farmacocinéticos indican que el ácido bempedoico se absorbe con una mediana de tiempo hasta la concentración máxima de 3,5 horas cuando se administra como BENLIPID® comprimidos 180 mg. Los parámetros farmacocinéticos del ácido bempedoico se presentan como la media [desviación estándar ± (SD)] a menos que se especifique lo contrario. El ácido bempedoico puede considerarse un profármaco que se activa intracelularmente por ACSVL1 a ETC-1002-CoA. La Cmáx y AUC en estado estacionario tras la administración de dosis múltiples en pacientes con hipercolesterolemia fueron de 14.8 microgramos /ml y de 348 microgramos h/ml respectivamente. La farmacocinética en estado estacionario del ácido bempedoico tras la administración repetida a la dosis recomendada, y el estado estacionario del ácido bempedoico se logró tras 7 días. La tasa media de acumulación del ácido bempedoico fue de aproximadamente 2.3 veces.
+La  administración  concomitante  de  alimentos  no  tuvo  ningún  efecto sobre la biodisponibilidad oral del ácido bempedoico cuando se administró BENLIPID® comprimidos 180 mg. Los alimentos ralentizan la velocidad de absorción del ácido bempedoico: la velocidad de absorción constante con alimentos es de 0.32/h.
+
+Distribución
+El volumen aparente de distribución (V/F) del ácido bempedoico fue de 18 litros. La unión a proteínas plasmáticas del ácido bempedoico, su glucurónido y su metabolito activo, ESP15228 fueron 99,3%. 98,8% y 99,2%, respectivamente. El ácido bempedoico no se distribuye en los glóbulos rojos.
+
+Metabolismo
+Los estudios de interacciones metabólicas in vitro indican que el ácido bempedoico, así como su metabolito activo y formas de glucurónido no se metabolizan por las enzimas del citocromo P450, ni las inhiben o inducen.
+La vía primaria de eliminación del ácido bempedoico es a través del metabolismo para formar acil glucurónido. El ácido bempedoico también se convierte de manera reversible a un metabolito activo (ESP15228)
+sobre  la  base  de  la  actividad  de  la  aldo-ceto  reductasa  observada  in vitro en el hígado humano. La relación del AUC plasmática media del metabolito/fármaco original para ESP15228 tras la administración de dosis repetidas fue del 18 % y permaneció constante en el tiempo. Ambos compuestos se convierten en conjugados de glucurónido inactivos in vitro por el UGT2B7. El ácido bempedoico, ESP15228 y sus formas conjugadas respectivas se detectaron en plasma, representando el ácido bempedoico la mayoría (46 %) del AUC0-48 h y siendo su glucurónido el siguiente en prevalencia (30 %). ESP15228 y su glucurónido representaron el 10 % y el 11 % del AUC0-48 h plasmática, respectivamente.
+La Cmáx y el AUC en estado estacionario del metabolito activo equipotente (ESP15228) del ácido bempedoico en pacientes con hipercolesterolemia fueron de 3,0 microgramos/ml y de 54,1 microgramos∙h/ml, respectivamente. Es probable que el ESP15228 hiciera una leve contribución a la actividad clínica global del ácido bempedoico sobre la base de la exposición sistémica y las propiedades farmacocinéticas.
+
+Eliminación
+La eliminación en estado estacionario (CL/F) del ácido bempedoico a partir de un análisis FC poblacional en pacientes con hipercolesterolemia fue de 11,2 ml/min tras la administración de una vez al día, la eliminación renal del ácido bempedoico inalterado representó menos del 2% de la eliminación total. La vida media ± SD del ácido bempedoico en humanos fue de 19(10) horas en estado estacionario.
+Tras la administración oral de una dosis única de 240 mg de ácido bempedoico (1,3 veces la dosis recomendada aprobada), aproximadamente el 62.1 % de la dosis total (ácido bempedoico y sus metabolitos) se recuperó en la orina, principalmente en forma de conjugado acil glucurónido del ácido bempedoico, y el 25.4% se recuperó en las heces. Menos del 5% de la dosis administrada se excretó como ácido bempedoico inalterado en heces y orina combinadas.
+
+Poblaciones especiales
+Insuficiencia renal
+La farmacocinética del ácido bempedoico se evaluó en un análisis FC poblacional  realizado  con  los  datos  agrupados  de  todos  los  ensayos clínicos (n = 2261) para evaluar la función renal en el AUC en estado estacionario del ácido bempedoico y en un estudio farmacocinético de dosis únicas en pacientes con diversos grados de función renal. En comparación con los pacientes con función renal normal, las exposiciones medias de ácido bempedoico fueron superiores en pacientes con insuficiencia renal leve o moderada en 1,4 veces (intervalo de predicción
+[IP] 90 %: 1,3; 1,4) y en 1,9 veces ( IP 90 %: 1,7; 2,0), respectivamente.
+Se dispone de información limitada en pacientes con insuficiencia renal grave; en un estudio de dosis únicas, el AUC del ácido bempedoico aumentó 2,4 veces en los pacientes (n = 5) con insuficiencia renal grave
+(TFGe <30 ml/min/1,73 m2) en comparación con los que tenían una función renal normal. Los estudios clínicos con ácido bempedoico no incluyeron a los pacientes con ERT sometidos a diálisis.
+
+Insuficiencia hepática
+Se estudió la farmacocinética del ácido bempedoico y su metabolito (ESP 15228) en pacientes con función hepática normal o insuficiencia hepática leve o moderada (Child-Pugh A o B) tras la administración de una dosis única (n = 8/grupo). En comparación con los pacientes con función hepática normal, la Cmáx y AUC medias del ácido bempedoico se redujeron en un 11 % y un 22 %, respectivamente, en pacientes con insuficiencia  hepática  leve  y  en  un  14%  y  16%,  respectivamente,  en pacientes con insuficiencia hepática moderada. No se espera que esto redunde en una menor eficacia. Por ello, no se requiere un ajuste de la dosis en los pacientes con insuficiencia hepática leve o moderada.
+El ácido bempedoico no se estudió en pacientes con insuficiencia hepática grave (Child Pugh C).
+
+Otras poblaciones especiales
+La  farmacocinética  del  ácido  bempedoico  no  se  vio  afectada  por  la edad, el género o la raza. El peso corporal fue una covariable estadísticamente significativa.  El cuartil mínimo del peso corporal (<73 kg)
+estaba  relacionado  con  una  exposición  aproximadamente  un  30  % superior. El aumento de la exposición no fue clínicamente significativo y no se recomienda ajustar la dosis sobre la base del peso.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+La dosis recomendada de BENLIPID® es de 180 mg administrados por vía oral una vez al día.
+
+Tratamiento concomitante con simvastatina Cuando BENLIPID® se administra de manera concomitante con simvastatina, la dosis de simvastatina se debe limitar a 20 mg al día (o 40 mg al día en pacientes con hipercolesterolemia grave y riesgo elevado de complicaciones cardiovasculares, que no hayan alcanzado sus metas de tratamiento con dosis más bajas y cuando se espere que los beneficios vayan a superar los posibles riesgos) (Ver Precauciones, Interacciones con otros medicamentos).
+
+Pacientes de edad avanzada
+No es necesario ajustar la dosis en pacientes de edad avanzada.
+
+Pacientes con insuficiencia renal
+No es necesario ajustar la dosis en los pacientes con insuficiencia renal de leve a moderada. Se dispone de datos limitados de pacientes con insuficiencia renal grave (definida como una tasa de filtración glomerular estimada [TFGe] <30 ml/min/1,73 m2), y no se ha estudiado en pacientes con enfermedad renal terminal (ERT) sometidos a diálisis. Puede estar justificado realizar una vigilancia de las reacciones adversas en estos pacientes cuando se administre BENLIPID®.
+
+Pacientes con insuficiencia hepática
+No es necesario ajustar la dosis en los pacientes con insuficiencia hepática leve o moderada (Child-Pugh A o B). No se dispone de datos en pacientes con insuficiencia hepática grave (Child-Pugh C). Se debe considerar la posibilidad de realizar periódicamente pruebas de la función hepática para los pacientes con insuficiencia hepática grave.
+
+Población pediátrica
+No se ha establecido todavía la seguridad y eficacia de ácido bempedoico en niños menores de 18 años. No se dispone de datos.
+
+Modo de administración
+Cada comprimido se debe tomar por vía oral con o sin alimentos. Los comprimidos se deben tragar enteros.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+Embarazo (Ver Precauciones, Embarazo).
+Lactancia (Ver Precauciones, Lactancia).
+Uso concomitante con simvastatina >40 mg al día (Ver Posología, Precauciones e Interacciones con otros medicamentos).
+
+ADVERTENCIAS
+
+Riesgo potencial de miopatía con el uso concomitante de estatinas El ácido bempedoico aumenta las concentraciones plasmáticas de las estatinas (ver Precauciones, Interacciones con otros medicamentos). Se debe vigilar a los pacientes que reciban ácido bempedoico como terapia adyuvante a una estatina por si sufriesen reacciones adversas que estén asociadas con el uso de dosis elevadas de estatinas. Las estatinas pueden provocar ocasionalmente miopatía. En casos raros, la miopatía puede adoptar la forma de rabdomiólisis con o sin insuficiencia renal aguda secundaria a mioglobinuria y puede provocar la muerte. Se debe informar a todos los pacientes que reciban BENLIPID® además de una estatina sobre el posible aumento del riesgo de miopatía e instar a comunicar enseguida cualquier dolor, sensibilidad o debilidad muscular injustificados. Si esos síntomas se producen cuando el paciente está recibiendo tratamiento con BENLIPID® y una estatina, se debe considerar una dosis máxima inferior de la misma estatina o una estatina alternativa o la suspensión de BENLIPID® y el inicio de un tratamiento alternativo para la reducción de los lípidos, con una estrecha vigilancia de los niveles de lípidos y las reacciones adversas. Si se confirma la miopatía por un nivel de creatina-fosfocinasa (CPK) >10 veces por encima del límite superior de la normalidad (LSN), se debe suspender inmediatamente BENLIPID® y cualquier estatina que el paciente esté tomando de manera concomitante.
+La miositis con un nivel de CPK >10 x LSN se ha comunicado en raras ocasiones  con  ácido  bempedoico  y  tratamiento  de  base  con  simvastatina  40  mg.  No  se  deben  usar  dosis  de  simvastatina  >40  mg  con BENLIPID®  (ver  Posología,  Precauciones-Interacciones  con  otros  medicamentos).
+
+PRECAUCIONES
+
+Hiperuricemia
+El  ácido  bempedoico  puede  aumentar  los  niveles  de  ácido  úrico  en suero debido a la inhibición del OAT2 tubular renal y puede provocar o exacerbar la hiperuricemia y precipitar gota en pacientes con antecedentes de gota o predispuestos a esta (Ver Reacciones adversas). El tratamiento con BENLIPID® se debe suspender si aparece hiperuricemia acompañada de síntomas de gota.
+
+Elevaciones de las enzimas hepáticas
+En los ensayos clínicos, se han comunicado con el ácido bempedoico elevaciones de >3 x LSN en las enzimas hepáticas alanina aminotransferasa (ALT) y aspartato aminotransferasa (AST). Estas elevaciones han sido asintomáticas y no iban acompañadas de elevaciones ≥2 x LSN en la bilirrubina o de colestasis y han vuelto a los valores iniciales al continuar el tratamiento o tras la suspensión del mismo. Se deben realizar pruebas de la función hepática al iniciar el tratamiento. El tratamiento con BENLIPID® se debe suspender si persiste un aumento de las transaminasas de >3 x LSN (Ver Reacciones adversas).
+
+Interacción con otros medicamentos y otras formas de interacción
+
+Efectos de otros medicamentos en el ácido bempedoico Interacciones farmacológicas mediadas por transportadores Estudios de interacciones farmacológicas in vitro indican que el ácido bempedoico,  así  como  su  metabolito  activo  y  forma  glucurónida,  no son  sustratos  de  los  transportadores  de  fármacos  descritos  habitualmente, con la excepción del glucurónido del ácido bempedoico, que es un sustrato de OAT3.
+
+Probenecid
+Probenecid, un inhibidor de la conjugación de glucurónido, se estudió para evaluar el posible efecto de estos inhibidores sobre la farmacocinética del ácido bempedoico. La administración de ácido bempedoico
+180 mg con probenecid en estado estacionario produjo un aumento de 1,7 veces el área bajo la curva (AUC) del ácido bempedoico y un aumento de 1,9 veces el AUC del metabolito activo del ácido bempedoico
+(ESP15228). Estas elevaciones no son clínicamente significativas y no afectan a las recomendaciones posológicas.
+Efectos del ácido bempedoico en otros medicamentos
+
+Estatinas
+Se  evaluaron  en  ensayos  clínicos  las  interacciones  farmacocinéticas entre ácido bempedoico 180 mg. y simvastatina 40 mg, atorvastatina
+80 mg, pravastatina 40 mg y rosuvastatina 40 mg.
+La administración de una  dosis  única de 40  mg  de simvastatina con 180 mg de ácido bempedoico en estado estacionario produjo un aumento de 2 veces la exposición al ácido de simvastatina.  Se observaron elevaciones de 1,4 y 1,5 veces en el AUC de atorvastatina, pravastatina y rosuvastatina (administradas en dosis únicas) y/o de sus metabolitos principales cuando se administraron de manera concomitante con ácido bempedoico 180 mg. Se observaron elevaciones superiores cuando estas estatinas se administraron de manera concomitante con una dosis supraterapéutica de 240 mg de ácido bempedoico.
+
+Interacciones farmacológicas mediadas por transportadores El  ácido  bempedoico  y  su  glucurónido  inhiben  débilmente  OATP1B1 y OATP1B3 a concentraciones clínicamente significativas. La administración  concomitante  de  ácido  bempedoico  con  medicamentos  que son sustratos de OATP1B1 o OATP1B3 (es decir, bosentán, fimasartán, asunaprevir,  glecaprevir,  grazoprevir,  voxilaprevir  y  estatinas  como atorvastatina, pravastatina, fluvastatina, pitavastatina, rosuvastatina y simvastatina puede producir un aumento de las concentraciones plasmáticas de estos medicamentos.
+El ácido bempedoico inhibe OAT2 in vitro, que puede ser el mecanismo responsable  de  las  pequeñas  elevaciones  de  la  creatinina  sérica  y  el ácido úrico (ver sección 4.8). La inhibición de OAT2 por el ácido bempedoico también puede potencialmente aumentar las concentraciones plasmáticas  de  medicamentos  que  son  sustratos  de  OAT2.  El  ácido bempedoico también puede inhibir débilmente OAT3 a concentraciones clínicamente significativas.
+
+Ezetimiba
+El AUC y la Cmáx de ezetimiba total (ezetimiba y su forma glucurónida)
+y  de  ezetimiba  glucurónido  aumentaron  aproximadamente  1,6  y  1,8 veces, respectivamente, cuando se administró una dosis única de ezetimiba con ácido bempedoico en estado estacionario. Este incremento se debe probablemente a la inhibición de OATP1B1 por el ácido bempedoico, que produce una reducción de la captación hepática y posteriormente una reducción de la eliminación de ezetimiba glucurónido. Los aumentos del AUC y de la Cmáx de ezetimiba fueron inferiores al 20 %.
+Estas elevaciones no son clínicamente significativas y no afectan a las recomendaciones posológicas.
+
+Otras interacciones estudiadas
+El ácido bempedoico no tuvo efecto sobre la farmacocinética ni en la farmacodinámica de la metformina, ni en la farmacocinética del anticonceptivo oral Noretisterona/Etinilestradiol.
+
+Carcinogénesis, mutagénesis y trastornos de la fertilidad En estudios de genotoxicidad no se han identificado mutagenicidad ni clastogenicidad del ácido bempedoico. En estudios de carcinogenicidad de vida completa en roedores, el ácido bempedoico aumentó la incidencia de tumores hepatocelulares y foliculares de la glándula tiroidea en ratas macho y tumores hepatocelulares en ratones macho.
+Puesto  que  se  trata  de  tumores  frecuentes  observados  en  ensayos biológicos de la vida completa de roedores y el mecanismo de tumorogénesis  es  secundario  a  la  activación  del  PPAR  alfa  específico  de roedores, no se considera que estos tumores puedan traducirse en un riesgo en humanos.
+Se observaron un aumento del peso del hígado e hipertrofia hepatocelular únicamente en ratas, que remitieron parcialmente tras la recuperación durante un mes a >30 mg/kg/día o 4 veces la exposición en humanos  a  180  mg.  Se  observaron  cambios  reversibles  no  adversos en los parámetros de laboratorio indicativos de estos efectos hepáticos, reducciones de los parámetros de glóbulos rojos y coagulación y aumentos en el nitrógeno ureico y la creatinina en ambas especies a las dosis toleradas. El nivel sin efecto adverso observado (NOAEL) de la respuesta adversa en estudios crónicos fue de 10 mg/kg/día y 60 mg/ kg/día asociados a exposiciones inferiores y 15 veces la exposición en humanos a 180 mg en ratas y monos, respectivamente.
+El ácido bempedoico no fue teratógeno ni tóxico en embriones o fetos de conejas gestantes a dosis de hasta 80 mg/kg/día o 12 veces la exposición sistémica en humanos a 180 mg. Las ratas gestantes que recibieron ácido bempedoico a 10, 30 y 60 mg/kg/día durante la organogénesis presentaron un menor número de fetos viables y un menor peso corporal fetal a ≥30 mg/kg/día o 4 veces la exposición sistémica en humanos a 180 mg. Se observó un aumento de la incidencia de hallazgos en el esqueleto de los fetos (escápula y costillas dobladas) con todas las dosis, a exposiciones inferiores a la exposición sistémica en humanos a 180 mg. En un estudio de desarrollo prenatal y posnatal, las ratas gestantes que recibieron ácido bempedoico a 5, 10, 20 y 30 mg/kg/día durante
+
+toda la gestación y la lactancia presentaron efectos adversos maternos a
+≥20 mg/kg/día y reducciones en el número de crías vivas y supervivencia de las crías, el crecimiento de las crías y el aprendizaje y la memoria a
+≥10 mg/kg/día, con exposiciones maternas a 10 mg/kg/día, menos que la exposición en humanos a 180 mg.
+No se dispone de datos sobre el efecto de ácido bempedoico en la fertilidad humana. La administración de ácido bempedoico a ratas macho y hembra antes del apareamiento y hasta el día 7 de gestación en hembras produjo cambios en el ciclo estral, redujo el número de cuerpos lúteos y de implantaciones a ≥30 mg/kg/día, sin efectos en la fertilidad de los machos o las hembras o los parámetros del esperma a 60 mg/kg/día (4 y 9 veces la exposición sistémica en humanos a 180 mg, respectivamente).
+
+Embarazo
+BENLIPID® está contraindicado durante el embarazo.
+No hay datos o estos son limitados relativos al uso de ácido bempedoico en mujeres embarazadas. Los estudios realizados con ácido bempedoico en animales han mostrado toxicidad para la reproducción.
+Dado que el ácido bempedoico reduce la síntesis de colesterol y posiblemente la síntesis de otros derivados del colesterol necesarios para el desarrollo normal del feto, BENLIPID® puede provocar daños en el feto cuando se administra a mujeres embarazadas. Se debe suspender
+BENLIPID® antes de la concepción o en cuanto se conozca el embarazo.
+
+Lactancia
+Se desconoce si el ácido bempedoico/metabolitos se excreta en la leche materna. Debido al potencial de reacciones adversas graves, las mujeres que  tomen  BENLIPID®  no  deben  amamantar  a  sus  hijos.  BENLIPID® está contraindicado durante la lactancia.
+
+Fertilidad
+No se dispone de datos sobre el efecto de ácido bempedoico en la fertilidad humana. Sobre la base de estudios en animales, no cabe esperar un efecto en la reproducción o la fertilidad con BENLIPID®.
+
+Pacientes de edad avanzada
+De los 3621 pacientes tratados con ácido bempedoico en estudios controlados con placebo, 2098 (58 %) tenían >65 años. No se observaron diferencias globales en la seguridad entre la población de personas de edad avanzada y de personas más jóvenes.
+
+Pacientes con insuficiencia renal
+Se cuenta con poca experiencia con el ácido bempedoico en pacientes con insuficiencia renal grave (definida como TFGe <30 ml/min/1,73 m2), y no se ha estudiado en pacientes con ERT sometidos a diálisis (Ver Farmacocinética, poblaciones especiales). Puede estar justificado realizar una vigilancia adicional de las reacciones adversas en estos pacientes cuando se administre BENLIPID®.
+
+Pacientes con insuficiencia hepática
+No  se  han  estudiado  los  pacientes  con  insuficiencia  hepática  grave (Child-Pugh C) (ver Farmacocinética, poblaciones especiales). Se debe considerar la posibilidad de realizar periódicamente pruebas de la función hepática para los pacientes con insuficiencia hepática grave.
+
+Población pediátrica
+No se ha establecido la seguridad y eficacia de BENLIPID® en niños menores de 18 años. No se dispone de datos.
+
+Anticoncepción
+Las mujeres en edad fértil deben utilizar métodos anticonceptivos efectivos durante el tratamiento. Se debe informar a las pacientes que dejen de tomar BENLIPID® antes de abandonar las medidas anticonceptivas si planean quedarse embarazadas.
+
+Excipientes
+BENLIPID® contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, deficiencia total de lactasa o problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+Este medicamento contiene menos de 23 mg de sodio (1 mmol) por comprimido recubierto de 180 mg (dosis diaria); esto es, esencialmente
+“exento de sodio”.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de BENLIPID® sobre la capacidad para conducir y utilizar máquinas es nula o insignificante.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+El perfil de seguridad del ácido bempedoico se ha estudiado en 4 estudios clínicos controlados de fase 3 (n = 3621) en los que se incluyó a pacientes con hipercolesterolemia que estaban recibiendo la dosis máxima tolerada de estatinas (2 estudios; n = 3008) y pacientes que no  estaban  recibiendo  o  que  estaban  recibiendo  una  dosis  baja  de estatinas  (2  estudios;  n  =  613).  Las  reacciones  adversas  notificadas con mayor frecuencia con ácido bempedoico durante los ensayos fundamentales  fueron  hiperuricemia  (3,8  %),  dolor  en  las  extremidades
+(3,1%) y anemia (2,5 %). El número de pacientes que recibieron ácido bempedoico y suspendieron el tratamiento fue mayor en comparación con los que recibieron placebo debido a espasmos musculares (0,7 % frente al 0,3 %), diarrea (0,5 % frente al <0,1 %), dolor en las extremidades (0,4 % frente a 0) y náuseas (0,3 % frente al 0,2 %), aunque las diferencias entre el ácido bempedoico y placebo no fueron significativas.
+
+Tabla de reacciones adversas
+Las  reacciones  adversas  comunicadas  con  ácido  bempedoico  se  presentan  de  acuerdo  con  la  clasificación  de  órganos  del  sistema  y  por frecuencia en la Tabla 1.
+Las  frecuencias  se  definen  como  muy  frecuentes  (≥1/10);  frecuentes (≥1/100  a  <1/10);  poco  frecuentes  (≥1/1.000  a  <1/100);  raras
+(≥1/10.000 a <1/1.000); muy raras (<1/10.000) y frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Tabla 1. Reacciones adversas
+
+Clasificación de los órganos del sistema
+
+Reacciones adversas
+
+Trastorno de la sangre y el sistema linfático
+
+Trastornos del metabolismo y de la nutrición
+
+Trastornos hepatobiliares
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Trastornos renales y urinarios
+
+Categoría de frecuencia
+
+Frecuentes
+Poco frecuentes
+
+Frecuentes
+Frecuentes
+Frecuentes
+
+Poco frecuentes
+
+Poco frecuentes
+
+Frecuentes
+
+Anemia
+Disminución de la hemoglobina
+Gota
+Hiperuricemia*
+Aumento del aspartato aminotransferasa
+Aumento de la alanina aminotransferasa
+Aumento en las pruebas de la función hepática
+Dolor en las extremidades
+
+Aumento de la creatinina en sangre
+Aumento de la urea en sangre
+Disminución de la tasa de filtración glomerular
+
+Poco frecuentes
+
+Poco frecuentes
+
+Poco frecuentes
+
+*La hiperuricemia incluye hiperuricemia y aumento del ácido úrico en sangre.
+
+Descripción de reacciones adversas seleccionadas
+Elevaciones de las enzimas hepáticas
+Se han notificado aumentos en las transaminasas séricas (AST y/o ALT)
+con ácido bempedoico. En los estudios clínicos controlados, la incidencia de elevaciones (=3 × LSN) de los niveles de transaminasas hepáticas fue del 0,7 % para los pacientes tratados con ácido bempedoico y del 0,3  %  para  el  placebo.  Estas  elevaciones  de  las  transaminasas  no  se asociaron con otros signos de disfunción hepática.
+
+Aumento del ácido úrico en suero
+Se observaron aumentos del ácido úrico en suero en ensayos clínicos con ácido bempedoico posiblemente relacionados con la inhibición del OAT2 tubular renal. En los ensayos agrupados controlados con placebo se observó un aumento medio de 0,8 mg/dl (47,6 micromol/l) en el ácido úrico en comparación con los valores iniciales con ácido bempedoico en la semana 12. Las elevaciones del ácido úrico en suero normalmente se produjeron en las 4 primeras semanas de tratamiento y volvieron a los  valores  iniciales  tras  la  suspensión  del  tratamiento.  Se  comunicó gota en el 1,4 % de los pacientes tratados con ácido bempedoico y en el 0,4 % de los pacientes tratados con placebo. En ambos grupos de tratamiento, los pacientes que comunicaron gota tenían más posibilidades de presentar antecedentes de gota o niveles iniciales de ácido úrico por encima del LSN.
+
+Efectos en la creatinina sérica y el nitrógeno ureico en sangre El ácido bempedoico ha mostrado aumentar la creatinina sérica y el nitrógeno ureico en sangre (BUN). En los ensayos agrupados controlados con placebo se observó un aumento medio de 0,05 mg/dl (4,4 micromol/l) en la creatinina sérica y un aumento medio de 1,7 mg/dl (0,61
+
+mmol/l) en el BUN en comparación con los valores iniciales con ácido bempedoico en la semana 12. Las elevaciones de la creatinina sérica y del BUN normalmente se produjeron en las 4 primeras semanas de tratamiento, se mantuvieron estables y volvieron a los valores iniciales tras la suspensión del tratamiento. Las elevaciones observadas en la creatinina sérica pueden estar relacionadas con la inhibición del ácido bempedoico de la secreción tubular renal de creatinina dependiente del  OAT2,  lo  que  representa  una  interacción  del  sustrato  endógeno con el fármaco, y no parece indicar un empeoramiento de la función renal. Se debe considerar este efecto al interpretar los cambios en el aclaramiento de creatinina estimado en pacientes en tratamiento con BENLIPID®, especialmente en pacientes con enfermedades o que reciban medicamentos que requieran una vigilancia del aclaramiento de creatinina estimado.
+
+Disminución de la hemoglobina
+Se observaron disminuciones de la hemoglobina en ensayos clínicos con ácido bempedoico. En los ensayos clínicos agrupados controlados con placebo, se observó una disminución de la hemoglobina respecto a los valores iniciales de ≥20 g/l y < límite inferior de la normalidad
+(LIN) en el 4,6 % de los pacientes del grupo de ácido bempedoico en comparación con el 1,9 % de los pacientes del grupo de placebo. Se comunicaron disminuciones de más de 50 g/l y < LIN en la hemoglobina a tasas similares en los grupos de ácido bempedoico y placebo (0,2 % frente al 0,2 %, respectivamente). Las disminuciones de la hemoglobina normalmente se produjeron en las 4 primeras semanas de tratamiento y volvieron a los valores iniciales tras la suspensión del tratamiento. Entre los pacientes que presentaban valores iniciales normales de hemoglobina, el 1,4 % en el grupo de ácido bempedoico y el 0,4 % en el grupo de placebo presentaron valores de hemoglobina inferiores al LIN durante el tratamiento. Se comunicó anemia en el 2,5 % de los pacientes tratados con ácido bempedoico y en el 1,6 % de los pacientes tratados con placebo.
+
+Notificación de sospecha de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medicamento  tras  su  autorización.  Ello  permite  una  supervisión  continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/ eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o  telefónicamente  al 0800-220-2273.
+Siguiendo pautas internacionales, BENLIPID® se encuentran adherido al Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar los riesgos potenciales conocidos de un producto, preservando sus beneficios terapéuticos.
+
+SOBREDOSIFICACIÓN
+
+Se han administrado dosis de hasta 240 mg/día (1,3 veces la dosis recomendada aprobada) en ensayos clínicos sin evidencia de toxicidad limitante de la dosis.
+No se observaron efectos adversos en estudios en animales a exposiciones hasta 14 veces mayores que en los pacientes tratados con ácido bempedoico a 180 mg una vez al día. No existe un tratamiento específico para la sobredosis de ácido bempedoico. En caso de sobredosis, se deben tratar los síntomas del paciente e instaurar medidas de apoyo en caso necesario.
+
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+
+PRESENTACIÓN
+
+Envases  conteniendo  30  comprimidos  recubiertos  (3  blíster  con  10 comprimidos recubiertos).
+
+Información para el paciente
+
+Composición
+Cada comprimido recubierto de BENLIPID® contiene:
+Ácido bempedoico ................................................................ 180,000 mg Celulosa microcristalina PH 102 ............................................66,150 mg
+Dióxido de silicio coloidal .........................................................5,000 mg Hidroxipropilcelulosa EXF ........................................................4,800 mg
+Lactosa monohidrato...............................................................22,450 mg Lactosa monohidrato CD .........................................................19,600 mg
+Almidón glicolato de sodio .....................................................23,000 mg Estearato de magnesio vegetal ................................................9,000 mg
+Opadry II 85F28751 White1) ..................................................... 9,900 mg Opaglos GS 2-07002) ................................................................. 0,024 mg
+1) Compuesto por: Alcohol polivinílico 3,960 mg, Dióxido de titanio 2,475 mg, Polietilenglicol 2,000 mg, Talco 1,465 mg.
+2) Compuesto por: Goma laca 0,012 mg, Cera blanca 0,006 mg, Cera carnauba 0,006 mg.
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+¿Qué es BENLIPID® y para que se utiliza?
+BENLIPID® es un medicamento que reduce los niveles de colesterol “malo” (también denominado “colesterol LDL”), un tipo de grasa, en la sangre.
+BENLIPID® contiene el principio activo ácido bempedoico, que permanece  inactivo  hasta  que  entra  en  el  hígado,  donde  cambia  a  su forma activa. El ácido bempedoico reduce la producción de colesterol en el hígado y aumenta la eliminación de colesterol LDL de la sangre al bloquear una enzima (ATP-citrato liasa) necesaria para la producción de colesterol.
+Está indicado en adultos con hipercolesterolemia primaria o dislipidemia mixta, que son enfermedades que producen niveles elevados de colesterol en la sangre. Se administra además de una dieta reductora del colesterol.
+BENLIPID® se administra:
+• si ha estado usando una estatina (simvastatina, medicamento que se utiliza habitualmente para tratar el colesterol alto) y no reduce su colesterol LDL lo suficientemente;
+
+•  solo  o  con  otros  medicamentos  para  la  reducción  de  colesterol
+
+cuando las estatinas no se toleran o no se pueden utilizar.
+
+¿Qué es lo que debo saber antes de empezar a tomar BENLIPID® y durante el tratamiento?
+No tome BENLIPID®
+• si es alérgico al ácido bempedoico o a alguno de los demás componentes de este medicamento;
+
+• si está embarazada;
+• si está en periodo de lactancia;
+• si toma más de 40 mg de simvastatina al día (otro medicamento que
+
+se usa para reducir el colesterol).
+
+¿Qué debo informar a mi médico antes de tomar BENLIPID® y durante el tratamiento?
+Antes de empezar a tomar BENLIPID® dígale a su médico:
+• Si alguna vez ha tenido gota o ácido úrico elevado
+• Si tiene problemas de riñón graves
+• Si tiene problemas de hígado graves
+Su médico puede hacerle un análisis de sangre antes de que empiece a tomar BENLIPID®. Se hace para comprobar cómo está funcionando su hígado.
+
+Niños y adolescentes
+No  administre  BENLIPID®  a  niños  y  adolescentes  menores  de  18
+
+años. No se ha estudiado el uso de BENLIPID® en este grupo de edad.
+
+¿Puedo tomar BENLIPID® con otros medicamentos?
+Informe  a  su  médico  si  está  tomando,  ha  tomado  recientemente  o pudiera tener que tomar cualquier otro medicamento. En particular, informe a su médico si está tomando alguno de los siguientes medicamentos con estos principios activos:
+•  Atorvastatina,  fluvastatina,  pitavastatina,  pravastatina,  rosuvastatina, simvastatina (usados para reducir el colesterol y conocidos como estatinas).
+
+El  riesgo  de  enfermedad  muscular  puede  aumentar  al  tomar  una estatina  y  BENLIPID®.  Informe  a  su  médico  inmediatamente  sobre cualquier dolor, sensibilidad o debilidad muscular no explicables.
+• Bosentán (usado para tratar una enfermedad llamada hipertensión
+
+arterial pulmonar).
+
+• Fimasartán (usado para tratar la tensión arterial alta y la insuficiencia
+
+cardíaca).
+
+•  Asunaprevir,  glecaprevir,  grazoprevir,  voxilaprevir  (usados  para
+
+tratar la hepatitis C).
+
+Embarazo y lactancia
+No tome este medicamento si está embarazada, tiene intención de quedarse embarazada o cree que podría estar embarazada, ya que existe una posibilidad de que pueda dañar al feto. Si se quedase embarazada mientras esté tomando este medicamento, llame inmediatamente a su médico y deje de tomar BENLIPID®.
+
+Embarazo
+Antes de iniciar el tratamiento, debe confirmar que no está embarazada y que está usando un anticonceptivo eficaz, según lo aconsejado por su médico. Si está usando la píldora y sufre un episodio de diarrea o vómitos que dure más de 2 días, debe usar un método anticonceptivo alternativo (p. ej., preservativos, diafragma) durante 7 días tras la resolución de los síntomas.
+Si, después de haber iniciado el tratamiento con BENLIPID®, decide que le gustaría quedarse embarazada, informe a su médico, ya que tendrá que cambiar su tratamiento.
+
+Lactancia
+No tome BENLIPID® si está en periodo de lactancia porque no se sabe si pasa a la leche materna.
+
+Conducción y uso de máquinas
+La influencia de BENLIPID® sobre la capacidad para conducir y utilizar máquinas es nula o pequeña.
+
+BENLIPID® contiene lactosa y sodio
+Si  su  médico  le  ha  indicado  que  padece  una  intolerancia  a  ciertos azúcares, consulte con él antes de tomar este medicamento, ya que contiene lactosa
+Este medicamento contiene menos de 23 mg de sodio por comprimido;
+esto es, esencialmente “exento de sodio”.
+
+¿Cómo debo tomar BENLIPID®?
+La administración de este medicamento es por vía oral.
+Tome BENLIPID® exactamente como se lo indico su médico. En caso de duda, consulte de nuevo a su médico.
+La dosis recomendada es de un comprimido diario.
+Trague el comprimido entero con comida o entre comidas.
+
+¿Qué debo hacer en caso de sobredosis?
+Si ha tomado más BENLIPID® del que le han indicado, hable con un médico o acuda al hospital inmediatamente con los comprimidos y este prospecto.
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+¿Qué debo hacer, si me olvido tomar una dosis de BENLIPID®?
+Si se olvidó de tomar una dosis, tómela tan pronto como lo recuerde.
+Luego, continúe al día siguiente como el médico le había indicado al horario habitual.
+No tome una dosis doble para compensar las dosis olvidadas.
+Siempre consulte a su médico.
+
+Si interrumpe el tratamiento con BENLIPID® No deje de tomar BENLIPID® sin el permiso de su médico, ya que su colesterol puede aumentar otra vez. Si tiene alguna pregunta sobre el uso de este medicamento, consulte con su médico.
+
+¿Cuáles son los efectos adversos que puede tener BENLIPID®?
+Al  igual  que  todos  los  medicamentos,  BENLIPID®  puede  producir efectos adversos, aunque no todas las personas los sufran.
+Los  efectos  adversos  de  BENLIPID®  pueden  producirse  con  las  siguientes frecuencias:
+Frecuentes
+(pueden afectar hasta a 1 de cada 10 personas)
+• disminución del número de glóbulos rojos (anemia)
+• aumento de los niveles de ácido úrico en la sangre, gota
+• dolor en los hombros, piernas o brazos
+• análisis de sangre que indican alteraciones en el hígado
+
+este  prospecto.  También  puede  comunicarse  al  Departamento  de Farmacovigilancia Gador S.A, teléfono 0800-220-2273 o a farmacovigilancia@gador.com.
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la Página Web de la ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes,  o  llamar  a
+ANMAT responde al 0800-333-1234”.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”.
+
+Siguiendo  pautas  internacionales,  BENLIPID®  se  encuentran adherido al Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar los riesgos potenciales conocidos de un producto, preservando sus beneficios terapéuticos.
+
+Conservación de BENLIPID®
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+Poco frecuentes
+(pueden afectar hasta a 1 de cada 100 personas)
+• disminución de la hemoglobina (proteína de los glóbulos rojos que
+
+Este  folleto  resume  la  información  más  importante  de BENLIPID®, para mayor información y ante cualquier duda CONSULTE CON SU MÉDICO.
+
+transporta oxígeno)
+
+• aumento de la creatinina y del nitrógeno ureico en sangre (análisis
+
+No utilice este medicamento si el envase está dañado.
+
+de laboratorio de la función renal)
+
+• disminución de la tasa de filtración glomerular (medida del funcionamiento de los riñones)
+
+Ud. puede tomar BENLIPID® hasta el último día del mes indicado en el envase. No tome BENLIPID® luego de la fecha de vencimiento.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en
+
+Presentaciones
+Envases conteniendo 30 comprimidos recubiertos (3 blíster con 10 comprimidos recubiertos).
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en
+
+Ciencias Farmacéuticas. E.M.A.M.S.: Certificado N° 59.783. Fecha de última revisión: 11/2022.
+
+G00235500-00

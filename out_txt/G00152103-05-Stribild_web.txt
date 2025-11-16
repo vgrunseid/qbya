@@ -1,0 +1,2626 @@
+STRIBILD®
+
+ELVITEGRAVIR 150 mg, COBICISTAT 150mg,
+EMTRICITABINA 200 mg,
+TENOFOVIR DISOPROXIL FUMARATO 300 mg
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Canadiense.
+
+Cada comprimido recubierto de STRIBILD® contiene:
+Elvitegravir ............................................................................................................ 150 mg Cobicistat .............................................................................................................. 150 mg
+Emtricitabina ........................................................................................................ 200 mg Tenofovir disoproxil fumarato ............................................................................300 mg
+Excipientes: Hidroxipropilcelulosa, Lauril sulfato de sodio, Dióxido de silicio, Lactosa  monohidrato,  Celulosa  microcristalina,  Croscarmelosa  sódica,  Estearato  de magnesio, Opadry II verde 85F91215 ....................................................................... c.s.
+
+licio es un sólido blanco a amarillo pálido con una solubilidad de 0,1 mg por mL en agua a 20 °C.
+Emtricitabina:  El  nombre  químico  de  emtricitabina  es  5-fluoro-1-[(2R,5S)-2-(hidroximetil)-1,3-oxatiolan-5-il]citosina.  Emtricitabina  es  el  enantiómero  (-)  de  un tiol análogo de citidina, que difiere de los otros análogos de la citidina en que tiene un flúor en la posición 5.
+Tiene una fórmula molecular de C8H10FN3O3S y un peso molecular de 247,24. Posee la siguiente fórmula estructural:
+
+1 ACCIÓN TERAPÉUTICA
+STRIBILD® es una combinación de dosis fija de los medicamentos antivirales elvitegravir (reforzado con el inhibidor de la CYP3A cobicistat) emtricitabina y tenofovir disoproxil fumarato (tenofovir DF).
+CÓDIGO ATC: J05AR09
+
+2 INDICACIONES
+STRIBILD® está indicado como un régimen completo para el tratamiento de la infección por VIH-1 en adultos y en pacientes pediátricos de 12 años o más que pesan al menos 35 kg y que no tienen antecedentes de haber recibido tratamiento antirretroviral, o para reemplazar el régimen antirretroviral actual en aquellos pacientes con supresión virológica (ARN del VIH-1 inferior a 50 copias/ml) que hayan estado bajo un régimen antirretroviral estable durante al menos 6 meses sin antecedentes de fracaso terapéutico ni sustituciones conocidas asociadas con la resistencia a los componentes individuales de STRIBILD® [ver Estudios Clínicos (8)].
+
+3 CARACTERÍSTICAS FARMACOLÓGICAS/PROPIEDADES
+3.1 Descripción
+STRIBILD® es un comprimido de combinación de dosis fija que contiene elvitegravir, cobicistat, emtricitabina y tenofovir DF para administración oral.
+•  Elvitegravir es un inhibidor de transferencia de cadenas de integrasa del VIH-1.
+•  Cobicistat es un inhibidor basado en un mecanismo de enzimas de citocromo
+
+P450 (CYP) de la familia CYP3A.
+
+•  Emtricitabina es un análogo de nucleósido sintético de la citidina.
+•  Tenofovir  DF  se  convierte  in  vivo  a  tenofovir,  un  fosfonato  nucleósido  acíclico
+
+(nucleótido) análogo de 5’ adenosinmonofosfato.
+
+Cada comprimido contiene 150 mg de elvitegravir, 150 mg de cobicistat, 200 mg de emtricitabina y 300 mg de tenofovir DF (equivalente a 245 mg de disoproxilo de tenofovir). Los comprimidos incluyen los siguientes ingredientes inactivos: monohidrato de lactosa, celulosa microcristalina, dióxido de silicio, croscaramelosa sódica, hidroxipropilcelulosa, laurilsulfato de sodio y estearato de magnesio. Los comprimidos están recubiertos con una película de material de revestimiento que contiene laca de aluminio carmín índigo (FD&C Azul No 2), polietilenglicol, alcohol polivinílico, talco, dióxido de titanio y óxido de hierro amarillo.
+Elvitegravir:  El  nombre  químico  de  elvitegravir  es  6-(3-Cloro-2-fluorobenzilo)-1-[(2S)-1-hidroxi-3-metilbutano-2-il]-7-metoxi-4-oxo-1,4-ácido dihidroquinolina-3-carboxílico.
+Tiene una fórmula molecular de C23H23ClFNO5 y un peso molecular de 447,9. Posee la siguiente fórmula estructural:
+
+ Elvitegravir es un polvo blanco a amarillo pálido con una solubilidad de menos de 0,3 microgramos por mL en agua a 20 °C.
+Cobicistat: El nombre químico de cobicistat es 1,3-tiazol-5-ilmetil [(2R,5R)-5-{[(2S)- 2-[(metil{[2-(propano-2-il)-1,3-tiazol-4-il]metil}carbamoil)amino]-4-(morfolin-4il)butanoil]amino}-1,6-difenilhexano-2-il]carbamato.
+Tiene una fórmula molecular de C40H53N7O5S2 y un peso molecular de 776,0. Posee la siguiente fórmula estructural:
+
+Cobicistat es absorbido en el dióxido de silicio. Cobicistat sobre el dióxido de siEmtricitabina es un polvo cristalino de blanco a blanco crema con una solubilidad de aproximadamente 112 mg por mL en agua a 25 °C.
+
+Tenofovir DF: Tenofovir DF es una sal de ácido fumárico del éster bis-isopropoxicarboniloximetilo  de  tenofovir.  El  nombre  químico  de  tenofovir  DF  es  fumarato de  9-[(R)-2-[[bis[[(isopropoxicarbonil)oxi]-metoxi]fosfinil]metoxi]propil]adenina
+(1:1). Tiene una fórmula molecular de C19H30N5O10P • C4H4O4 y un peso molecular de 635,52. Posee la siguiente fórmula estructural:
+
+Tenofovir DF es un polvo cristalino de blanco a blanco crema con una solubilidad de 13,4 mg por mL en agua a 25 °C. Todas las dosis están expresadas en términos de tenofovir DF excepto donde se menciona lo contrario.
+
+3.2 ACCIÓN FARMACOLÓGICA – FARMACOLOGÍA CLÍNICA
+3.2.1 Mecanismo de acción
+STRIBILD®  es  una  combinación  de  dosis  fija  de  medicamentos  antirretrovirales elvitegravir  (reforzado  con  el  inhibidor  de  la  CYP3A  cobicistat),  emtricitabina  y tenofovir DF [Consulte Microbiología (3.2.4)].
+
+3.2.2 Farmacodinamia
+Efectos en el electrocardiograma
+Se han realizado estudios completos de QT para elvitegravir y cobicistat. No se conoce el efecto de los otros dos componentes, tenofovir y emtricitabina, o el régimen de combinación de STRIBILD® en el intervalo QT.
+Elvitegravir: En un estudio exhaustivo del intervalo QT/QTc efectuado en 126 sujetos sanos, el elvitegravir (coadministrado con 100 mg de ritonavir) en dosis de 125 mg y 250 mg (0,83 y 1,67 veces la dosis incluida en STRIBILD®) no afectó el intervalo QT/QTc ni prolongó el intervalo PR.
+Cobicistat: En un estudio exhaustivo del intervalo QT/QTc efectuado en 48 sujetos sanos, el intervalo QT/QTc no se vio afectado al administrar una dosis única de 250 mg y 400 mg de cobicistat (1,67 y 2,67 veces la dosis incluida en STRIBILD®).
+Se observó prolongación del intervalo PR en los sujetos que recibieron cobicistat.
+La diferencia media máxima (límite superior de confianza del 95 %) en el intervalo PR respecto del placebo después de la corrección según el valor basal fue de 9,5
+(12,1) ms para la dosis de 250 mg de cobicistat y de 20,2 (22,8) para la dosis de 400 mg de cobicistat. Dado que la dosis de 150 mg de cobicistat incluida en el comprimido de dosis fijas combinadas de STRIBILD® es menor que la dosis más baja evaluada en el estudio exhaustivo del intervalo QT, es poco probable que el tratamiento con STRIBILD® provoque una prolongación del intervalo PR que sea clínicamente relevante.
+
+Efectos en la creatinina sérica
+El efecto del cobicistat en la creatinina sérica se investigó en un estudio de fase 1 efectuado en sujetos con una TFGe de al menos 80 ml por minuto (N=18) y con una TFGe de 50 a 79 ml por minuto (N=12). Se observó un cambio estadísticamente significativo en la TFGeCG respecto del valor basal después de 7 días de tratamiento con 150 mg de cobicistat entre los sujetos con una TFGe de al menos 80 ml por minuto
+(9,9 ± 13,1 ml/min) y los sujetos con una TFGe de 50 a 79 ml por minuto (11,9 ± 7,0 ml por minuto). Estas reducciones en la TFGeCG se revirtieron luego de suspender el tratamiento con cobicistat. No se observó ninguna modificación respecto del valor basal en la tasa de filtración glomerular real, determinada según el aclaramiento
+
+del fármaco sonda iohexol, luego del tratamiento con cobicistat entre los sujetos con una TFGe de al menos 50 ml por minuto, lo que indica que el cobicistat inhibe la secreción tubular de creatinina, que se manifiesta como una reducción en la TFGeCG, sin afectar la tasa de filtración glomerular real.
+
+3.2.3 Farmacocinética
+En la tabla 1, se informan las propiedades farmacocinéticas de los componentes de STRIBILD®. En la tabla 2, se presentan los parámetros farmacocinéticos de las dosis múltiples de elvitegravir, cobicistat, emtricitabina y tenofovir.
+
+Tabla 1. Propiedades farmacocinéticas de los componentes de STRIBILD®
+
+Elvitegravir
+
+Cobicistat
+
+Emtricitabina
+
+Tenofovir
+
+Absorción
+
+Tmáx (h)
+Efecto de una comida liviana (respecto de las condiciones de ayuno)a
+Efecto de una comida alta en grasa (respecto de las condiciones de ayuno)a
+Distribución
+% unido a las proteínas plasmáticas humanas
+Fuente de los datos sobre la unión a las proteínas
+Relación sangre:
+plasma
+Metabolismo
+
+Metabolismo
+
+Eliminación
+Principal vía de eliminación
+T1/2 (h)b
+% de la dosis que se excreta en la orinac
+% de la dosis que se excreta en las hecesc
+
+4
+
+3
+
+3
+
+2
+
+↑34 %
+(↑19, ↑51)
+
+↑3 %
+(↓10, ↑17)
+
+↓5 %
+(↓9, 0)
+
+↑24 %
+(↑18, ↑30)
+
+↑87 %
+(↑66, ↑110)
+
+↓17 %
+(↓27, ↓5)
+
+↓4 %
+(↓8, 0)
+
+↑23 %
+(↑17, ↑29)
+
+~99
+
+~98
+
+<4
+
+<0,7
+
+Ex vivo
+
+In vitro
+
+In vitro
+
+In vitro
+
+0,73
+
+0,5
+
+0,6
+
+NC
+
+CYP3A
+(principal)
+UGT1A1/3
+(secundario)
+
+CYP3A
+(principal)
+CYP2D6 (secundario)
+
+No se metaboliza significativamente
+
+Metabolismo
+
+12,9
+
+6,7
+
+94,8
+
+3,5
+
+8,2
+
+86,2
+
+Filtración glomerular y secreción tubular activa
+12-18
+
+10
+
+70
+
+13,7
+
+70-80
+
+NC
+
+NC = no calculado.
+a. Los valores se refieren a la exposición sistémica media (intervalo de confianza del 90 %). STRIBILD® con una comida liviana=~373 kcal, 20 % de grasa; STRIBILD® con una comida alta en grasa=~800 kcal, 50 % de grasa. Aumento=↑; disminución=↓.
+
+b. Los valores de t1/2 se refieren a la mediana de la semivida plasmática terminal.
+c. Administración  de  dosis  en  estudios  de  balance  de  masas:  elvitegravir  (administración de dosis únicas de [14C] elvitegravir (coadministrado con 100 mg de RTV);
+cobicistat (administración de dosis únicas de [14C] cobicistat después de administrar dosis múltiples de cobicistat durante seis días); emtricitabina (administración de dosis únicas de [14C] emtricitabina después de administrar dosis múltiples de emtricitabina durante diez días); no se efectuó un estudio de balance de masas con el tenofovir.
+
+Tabla 2. Parámetros farmacocinéticos de elvitegravir, cobicistat, emtricitabina, y exposición a tenofovir luego de la administración oral de STRIBILD® en sujetos infectados con VIH
+
+Parámetro
+Media ± DE [rango, mín:máx]
+Cmáx
+(microgramos por mL)
+AUCtau
+(microgramos•hora por mL)
+Cmínima
+(microgramos por mL)
+
+Elvitegravira Cobicistatb Emtricitabinab
+
+Tenofovirb
+
+1,7 ± 0,4
+[0,4:3,7]
+
+1,1 ± 0,4
+[0,1:2,1]
+
+1,9 ± 0,5
+[0,6:3,6]
+
+0,45 ± 0,2
+[0,2:1,2]
+
+23,0 ± 7,5
+[4,4:69,8]
+
+8,3 ± 3,8
+[0,5:18,3]
+
+12,7 ± 4,5
+[5,2:34,1]
+
+4,4 ± 2,2
+[2,1:18,2]
+
+0,45 ± 0,26
+[0,05:2,34]
+
+0,05 ± 0,13
+[0,01:0,92]
+
+0,14 ± 0,25
+[0,04:1,94]
+
+0,10 ± 0,08
+[0,04:0,58]
+
+DE=Desviación Estándar a.  A partir del análisis farmacocinético de población, N=419.
+b.  A partir del análisis farmacocinético intensivo, N=61-62, excepto cobicistat Cmínima
+
+N=53.
+
+Poblaciones específicas
+Pacientes Geriátricos
+No se ha  evaluado  completamente la farmacocinética de elvitegravir, cobicistat, emtricitabina  y  tenofovir  en  pacientes  geriátricos  (65  años  y  mayores)  [Consulte
+Uso en Poblaciones Específicas (7.4.4)].
+Pacientes Pediátricos
+Las exposiciones (ABC) al elvitegravir y al tenofovir en 14 sujetos pediátricos de edad entre 12 y menos de 18 años que recibieron STRIBILD® en el estudio 112 se incrementaron un 30 % y 37 %, respectivamente, en comparación con las exposiciones  alcanzadas  en  los  adultos  luego  de  la  administración  de  STRIBILD®;  no obstante, dichas exposiciones se consideraron aceptables de acuerdo con el perfil
+
+general de seguridad de estos fármacos y las evaluaciones de seguridad en función de la exposición. Los demás componentes de STRIBILD® generaron exposiciones similares en los adolescentes en comparación con los adultos [ver Uso en poblaciones específicas (7.4.3)].
+Se ha estudiado la emtricitabina en sujetos pediátricos a partir de 3 meses hasta 17 años de edad. Se ha estudiado el tenofovir DF en sujetos pediátricos a partir de 2 años hasta menos de 18 años de edad. No se ha establecido la farmacocinética de elvitegravir o cobicistat en sujetos pediátricos menores de 12 años de edad [Consulte Uso en Poblaciones Específicas (7.4.3)].
+Raza, Sexo
+No se identificaron diferencias clínicamente significativas en la farmacocinética de STRIBILD® en base a la raza o el sexo.
+Pacientes con insuficiencia renal
+Elvitegravir y cobicistat: Se realizó un estudio de farmacocinética del cobicistat + elvitegravir en sujetos sanos y sujetos con insuficiencia renal severa (aclaramiento estimado de creatinina menor a 30 mL por minuto). No se observaron diferencias clínicamente relevantes en la farmacocinética de elvitegravir o cobicistat entre los sujetos sanos y los sujetos con insuficiencia renal severa.
+Emtricitabina y tenofovir DF: La farmacocinética de emtricitabina y tenofovir se altera en sujetos con aclaramiento estimado de creatinina por debajo de 50 mL por minuto o con enfermedad renal en etapa terminal que requiere diálisis. (ESRD) (Tabla 3) [Consulte Advertencias y Precauciones (7.1.2) y Uso en Poblaciones Específicas (7.4.5)].
+
+Tabla  3.  Parámetros  farmacocinéticos  de  Emtricitabinaa  y  Tenofovirb  en Adultos con diversos grados de función renal
+
+Parámetro
+Media ± SD
+
+Emtricitabina
+AUCinf
+(microgramos•h por mL)
+Cmáx
+(microgramos por mL)
+Tenofovir
+AUCinf
+(microgramos•h por mL)
+Cmáx
+(microgramos por mL)
+
+Aclaramiento de creatinina (mL/min)
+30–49
+N=6
+
+50-80
+N=6
+
+<30
+N=5
+
+ESRDc
+N=5
+
+>80
+N=6
+
+11.8 ± 2.9 19.9 ± 1.2 25.1 ± 5.7
+
+33.7± 2.1
+
+53.2 ± 9.9
+
+2.2 ± 0.6
+
+3.8 ± 0.9
+
+3.2 ± 0.6
+
+2.8 ± 0.7
+
+2.8 ± 0.5
+
+N=3
+
+N=10
+
+N=8
+
+N=11
+
+N=9
+
+2.18 ± 0.26 3.06 ± 0.93 6.01 ± 2.50 15.98 ± 7.22 44.90 ± 12.96
+
+0.34 ± 0.03 0.33 ± 0.06 0.37 ± 0.16 0.60 ± 0.19 1.06 ± 0.25
+
+SD = Desviación estándar a. 200 mg, dosis única de emtricitabina b. 300 mg, dosis única de tenofovir DF c. Sujetos con ESRD que requieren diálisis
+
+Pacientes con insuficiencia hepática
+Elvitegravir y cobicistat: Se realizó un estudio de farmacocinética del cobicistat + elvitegravir en sujetos sanos y sujetos con insuficiencia hepática moderada (Clase
+B de Child-Pugh). No se observaron diferencias clínicamente relevantes en la farmacocinética de elvitegravir o cobicistat entre los sujetos sanos y los sujetos con insuficiencia hepática moderada. No se ha estudiado el efecto de la insuficiencia hepática  severa  (Clase  C  de  Child-Pugh)  en  la  farmacocinética  de  elvitegravir  o cobicistat [Consulte Uso en Poblaciones Específicas (7.4.6)].
+Emtricitabina: No se ha estudiado la farmacocinética de emtricitabina en pacientes con insuficiencia hepática; sin embargo, las enzimas hepáticas no metabolizan significativamente la emtricitabina, por lo que el impacto de la insuficiencia hepática debería ser limitado.
+Tenofovir DF: Se ha estudiado la farmacocinética de tenofovir después de una dosis de 300 mg de VIREAD (tenofovir DF) en sujetos sanos con insuficiencia hepática moderada a severa (Clase C de Child-Pugh). No se observaron diferencias clínicamente relevantes en la farmacocinética de tenofovir entre los sujetos sanos y los sujetos con insuficiencia hepática.
+
+Coinfección con los Virus de Hepatitis B y/o Hepatitis C
+Elvitegravir: Los limitados datos del análisis farmacocinético poblacional (N=24) indicaron que la infección por el virus de hepatitis B y/o C no tuvo efecto clínicamente relevante sobre la exposición de elvitegravir reforzado con cobicistat.
+Cobicistat: Se recolectaron insuficientes datos de farmacocinética en los estudios clínicos para determinar el efecto de la infección por el virus de hepatitis B y/o C en la farmacocinética de cobicistat.
+Emtricitabina y Tenofovir: La farmacocinética de emtricitabina y tenofovir DF no ha sido completamente evaluada en sujetos coinfectados con el virus de hepatitis B y/o C.
+
+Evaluación de interacciones de fármacos
+[Ver Contraindicaciones (6) e Interacciones de fármacos (7.2)]
+Se realizaron estudios sobre la interacción fármaco-fármaco, descriptos en las Tablas 3 y 4, con STRIBILD®, elvitegravir (coadministrado con cobicistat o ritonavir), o cobicistat administrado solo.
+Como  STRIBILD®  está  indicado  para  uso  como  régimen  completo  para  tratar  la infección por VIH-1 y no se debería administrar con otros medicamentos antirretrovirales, no se provee información sobre las interacciones fármaco-fármaco con otros agentes antirretrovirales.
+Los efectos de fármacos coadministrados sobre la exposición de elvitegravir, emtricitabina y tenofovir se muestran en la Tabla 4, la Tabla 5 y la Tabla 6, respectivamente. Los efectos de elvitegravir más cobicistat, o cobicistat, o emtricitabina sobre la exposición de fármacos coadministrados se muestra en la Tabla 7. Para obtener información con respecto a recomendaciones clínicas, consulte [Interacciones de Fármacos (7.2)]. (Ver Tabla 4, 5, 6 y 7) .
+
+Tabla 4. Interacciones de fármacos: Cambios en los parámetros farmacocinéticos para elvitegravir en presencia de fármacos coadministradosa
+
+Fármaco coadministrado
+
+Dosis del fármaco coadministrado
+
+Dosis de elvitegravir (mg)
+
+Dosis potenciadora de cobicistat o RTV (mg)
+
+Antiácido de concentración máximab
+
+dosis única de 20 mL administrada
+4 horas antes de elvitegravir
+
+dosis única de 20 mL administrada
+4 horas después de elvitegravir
+
+dosis única de 20 mL administrada
+2 horas antes de elvitegravir
+
+dosis única de 20 mL administrada
+2 horas después de elvitegravir
+
+dosis única de 50
+
+RTV dosis única de 100
+
+Atorvastatina
+
+Dosis única de 10 mg
+
+150 una vez por díac
+
+Carbamazepina
+
+200 mg dos veces por día
+
+150 una vez por día
+
+Cobicistat
+150 una vez por díac
+
+Cobicistat
+150 una vez por día
+
+Famotidina
+
+40 mg una vez al díaadministrada
+12 horas después de elvitegravir
+
+40 mg una vez al día administrada simultáneamente con elvitegravir
+
+150 una vez al día
+
+Cobicistat 150 una vez al día
+
+Ketoconazol
+
+200 mg dos veces al día
+
+150 una vez al día
+
+Ledipasvir/ sofosbuvir
+
+Omeprazol
+
+90/400 mg una vez por día
+
+150 una vez por día
+
+50 una vez al día
+
+40 mg una vez al día administrada
+2 horas antes de elvitegravir
+
+20 mg una vez al día administrada
+2 horas antes de elvitegravir
+
+20 mg una vez al día administrada
+12 horas después de elvitegravir
+
+150 una vez al día
+
+Cobicistat
+150 una vez al día
+
+Relación media de los parámetros farmacocinéticos de elvitegravir
+(IC del 90% ); sin efecto = 1,00
+Cmín
+ABC
+
+Cmáx
+
+0,95
+(0,84,1,07)
+
+0,96
+(0,88,1,04)
+
+1,04
+(0,93,1,17)
+
+0,98
+(0,88,1,10)
+
+0,82
+(0,74,0,91)
+
+0,79
+(0,71,0,88)
+
+0,98
+(0,91,1,06)
+
+0,85
+(0,79,0,91)
+
+0,80
+(0,75,0,86)
+
+1,00
+(0,90,1,11)
+
+0,90
+(0,82,0,99)
+
+0,80
+(0,73,0,89)
+
+0,55
+(0,49; 0,61)
+
+0,31
+(0,28; 0,33)
+
+0,03
+(0,02; 0,04)
+
+1,02
+(0,89,1,17)
+
+1,00
+(0,92,1,10)
+
+1,17
+(1,04,1,33)
+
+1,03
+(0,95,1,13)
+
+1,03
+(0,98,1,08)
+
+1,48
+(1,36,1,62)
+
+1,18
+(1,05,1,32)
+
+1,07
+(0,98,1,17)
+
+1,67
+(1,48,1,88)
+
+0,93
+(0,83;1,04)
+
+0,99
+(0,91;1,07)
+
+0,94
+(0,85;1,04)
+
+0,93
+(0,83,1,04)
+
+0,99
+(0,91,1,07)
+
+0,94
+(0,85,1,04)
+
+1,16
+(1,04,1,30)
+
+1,10
+(1,02,1,19)
+
+1,13
+(0,96,1,34)
+
+1,03
+(0,92,1,15)
+
+0,91
+(0,84,0,99)
+
+0,94
+(0,83,1,07)
+
+1,05
+(0,93,1,18)
+
+0,79
+(0,74,0,85)
+
+1,02
+(0,91,1,14)
+
+1,10
+(0,92,1,32)
+
+0,33
+(0,27,0,40)
+
+0,98
+(0,83,1,16)
+
+0,88
+(0,82, 0,93)
+
+0,94
+(0,89, 0,98)
+
+0,99
+(0,93, 1,05)
+
+0,93
+(0,86, 1,00)
+
+0,93
+(0,87, 0,99)
+
+0,97
+(0,91, 1,04)
+
+0,79
+(0,75, 0,85)
+
+0,94
+(0,88, 1,00)
+
+1,32
+(1,17, 1,49)
+
+N
+
+8
+
+10
+
+11
+
+10
+
+12
+
+10
+
+16
+
+18
+
+29
+
+9
+
+11
+
+11
+
+12
+
+10
+
+19
+
+24
+
+29
+
+RTV 100 una vez al día
+
+Cobicistat
+150 una vez por díac
+
+RTV
+100 una vez al día
+
+Cobicistat
+150 una vez al día
+
+Cobicistat
+150 una vez al día
+
+Cobicistat
+150 una vez al díac
+
+Cobicistat
+150 una vez al díae,f
+
+Cobicistat
+150 una vez al díac
+
+para la Cmín.
+
+Rifabutina
+
+150 mg una vez día por medio
+
+150 una vez al día
+
+Rosuvastatina
+
+Dosis única de 10 mg
+
+150 una vez al día
+
+Sertralina
+
+Sofosbuvir/
+Velpatasvir
+
+Sofosbuvir/
+Velpatasvir
+Voxilaprevir
+
+Dosis única de 50 mg
+
+150 una vez al díac
+
+400/100 mg una vez al día
+
+150 una vez al díae
+
+400/100/100 + 100 Voxilaprevir una vez al díag
+
+150 una vez al díac
+
+a. Todos los estudios de interacción fueron realizados con voluntarios sanos.
+b. El antiácido de máxima concentración contenía 80 mg de hidróxido de aluminio, 80
+
+mg de hidróxido de magnesio, y 8 mg de simeticona, por mL
+
+c.  Estudio  realizado  con  GENVOYA®  (elvitegravir/cobicistat/emtricitabina/tenofovir
+
+alafenamida).
+
+d. El cambio porcentual en los parámetros FC del cobicistat (IC del 90 %) fue de 1,25 (1,18 a 1,32) para la Cmáx, de 1,59 (1,49 a 1,70) para el ABC y de 4,25 (3,47 a 5,22)
+
+e. Estudio realizado con STRIBILD®.
+f.  El  cambio  porcentual  de  los  parámetros  farmacocinéticos  de  cobicistat  (90%  CI)
+fue1,11 (1,06, 1,17) para la Cmáx, 1,23 (1,17, 1,29) para el ABC, y 1,71 (1,54, 1,90)
+para la Cmín
+
+g. Estudio realizado con voxilaprevir 100 mg adicional para alcanzar exposiciones de
+
+voxilaprevir esperadas en pacientes infectados por HCV.
+
+Tabla 5. Interacciones de fármacos: Cambios en los parámetros farmacocinéticos para fármacos coadministrados en presencia de emtricitabinaa
+
+Fármaco coadministrado
+
+Dosis del fármaco coadministrado (mg)
+
+Dosis de emtricitabina
+(mg)
+
+N
+
+Cociente medio de los parámetros farmacocinéticos de emtricitabina (90%CI); Sin efecto=1,00
+
+Cmáx
+
+AUC
+
+Cmín
+
+NC
+
+Famciclovir
+
+500 dosis única
+
+200 dosis única
+
+124
+
+0,90 (0,80, 1,01)
+
+0,93 (0,87, 0,99)
+
+NC=No calculado
+
+a. Todos los estudios de interacción se realizaron en voluntarios sanos.
+
+Tabla 6. Interacciones de fármacos: Cambios en los parámetros farmacocinéticos para fármacos coadministrados en presencia de Tenofovir DF a
+
+Fármaco coadministrado
+
+Dosis del fármaco coadministrado (mg)
+
+Tenofovir DF
+(mg)
+
+N
+
+Cociente medio de los parámetros farmacocinéticos del fármaco coadministrado(IC del 90 %); sin efecto = 1,00
+
+Cmáx
+
+ABC
+
+Cmín
+
+Sofosbuvir/Velpatasvir
+
+400/100 una vez pr día  300 una vez pr díab 24
+
+1.36 (1.25, 1.47)
+
+1.35 (1.29, 1.42)
+
+1.45 (1.39, 1.51)
+
+a. Todos los estudios de interacción fueron realizados con voluntarios sanos.
+
+b. Estudio realizado con STRIBILD®.
+
+3.2.4 Microbiología
+Mecanismo de Acción
+Elvitegravir: Elvitegravir inhibe la actividad de transferencia de cadenas de la integrasa del VIH-1 (inhibidor de transferencia de cadena de la integrasa; ITCI), una enzima codificada por el VIH-1 que se requiere para la replicación viral. La inhibición de la integrasa evita la integración del ADN del VIH-1 en el ADN genómico del hospedero, bloqueando la formación del provirus del VIH-1 y la propagación de la infección viral. Elvitegravir no inhibe las topoisomerasas humanas I o II.
+Cobicistat: Cobicistat es un inhibidor selectivo, basado en el mecanismo de citocromos P450 de la subfamilia CYP3A. La inhibición del metabolismo mediado por CYP3A  por  cobicistat  mejora  la  exposición  sistémica  de  los  sustratos  de  CYP3A,
+
+como elvitegravir, donde la biodisponibilidad está limitada y la vida media es acortada por el metabolismo dependiente de CYP3A.
+Emtricitabina: Emtricitabina, un análogo nucleósido sintético de citidina, es fosforilado por las enzimas celulares para formar emtricitabina 5’-trifosfato. La emtricitabina 5’-trifosfato inhibe la actividad de la transcriptasa reversa (TR) del VIH-1 por competencia con el sustrato natural desoxicitidina 5’-trifosfato y se incorpora en el ADN viral naciente, con laconsecuente terminación de la cadena. Emtricitabina
+5′-trifosfato es un inhibidor débil de polimerasas del ADN de mamíferos α, β, ε, y polimerasa del ADN mitocondrial γ.
+Tenofovir DF: Tenofovir DF es un análogo del diéster de fosfonato nucleósido acíclico de adenosinmonofosfato. Tenofovir DF requiere hidrólisis diéster inicial para la
+
+Tabla 7. Interacciones de fármacos: Cambios en los parámetros farmacocinéticos para fármacos coadministrados en presencia de elvitegravir más cobicistat, cobicistat, emtricitabina o STRIBILD®a
+
+Fármaco coadministrado
+
+Dosis del fármaco coadministrado (mg)
+
+Dosis de elvitegravirb
+(mg)
+
+Dosis de refuerzo de cobicistat (mg)
+
+Dosis de
+FTC
+(mg)
+
+N
+
+Cociente medio de los parámetros farmacocinéticos del fármaco coadministradoc(IC del 90 %);
+sin efecto = 1,00
+
+Atorvastatina
+
+Dosis única de 10
+
+150 una vez por díad
+
+150 una vez por díad
+
+200 una vez por día
+
+16
+
+Buprenorfina
+
+Norbuprenorfina
+
+Carbamazepina
+
+Carbamazepina-10,11-epóxido
+
+16-24 una vez por día
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+17
+
+200 dos veces por día
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+12
+
+Desipramina
+
+Dosis única de 50
+
+Digoxina
+
+Dosis única de 0,5
+
+Famciclovir
+
+Dosis única de 500
+
+N/A
+
+N/A
+
+NA
+
+Ledipasvir
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+NA
+
+NA
+
+Dosis única de 200
+
+8
+
+22
+
+12
+
+Sofosbuvir
+
+90/400 una vez por día
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+29
+
+GS-331007f
+
+Naloxona
+
+4-6 una vez por día
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+17
+
+Norgestimato/ etinilestradiol
+
+0,180/0,215/0,250 de norgestimato una vez por día
+
+0,025 de etinilestradiol una vez por día
+
+150 una vez por díad
+
+150 una vez por díad
+
+200 una vez por día
+
+13
+
+80-120 por día
+
+150 una vez por día
+
+150 una vez por día
+
+NA
+
+11
+
+400/100 una vez por día
+
+150 una vez por díaf
+
+150 una vez por díaf
+
+200 una vez por díaf
+
+24
+
+400/100/100 + 100 Voxilaprevirg una vez por día
+
+150 una vez por díad
+
+150 una vez por díad
+
+150 una vez día por medio
+
+150 una vez por día
+
+150 una vez por día
+
+Rosuvastatina
+
+Dosis única de 10
+
+Sertralina
+
+Dosis única de 50
+
+150 una vez por día
+
+50 una vez por díad
+
+Dosis única de 150
+
+150 una vez por díad
+
+200 una vez por díaf
+
+NA
+
+NA
+
+200 una vez por díad
+
+29
+
+12
+
+12
+
+10
+
+19
+
+R-metadona
+
+S-metadona
+
+Sofosbuvir
+
+GS-331007e
+
+Velpatasvir
+
+Sofosbuvir
+
+GS-331007e
+
+Velpatasvir
+
+Voxilaprevir
+
+Rifabutina
+
+25-O-desacetil-rifabutina
+
+Cmáx
+2,32
+(1,91, 2,82)
+
+1,12
+(0,98 a 1,27)
+
+1,24
+(1,03 a 1,49)
+
+1,40
+(1,32; 1,49)
+
+0,73
+(0,70; 0,78)
+
+1,24
+(1,08; 1,44)
+
+1,41
+(1,29; 1,55)
+
+0,93
+(0,78, 1,11)
+
+1,63
+(1,51;1,75)
+
+1,33
+(1,14;1,56)
+
+1,33
+(1,22;1,44)
+
+0,72
+(0,61; 0,85)
+
+2,08
+(2,00;2,17)
+
+0,94
+(0,86;1,04)
+
+1,01
+(0,91; 1,13)
+
+0,96
+(0,87; 1,06)
+
+ABC
+2,60
+(2,31, 2,93)
+
+1,35
+(1,18 a 1,55)
+
+1,42
+(1,22 a 1,67)
+
+1,43
+(1,36; 1,52)
+
+0,65
+(0,63; 0,66)
+
+1,65
+(1,36; 2,02)
+
+1,08
+(1,00; 1,17)
+
+0,91
+(0,84, 0,99)
+
+1,78
+(1,64;1,94)
+
+1,36
+(1,21;1,52)
+
+1,44
+(1,41;1,48)
+
+0,72
+(0,59; 0,87)
+
+2,26
+(2,15;2,37)
+
+0,75
+(0,69;0,81)
+
+1,07
+(0,96; 1,19
+
+1,00
+(0,89; 1,12)
+
+Cmín
+
+NC
+
+1,66
+(1,43 a 1,93)
+
+1,57
+(1,31 a 1,88)
+
+1,51
+(1,41; 1,62)
+
+0,59
+(0,57; 0,61)
+
+NC
+
+NC
+
+NC
+
+1,91
+(1,76;2,08)
+
+NA
+
+1,53
+(1,47;1,59)
+
+NA
+
+2,67
+(2,43;2,92)
+
+0,56
+(0,52;0,61)
+
+1,10
+(0,95; 1,28)
+
+1,02
+(0,89; 1,17)
+
+1.01 (0.85, 1.19)
+
+1.24 (1.13, 1.37)
+
+NA
+
+1.13
+ (1.07, 1.18)
+
+1.05
+(0.93, 1.19)
+
+1.27
+(1.09, 1.48)
+
+1.28
+(1.25, 1.32)
+
+0.96
+(0.89, 1.04)
+
+1.92
+(1.63, 2.26)
+
+1,09
+(0,98;1,20)h
+
+4,84
+(4,09;5,74)h
+
+1,89
+(1,48;2,42)
+
+1,14
+ (0,94, 1,38)
+
+1.35
+(1.30, 1.40)
+
+1.19
+(1.07, 1.34)
+
+1.22
+(1.12, 1.32)
+
+1.43
+(1.39, 1.47)
+
+1.16
+(1.06, 1.27)
+
+2.71
+(2.30, 3.19)
+
+0,92
+(0,83;1,03)h
+
+6,25
+(5,08;7,69)h
+
+1,38
+(1,14;1,67)
+
+0,93
+ (0,77, 1,13)
+
+1.45
+(1.38, 1.52)
+
+1.37
+(1.22, 1.54)
+
+NC
+
+NC
+
+1.46
+(1.30, 1.64)
+
+4.50
+(3.68, 5.50)
+
+0,94
+(0,85;1,04)e
+
+4,94
+(4,04;6,04)e
+
+NC
+
+NA
+
+FTC = Emtricitabina a. Todos los estudios de interacción fueron realizados en voluntarios sanos.
+b. NA = No aplicable c. NC = No calculado.
+d. Estudio realizado con GENVOYA®.
+
+e. El metabolito nucleosídico circulante predominante de sofosbuvir.
+f.  Estudio realizado con STRIBILD®.
+g. Estudio realizado con voxilaprevir adicional de 100 mg para lograr las exposiciones
+
+a voxilaprevir esperadas en pacientes infectados por el VHC
+
+h. Comparación basada en rifabutina 300 mg una vez al día.
+
+conversión a tenofovir y subsiguientes fosforilaciones por medio de enzimas celulares para formar difosfato de tenofovir. El tenofovir difosfato inhibe la actividad de la TR del VIH-1 por competencia con el sustrato natural desoxiadenosina 5’-trifosfato y, tras su incorporación en el ADN, por terminación de la cadena de ADN. El difosfato de tenofovir es un inhibidor débil de las polimerasas del ADN de mamíferos α, β, y polimerasa del ADN mitocondrial γ.
+Actividad antiviral en cultivo celular
+Elvitegravir, cobicistat, emtricitabina y tenofovir DF: La triple combinación de elvitegravir, emtricitabina y tenofovir no fue antagonística en las pruebas de actividad antiviral en combinación en cultivo celular y no estuvo afectada por el agregado de cobicistat.
+
+Elvitegravir: La actividad antiviral de elvitegravir contra las cepas clínicas y de laboratorio de VIH-1 fue evaluada en líneas celulares linfoblastoide T, células monocito/ macrofágicas y linfocitos sanguíneos periféricos principales. El 50% de concentraciones efectivas (CE50) varió de 0,02 a 1,7 nM. Elvitegravir mostró actividad antiviral en cultivo celular contra clados A, B, C, D, E, F, G y O de VIH-1 (valores de CE50 que oscilaron entre 0,1 a 1,3 nM) y actividad contra VIH-2 (valor de CE50 de 0,53 nM El elvitegravir no mostró inhibición de la replicación del VHB o VHC en cultivo celular.
+Cobicistat: Cobicistat no tiene actividad antiviral detectable en cultivo celular contra
+VIH-1, virus de la hepatitis B crónica(VHB) o virus de la hepatitis C(VHC) y no antagoniza la actividad antiviral de elvitegravir, emtricitabina, o tenofovir.
+Emtricitabina: La actividad antiviral de emtricitabina contra las cepas clínicas y de
+
+laboratorio de VIH-1 fue evaluada en líneas celulares linfoblastoide T, líneas de células MAGI-CCR5 y células mononucleares sanguíneas periféricas principales. Los valores de CE50 para emtricitabina estuvieron en el rango de 0,0013–0,64 micromolar. Emtricitabina mostró actividad antiviral en cultivo celular contra clados A, B,
+C, D, E, F y G de VIH-1 (valores de CE50 que oscilaron entre 0,007-0,075 micromolar)
+y mostró actividad específica de cepa contra VIH-2 (valores de EC50 entre 0,007-1,5 micromolar).
+Tenofovir DF: La actividad antiviral de tenofovir contra las cepas clínicas y de laboratorio del VIH-1 fue evaluada en líneas celulares linfoblastoides T, células principales monocito/macrofágicas y linfocitos sanguíneos periféricos. Los valores de CE50 para tenofovir estuvieron en el rango de 0,04–8,5 micromolar. Tenofovir mostró actividad antiviral en cultivo celular contra clados A, B, C, D, E, F, G y O de VIH-1 (valores de CE50 que oscilaron entre 0,5-2,2 micromolar) y mostró actividad específica de cepa contra VIH-2 (valores de CE50 entre 1,6-5,5 micromolar).
+
+Resistencia
+En Cultivo Celular:
+Elvitegravir: Las cepas de VIH-1 con susceptibilidad reducida para elvitegravir se seleccionaron en el cultivo celular. La susceptibilidad reducida para elvitegravir fue asociada con las sustituciones principales de integrasa T66A/I, E92G/Q, S147G y Q148R. Las sustituciones de integrasa adicionales observadas en la selección de
+cultivo celular incluían D10E, S17N, H51Y, F121Y, S153F/Y, E157Q, D232N, R263K y V281M.
+Emtricitabina y tenofovir DF: Las cepas de VIH-1 con susceptibilidad reducida para emtricitabina o tenofovir se seleccionaron en el cultivo celular. La susceptibilidad reducida para emtricitabina fue asociada con sustituciones M184V/I en la TR del VIH-1. Las cepas de VIH-1 seleccionadas por tenofovir expresaron una sustitución
+K65R en la TR del VIH-1 y mostraron una reducción de 2–4 veces en la susceptibilidad para tenofovir.
+
+En estudios clínicos:
+Elvitegravir:  El  desarrollo  de  sustituciones  T66A/I/K,  E92G/Q,  T97A,  S147G, Q148H/K/R  y  N155H  en  la  proteína  de  la  integrasa  del  VIH-1  estuvo  asociado principalmente  con  la  resistencia  al  elvitegravir.  Además  de  estas  sustituciones primarias asociadas con la resistencia al elvitegravir, también se observaron ocasionalmente sustituciones E92A, F121C/Y, P145S, Q146I/L/R y N155S, y se demostró que reducen la susceptibilidad al elvitegravir. En los aislamientos virales que albergaban las sustituciones primarias observadas en asociación con la resistencia al elvitegravir, se detectaron sustituciones adicionales en la integrasa, que incluyeron
+H51Y, L68I/V, G70R, V72A/N, I73V, Q95K/R, S119R, E138A/K, G140A/C/S, E157Q,
+K160N, E170A, S230R y D232N.
+Emtricitabina y tenofovir DF: Se han seleccionado aislamientos de VIH-1 con susceptibilidad  reducida  a  la  emtricitabina  o  al  tenofovir  obtenidos  de  sujetos  que presentaron  fracaso  virológico  en  los  estudios  clínicos.  El  análisis  genotípico  de estos aislamientos identificó sustituciones de los aminoácidos M184V/I y K65R en la TR viral, respectivamente.
+Elvitegravir,  cobicistat,  emtricitabina  y  tenofovir  DF:  En  los  estudios  clínicos efectuados en sujetos infectados por el VIH-1 sin antecedentes de tratamiento antirretroviral [en los estudios 102 y 103, ver Estudios clínicos (8)], al cabo de 144  semanas,  se  observó  el  desarrollo  de  una  o  más  sustituciones  primarias asociadas  con  la  resistencia  al  elvitegravir,  a  la  emtricitabina  y/o  al  tenofovir en  los  virus  obtenidos  del  51%  (18/35)  de  los  sujetos  que  tuvieron  un  fracaso terapéutico  con  STRIBILD®,  que  contaban  con  datos  de  resistencia  genotípica evaluables, que habían recibido al menos 8 semanas de STRIBILD® y que tenían un valor de ARN del VIH-1 superior o igual a 400 copias por ml en la confirmación del  fracaso  virológico,  al  final  de  cada  año  del  estudio  o  en  el  momento  de  la suspensión prematura del fármaco del estudio. Las sustituciones que surgieron más comúnmente fueron M184V/I (N=17) en la TR del VIH-1 y las sustituciones primarias asociadas con la resistencia al elvitegravir, E92Q (N=9), N155H (N=5),
+Q148R (N=3), T66I (N=2) y T97A (N=1) en la integrasa; también se detectó la sustitución K65R en la TR (N=5). En los aislamientos virales que albergaban las sustituciones primarias observadas en asociación con la resistencia al elvitegravir, se detectaron sustituciones adicionales en la integrasa, que incluyeron H51Y,
+L68I/V, G70R, I73V, G140C, S153A, E157Q y G163R. El virus presente en todos los sujetos con datos evaluables para la TR y la integrasa, y cuyo virus desarrolló sustituciones en la integrasa asociadas con la resistencia al elvitegravir (N=14)
+también  desarrolló  las  sustituciones  M184I/V  en  la  TI,  y  se  redujo  la  susceptibilidad tanto al elvitegravir como a la emtricitabina. En los análisis fenotípicos, los  aislamientos  del  VIH-1  que  expresaban  las  sustituciones  M184V/I  en  la  TR mostraron una susceptibilidad reducida a la emtricitabina (entre 42 y más de 152 veces); los que expresaban las sustituciones primarias en la integrasa asociadas con la resistencia al elvitegravir mostraron una susceptibilidad reducida al elvitegravir (entre 4 y más de 198 veces); y aquellos que expresaban la sustitución
+K65R en la TR mostraron una susceptibilidad reducida al tenofovir (de 0,8 a 1,6 veces), en comparación con el VIH-1 silvestre de referencia.
+La cantidad de fracasos virológicos con datos evaluables (N=1) en los estudios clínicos realizados con sujetos infectados por el VIH-1, con supresión virológica y sin antecedentes de fracaso virológico, los estudios 115 y 121 [ver Estudios clínicos (8)]
+fue insuficiente para establecer conclusiones acerca del desarrollo de resistencia.
+
+Resistencia cruzada
+Los aislamientos de sujetos con fracaso en el tratamiento con STRIBILD® mostraron grados variables de resistencia cruzada dentro de las clases de fármacos de ITCI e
+INTR dependiendo de las sustituciones específicas observadas. Estos aislamientos permanecieron susceptibles a todos los INNTR e inhibidores de proteasa.
+Elvitegravir: Se ha observado resistencia cruzada entre los ITCI. Los virus resistentes al elvitegravir mostraron diversos grados de resistencia cruzada al raltegravir en cultivo celular según el tipo y la cantidad de sustituciones en la integrasa del VIH-1. De las sustituciones primarias asociadas con la resistencia al elvitegravir que se evaluaron (T66A/I/K, E92G/Q, T97A, S147G, Q148H/K/R y N155H), todas salvo tres (T66I, E92G y S147G) redujeron más de 1,5 veces la susceptibilidad al raltegravir (por encima del corte biológico para el raltegravir) cuando se introdujeron individualmente  en  el  virus  silvestre  mediante  mutagénesis  dirigida  al  sitio.  De las sustituciones primarias asociadas con la resistencia al raltegravir (Y143C/H/R,
+
+Q148H/K/R y N155H), todas salvo Y143C/H redujeron más de 2,5 veces la susceptibilidad al elvitegravir (por encima del corte biológico para el elvitegravir).
+Emtricitabina: Se ha observado resistencia cruzada entre los INTR. Los aislamientos resistentes a emtricitabina que albergan una sustitución M184V/I en la TR del VIH-1  tuvieron  resistencia  cruzada  para  lamivudina.  Los  aislamientos  de  VIH-1 que  contenían  la  sustitución  K65R  en  la  TR,  seleccionadas  in  vivo  por  abacavir, didanosina, y tenofovir, demostraron susceptibilidad reducida a la inhibición por emtricitabina.
+Tenofovir DF: Se ha observado resistencia cruzada entre los INTR. La sustitución K65R  en  la  TR  del  VIH-1  seleccionada  por  tenofovir  también  es  seleccionada  en algunos  pacientes  infectados  con  VIH-1  tratados  con  abacavir  o  didanosina.  Los aislamientos de VIH-1 con sustitución K65R también mostraron susceptibilidad reducida para emtricitabina y lamivudina. Por ello, la resistencia cruzada entre estos
+INTR puede producirse en pacientes cuyos virus albergan la sustitución K65R. La sustitución K70E seleccionada clínicamente por el tenofovir DF reduce la susceptibilidad al abacavir, la didanosina, la emtricitabina, la lamivudina y el tenofovir.
+Los aislamientos de VIH-1 de pacientes (N=20) cuyo VIH-1 expresó una media de 3 sustituciones de aminoácidos de la TR asociadas con zidovudina (M41L, D67N,
+K70R, L210W, T215Y/F, o K219Q/E/N) mostraron una disminución de 3,1 veces en la  susceptibilidad  para  tenofovir.  Los  sujetos  cuyo  virus  expresó  una  sustitución
+L74V en la TR sin sustituciones asociadas a resistencia a zidovudina (N=8) habían reducido la respuesta al tenofovir DF. Se dispone de datos limitados para pacientes cuyos virus expresaron la sustitución Y115F (N=3), la sustitución Q151M (N=2), o la inserción T69 (N=4) en la TR del VIH-1, quienes tuvieron, todos ellos, una respuesta reducida en los estudios clínicos.
+
+4 DOSIFICACIÓN Y MODO DE ADMINISTRACIÓN
+4.1 Pruebas antes de iniciar el tratamiento con STRIBILD® y durante su administración Antes  de  iniciar  el  tratamiento  con  STRIBILD®,  los  pacientes  deben  realizarse análisis para determinar la presencia de infección por el virus de la hepatitis B [ver
+Advertencias y precauciones (7.1.1)].
+Antes  de  iniciar  el  tratamiento  y  durante  el  uso  de  STRIBILD®,  con  un  esquema clínico apropiado, evaluar la creatinina sérica, el aclaramiento de creatinina estimado, la glucosuria y la proteinuria en todos los pacientes. En los pacientes con enfermedad  renal  crónica  evaluar  también  el  fósforo  sérico  [ver  Advertencias  y precauciones (7.1.2)].
+
+4.2 Posología recomendada
+STRIBILD® es un producto que combina cuatro fármacos en dosis fijas: 150 mg de elvitegravir, 150 mg de cobicistat, 200 mg de emtricitabina y 300 mg de tenofovir
+DF. La posología recomendada de STRIBILD® es un comprimido tomado oralmente una vez al día con la comida en adultos y en pacientes pediátricos de 12 años o más con un peso corporal de al menos 35 kg (al menos 77 lb) y cuyo aclaramiento de creatinina es superior o igual a 70 ml por minuto [Consulte Acción Farmacológica
+- Farmacología Clínica (3.2.3)].
+
+4.3 Ajuste posológico en pacientes con disfunción renal
+No  se  recomienda  iniciar  el  tratamiento  con  STRIBILD®  en  pacientes  con  aclaramiento estimado de creatinina por debajo de 70 mL por minuto. Como STRIBILD® es un comprimido de combinación de dosis fija, STRIBILD® debe interrumpirse si el aclaramiento estimado de creatinina declina por debajo de 50 mL por minuto durante el tratamiento con  STRIBILD®, ya que no se puede alcanzar el ajuste de intervalo de dosis requerido para emtricitabina y tenofovir tenofovir DF [Consulte
+Advertencias y Precauciones (7.1.2), Reacciones Adversas (9.1), Uso en Población Específica (7.4.5), Acción Farmacológica - Farmacología Clínica (3.2.3), y Estudios
+Clínicos (8)].
+No hay datos disponibles que determinen recomendaciones posológicas para pacientes pediátricos con disfunción renal.
+
+4.4 No recomendado para pacientes con disfunción hepática grave:
+No se recomienda utilizar STRIBILD® en pacientes que padecen insuficiencia hepática grave [Consulte Uso en Población Específica (7.4.6) y Acción Farmacológica
+- Farmacología Clínica (3.2.3)].
+
+4.5 No recomendado durante el embarazo
+No se recomienda el uso de STRIBILD® durante el embarazo debido a exposiciones sustancialmente más bajas de cobicistat y elvitegravir durante el segundo y el tercer trimestres [ver Uso en Poblaciones Específicas (7.4.1)].
+No  se  debería  iniciar  el  tratamiento  con  STRIBILD®  en  mujeres  embarazadas.
+Se recomienda un régimen alternativo para las mujeres que quedan embarazadas durante el tratamiento con STRIBILD® [ver Uso en Poblaciones Específicas
+(7.4.1)].
+
+5 FORMA FARMACÉUTICA Y CONCENTRACIÓN
+Cada  comprimido  recubierto  de  STRIBILD®  contiene  150  mg  de  elvitegravir, 150 mg de cobicistat, 200 mg de emtricitabina y 300 mg de tenofovir disoproxil fumarato (tenofovir DF, equivalente a 245 mg de tenofovir disoproxil).
+
+6 CONTRAINDICACIONES
+Está  contraindicada  la  coadministración  de  STRIBILD®  con  fármacos  que  son  altamente dependientes de CYP3A para aclaramiento y para los que las concentraciones elevadas en plasma están asociadas con eventos serios y/o potencialmente mortales. Estos fármacos y otros contraindicados (que pueden llevar a la eficiencia reducida  de  STRIBILD®  y  posible  resistencia)  están  enumerados  a  continuación
+[Consulte  Interacciones  de  Medicamentos  (7.2.5),  Acción  Farmacológica  Farmacología Clínica (3.2.3)].
+•  Antagonista adrenoreceptor Alfa-1: alfuzosina
+•  Anticonvulsivos: carbamazepina, fenobarbital, fenitoína
+•  Antimicobacterianos: rifampina
+•  Antipsicóticos: lurasidona, pimozida
+•  Derivados del ergot: dihidroergotamina, ergotamina, metilergonovina
+•  Productos herbales: Hierba de San Juan (Hypericum perforatum)
+•  Agentes modificadores de los lípidos: lomitapida, lovastatina, simvastatina
+
+•  Inhibidor  de  la  fosfodiesterasa-5  (PDE-5):  sildenafil  cuando  es  administrado
+
+como Revatio® para el tratamiento de la hipertensión pulmonar arterial
+
+•  Sedantes/hipnóticos: triazolam, midazolam administrado oralmente.
+
+7 ADVERTENCIAS Y PRECAUCIONES
+7.1 Generales
+7.1.1 Exacerbación aguda grave de la hepatitis B en pacientes coinfectados con VIH-1 y VHB Todos los pacientes con VIH-1 deben realizarse análisis para detectar la presencia del virus de la hepatitis B (VHB) antes de iniciar la terapia antirretroviral [ver Posología y administración (4.1)]. STRIBILD® no está aprobado para el tratamiento de la infección crónica por el VHB y no se ha establecido la seguridad y la eficiencia de STRIBILD® en pacientes coinfectados con VIH-1y VHB.
+Se han informado exacerbaciones agudas graves de hepatitis B (p. ej., hepatopatía descompensada e insuficiencia hepática) en pacientes que están coinfectados con VIH-1 y VHB y han interrumpido emtricitabina o tenofovir DF, dos de los componentes de STRIBILD®. Debe realizarse un estricto control clínico y de laboratorio de los pacientes coinfectados con VIH-1 y VHB durante al menos varios meses después de  la  interrupción  del  tratamiento  con  los  comprimidos  de  STRIBILD®.  Si  fuese adecuado, puede estar justificado el inicio de una terapia de tratamiento contra la hepatitis B, especialmente en pacientes con hepatopatía avanzada o cirrosis, ya que la exacerbación de la hepatitis después del tratamiento puede causar descompensación e insuficiencia hepática.
+
+7.1.2 Nueva aparición o empeoramiento de la disfunción renal Se ha informado disfunción renal, incluyendo casos de falla renal aguda y síndrome de Fanconi (lesión tubular renal con hipofosfatemia grave) con el uso de tenofovir
+DF, un componente de STRIBILD®, y con el uso de STRIBILD® [Consulte Reacciones
+Adversas (9.2)].
+En los estudios clínicos de 144 semanas de duración con STRIBILD®, 13 (1,9 %) sujetos en el grupo de STRIBILD® (N=701), 8 (2,3 %) sujetos en el grupo de atazanavir
+(ATV)+ritonavir (RTV)+TRUVADA® (emtricitabina y tenofovir DF) (N=355) y ningún sujeto  en  el  grupo  de  ATRIPLA  (efavirenz,  emtricitabina  y  tenofovir  DF)  (N=352)
+suspendieron el uso del fármaco del estudio a causa de una reacción adversa renal.
+De estas suspensiones del tratamiento, 8 en el grupo de STRIBILD® y 1 en el grupo de ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF) se produjeron durante las primeras 48 semanas. Cuatro (0,6 %) sujetos que recibieron STRIBILD® presentaron hallazgos de laboratorio que concordaban con disfunción tubular renal proximal y que provocaron la suspensión del uso de STRIBILD® durante las primeras 48 semanas de tratamiento. Dos de los cuatro sujetos tenían disfunción renal (es decir, aclaramiento de creatinina estimado inferior a 70 ml por minuto) en la situación basal. Los hallazgos de laboratorio en estos 4 sujetos mejoraron al suspender el uso de STRIBILD®, pero no se resolvieron completamente en todos los sujetos. No se requirió tratamiento de reemplazo renal para estos sujetos. En un (0,3 %) sujeto que recibió ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF) se observaron hallazgos de laboratorio que concordaban con disfunción tubular renal proximal y que provocaron la suspensión del tratamiento con ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF) después de la semana 96.
+Debe  evitarse  administrar  STRIBILD®  con  el  uso  reciente  o  concomitante  de  un fármaco nefrotóxico (p. ej., dosis altas de antiinflamatorios no esteroideos [AINE]
+o  múltiples  AINE)  [ver  Interacciones  medicamentosas  (7.2.4)].  Se  han  notificado casos de insuficiencia renal aguda después de iniciar el uso de dosis altas de AINE o de múltiples AINE en pacientes infectados por el VIH con factores de riesgo de disfunción renal que se encontraban estables mientras recibían tenofovir DF. Algunos pacientes debieron ser hospitalizados y requirieron tratamiento de reemplazo renal. De ser necesario, deben considerarse alternativas a los AINE en los pacientes con riesgo de disfunción renal.
+La persistencia o el empeoramiento del dolor óseo, el dolor en las extremidades, las fracturas y/o el dolor o la debilidad muscular pueden ser manifestaciones de tubulopatía renal proximal y requieren una evaluación de la función renal en los pacientes de riesgo.
+Antes de iniciar el tratamiento y durante el uso de STRIBILD®, con un esquema clínico apropiado, evaluar la creatinina sérica, el aclaramiento estimado de creatinina, glucosa en orina y proteínas en orina en todos los pacientes. En los pacientes con enfermedad renal crónica, evaluar también el fósforo sérico. Suspender la administración de STRIBILD® en pacientes que desarrollan una disminución clínicamente significativa de la función renal o síndrome de Fanconi. No se recomienda iniciar el tratamiento con STRIBILD® en pacientes con aclaramiento estimado de creatinina por debajo de 70 mL por minuto [ver Posología y administración (4.1)].
+Aunque  el  cobicistat  (un  componente  de  STRIBILD®)  puede  causar  ligeros  aumentos en la creatinina sérica y leve disminución en el aclaramiento estimado de creatinina sin afectar la función glomerular renal  [Consulte Reacciones Adversas
+(9.1)], los pacientes que experimentan un aumento confirmado de creatinina sérica mayor a 0,4 mg por dL respecto al inicio del tratamiento deben ser minuciosamente monitorizados por seguridad renal.
+Los componentes emtricitabina y tenofovir DF de STRIBILD® se excretan principalmente por el riñón. Se debe interrumpir STRIBILD® si el aclaramiento estimado de creatinina declina por debajo de 50 mL por minuto, ya que el ajuste del intervalo de dosis requerido para emtricitabina y tenofovir DF no se puede alcanzar con el comprimido de combinación de dosis fija [ver Uso en poblaciones específicas (7.4.5)].
+
+7.1.3 Acidosis láctica/Hepatomegalia severa con esteatosis Se han informado casos de acidosis láctica y hepatomegalia grave con esteatosis, incluso casos mortales, con el uso de análogos de nucleósidos, incluido el tenofovir
+DF y emtricitabina, componentes de STRIBILD®, solos o en combinación con otros antirretrovirales. El tratamiento con STRIBILD® deberá ser suspendido en caso de que algún paciente desarrolle manifestaciones clínicas y/o parametros de laboratorio sugestivos de acidosis láctica o hepatotoxicidad pronunciada (que pueden incluir hepatomegalia y esteatosis incluso en ausencia de elevación de transaminasas)
+
+pueden  provocar  lo  siguiente  [ver  Contraindicaciones  (6),  e  Interacciones  medicamentosas (7.2.5)]:
+•  Pérdida del efecto terapéutico de STRIBILD® y posible desarrollo de resistencia.
+•  Reacciones adversas clínicamente significativas, que pueden conducir a eventos graves, potencialmente mortales o fatales, debido a una mayor exposición a fármacos concomitantes metabolizados por CYP3A.
+
+•  Pérdida del efecto terapéutico de los fármacos concomitantes que utilizan CYP3A
+
+para formar metabolitos activos.
+
+Consulte en la tabla 8 los pasos a seguir para prevenir o tratar estas interacciones medicamentosas  significativas  posibles  y  conocidas,  incluidas  las  recomendaciones  sobre  la  administración  de  las  dosis  [ver  Interacciones  medicamentosas
+(7.2.5)]. Tenga en cuenta las posibles interacciones medicamentosas antes y durante el tratamiento con STRIBILD®; revise los medicamentos concomitantes durante el  tratamiento  con  STRIBILD®;  y  monitoree  la  aparición  de  reacciones  adversas asociadas con los fármacos concomitantes
+
+7.1.5 Pérdida de masa ósea y defectos de mineralización
+Densidad mineral ósea
+En estudios clínicos realizados en adultos infectados por el VIH-1,el tenofovir DF (un componente de STRIBILD®) ha sido asociado con disminuciones ligeramente mayores en la densidad mineral ósea (DMO) y aumentos en marcadores bioquímicos de metabolismo óseo lo que sugiere mayor recambio óseo con respecto a los  comparadores.  Los  niveles  séricos  de  hormona  paratiroidea  y  los  niveles  de vitamina D 1,25 también fueron mayores en los sujetos que recibieron tenofovir
+DF. Para obtener información adicional [ver Reacciones Adversas (9.1)] consulte la información para prescribir de tenofovir DF.
+Se llevaron a cabo estudios clínicos en los que se evaluó el tenofovir DF en sujetos pediátricos y adolescentes. En circunstancias normales, la DMO aumenta rápidamente en los pacientes pediátricos. En los sujetos infectados por el VIH-1 de edad entre 2 y menos de 18 años, los efectos óseos fueron similares a los observados en los sujetos adultos y sugieren un mayor recambio óseo. La ganancia en la DMO del cuerpo entero fue menor en los sujetos pediátricos infectados por el VIH-1 que recibieron tratamiento con tenofovir DF en comparación con los grupos de control.
+En todos los estudios pediátricos, el crecimiento esquelético (estatura) no se vio afectado. Para obtener más información, consulte la ficha técnica del tenofovir DF.
+Se desconoce si los cambios asociados con el tenofovir DF en la DMO y los marcadores bioquímicos afectan la salud ósea a largo plazo y el riesgo futuro de fracturas.
+Debe considerarse la evaluación de la DMO en los pacientes adultos y pediátricos infectados por el VIH-1 que tienen antecedentes de fractura ósea patológica u otros factores de riesgo de osteoporosis o pérdida de masa ósea. Si bien no se ha estudiado el efecto de los suplementos de calcio y vitamina D, es posible que el uso de tales suplementos sea beneficioso para todos los pacientes. Se debe obtener asesoramiento adecuado si se sospecha la presencia de anomalías óseas
+
+Defectos de mineralización:
+Se han informado casos de osteomalacia asociada con tubulopatía renal proximal, que se manifiesta como dolor óseo o dolor en las extremidades y que puede contribuir a las fracturas, en relación con el uso de tenofovir DF [ver Reacciones adversas
+(9)]. También se han notificado artralgias y síntomas de dolor o debilidad muscular en  los  casos  de  tubulopatía  renal  proximal.  Debe  considerarse  la  posibilidad  de que  se  produzcan  hipofosfatemia  y  osteomalacia  secundarias  a  la  tubulopatía renal proximal en los pacientes con riesgo de disfunción renal que presenten persistencia o empeoramiento de los síntomas musculares u óseos mientras reciben productos que contienen tenofovir DF [ver Advertencias y precauciones (7.1.2)].
+
+7.1.6 Síndrome de reconstitución inmune
+Se ha informado el síndrome de reconstitución inmune en pacientes tratados con terapia antirretroviral combinada, incluyendo STRIBILD®. Durante la fase inicial del tratamiento antirretroviral combinado, los pacientes cuyo sistema inmune responde pueden presentar una respuesta inflamatoria a infecciones oportunistas indolentes  o  residuales  [como  infección  por  Mycobacterium  avium,  citomegalovirus, neumonía por Pneumocystis jirovecii (PCP), o tuberculosis], que pueden necesitar posterior evaluación y tratamiento.
+También se han informado trastornos autoinmunes (como enfermedad de Graves, polimiositis, síndrome de Guillain-Barré y hepatitis autoinmune) que aparecieron en  el  contexto  de  reconstitución  inmune;  no  obstante,  el  tiempo  hasta  la  aparición es más variable y puede producirse muchos meses después del inicio del tratamiento.
+
+7.2 INTERACCIONES FARMACOLÓGICAS
+7.2.1 No se recomienda usar con otros medicamentos antirretrovirales STRIBILD® es un régimen completo para el tratamiento de la infección por el VIH-1;
+por ello, STRIBILD® no se debe administrar con otros fármacos antirretrovirales para el tratamiento de la infección por el VIH-1. No se proporciona la información completa con respecto a las interacciones fármaco-fármaco con otros medicamentos antirretrovirales [ver Contraindicaciones (6), Advertencias y precauciones (7.1.4) y Acción Farmacológica - Farmacología Clínica (3.2.3)].
+
+7.2.2 Posibilidad de STRIBILD® de afectar a otros fármacos Cobicistat, un componente de STRIBILD®, es un inhibidor de CYP3A y CYP2D6 y un inhibidor de los siguientes transportadores: p-glucoproteína (P-gp), BCRP, OATP1B1 y OATP1B3. De esta manera, la coadministración de STRIBILD® con fármacos que son principalmente metabolizados por CYP3A o CYP2D6, o son sustratos de P-gp, BCRP, OATP1B1 u OATP1B3 pueden causar aumento de la concentración en plasma de dichos medicamentos. La coadministración de STRIBILD® con medicamentos que tienen metabolitos activos formados por CYP3A puede resultar en una concentración plasmática reducida de estos metabolitos activos (Tabla 8).
+Elvitegravir es un modesto inductor de CYP2C9 y puede disminuir las concentraciones en plasma de sustratos de CYP2C9.
+
+7.1.4  Riesgo  de  reacciones  adversas  o  pérdida  de  la  respuesta  virológica debido a interacciones medicamentosas El uso concomitante de STRIBILD® y otros fármacos puede ocasionar interacciones medicamentosas  conocidas  o  posiblemente  significativas,  algunas  de  las  cuales
+
+7.2.3 Posibilidad de que otros fármacos afecten a uno o más componentes de STRIBILD® Elvitegravir  y  cobicistat,  componentes  de  STRIBILD®,  son  metabolizados  por CYP3A. Cobicistat también es metabolizado, en menor grado, por CYP2D6.
+
+Se espera que los fármacos que inducen la actividad de CYP3A aumenten el aclaramiento de elvitegravir y cobicistat, produciendo una disminución de la concentración en plasma de cobicistat y elvitegravir, que puede conducir a la pérdida del efecto terapéutico de STRIBILD® y el desarrollo de resistencia (Tabla 8).
+La coadministración de STRIBILD® con otros fármacos que inhiben CYP3A puede disminuir  el  aclaramiento  y  aumentar  la  concentración  en  plasma  de  cobicistat
+(Tabla 8).
+
+7.2.4 Fármacos que afectan la función renal
+Como  la  emtricitabina  y  el  tenofovir,  componentes  de  STRIBILD®,  son  principalmente excretados por los riñones por una combinación de filtración glomerular y secreción tubular activa, la coadministración de STRIBILD® con fármacos que reducen la función renal o compiten por la secreción tubular activa puede aumentar las concentraciones de emtricitabina, tenofovir, y otros fármacos que se eliminan por vía renal, lo cual puede incrementar el riesgo de reacciones adversas. Algunos ejemplos de fármacos que se eliminan por medio de secreción activa tubular, pero no están limitados a, son aciclovir, cidofovir, ganciclovir, valaciclovir, valganciclovir, aminoglucósidos (p. ej., gentamicina), y dosis altas de AINE o múltiples AINE [ver
+Advertencias y precauciones (7.1.2)].
+
+7.2.5 Interacciones establecidas y otras interacciones potencialmente significativas
+La Tabla 8 provee una lista de interacciones farmacológicas establecidas o potencialmente clínicamente significativas. Las interacciones de los fármacos descriptos se basan en estudios realizados con STRIBILD®, con los componentes de STRIBILD®
+(elvitegravir,  cobicistat,  emtricitabina  y  tenofovir  DF)  como  agentes  individuales y/o en combinación, o están previstas como interacciones de fármacos que pueden producirse con STRIBILD® [por magnitud de la interacción, consulte Farmacología
+Clínica (3.2.3)]. La tabla incluye interacciones potencialmente significativas sin ser una enumeración exhaustiva [ver Contraindicaciones (6) y Acción Farmacológica -
+Farmacología Clínica (3.2.3)].
+
+Tabla  8.  Interacciones  farmacológicasa  establecidas  y  otras  interacciones potencialmente  significativas:  Se  puede  recomendar  alteración  en  dosis  o régimen en base a estudios de interacción de fármacos o interacción prevista
+
+Clase del fármaco concomitante:
+nombre del fármaco
+Antagonista adrenoreceptor Alfa-1 alfuzosina
+
+Efecto en la concentraciónb
+
+ ↑ alfuzosina
+
+Antiarrítmicos:
+p. ej., amiodarona bepridilo digoxina* disopiramida flecainida lidocaína sistémica mexiletina propafenona quinidina
+Antibacterianos:
+claritromicina
+
+ ↑ antiarrítmicos
+ ↑ digoxina
+
+ ↑ claritromicina
+ ↑ cobicistat
+
+ ↑ apixabán
+
+Anticoagulantes:
+Anticoagulantes orales directos (DOACs)
+apixabán rivaroxabán betrixabán dabigatrán edoxabçan
+
+ ↑ rivaroxabán
+
+ ↑ betrixabán
+ ↑ dabigatrán
+ ↑ edoxabán
+
+Comentarios clínicos
+
+La coadministración con alfuzosina está contraindicada debido a la posibilidad de reacciones serias y/o de riesgo para la vida, tales como hipotensión.
+Se recomienda un monitoreo de la concentración terapéutica, si está disponible, de los antiarrítmicos que se coadministren con STRIBILD®.
+
+Pacientes con CLcr superior o igual a
+60 ml/minuto:
+No se requiere ajustar la dosis de claritromicina.
+Pacientes con CLcr entre 50 ml/minuto y 60 ml/minuto:
+La dosis de claritromicina debe reducirse un 50 %.
+
+Debido a un riesgo de sangrado potencialmente aumentado, las recomendaciones de dosis para la coadministración con STRIBILD® dependen de la dosis de apixabán. Se remite a las instrucciones de posología de apixabán para la coadministración con fuertes inhibidores de CYP3A y P-gp en la información de prescripción de apixabán
+
+No se recomienda la coadministración de rivaroxabán con STRIBILD® debido a que puede llevar a un mayor riesgo de sangrado.
+
+Debido a un riesgo de sangrado potencialmente aumentado, las recomendaciones de dosis para la coadministración de betrixabán, dabigatrán, o edoxabán con un inhibidor de P-gp tal como STRIBILD® depende de la indicación de DOAC y la función renal. Se remite a las instrucciones de posología de DOAC para la coadministración con inhibidores de P-gp en la información de prescripción de DOAC.
+
+warfarina
+
+Se desconoce el efecto en la warfarina
+
+Monitorear el índice internacional normalizado (international normalized ratio, INR) durante la coadministración de warfarina con STRIBILD®.
+
+↓ elvitegravir
+↓ cobicistat
+
+Anticonvulsivos:
+carbamazepina fenobarbital fenitoína
+
+oxcarbazepina
+
+clonazepam etosuximida
+
+ ↑ clonazepam
+ ↑ etosuximida
+
+La coadministración con carbamazepina, fenobarbital o fenitoína está contraindicada debido a la probabilidad de pérdida del efecto terapéutico de elvitegravir y el desarrollo de resistencia.
+
+Debe considerarse el uso de anticonvulsivos alternativos cuando STRIBILD® se coadministra con oxcarbazepina.
+
+Se recomienda realizar un monitoreo clínico durante la coadministración de clonazepam o etosuximida con
+STRIBILD®.
+
+Antidepresivos:
+Inhibidores selectivos de la recaptación de serotonina (ISRS), p. ej., paroxetina
+
+Antidepresivos tricíclicos (ATC), p. ej., amitriptilina desipramina imipramina nortriptilina bupropión
+
+trazodona
+
+Antimicóticos:
+itraconazol ketoconazol* voriconazol
+
+ ↑ ISRS (excepto sertralina)
+ ↑ ATC
+ ↑ trazodona
+
+Se recomienda un ajuste gradual cuidadoso de la dosis del antidepresivo y el monitoreo de la respuesta al antidepresivo cuando se coadministra con
+STRIBILD®.
+
+ ↑ elvitegravir
+ ↑ cobicistat
+ ↑ itraconazol
+ ↑ ketoconazol
+↑  voriconazol
+
+Cuando se coadministre con STRIBILD®, la dosis diaria máxima de ketoconazol o itraconazol no debe exceder los 200 mg por día.
+Se recomienda una evaluación de la relación riesgo/beneficio para justificar el uso de voriconazol con STRIBILD®.
+
+No se recomienda coadministrar
+STRIBILD® con colchicina en pacientes con disfunción renal o hepática.
+Tratamiento de exacerbaciones de la gota; coadministración de colchicina en pacientes que reciben STRIBILD®:
+0,6 mg (1 comprimido) x 1 dosis, seguida de 0,3 mg (medio comprimido)
+1 hora más tarde. El ciclo de tratamiento debe repetirse luego de que transcurran no menos de 3 días.
+Profilaxis de exacerbaciones de la gota;
+coadministración de colchicina en pacientes que reciben STRIBILD®:
+Si el régimen original era de 0,6 mg dos veces por día, el régimen debe ajustarse a 0,3 mg una vez por día. Si el régimen original era de 0,6 mg una vez por día, el régimen debe ajustarse a 0,3 mg una vez día por medio.
+Tratamiento de la fiebre mediterránea familiar; coadministración de colchicina en pacientes que reciben STRIBILD®:
+Dosis diaria máxima de 0,6 mg (puede administrarse en dosis de 0,3 mg dos veces por día).
+
+La coadministración con rifampina está contraindicada debido a la probabilidad de pérdida del efecto terapéutico de elvitegravir y el desarrollo de resistencia.
+
+No se recomienda la coadministración de STRIBILD® con rifabutina o rifapentina.
+
+Fármacos contra la gota:
+colchicina
+
+ ↑ colchicina
+
+Antimicobacterianos:
+rifampina
+
+↓ elvitegravir
+↓ cobicistat
+
+rifabutina* rifapentina
+
+Antiagregantes plaquetarios
+Ticagrelor
+
+clopidogrel
+
+ ↑ ticagrelor
+
+No se recomienda la coadministración con ticagrelor.
+
+↓ clopidogrel metabolito activo
+
+No se recomienda la coadministración con clopidogrel debido a la posible reducción de la actividad antiplaquetaria de clopidogrel.
+
+Antipsicóticos:
+lurasidona
+
+ ↑ lurasidone
+
+pimozida
+
+ ↑ pimozide
+
+quetiapina
+
+ ↑ quetiapine
+
+Otros antipsicóticos, por ej., perfenazina risperidona tioridazina
+
+Betabloqueantes:
+p. ej., metoprolol timolol
+
+Bloqueantes de los canales de calcio:
+p. ej., amlodipina diltiazem felodipina nicardipina nifedipina verapamilo
+Corticosteroides:
+por ej., betametasona budesonide ciclesonide dexametasona fluticasone metilprednisolona mometasona triamcinolona
+
+↑ antipsicóticos
+
+ ↑ betabloqueantes
+
+ ↑ bloqueantes de los canales de calcio
+
+↓ elvitegravir
+↓ cobicistat
+
+ ↑ corticosteroides
+
+ ↑ bosentan
+
+Antagonistas del receptor de endotelina:
+bosentan
+
+Derivados del ergot:
+dihidroergotamina, ergotamina, metilergonovina
+
+ ↑ derivados del ergot
+
+La coadministración con lurasidona está contraindicada debido a la probabilidad de reacciones serias y/o de riesgo para la vida.
+
+La coadministración con pimozida está contraindicada debido a la probabilidad de reacciones serias y/o de riesgo para la vida tales como arritmias cardiacas.
+Inicio del tratamiento con STRIBILD® en pacientes tratados con quetiapina:
+Se debe considerar un tratamiento antirretroviral alternativo para evitar aumentos en la exposición a la quetiapina. Si la coadministración es necesaria, reduzca la dosis de quetiapina a 1/6 de la dosis actual y monitoree la aparición de reacciones adversas asociadas con la quetiapina. Consulte la ficha técnica de la quetiapina para ver las recomendaciones sobre el monitoreo de las reacciones adversas.
+
+Inicio del tratamiento con quetiapina en pacientes tratados con STRIBILD®:
+Consulte la ficha técnica de la quetiapina para informarse sobre la dosis inicial de la quetiapina y su ajuste gradual.
+Puede ser necesaria una disminución de la dosis de antipsicóticos que son metabolizados por CYP3A4 o CYP2D6 cuando son coadministrados con STRIBILD®
+Se recomienda realizar un monitoreo clínico, y es posible que sea necesario disminuir la dosis del betabloqueante cuando estos agentes se coadministren con STRIBILD®.
+Se recomienda realizar un monitoreo clínico durante la coadministración de bloqueantes de los canales de calcio con STRIBILD®.
+
+El uso concomitante con dexametasona oral u otros corticosteroides sistémicos que induce CYP3A puede ocasionar la pérdida del efecto terapéutico y desarrollo de resistencia a elvitegravir. Debe considerarse el uso de corticosteroides alternativos.
+El uso concomitante con corticosteroides (todas las vías de administración) sensibles a la inhibición de CYP3A pueden incrementar el riesgo de aparición del síndrome de Cushing y supresión suprarrenal, que han sido informados durante la post-comercialización de productos que contienen cobicistat. Si STRIBILD® es coadministrado con corticosteroides sensibles a la inhibición de CYP3A considere el riesgo de efectos sistémicos debidos a los corticosteroides.
+Debe considerarse el uso de corticosteroides alternativos, particularmente para el uso a largo plazo.
+Coadministración de bosentan en pacientes que reciben STRIBILD®:
+En los pacientes que hayan estado recibiendo STRIBILD® durante al menos 10 días, la administración de bosentan se inicia con 62,5 mg una vez por día o día por medio en función de la tolerabilidad de cada paciente.
+Coadministración de STRIBILD® en pacientes que reciben bosentan:
+Debe suspenderse el uso de bosentan al menos 36 horas antes de iniciar el tratamiento con STRIBILD®. Después de al menos 10 días de haber iniciado el tratamiento con STRIBILD®, se reanuda la administración de bosentan con dosis de 62,5 mg una vez por día o día por medio en función de la tolerabilidad de cada paciente.
+
+La coadministración está contraindicada debido a la probabilidad de reacciones serias y/o de riesgo para la vida tales como toxicidad aguda del ergot caracterizada por vasoespasmo periférico e isquemia de las extremidades y otros tejidos.
+
+ ↑ tenofovir
+
+Antivirales contra la hepatitis C:
+ledipasvir/sofosbuvir sofosbuvir/velpatasvir
+
+No se ha establecido la seguridad del aumento en las concentraciones de tenofovir con respecto al tratamiento con HARVONI® (ledipasvir/sofosbuvir)
+y STRIBILD®. No se recomienda la coadministración.
+Se debe controlar a los pacientes que reciben STRIBILD® de manera concomitante con EPCLUSA® (sofosbuvir/ velpatasvir) para detectar reacciones adversas asociadas al tenofovir disoproxil fumarato.
+
+Productos herbales:
+Hierba de San Juan
+(Hypericum perforatum)
+
+↓ elvitegravir
+
+↓ cobicistat
+
+La coadministración está contraindicada debido a la probabilidad de pérdida del efecto terapéutico de elvitegravir y el desarrollo de resistencia.
+
+ ↑ drosperinona
+ ↑ levonorgestrel
+↑ norgestimato
+↓ etinilestradiol
+
+Anticonceptivos hormonales:
+Drosperinona/ etinilestradiol levonorgestrel
+*norgestimato/ etinilestradiol*
+
+Se deberían considerar formas de anticoncepción no hormonales adicionales o alternativas cuando se coadministran anticonceptivos basados en estrógenos con STRIBILD®.
+Las concentraciones plasmáticas de drospirenona pueden aumentar cuando se coadministran con productos que contienen cobicistat. Se recomienda el monitoreo clínico debido al riesgo de hiperkalemia
+No se conoce la totalidad de los efectos de los aumentos en la concentración del componente progestacional norgestimato, y pueden incluir un aumento del riesgo de resistencia a la insulina, dislipidemia, acné y trombosis venosa.
+Deben considerarse los posibles riesgos y beneficios asociados con la coadministración de norgestimato/etinilestradiol con STRIBILD®, particularmente en las mujeres que tengan factores de riesgo de estos eventos.
+No se ha estudiado la coadministración de STRIBILD® con otros anticonceptivos hormonales (p. ej., parche anticonceptivo, anillo vaginal anticonceptivo o anticonceptivos inyectables) ni con anticonceptivos orales que contengan progestágenos, aparte del norgestimato, levonorgestrel o drosperidona; por lo tanto, puede considerarse el uso de métodos anticonceptivos alternativos
+(no hormonales).
+
+ ↑ inmunosupresores
+
+Se recomienda realizar un monitoreo terapéutico de los inmunosupresores durante la coadministración con
+STRIBILD®.
+
+Inmunosupresores:
+p. ej., ciclosporina sirolimus tacrolimus
+
+Agentes modificadores de lípidos:
+Inhibidores de la
+HMG-CoA Reductasa:
+lovastatina simvastatina
+
+ ↑ lovastatina
+ ↑ simvastatina
+
+atorvastatina*
+
+ ↑ atorvastatina
+
+Otros agentes modificadores de lípidos:
+lomitapida
+
+ ↑ lomitapida
+
+Analgésicos narcóticos:
+buprenorfina/ naloxona* fentanil
+
+ ↑ buprenorfina
+ ↑ norbuprenorfina
+↓ naloxona
+ ↑ fentanil
+
+tramadol
+
+ ↑ tramadol
+
+Agonista beta inhalatorio:
+salmeterol
+
+ ↑ salmeterol
+
+La coadministración con lovastatina o simvastatina está contraindicada debido a la probabilidad de reacciones serias tales como miopatía incluyendo rabdomiólisis.
+
+Iniciar la administración de atorvastatina con la dosis inicial más baja de atorvastatina y titular cuidadosamente mientras se monitorea para la seguridad. (ej.
+Miopatía). No exceder la dosis de 20 mg de atorvastatina por dia
+
+La coadministración con lomitapida está contraindicada debido a la probabilidad de un aumento marcado de las transaminasas.
+
+Debe realizarse un monitoreo riguroso de los pacientes con respecto a la sedación y los efectos cognitivos.
+Se recomienda un monitoreo cuidadoso de los efectos terapéuticos y adversos de fentanil (incluyendo depresión respiratoria potencialmente fatal) con la coadministración.
+
+Puede ser necesaria una disminución de la dosis de tramadol con el uso concomitante.
+
+No se recomienda la coadministración de salmeterol y STRIBILD® porque puede ocasionar un aumento del riesgo de eventos adversos cardiovasculares asociados con el salmeterol, incluso prolongación del intervalo QT, palpitaciones y taquicardia sinusal.
+
+Efecto en la concentraciónb
+
+↓ elvitegravir
+
+ ↑ inhibidores de la PDE-5
+
+Clase del fármaco concomitante:
+nombre del fármaco
+Medicamentos o suplementos orales que contienen cationes polivalentes (por ejemplo, Mg, Al, Ca,
+Fe, Zn):
+suplementos de calcio o hierro, incluidos multivitamínicos antiácidos * o laxantes que contienen cationes sucralfato medicamentos buffer
+Inhibidores de la fosfodiesterasa 5
+(PDE-5):
+sildenafil tadalafil vardenafil
+
+ ↑ midazolam
+
+ ↑ triazolam
+
+Sedantes/hipnóticos:
+midazolam (oral)
+triazolam
+Otras benzodiazepinas:
+p. ej., midazolam administrado por vía parenteral clorazepato diazepam estazolam flurazepam buspirona zolpidem
+
+ ↑ sedantes/ hipnóticos
+
+Comentarios clínicos
+
+Indica que se llevó a cabo un ensayo sobre interacciones medicamentosas.
+
+* a.  Esta tabla no incluye todas las interacciones.
+b.  ↑ = aumento, ↓ = disminución, ↔ = sin efecto.
+
+Separe STRIBILD® y la administración de medicamentos, antiácidos o suplementos orales que contengan cationes polivalentes por al menos 2 horas.
+
+La coadministración de sildenafil con STRIBILD® está contraindicada cuando se usa para el tratamiento de la hipertensión pulmonar arterial (HPA) debido a la posibilidad de reacciones adversas asociadas con los inhibidores de la PDE-5, que incluyen hipotensión, síncope, alteraciones visuales y priapismo.
+
+Uso de tadalafil para la HAP:
+Coadministración de tadalafil en pacientes que reciben STRIBILD®:
+
+En los pacientes que reciban STRIBILD® durante al menos 1 semana, la administración de tadalafil se inicia con 20 mg una vez por día. Se aumenta la dosis de tadalafil a 40 mg una vez por día en función de la tolerabilidad de cada paciente.
+
+Coadministración de STRIBILD® en pacientes que reciben tadalafil:
+
+Debe evitarse el uso de tadalafil durante el inicio del tratamiento con STRIBILD®. Debe interrumpirse la administración de tadalafil al menos 24 horas antes de comenzar a usar
+STRIBILD®. Después de al menos una semana de haber iniciado el tratamiento con STRIBILD®, se reanuda la administración de tadalafil con dosis de 20 mg una vez por día. Se aumenta la dosis de tadalafil a 40 mg una vez por día en función de la tolerabilidad de cada paciente.
+
+Uso de inhibidores de la PDE-5 para la disfunción eréctil:
+
+Pueden utilizarse los inhibidores de la PDE-5 indicados a continuación, y debe aumentarse el monitoreo de los eventos adversos asociados con los inhibidores de la PDE-5:
+• sildenafil en dosis únicas que no excedan los 25 mg en 48 horas, o
+• tadalafil en dosis únicas que no excedan los 10 mg en 72 horas, o
+• vardenafil en dosis únicas que no excedan los 2,5 mg en 72 horas.
+ La coadministración con triazolam o midazolam administrado oralmente está contraindicada debido a la posibilidad de reacciones serias y/o de riesgo para la vida tales como sedación prolongada o aumentada o depresión respiratoria.
+
+Triazolam y midazolam administrados oralmente son metabolizados ampliamente por CYP3A. La coadministración de triazolam o midazolam administrado oralmente con STRIBILD® puede causar aumentos importantes en las concentraciones de estas benzodiazepinas.
+
+La coadministración de midazolam parenteral con STRIBILD® debe realizarse en condiciones que aseguren un monitoreo clínico riguroso y un tratamiento médico adecuado en caso de depresión respiratoria y/o sedación prolongada.
+Debe considerarse la reducción de la dosis de midazolam, especialmente si se administra más de una dosis única de midazolam.
+
+Con otros sedantes/hipnóticos, es posible que sea necesario reducir la dosis, y se recomienda realizar un monitoreo clínico.
+
+7.2.6 Fármacos sin interacciones clínicamente significativas con STRIBILD® Basado en estudios de interacción de fármacos con los componentes de STRIBILD®, no se han observado ni se esperan interacciones de fármacos clínicamente significativas cuando STRIBILD® está combinado con los siguientes fármacos: famciclovir, famotidina, metadona, omeprazol, Prasugrel (metabolito activo) y sertralina.
+
+7.3 Carcinogénesis, Mutagénesis, trastornos de la Fertilidad Elvitegravir: Se realizaron estudios de carcinogénesis a largo plazo de elvitegravir en ratones (104 semanas) y en ratas por hasta 88 semanas (machos) y 90 semanas  (hembras).  No  se  encontraron  aumentos  relacionados  con  el  fármaco  en  la incidencia de tumores en ratones a dosis de hasta 2000 mg por kg por día solo o en combinación con 25 mg por kg por día de RTVa exposiciones de 3 y 14 veces, respectivamente, la exposición sistémica humana a la dosis diaria recomendada de 150 mg. No se encontraron aumentos relacionados con el fármaco en la incidencia de tumores en ratas a dosis de hasta 2000 mg por kg por día a exposiciones de 12 a 27 veces, respectivamente en macho y hembra, la exposición sistémica humana.
+Elvitegravir no fue genotóxico en la prueba bacteriana de mutación inversa (prueba de Ames) y en los estudios de micronúcleos en ratas. En una prueba de aberración cromosómica in vitro, elvitegravir fue negativo con la activación de metabolismo;
+sin embargo, se observó una respuesta equívoca sin activación.
+Elvitegravir no afectó la fertilidad en ratas machos y hembras en exposiciones mayores a, aproximadamente, 16 y 30 veces (ABC) respectivamente, la de humanos a la dosis terapéutica de 150 mg diarios.
+La fertilidad fue normal en las crías de ratas expuestas diariamente desde antes del nacimiento (in utero) hasta la maduración sexual a exposiciones diarias (ABC) de aproximadamente 18 veces mayores que las exposiciones en seres humanos con la dosis recomendada de 150 mg diarios.
+Cobicistat: En un estudio a largo plazo sobre la carcinogenicidad en ratones, no se observaron incrementos relacionados con el fármaco en la incidencia de tumores al administrar dosis de hasta 50 y 100 mg/kg/día (machos y hembras, respectivamente). Las exposiciones al cobicistat con estas dosis fueron aproximadamente 7 (machos) y 16 (hembras) veces mayores, respectivamente, que la exposición sistémica en seres humanos con la dosis terapéutica diaria. En un estudio a largo plazo sobre la carcinogenicidad del cobicistat en ratas, se observó un aumento en la incidencia de adenomas y/o carcinomas foliculares de la glándula tiroides al administrar dosis de 25 y 50 mg/kg/día en machos y dosis de 30 mg/kg/día en hembras. Se considera que los hallazgos sobre las células foliculares son específicos de las ratas, secundarios a la inducción de enzimas microsomales hepáticas y al desequilibrio hormonal tiroideo, y no son relevantes para los seres humanos. Con las dosis más altas evaluadas en el estudio sobre la carcinogenicidad en ratas, las exposiciones sistémicas fueron aproximadamente 2 veces mayores que la exposición sistémica en los seres humanos con la dosis terapéutica diaria.
+El cobicistat no fue genotóxico en la prueba bacteriana de mutación inversa (prueba de Ames), o en los estudios de linfoma de ratón o de micronúcleos en ratas.
+Cobicistat no afectó la fertilidad en ratas machos y hembras a exposiciones diarias (ABC) aproximadamente 4 veces mayores que las exposiciones humanas a dosis recomendadas de 150 mg diarios.
+La fertilidad fue normal en las crías de ratas expuestas diariamente desde antes del nacimiento (in utero) hasta la maduración sexual a exposiciones diarias (ABC)
+aproximadamente 1,2 veces mayores que las exposiciones en seres humanos con la dosis recomendada de 150 mg diarios.
+Emtricitabina: En estudios de carcinogenicidad a largo plazo de emtricitabina, no se encontraron aumentos en la incidencia tumoral relacionados con el fármaco en ratones con dosis de hasta 750 mg por kg por día (23 veces la exposición sistémica para seres humanos en la dosis terapéutica de 200 mg por día) ni en ratas con dosis de hasta 600 mg por kg por día (28 veces la exposición sistémica para seres humanos en la dosis terapéutica).
+La emtricitabina no fue genotóxica en la prueba bacteriana de mutación inversa (prueba de Ames), o en los estudios de linfoma de ratón y de micronúcleos en ratón.
+La emtricitabina no afectó la fertilidad de las ratas macho con exposiciones aproximadamente 140 veces superiores, ni en ratones machos y hembras con exposiciones aproximadamente 60 veces más altas (ABC) a la de los seres humanos que reciben la dosis recomendada de 200 mg diarios. La fertilidad fue normal en las crías de ratones expuestas diariamente desde antes del nacimiento (in utero) hasta la maduración sexual a exposiciones diarias (ABC) aproximadamente 60 veces más altas que las exposiciones en seres humanos con la dosis recomendada de 200 mg diarios.
+Tenofovir DF: Los estudios a largo plazo de la carcinogenicidad oral de tenofovir DF en ratas y ratones se llevaron a cabo con exposiciones de hasta aproximadamente
+10 veces (ratones) y 4 veces (ratas) más que las observadas en seres humanos a una dosis terapéutica para infección porel VIH-1. En la dosis alta en ratones hembra, se incrementaron los adenomas de hígado a exposiciones de 10 veces la de los humanos. En ratas, el estudio fue negativo para descubrimientos carcinogénicos a exposiciones hasta 4 veces la observada en humanos en dosis terapéuticas.
+Tenofovir DF fue mutagénico en el estudio in vitro de linfoma de ratón y negativo en una prueba in vitro de mutagenicidad bacteriana (prueba de Ames). En un estudio in vivo de micronúcleo en ratones, el tenofovir DF resultó negativo cuando se administró a ratones machos.
+No hubo efectos en la fertilidad, la capacidad de apareamiento ni el desarrollo embrionario temprano cuando se administró tenofovir DF a ratas macho en una dosis equivalente a 10 veces la dosis para seres humanos según comparaciones del área de superficie corporal durante 28 días antes del apareamiento y a ratas hembra durante 15 días antes del apareamiento hasta el séptimo día de gestación. Hubo, sin embargo, una alteración del ciclo estral en las ratas hembras.
+
+7.4 USO EN POBLACIONES ESPECÍFICAS
+7.4.1 Embarazo
+Registro de exposiciones durante el embarazo Existe un registro de exposiciones durante el embarazo que supervisa los desenlaces clínicos de los embarazos en mujeres expuestas a STRIBILD® durante su embarazo.
+
+Se  promueve  el  registro  de  pacientes  por  parte  de  los  médicos  enel  registro  de embarazos  con  antirretrovirales  (Antiretroviral  Pregnancy  Registry,  APR)  mundial www.apregistry.com, o la comunicación de los médicos al +54 11 4858 9000 o a farmacovigilancia@gador.com.
+
+Resumen de riesgos
+No se recomienda el uso de STRIBILD® durante el embarazo [ver Posología y Administración (4.5)]. Un informe de la literatura que evaluó la farmacocinética (FC) de los antirretrovirales durante el embarazo demostró exposiciones sustancialmente menores de elvitegravir y cobicistat en el segundo y el tercer trimestres (ver Datos).
+Los datos prospectivos sobre los embarazos que figuran en el APR no son suficientes para evaluar adecuadamente el riesgo de defectos congénitos o abortos espontáneos. Sin embargo, se ha evaluado el uso de elvitegravir, cobicistat, emtricitabina y tenofovir DF durante el embarazo en una cantidad limitada de mujeres que se registraron en el APR. Los datos disponibles en el APR,no muestran una diferencia  significativaen  el  riesgo  general  de  defectos  congénitos  importantes  por  el elvitegravir, el cobicistat, la emtricitabina o el tenofovir DF en comparación con la tasa prevalente de defectos congénitos importantes del 2,7 % en una población estadounidense de referencia estudiada en el Programa metropolitano de Atlanta sobre defectos congénitos (Metropolitan Atlanta Congenital Defects Program,
+MACDPver Datos). La tasa de abortos espontáneos no ha sido informada en el APR.
+En la población general estadounidense el riesgo prevalente estimado de abortos espontáneos en embarazos clínicamente confirmados es de 15−20%.
+En los estudios con animales, no se observaron efectos adversos en el desarrollo al  administrar  los  componentes  de  STRIBILD®  por  separado  durante  el  período de organogénesis, con exposiciones hasta 23 y 0,2 veces (elvitegravir en ratas y conejos, respectivamente), 1,8 y 4,3 veces (cobicistat en ratas y conejos, respectivamente), y 60 y 120 veces (emtricitabina en ratones y conejos, respectivamente)
+mayores que la exposición con la dosis diaria recomendada de estos componentes incluidos en STRIBILD®; ni con exposiciones 14 y 19 veces (tenofovir DF en ratas y conejos, respectivamente) mayores que la dosis para seres humanos, sobre la base de comparaciones de la superficie corporal [ver Datos]. Del mismo modo, tampoco se observaron efectos adversos en el desarrollo al administrar elvitegravir o cobicistat a ratas hasta la lactancia, con exposiciones hasta 18 o 1,2 veces mayores, respectivamente, que la exposición con la dosis terapéutica diaria recomendada, ni al administrar emtricitabina a ratones hasta la lactancia, con exposiciones aproximadamente hasta 60 veces mayores que la exposición con la dosis terapéutica diaria recomendada. No se observaron efectos adversos en las crías de ratas al administrar tenofovir DF hasta la lactancia, con exposiciones al tenofovir aproximadamente
+2,7 veces mayores que la exposición con la dosis diaria recomendada de STRIBILD®.
+
+Datos
+Datos en seres humanos
+Un estudio prospectivo informado en la literatura, registró 30 mujeres embarazadas que tenían VIH que recibían regímenes basados en elvitegravir y cobicistat en el segundo o el tercer trimestres del embarazo y durante 6 a 12 semanas postparto para evaluar la farmacocinética (FC) de los antirretrovirales durante el embarazo.
+Veintiocho mujeres completaron el estudio hasta el período postparto. Los datos de  FC  pareados  de  embarazo/postparto  se  encontraban  disponibles  de  14  y  24 mujeres para el segundo y el tercer trimestres, respectivamente. Las exposiciones de elvitegravir y cobicistat eran sustancialmente más bajas durante el segundo y el  tercer  trimestres  en  comparación  con  el  postparto.  La  proporción  de  mujeres embarazadas que estaban virológicamente suprimidas fue de 77% en el segundo trimestre, 92% en el tercer trimestre, y 76% postparto. No se observó una correlación entre la supresión viral y la exposición a elvitegravir. El estado de VIH también fue evaluado para los bebés: 25 no estaban infectados, 2 tenían un estado indeterminado y no se encontraba disponible información para 3 bebés.
+Los informes prospectivos del APR de defectos congénitos importantes en general en embarazos expuestos a los componentes de STRIBILD® son comparados con la tasa de defectos congénitos importantes prevalentes en los EE.UU. Las limitaciones metodológicas del APR incluyen el uso de MACDP como el grupo comparador externo. La población de MACDP no es específica de la enfermedad, evalúa a mujeres y bebés de un área geográfica limitada y no incluye los resultados de los nacimientos que ocurrieron antes de las 20 semanas de gestación.
+Elvitegravir: Basados en informes prospectivos al APR sobre exposiciones durante el embarazoa esquemas terapéuticos con elvitegravir durante embarazos que resultaron  en  nacimientos  con  vida  (incluyendo  mas  de  300  expuestos  durante el primer trimestre y mas de 60 expuestos durante el segundo y tercer trimestre)
+la prevalencia de defectos de nacimiento en los nacidos vivos fue del 3,4% (IC del 95%: 1,7% a 6,0%) y del 1,5% (IC del 95%: 0% a 7,9%) después de la exposición al primer y segundo / tercer trimestre. , respectivamente, a los regímenes que contenían elvitegravir.
+Cobicistat Basados en informes prospectivos al APR sobre exposiciones durante el embarazo a esquemas terapéuticos con cobicistat durante embarazos que resultaron en nacimientos con vida (incluyendo mas de 400 expuestos durante el primer trimestre y mas de 80 expuestos durante el segundo y tercer trimestre) la prevalencia de defectos de nacimiento en los nacidos vivos fue del 3,9% (IC del 95%: 2,3% a
+6,0%) y del 1,2% (IC del 95%: 0% a 6,5%) después de la exposición al primer y segundo / tercer trimestre. , respectivamente, a los regímenes que contenían cobicistat.
+Emtricitabina: Basados en informes prospectivos al APR sobre exposiciones durante el embarazo a esquemas terapéuticos con emtricitabina durante embarazos que resultaron en nacimientos con vida (incluyendo mas de 3600 expuestos durante el primer trimestre y mas de 1400 expuestos durante el segundo y tercer trimestre)
+la prevalencia de defectos de nacimiento en los nacidos vivos fue del 2,6% (IC del 95%: 2,1% a 3,2%) y del 2,4% (IC del 95%: 1% a 3,3%) después de la exposición al  primer  y  segundo  /  tercer  trimestre.  ,  respectivamente,  a  los  regímenes  que contenían  emtricitabina.Tenofovir  DF:  Basados  en  informes  prospectivos  al  APR sobre exposiciones durante el embarazo a esquemas terapéuticos con TDF durante embarazos que resultaron en nacimientos con vida (incluyendo mas de 4200 expuestos durante el primer trimestre y mas de 1800 expuestos durante el segundo y tercer trimestre) la prevalencia de defectos de nacimiento en los nacidos vivos fue del 2,4% (IC del 95%: 1,9% a 2,9%) y del 2,4% (IC del 95%: 1,8% a 3,2%) después de la exposición al primer y segundo / tercer trimestre. , respectivamente, a los regímenes que contenían tenofovir DF.
+
+Datos animales
+Elvitegravir: Se administró elvitegravir por vía oral a ratas preñadas (en dosis de 0, 300, 1000 y 2000 mg/kg/día) y a conejas preñadas (en dosis de 0, 50, 150 y 450 mg/kg/día) hasta la organogénesis (los días 7 a 17 y los días 7 a 19 de gestación, respectivamente).  No  se  observaron  efectos  toxicológicos  significativos  en  los estudios de toxicidad embriofetal realizados con el elvitegravir en ratas con exposiciones (área bajo la curva [ABC]) aproximadamente 23 veces más altas ni en conejos con exposiciones aproximadamente 0,2 veces más altas que las exposiciones en seres humanos con la dosis diaria recomendada. En un estudio sobre el desarrollo prenatal/posnatal  en  ratas,  se  administró  elvitegravir  por  vía  oral  en  dosis  de  0,
+300, 1000 y 2000 mg/kg desde el día 7 de gestación hasta el día 20 de lactancia.
+Con dosis de 2000 mg/kg/día de elvitegravir, no se observó toxicidad materna ni del desarrollo. Las exposiciones sistémicas (ABC) con esta dosis fueron 18 veces mayores que las exposiciones en seres humanos con la dosis diaria recomendada.
+Cobicistat: Se administró cobicistat por vía oral a ratas preñadas en dosis de 0, 25, 50 y 125 mg/kg/día los días 6 a 17 de gestación. Se observaron aumentos en la pérdida de la preñez con posterioridad a la implantación y reducciones en el peso fetal al administrar la dosis de 125 mg/kg/día que provoca toxicidad materna. No se observaron malformaciones al administrar dosis de hasta 125 mg/kg/día. Las exposiciones sistémicas (ABC) tras administrar 50 mg/kg/día a hembras preñadas fueron  1,8  veces  más  altas  que  las  exposiciones  en  seres  humanos  con  la  dosis diaria recomendada.
+En conejas preñadas, se administró cobicistat por vía oral en dosis de 0, 20, 50 y 100 mg/kg/día durante los días 7 a 20 de gestación. No se observaron efectos maternos ni embriofetales al administrar la dosis más alta de 100 mg/kg/día. Las exposiciones sistémicas (ABC) tras administrar 100 mg/kg/día fueron 4,3 veces más altas que las exposiciones en seres humanos con la dosis diaria recomendada. En un estudio sobre el desarrollo prenatal/posnatal en ratas, se administró cobicistat por vía oral en dosis de 0, 10, 30 y 75 mg/kg desde el día 6 de gestación hasta los días 20, 21 o 22 posnatales. Con dosis de 75 mg/kg/día de cobicistat, no se observó toxicidad materna ni del desarrollo. Las exposiciones sistémicas (ABC) con esta dosis fueron 1,2 veces mayores que las exposiciones en seres humanos con la dosis diaria recomendada.
+Emtricitabina: Se administró emtricitabina por vía oral a ratas preñadas (en dosis de 0, 250, 500 o 1000 mg/kg/día) y a conejas preñadas (en dosis de 0, 100, 300 o 1000 mg/kg/día) hasta la organogénesis (los días 6 a 15 y los días 7 a 19 de gestación, respectivamente). No se observaron efectos toxicológicos significativos en los estudios de toxicidad embriofetal realizados con la emtricitabina en ratones con exposiciones (ABC) aproximadamente 60 veces más altas ni en conejos con exposiciones aproximadamente 120 veces más altas que las exposiciones en seres humanos con la dosis diaria recomendada. En un estudio sobre el desarrollo prenatal/ posnatal en ratones, se administró emtricitabina por vía oral en dosis de hasta 1000 mg/kg/día; no se observaron efectos adversos significativos directamente relacionados con el fármaco en las crías expuestas a diario desde antes del nacimiento
+(exposición intrauterina) hasta la madurez sexual, con exposiciones diarias (ABC)
+aproximadamente 60 veces más altas que las exposiciones en seres humanos con la dosis diaria recomendada.
+Tenofovir DF: Se administró tenofovir DF por vía oral a ratas preñadas (en dosis de 0, 50, 150 o 450 mg/kg/día) y a conejas preñadas (en dosis de 0, 30, 100 o 300 mg/kg/día) hasta la organogénesis (los días 7 a 17 y los días 6 a 18 de gestación, respectivamente). No se observaron efectos toxicológicos significativos en los estudios de toxicidad embriofetal realizados con el tenofovir DF en ratas tratadas con dosis hasta 14 veces mayores que la dosis para seres humanos, sobre la base de comparaciones de la superficie corporal, ni en conejos tratados con dosis hasta 19 veces mayores que la dosis para seres humanos, sobre la base de comparaciones de la superficie corporal. En un estudio sobre el desarrollo prenatal/posnatal en ratas, se administró tenofovir DF por vía oral hasta la lactancia en dosis de hasta 600 mg/ kg/día; no se observaron efectos adversos en las crías tras exposiciones al tenofovir aproximadamente 2,7 veces más altas que las exposiciones en seres humanos con la dosis diaria recomendada de STRIBILD®.
+
+7.4.2 Lactancia
+Resumen de los riesgos
+Se recomienda que las madres infectadas con VIH no amamanten a sus hijos para evitar el riesgo de transmisión postnatal del VIH. Los estudios en ratas han demostrado que elvitegravir, cobicistat y tenofovir son excretados en la leche. Se desconoce si el elvitegravir o el cobicistat se excretan en la leche materna humana.
+De acuerdo con la limitada cantidad de datos publicados, se ha demostrado que la emtricitabina y el tenofovir están presentes en la leche materna humana. No se sabe si el elvitegravir o el cobicistat están presentes en la leche materna humana, aunque sí se ha observado la presencia de elvitegravir y cobicistat en la leche de ratas (ver Datos).
+No se sabe si los componentes de STRIBILD® afectan a la producción de leche o si producen efectos en el bebé amamantado. Se debe indicar a las madres que no amamanten a sus hijos si están recibiendo STRIBILD®, debido a la posibilidad de: (1) transmisión del VIH (en lactantes VIH negativos); (2) desarrollo de resistencia viral (en lactantes VIH positivos); y (3) reacciones adversas en el bebé amamantado, similares a las observadas en los adultos (ver Datos).
+Datos en animales
+Elvitegravir: Durante el estudio toxicológico sobre el desarrollo prenatal y posnatal con dosis de hasta 2000 mg/kg/día, la media de la relación leche: plasma del elvitegravir fue de 0,1 al medirse 30 minutos después de la administración a ratas el día 14 de lactancia.
+Cobicistat: Durante el estudio toxicológico sobre el desarrollo prenatal y posnatal con dosis de hasta 75 mg/kg/día, la media de la relación leche: plasma del cobicistat fue de hasta 1,9 al medirse 2 horas después de la administración a ratas el día 10 de lactancia.
+
+7.4.3 Uso pediátrico
+Se evaluaron la farmacocinética, la seguridad, y las respuestas virológicas e inmunológicas  en  50  sujetos  infectados  por  el  VIH-1  sin  tratamiento  previo,  de  edad entre 12 y menos de 18 años, que pesaban al menos 35 kg (77 lb) y que recibieron
+STRIBILD® durante 48 semanas en un ensayo abierto (estudio 112). La seguridad y la eficacia de STRIBILD® en estos sujetos fueron similares a las de los adultos sin
+
+tratamiento antirretroviral previo [ver Posología y administración (4.2), Reacciones adversas (9.1), Acción Farmacológica - Farmacología Clínica (3.2.3) y Estudios clínicos (8.4)].
+No se ha establecido la seguridad y efectividad de STRIBILD® en pacientes pediátricos menores a 12 años de edad o cuyo peso es inferior a 35 kg (77 lb) [Consulte
+Acción Farmacológica – Farmacología Clínica (3.2.3)].
+
+7.4.4 Uso geriátrico
+Los estudios clínicos de STRIBILD® no incluyeron números suficientes de sujetos de 65 años o mayores para determinar si respondían de manera diferente a los sujetos más jóvenes. En general, se debe tener precaución al administrar STRIBILD® en los pacientes de edad avanzada, teniendo en cuenta la mayor frecuencia de disminución de las funciones hepática, renal o cardíaca y de enfermedades concomitantes u otra terapia con fármacos [Consulte Acción Farmacológica – Farmacología Clínica
+(3.2.3)].
+
+7.4.5 Insuficiencia renal
+No  se  recomienda  iniciar  el  tratamiento  con  STRIBILD®  en  pacientes  con  aclaramiento estimado de creatinina por debajo de 70 mL por minuto. Como STRIBILD® es un comprimido de combinación de dosis fija, STRIBILD® debe interrumpirse si el aclaramiento estimado de creatinina declina por debajo de 50 mL por minuto durante el tratamiento con STRIBILD®, ya que no se puede alcanzar el ajuste de intervalo de dosis requerido para emtricitabina y tenofovir DF [Consulte Advertencias y Precauciones (7.1.2), Reacciones Adversas (9.1), Acción Farmacológica - Farmacología Clínica (3.2.3), y Estudios Clínicos (8)].
+No hay datos disponibles que determinen recomendaciones posológicas para pacientes pediátricos con disfunción renal.
+Estudios clínicos en sujetos adultos con disfunción renal de leve a moderada En el estudio 118, se examinaron 33 sujetos infectados por el VIH-1 sin tratamiento previo que tenían disfunción renal de leve a moderada (TFGe mediante el método de Cockcroft-Gault entre 50 y 89 ml/minuto) en un ensayo clínico abierto donde se evaluó la seguridad del tratamiento con STRIBILD® durante 48 semanas. Después de 48 semanas de tratamiento, el cambio medio en la creatinina sérica fue de 0,17
+± 0,14 mg/dl, y el cambio medio en la TFGe mediante el método de Cockcroft-Gault fue de 6,9 ± 9,0 ml/minuto para los sujetos tratados con STRIBILD®.
+Doce de los 33 sujetos estudiados tenían un valor basal de TFGe de entre 50 y 70 ml/minuto.  Tres  sujetos,  todos  con  un  valor  basal  de  TFGe  de  50  60  ml/minuto, suspendieron el tratamiento con STRIBILD® debido a un evento adverso renal. La seguridad de STRIBILD® en 21 de los 33 sujetos con un valor basal de TFGe superior o igual a 70 ml/minuto concordó con el perfil de seguridad observado en los estudios 102 y 103.
+
+7.4.6 Insuficiencia hepática
+No se requiere ajuste de dosis de STRIBILD® en pacientes con insuficiencia hepática leve (Clase A de Child-Pugh) o moderada (Clase B de Child-Pugh). No se dispone de  datos  farmacocinéticos  o  de  seguridad  con  respecto  al  uso  de  STRIBILD®  en pacientes  con  insuficiencia  hepática  grave  (Clase  C  de  Child-Pugh).  Por  ello,  no se recomienda STRIBILD® para uso en pacientes con insuficiencia hepática grave.
+[Consulte Dosificación y Administración (4.4) y Acción Farmacológica – Farmacología Clínica (3.2.3)].
+
+8 ESTUDIOS CLÍNICOS
+8.1 Descripción de estudios clínicos
+La eficacia y la seguridad de STRIBILD® se evaluaron en los estudios que se resumen en la tabla 9.
+
+Tabla 9. Estudios realizados con STRIBILD® en sujetos infectados por el VIH-1
+
+Estudio
+
+Población
+
+Estudio 102b,c
+
+Estudio 103b,c
+
+Adultos sin antecedentes de tratamiento antirretroviral
+
+Estudio 115c,d Adultos con supresión virológica y sin antecedentes de fracaso virológicof
+
+Estudio 121c,d
+
+Estudio 112e
+
+Adolescentes sin tratamiento previo, de edad entre 12 y menos de 18 años
+
+Grupos del estudio (N)a
+
+Momento de evaluación
+(semana)
+
+STRIBILD® (348)
+ATRIPLA® (352)
+STRIBILD® (353)
+TRUVADA®+atazanavir+ritonavir (355)
+STRIBILD® (293)
+TRUVADA®+IP+ritonavir
+(140)
+STRIBILD® (291)
+TRUVADA®+NNRTI (143)
+
+STRIBILD® (50)
+
+144
+
+48
+
+48
+
+a. Aleatorizados y tratados.
+b. Estudio aleatorizado, doble ciego, controlado con principio activo.
+c. Los  pacientes  tenían  un  valor  de  aclaramiento  de  creatinina  estimado  superior  o
+
+igual a 70 ml/min en la selección.
+
+d. Estudio aleatorizado, abierto, controlado con principio activo.
+e. Estudio abierto.
+f.  ARN del VIH-1 inferior a 50 copias por ml.
+
+8.2 Resultados de los estudios clínicos en sujetos adultos infectados por el VIH-1 sin antecedentes de tratamiento antirretroviral En el estudio 102, los sujetos fueron aleatorizados en una relación 1:1 para recibir ya sea STRIBILD® (N=348) una vez al día o ATRIPLA (efavirenz 600 mg/emtricitabina 200 mg/tenofovir DF 300 mg; N=352) una vez al día. La edad media era 38 años
+(rango 18-67), 89% era hombre, 63% era blanco, 28% era negro y 2% era asiático.
+El 24% de los sujetos se identificó como hispano/latino. El nivel promedio de ARN de VIH-1 plasmático era 4,8 log10 copias por mL (rango 2,6–6,5). El recuento inicial medio de células CD4+ fue de 386 células por mm3 (rango 3-1348) y el 13% tuvo recuentos decélulas CD4+ menores a 200 células por mm3. El 33% de los sujetos tenía cargas virales iniciales mayores a 100.000 copias por mL.
+
+En el estudio 103, los sujetos fueron aleatorizados en una relación 1:1 ya sea para recibir STRIBILD® (N=353) una vez al día o para recibir300 mg de ATV+100 mg
+RTV+TRUVADA® (emtricitabina 200 mg/tenofovir DF 300 mg) (N=355) una vez al día. La edad media era 38 años (rango 19-72), 90% era hombre, 74% era blanco,
+17% era negro y 5% era asiático. El 16% de los sujetos se identificó como hispano/ latino. El nivel promedio de ARN de VIH-1 plasmático inicial era 4,8 log10 copias por mL (rango 1,7–6,6). El recuento inicial medio de células CD4+ fue de 370 células por mm3 (rango 5-1132) y el 13% tuvo recuentos de células CD4+ menores a
+200 células por mm3. El 41% de los sujetos tenía cargas virales iniciales mayores a
+100.000 copias por mL.
+En ambos estudios, los sujetos fueron estratificados por niveles de ARN de VIH-1 inicial (menor que o igual a 100.000 copias por mL o mayor que 100.000 copias por mL).
+Los resultados del tratamiento del estudio 102 y el estudio 103 durante 144 semanas se muestran en la Tabla 10.
+
+Tabla 10. Resultados virológicos del tratamiento aleatorizado obtenidos del estudio 102 y el estudio 103 en la semana 144a
+
+Estudio 102
+
+Estudio 103
+
+STRIBILD®
+(N=348)
+
+ATRIPLA®
+(N=352)
+
+STRIBILD®
+(N=353)
+
+ATV+RTV+TRUVADA®
+(N=355)
+
+80 %
+
+75 %
+
+78 %
+
+75 %
+
+4,9 % (IC del 95 % =
+-1,3 %, 11,1 %))
+ 10 %
+7 %
+
+3,1 % (IC del 95 % =
+-3,2 %, 9,4 %)
+7 %
+
+8 %
+
+6 %
+
+8 %
+
+6 %
+
+5 %
+
+7 %
+
+8 %
+
+8 %
+
+9 %
+
+1 %
+
+0 %
+
+1 %
+
+1 %
+
+Éxito virológico
+ARN del VIH1 <50 copias/ml
+Diferencia entre tratamientos
+Fracaso virológicob
+Sin datos virológicos en la ventana de la semana 144
+Suspensión del fármaco del estudio debido a EA o muertec
+Suspensión del fármaco del estudio debido a otros motivos y último valor disponible de ARN del VIH1 <50 copias/mld
+Datos faltantes durante la ventana, pero con administración del fármaco del estudio
+
+a. La ventana de la semana 144 abarca del día 967 al día 1050 (inclusive).
+b. Incluye a los sujetos que tenían ≥50 copias/ml en la ventana temporal de la semana 144; los sujetos que suspendieron prematuramente el tratamiento debido a la falta o pérdida de eficacia; los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte, o la falta o pérdida de eficacia; y los sujetos que en el momento de la suspensión del tratamiento tenían un valor viral ≥50 copias/ml.
+
+c. Incluye a los pacientes que suspendieron el tratamiento debido a un evento adverso o la muerte en cualquier momento desde el día 1 hasta la ventana de tiempo si en consecuencia  no  se  obtuvieron  datos  virológicos  sobre  el  tratamiento  durante  la ventana especificada.
+
+d. Incluye a los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte, o la falta o pérdida de la eficacia, p. ej., retiro del consentimiento, pérdida durante el seguimiento, etc.
+
+En el estudio 102, el aumento medio desde el inicio en el recuento de células CD4+ a la Semana 144 era de 298 células por mm3 en sujetos tratados con STRIBILD® y de 272 células por mm3 en sujetos tratados con ATRIPLA (efavirenz, emtricitabina y tenofovir DF). En el estudio 103, el aumento medio desde el inicio en el recuento de células CD4+ a la semana 144 era de 261 células por mm3 en sujetos tratados con STRIBILD® y 269 células por mm3 en sujetos tratados con ATV+RTV+TRUVADA®.
+
+8.3  Resultados  de  los  estudios  clínicos  en  sujetos  adultos  infectados  por el VIH-1 con supresión virológica y sin antecedentes de fracaso virológico
+En el estudio 115, los sujetos debían estar recibiendo su primer o segundo régimen antirretroviral, no debían tener antecedentes de fracaso virológico ni antecedentes de resistencia a los componentes antirretrovirales de STRIBILD® en la actualidad o en el pasado, y debían haber mantenido una supresión virológica (ARN del VIH1 inferior a 50 copias/ml) mientras recibían tratamiento con un IP reforzado con ritonavir  en  combinación  con  TRUVADA®  (emtricitabina  y  tenofovir  DF)  durante al menos 6 meses antes de la selección. Los sujetos fueron aleatorizados en una proporción 2:1 para cambiar su tratamiento por STRIBILD® (grupo de STRIBILD®,
+N=293; aleatorizados y tratados) o para continuar con su régimen antirretroviral basal durante 48 semanas [grupo de IP+RTV+TRUVADA® (emtricitabina y tenofovir
+DF), N=140; aleatorizados y tratados]. La media de la edad de los sujetos era de 41 años (intervalo: 21 76), el 86 % era de sexo masculino, el 80 % era de raza blanca, y el 15 % era de raza negra. La media basal del recuento de linfocitos CD4+ era de 610 células por mm3 (intervalo: 74 1919). En la selección, los sujetos estaban recibiendo atazanavir (40 %), darunavir (40 %), lopinavir (17 %), fosamprenavir (3
+%) o saquinavir (<1 %) como IP en su régimen.
+En el estudio 121, los sujetos debían estar recibiendo su primer o segundo régimen antirretroviral, no debían tener antecedentes de fracaso virológico ni antecedentes de resistencia a los componentes antirretrovirales de STRIBILD® en la actualidad o en el pasado, y debían haber mantenido una supresión virológica (ARN del VIH-1
+<50 copias/ml) mientras recibían tratamiento con un INNTR en combinación con TRUVADA®(emtricitabina  y  tenofovir  DF)  durante  al  menos  6  meses  antes  de  la selección. Los sujetos fueron aleatorizados en una proporción 2:1 para cambiar su tratamiento por STRIBILD® (grupo de STRIBILD®, N=291; aleatorizados y tratados)
+o para continuar con su régimen antirretroviral basal durante 48 semanas (grupo de INNTR+TRUVADA®, N=143; aleatorizados y tratados). La media de la edad de
+
+0 %
+
+0 %
+
+0 %
+
+1 %
+
+TRASTORNOS HEPATOBILIARES
+
+los sujetos era de 41 años (intervalo: 20-72), el 93 % era de sexo masculino, el 78 % era de raza blanca, y el 17 % era de raza negra. La media basal del recuento de linfocitos CD4+ era de 588 células por mm3 (intervalo: 100-1614). La aleatorización se estratificó según el uso de efavirenz en el régimen basal. En la selección, los sujetos estaban recibiendo efavirenz (78 %) (predominantemente en forma de ATRIPLA
+(efavirenz, emtricitabina y tenofovir DF) [74 %]), nevirapina (17 %), rilpivirina (4 %)
+(en forma de COMPLERA (rilpivirina, emtricitabina y tenofovir DF) [4 %]) o etravirina
+(1 %) como INNTR en su régimen.
+En la tabla 11 se presentan los resultados virológicos del estudio 115 y del estudio
+121. Cinco sujetos tratados se excluyeron del análisis de eficacia: en el estudio 115, tres sujetos tratados con STRIBILD® desarrollaron resistencia documentada prohibida por el protocolo, y un sujeto tratado con IP+RTV+TRUVADA® (emtricitabina y tenofovir DF) no había estado bajo un régimen con un inhibidor de la proteasa en la selección; en el estudio 121, un sujeto tratado con STRIBILD® desarrolló resistencia documentada prohibida por el protocolo.
+
+Tabla 11. Resultados virológicos del tratamiento aleatorizado del estudio
+115 y del estudio 121 en la semana 48
+
+Estudio GS-US-2360115a
+
+Estudio GS-US-2360121a
+
+STRIBILD®
+(N=290)
+
+IP+RTV+-
+TRUVADA®
+(N=139)
+
+STRIBILD®
+(N=290)
+
+INNTR+TRUVADA®
+(N=143)
+
+94 %
+
+87 %
+
+93 %
+
+88 %
+
+1 %
+
+6 %
+
+2 %
+
+1 %
+
+12 %
+
+1 %
+
+6 %
+
+1 %
+
+11 %
+
+1 %
+
+2 %
+
+1 %
+
+4 %
+
+10 %
+
+4 %
+
+9 %
+
+Éxito virológico
+ARN del VIH-1 <50 copias/ml
+
+Fracaso virológicob
+
+Sin datos virológicos en la ventana temporal de la semana 48
+
+Suspensión del fármaco del estudio debido a EA o muertec
+
+Suspensión del fármaco del estudio debido a otros motivos y último valor disponible de ARN del VIH-1
+<50 copias/mld
+
+Datos faltantes durante la ventana, pero con administración del fármaco del estudio
+
+a. La ventana temporal de la semana 48 abarca del día 295 al día 378 (inclusive).
+b. Incluye a los sujetos que tenían ≥50 copias/ml en la ventana temporal de la semana 48; los sujetos que suspendieron prematuramente el tratamiento debido a la falta o pérdida de eficacia; los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte, o la falta o pérdida de eficacia; y los sujetos que en el momento de la suspensión del tratamiento tenían un valor viral ≥50 copias/ml.
+c. Incluye a los sujetos que suspendieron el tratamiento debido a un evento adverso o la muerte en cualquier momento desde el día 1 hasta finalizar la ventana temporal si, en consecuencia, no se obtuvieron datos virológicos sobre el tratamiento durante la ventana especificada.
+
+d. Incluye a los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte, o la falta o pérdida de eficacia, p. ej., retiro del consentimiento, pérdida durante el seguimiento, etc.
+
+8.4. Resultados de los estudios clínicos en sujetos adolescentes sin tratamiento previo contra el VIH-1, de edad entre 12 y menos de 18 años En  el  estudio  112,  se  evaluaron  la  eficacia,  la  seguridad  y  la  farmacocinética  de STRIBILD® mediante un estudio abierto de grupo único realizado en adolescentes infectados por el VIH-1 sin tratamiento previo, de entre 12 y menos de 18 años que pesaban al menos 35 kg (77 lb) (N=50). La media de la edad era de 15 años (intervalo: 12-17); el 70 % era de sexo masculino, el 68 % era de raza negra, y el 28 % era de raza asiática. En la situación basal, la media de ARN del VIH-1 plasmático era de 4,60 log10 copias por ml (intervalo: 3,18-5,73), la media del recuento de linfocitos
+CD4+ era de 399 células por mm3 (intervalo: 133-734), y el porcentaje medio de linfocitos CD4+ era del 20,9 % (intervalo: 4,5 %-41,1 %). El 20 % tenía unos valores basales de ARN del VIH-1 plasmático >100.000 copias por ml.
+En la semana 48, 44 de 50 (88 %) pacientes adolescentes tratados con STRIBILD® alcanzaron valores de ARN del VIH-1 <50 copias por ml, y 4 pacientes presentaron valores de ARN del VIH-1 ≥50 copias por ml; 1 paciente suspendió el tratamiento con el fármaco del estudio; 1 paciente no contaba con datos virológicos en la semana
+48. La reducción media respecto de la situación basal en el valor de ARN del VIH-1 fue de −3,16 log10 copias por ml; el aumento medio respecto de la situación basal en el recuento de linfocitos CD4+ fue de 229 células por mm3. Hasta la semana 48, no se detectó surgimiento de resistencia a STRIBILD®.
+
+9 REACCIONES ADVERSAS
+Se  trataron  las  siguientes  reacciones  adversas  a  los  fármacos  en  otras  secciones del prospecto:
+•  Severas exacerbaciones agudas de hepatitis Ben pacientes coinfectados por el
+
+VIH-1 y el VHB [Consulte Advertencias y Precauciones (7.1.1)].
+
+•  Nuevo inicio o empeoramiento de insuficiencia renal [Consulte Advertencias y
+
+Precauciones (7.1.2)].
+
+•  Acidosis láctica/Severa hepatomegalia con esteatosis [Consulte Advertencias y
+
+Precauciones (7.1.3)].
+
+•  Pérdida  de  masa  ósea  y  defectos  de  mineralización  [Consulte  Advertencias  y
+
+Precauciones (7.1.5)].
+
+•  Síndrome  de  Reconstitución  Inmune  [Consulte  Advertencias  y  Precauciones
+
+(7.1.6)].
+
+9.1 Experiencia en Estudios Clínicos
+Dado que los estudios clínicos se llevan a cabo en condiciones muy variables, las tasas de reacciones adversas observadas en los estudios clínicos de un determinado fármaco no pueden compararse de manera directa con las tasas obtenidas en los estudios clínicos de otro fármaco y es posible que no reflejen las tasas observadas en la práctica.
+
+Estudios  clínicos  en  sujetos  adultos  infectados  por  el  VIH-1  sin  antecedentes  de tratamiento antirretroviral La evaluación de seguridad de STRIBILD® se basó en datos agrupados obtenidos en  la  semana  144  correspondientes  a  1408  sujetos  en  dos  aleatorizados,  doble ciego, controlados con principio activo (el estudio 102 y estudio 103), realizados en sujetos adultos infectados con VIH-1 sin tratamiento antirretroviral previo [Ver
+Estudios Clínicos (8)]. Un total de 701 sujetos recibieron STRIBILD® una vez por día en estos dos estudios.
+La  proporción  de  los  sujetos  que  interrumpieron  el  tratamiento  con  STRIBILD®,
+ATRIPLA® (efavirenz 600 mg/emtricitabina 200 mg/tenofovir DF 300 mg) o ATV+RTV+TRUVADA®  (emtricitabina  200  mg/tenofovir  DF  300  mg)  debido  a  eventos adversos, sin tener en cuenta la gravedad, fue del 6,0%, 7,4% y 8,5%, respectivamente. La Tabla 12 muestra la frecuencia de reacciones adversas al fármaco mayor o igual al 5% de los sujetos en cualquier grupo de tratamiento.
+
+Tabla 12. Reacciones adversasa (todos los grados) informadas en ≥ 5% de sujetos adultos en cualquier grupo de tratamiento en los estudios 102 y 103
+(Análisis de 144 semanas)
+
+STRIBILD®
+N=701
+
+ATRIPLA®
+N=352
+
+ATV+RTV+TRUVADA®
+N=355
+
+TRASTORNOS OCULARES
+Ictericia ocular
+
+TRASTORNOS GASTROINTESTINALES
+Diarrea
+Flatulencia
+Náuseas
+
+TRASTORNOS GENERALES Y
+ALTERACIONES DEL SITIO DE
+ADMINISTRACIÓN
+Fatiga
+
+Ictericia
+
+TRASTORNOS DEL SISTEMA
+NERVIOSO
+
+Somnolencia
+
+Dolor de cabeza
+
+Mareos
+
+TRASTORNOS PSIQUIÁTRICOS
+
+Insomnio
+
+Sueños anormales
+
+TRASTORNOS DE PIEL Y TEJIDO
+SUBCUTÁNEO
+
+< 1%
+
+0%
+
+12%
+2%
+16%
+
+4%
+
+0%
+
+1%
+
+7%
+
+3%
+
+3%
+
+9%
+
+11%
+< 1%
+9%
+
+8%
+
+< 1%
+
+7%
+
+4%
+
+21%
+
+9%
+
+27%
+
+13%
+
+17%
+8%
+14%
+
+6%
+
+9%
+
+1%
+
+6%
+
+5%
+
+1%
+
+4%
+
+6%
+
+Erupciónb
+
+4%
+
+15%
+
+a. Las frecuencias de las reacciones adversas se basan en todos los eventos adversos
+
+surgidos durante el tratamiento, atribuidos a los fármacos del estudio.
+
+b. El  evento  de  erupción  incluye  dermatitis,  erupción  por  fármaco,  eczema,  prurito generalizado, erupción, erupción eritematosa, erupción generalizada, erupción macular, erupción máculo-papular, erupción morbiliforme, erupción papular, erupción prurítica y urticaria.
+
+Consulte  Advertencias  y  Precauciones  (7.1.2),  para  ver  un  análisis  de  reacciones adversas  renales  producidas  a  partir  de  la  experiencia  en  estudios  clínicos  con
+STRIBILD®.
+Las reacciones adversas adicionales que se observaron al administrar STRIBILD® incluyeron ideación suicida e intento de suicidio (0,3 %); todos los casos se produjeron  en  sujetos  con  antecedentes  preexistentes  de  depresión  o  enfermedad psiquiátrica.
+
+Estudios clínicos en sujetos adultos infectados por el VIH-1 con supresión virológica No se identificaron nuevas reacciones adversas a STRIBILD® hasta la semana 48 en los 584 sujetos adultos virológicamente estables que cambiaron a STRIBILD® desde un régimen que contenía un inhibidor de la proteasa (IP) reforzado con RTV o  un  inhibidor  no  nucleósido  de  la  transcriptasa  inversa  (INNTR).  En  un  análisis combinado de los estudios 115 y 121, la frecuencia de reacciones adversas (todos los grados) fue del 24 % en los sujetos que cambiaron a STRIBILD®, en comparación con el 6 % de los sujetos de cualquiera de los dos grupos que continuaron con su régimen antirretroviral basal, IP reforzado con RTV+TRUVADA® (emtricitabina y tenofovir DF), o con INNTR+TRUVADA® (emtricitabina y tenofovir DF). Las reacciones adversas frecuentes que se produjeron en el 2 % o más de los sujetos que cambiaron a STRIBILD® fueron náuseas (4 %), flatulencia (2 %) y cefalea (2 %). La proporción de sujetos que suspendieron el tratamiento con STRIBILD®, el IP reforzado con RTV o el INNTR debido a eventos adversos fue del 2 %, 3 % y 1 %, respectivamente.
+
+Estudios clínicos efectuados con los componentes de STRIBILD® en sujetos adultos Emtricitabina y tenofovir DF: Además de las reacciones adversas observadas con STRIBILD®, se produjeron las siguientes reacciones adversas en al menos el 5 % de los sujetos con o sin tratamiento previo que recibieron emtricitabina o tenofovir DF con otros antirretrovirales en otros estudios clínicos: depresión, dolor abdominal, dispepsia, vómitos, fiebre, dolor, nasofaringitis, neumonía, sinusitis, infección en las  vías  respiratorias  superiores,  artralgia,  dolor  de  espalda,  mialgia,  parestesia, neuropatía  periférica  (que  incluye  neuritis  y  neuropatía  periféricas),  ansiedad, aumento de la tos y rinitis.
+Se han notificado casos de alteración del color de la piel con una frecuencia mayor entre los sujetos tratados con emtricitabina; se manifestó como hiperpigmentación en las palmas de las manos y/o las plantas de los pies y, en general, fue una reacción leve y asintomática. Se desconocen su mecanismo y significación clínica.
+
+Anomalías de laboratorio
+La Tabla 13 presenta la frecuencia de anomalías de laboratorio (Grados 3-4) que se produjeron en al menos el 2% de los sujetos que recibieron STRIBILD® en los estudios 102 y 103.
+
+Tabla 13. Anomalías de Laboratorio (Grados 3-4) informadas en ≥ 2% de Sujetos adultos que recibieron STRIBILD® en los estudios 102 y 103 (Análisis de 144 semanas)
+
+por dL), glucosuria (mayor de o igual a 3+), neutrófilos (menos de 750 por mm3), colesterol  en  ayunas  (mayor  de  240  mg/dL),  y  triglicéridos  en  ayunas  (mayor  de 750 mg/dL).
+Lípidos  séricos:  En  los  estudios  clínicos  de  STRIBILD®,  el  porcentaje  de  sujetos que recibía hipolipemiantes en la situación basal fue similar entre los sujetos que recibieron STRIBILD®, ATRIPLA® (efavirenz, emtricitabina y tenofovir DF) y ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF)(12 %, 12 % y 13 %, respectivamente).
+Durante la administración del fármaco del estudio hasta la semana 144, otro 11 %  de  los  sujetos  tratados  con  STRIBILD®  comenzó  a  utilizar  hipolipemiantes,  en comparación con el 13 % de los sujetos tratados con ATRIPLA (efavirenz, emtricitabina y tenofovir DF) y el 12 % de los sujetos tratados con ATV+RTV+TRUVADA®
+(emtricitabina y tenofovir DF).
+Los cambios con respecto al valor inicial en el colesterol total, colesterol HDL, colesterol LDL y triglicéridos se muestran en la Tabla 15.
+
+Tabla 15. Cambio medio respecto del valor basal en los valores de lípidos en la semana 144 notificados en sujetos adultos que recibieron STRIBILD® o un comparador en los estudios 102 y 103
+
+STRIBILD®
+N=701
+
+ATRIPLA®
+N=352
+
+ATV+RTV+TRUVADA®
+N=355
+
+Anomalía en los parámetros de laboratorioa,b
+
+STRIBILD®
+N=701
+
+ATRIPLA®
+N=352
+
+ATV+RTV+TRUVADA®
+N=355
+
+Valor basal
+
+Semana
+144
+
+Valor basal
+
+Semana
+144
+
+Valor basal
+
+Semana
+144
+
+AST (>5,0 x LSN)
+
+ALT (>3,0 x LSN)
+
+Amilasaa (>2,0 x LSN)
+
+Creatina cinasa (≥10,0 x LSN)
+
+Sangre en orina (hematuria)
+(>75 hematíes/CGA)
+
+3 %
+
+2 %
+
+3 %
+
+8 %
+
+4 %
+
+6 %
+
+5 %
+
+3 %
+
+15 %
+
+2 %
+
+6 %
+
+4 %
+
+5 %
+
+11 %
+
+4 %
+
+a. Las frecuencias se basan en las anomalías de laboratorio emergentes del tratamiento.
+b. Para los sujetos con amilasa sérica >1,5 x límite superior de la normalidad (LSN), también se realizó un análisis de la lipasa. La frecuencia del aumento en el nivel de lipasa (grados 3 4) al administrar STRIBILD® (N=69), ATRIPLA® (N=40) y ATV + RTV
++ TRUVADA® (N=38) fue del 17 %, 15 % y 24 %, respectivamente.
+
+En  el  estudio  103,  se  evaluó  la  DMO  mediante  densitometría  (DEXA)  en  un subconjunto  no  aleatorio  de  120  sujetos  [grupo  de  STRIBILD®,  N=54;  grupo  de ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF), N=66]. El porcentaje medio de disminuciones en la DMO desde la situación basal hasta la semana 144 en el grupo de STRIBILD® fue similar al del grupo de ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF) en la columna lumbar (-1,43 % frente a -3,68 %, respectivamente)
+y en la cadera (-2,83 % frente a -3,77 %, respectivamente). En los estudios 102 y 103, se produjeron fracturas óseas en 27 sujetos (3,9 %) del grupo de STRIBILD®, en 8 sujetos (2,3 %) del grupo de ATRIPLA (efavirenz, emtricitabina y tenofovir DF) y en 19 sujetos (5,4 %) del grupo de ATV+RTV+TRUVADA® (emtricitabina y tenofovir
+DF). Estos hallazgos concordaron con los datos obtenidos de un estudio anterior de 144 semanas de duración en el que participaron sujetos sin tratamiento previo que recibieron tenofovir DF+lamivudina+efavirenz.
+Se observaron casos de proteinuria (todos los grados) en el 52 % de los sujetos que recibieron  STRIBILD®,  el  41  %  de  los  sujetos  que  recibieron  ATRIPLA  (efavirenz, emtricitabina  and  tenofovir  DF)  y  el  42  %  de  los  sujetos  que  recibieron  ATV+RTV+TRUVADA® (emtricitabina y tenofovir DF).
+Se ha demostrado que el componente cobicistat de STRIBILD® incrementó la creatinina sérica y disminuyó el aclaramiento de creatinina estimado debido a la inhibición de secreción tubular de creatinina sin afectar la función glomerular renal.En los estudios 102 y 103, se produjeron aumentos en la creatinina sérica y disminuciones en el aclaramiento de creatinina estimado al iniciar el tratamiento con STRIBILD®, que más adelante se estabilizaron.
+En la tabla 14 se muestran los cambios medios en los niveles de creatinina sérica y la tasa de filtración glomerular estimada (TFGe) en la semana 144, junto con el porcentaje de sujetos con elevaciones en la creatinina sérica (todos los grados).
+
+Tabla 14. Cambio respecto del valor basal de creatinina sérica y TFGe, e incidencia de valores elevados de creatinina sérica (todos los grados) en los estudios 102 y 103 en la semana 144
+
+STRIBILD®
+N=701
+
+ATRIPLA®
+N=352
+
+ATV+RTV+-
+TRUVADA®
+N=355
+
+Creatinina sérica (mg/dl)a
+
+0,14 (±0,14)
+
+0,01 (±0,12)
+
+0,09 (±0,15)
+
+TFGe mediante Cockcroft-Gault (ml/minuto)a
+
+Sujetos con aumentos en la creatinina sérica (todos los grados) (%)
+
+14,0 (±16,6)
+
+1,9 (±17,9)
+
+9,8 (±19,4)
+
+12
+
+2
+
+6
+
+a.  Cambio medio ± desviación estándar (DE)
+
+Emtricitabina o Tenofovir DF: Además de las anomalías de laboratorio observadas con STRIBILD®, se han informado las siguientes anomalías de laboratorio en sujetos tratados con emtricitabina o tenofovir DF con otros agentes antirretrovirales en otros estudios clínicos: Anomalías de laboratorio de Grado 3 o 4 de ALT (hombres:
+mayor de 215 U/L; mujeres: mayor de 170 U/L), fosfatasa alcalina (mayor a 550 U/L), bilirrubina (mayor a 2,5 x LSN), glucosa sérica (menor de 40 o mayor de 250 mg
+
+mg/dl
+
+Cambioa
+
+mg/dl
+
+Cambioa
+
+mg/dl
+
+Cambioa
+
+Colesterol total
+(en ayunas)
+
+166
+[N=675]
+
++17
+[N=535]
+
+161
+[N=343]
+
++22
+[N=262]
+
+168
+[N=337]
+
++16
+[N=243]
+
+Colesterol HDL
+(en ayunas)
+
+43
+[N=675]
+
++7
+[N=535]
+
+43
+[N=343]
+
++9
+[N=262]
+
+42
+[N=335]
+
++7
+[N=242]
+
+Colesterol LDL
+(en ayunas)
+
+100
+[N=675]
+
++15
+[N=535]
+
+97
+[N=343]
+
++19
+[N=262]
+
+101
+[N=337]
+
++18
+[N=242]
+
+Triglicéridos
+(en ayunas)
+
+122
+[N=675]
+
++12
+[N=535]
+
+121
+[N=343]
+
++5
+[N=262]
+
+132
+[N=337]
+
++22
+[N=242]
+
+a.  El cambio respecto del valor basal corresponde a la media de los cambios intrapaciente respecto del valor basal para los pacientes que disponían tanto del valor basal como del valor obtenido en la semana 144.
+
+Estudios clínicos en sujetos pediátricos Se evaluó la seguridad de STRIBILD® en 50 sujetos pediátricos infectados por el VIH-1 sin tratamiento previo, de edad entre 12 y menos de 18 años, que pesaban al menos 35 kg (77 lb) durante el transcurso de 48 semanas en un estudio clínico abierto (estudio 112) [ver Estudios clínicos (8.4)]. En este estudio, el perfil de seguridad de STRIBILD® fue similar al de los adultos. Veintidós sujetos (44 %) presentaron proteinuria emergente durante el tratamiento (grados 1-2). Un sujeto reunió los criterios de laboratorio correspondientes a tubulopatía renal proximal, que se evidenció por niveles sostenidos de proteinuria y glucosuria normoglucémica a partir de la semana 32. El sujeto continuó recibiendo STRIBILD® y, finalmente, se perdió durante el seguimiento.
+Entre los 50 sujetos pediátricos que recibieron STRIBILD® durante 48 semanas, la DMO media se incrementó desde la situación basal hasta la semana 48: +0,68 % en la columna lumbar y +0,77 % en el cuerpo entero menos la cabeza. Los cambios medios en las puntuaciones Z de la DMO (ajustadas en función de la estatura-edad)
+desde la situación basal hasta la semana 48 fueron −0,09 para la columna lumbar y −0,12 para el cuerpo entero menos la cabeza. En la semana 48, 7 sujetos tratados con STRIBILD® presentaron una pérdida significativa (superior o igual al 4 %) de la DMO en la columna lumbar, y 2 sujetos presentaron una pérdida significativa de la DMO en el cuerpo entero menos la cabeza.
+
+9.2 Experiencia posterior a la comercialización Se han identificado las siguientes reacciones adversas durante el uso de tenofovir DF con posterioridad a su aprobación. Debido a que las reacciones que aparecen en el período poscomercialización son notificadas voluntariamente por una población de tamaño indeterminado, no siempre es posible calcular su frecuencia de manera confiable ni establecer una relación causal con la exposición al fármaco.
+No se han identificado reacciones adversas adicionales específicas posteriores a la comercialización de emtricitabina.
+Trastornos en el sistema inmune
+Reacción alérgica, incluyendo angioedema Trastornos del metabolismo y de la nutrición Acidosis láctica, hipocalemia, hipofosfatemia Trastornos respiratorios, torácicos y mediastínicos
+Disnea
+Trastornos gastrointestinales
+Pancreatitis, aumento de amilasa, dolor abdominal
+Trastornos hepatobiliares
+Esteatosis hepática, hepatitis, aumento de enzimas en el hígado (más comúnmente
+AST, ALT, gamma GT)
+Trastornos de piel y tejido subcutáneo
+Erupción
+Trastornos musculoesqueléticos y del tejido conjuntivo Rabdomiólisis, osteomalacia (manifestada como dolor óseo y que rara vez puede contribuir a fracturas), debilidad muscular, miopatía
+Trastornos renales y urinarios
+Insuficiencia renal aguda, insuficiencia renal, necrosis tubular aguda, síndrome de Fanconi, tubulopatía proximal renal, nefritis intersticial (incluidos casos agudos), diabetes insípida nefrogénica, insuficiencia renal, aumento de creatinina, proteinuria, poliuria.
+
+Trastornos generales y alteraciones del sitio de administración
+Astenia
+Las  siguientes  reacciones  adversas,  listadas  bajo  los  encabezados  del  sistema orgánico,  pueden  acontecer  como  consecuencia  de  tubulopatía  renal  proximal:
+rabdomiólisis,  osteomalacia,  hipopotasemia,  debilidad  muscular,  miopatía,  hipofosfatemia.
+
+Notificación de sospechas de reacciones adversas Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización.  Ello  permite  una  supervisión  continuada  de  la  relación  beneficio/ riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al  siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A.
+vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+10 SOBREDOSIFICACIÓN
+No se dispone de datos acerca de la sobredosis de STRIBILD® en los pacientes Si  se  produce  una  sobredosis,  el  paciente  debe  ser  monitorizado  para  obtener evidencia de toxicidad. El tratamiento de la sobredosis con STRIBILD® consiste en tomar medidas de sostén generales que incluyan monitorización de signos vitales como también observación del estado clínico del paciente.
+“Ante la posibilidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+ (011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+Elvitegravir: Experiencia clínica limitada está disponible en dosis mayores a la dosis terapéutica de elvitegravir. En un estudio se administró elvitegravir reforzado equivalente a 2 veces la dosis terapéutica de 150 mg una vez al día durante 10 días a 42 sujetos sanos. No se informaron reacciones graves adversas. No se conocen los efectos de dosis más altas. Como el elvitegravir está muy ligado a las proteínas plasmáticas, es poco probable que se elimine significativamente mediante hemodiálisis o diálisis peritoneal.
+Cobicistat: Experiencia clínica limitada está disponible en dosis mayores a la dosis
+
+terapéutica de cobicistat. En dos estudios se administró una sola dosis de cobicistat de 400 mg (2,7 veces la dosis incluida en STRIBILD®) a un total de 60 sujetos sanos. No se informaron reacciones graves adversas. No se conocen los efectos de dosis más altas. Como el cobicistat está muy ligado a las proteínas plasmáticas, es poco probable que se elimine significativamente mediante hemodiálisis o diálisis peritoneal.
+Emtricitabina: Experiencia clínica limitada está disponible en dosis mayores a la dosis terapéutica de emtricitabina. En un estudio clínico farmacológico, se administró una sola dosis de emtricitabina de 1200 mg (6 veces la dosis incluida en STRIBILD®)
+a 11 sujetos. No se informaron reacciones graves adversas. No se conocen los efectos de dosis más altas.
+El tratamiento de hemodiálisis retira aproximadamente el 30% de la dosis de emtricitabina en un período de 3 horas de diálisis comenzando dentro de 1,5 horas de la dosificación de emtricitabina (velocidad de flujo sanguíneo de 400 mL por minuto y velocidad de flujo de dializado de 600 mL por minuto). Se desconoce si la emtricitabina se puede eliminar mediante diálisis peritoneal.
+Tenofovir DF: Se dispone de experiencia clínica limitada con dosis superiores a la dosis terapéutica de 300 mg de VIREAD (tenofovir DF). En un estudio, se administraron 600 mg de tenofovir DF (2 veces la dosis incluida en STRIBILD®) por vía oral a 8 sujetos durante 28 días, y no se notificaron reacciones adversas graves. No se conocen los efectos de dosis más altas. El tenofovir se elimina de forma eficiente mediante hemodiálisis, con un coeficiente de extracción de aproximadamente el 54 %. Después de una dosis única de 300 mg de VIREAD (tenofovir DF), una sesión de hemodiálisis de 4 horas eliminó aproximadamente el 10 % de la dosis administrada de tenofovir.
+
+12 CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO Mantener el envase bien cerrado, en un lugar seco a 25oC (ocasionalmente entre
+15oC y 30oC).
+
+11 PRESENTACIÓN
+Envases conteniendo 30 comprimidos recubiertos.
+
+ATRIPLA®, COMPLERA®, EPCLUSA®, HARVONI®, STRIBILD®, TRUVADA®, VIREAD® y VOSEVI® son marcas comerciales de Gilead Sciences, Inc. Todas las otras marcas comerciales mencionadas aquí son propiedad de los titulares respectivos.
+©2022 Gilead Sciences, Inc. Todos los derechos reservados.
+“Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Elaborado en Patheon Inc., Mississauga, Ontario, Canadá para Gilead Sciences Inc. EE.UU. Representado, Comercializado y
+
+Distribuido por Gador S.A.
+
+Darwin 429, C1414CUI, C.A.B.A., Tel: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Lic. En Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N°57.274
+
+Fecha última revisión: 01/2023
+
+STB-AR-JAN22-US-SEP21(CCDSv17.0)
+
+G00152103-05

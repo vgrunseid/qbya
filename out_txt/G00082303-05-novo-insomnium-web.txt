@@ -1,0 +1,588 @@
+NOVO INSOMNIUM® 2 - 3
+ESZOPICLONA 2 - 3 mg
+
+Comprimidos recubiertos
+Venta bajo receta archivada PSI IV. Industria Argentina
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de NOVO INSOMNIUM® 2 contiene:
+Eszopiclona ..................................................................................... 2 mg
+Excipientes: Dióxido de silicio coloidal, Cellactosa, Celulosa microcristalina, Croscaramelosa sódica, Estearato de magnesio, Opadry YS-1 7003 blanco, Opaglos AG-7350, Almidón pregelatinizado ........................ c.s.
+
+Cada comprimido recubierto de NOVO INSOMNIUM® 3 contiene:
+Eszopiclona ..................................................................................... 3 mg
+Excipientes: Dióxido de silicio coloidal, Cellactosa, Celulosa microcristalina, Croscaramelosa sódica, Estearato de magnesio, Opadry YS-1 7003 blanco,  Opaglos  AG-7350,  Almidón  pregelatinizado,  FD&C  azul  No  2 laca alumínica .................................................................................... c.s.
+
+ACCIÓN TERAPÉUTICA
+
+Hipnótico no benzodiazepínico.
+Clasificación ATC: N05C F02.
+
+INDICACIONES
+
+NOVO INSOMNIUM® está indicado para el tratamiento del insomnio (DSM IV). En estudios controlados en pacientes ambulatorios y en estudios polisomnográficos, eszopiclona administrada antes de acostarse disminuyó el tiempo de latencia al sueño y mejoró el mantenimiento del sueño. Hay estudios clínicos de 6 meses de duración que avalan la eficacia de eszopiclona en el tratamiento del insomnio.
+
+ACCIÓN FARMACOLÓGICA
+
+Eszopiclona es un hipnótico no benzodiazepínico derivado de la pirrolopiracina de la clase ciclopirrolona con una estructura química que no tiene  relación  con  las  pirazolopirimidinas,  imidazopiridinas,  benzodiazepinas, barbitúricos u otros fármacos hipnóticos. Se desconoce el mecanismo de acción exacto de eszopiclona como hipnótico, pero se cree que su efecto proviene de su interacción con el receptor GABA en los sitios de unión ubicados cerca o unidos alostéricamente a los receptores de benzodiazepinas.
+
+FARMACOCINÉTICA
+
+Se ha investigado la farmacocinética de eszopiclona en sujetos sanos (adultos y ancianos) y en pacientes con enfermedad hepática o renal.
+En adultos sanos, eszopiclona no se acumula con una administración única diaria, y su exposición es proporcional a la dosis dentro del rango de 1 a 6 mg.
+
+Absorción y distribución
+Eszopiclona tiene rápida absorción después de la administración oral. Las concentraciones plasmáticas máximas se alcanzan dentro de aproximadamente 1 hora después de la administración oral. Eszopiclona se une débilmente a las proteínas plasmáticas (52–59%). Esta baja unión a proteínas no debería ser afectada por interacciones a nivel de la ligadura protéica.
+
+Metabolismo
+Después de la administración oral, eszopiclona se metaboliza ampliamente por oxidación y demetilación. Sus metabolitos son (S)-zopiclona-N-óxido y (S)-N-desmetil zopiclona; el último compuesto se une a los receptores GABA con una potencia más baja que eszopiclona y el primer compuesto no muestra unión significativa a este receptor. En el metabolismo de eszopiclona están involucrados el CYP3A4 y CYP2E1.
+Eszopiclona no inhibe al CYP450 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4.
+
+Eliminación
+Después de la administración oral, eszopiclona se elimina con una vida media promedio de 6 horas. Menos del 10% de la dosis de eszopiclona oral se elimina en orina como droga madre.
+
+Efecto de los alimentos
+En los adultos sanos, la administración de eszopiclona después de una comida con alto contenido graso no modificó el área bajo la curva (ABC), produjo una disminución en la Cmáx media del 21% y retrasó la Tmáx en 1  hora.  La  vida  media  se  mantuvo  igual,  aproximadamente  6  horas.
+Los efectos de eszopiclona para inducir el sueño pueden reducirse si se lo ingiere con o inmediatamente después de una comida con alto contenido graso.
+
+Poblaciones especiales
+
+Edad
+En  comparación  con  adultos  no  ancianos,  los  sujetos  de  65  años  de edad  y  mayores  presentaron  un  aumento  del  41%  en  el  ABC  y  una eliminación ligeramente prolongada de eszopiclona (T1/2 de aproximadamente 9 horas). La Cmáx no se modificó. Por lo tanto, en los pacientes ancianos, la dosis inicial de NOVO INSOMNIUM® no debe exceder los 2 mg.
+
+Sexo y raza
+La farmacocinética de eszopiclona es similar en hombres y mujeres, y entre las diferentes razas.
+
+Disfunción hepática
+NOVO INSOMNIUM® debe administrarse con precaución en pacientes con disfunción hepática. En estudios farmacocinéticos, la exposición a la droga se incrementó 2 veces en los pacientes con disfunción hepática severa, en comparación con los voluntarios sanos. La Cmáx y Tmáx se mantuvieron sin cambios. Se recomienda reducción de la dosis en pacientes con  disfunción  hepática  severa  (ver  Posología  y  forma  de  administración). No es necesario ajustar la dosis en pacientes con disfunción hepática leve a moderada.
+
+Disfunción renal
+No es necesario ajustar la dosis en pacientes con disfunción renal, ya que menos del 10% de la dosis de eszopiclona oral se elimina en orina como droga madre.
+
+Interacciones medicamentosas
+Eszopiclona es metabolizada por el CYP3A4 y CYP2E1 mediante reacciones  de  demetilación  y  oxidación.  No  se  observaron  interacciones farmacocinéticas o farmacodinámicas entre eszopiclona y paroxetina o warfarina (seguida de una dosis oral de 25 mg). Eszopiclona no afectó la farmacocinética de digoxina. La administración concomitante de eszopiclona y olanzapina no presentó interacción farmacocinética. Se observó una interacción farmacodinámica en la medición de las funciones psicomotoras.  Eszopiclona  y  lorazepam  disminuyeron  sus  Cmáx  en  un 22%. La administración concomitante de 3 mg de eszopiclona a sujetos que recibían 400 mg de ketoconazol, un potente inhibidor del CYP3A4, resultó en un incremento de 2,2 veces en el ABC de eszopiclona. La Cmáx y la t1/2 se incrementaron en 1.4 y 1.3 veces, respectivamente. No se espera que eszopiclona altere el clearance de fármacos metabolizados por las enzimas CYP450.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Utilizar la dosis más baja efectiva para cada paciente.
+
+Dosis en adultos
+La dosis inicial recomendada de NOVO INSOMNIUM® es de 1 mg inmediatamente antes de acostarse.
+La dosis puede aumentarse a 2 ó 3 mg si está clínicamente indicado. En algunos pacientes, los niveles sanguíneos altos de eszopiclona a la mañana siguiente, seguidos al uso de dosis de 2 ó 3 mg, incrementa el riesgo en actividades que requieran completa concentración o al conducir vehículos al día siguiente. El total de dosis de NOVO INSOMNIUM® no debe exceder los 3 mg y debe administrarse una vez al día, inmediatamente antes de acostarse (ver Advertencias y Precauciones).
+
+Dosis en pacientes ancianos o debilitados La  dosis  total  de  NOVO  INSOMNIUM®  no  debe  exceder  los  2  mg  en pacientes ancianos o debilitados.
+
+Pacientes con insuficiencia hepática severa o que estén tomando inhibidores de la CYP3A4 En  pacientes  con  insuficiencia  hepática  severa  o  en  pacientes  donde eszopiclona es coadministrado con inhibidores de la CYP3A4, la dosis total de NOVO INSOMNIUM® no debe superar los 2 mg (ver Advertencias y Precauciones).
+
+Uso con depresores del SNC
+Cuando NOVO INSOMNIUM® es combinado con otros depresores del SNC es necesario realizar un ajuste de dosis, debido a los efectos aditivos potenciales (ver Advertencias y Precauciones).
+
+Administración con alimentos
+Tomar NOVO INSOMNIUM® antes o inmediatamente después de una comida con alto contenido graso resulta en una absorción más lenta y se podría esperar una reducción en el efecto de NOVO INSOMNIUM® sobre el tiempo de latencia al sueño.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a cualquier otro componente de este medicamento. Las reacciones de hipersensibilidad incluyen anafilaxis y angioedema.
+
+ADVERTENCIAS
+
+Efectos depresores del SNC y deterioro al día siguiente NOVO INSOMNIUM® es un depresor del sistema nervioso central (SNC)
+y  puede  deteriorar  las  funciones  diurnas  en  algunos  pacientes  a  las dosis más altas (2 mg o 3 mg), incluso cuando se utiliza según las indicaciones. Los médicos deberán supervisar el exceso de efectos depresores, aunque el deterioro puede ocurrir en ausencia de síntomas (o incluso con una mejoría subjetiva), y no se puede detectar de forma fiable a través de un examen clínico ordinario (por ejemplo, pruebas psicomotoras). Si bien se puede desarrollar tolerancia farmacodinámica o adaptación a algunos efectos adversos depresores de NOVO INSOMNIUM®, los pacientes que usan 3 mg de eszopiclona deben ser advertidos de conducir o participar en otras actividades peligrosas o que requieran alerta mental completa el día después de su uso. Los efectos aditivos se producen con el uso concomitante de otros depresores del SNC (por ejemplo, las benzodiazepinas, opiáceos, antidepresivos tricíclicos, alcohol), incluyendo el uso durante el día. Se debe considerar la reducción de la dosis de NOVO INSOMNIUM® y depresores del SNC concomitantes  (ver  Posología  y  forma  de  administración).  No  se  recomienda  el uso  de  NOVO  INSOMNIUM®  con  otros  hipnóticos-sedantes  antes  de acostarse o en la mitad de la noche. El riesgo de deterioro psicomotor al día siguiente aumenta si NOVO INSOMNIUM® se toma con menos de una noche completa de sueño restante (7 a 8 horas); si se toma una dosis superior a la recomendada; si se administra conjuntamente con otros depresores del SNC o con otras drogas que aumentan los niveles en sangre de eszopiclona (ver Posología y forma de administración).
+
+Evaluación de comorbilidades
+Debido a que los trastornos del sueño pueden ser manifestaciones de un trastorno físico y/o psiquiátrico, el tratamiento sintomático del insomnio sólo debe iniciarse después de una evaluación minuciosa del paciente.
+La no remisión del insomnio después de los 7 a 10 días de tratamiento puede indicar la presencia de una enfermedad psiquiátrica y/o médica primaria que deberá ser evaluada. El empeoramiento del insomnio o la aparición de anormalidades en el pensamiento o en la conducta puede ser consecuencia de un trastorno psiquiátrico o físico no reconocido. Tales hallazgos surgieron en el curso del tratamiento con fármacos sedantes/hipnóticos, incluyendo a eszopiclona. Debido a que algunos de los eventos adversos importantes de eszopiclona parecen estar relacionados con la dosis, es importante utilizar la dosis efectiva más baja posible, especialmente en ancianos (ver Posología y forma de administración).
+
+Cambios conductuales y pensamiento anormal Se ha informado una variedad de cambios anormales de pensamiento y de conducta en relación con el uso de sedantes/hipnóticos. Algunos de estos cambios pueden estar caracterizados por la inhibición disminuida
+(por ejemplo, agresividad y extroversión que no parecen ser parte del carácter de la persona), similar a los efectos producidos por el alcohol y otros depresores del SNC (Sistema Nervioso Central). Otros cambios informados de la conducta han incluido conducta extraña, agitación, alucinaciones  y  despersonalización.  Han  sido  reportadas  conductas complejas  tales  como  “manejar  dormido”  (por  ejemplo,  manejar
+
+cuando no se está completamente despierto luego de la ingesta de un hipnótico sedante, con amnesia de este evento). Estos eventos pueden ocurrir en pacientes que nunca han sido tratados con hipnóticos sedantes, como así también en pacientes que sí lo fueron. Aunque esta conducta de “manejar dormido” puede ocurrir con eszopiclona sola, a dosis terapéuticas, el consumo de alcohol o de otros depresores del SNC en asociación con eszopiclona parece incrementar el riesgo de que ésta ocurra, así como también el uso de eszopiclona a dosis que excedan la dosis máxima recomendada. Debido al peligro para el paciente y la comunidad, la discontinuación de eszopiclona deberá ser fuertemente considerada en aquellos pacientes que reporten un episodio de “manejar dormido”. Otras conductas complejas (por ejemplo, cocinar y comer, realizar llamadas telefónicas o tener relaciones sexuales) han sido reportadas en pacientes que no están completamente despiertos, luego de la ingesta de hipnóticos sedantes. Como en los que “manejan dormidos”, los pacientes usualmente no recuerdan estos eventos. Impredeciblemente pueden ocurrir amnesia y otros síntomas neuropsiquiátricos.
+En los pacientes primariamente deprimidos, se ha informado empeoramiento en la depresión, incluyendo pensamientos suicidas, en asociación con el uso de sedantes/hipnóticos. En raras ocasiones, se puede determinar con seguridad si las conductas anormales enumeradas anteriormente son inducidas por el fármaco, si son de origen espontáneo o si son resultado de un trastorno psiquiátrico o físico subyacente. Sin embargo, la aparición de cualquier nuevo signo o síntoma preocupante en la conducta requiere de evaluación minuciosa e inmediata.
+
+Efectos por discontinuación
+Después de la disminución rápida de la dosis o de la discontinuación abrupta  del  uso  de  sedantes/hipnóticos,  se  han  informado  signos  y síntomas similares a aquellos asociados con el retiro de otros fármacos depresores del SNC.
+
+Reacciones anafilácticas y anafilactoides severas Han sido reportados raros casos de angioedema involucrando la lengua, glotis o laringe en pacientes luego de tomar la primera o subsiguiente dosis de hipnóticos sedantes, incluyendo eszopiclona. Algunos pacientes han tenido síntomas adicionales tales como disnea, obstrucción de garganta o náuseas y vómito que sugieren anafilaxis. Algunos pacientes han requerido terapia médica en departamentos de emergencias. Si el angioedema involucra la lengua, glotis o laringe, puede ocurrir obstrucción aérea y puede ser fatal. Los pacientes que desarrollen angioedema luego del tratamiento con eszopiclona, no deben ser expuestos nuevamente a esta droga.
+
+PRECAUCIONES
+
+Tiempo de administración del fármaco
+NOVO  INSOMNIUM®  debe  administrarse  inmediatamente  antes  de acostarse.  Tomar  un  sedante/hipnótico  mientras  que  todavía  se  está levantado puede resultar en dificultades en la memoria a corto plazo, alucinaciones, dificultades en la coordinación, vértigo y mareos.
+
+Uso en pacientes ancianos y/o debilitados
+El trastorno en el desempeño motor y/o cognitivo después de la exposición repetida o la sensibilidad inusual a los fármacos sedantes/hipnóticos constituye una preocupación en el tratamiento de esta población. La dosis de NOVO INSOMNIUM® no debe exceder los 2 mg para estos pacientes.
+
+Uso en pacientes con enfermedades concomitantes
+La  experiencia  clínica  con  eszopiclona  en  pacientes  con  enfermedades  concomitantes  es  limitada.  Eszopiclona  debe  utilizarse  con  precaución  en  pacientes  con  enfermedades  o  condiciones  que  podrían afectar el metabolismo o las respuestas hemodinámicas. Un estudio realizado  en  voluntarios  sanos  no  reveló  efectos  depresores  respiratorios en dosis 2,5 veces superiores (7 mg) a la dosis de eszopiclona recomendada. Sin embargo, se recomienda precaución si se prescribe
+NOVO INSOMNIUM® a pacientes con función respiratoria comprometida.  La  dosis  de  NOVO  INSOMNIUM®  no  debe  exceder  los  2  mg  en pacientes con disfunción hepática severa. No parece necesario ajustar las dosis en sujetos con disfunción hepática leve o moderada. No parece necesario ajustar las dosis en sujetos con cualquier grado de disfunción renal, ya que menos del 10% de eszopiclona se elimina sin modificar en orina. Se debe reducir la dosis de NOVO INSOMNIUM® en pacientes que reciben inhibidores del CYP3A4 potentes, tales como ketoconazol, durante el tratamiento con NOVO INSOMNIUM®. También se recomienda disminuir la dosis cuando se administra NOVO INSOMNIUM® con agentes que presentan efectos depresores del SNC conocidos.
+
+Uso en pacientes con depresión
+Los fármacos sedantes/hipnóticos deben administrarse con precaución en pacientes que presentan signos y síntomas de depresión. Pueden
+
+manifestarse tendencias suicidas en dichos pacientes y puede resultar necesario  tomar  medidas  de  protección.  La  sobredosificación  intencional es más común en este grupo de pacientes; por lo tanto, debe prescribirse la cantidad mínima posible del fármaco para el paciente en todo momento.
+
+Exámenes de laboratorio
+No se recomiendan pruebas de laboratorio específicas.
+
+Interacciones medicamentosas
+
+Fármacos activos en el SNC
+Etanol: se observó un efecto aditivo en el desempeño psicomotor con la administración concomitante de eszopiclona y etanol.
+Paroxetina:  la  administración  concomitante  de  dosis  únicas  diarias de eszopiclona y paroxetina no produjo interacción farmacocinética o farmacodinámica.
+Lorazepam: la administración concomitante de dosis únicas de eszopiclona y lorazepam no presentó efectos clínicamente relevantes en la farmacodinamia o farmacocinética de ninguna de las drogas. La ausencia de interacciones medicamentosas después de la administración de una dosis única no predice la ausencia completa de efectos farmacodinámicos luego de la administración crónica.
+Olanzapina: la administración concomitante de eszopiclona y olanzapina produjo una disminución en el puntaje del DSST (medida objetiva de funcionamiento psicomotor usada para evaluar la sedación residual). La interacción fue solamente farmacodinámica.
+
+Drogas que inhiben el CYP3A4 (ketoconazol)
+El CYP3A4 es un paso metabólico principal para la eliminación de eszopiclona. El ABC de eszopiclona aumentó 2,2 veces con la administración concomitante de ketoconazol, un potente inhibidor del CYP3A4. La Cmáx y la t1/2 aumentaron 1,4 y 1,3 veces respectivamente. Se debería esperar que otros inhibidores potentes de CYP3A4 (itraconazol, claritromicina, nefazodona, troleandomicina, ritonavir, nelfinavir) tuvieran un efecto similar.  Cuando  se  administra  NOVO  INSOMNIUM®  con  inhibidores potentes del CYP3A4, debe evaluarse una disminución de la dosis de NOVO INSOMNIUM® (ver Posología y forma de administración).
+
+Drogas que inducen el CYP3A4 (rifampicina)
+El  ABC  de  la  zopiclona  racémica  disminuyó  un  80%  por  el  uso  concomitante de rifampicina, un potente inductor del CYP3A4. Se espera un efecto similar con eszopiclona. El uso en combinación con inductores del CYP3A4 puede disminuir la exposición y efectos de NOVO INSOMNIUM®.
+
+Drogas altamente unidas a las proteínas plasmáticas
+Eszopiclona no se encuentra altamente unida a las proteínas plasmáticas  (52-59%  de  unión);  por  lo  tanto,  no  se  espera  que  la  biodisponibilidad de eszopiclona sea sensible a las alteraciones en la unión a proteínas. La administración de 3 mg de eszopiclona a un paciente que recibe otro fármaco con alta unión proteica, no produce alteraciones en la concentración libre de ninguna de las drogas.
+
+Drogas con un estrecho Índice terapéutico Digoxina: eszopiclona no afecta la farmacocinética de la digoxina.
+Warfarina: eszopiclona no afecta la farmacocinética de la warfarina.
+
+Carcinogénesis, mutagénesis, deterioro de la fertilidad
+
+Carcinogénesis
+En  un  estudio  sobre  carcinogenicidad  en  ratas  Sprague-Dawley  en las  cuales  se  administró  eszopiclona  por  sonda  oral,  no  se  observó aumentos  en  los  tumores.  Sin  embargo,  en  un  estudio  realizado  en ratas  Sprague-Dawley  donde  se  administró  zopiclona  racémica  a  la dieta y se alcanzaron niveles plasmáticos de eszopiclona mayores a los alcanzados en el estudio antes mencionado, se observó un aumento en adenocarcinomas mamarios en las hembras y un aumento en adenomas y carcinomas foliculares de tiroides en los machos, en la dosis más alta. Se estima que los niveles plasmáticos de eszopiclona con esta dosis sean de 150 (para hembras) y 70 (para machos) veces más que la dosis máxima recomendada en humanos (DMRH). Se desconoce el mecanismo del aumento de los adenocarcinomas mamarios. Se cree que el aumento en los tumores tiroideos se debe a los niveles aumentados de TSH secundario al metabolismo aumentado de las hormonas tiroideas circulantes. En un estudio sobre carcinogenicidad en ratones
+B6C3F1 donde se agregó zopiclona racémica a la dieta, se observó un aumento en los carcinomas y adenomas pulmonares y un aumento en los fibromas y adenomas de la piel con la dosis más alta. Se estima que los niveles plasmáticos de eszopiclona con esta dosis son de 8 (hembras) y 20 (machos) veces superiores a la DMRH. Los tumores dérmicos se debieron a las lesiones de la piel inducidos por conducta agresiva, un
+
+mecanismo que no es relevante en humanos. Eszopiclona no aumentó los  tumores  en  un  bioensayo  en  un  ratón  transgénico  p53  con  dosis orales de hasta 300 mg/kg/día.
+
+Mutagénesis
+Eszopiclona resultó positiva en un ensayo de aberración cromosómica en linfoma de ratón y produjo una respuesta ambigua en el ensayo de aberración cromosómica en la célula de ovario de hámster chino. No resultó mutagénico o clastogénico en el ensayo Ames de mutación genética en bacterias, en un ensayo de síntesis de ADN no programado o en un ensayo in vivo de micronúcleos en médula ósea de ratón. Zopiclona (S)-N-desmetil, un metabolito de eszopiclona, resultó positiva en los ensayos de aberración cromosómica de linfocito humano y de células de ovario de hámster chino. Resultó negativa en el ensayo de mutación bacteriana Ames, en un ensayo in vitro de aducto de ADN postmarcado con 32P y en un ensayo de aberración cromosómica y de micronúcleos en médula ósea de ratón in vivo.
+
+Deterioro de la fertilidad
+Se administró eszopiclona por sonda oral a ratas machos en dosis de hasta 45 mg/kg/día desde 4 semanas anteriores al apareamiento hasta el apareamiento y a las ratas hembras en dosis de hasta 180 mg/kg/ día 2 semanas antes del apareamiento hasta el día 7 de embarazo. Se realizó un estudio adicional en el cual sólo se trataron ratas hembras, con hasta 180 mg/kg/día. Eszopiclona disminuyó la fertilidad, probablemente debido a los efectos tanto en machos como en hembras, sin embarazos en hembras cuando ambos, macho y hembra, se trataron con la dosis más alta; la dosis sin efecto en ambos sexos fue de 5 mg/kg
+(16 veces la DMRH sobre una base de mg/m2). Otros efectos incluyeron pérdida aumentada de la pre-implantación, ciclos estrales anormales y disminuciones en el número de espermas y en la motilidad y disminuciones en el esperma morfológicamente anormal.
+
+Embarazo - Categoría C
+Eszopiclona administrada por sonda oral a ratas y conejas embarazadas durante el período de organogénesis no mostró evidencia de teratogenicidad hasta las dosis más altas analizadas (dosis de 800 y 100 veces más, respectivamente, que la DMRH sobre una base de mg/m2). En la rata, se observaron reducciones leves en el peso del feto y evidencia de retraso en el desarrollo en dosis tóxicas para la madre. También se administró eszopiclona por sonda oral a ratas embarazadas a lo largo del embarazo y de la lactancia en dosis de hasta 180 mg/kg/día. En todas las dosis, se observaron pérdida post-implantación, disminución en el peso y sobrevida de la cría después del parto y respuesta de sobresalto aumentada de la cría. No existen estudios adecuados y bien controlados con eszopiclona en mujeres embarazadas. Eszopiclona sólo debe usarse durante el embarazo si el beneficio potencial justifica el riesgo potencial al feto.
+
+Trabajo de parto y parto
+Eszopiclona no presenta un uso establecido para el trabajo de parto y el parto.
+
+Lactancia
+Se  desconoce  si  NOVO  INSOMNIUM®  se  elimina  en  leche  materna.
+NOVO INSOMNIUM® no debe administrarse a mujeres que se encuentren amamantando. En caso necesario el médico evaluará la suspensión de la lactancia.
+
+Uso pediátrico
+No se ha establecido la seguridad y efectividad de eszopiclona en niños menores de 18 años.
+
+Uso geriátrico
+El patrón general de eventos adversos para los sujetos ancianos (edad promedio = 71 años) en estudios de 2 semanas con dosis nocturnas de 2 mg de eszopiclona no resultó diferente al observado en los adultos más jóvenes.
+Los pacientes ancianos pueden tener una exposición total a eszopiclona más alta con una eliminación más prolongada que los adultos más jóvenes, por lo que se recomienda una reducción de la dosis (ver Posología y forma de administración).
+
+ABUSO Y DEPENDENCIA DE DROGAS
+
+NOVO INSOMNIUM® es una sustancia controlada, lista IV. Eszopiclona es un agente hipnótico con una estructura química que no guarda relación con las benzodiazepinas, pero comparte algunas de las propiedades farmacológicas de éstas. En un estudio sobre la responsabilidad en el abuso, realizado en individuos con antecedentes conocidos de abuso de benzodiazepinas, eszopiclona administrada en dosis de 6 y 12 mg
+
+produjo efectos eufóricos similares a los del diazepam 20 mg. En este estudio, con dosis del doble o más que las dosis máximas recomendadas, se observó un aumento relacionado con la dosis en informes sobre amnesia y alucinaciones, tanto para eszopiclona como para diazepam.
+La experiencia con los estudios clínicos con eszopiclona, no reveló evidencia de un síndrome serio de retiro. Sin embargo, se informaron los siguientes eventos adversos incluidos en los criterios del DSM-IV para el retiro de sedantes/hipnóticos sin complicaciones durante los estudios clínicos después de la sustitución con placebo que ocurrió dentro de las 48 horas después de la administración del último comprimido de eszopiclona: ansiedad, sueños anormales, náuseas y malestar estomacal. Estos eventos adversos informados ocurrieron con una incidencia del 2% o menor. El uso de benzodiazepinas y agentes similares puede provocar dependencia física y psicológica. El riesgo de abuso y dependencia aumenta con la dosis y la duración del tratamiento y con el uso concomitante de otros fármacos psiquiátricos. El riesgo también es mayor en pacientes con antecedentes de abuso de alcohol o drogas, o antecedentes de trastornos psiquiátricos. Estos pacientes deberían recibir vigilancia minuciosa al recibir eszopiclona o cualquier otro hipnótico.
+
+Tolerancia
+Se puede desarrollar cierta pérdida de eficacia al efecto hipnótico de las benzodiazepinas y agentes del tipo de las benzodiazepinas después del uso repetido de estos fármacos durante unas pocas semanas. No se observó ningún tipo de desarrollo de tolerancia ante ningún parámetro de medición del sueño durante 6 meses.
+
+REACCIONES ADVERSAS
+
+Eventos adversos resultantes de la discontinuación del tratamiento En un estudio a largo plazo de 6 meses de duración realizado en pacientes adultos con insomnio, el 7,2% de los pacientes que recibieron placebo y el 12,8% de los pacientes que recibieron 3 mg de eszopiclona discontinuaron  el  tratamiento  debido  a  un  evento  adverso.  No  hubo ningún evento que resultara en la discontinuación del tratamiento a un porcentaje mayor al 2%. (Sleep 2003; 26(7):793-799).
+
+Eventos adversos observados con una incidencia ≥2% en estudios controlados con placebo La Tabla 1 muestra la incidencia de los eventos adversos emergentes del tratamiento en un estudio de fase III controlado con dosis de 2 ó 3 mg de eszopiclona en adultos no-ancianos. La duración del tratamiento en este estudio fue de 44 noches. La tabla sólo incluye eventos que ocurrieron en el 2% o más de los pacientes tratados con 2 ó 3 mg de eszopiclona donde la incidencia en pacientes tratados con eszopiclona resultó mayor que la incidencia en pacientes tratados con placebo. (Curr
+Med Res Opin 2004; 20:1979-91).
+
+Tabla 1. Incidencia (%) de eventos adversos emergentes del tratamiento con eszopiclona, en un estudio de 6 semanas controlado con placebo, en pacientes adultos no ancianos1
+
+Evento adverso
+
+Placebo
+
+Eszopiclona 2 mg
+
+Eszopiclona 3 mg
+
+Corporal
+Cefalea
+Infecciones virales
+Sistema digestivo
+Boca seca
+Dispepsia
+Náuseas
+Vómitos
+Sistema nervioso
+Ansiedad
+Confusión
+Depresión
+Vértigo
+Alucinaciones
+Libido disminuida
+Nerviosismo
+Somnolencia
+Sistema respiratorio
+Infecciones
+Piel y apéndices
+Rash
+Sentidos especiales
+Gusto desagradable
+
+13
+1
+
+3
+4
+4
+1
+
+0
+0
+0
+4
+0
+0
+3
+3
+
+3
+
+1
+
+3
+
+21
+3
+
+5
+4
+5
+3
+
+3
+0
+4
+5
+1
+0
+5
+10
+
+5
+
+3
+
+17
+
+17
+3
+
+7
+5
+4
+0
+
+1
+3
+1
+7
+3
+3
+0
+8
+
+10
+
+4
+
+34
+
+Sistema urogenital
+Dismenorrea2
+Ginecomastia3
+
+0
+0
+
+3
+3
+
+0
+0
+
+1. Reacciones reportadas con eszopiclona cuya incidencia fue igual o menor que el placebo y no se encuentran en la tabla: sueños anormales, lesión accidental, dolor lumbar, diarrea, síndrome gripal, mialgias, dolor, faringitis y rinitis. 2. Reacción adversa en función del género en mujeres. 3. Reacción adversa en función del género en hombres.
+
+Las  reacciones  adversas  de  la  Tabla  1  que  sugieren  una  relación  dosis-respuesta en los adultos incluyen infección viral, boca seca, vértigo, alucinaciones,  infecciones,  rash  y  gusto  desagradable,  siendo  esta última la relación más clara.
+La Tabla 2 muestra la incidencia de eventos adversos emergentes del tratamiento en estudios combinados de Fase III controlados con placebo con eszopiclona en dosis de 1 ó 2 mg en adultos ancianos (edades
+65-86). La duración del tratamiento de estos estudios fue de 14 días. La tabla incluye sólo aquellos eventos que ocurrieron en el 2% o más de los pacientes tratados con 1 ó 2 mg de eszopiclona donde la incidencia en pacientes tratados con eszopiclona resultó mayor que la incidencia en pacientes tratados con placebo. (Sleep 2003; 26(7):793-799).
+
+Tabla 2. Incidencia (%) de eventos adversos emergentes del tratamiento con eszopiclona en ancianos (65-86 años) en estudios de dos semanas controlados con placebo1
+
+Evento adverso
+
+Placebo
+
+Eszopiclona 1 mg
+
+Eszopiclona 2 mg
+
+Corporal
+Daño accidental
+Cefaleas
+Dolor
+Sistema digestivo
+Diarrea
+Boca seca
+Dispepsia
+Sistema nervioso
+Sueños anormales
+Vértigo
+Nerviosismo
+Neuralgia
+Piel y apéndices
+Prurito
+Sentidos especiales
+Gusto desagradable
+Sistema urogenital
+Infección del tracto urinario
+
+1
+14
+2
+
+2
+2
+2
+
+0
+2
+1
+0
+
+1
+
+0
+
+0
+
+0
+15
+4
+
+4
+3
+6
+
+3
+1
+0
+3
+
+4
+
+8
+
+3
+
+3
+13
+5
+
+2
+7
+2
+
+1
+6
+2
+0
+
+1
+
+12
+
+0
+
+1. Reacciones reportadas con eszopiclona cuya incidencia fue igual o menor que el placebo y no se encuentran en la tabla: dolor abdominal, astenia, náuseas, rash y somnolencia.
+
+Las reacciones adversas de la Tabla 2 que sugieren una relación dosis-respuesta en los ancianos incluyen dolor, boca seca y gusto desagradable, siendo esta última la relación más clara. Estas cifras no pueden utilizarse para predecir la incidencia de los eventos adversos en el curso de la práctica médica usual debido a que las características del paciente y otros factores pueden diferir de aquellos que prevalecieron en los estudios clínicos.  De  la  misma  forma,  las  frecuencias  mencionadas  no  pueden compararse con las cifras obtenidas de otras investigaciones clínicas que incluyeron diferentes tratamientos, usos e investigadores. Sin embargo, las cifras citadas brindan al médico que prescribe una base para estimar los aportes relativos de los factores farmacológicos y no-farmacológicos a la tasa de incidencia de eventos adversos en la población estudiada.
+Los eventos descriptos a continuación se incluyen clasificados adicionalmente por sistema orgánico y listados en orden de disminución de frecuencia según las siguientes definiciones: eventos adversos frecuentes son los que se producen al menos en 1/100 pacientes; eventos adversos ocasionales son los que se producen al menos en 1/100 a 1/1000 pacientes; eventos raros son los que se producen en menos de 1/1000 pacientes. A pesar de que los eventos mencionados ocurrieron durante el  tratamiento  con  eszopiclona,  no  fueron  necesariamente  causados por dicha medicación.
+Corporal. Frecuentes: dolor de pecho. Ocasionales: reacción alérgica, celulitis,  edema  facial,  fiebre,  halitosis,  insolación,  hernia,  malestar general, rigidez en la nuca, fotosensibilidad.
+Sistema  cardiovascular.  Frecuentes:  migraña.  Ocasionales:  hipertensión. Raros: tromboflebitis.
+Sistema digestivo. Ocasionales: anorexia, colelitiasis, aumento del apetito, melena, ulceración bucal, sed, estomatitis ulcerativa. Raros: colitis, disfagia, gastritis, hepatitis, hepatomegalia, daño hepático, úlcera gástrica, estomatitis, edema lingual, hemorragia rectal.
+Sistema hemático y linfático. Ocasional: anemia, linfadenopatía.
+Metabolismo  y  nutrición.  Frecuentes:  edema  periférico.  Ocasionales:
+hipercolesterolemia, aumento de peso, pérdida de peso. Raros: deshidratación, gota, hiperlipemia, hipokalemia.
+Sistema músculo-esquelético. Ocasionales: artritis, bursitis, trastorno articular (principalmente tumefacción, rigidez y dolor), calambres en los miembros inferiores, miastenia, espasmos. Raros: artrosis, miopatía, ptosis.
+Sistema nervioso. Ocasionales: agitación, apatía, ataxia, labilidad emocional, hostilidad, hipertonía, hiperestesia, incoordinación, insomnio, trastornos de memoria, neurosis, movimientos incontrolables del ojo, parestesias,  disminución  de  los  reflejos,  pensamientos  anormales, vértigo. Raros: marcha anormal, euforia, hiperestesias, hipoquinesias, neuritis, neuropatía, estupor, temblores.
+Sistema respiratorio. Ocasionales: asma, bronquitis, disnea, epistaxis, hipo, laringitis.
+Piel y apéndices. Ocasionales: acné, alopecia, dermatitis por contacto, piel seca, eczema, decoloración de la piel, sudoración, urticaria. Raros:
+eritema multiforme, furunculosis, herpes zoster, hirsutismo, rash máculo-papular, rash vesículo-bulloso.
+Sentidos especiales. Ocasionales: conjuntivitis, ojo seco, dolor de oído, otitis externa, otitis media, tinnitus, trastorno vestibular. Raros: hiperacusia, iritis, midriasis, fotofobia.
+Sistema urogenital: Ocasionales: amenorrea, edema mamario, agrandamiento de mamas, tumor mamario, dolor de mamas, cistitis, disuria, secreción anormal de los pezones, hematuria, cálculos renales, dolor renal,  mastitis,  menorragia,  metrorragia,  trastornos  de  la  frecuencia urinaria, incontinencia urinaria, hemorragia uterina, hemorragia vaginal, vaginitis. Raros: oliguria, pielonefritis, uretritis.
+
+Experiencia post-marketing
+Se ha reportado disosmia. Como este evento fue reportado espontáneamente  de  una  población  de  tamaño  desconocido,  no  es  posible estimar la frecuencia del mismo.
+
+Notificación de sospecha de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https://www.argentina.gob.ar/anmat/farmacovigilancia/ notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACIÓN
+
+En los estudios clínicos con eszopiclona, se informó un caso de sobredosificación con hasta 36 mg de eszopiclona en el cual el sujeto se recuperó completamente. Post-comercialización se observaron casos de sobredosis de eszopiclona de hasta 270 mg, los pacientes se han recuperado. Las fatalidades relacionadas a la sobredosis de eszopiclona sólo se reportaron en combinación con otras drogas para el SNC o alcohol. Se puede esperar que los signos y síntomas de los efectos de sobredosis de los depresores del SNC se presenten como exageraciones de los efectos farmacológicos observados en las pruebas preclínicas. Se han descripto trastornos en el estado de conciencia que oscilan desde la somnolencia al coma. En raras ocasiones, se han informado instancias individuales de resultados fatales después de la sobredosis con zopiclona racémica en informes europeos posteriores a la comercialización, más frecuentemente relacionados con la sobredosis con otros agentes depresores del SNC.
+
+Tratamiento recomendado
+Deben emplearse medidas sintomáticas y asistenciales generales junto con un lavaje gástrico inmediato cuando resulte apropiado. Se deben administrar  líquidos  intravenosos  según  sea  necesario.  El  flumazenil puede resultar útil. Como en todos los casos de sobredosificación con un fármaco, se deberá monitorear la respiración, el pulso, la presión sanguínea y otros signos apropiados; además de emplearse medidas generales de asistencia. Se debe monitorear la hipotensión y la depresión del SNC y tratarse con una intervención médica apropiada. No se ha determinado el valor de la diálisis en el tratamiento de la sobredosificación.
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar a temperatura inferior a 25°C.
+
+PRESENTACIONES
+
+NOVO INSOMNIUM® 2 y NOVO INSOMNIUM® 3: se presenta en envases conteniendo 30 comprimidos recubiertos.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción y vigilancia médica y no puede repetirse sin nueva receta médica”.
+
+Información para el paciente
+
+Cada comprimido recubierto de NOVO INSOMNIUM® 2 contiene:
+Eszopiclona ................................................................................. 2 m g
+Excipientes:  Dióxido  de  silicio  coloidal,  Cellactosa,  Celulosa  microcristalina,  Croscaramelosa  sódica,  Estearato  de  magnesio,  Opadry
+YS-1 7003 blanco, Opaglos AG-7350, Almidón pregelatinizado .... c.s.
+
+Cada comprimido recubierto de NOVO INSOMNIUM® 3 contiene:
+Eszopiclona ................................................................................. 3 m g
+Excipientes:  Dióxido  de  silicio  coloidal,  Cellactosa,  Celulosa  microcristalina,  Croscaramelosa  sódica,  Estearato  de  magnesio,  Opadry
+YS-1 7003 blanco, Opaglos AG-7350, Almidón pregelatinizado, FD&C azul No 2 laca alumínica .................................................................. c.s.
+
+La siguiente información tiene el propósito de guiarlo con respecto al uso seguro de este medicamento. Esta información no reemplaza las indicaciones de su médico. Si usted posee alguna pregunta sobre
+NOVO INSOMNIUM®, consulte con su médico.
+
+¿Qué es NOVO INSOMNIUM®?
+NOVO  INSOMNIUM®  contiene  eszopiclona  y  es  un  medicamento hipnótico-sedativo que se utiliza en adultos para el tratamiento del insomnio (problemas con el sueño).
+
+Antes de usar NOVO INSOMNIUM®
+Antes  de  comenzar  a  tomar  NOVO  INSOMNIUM®,  coméntele  a  su
+
+médico sobre sus antecedentes de salud, incluyendo si:
+•  Tiene antecedentes de depresión, enfermedades mentales o pensamientos suicidas.
+
+•  Tiene antecedentes de adicción o abuso de drogas o alcohol.
+•  Tiene una enfermedad del hígado.
+•  Está embarazada o cree que podría estar embarazada o tiene intención de quedar embarazada.
+
+•  Está amamantando a su bebé (dando el pecho a su bebé).
+Informe a su médico sobre todos los medicamentos que toma, incluidos aquellos que se compran sin receta, vitaminas y suplementos dietarios.
+Los medicamentos pueden tener interacciones entre sí, que pueden causar efectos adversos serios. No tome NOVO INSOMNIUM® con otros medicamentos que le puedan dar sueño.
+
+Quiénes no deben tomar NOVO INSOMNIUM®
+No tome NOVO INSOMNIUM®:
+•  Si es alérgico a eszopiclona o a cualquiera de los demás componentes de este medicamento.
+•  Si tiene menos de 18 años.
+•  Si tomó alcohol durante la noche o antes de acostarse.
+•  Si está tomando otros medicamentos que le hagan sentir sueño.
+Hable con su médico sobre todos los medicamentos que toma, él le indicará si puede tomar NOVO INSOMNIUM® junto con ellos.
+•  Si no podrá tener una noche completa de sueño (7-8 horas), antes
+
+de que usted deba estar activo nuevamente.
+
+Uso apropiado del medicamento
+•  Tome  NOVO  INSOMNIUM®  exactamente  como  se  lo  indique  su
+
+médico. No tome más dosis que la que le indicó.
+
+•  Tome  NOVO  INSOMNIUM®  inmediatamente  antes  de  acostarse,
+
+no antes.
+
+•  No  tome  NOVO  INSOMNIUM®  con,  o  inmediatamente  después
+
+de una comida.
+
+•  No tome NOVO INSOMNIUM® si no podrá tener una noche completa de sueño (7-8 horas), antes de que usted deba estar activo nuevamente.
+
+•  Comuníquese con su médico si el insomnio empeora o no mejora dentro de los 7 a 10 días de iniciado el tratamiento. Esto puede indicar que exista otra causa de sus problemas para dormir.
+
+•  Si  usted  toma  demasiado  NOVO  INSOMNIUM®  o  sobrepasa  la dosis, llame a su médico o contacte a los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+Efectos indeseables
+Al igual que todos los medicamentos, NOVO INSOMNIUM® puede producir efectos indeseables o adversos, aunque no todas las personas los sufran. Los efectos adversos serios de NOVO INSOMNIUM® incluyen:
+•  Levantarse de la cama cuando no se está completamente despierto y realizar actividades sin saber que las está realizando.
+
+•  Pensamientos y conductas anormales, como ser comportamiento agresivo, confusión, agitación, alucinaciones, empeoramiento de la depresión y pensamientos o acciones suicidas.
+
+•  Pérdida de la memoria.
+•  Ansiedad.
+•  Reacciones  alérgicas  severas.  Los  síntomas  incluyen  edema  de lengua  o  garganta  (hinchazón  de  lengua  o  garganta),  problemas  para  respirar,  náuseas  y  vómitos.  Solicite  asistencia  médica  de  emergencia  si  presenta  estos  síntomas  luego  de  tomar
+NOVO INSOMNIUM®.
+
+Llame a su médico inmediatamente, si presenta alguno de los efectos adversos anteriormente mencionados, o cualquier otro efecto adverso que le preocupe mientras está tomando NOVO INSOMNIUM®.
+
+•  Somnolencia.
+•  Mareos.
+•  Dolor de cabeza.
+•  Síntomas de un resfriado común.
+•  El día siguiente a tomar NOVO INSOMNIUM® aún puede sentirse somnoliento, no maneje y no realice actividades peligrosas hasta que se sienta completamente despierto.
+
+Estos no son todos los efectos indeseables que pueden ocurrir con NOVO INSOMNIUM®, consulte a su médico para tener más información.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”.
+
+Precauciones  a  tomar  durante  el  tiempo  que  se  utiliza
+NOVO INSOMNIUM®
+NOVO INSOMNIUM® puede provocar efectos indeseables serios sin que se dé cuenta que le están sucediendo. Estos incluyen:
+•  Somnolencia a lo largo del día.
+•  Pensamientos poco claros.
+•  Actuar extrañamente, confundido o preocupado.
+•  Levantarse de la cama sin estar completamente despierto y realizar actividades sin saber que las está realizando. Éstas pueden ser:
+ — Comer.
+ — Hablar.
+ — Tener relaciones sexuales.
+ — Manejar (“manejar dormido”).
+
+Llame a su médico inmediatamente si descubre que realizó alguna de estas actividades luego de tomar NOVO INSOMNIUM®.
+“Ante  cualquier  inconveniente  con  el  producto  el  paciente  puede llenar la ficha que está en la página web de la ANMAT: https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes  o  llamar a ANMAT responde 0800-333-1234”.
+
+Modo de conservación
+•  Mantener este medicamento fuera de la vista y el alcance de los
+
+niños.
+
+•  Mantener este medicamento en lugar seco, a temperatura inferior
+
+a 25oC.
+
+Los efectos indeseables más frecuentes de NOVO INSOMNIUM® son:
+•  Sabor desagradable en la boca.
+•  Boca seca.
+
+•  No utilice este medicamento después de la fecha de vencimiento que aparece en el envase. La fecha de vencimiento es el último día del mes que se indica.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 53.434. Fecha última revisión: 11/2014.
+
+G00082303-05

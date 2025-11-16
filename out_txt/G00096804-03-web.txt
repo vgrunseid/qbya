@@ -1,0 +1,521 @@
+HIPOGLUT®
+GLIMEPIRIDA 2 y 4 mg
+
+Comprimidos
+Venta bajo receta. Industria Argentina
+
+COMPOSICIÓN
+
+Cada comprimido de HIPOGLUT® 2 contiene:
+Glimepirida ..................................................................................... 2 mg Excipientes: FD & C Azul No 2 laca alumínica, Óxido de hierro amarillo
+No  10,  Lactosa  monohidrato,  Croscaramelosa  sódica,  Povidona  K  25, Celulosa microcristalina PH 102, Estearato de magnesio ................ c.s.
+
+Cada comprimido de HIPOGLUT® 4 contiene:
+Glimepirida ..................................................................................... 4 mg Excipientes:  FD  &  C  Azul  No  2  laca  alumínica,  Lactosa  monohidrato,
+Croscaramelosa  sódica,  Povidona  K  25,  Celulosa  microcristalina  PH 102, Estearato de magnesio .............................................................. c.s.
+
+ACCIÓN TERAPEÚTICA
+
+Hipoglucemiante oral.
+
+Código ATC: A10BB12
+
+INDICACIONES
+
+Tratamiento de la diabetes mellitus no insulino dependiente (Tipo II)
+que no puede ser controlada con la dieta y el ejercicio. Tratamiento adyuvante en asociación a insulina de la hiperglucemia no controlable con un agente hipoglucemiante oral, dieta y ejercicio.
+
+ACCIÓN FARMACOLÓGICA
+
+La  glimepirida  disminuye  la  glucemia  estimulando  la  liberación  de insulina por las células ß del páncreas funcionante e incrementando, por acción extrapancreática, la sensibilidad de los tejidos periféricos a esta hormona.
+
+La glimepirida incrementa muy rápidamente el número de moléculas transportadoras de glucosa activas en las membranas plasmáticas de células  musculares  y  adiposas,  produciendo  un  estímulo  de  la  recaptación de glucosa. La glimepirida incrementa la actividad de la fosfolipasa C específica para glucosil-fosfatidilinositol, la cual puede estar en correlación con la lipogénesis y la glucogénesis inducidas por fármacos en adipocitos y células musculares aisladas. La glimepirida inhibe la producción de glucosa en el hígado incrementando la concentración intracelular de fructosa-2,6 bifosfato, que a su vez inhibe la gluconeogénesis.
+
+Generalidades
+En personas sanas, la mínima dosis oral eficaz es aproximadamente 0,6 mg. El efecto de la glimepirida es dosis-dependiente y reproducible. La reducción en la secreción de insulina como respuesta fisiológica al ejercicio físico intenso, se mantiene durante el tratamiento con glimepirida. Independientemente de que el medicamento se administre
+30 minutos o inmediatamente antes de una comida, no hay diferencias significativas  en  el  efecto  producido.  En  pacientes  diabéticos  puede conseguirse  un  buen  control  durante  24  horas  con  una  dosis  única diaria.  Aunque  el  metabolito  hidroxilo  de  la  glimepirida  produce  un descenso pequeño pero significativo en la glucemia en personas sanas, sólo representa una pequeña parte del efecto total del fármaco.
+
+Tratamiento combinado con metformina
+En un estudio con pacientes no adecuadamente controlados con la dosis máxima de metformina, se ha demostrado un mejor control metabólico con la terapia concomitante de glimepirida frente al tratamiento con metformina sólo.
+
+Tratamiento combinado con insulina
+Los datos para el tratamiento combinado con insulina son limitados.
+En  pacientes  no  adecuadamente  controlados  con  dosis  máximas  de glimepirida puede iniciarse un tratamiento concomitante con insulina.
+En dos estudios, la combinación alcanzó la misma mejora en el control metabólico que la insulina sola; sin embargo, en el tratamiento combinado fue requerida una dosis media de insulina más baja.
+
+FARMACODINAMIA
+
+FARMACOCINÉTICA
+
+La glimepirida es una sustancia con actividad hipoglucemiante por vía oral, que pertenece al grupo de las sulfonilureas. Puede utilizarse en la diabetes mellitus no insulino dependiente. La glimepirida actúa principalmente estimulando la liberación de insulina por las células beta pancreáticas. Este efecto se basa, al igual que en otras sulfonilureas, en el incremento de la respuesta de las células beta pancreáticas al estímulo fisiológico de la glucosa. Además, la glimepirida parece poseer también pronunciados efectos extrapancreáticos, postulados también para otras sulfonilureas.
+
+Liberación de insulina
+Las sulfonilureas regulan la secreción de insulina cerrando los canales de potasio sensibles a ATP en la membrana de la célula beta. El cierre de los canales de potasio induce la despolarización de la célula beta y origina un incremento en la entrada de calcio en la célula, por apertura de los canales de calcio. Esto trae como consecuencia la liberación de insulina por exocitosis. La glimepirida se une, con una alta tasa de intercambio, a una proteína de la membrana de la célula beta, que está asociada al canal de potasio sensible a ATP, pero que es distinta del lugar de unión habitual de la sulfonilurea.
+
+Actividad extrapancreática
+Los efectos extrapancreáticos son, por ejemplo, el aumento de la sensibilidad del tejido periférico frente a insulina y el descenso de la recaptación hepática de insulina. La recaptación de glucosa sanguínea hacia el músculo y tejidos adiposos a nivel periférico sucede a través de proteínas especiales de transporte, situadas en la membrana celular. El transporte de glucosa en estos tejidos constituye el paso limitante de su utilización.
+
+Posterior a la administración oral, la glimepirida se absorbe en el orden del 100% por el tracto gastrointestinal.
+En voluntarios sanos, la administración concomitante de la droga con alimentos reflujo levemente (8 y 9%, respectivamente) la concentración máxima (Cmáx.) y el área bajo la curva mientras que el tiempo promedio para alcanzar la Cmáx. se incrementó levemente (12%).
+El volumen de distribución de la glimepirida luego de la administración intravenosa en voluntarios sanos fue de 8,8 litros, y la depuración corporal total fue de 47,8 litros, por minuto.
+La afinidad de la droga por las proteínas plasmáticas es muy elevada
+(> 99,5%).
+La glimepirida es metabolizada completamente por biotransformación oxidativa  a  nivel  hepático,  en  su  principal  metabolito,  el  compuesto cicloexil  hidroximetilo  (M1)  mediante  el  subsistema  del  citocromo  P
+450  II  C9.  El  M1  es  a  su  vez  metabolizado  al  compuesto  carboxilado (M2) por una o varias enzimas citosólicas. El M1, a diferencia del M2, ha demostrado en modelos animales poseer aproximadamente 1/3 de la actividad farmacológica del compuesto de origen.
+La vida media de la droga fue de aproximadamente 5,3 horas cuando se administró en una dosis única por vía oral en voluntarios sanos y de aproximadamente 5 y 9,2 horas luego de administración a dosis únicas y múltiples respectivamente , en pacientes diabéticos no insulino-dependientes.
+Los tiempos para alcanzar la concentración pico y el efecto pico oscilaron entre 2 y 3 horas. Luego de la administración oral aproximadamente el 60% de la droga es eliminada por riñón, principalmente en forma de M1 y M2 (80- 90%) dentro de los 7 días, mientras que el 40% restante es eliminado por materia fecal en forma de metabolitos.
+
+No se ha observado excreción biliar de la glimepirida o de sus metabolitos posterior a su administración intravenosa.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Adultos
+
+Monoterapia
+Dosis Inicial
+1 a 2 mg por vía oral una vez al día con el desayuno o el almuerzo.
+Dosis de mantenimiento
+1 a 4 mg por vía oral una vez al día. En caso de requerirse dosis mayores a 2 mg, los incrementos no deberán superar los 2 mg por cada una o dos semanas; para ello debe basarse en la respuesta según los valores de la glucemia.
+En los ancianos y en pacientes con insuficiencia renal, iniciar el tratamiento con 1 mg por vía oral una vez al día.
+
+Tratamiento combinado con insulina
+Vía oral
+8 mg un a vez al día, con el desayuno o el almuerzo.
+La dosis máxima para adultos es de 8 mg una vez al día.
+Ante el olvido de una toma, o retraso en el horario de administración no aumentar la dosis diaria y consultar el médico tratante.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad a la droga o a alguno de los componentes del producto.
+Embarazo. Lactancia. Cetoacidosis diabética. Coma diabético, alteraciones graves de la función renal o hepática (en caso de trastornos graves de las funciones renal o hepática se requiere el cambio a insulina). Diabetes insulino dependiente.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+HIPOGLUT® debe ser tomado poco antes o durante una comida. Cuando  las  comidas  se  realicen  a  horas  irregulares  o  se  omitan,  el  tratamiento con HIPOGLUT® puede llevar a una hipoglucemia. Los posibles síntomas de hipoglucemia incluyen: dolor de cabeza, apetito intenso, náuseas,  vómitos,  lasitud,  somnolencia,  desórdenes  del  sueño,  cansancio, agresividad, falta de concentración, de alerta y de tiempo de reacción, depresión, confusión, desórdenes del habla y visuales, afasia, temblores,  paresias,  alteraciones  sensoriales,  vértigo,  indefensión, pérdida del autocontrol, delirios, convulsiones cerebrales, somnolencia y pérdida de conciencia que puede progresar a coma, respiración rápida y bradicardia. Además pueden presentarse signos de contrarregulación adrenérgica tales como sudoración, humedad cutánea, ansiedad, taquicardia, hipertensión, palpitaciones, angina de pecho y arritmias cardíacas. El cuadro clínico de un ataque hipoglucémico grave puede parecerse al de un ictus. Los síntomas casi siempre pueden ser rápidamente controlados con la ingesta inmediata de carbohidratos (azúcar).
+Los edulcorantes artificiales no tienen efecto. Se sabe por otras sulfonilureas, que la hipoglucemia puede ser recurrente a pesar de que las medidas para contrarrestarla sean satisfactorias inicialmente. En caso de hipoglucemia grave o prolongada, controlada sólo de forma transitoria con el uso de las cantidades habituales de azúcar, se requiere tratamiento médico inmediato y, ocasionalmente, hospitalización. Los factores que favorecen la hipoglucemia incluyen:
+•  poca disposición o (más común en pacientes ancianos) incapacidad
+
+del paciente para cooperar;
+
+•  desnutrición, comidas y horarios de comida irregulares u omisión de
+
+las mismas, o períodos de ayuno;
+
+•  alteraciones de la dieta;
+•  desequilibrio entre el ejercicio físico y la ingesta de carbohidratos;
+•  consumo  de  alcohol,  especialmente  en  combinación  con  omisión
+
+de comidas;
+
+•  función renal alterada;
+•  disfunción hepática grave;
+•  sobredosis de HIPOGLUT®;
+•  ciertas  descompensaciones  del  sistema  endocrino  que  afecten  al metabolismo de carbohidratos o a la contraregulación de la hipoglucemia (como por ejemplo, ciertos desórdenes de la función tiroidea, así como insuficiencias adrenocorticales o de la pituritaria anterior);
+
+•  administración simultánea de otros medicamentos.
+
+El tratamiento con HIPOGLUT® requiere determinación periódica de los niveles de glucosa en sangre y orina. Se recomienda la determinación de la proporción de hemoglobina glicosilada. Durante el tratamiento
+
+con HIPOGLUT® se requiere realizar periódicamente un control hematológico (especialmente leucocitos y trombocitos) y de la función hepática. En situaciones de estrés (p.ej. accidentes, cirugías, infecciones con fiebre, etc.) puede estar indicado el cambio temporal a insulina. No se tiene experiencia sobre el uso de HIPOGLUT® en pacientes con trastornos hepáticos graves o en diálisis. En pacientes con trastornos hepáticos o renales graves está indicado el cambio a insulina. El tratamiento con agentes del tipo sulfonilureas en pacientes con deficiencia de G6PD puede producir anemia hemolítica. Como glimepirida pertenece a la familia de las sulfonilureas, debe tenerse precaución en pacientes con deficiencia de la G6PD y debe considerarse una alternativa terapéutica no basada en sulfonilureas.
+
+INTERACCIONES CON OTROS MEDICAMENTOS
+
+La  toma  simultánea  de  glimepirida  junto  con  otros  medicamentos puede originar incrementos y descensos no deseados de la actividad hipoglucemiante de la glimepirida. Por esta razón, únicamente deben tomarse otros medicamentos con el conocimiento (o bajo prescripción)
+del médico. La glimepirida se metaboliza por el citocromo P450 2C9 (CYP2C9).  Su  metabolismo  está  influenciado  por  la  administración concomitante  de  inductores  del  CYP2C9  (p.ej.  rifampicina)  o  inhibidores (p.ej. fluconazol). Los resultados descritos en la literatura de un estudio de interacción in vivo mostraron que el AUC se incrementaba aproximadamente 2 veces por el fluconazol, uno de los más potentes inhibidores del CYP2C9.
+Las siguientes interacciones han sido descritas en base a la experiencia con glimepirida y otras sulfonilureas. Puede aparecer potenciación de la acción hipoglucemiante y por tanto, en ciertos casos, hipoglucemia, con la administración de alguno de los siguientes medicamentos:
+•  fenilbutazona, azapropazona y oxifenbutazona;
+•  productos antidiabéticos orales e insulina, como metformina;
+•  salicilatos y ácido p-amino-salicílico;
+•  esteroides anabolizantes y hormonas sexuales masculinas;
+•  cloranfenicol,  determinadas  sulfonamidas  de  acción  prolongada,
+
+tetraciclinas, antibióticos quinolónicos y claritromicina;
+
+•  anticoagulantes cumarínicos;
+•  fenfluramina;
+•  disopiramida;
+•  fibratos;
+•  inhibidores del ECA;
+•  fluoxetina, inhibidores de la MAO;
+•  alopurinol, probenecid, sulfinpirazona;
+•  simpaticolíticos;
+•  ciclofosfamida, trofosfamida e ifosfamidas;
+•  miconazol, fluconazol;
+•  pentoxifilina (parenteral a dosis elevadas);
+•  tritoqualina.
+
+Puede aparecer reducción del efecto hipoglucemiante y por tanto, una elevación de la glucosa en sangre, cuando se administra alguno de los siguientes medicamentos:
+•  estrógenos y progestágenos;
+•  saluréticos, diuréticos tiazídicos;
+•  agentes estimulantes del tiroides (tiromiméticos), glucocorticoides;
+•  derivados de la fenotiazina, clorpromazina;
+•  adrenalina y simpaticomiméticos;
+•  ácido nicotínico (dosis altas) y sus derivados;
+•  laxantes (uso prolongado);
+•  fenitoína, diazóxido;
+•  glucagón, barbitúricos y rifampicina;
+•  acetazolamida.
+
+Los antagonistas H2, betabloqueantes, clonidina y reserpina pueden llevar a una potenciación o disminución del efecto reductor de la glucosa en sangre. Bajo la influencia de fármacos simpaticolíticos, como p.e. betabloqueantes, clonidina, guanetidina y reserpina, los signos de contrarregulación adrenérgica de la hipoglucemia pueden reducirse o desaparecer. La ingesta de alcohol puede potenciar o reducir la acción hipoglucemiante de la glimepirida de manera impredecible.
+La glimepirida puede potenciar o reducir los efectos de los derivados de la cumarina.
+
+CARCINOGÉNESIS Y TUMOROGÉNESIS
+
+En estudios experimentales, sobre ratas que recibieron glimepirida a dosis de aproximadamente 340 veces la dosis máxima recomendada para humanos, en base a la superficie corporal, no demostraron potencial carcinogénico.
+
+No  obstante,  en  ratones  se  observó  un  aumento  en  la  incidencia  de adenomas  pancreáticos  benignos  dosis  dependientes  con  dosis  de hasta  35  veces  la  máxima  recomendada  para  humanos  en  base  a  la superficie corporal.
+La aparición de estos adenomas fue atribuida a la estimulación pancreática crónica.
+
+MUTAGÉNESIS
+
+En estudios tanto in vitro como in vivo no se observaron evidencias de mutagénesis.
+
+EMBARAZO Y REPRODUCCIÓN
+
+En los estudios experimentales de reproducción no se observaron alteraciones en la fertilidad con la administración de la droga.
+No  se  han  realizado  estudios  durante  el  embarazo  en  humanos,  no obstante, como sucede con otras sulfonilureas, la glimepirida podría producir hipoglucemia en el feto y en el recién nacido de madres que reciben la droga. La duración de la hipoglucemia severa presente en los neonatos de madres tratadas con sulfonilrureas de vida media prolongada fue de 4 a 10 días.
+
+LACTANCIA
+
+Se  desconoce  si  la  glimepirida  se  distribuye  en  la  leche  materna  en humanos como sucede con otras sulfonilureas.
+En  los  estudios  de  reproducción  en  animales  esta  droga  aparece  en la leche materna, evidenciándose ocasionalmente en aquellas crías a dosis elevadas de la droga, alteraciones esqueléticas.
+Debido a los riesgos potenciales de hipoglucemia en el lactante, no se recomienda su utilización durante el amamantamiento.
+
+EMPLEO EN PEDIATRÍA
+
+Se realizó un ensayo clínico activo controlado de 24 semanas de duración (hasta 8 mg diarios de glimepirida o hasta 2 mg diarios de metformina) en 285 niños con diabetes tipo 2 (edades comprendidas entre los 8 y 17 años). Tanto glimepirida como metformina demostraron una reducción significativa en la HbA1c basal. No obstante, glimepirida no consiguió el criterio de no-inferioridad a metformina en el cambio de la media de la HbA1c basal. La diferencia entre tratamientos fue 0,44% a favor de metformina. El nivel superior (1,05) del intervalo de confianza del  95%  de  la  diferencia  no  estaba  por  debajo  del  0,3%  del  margen de no-inferioridad. Tras el tratamiento con glimepirida, no hubo problemas  de  seguridad  descritos  en  niños  comparado  con  adultos  con diabetes mellitus tipo 2.
+Un estudio alimentado que investiga la farmacocinética, la seguridad, y tolerabilidad de la dosis única 1 mg de glimepirida en 30 pacientes pediátricos (4 niños de 10-12 años y 26 niños de 12-17 años) con diabetes tipo 2 mostró un AUC (0-last), una Cmáx. y un t1/2 similar a los antes observados en adultos.
+No hay datos de eficacia y seguridad a largo plazo en pacientes pediátricos.
+
+EMPLEO EN GERIATRÍA
+
+Los pacientes ancianos al ser más proclives a disfunción renal relacionada  con  la  edad  pueden  presentar  una  mayor  susceptibilidad  a  los efectos hipoglucemiantes de la glimepirida.
+Por otra parte, la hipoglucemia, es más difícil de detectar en este grupo etario.
+
+REACCIONES ADVERSAS
+
+Se  han  descrito  las  siguientes  reacciones  adversas  basados  en  la  experiencia de ensayos clínicos con Glimepirida y otras sulfonilureas. A continuación se enumeran según el sistema de clasificación de órganos y en orden decreciente de incidencia (muy frecuentes: 1/10; frecuentes:
+1/100 a <1/10; poco frecuentes: 1/1.000 a <1/100; raras: 1/10.000 a <1/1.000; muy raras: <1/10.000), frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Trastornos de la sangre y del sistema linfático Raros:  trombocitopenia,  leucopenia,  granulocitopenia,  agranulocitosis, eritropenia, anemia hemolítica y pancitopenia, que generalmente
+
+son reversibles al interrumpir el tratamiento. Frecuencia no conocida:
+Trombocitopenia grave con recuento plaquetario menor de 10.000/μl y púrpura trombocitopénica.
+
+Trastornos del sistema inmunológico
+Muy raros: vasculitis leucocitoclástica, reacciones leves de hipersensibilidad que pueden progresar a reacciones graves con disnea, caídas en la presión sanguínea y en ocasiones shock. Frecuencia no conocida: es posible la aparición de alergias cruzadas con sulfonilureas, sulfonamidas o sustancias relacionadas.
+
+Trastornos del metabolismo y de la nutrición Raros: hipoglucemia. Estas reacciones hipoglucémicas se producen en su mayor parte de forma inmediata, pudiendo ser graves y no siempre fáciles de corregir. La aparición de dichas reacciones depende, al igual que  con  cualquier  terapia  hipoglucemiante,  de  factores  individuales tales como los hábitos dietéticos y la dosis.
+
+Trastornos oculares
+Frecuencia  no  conocida:  pueden  ocurrir  alteraciones  visuales  transitorias,  especialmente  al  inicio  del  tratamiento,  debido  a  cambios  en la glucemia.
+
+Trastornos gastrointestinales
+Muy raros: náuseas, vómitos, diarrea, distensión abdominal, malestar abdominal y dolor abdominal, que en muy pocos casos llevan a la interrupción del tratamiento.
+
+Trastornos hepatobiliares
+Frecuencia no conocida: incremento en los niveles de las enzimas hepáticas. Muy raros: alteración de la función hepática (p.ej. con colestasis e ictericia), hepatitis e insuficiencia hepática.
+
+Trastornos de piel y tejido subcutáneo
+Frecuencia no conocida: pueden ocurrir reacciones de hipersensibilidad cutánea como prurito, rash, urticaria y fotosensibilidad.
+
+Exploraciones complementarias
+Muy Raros: disminución de los niveles sanguíneos de sodio.
+
+Notificación de sospecha de reacciones adversas
+Es  importante  notificar  la  sospecha  de  reacciones  adversas  al  medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas  a  través  del  Sistema  Nacional  de  Farmacovigilancia  al  siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/ notificanos/eventosadversos  y/o  al  Departamento  de  Farmacovigilancia  de  Gador  S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACIÓN
+
+La sobredosificación con glimepirida puede ocasionar hipoglucemia de intensidad variable según la dosis recibida.
+El tratamiento sintomático se adecuará a la severidad del cuadro.
+En la hipoglucemia leve, sin evidencias neurológicas o pérdida de la conciencia, los pacientes deberán recibir inmediatamente glucosa por vía oral, realizándose los ajustes posológicos de la medicación y de la dieta más conveniente.
+Ante la presencia de hipoglucemia, severa, con trastornos neurológicos, convulsiones o coma, deberá inyectarse por vía intravenosa solución glucosada al 50% seguida de una infusión continua de glucosa al 10%, hasta mantener una glucemia de 100 mg/ dL.
+El paciente deberá ser controlado por lo menos 24 a 48 horas.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas No  se  han  realizado  estudios  sobre  los  efectos  en  la  capacidad  para conducir  y  utilizar  máquinas.  La  capacidad  de  concentración  y  de  reacción del paciente puede verse afectada como consecuencia de una hipoglucemia o una hiperglucemia o, por ejemplo, como consecuencia de un trastorno visual. Esto puede ser causa de riesgo en situaciones en las que estas capacidades sean de especial importancia (p.ej. conducir un automóvil o manejar maquinaria). Debe advertirse a los pacientes que  adopten  precauciones  para  evitar  una  hipoglucemia  mientras conducen.  Esto  es  especialmente  importante  en  aquellos  pacientes con ausencia o reducción de la capacidad para percibir los síntomas de aviso de hipoglucemia, o que padecen episodios frecuentes de hipoglucemia. Deberá considerarse la conveniencia de conducir o manejar maquinaria en estas circunstancias.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar a temperatura menor de 25o C.
+
+PRESENTACIONES
+
+HIPOGLUT® 2 y 4: se presenta en envases conteniendo 30 comprimidos.
+
+Información para el paciente
+
+Composición
+Cada comprimido de HIPOGLUT® 2 contiene:
+Glimepirida ................................................................................. 2 mg Excipientes: FD & C Azul No 2 laca alumínica, Óxido de hierro amarillo
+No 10, Lactosa monohidrato, Croscaramelosa sódica, Povidona K 25, Celulosa microcristalina PH 102, Estearato de magnesio .............. c.s.
+
+Cada comprimido de HIPOGLUT® 4 contiene:
+Glimepirida ................................................................................. 4 mg Excipientes: FD & C Azul No 2 laca alumínica, Lactosa monohidrato,
+Croscaramelosa sódica, Povidona K 25, Celulosa microcristalina PH 102, Estearato de magnesio ........................................................... c.s.
+
+Su médico le ha prescripto HIPOGLUT®. Antes de empezar a tomar este medicamento, lea la siguiente información detenidamente. La misma tiene el propósito de guiarlo con respecto al uso seguro de este medicamento. Esta información no reemplaza las indicaciones de su médico. Si usted posee alguna duda sobre HIPOGLUT® consulte a su médico. Este medicamento se le ha prescripto solo a Usted, y no deberá compartirlo con otras personas, ya que puede ser perjudicial.
+Si presenta efectos adversos consulte a su médico, incluso si se trata de efectos adversos no incluidos en esta información.
+
+¿Qué es HIPOGLUT® y para qué se utiliza?
+HIPOGLUT® es un medicamento que disminuye los niveles de azúcar en sangre, activo vía oral. Este medicamento pertenece a un grupo de medicamentos que disminuyen los niveles de azúcar en sangre llamados sulfonilureas. HIPOGLUT® produce un aumento de la cantidad de insulina liberada por su páncreas. La insulina disminuye los niveles de azúcar en su sangre.
+
+¿Para qué se utiliza HIPOGLUT®?
+ HIPOGLUT® se utiliza para tratar un tipo de diabetes (diabetes mellitus tipo 2) cuando la dieta, el ejercicio físico y la reducción de peso no han sido capaces de controlar sus niveles de azúcar en sangre.
+
+¿Qué necesita saber antes de empezar a tomar HIPOGLUT®?
+No tome HIPOGLUT® y hable con su médico si:
+•  Es  alérgico  a  glimepirida  u  otras  sulfonilureas  (medicamentos utilizados  para  disminuir  sus  niveles  de  azúcar  en  sangre  como glibenclamida)  o  sulfonamidas  (medicamentos  para  infecciones bacterianas  como  sulfametoxazol)  o  a  cualquiera  de  los  demás componentes de este medicamento.
+
+•  Padece diabetes insulino-dependiente (diabetes mellitus tipo 1).
+•  Tiene cetoacidosis diabética (complicación de la diabetes cuando sus niveles de ácido se elevan en su cuerpo y puede que tenga alguno de los siguientes síntomas: fatiga, mareo (náuseas), deseos de orinar frecuentemente y rigidez muscular).
+
+•  Sufre un coma diabético.
+•  Tiene una enfermedad grave de los riñones.
+•  Tiene una enfermedad grave del hígado.
+
+No tome este medicamento si cualquiera de las circunstancias mencionadas anteriormente le afectan. Si no está seguro, consulte con su médico o farmacéutico antes de tomar HIPOGLUT®.
+
+Advertencias y precauciones
+Consulte a su médico o farmacéutico antes de empezar a tomar su medicamento si:
+•  Se está recuperando de alguna enfermedad, operación, infección con fiebre, o de otras formas de estrés. Informe a su médico ya que puede que sea necesario hacer algún cambio en su tratamiento.
+
+•  Sufre alguna alteración grave en el hígado o en los riñones.
+
+Si no está seguro si algo de lo mencionado anteriormente le afecta, consulte a su médico o farmacéutico antes de tomar HIPOGLUT®.
+Puede ocurrir que bajen los niveles de hemoglobina y se produzca una ruptura de glóbulos rojos (anemia hemolítica) en pacientes que tienen falta de una enzima llamada glucosa-6-fosfatodeshidrogenasa. La información disponible acerca del uso de HIPOGLUT® en personas menores de 18 años es limitada. Por tanto, no se recomienda su uso en estos pacientes.
+
+Información importante sobre la hipoglucemia (nivel bajo de azúcar en sangre)
+Si usted está tomando HIPOGLUT®, puede tener hipoglucemias (bajo nivel de azúcar en sangre). Mire por favor a continuación para más información acerca de la hipoglucemia, sus signos y tratamiento.
+
+Los  siguientes  factores  pueden  aumentar  los  riesgos  de  que usted sufra hipoglucemia:
+•  Desnutrición, horario irregular de las comidas, eliminación o retraso de las comidas o periodos de ayuno.
+
+•  Cambios en su dieta.
+•  Si toma más HIPOGLUT® del que necesita.
+•  Si tiene la función renal disminuida.
+•  Si tiene enfermedad grave de hígado.
+•  Si sufre alguna otra enfermedad de tipo hormonal (como problemas  de  las  glándulas  tiroideas,  de  la  glándula  pituitaria  o  de  la corteza adrenal).
+
+•  Si toma alcohol (especialmente si se salta una comida).
+•  Si toma ciertos medicamentos.
+•  Si aumenta su ejercicio físico y no come suficiente o toma alimentos con menos carbohidratos de lo normal.
+
+Los signos de hipoglucemia incluyen:
+Sensación  de  estómago  vacío,  dolor  de  cabeza,  náuseas,  vómitos, aletargamiento, sueño, alteraciones del sueño, inquietud, agresividad, dificultad de concentración, reducción de la alerta y tiempo de reacción, depresión, confusión, alteraciones del habla y de la vista, temblores, hablar arrastrando palabras, parálisis parciales, alteraciones sensoriales, mareo, sensación de desamparo.
+Los siguientes síntomas también pueden tener lugar: sudoración, piel húmeda,  ansiedad,  ritmo  del  corazón  acelerado,  tensión  arterial  alta, palpitaciones, dolor repentino en el pecho que puede irradiarse a zonas vecinas (angina de pecho y arritmias cardíacas). Si sus niveles de azúcar continúan bajando puede sufrir confusión considerable (delirio), padecer convulsiones, perder el autocontrol, su respiración puede ser superficial y su ritmo cardíaco más lento, y puede quedar inconsciente. El cuadro clínico de una bajada grave de azúcar se parece a un derrame cerebral.
+
+Tratamiento de la hipoglucemia
+En  la  mayoría  de  los  casos  los  síntomas  de  azúcar  bajo  en  sangre desaparecen muy rápido cuando toma algo de azúcar, como terrones de azúcar, jugos dulces, té azucarado. Por tanto, debe llevar siempre encima algo de azúcar (por ejemplo terrones de azúcar, caramelos).
+Recuerde que los edulcorantes artificiales no son eficaces. Por favor consulte con su médico o acuda al hospital si al tomar azúcar no se recupera o si los síntomas vuelven a ocurrir.
+
+Análisis de sangre
+Sus niveles de azúcar en sangre y en orina deben ser controlados regularmente. Su médico puede que le pida análisis de sangre para controlar el número de células sanguíneas y ver cómo funciona su hígado.
+
+Niños y adolescentes
+No se recomienda el uso de HIPOGLUT® en niños menores de 18 años.
+
+Toma de HIPOGLUT® con otros medicamentos Comunique a su médico o farmacéutico si está tomando, ha tomado recientemente o podría tener que tomar cualquier otro medicamento. Su médico puede desear cambiar su dosis de HIPOGLUT® si está tomando otros medicamentos, los cuales pueden aumentar o disminuir el efecto de HIPOGLUT® sobre el nivel de azúcar en sangre. Los siguientes medicamentos pueden aumentar el efecto hipoglucemiante de HIPOGLUT®. Esto puede dar lugar a un riesgo de hipoglucemia
+(bajo nivel de azúcar en sangre):
+•  Otros medicamentos para tratar la diabetes mellitus (como insulina o metformina).
+
+•  Medicamentos  para  tratar  el  dolor  e  inflamación  (fenilbutazona,
+
+azapropazona, oxifenbutazona; y derivados de la aspirina).
+
+•  Medicamentos  para  tratar  infecciones  urinarias  (como  algunas
+
+sulfonamidas de acción prolongada).
+
+HIPOGLUT® puede también aumentar o disminuir los efectos de los siguientes medicamentos:
+•  Medicamentos que inhiben la coagulación (derivados cumarínicos
+
+como la warfarina).
+
+Toma de HIPOGLUT® con alimentos, bebidas y alcohol La ingesta de alcohol puede aumentar o disminuir la acción hipoglucemiante de HIPOGLUT® de una forma no predecible.
+
+Embarazo, lactancia y fertilidad
+Embarazo
+HIPOGLUT®  no  debe  tomarse  durante  el  embarazo.  Consulte  a  su médico si está usted embarazada, cree que pudiera estarlo o si está pensando en quedarse embarazada.
+
+•  Medicamentos para tratar las infecciones fúngicas y bacterianas (tetraciclinas,  cloramfenicol,  fluconazol,  miconazol,  quinolonas, claritromicina).
+
+•  Medicamentos para diluir la sangre (derivados cumarínicos como
+
+Lactancia
+HIPOGLUT®  puede  pasar  a  la  leche  materna.  HIPOGLUT®  no  debe utilizarse durante el periodo de lactancia materna. Consulte con su médico o farmacéutico antes de tomar cualquier medicamento.
+
+la warfarina).
+
+•  Medicamentos para aumentar la masa muscular (anabolizantes).
+•  Medicamentos utilizados en terapia hormonal sustitutiva en hombres.
+•  Medicamentos  para  tratar  la  depresión  (fluoxetina,  inhibidores
+
+de la MAO).
+
+•  Medicamentos para disminuir los altos niveles de colesterol (fibratos).
+•  Medicamentos para disminuir los niveles altos de presión sanguínea (inhibidores de la ECA).
+
+•  Medicamentos llamados antiarrítmicos usados para el control del
+
+latido anormal del corazón (disopiramida).
+
+•  Medicamentos  para  tratar  la  gota  (alopurinol,  sulfinpirazona  y
+
+probenecid).
+
+•  Medicamentos para tratar el cáncer (ciclofosfamida, ifosfamida y
+
+trofosfamida).
+
+•  Medicamentos utilizados para perder peso (fenfluramina).
+•  Medicamentos para aumentar la circulación cuando se administra
+
+a altas dosis en infusión intravenosa (pentoxifilina).
+
+•  Medicamentos para tratar alergias nasales como la fiebre del heno
+
+(tritoqualina).
+
+•  Medicamentos llamados simpaticolíticos para tratar alta presión
+
+sanguínea, insuficiencia cardíaca o síntomas prostáticos.
+
+Los siguientes medicamentos pueden disminuir el efecto hipoglucemiante de HIPOGLUT®. Esto puede dar lugar a un riesgo de hiperglucemia (alto nivel de azúcar en sangre):
+•  Medicamentos que contienen hormonas sexuales femeninas (estrógenos, progestágenos).
+
+•  Medicamentos  para  aumentar  la  capacidad  de  orinar  (diuréticos
+
+tiazídicos).
+
+•  Medicamentos utilizados para estimular la glándula tiroidea (como
+
+levotiroxina).
+
+•  Medicamentos para tratar alergias e inflamación (glucocorticoides).
+•  Medicamentos para tratar alteraciones mentales graves (clorpromazina y otros derivados de la fenotiazina).
+
+•  Medicamentos  para  aumentar  el  ritmo  cardíaco,  para  tratar  el asma o congestión nasal, tos y resfriados, o utilizados para reducir peso, o utilizados en urgencias amenazantes para la vida (adrenalina y simpaticomiméticos).
+
+•  Medicamentos  para  tratar  los  altos  niveles  de  colesterol  (ácido
+
+nicotínico).
+
+•  Medicamentos para tratar el estreñimiento cuando se hace un uso
+
+prolongado (laxantes).
+
+•  Medicamentos para tratar convulsiones (fenitoína).
+•  Medicamentos  para  tratar  nerviosismo  y  problemas  del  sueño
+
+(barbitúricos).
+
+•  Medicamentos para aumentar la presión en el ojo (acetazolamida).
+•  Medicamentos  para  tratar  la  presión  sanguínea  elevada  o  bajos
+
+niveles de azúcar en sangre (diazóxido).
+
+•  Medicamentos para tratar infecciones, tuberculosis (rifampicina).
+•  Medicamentos para tratar niveles bajos de azúcar en sangre graves
+
+(glucagón).
+
+Los siguientes medicamentos pueden aumentar o disminuir el efecto hipoglucemiante de HIPOGLUT®:
+•  Medicamentos  para  tratar  úlceras  de  estómago  (llamados  antagonistas H2).
+
+•  Medicamentos  para  tratar  presión  cardíaca  elevada  o  insuficiencia cardíaca como beta-bloqueantes, clonidina, guanetidina y reserpina.
+Estos pueden incluso ocultar los signos de hipoglucemia, por lo que se necesita un especial cuidado cuando se tomen estos medicamentos.
+
+Conducción y uso de máquinas
+Su habilidad para concentrarse o reaccionar puede verse perjudicada si  sus  niveles  de  azúcar  en  sangre  bajan  (hipoglucemia)  o  suben  (hiperglucemia) o si sufre problemas en la visión como resultado de esas condiciones. Tenga en cuenta que eso le pone a usted y a otros en peligro
+(por ejemplo cuando conduzca o maneje maquinaria). Por favor consulte con su médico si usted puede conducir si: tiene episodios frecuentes de hipoglucemia, tiene ausencia o pocas señales de aviso de hipoglucemia.
+
+¿Cómo tomar HIPOGLUT®?
+Siga  exactamente  las  instrucciones  de  administración  de  este  medicamento indicadas por su médico. En caso de duda, consulte a su médico o farmacéutico.
+
+Toma de este medicamento
+Tome  este  medicamento  por  vía  oral,  justo  antes  o  con  la  primera comida del día (normalmente el desayuno). Si no toma el desayuno, debe tomar el producto tal y como le ha dicho su médico. Es importante no saltarse ninguna comida cuando está tomando HIPOGLUT®.
+Trague el comprimido al menos con medio vaso de agua. No parta ni mastique los comprimidos.
+
+¿Cuánto tomar?
+La dosis de HIPOGLUT® depende de sus necesidades, estado y resultados de sus análisis de azúcar en sangre y orina y estará establecido por su médico. No tome más comprimidos de los que le ha dicho su médico.
+Si fuese necesario, su médico le indicará un aumento gradual de la dosis tras 1-2 semanas de tratamiento.
+Puede que inicie con un tratamiento combinado de glimepirida más metformina o glimepirida más insulina. En estos casos, su médico le indicará las dosis adecuadas de glimepirida, metformina e insulina de manera individualizada para usted.
+Si su peso cambia o si cambia su estilo de vida, o se encuentra bajo una  situación  de  estrés,  puede  que  necesita  cambiar  las  dosis  de HIPOGLUT®, por lo que debe informar a su médico.
+Si estima que la acción de HIPOGLUT® es demasiado fuerte o débil no  cambie  usted  mismo  la  dosis  y  comuníqueselo  a  su  médico  o farmacéutico.
+
+Si toma más HIPOGLUT® del que debe:
+Si ocurre que usted ha tomado demasiado HIPOGLUT®, o una dosis de  más,  existe  un  peligro  de  hipoglucemia,  y  por  tanto,  debe  consumir  inmediatamente  suficiente  azúcar  (por  ejemplo  terrones  de azúcar, jugos dulces, té azucarado), e informar a su médico inmediatamente. Cuando se trate una hipoglucemia debido a una ingestión accidental  en  niños,  la  cantidad  de  azúcar  a  administrar  debe  ser controlada  cuidadosamente  para  evitar  la  posibilidad  de  producir una  hiperglucemia  peligrosa.  Las  personas  en  estado  inconsciente no  deben  tomar  ni  alimentos  ni  bebidas.  Como  la  hipoglucemia puede durar durante un tiempo es muy importante que el paciente sea monitorizado cuidadosamente hasta que no haya más peligro.
+Puede que como medida de seguridad sea necesario el ingreso en el hospital. Muestre el envase o los comprimidos que le queden para que el médico pueda saber lo que usted ha tomado.
+Los casos graves de hipoglucemia acompañada de pérdida de conocimiento y fallo neurológico grave, son casos de emergencia médica que requieren tratamiento médico inmediato e ingreso hospitalario.
+Debería asegurarse que hay siempre una persona preinformada que pueda llamar a un médico en caso de urgencia.
+
+Si olvidó tomar HIPOGLUT®
+Si olvida una dosis no tome una dosis doble para compensar las dosis olvidadas.
+
+Si interrumpe el tratamiento con HIPOGLUT® Si  interrumpe  o  cesa  el  tratamiento,  debe  tener  en  cuenta  que  el efecto deseado de disminuir el azúcar en sangre no se conseguirá o que la enfermedad empeorará de nuevo. Siga tomando HIPOGLUT® hasta que su médico le diga que debe parar. Si tuviese cualquier otra pregunta acerca del uso de este medicamento, consulte con su médico o farmacéutico.
+
+Posibles efectos adversos
+Al igual que todos los medicamentos, este medicamento puede tener efectos adversos, aunque no todas las personas los sufran.
+
+Consulte con su médico inmediatamente si sufre alguno de los siguientes síntomas:
+Reacciones alérgicas (incluyendo inflamación de vasos sanguíneos, frecuentemente con erupción cutánea) que puede desencadenar en reacciones  graves  con  dificultad  respiratoria,  bajadas  en  la  presión sanguínea y algunas veces acabando en shock.
+Función hepática anormal, incluyendo coloración amarilla en piel y ojos (ictericia), problemas en el flujo de la bilis (colestasis), inflamación del hígado (hepatitis) o insuficiencia hepática.
+Alergia  (hipersensibilidad)  de  la  piel  como  picazón,  erupción  cutánea, urticaria e hipersensibilidad a la luz. Algunas reacciones alérgicas leves pueden convertirse en reacciones graves.
+Hipoglucemia  grave  incluyendo  pérdida  de  consciencia,  convulsiones o coma.
+
+Algunos pacientes han sufrido los siguientes efectos adversos tomando HIPOGLUT®:
+Efectos adversos raros (afectan hasta 1 de cada 1.000 personas).
+Niveles de azúcar en sangre inferiores a la normalidad (hipoglucemia).
+Reducción en el número de células en sangre:
+•  Plaquetas (lo que aumenta el riesgo de hemorragias o hematomas).
+•  Glóbulos  blancos  (lo  que  hace  más  frecuente  la  aparición  de
+
+infecciones).
+
+•  Glóbulos rojos (lo que puede hacer palidecer el tono de la piel y
+
+producir debilidad o dificultad en respirar).
+
+En  general  estas  alteraciones  desaparecen  al  interrumpir  el  tratamiento con HIPOGLUT®.
+
+Efectos adversos muy raros (afectan hasta 1 de cada 10.000 personas).
+Reacciones alérgicas (incluyendo inflamación de vasos sanguíneos, frecuentemente  con  erupción  cutánea)  que  puede  desencadenar reacciones  graves  con  dificultad  respiratoria,  bajadas  de  la  presión sanguínea y algunas veces acabar en shock. Si experimenta alguno de estos síntomas, informe a su médico inmediatamente.
+Función hepática anormal, incluyendo coloración amarilla en piel y ojos (ictericia), problemas en el flujo de la bilis (colestasis), inflamación del hígado o insuficiencia hepática. Si experimenta alguno de estos síntomas, informe a su médico inmediatamente.
+Sensación de náuseas, vómitos, diarrea, sensación de pesadez en el estómago o hinchado, y dolor de estómago.
+Disminución de los niveles de sodio en sangre (visibles en los análisis de sangre).
+
+Otros efectos adversos incluyen:
+•  Alergia (hipersensibilidad) en la piel tal como picazón, erupción cutánea, urticaria e hipersensibilidad a la luz. Algunas reacciones alérgicas leves pueden convertirse en reacciones con problemas al tragar o al respirar, hinchazón de sus labios, garganta o lengua. Por lo tanto en caso de tener uno de estos efectos adversos, informe a su médico inmediatamente.
+
+•  Reacciones  alérgicas  con  sulfonilureas,  sulfonamidas  o  medicamentos relacionados.
+
+•  Dificultades  en  la  visión  cuando  empiece  el  tratamiento  con HIPOGLUT®.  Esto  se  debe  a  los  cambios  del  nivel  de  azúcar  en sangre y debe mejorar pronto.
+•  Aumento de las enzimas hepáticas.
+•  Sangrado intenso inusual o morados bajo la piel.
+
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la página web de la ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde 0800-333-1234”.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 46.126. Fecha última revisión: Dic/2016.
+
+G00096804-03

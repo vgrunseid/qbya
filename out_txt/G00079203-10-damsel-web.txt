@@ -1,0 +1,541 @@
+DAMSEL®
+DROSPIRENONA 3 mg
+ETINILESTRADIOL 0,03 mg
+Comprimidos recubiertos
+Venta bajo receta. Industria Argentina.
+
+COMPOSICION
+
+Cada comprimido recubierto amarillo (activo) de DAMSEL® contiene:
+Drospirenona ................................................................................. 3,000 mg Etinilestradiol ................................................................................ 0,030 mg
+Excipientes: Povidona; Almidón de maíz; Lactosa Monohidrato; Croscaramelosa sódica; Almidón pregelatinizado; Estearato de magnesio;
+Óxido  de  hierro  amarillo;  Hidroxipropilmetilcelulosa  (*);  Dióxido  de titanio (*); Polisorbato 80 (*); polietilenglicol 400 (*); Agua purificada
+(**); Cera carnauba (**); Cera de abeja (**); Polisorbato 20 (**); Ácido sórbico (**) ............................................................................................... c.s.
+(*) Componentes de Opadry YS-1-7003 Blanco.
+(**) Componentes de Opaglos AG – 7350.
+
+Cada comprimido recubierto blanco (inerte) DAMSEL® contiene:
+Celactosa;  Croscaramelosa  sódica;  Estearato  de  magnesio  vegetal;
+Opadry YS -1 – 7003 Blanco; Opaglos AG – 7350 .................................c.s.
+
+ACCIÓN TERAPÉUTICA
+
+Anticonceptivo oral. Anovulatorio.
+Código ATC G03AA12.
+
+INDICACIONES
+
+desde el comienzo del ciclo ovárico, inhibe la secreción hipotalámica de la hormona liberadora de gonadotrofinas (GnRH). Este mecanismo interfiere con el eje hipotalámico-hipofisario-gonadal y con la secreción de  gonadotrofinas.  Específicamente,  los  progestágenos  inhiben  la liberación de hormona luteinizante (LH), necesaria para la ovulación, y los estrógenos inhiben la liberación de hormona folículoestimulante
+(FSH).  Como  resultado  de  estos  cambios,  generalmente  se  inhibe  la ovulación.
+Otros efectos incluyen el retraso madurativo del endometrio y la inhibición de la licuefacción del moco cervical que se produce durante el período ovulatorio.
+Los anticonceptivos orales combinados (AOC) actúan inhibiendo a las gonadotrofinas.
+En estudios preclínicos de unión a los receptores se demostró que la drospirenona,  que  es  un  análogo  de  la  espironolactona,  tiene  gran afinidad  por  los  receptores  de  progesterona  y  mineralocorticoides  y menor afinidad (similar a la progesterona) por los receptores androgénicos. No se observó unión a los receptores estrogénicos.
+En dosis terapéuticas Drospirenona también presenta propiedades antiandrógenas y leves propiedades antimineralocorticoides. No presenta ningún efecto estrógénico, glucocorticoide ni antiglucocorticoide. Esto otorga a la drospirenona un perfil farmacológico muy similar al de la hormona biológica progesterona.
+Índice de Pearl de fallo del método: 0,09 (límite superior del intervalo de  confianza  bilateral  95%:  0,32).  Índice  de  Pearl  global  (fallo  del método  +  fallo  de  la  usuaria):  0,57  (límite  superior  del  intervalo  de confianza bilateral 95%: 0,90).
+
+DAMSEL® está indicado como anticonceptivo hormonal oral.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Propiedades farmacocinéticas
+Drospirenona
+Absorción
+
+Mecanismo de acción
+El efecto sinérgico del uso de anticonceptivos orales combinados (AOC)
+
+La drospirenona administrada por vía oral se absorbe rápida y totalmente. Luego de una sola administración oral se alcanzan concentraciones
+
+máximas del fármaco en suero de aproximadamente 38 ng/ml dentro de 1 a 2 horas y su biodisponibilidad absoluta está comprendida entre el 76 y el 85%. La simultánea ingestión de alimentos no influye sobre la biodisponibilidad.
+
+Distribución
+
+La drospirenona se une a la albúmina sérica y no se une a la globulina fijadora de hormonas sexuales (sex hormone binding globulin, SHBG) ni a la globulina fijadora de corticoides (corticoid binding globulin, CBG).
+El aumento de la SHBG inducido por el etinilestradiol no afecta la unión de la drospirenona a las proteínas del suero. El volumen de distribución aparente de la drospirenona es de 3,7- 4,2 l/kg.
+
+Efecto sobre la alteración de la función hepática En  un  estudio  de  dosis  única,  el  aclaramiento  oral  (Cl/F)  disminuyó aproximadamente  un  50  %  en  voluntarias  con  alteración  hepática moderada,  comparado  con  las  voluntarias  con  función  hepática  normal.  La  disminución  en  el  aclaramiento  de  drospirenona  observada en  voluntarias  con  alteración  hepática  moderada  no  se  tradujo  en ninguna diferencia aparente en términos de concentraciones séricas de potasio. Incluso en presencia de diabetes y tratamiento concomitante con espironolactona (dos factores que pueden predisponer al paciente a hipercalemia), no se observó un incremento de las concentraciones séricas  de  potasio  por  encima  del  límite  superior  del  rango  normal.
+Puede concluirse que drospirenona es bien tolerada en pacientes con alteración hepática leve o moderada (Child-Pugh B).
+
+Biotransformación
+
+Grupos étnicos
+
+La  metabolización  de  la  drospirenona  es  completa.  En  plasma,  los principales metabolitos son la forma ácida de la drospirenona, que se genera  por  la  apertura  del  anillo  lactona,  y  el  4,5-dihidro-  drospirenona-3-sulfato; formado por reducción y subsiguiente sulfatación. La drospirenona se metaboliza en menor medida por el citocromo P450
+3A4. In vitro, la drospirenona es capaz de inhibir de forma débil a moderada las enzimas del citocromo P450, CYP1A1, CYP2C9, CYP2C19 y
+CYP3A4.
+
+Eliminación
+
+La tasa de eliminación del suero es de 1,5 +/- 0,2 ml/min/kg.
+La eliminación de la drospirenona se produce en dos fases de disminución sérica. La fase de eliminación final se caracteriza por una vida media  de  aproximadamente  31  h.  La  drospirenona  no  se  excreta  en forma inalterada y sus metabolitos se eliminan por heces y orina en una proporción de 1,2 a 1,4. La vida media de excreción de los metabolitos por orina y heces es aproximadamente de 40 horas.
+
+Estado de equilibrio estacionario
+
+Durante  un  ciclo  de  tratamiento  se  alcanzan  concentraciones  séricas máximas de drospirenona en fase de equilibrio estacionario de unos 70 ng/ml después de alrededor de 8 días de tratamiento.
+
+Poblaciones especiales
+
+Efecto sobre la alteración de la función renal:Los niveles de drospirenona  en  estado  de  equilibrio  estacionario  en  mujeres  con  alteración renal  leve  (aclaramiento  de  creatinina  Cl  Cr,  50  -  80  ml/min)  fueron comparables  con  aquellos  de  mujeres  con  función  renal  normal.  Los niveles séricos de drospirenona alcanzaron un valor medio de un 37 % superior en mujeres con alteración renal moderada (Cl Cr, 30 - 50 ml/ min), comparados con aquellos valores de mujeres con función renal normal. El tratamiento con drospirenona fue bien tolerado también por las mujeres con alteración renal leve y moderada. El tratamiento con drospirenona no mostró ningún efecto clínicamente significativo sobre las concentraciones séricas de potasio.
+
+No se han observado diferencias clínicamente relevantes en la farmacocinética de drospirenona, ni de etinilestradiol, entre mujeres japonesas y caucásicas.
+
+Etinilestradiol
+Absorción
+
+Luego de la ingestión del etinilestradiol la absorción es rápida y completa.
+Después de la administración de 0,03 mg, se logra un valor máximo de concentración en plasma de 100 pg./ml en 1 a 2 horas.
+El etinilestradiol sufre un efecto inactivador de primer paso en la mucosa intestinal y en el hígado, siendo la biodisponibilidad absolulta del 45% aproximadamente.
+
+Distribución
+
+El  etinilestradiol  se  distribuye  uniéndose  en  gran  medida  de  forma inespecífica a la albúmina sérica (aproximadamente el 98%) e induce un  aumento  de  las  concentraciones  séricas  de  SHBG.  El  volumen  de distribución aparente calculado del etinilestradiol es de 2,8-8,6 l/kg de peso corporal y se une aproximadamente en un 98% con proteínas del plasma. El etinilestradiol induce la síntesis de la globulina de SHGB y la globulina CBG en el hígado. Durante el tratamiento con 0,03 mg de etinilestradiol la concentración en plasma de SHBG aumenta de 70 a aproximadamente 350 nmol/l.
+El etinilestradiol pasa en reducida cantidad a leche materna al 0,02% de la dosis.
+
+Biotransformación
+
+El etinilestradiol presenta un metabolismo que es sometido a conjugación presistémica tanto en la mucosa del intestino delgado como en el hígado. El etinilestradiol es metabolizado principalmente mediante hidroxilación  aromática,  pero  con  formación  de  diversos  metabolitos hidroxilados y metilados, que están presentes como metabolitos libres y como conjugados con glucurónidos y sulfato.La tasa de aclaramiento metabólico de etinilestradiol es de aproximadamente 5 ml/min/kg.Las
+
+concentraciones séricas de etinilestradiol disminuyen con una eliminación en dos fases, caracterizadas por vidas medias de 1 hora y 10-20 horas, respectivamente.
+
+Eliminación
+
+El etinilestradiol no se elimina en forma intacta; la proporción de eliminación urinaria: biliar de los metabolitos del etinilestradiol es de 4:6.
+La vida media de excreción de los metabolitos es de 1 día aproximadamente. En situaciones especiales tales como en pacientes con insuficiencia renal severa o insuficiencia renal aguda está contraindicado.
+Existe la posibilidad potencial de que se presente hiperpotasemia en las pacientes con deterioro renal cuyo potasio sérico esté en el rango de referencia más alto y que estén, concomitantemente, utilizando drogas ahorradoras de potasio.
+
+Estado de equilibrio estacionario
+
+Las condiciones de la fase de equilibrio estacionario se alcanzan durante la segunda mitad de un ciclo de tratamiento y los niveles séricos de etinilestradiol se acumulan en un factor de 1,4 a 2,1 aproximadamente.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Los comprimidos de DAMSEL® deben tomarse en el orden indicado en el blíster, todos los días a la misma hora, con un poco de líquido. Los comprimidos se tomarán de forma continuada, un comprimido al día durante  28  días  consecutivos.  El  blíster  posterior  se  empezará  el  día siguiente al último comprimido del último blíster. La hemorragia por deprivación suele presentarse 2-3 días después de iniciar la toma de los comprimidos blancos (inertes) y es posible que no haya terminado cuando corresponda empezar el siguiente blíster.
+
+Cómo empezar a tomar DAMSEL®
+• Si no se ha usado ningún anticonceptivo hormonal previamente (en el mes anterior): los comprimidos se empezarán a tomar el día 1 del ciclo natural de la mujer (es decir, el primer día de la menstruación).
+Para sustituir a otro anticonceptivo oral combinado (AOC, anillo vaginal o parche transdérmico):
+
+• La mujer debe empezar a tomar DAMSEL® el día después de tomar el último comprimido activo (el último comprimido que contiene los principios activos) de su AOC previo, pero a más tardar al día siguiente de finalizar el intervalo habitual sin tomar comprimidos o la toma de los comprimidos de placebo de su AOC previo. En caso de uso de un anillo vaginal o parche transdérmico, la mujer debe empezar a tomar
+DAMSEL® preferiblemente el día de la retirada, o a más tardar cuando se hubiera tenido que volver a aplicar. .: Para sustituir a un método basado  exclusivamente  en  progestágenos  (píldora  de  progestágenos solos, inyección, implante) o un sistema de liberación intrauterino (SLI). La mujer puede sustituir la píldora de progestágenos solos por DAMSEL® cualquier día (si se trata de un implante o de un SLI, el mismo día de su retirada; si se trata de un inyectable, el día que corresponda la siguiente inyección), pero en todos estos casos se debe
+
+aconsejar que se utilice adicionalmente un método anticonceptivo de barrera durante los primeros siete días de toma de DAMSEL®.Tras un aborto espontáneo en el primer trimestre: la mujer puede empezar a tomar DAMSEL® de inmediato. Al hacerlo, no es necesario que tome medidas anticonceptivas adicionales.
+
+• Tras  el  parto  o  un  aborto  espontáneo  en  el  segundo  trimestre:  Se aconsejará a la mujer que empiece a tomar la medicación el día 21 a
+28 después del parto o del aborto espontáneo en el segundo trimestre. Si lo hace más tarde, se le debe aconsejar que utilice adicionalmente un método de barrera durante los 7 primeros días de toma de comprimidos. No obstante, si la mujer ya ha tenido relaciones sexuales, hay que descartar que se haya producido un embarazo antes del inicio del uso del AOC, o bien la mujer debe esperar a tener su primer período menstrual.
+
+Conducta a seguir si se olvida la toma de algún comprimido Los  comprimidos  blancos  (inertes)  olvidados  pueden  obviarse.  No obstante, deben eliminarse del blíster para evitar la prolongación no intencionada de la fase de comprimidos blancos (inertes). La siguiente recomendación sólo se refiere al olvido de los comprimidos amarillos
+(activos): la- protección anticonceptiva no disminuye si la toma de un comprimido se retrasa menos de 12 horas.
+En tal caso, la mujer debe tomar el comprimido en cuanto se dé cuenta del olvido y ha de seguir tomando los siguientes comprimidos a la hora habitual.
+Si la toma de un comprimido se retrasa más de 12 horas, la protección anticonceptiva puede verse reducida. La conducta a seguir en caso de olvido se rige por dos normas básicas:
+1. Nunca se debe suspender la toma de comprimidos más de 7 días.
+2. Es necesario tomar los comprimidos de forma ininterrumpida durante 7 días para conseguir una supresión adecuada del eje hipotálamo-hipófisis-ovario.
+
+En consecuencia y siguiendo las indicaciones anteriores, en la práctica diaria se puede aconsejar lo siguiente:
+• Semana 1: la usuaria debe tomar el último comprimido olvidado tan pronto como se acuerde, incluso si esto significara tomar 2 comprimidos a la vez. A partir de ahí seguirá tomando los comprimidos a su hora habitual. Además, durante los 7 días siguientes debe utilizar un método de barrera, como un preservativo. Si ha mantenido relaciones sexuales en los 7 días previos, se debe tener en cuenta la posibilidad de un embarazo. Cuantos más comprimidos haya olvidado y cuanto más cerca esté de la fase de toma de comprimidos blancos
+(inertes), mayor es el riesgo de un embarazo.
+
+• Semana 2: la mujer debe tomar el último comprimido olvidado tan pronto como se acuerde, incluso si esto significara tomar 2 comprimidos a la vez. A partir de ahí seguirá tomando los comprimidos a su hora habitual. Siempre y cuando en los 7 días anteriores al primer comprimido olvidado haya tomado los comprimidos correctamente, no  necesitará  tomar  medidas  anticonceptivas  adicionales.  Si  no  es así, o si ha olvidado tomar más de 1 comprimido, se le debe aconsejar que adopte precauciones adicionales durante 7 días.
+
+• Semana 3: el riesgo de una reducción de la seguridad anticonceptiva es inminente, debido a la cercanía de la siguiente fase de comprimidos blancos (inertes). No obstante, adaptando el esquema de toma
+
+de comprimidos, aún se puede impedir que disminuya la protección anticonceptiva.  Por  consiguiente,  si  sigue  una  de  las  dos  opciones siguientes, no necesitará adoptar medidas anticonceptivas adicionales, siempre y cuando en los 7 días anteriores al primer comprimido olvidado haya tomado todos los comprimidos correctamente. Si no es así, se le debe aconsejar que siga la primera de las dos opciones que se indican a continuación y que además adopte medidas adicionales durante los 7 días siguientes.
+
+1. La  usuaria  debe  tomar  el  último  comprimido  olvidado  tan  pronto como  se  acuerde,  incluso  si  esto  significara  tomar  2  comprimidos a la vez. A partir de ahí seguirá tomando los comprimidos a su hora habitual hasta terminar los comprimidos amarillos (activos). Se deben  descartar  los  7  comprimidos  blancos  (inertes).  Debe  empezar el siguiente blíster inmediatamente. Es improbable que tenga una hemorragia por deprivación hasta que termine la sección de comprimidos amarillos (activos) del segundo blíster, pero puede presentar un manchado o una hemorragia por disrupción en los días que toma los comprimidos amarillos (activos).
+
+2. Se le puede aconsejar también que deje de tomar los comprimidos del blíster actual. Debe completar el intervalo de 7 días tomando los comprimidos  blancos  (inertes),  y  luego  continuar  inmediatamente con el siguiente blíster.
+
+Cuando la usuaria, en caso de haber olvidado la toma de comprimidos, no presenta hemorragia por deprivación en la fase de comprimidos blancos (inertes), debe tenerse en cuenta la posibilidad de un embarazo.
+
+Consejos en caso de trastornos gastrointestinales En caso de trastornos gastrointestinales severos, la absorción puede ser incompleta y será necesario tomar medidas anticonceptivas adicionales. Si se producen vómitos en las 3-4 horas siguientes a la toma del comprimido activo, se deberá tomar un nuevo comprimido (de reemplazo) lo antes posible. El nuevo comprimido se debería tomar, si fuera posible, dentro de las 12 horas de la toma habitual. Si transcurren más de 12 horas, se seguirían los mismos  consejos para el caso en que se haya olvidado la toma de comprimidos que se recogen en la sección
+Conducta a seguir si se olvida la toma de algún comprimido. Si la mujer no desea cambiar su esquema normal de toma de comprimidos, tomará el comprimido o comprimidos extra que necesite de otro envase.
+
+Cómo cambiar períodos o cómo retrasar un período Para retrasar un período, la usuaria debe empezar el siguiente blíster de DAMSEL® sin tomar los comprimidos blancos (inertes) del blíster actual.
+Puede mantener esta situación tanto tiempo como desee hasta el final de  los  comprimidos  amarillos  (activos)  del  segundo  envase.  Durante ese período, la usuaria puede experimentar hemorragia por disrupción o manchado. La toma regular de DAMSEL® se reanuda después de la fase de comprimidos blancos (inertes). Para cambiar el período a otro día de la semana al que la mujer está acostumbrada con su esquema actual, debe acortar la siguiente fase de comprimidos blancos (inertes)
+tantos días como desee. Cuanto más corto sea el intervalo, mayor es el riesgo de que no tenga una hemorragia por deprivación y de que experimente hemorragia por disrupción o manchado durante la toma del segundo envase (como ocurre cuando se retrasa un período).
+
+CONTRAINDICACIONES
+
+No se deben utilizar anticonceptivos hormonales combinados (AOCs)
+en las siguientes condiciones. Si alguna de ellas aparece por primera vez mientras se emplean AOCs, la administración del preparado debe ser suspendida inmediatamente.
+
+Presencia o riesgo de tromboembolismo venoso
+• Tromboembolismo venoso: TEV actual (con anticoagulantes) o antecedentes del mismo (p. ej., trombosis venosa profunda (TVP) o embolia pulmonar (EP)).
+
+• Predisposición hereditaria o adquirida conocida al tromboembolismo venoso, como resistencia a la PCA (incluyendo el factor V Leiden), deficiencia de antitrombina III, deficiencia de proteína C, deficiencia de proteína S.
+
+• Cirugía mayor con inmovilización prolongada.
+• Riesgo elevado de tromboembolismo venoso debido a la presencia
+
+de varios factores de riesgo.
+
+Presencia o riesgo de tromboembolismo arterial:
+• Tromboembolismo arterial: tromboembolismo arterial actual, antecedentes de tromboembolismo arterial (p. ej. infarto de miocardio) o afección prodrómica (p. ej. angina de pecho).
+
+• Enfermedad  cerebrovascular:  ACV  actual,  antecedentes  de  ACV  o afección prodrómica (p. ej. accidente isquémico transitorio, AIT).
+• Predisposición hereditaria o adquirida conocida al tromboembolismo arterial, tal como hiperhomocisteinemia y anticuerpos antifosfolípidos (anticuerpos anticardiolipina, anticoagulante lúpico).
+• Antecedentes de migrañas con síntomas neurológicos focales.
+• Riesgo  elevado  de  tromboembolismo  arterial  debido  a  múltiples factores de riesgo o a la presencia de un factor de riesgo grave como:
+
+• diabetes mellitus con síntomas vasculares
+• hipertensión grave
+• dislipoproteinemia grave
+• Diagnóstico, presunción o antecedentes de cáncer de mama.
+• Diagnóstico, presunción o antecedentes de carcinoma de endometrio u otra neoplasia estrógeno-dependiente.
+
+• Sangrado vaginal anormal de causa no diagnosticada.
+• Disfunción hepática o enfermedad hepática activa. Trastornos graves de  la  función  hepática.  Síndrome  de  Dubin  Johnson,  síndrome  de
+Rotor.
+
+• Presencia o antecedente de Tumor hepático (benigno o maligno)
+• Insuficiencia renal grave o fallo renal agudo.
+• Hipersensibilidad a cualquier componente de este producto.
+• Está contraindicado el uso concomitante con medicamentos que contengan ombitasvir/paritaprevir/ritonavir y dasabuvir, medicamentos que  contengan  glecaprevir/pibrentasvir  o  sofosbuvir/velpatasvir/ voxilaprevir
+
+ADVERTENCIAS
+
+El  consumo  de  cigarrillos  aumenta  el  riesgo  de  experimentar efectos secundarios cardiovasculares graves asociados con el uso
+
+de anticonceptivos orales. Dicho riesgo aumenta con la edad y con el consumo elevado de cigarrillos (15 o más cigarrillos por día) y es mayor en las usuarias de más de 35 años de edad. Se debe advertir muy seriamente a las mujeres que usan anticonceptivos orales que no deben fumar.
+
+Si alguna de las afecciones o factores de riesgo que se mencionan a continuación está presente, se debe comentar con la mujer la idoneidad de DAMSEL®.
+• Si alguna de estas afecciones o de estos factores de riesgo se agrava o aparece por primera vez, se debe aconsejar a la mujer que consulte a su médico para determinar si se debe interrumpir el uso de DAMSEL®.
+• En caso de sospecha o confirmación de TEV o TEA, se debe suspender el uso de AOC. En caso de iniciar un tratamiento anticoagulante, se deberá empezar un método de anticoncepción alternativo adecuado debido a la teratogenicidad del tratamiento anticoagulante (cumarinas).
+
+• Trastornos circulatorios
+
+Trastornos tromboembólicos y otras alteraciones vasculares
+Los anticonceptivos orales pueden agravar los efectos de algunos factores de riesgo bien conocidos, como la hipertensión arterial, la diabetes mellitus, la hiperlipidemia, la edad y la obesidad. En particular, algunos progestágenos disminuyen el colesterol HDL y provocan intolerancia a la glucosa, mientras que los estrógenos pueden generar un estado de hiperinsulinismo. Se ha demostrado que los anticonceptivos orales aumentan la presión arterial. Efectos similares sobre los factores de riesgo se han asociado con un aumento en el riesgo de enfermedad cardíaca.
+Los anticonceptivos orales deben ser usados con precaución en mujeres que presenten factores de riesgo para enfermedades cardiovasculares.
+
+Tromboembolismo
+Se ha comprobado que existe un aumento en el riesgo de enfermedades trombóticas y tromboembólicas asociado con el uso de anticonceptivos orales
+
+a) Factores de riesgo de TEV
+El riesgo de complicaciones  tromboembólicas  venosas  en  usuarias de AOC puede aumentar sustancialmente en una mujer con factores de riesgo adicionales, en particular si existen varios factores de riesgo
+(ver tabla 1).
+DAMSEL® está contraindicado si una mujer tiene varios factores de riesgo que la ponen en una situación de alto riesgo de trombosis venosa. Si una mujer tiene más de un factor de riesgo, es posible que el aumento del riesgo sea mayor que la suma de los factores individuales; en este caso se debe tener en cuenta su riesgo total de TEV. Si se considera que la relación beneficio/riesgo es negativa, no se debe prescribir un AOC.
+
+Inmovilización prolongada, cirugía mayor, cualquier intervención quirúrgica de las piernas o pelvis, neurocirugía o traumatismo grave.
+
+Nota: La inmovilización temporal, incluyendo los viajes en avión >4 horas, también puede ser un factor de riesgo de TEV, en especial en mujeres con otros factores de riesgo de riesgo de TEV, en especial en mujeres con otros factores de riesgo.
+
+Antecedentes familiares positivos
+(algún caso de tromboembolismo venoso en un hermano o en un progenitor, especialmente a una edad relativamente temprana, p. ej.
+antes de los 50 años)
+
+Otras enfermedades asociadas al TEV.
+
+Aumento de la edad.
+
+En estas circunstancias es aconsejable interrumpir el uso del comprimido (en caso de intervención quirúrgica programada, al menos con cuatro semanas de antelación)
+y no reanudarlo hasta dos semanas después de que se recupere completamente la movilidad. Se debe utilizar otro método anticonceptivo para evitar un embarazo involuntario.
+
+Se debe considerar un tratamiento antitrombótico si no se ha interrumpido con antelación la toma de DAMSEL®
+
+Si se sospecha que existe una predisposición hereditaria, la mujer se debe derivar a un especialista antes de tomar la decisión de usar un AOC.
+
+Cáncer, lupus eritematoso sistémico, síndrome urémico hemolítico, enfermedad inflamatoria intestinal crónica (enfermedad de Crohn o colitis ulcerosa) y anemia de células falciformes
+
+En especial por encima de los 35 años.
+
+b) Factores de riesgo de TEA
+El  riesgo  de  que  se  produzcan  complicaciones  tromboembólicas  arteriales o un accidente cerebrovascular en usuarias de AOC aumenta en  mujeres  con  factores  de  riesgo  (ver  tabla  2).  DAMSEL®  está  contraindicado si una mujer presenta varios factores de riesgo de TEA o uno grave que la ponen en una situación de alto riesgo de trombosis arterial (ver tabla 2). Si una mujer tiene más de un factor de riesgo, es posible que el aumento del riesgo sea mayor que la suma de los factores individuales; en este caso se debe tener en cuenta su riesgo total. Si se considera que la relación beneficio/riesgo es negativa, no se debe prescribir un AOC
+
+Tabla 2: Factores de riesgo de TEA
+
+Factor de riesgo
+
+Comentario
+
+Aumento de la edad.
+
+En especial por encima de los 35 años.
+
+Tabla 1: Factores de riesgo de TEV
+
+Tabaquismo.
+
+Factor de riesgo
+
+ Comentario
+
+Obesidad (índice de masa corporal
+(IMC) superior a 30 kg/m2).
+
+El riesgo aumenta de forma sustancial con el aumento del IMC.
+Especialmente importante si existen factores de riesgo adicionales.
+
+Hipertensión arterial.
+
+Se debe aconsejar a las mujeres que no fumen si desean utilizar un AOC.
+Se debe aconsejar encarecidamente a las mujeres de más de 35 años que continúan fumando que utilicen un método anticonceptivo diferente.
+
+Obesidad (índice de masa corporal superior a 30 kg/m2).
+
+Antecedentes familiares positivos
+(algún caso de tromboembolismo arterial en un hermano o en un progenitor, especialmente a una edad relativamente temprana, p. ej.
+menos de 50 años).
+
+Migraña.
+
+Otras enfermedades asociadas a acontecimientos vasculares adversos.
+
+El riesgo aumenta de forma sustancial con el aumento del IMC.
+Especialmente importante en mujeres con factores de riesgo adicionales.
+
+Si se sospecha que existe una predisposición hereditaria, la mujer debe ser derivada a un especialista antes de tomar la decisión de usar un AOC
+
+Un aumento de la frecuencia o la intensidad de las migrañas durante el uso de AOC (que puede ser prodrómico de un acontecimiento cerebrovascular) puede motivar su interrupción inmediata.
+
+Diabetes mellitus, hiperhomocisteinemia, valvulopatía y fibrilación auricular, dislipoproteinemia y lupus eritematoso sistémico.
+
+Carcinoma de los órganos reproductivos y de mama En algunos  estudios  epidemiológicos se ha  descrito un aumento del riesgo de cáncer cervical en usuarias de AOC durante largos periodos de tiempo (> 5 años), sin embargo, sigue existiendo controversia acerca de hasta qué punto este hallazgo puede ser atribuido a factores de confusión relacionados con la conducta sexual u otros factores como el virus del papiloma humano (VPH).
+En  un  metaanálisis  de  54  estudios  epidemiológicos  se  observó  que existe un ligero aumento del riesgo relativo (RR = 1,24) de que se diagnostique cáncer de mama en mujeres que están tomando AOC. Este aumento del riesgo desaparece gradualmente en los 10 años siguientes a la suspensión de los AOC. Dado que el cáncer de mama es raro en mujeres menores de 40 años, el aumento de diagnósticos de cáncer de mama en usuarias, que toman AOC en el momento actual o que los han tomado recientemente, es pequeño en relación con el riesgo total de cáncer de mama. Estos estudios no aportan evidencias los han tomado.
+
+Neoplasia hepática
+Los adenomas hepáticos benignos están asociados con el uso de anticonceptivos orales. Cálculos indirectos han estimado que el riesgo atribuible es de 3,3 casos/100.000 en usuarias de anticonceptivos orales, y este riesgo aumenta luego de cuatro o más años de uso. La ruptura de los raros adenomas hepáticos benignos, puede ocasionar la muerte por hemorragia intraabdominal. En raros casos, se han comunicado tumores hepáticos benignos, y aún más raramente malignos, en usuarias de AOC. En casos aislados, estos tumores han dado lugar a hemorragias intraabdominales que suponen una amenaza para la vida. Debe considerarse la posibilidad de que exista un tumor hepático en el diagnóstico diferencial de mujeres que toman AOC y que presentan dolor intenso en abdomen superior, aumento de tamaño del hígado o signos de hemorragia intraabdominal. El uso de AOCs de dosis alta (con 0,05 mg de etinilestradiol) disminuye el riesgo de cáncer de endometrio y de ovario. No se ha confirmado si esto también es aplicable a los AOCs de baja dosis.
+
+Otras afecciones
+El componente progestagénico de DAMSEL® es un antagonista de la aldosterona,  con  propiedades  ahorradoras  de  potasio.  En  la  mayoría de los casos no se espera que aparezca un aumento de los niveles de potasio. Sin embargo, en un estudio clínico, en algunas pacientes con alteración de la función renal leve o moderada y uso concomitante de medicamentos ahorradores de potasio, los niveles séricos de potasio se  modificaron  levemente,  pero  no  significativamente,  aumentando durante la administración de drospirenona.
+Por ello se recomienda vigilar el potasio sérico durante el primer ciclo de  tratamiento  en  pacientes  con  insuficiencia  renal  y  que  presenten unos  niveles  séricos  de  potasio  pre-tratamiento  en  el  rango  superior de la normalidad, y particularmente durante el uso concomitante de medicamentos ahorradores de potasio.
+Las  mujeres  con  hipertrigliceridemia  o  con  antecedentes  familiares de dicho trastorno pueden tener mayor riesgo de pancreatitis cuando usan AOC.
+Aunque se ha comunicado la aparición de pequeños aumentos de la tensión  arterial  en  mujeres  que  toman  AOC,  son  raros  los  casos  con relevancia clínica. La suspensión inmediata del uso de AOC sólo está justificada en estos casos raros. Si, durante el uso de un AOC, en caso de  hipertensión  preexistente,  se  registran  valores  constantemente elevados de la tensión arterial o un aumento significativo de ésta que no  responden  adecuadamente  al  tratamiento  antihipertensivo,  debe retirarse  el  AOC.  Cuando  se  considere  apropiado,  puede  reanudarse la toma del AOC si gracias al tratamiento antihipertensivo se alcanzan valores normales de tensión arterial.
+Aunque no se ha demostrado de forma concluyente que exista una asociación, se ha informado de que las siguientes afecciones se producen o empeoran con el embarazo y con el uso de AOC: ictericia y/o prurito relacionados con colestasis; cálculos biliares; porfiria; lupus eritematoso sistémico; síndrome hemolítico-urémico; corea de Sydenham; herpes gestacional; pérdida de la audición relacionada con otosclerosis.
+En mujeres con angioedema hereditario, los estrógenos exógenos pueden inducir o exacerbar los síntomas del angioedema.
+Los trastornos agudos o crónicos de la función hepática pueden obligar a suspender el uso de AOC hasta que los marcadores de función hepática  recuperen  valores  normales.  La  recurrencia  de  una  ictericia colestática y/o de un prurito relacionado con colestasis que se hubieran presentado previamente durante el embarazo o durante un uso anterior de esteroides sexuales obliga a suspender los AOC.
+Aunque los AOC pueden tener un efecto sobre la resistencia periférica a  la  insulina  y  sobre  la  tolerancia  a  la  glucosa,  no  existen  evidencias que hagan necesario alterar el régimen terapéutico en diabéticas que tomen AOC de baja dosis (que contengan < 0,05 mg de etinilestradiol).
+No obstante, las mujeres diabéticas deben ser observadas cuidadosamente, en especial durante la etapa inicial del uso de AOC.
+Durante la utilización de AOC, se han registrado empeoramiento de la epilepsia, de la enfermedad de Crohn y de la colitis ulcerosa.
+Un  estado  de  ánimo  depresivo  y  depresión  son  reacciones  adversas reconocidas debidas al uso de anticonceptivos hormonales . La depresión puede ser grave y es un factor de riesgo reconocido asociado al comportamiento suicida y al suicidio. Se debe indicar a las mujeres que se pongan en contacto con su médico en caso de experimentar cambios
+
+en el estado de ánimo y síntomas depresivos, incluso si aparecen poco después de iniciar el tratamiento. Puede producirse cloasma ocasionalmente, sobre todo en mujeres con antecedentes de cloasma gravídico.
+Las mujeres con tendencia al cloasma deben evitar la exposición al sol o a los rayos ultravioleta mientras tomen AOC.Disminución de la eficacia
+La  eficacia  de  los  AOC  puede  disminuir  si  la  mujer  olvida  tomar  los comprimidos , o en caso de trastornos gastrointestinales o empleo de medicación concomitante.
+
+protegen frente a la infección por VIH (SIDA) ni frente a otras enfermedades de transmisión sexual.
+Se debe informar a las pacientes que este producto no protege contra la infección por VIH/HIV (SIDA) ni contra otras enfermedades de transmisión sexual.
+
+INTERACCIONES MEDICAMENTOSAS
+
+Reducción del control de los ciclos
+
+Efectos de otros medicamentos sobre DAMSEL®
+
+Todos los AOC pueden dar lugar a hemorragias irregulares (manchado o  hemorragia  intermenstrual),  especialmente  durante  los  primeros meses de uso. Por consiguiente, la evaluación de cualquier hemorragia irregular sólo será significativa tras un intervalo de adaptación de unos tres ciclos.
+Si las irregularidades hemorrágicas persisten o se producen tras ciclos que previamente eran regulares, habrá que tener en cuenta posibles causas no hormonales y está indicado tomar las medidas diagnósticas adecuadas para excluir procesos malignos o embarazos. Entre ellas se encontraría el legrado.
+Es posible que en algunas mujeres no se produzca hemorragia por privación durante la semana de descanso. Si ha tomado el AOC siguiendo las instrucciones que se describen en la sección de posología es improbable  que la mujer  esté embarazada. Sin embargo, si no ha tomado el AOC siguiendo estas instrucciones antes de la primera falta o si se produce  una  segunda  falta  hay  que  descartar  un  embarazo  antes  de seguir tomando el AOC.
+
+Pueden producirse interacciones con medicamentos inductores de las enzimas microsomales, lo que puede provocar un aumento en el aclaramiento de las hormonas sexuales y conducir a la aparición de hemorragia intermenstrual y/o fallo de la anticoncepción.
+La eficacia anticonceptiva puede reducirse cuando los anticonceptivos hormonales  se  administran  en  forma  conjunta  con  antibióticos,  anticonvulsivantes y otros medicamentos que aumentan el metabolismo de los esteroides anticonceptivos. Esto podría resultar en un embarazo no deseado o hemorragia por deprivación.
+Las siguientes interacciones han sido notificadas y obtenidas de la literatura científica.
+Sustancias que aumentan el aclaramiento de los AOCs (reducen la eficacia de los AOCs por inducción enzimática), p.ej.: Barbitúricos, bosentan, carbamazepina, fenitoina, primidona, rifampicina y los medicamentos para el VIH ritonavir, nevirapina y efavirenz y, también posiblemente, felbamato, griseofulvina, oxcarbazepina, topiramato y productos que contienen la planta medicinal hierba de San Juan (Hypericum perforatum).
+
+Advertencias sobre excipientes
+
+Este  medicamento  contiene  lactosa.  Los  pacientes  con  intolerancia hereditaria  a  galactosa,  deficiencia  total  de  lactasa  o  problemas  de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+PRECAUCIONES
+
+Exploración/consulta médica
+Antes de iniciar o reanudar el tratamiento con DAMSEL®, se debe realizar una anamnesis completa (incluidos los antecedentes familiares) y descartarse un posible embarazo. Se debe medir la tensión arterial y realizar una exploración física, guiada por las contraindicaciones y por las advertencias . El examen físico debe incluir especialmente el control de la presión arterial, de las mamas y de los órganos abdominales y pélvicos, la citología cervical (Papanicolau) y las pruebas de laboratorio relevantes. Se debe vigilar con especial cuidado a las pacientes que presenten antecedentes familiares de cáncer de mama y/o tengan nódulos mamarios.
+Es importante dirigir la atención de la mujer hacia la información sobre la trombosis venosa y arterial, incluido el riesgo de DAMSEL® en comparación con otros AOCs, los síntomas de TEV y TEA, los factores de riesgo conocidos y qué debe hacer en caso de una sospecha de trombosis.
+Debe advertirse a las mujeres que los anticonceptivos hormonales no
+
+Sustancias con efectos variables sobre el aclaramiento de los AOCs:
+Cuando se administran conjuntamente con AOCs, muchas combinaciones de inhibidores de la proteasa del VIH e inhibidores no nucleósidos de la transcriptasa inversa, incluyendo combinaciones con inhibidores del VHC, pueden aumentar o disminuir las concentraciones plasmáticas de estrógenos o progestágenos. El efecto neto de estos cambios puede ser clínicamente relevante en algunos casos.
+Las  mujeres  tratadas  con  cualquiera  de  estos  fármacos  deben  usar temporalmente  un  método  de  barrera  además  del  AOC  o  elegir  otro método anticonceptivo. Sustancias que disminuyen el aclaramiento de los AOCS (inhibidores enzimáticos).
+La  relevancia  clínica  de  las  interacciones  potenciales  con  inhibidores enzimáticos es aún desconocida.
+La administración concomitante de inhibidores potentes del CYP3A4 puede  aumentar  las  concentraciones  plasmáticas  del  estrógeno,  del progestágeno o de ambos.
+En un estudio a dosis múltiples con una combinación de drospirenona (3 mg/día) / etinilestradiol (0,02 mg/día), la administración conjunta con ketoconazol (inhibidor potente del CYP3A4) durante 10 días, aumentó el AUC(0-24h) de la drospirenona y el etinilestradiol 2,7 y 1,4 veces, respectivamente.
+Se ha demostrado que dosis de etoricoxib de 60 a 120 mg/día aumentan las concentraciones plasmáticas de etinilestradiol de 1,4 a 1,6 veces respectivamente, cuando se toman conjuntamente con un anticonceptivo hormonal combinado con 0,035 mg de etinilestradiol.
+
+Efectos de DAMSEL® sobre otros medicamentos
+
+Los AOCs pueden influir en el metabolismo de otros principios activos.
+En consecuencia, los niveles plasmáticos o tisulares pueden aumentar (p. ej. ciclosporina) o disminuir (p. ej. lamotrigina).
+Basándose en estudios de interacción in vivo, realizados en voluntarias que empleaban omeprazol, simvastatina o midazolam como sustrato marcador, se establece que es poco probable que se produzca una interacción de drospirenona a dosis de 3 mg con el metabolismo mediado por el citocromo P450 de otros principios activos.
+Los datos clínicos sugieren que el etinilestradiol inhibe el aclaramiento plasmático  de  los  sustratos  del  CYP1A2,conduciendo  a  un  aumento débil (p.ej., teofilina) o moderado (p.ej. tizanidina) en su concentración plasmática.
+Los AOCs pueden influir en el metabolismo de otros principios activos.
+En consecuencia, los niveles plasmáticos o tisulares pueden aumentar (p. ej. ciclosporina) o disminuir (p. ej. lamotrigina). .Estudios de interacción in vivo, realizados en voluntarias que empleaban omeprazol, simvastatina o midazolam como sustrato marcador, se establece que es poco probable que se produzca una interacción de drospirenona a dosis de 3 mg con el metabolismo mediado por el citocromo P450 de otros principios activos.
+Los datos clínicos sugieren que el etinilestradiol inhibe el aclaramiento plasmático  de  los  sustratos  del  CYP1A2  conduciendo  a  un  aumento débil (p.ej., teofilina) o moderado (p.ej. tizanidina) en su concentración plasmática.
+
+Interacciones farmacodinámicas
+
+Durante los ensayos clínicos con pacientes tratados por infecciones del virus de la hepatitis C (VHC) con medicamentos que contienen ombitasvir/paritaprevir/ritonavir y dasabuvir con o sin ribavirina, se produjeron aumentos en los niveles de transaminasas (ALT) 5 veces superiores al límite  superior  normal  (LSN)  con  una  frecuencia  significativamente mayor en mujeres que utilizaban medicamentos que contenían etinilestradiol,  como  los  anticonceptivos  hormonales  combinados  (AOC).
+Además, también se observaron elevaciones de ALT en pacientes tratadas con glecaprevir/pibrentasvir o sofosbuvir/velpatasvir/voxilaprevir, que utilizaban medicamentos que contenían etinilestradiol, como los anticonceptivos  hormonales  combinados.  Por  tanto,  las  usuarias  que tomen DAMSEL® deben cambiar a un método anticonceptivo alternativo (por ejemplo, los métodos anticonceptivos de progestágeno solo o  métodos  no  hormonales)  antes  de  iniciar  el  tratamiento  con  estos régimenes de fármacos combinados. DAMSEL® puede reiniciarse 2 semanas después de la finalización del tratamiento con estos régimenes de fármacos combinados.
+En  pacientes  sin  insuficiencia  renal,  el  uso  concomitante  de  drospirenona  e  inhibidores  de  la  enzima  conversora  de  la  angiotensina
+(IECAs) o de antiinflamatorios no esteroideos (AINEs), no mostró un efecto significativo sobre los niveles de potasio sérico. Sin embargo, el uso concomitante de DAMSEL® con antagonistas de la aldosterona o  diuréticos  ahorradores  de  potasio  no  ha  sido  estudiado.  En  estos casos se debería vigilar el potasio sérico durante el primer ciclo de tratamiento.
+
+Interferencia con las pruebas de laboratorio Ciertas pruebas de la función endócrina y hepática y algunos componentes sanguíneos pueden ser afectados por los anticonceptivos orales:
+El uso de esteroides anticonceptivos puede afectar a los resultados de ciertas pruebas de laboratorio, incluyendo los parámetros bioquímicos de función hepática, tiroidea, suprarrenal y renal, los niveles plasmáticos de proteínas (transportadoras), p. ej. la globulina transportadora de corticosteroides y las fracciones de lípidos/lipoproteínas, los parámetros del metabolismo de los hidratos de carbono y los parámetros de la coagulación y la fibrinólisis. Por lo general, los cambios permanecen dentro de los límites normales. La drospirenona produce un aumento de la actividad de renina plasmática y de la aldosterona plasmática inducido por su leve actividad antimineralocorticoide.
+
+Carcinogénesis, mutagénesis, alteración de la fertilidad
+En animales de laboratorio los efectos de la drospirenona y del etinilestradiol se limitaron a los asociados a la acción farmacológica conocida.
+En particular, los estudios de toxicidad sobre la reproducción revelaron efectos  embriotóxicos  y  fetotóxicos  en  animales  considerados  como específicos  de  especie.  Tras  la  exposición  a  dosis  superiores  a  las  de las usuarias de DAMSEL® se observaron efectos sobre la diferenciación sexual en fetos de rata, pero no en monos. En un estudio de carcinogenicidad  oral  de  24  meses,  llevado  a  cabo  en  ratones  a  los  que  se administraron  10  mg/kg/día  de  rospirenona  sola  ó  rospirenona  más etinilestradiol en concentraciones de 1 + 0,01; 3 + 0,03 ó 10 + 0,1 mg/kg/día -lo que equivale a 0,1 a 2 veces la exposición (área bajo la curva) a rospirenona que experimentan las mujeres que toman dosis anticonceptivas-, se observó un aumento en el carcinoma de glándula harderiana en el grupo que recibió la dosis alta de rospirenona sola. La rospirenona no resultó ser mutagénica en una serie de pruebas de genotoxicidad in vitro (Ames, mutación en células de pulmón de hámster chino y daño cromosómico en linfocitos humanos) e in vivo (ensayo de micronúcleo de ratón).
+
+Embarazo
+DAMSEL® está contraindicado durante el embarazo.
+Si se produjera un embarazo durante el uso de DAMSEL® debe suspenderse  su  administración  inmediatamente.  Estudios  epidemiológicos extensos no han revelado ni un aumento del riesgo de defectos congénitos en niños nacidos de madres usuarias de AOC antes del embarazo, ni  un  efecto  teratogénico  cuando  los  AOC  fueron  tomados  de  forma inadvertida durante un embarazo.
+Se  han  observado  efectos  adversos  en  estudios  experimentales  con animales durante el embarazo y la lactancia. En función de estos datos en animales, no se pueden descartar los efectos adversos debidos a la acción hormonal de los principios activos. Sin embargo, la experiencia general con AOC durante el embarazo no proporciona evidencias de dicho efecto adverso en humanos. Los datos disponibles acerca del uso de DAMSEL® durante el embarazo son demasiado limitados para extraer conclusiones relativas a sus efectos negativos sobre el embarazo, o sobre la salud del feto o del recién nacido. Hasta la fecha no se dispone de datos epidemiológicos de interés.
+Se debe tener en cuenta el aumento de riesgo de TEV durante el periodo de posparto cuando se reinicia la administración con DAMSEL®
+
+Lactancia
+La  lactancia  puede  resultar  afectada  por  los  AOC,  dado  que  éstos pueden reducir la cantidad de leche y alterar su composición. Por consiguiente, en general no debe recomendarse el empleo de AOC hasta que la madre haya cesado completamente la lactancia de su hijo. Se han detectado pequeñas cantidades de esteroides de anticonceptivos orales en la leche materna, y se han informado algunos efectos adversos en los lactantes, incluyendo ictericia y agrandamiento mamario.
+
+Poblaciones especiales
+
+Población pediátrica
+DAMSEL® sólo está indicado después de la menarca.
+
+Pacientes de edad avanzada
+DAMSEL® no está indicado después de la menopausia.
+
+Pacientes con insuficiencia hepática
+DAMSEL®  está  contraindicado  en  mujeres  con  enfermedad  hepática grave.
+
+Pacientes con insuficiencia renal
+DAMSEL® está contraindicado en mujeres con insuficiencia renal grave o fallo renal agudo.
+
+REACCIONES ADVERSAS
+
+Se han registrado las siguientes reacciones adversas durante el uso de la combinación de drospirenona 3 mg y etinilestradios 0,03 mg:
+
+Sistema de clasificación de órganos MedDRA
+
+Frecuencia de las reacciones adversas
+
+Frecuentes
+>1/100 a
+<1/10
+
+Poco frecuentes
+≥1/1.000 a
+<1/100
+
+Raras
+≥1/10.000 a
+< 1/1.000
+
+Trastornos del sistema inmunológico
+
+Trastornos psiquiátricos
+
+Ánimo depresivo
+
+Trastornos del sistema nervioso
+
+Cefalea
+
+Trastornos del oído y laberinto
+
+Trastornos vasculares Migraña
+
+Aumento de la libido,
+Disminución de la libido
+
+Hipertensión,
+Hipotensión
+
+Hipersensibilidad,
+Asma
+
+Hipoacusia
+
+Tromboembolismo venoso
+(TEV),
+Tromboembolismo arterial (TEA)
+
+Náuseas
+
+Vómitos, Diarrea
+
+Trastornos gastrointestinales
+
+Trastornos de la piel y del tejido subcutáneo
+
+Acné,
+Eczema,
+Prurito, Alopecia
+
+Eritema nudoso, Eritema multiforme
+
+Aumento del tamaño de las mamas, Infección vaginal
+
+Secreción mamaria
+
+Trastornos del aparato reproductor y de la mama
+
+Trastornos menstruales,
+
+Hemorragia intermenstrual,
+
+Dolor mamario,
+Mastalgia,
+Secreción vaginal,
+Candidiasis vulvovaginal
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Retención de líquidos, Aumento de peso,
+Disminución de peso
+
+En mujeres con angioedema hereditario, los estrógenos exógenos pueden inducir o exacerbar los síntomas del angioedema.
+La frecuencia del diagnóstico de cáncer de mama entre usuarias de AOC está aumentada de forma muy ligera. Dado que el cáncer de mama es raro en mujeres menores de 40 años, este aumento es pequeño con relación al riesgo global de cáncer de mama. Se desconoce la causalidad relacionada con el uso de AOC.
+Se  han  notificado  los  siguientes  efectos  adversos  graves  en  mujeres usuarias de AOC:
+• Tromboembolismo venoso;
+• Tromboembolismo arterial;
+• Hipertensión;
+• Tumores hepáticos;
+• Aparición o empeoramiento de cuadros en los que la asociación con un AOC no resulta concluyente: Enfermedad de Crohn, colitis ulcerosa, epilepsia, mioma uterino, porfiria, lupus eritematoso sistémico, herpes gestacional, corea de Sydenham, síndrome hemolítico urémico; ictericia colestática;
+
+• Cloasma;
+• Los trastornos agudos o crónicos de la función hepática pueden necesitar el cese de la toma de AOC hasta que los marcadores de la función hepática retornen a la normalidad.
+
+Notificación de sospecha de notificación de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACION
+
+No se han reportado aún, efectos adversos graves en niños pequeños luego de la ingesta aguda de altas dosis de anticonceptivos orales en general. La sobredosis puede causar náuseas, vómitos y en las mujeres puede ocurrir sangrado por disrupción. Sin embargo, dado que la drospirenona  es  un  análogo  de  la  espironolactona  con  propiedades antimineralocorticoides,  en  caso  de  sobredosis  se  debe  monitorear las concentraciones séricas de potasio y de sodio, y descartar acidosis metabólica.  No  existe  antídoto  específico  y  el  tratamiento  debe  ser sintomático.
+
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital más cercano o comunicarse con los centros de Toxicología (Argentina):
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+Optativamente otros Centros de Intoxicaciones”.
+
+Al igual que todos los anticonceptivos orales, DAMSEL® no brinda ninguna protección contra la infección del HIV (SIDA) o contra otras enfermedades de transmisión sexual.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en el envase original, a temperatura ambiente no mayor a
+30oC.
+Mantener el envase cerrado hasta comenzar a tomar los comprimidos.
+
+En Ecuador:
+Conservar a temperatura no mayor a 30°C. Venta bajo receta médica.
+
+PRESENTACIÓN
+
+Envases  conteniendo  1  blister  con  28  comprimidos  recubiertos  (21 comprimidos amarillos activos + 7 comprimidos blancos inertes).
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Argentina. Tel: 4858-9000. Elaborado por: Gador S.A. en Ruta 8, Km 60, Calle 10,
+
+Parque Industrial Pilar, Buenos Aires, Argentina.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. En Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 52.001. Fecha de última revisión: 07/2024
+
+G00079203-10

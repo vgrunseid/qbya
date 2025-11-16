@@ -1,0 +1,526 @@
+LERCADIP®
+LERCANIDIPINA CLORHIDRATO 10 - 20 mg
+
+Comprimidos recubiertos
+Venta bajo receta. Industria Italiana.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de LERCADIP® 10 contiene:
+Lercanidipina clorhidrato (como Lercanidipina 9,4 mg) ................ 10 mg
+Excipientes:
+Lactosa monohidrato ............................................................ 30,000 mg Celulosa microcristalina ........................................................ 39,000 mg
+Polivinilpirrolidona ................................................................. 4,500 mg Almidón glicolato de sodio .................................................... 15,500 mg
+Estearato de magnesio ............................................................ 1,000 mg Hidroxipropilmetilcelulosa ...................................................... 1,913 mg
+Dióxido de titanio .................................................................... 0,600 mg Talco ......................................................................................... 0,150 mg
+Polietilenglicol 6000 .............................................................. 0,300 mg Oxido férrico ............................................................................ 0,037 mg
+
+Cada comprimido recubierto de LERCADIP® 20 contiene:
+Lercanidipina clorhidrato (como Lercanidipina 18,8 mg) ............. 20 mg
+Excipientes:
+Lactosa monohidrato ............................................................ 60,000 mg Celulosa microcristalina ....................................................... 78,000 mg
+Almidón glicolato sódico ....................................................... 31,000 mg Povidona ................................................................................. 9,000 mg
+Estearato de magnesio ........................................................... 2,000 mg Hipromellosa .......................................................................... 3,826 mg
+Talco ........................................................................................ 0,300 mg Dióxido de titanio .................................................................... 1,200 mg
+Macrogol 6000 ....................................................................... 0,600 mg Oxido de hierro ........................................................................ 0,075 mg
+
+ACCIÓN TERAPÉUTICA
+
+Bloqueante selectivo de los canales de calcio con efectos principalmente vasculares, derivados de dihidropiridinas. Código ATC: C08CA13.
+
+INDICACIONES
+
+LERCADIP® está indicado en adultos para el tratamiento de la hipertensión esencial leve a moderada.
+
+ACCIÓN FARMACOLÓGICA
+
+Mecanismo de acción
+Lercadinipinia es un antagonista del calcio del grupo de las dihidropiridinas que inhibe el flujo de entrada del calcio a través de la membrana al músculo liso y cardíaco. El mecanismo de su acción antihipertensiva se debe a su efecto relajante directo sobre el músculo liso vascular, reduciendo así la resistencia periférica total.
+
+Efectos farmacodinámicos
+A pesar de su corta vida media farmacocinética en plasma, lercanidipina está dotada de una actividad antihipertensiva prolongada debido a su alto coeficiente de reparto en la membrana, y carece de efectos inotrópicos negativos debido a su selectividad vascular.
+Dado que la vasodilatación inducida por lercanidipina tiene un inicio gradual, raramente se ha observado hipotensión aguda con taquicardia refleja en los pacientes hipertensos.
+Al  igual  que  para  otras  1,4-dihidropiridinas  asimétricas,  la  actividad antihipertensiva de la lercanidipina se debe a su enantiómero-(S).
+
+Muchos  ensayos  clínicos  han  sido  llevados  a  cabo  sobre  pacientes con hipertensión esencial de leve a moderada (inlcuyendo pacientes de edad avanzada y diabéticos) que recibieron lercanidipina solo o en combinación con IECAs, diuréticos o beta-bloqueantes. Adicionalmente a los estudios clínicos llevados a cabo para confirmar las indicaciones terapéuticas, un estudio pequeño posterior no controlado pero aleatorio  de  pacientes  con  hipertensión  grave  (presión  arterial  diastólica de 114.5 ± 3.7 mmHg, media ± DE) mostró que la presión arterial se normalizó en el 40% de los 25 pacientes con una única dosis diaria de 20 mg y en el 56% de los 25 pacientes con una dosis de lercanidipina
+10 mg dos veces al día. En un estudio doble-ciego, aleatorio, controlado frente a placebo en pacientes con hipertensión sistólica aislada, lercanidipina 10 mg fue eficaz haciendo disminuir la presión arterial sistólica de valores medios iniciales de 172.6 ± 5.6 mmHg a 140.2 ±
+8.7 mmHg.
+No se han llevado a cabo ensayos clínicos sobre población pediátrica.
+
+Farmacocinética
+
+Absorción
+LERCADIP® se absorbe completamente después de la administración oral de 10-20 mg y las concentraciones plasmáticas máximas, 3.30 ng/ml ± 2.09 d.e. y 7.66 ng/ml ± 5.90 d.e. respectivamente, se producen  aproximadamente  1.5-3  horas  después  de  la  administración de  la  dosis.  Los  dos  enantiómeros  de  lercanidipina  muestran  un perfil de concentraciones plasmáticas similar: el tiempo hasta el pico de  concentración  plasmática  es  el  mismo,  el  pico  de  concentración plasmática y AUC son, como promedio, 1,2 veces más altas para el enantiómero (S) y las vidas medias de eliminación de los dos enantiómeros son esencialmente las mismas. No se observó interconversión de enantiómeros in vivo.  Debido al alto metabolismo de primer paso, la biodisponibilidad absoluta de LERCADIP® administrado oralmente a pacientes que hayan comido es de alrededor de un 10%, aunque se reduce a 1/3 cuando se administra a pacientes en condiciones de ayuno. La disponibilidad oral de lercanidipina aumenta cuatro veces cuando LERCADIP® se ingiere hasta dos horas después de una comida rica en grasas. Por lo tanto, LERCADIP® debe tomarse antes de las comidas.
+
+Distribución
+La distribución desde el plasma a los tejidos y órganos es rápida y amplia.
+El grado de fijación a las proteínas plasmáticas de lercanidipina excede el  98  %.  Debido  a  que  las  concentraciones  de  proteínas  plasmáticas están reducidas en pacientes con disfunción hepática o renal grave, la fracción libre del medicamento puede incrementarse.
+
+Biotransformación
+LERCADIP® se metaboliza extensamente mediante CYP3A4; no encontrándose vestigio alguno del fármaco en orina o en heces. LERCADIP® se transforma predominantemente en metabolitos inactivos y alrededor de un 50% de la dosis se excreta por la orina.
+Estudios in vitro con microsomas hepáticos humanos han demostrado que lercanidipina presenta cierto grado de inhibición de los enzimas CYP3A4 y CYP2D6, a concentraciones 160 y 40 veces, respectivamente, más altas que las alcanzadas con los niveles plasmáticos máximos tras la administración de la dosis de 20 mg.
+Además, estudios de interacción en humanos han mostrado que lercanidipina  no  modifica  los  niveles  plasmáticos  de  midazolam,  sustrato del CYP3A4 o de metoprolol, sustrato de CYP2D6. Por lo tanto, no es previsible que se produzca inhibición de la biotransformación de los fármacos  metabolizados  por  medio  de  CYP3A4  y  CYP2D6  a  la  dosis terapéutica de LERCADIP®.
+
+Eficacia clínica y seguridad
+La eficacia y seguridad clínica a dosis únicas diarias de 10-20 mg, ha sido  evaluada  en  ensayos  clínicos  doble  ciego,  placebo-control  (con 1200  pacientes  recibiendo  lercanidipina  y  603  pacientes  recibiendo placebo), y en ensayos clínicos a largo plazo con controles activos e incontrolados, sobre un total de 3676 pacientes hipertensos.
+
+Eliminación
+La eliminación se produce esencialmente por biotransformación.
+Se ha determinado que la vida media terminal es de 8 a 10 horas y la actividad terapéutica se prolonga 24 horas debido a su elevada afinidad por la membrana lipídica. No se ha observado acumulación alguna después de administraciones repetidas.
+
+Linealidad/no-linealidad
+La administración oral de LERCADIP® conduce a concentraciones plasmáticas  de  lercanidipina  que  no  son  directamente  proporcionales  a  la dosis (cinética no lineal). Después de 10, 20 ó 40 mg, las concentraciones plasmáticas máximas observadas estuvieron en la proporción 1 : 3 : 8 y las áreas bajo las curvas de concentración plasmática-tiempo estuvieron en la proporción 1 : 4 : 18, lo que sugiere una saturación progresiva del metabolismo de primer paso. Según esto la disponibilidad aumenta con el incremento de la dosis.
+
+Información adicional sobre poblaciones especiales En  pacientes  ancianos  y  en  pacientes  con  una  disfunción  renal  leve-moderada o deterioro hepático leve-moderado, el comportamiento farmacocinético de lercanidipina fue similar al observado en el resto de los pacientes; los pacientes con disfunción renal grave o dependientes de diálisis mostraron niveles más altos (alrededor del 70%) de medicamento. En pacientes con deterioro hepático moderado o grave, la biodisponibilidad sistémica de lercanidipina es probable que aumente ya que el fármaco se metaboliza normalmente en el hígado en gran medida.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+Posología
+La dosis recomendada es un comprimido de LERCADIP® de 10 mg, una vez al día, por lo menos 15 minutos antes de las comidas; la dosis puede incrementarse a 20 mg dependiendo de la respuesta individual del paciente.
+El aumento de la dosis debe ser gradual ya que el máximo efecto antihipertensivo se obtiene al cabo de 2 semanas de comenzado el tratamiento. Algunos individuos no controlados adecuadamente con un solo agente antihipertensivo pueden beneficiarse de la adición de Lercanidipina a la terapia con un medicamento betabloqueante adrenérgico (atenolol), un diurético hidroclorotiazida) o inhibidor de la enzima convertidora de angiotensina (captopril o enalapril).
+Debido a que la curva dosis-respuesta es escalonada, con una meseta entre las dosis 20-30 mg, es poco probable que la eficacia aumente a dosis más altas, mientras que los efectos secundarios pueden incrementarse.
+
+Modo de administración
+Precauciones  que  deben  tomarse  antes  de  manipular  o  administrar este medicamento:
+•  El tratamiento debe ser administrado preferiblemente por la mañana, al menos 15 minutos antes de las comidas.
+
+•  Este medicamento no debe ser administrado con jugo de pomelo.
+
+Posología en poblaciones especiales
+Población  de  edad  avanzada:  si  bien  los  datos  farmacocinéticos  y  la experiencia  clínica  sugieren  que  no  se  requiere  hacer  ajustes  en  la dosificación diaria, se debe tener especial cuidado cuando se inicia el tratamiento en pacientes ancianos.
+Población pediátrica: no se ha establecido la seguridad y la eficacia de Lercanidipina en niños menores de 18 años. No se dispone de datos.
+Pacientes con disfunción renal o hepática: se debe tener especial cuidado al iniciar el tratamiento en pacientes con disfunción renal o hepática leve o moderada. Si bien la posología comúnmente recomendada puede ser tolerada por estos subgrupos, se debe tener precaución al aumentar la dosis a 20 mg al día. El efecto antihipertensivo puede incrementarse en pacientes con insuficiencia hepática y, en consecuencia, debe considerarse un ajuste de la dosis.
+LERCADIP®  está  contraindicado  en  pacientes  con  disfunción  hepática grave o en pacientes con disfunción renal grave (aclaramiento de creatinina < 30 ml/min) incluyendo pacientes que se estén sometiendo a diálisis.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a alguno de los excipientes incluidos  en  su  formulación.  Pacientes  con  obstrucción  del  tracto  de  salida del  ventrículo  izquierdo,  insuficiencia  cardíaca  congestiva  no  tratada, angina de pecho inestable, Infarto de miocardio reciente (durante el mes anterior). Pacientes con insuficiencia hepática severa,  insuficiencia renal severa (filtración glomerular < 30 ml/min) incluidos pacientes sometidos a dialisis. Co-administración con inhibidores potentes de CYP3A4, ciclosporina, pomelo ojugo de pomelo. (ver Interacciones farmacológicas).
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Patología del nódulo sinusal
+Lercanidipina se debe administrar con precaución a pacientes con enfermedad del nódulo sinusal (sin marcapasos).
+
+Disfunción del ventrículo izquierdo
+Si bien estudios hemodinámicos controlados revelaron la ausencia de alteraciones en la función ventricular, se requiere tener cuidado en pacientes con disfunción del ventrículo izquierdo.
+
+Enfermedad isquémica coronaria
+Se ha sugerido que algunas dihidropiridinas de vida media corta pueden  estar  asociadas  a  un  riesgo  cardiovascular  elevado  en  pacientes con  enfermedad  isquémica  coronaria.  Aunque  lercanidipina  es  una dihidropiridina  con  larga  duración  de  acción,  también  se  debe  tener precaución con este tipo de pacientes.
+Algunas dihidropiridinas pueden, raramente, producir dolor precordial o  angina  de  pecho.  Muy  raramente,  pacientes  con  angina  de  pecho preexistente pueden experimentar aumento de la frecuencia, duración o  gravedad  de  estos  ataques.  Se  pueden  observar  casos  aislados  de infarto de miocardio (ver Reacciones adversas).
+
+Uso en pacientes con insuficiencia renal o hepática Se debe tener especial cuidado al iniciar el tratamiento en pacientes con insuficiencia renal leve o moderada. Si bien la posología comúnmente recomendada de 10 mg diarios puede ser tolerada, se debe tener  precaución  al  aumentar  la  dosis  a  20  mg  al  día.  El  efecto  antihipertensivo  puede  incrementarse  en  pacientes  con  insuficiencia hepática moderada y, en consecuencia, debe considerarse un ajuste de la dosis.
+Lercanidipidina está contraindicada en pacientes con insuficiencia hepática grave o insuficiencia renal grave (GFR < 30 ml/min), incluidos pacientes sometidos a hemodiálisis. (ver Posología y Contraindicaciones).
+
+Diálisis peritoneal
+Lercanidipina se ha asociado al desarrollo de efluyente peritoneal turbio en pacientes sometidos a diálisis peritoneal. La turbidez se debe a un aumento en la concentración de triglicéridos en el efluyente peritoneal. Aunque el mecanismo se desconoce, la turbidez tiende a resolverse poco tiempo después de la retirada de lercanidipina. Se trata de una asociación importante que se debe tener en cuenta, ya que el efluyente peritoneal turbio se puede confundir con peritonitis infecciosa, lo que puede dar lugar a una hospitalización innecesaria y a la administración provisional de antibióticos.
+
+Inductores de CYP3A4
+Los inductores de CYP3A4 tales como los anticonvulsivantes (ej: fenitoína, carbamazepina) y rifampicina pueden reducir los niveles de lercanidipina en plasma y por consiguiente, la eficacia de lercanidipina puede ser menor de la esperada (ver Interacciones farmacológicas).
+
+Alcohol
+Se  debe  evitar  el  consumo  de  alcohol,  dado  que  puede  potenciar  el efecto  de  los  medicamentos  antihipertensivos  vasodilatadores  (ver
+Interacciones farmacológicas).
+
+Lactosa
+Este  medicamento  contiene  lactosa.  Los  pacientes  con  intolerancia hereditaria  a  galactosa,  deficiencia  total  de  lactasa  o  problemas  de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+Manejo de vehículos y utilización de máquinas La  influencia  de  Lercanidipina  sobre  la  capacidad  de  conducir  o  usar maquinaria  es  pequeña.  Sin  embargo,  se  debe  tener  precaución  ya que puede producir mareos, astenia, fatiga y raramente somnolencia.
+
+Carcinogénesis, mutagénesis y trastornos de fertilidad Los datos preclínicos no mostraron riesgos especiales para los humanos  según  los  estudios  convencionales  de  seguridad  farmacológica, toxicidad  a  dosis  repetidas,  genotoxicidad,  potencial  carcinogénico  y toxicidad en la reproducción.
+Los estudios farmacológicos de seguridad en animales no mostraron efectos sobre el sistema nervioso autónomo, el sistema nervioso central ni sobre la función gastrointestinal a dosis antihipertensivas.
+Los  efectos  más  relevantes  que  se  han  observado  en  los  estudios  a largo plazo realizados en ratas y perros estaban relacionados, directa o indirectamente, con los efectos conocidos de las dosis elevadas de antagonistas del calcio, reflejando sobre todo una actividad farmacodinámica exagerada.
+Lercanidipina  no  fue  genotóxica  y  no  mostró  evidencia  de  potencial carcinogénico.
+La fertilidad y el funcionamiento reproductivo general en ratas no se vieron afectados por el tratamiento con lercanidipina.
+No  hubo  evidencia  de  efectos  teratogénicos  en  ratas  y  conejos;  sin embargo en las ratas las dosis más elevadas de lercanidipina indujeron pérdidas de pre y post-implantación y un retraso en el desarrollo fetal.
+
+El hidrocloruro de lercanidipina administrado a dosis elevadas (12 mg/ kg/día) durante el parto produjo distocia.
+No se ha investigado la distribución de lercanidipina y/o sus metabolitos en animales gestantes ni su excreción a la leche materna.
+Los metabolitos no han sido valorados de forma separada en los estudios de toxicidad.
+
+Pomelo o jugo de pomelo
+Como  para  otras  dihidropiridinas,  lercanidipina  es  sensible  a  la  inhibición del metabolismo por el pomelo o el jugo de pomelo, con una consiguiente elevación en su disponibilidad sistémica y un aumento de su efecto hipotensor. Lercanidipina no debería tomarse con pomelo o jugo de pomelo (ver contraindicaciones).
+
+Fertilidad, embarazo y lactancia
+
+Uso concomitante no recomendado
+
+Embarazo
+No hay datos relativos al uso de lercanidipina en mujeres embarazadas. Los estudios realizados en animales no han demostrado efectos teratogénicos, aunque estos se han observado con otros compuestos de  dihidropiridina.  No  se  recomienda  tomar  lercanidipina  durante  el embarazo, ni en mujeres en edad fértil que no estén utilizando métodos anticonceptivos.
+
+Lactancia
+Se desconoce si lercanidipina o sus metabolitos se excretan en la leche materna. No se puede excluir un riesgo en recién nacidos o bebés. Lercanidipina no debe utilizarse durante la lactancia.
+
+Fertilidad
+No  hay  datos  clínicos  disponibles  con  lercanidipina.  En  algunos  pacientes tratados con bloqueantes de los canales del calcio se han comunicado casos de cambios bioquímicos reversibles en la cabeza de los espermatozoides que pueden dificultar la fecundación. En aquellos casos donde la fecundación in-vitro ha fallado de forma repetida y donde no se ha encontrado otra explicación posible, debe considerarse la posibilidad de que la causa sea el tratamiento con bloqueantes de los canales del calcio.
+
+Población de edad avanzada
+Si bien los datos farmacocinéticos y la experiencia clínica sugieren que no se requiere hacer ajustes en la dosificación diaria, se debe tener especial cuidado cuando se inicia el tratamiento en pacientes ancianos.
+
+Población pediátrica
+No se ha establecido la seguridad y la eficacia de Lercanidipina en niños menores de 18 años.
+
+Pacientes con disfunción renal o hepática Se debe tener especial cuidado al iniciar el tratamiento en pacientes con disfunción renal o hepática leve o moderada. Si bien la posología comúnmente recomendada puede ser tolerada por estos subgrupos, se debe tener precaución al aumentar la dosis a 20 mg al día. El efecto antihipertensivo puede incrementarse en pacientes con insuficiencia hepática  moderada  y,  en  consecuencia,  debe  considerarse  un  ajuste de la dosis.
+LERCADIP® está contraindicado en pacientes con disfunción hepática grave o en pacientes con disfunción renal grave (aclaramiento de creatinina <30 ml/min) incluyendo pacientes que se estén sometiendo a diálisis.
+
+INTERACCIONES FARMACOLÓGICAS
+
+Contraindicaciones de uso concomitante
+Inhibidores de CYP3A4
+Lercanidipina  se  metaboliza  mediante  la  enzima  CYP3A4  y,  por consiguiente, los inhibidores de esta enzima administrados junto a lercanidipina pueden interaccionar en su metabolismo y eliminación.
+Un estudio de interacción con un inhibidor potente de CYP3A4, ketoconazol, ha demostrado un incremento considerable en la concentración en plasma de lercanidipina (un incremento 15 veces superior en la AUC y 8 veces superior en la Cmáx para el eutómero S-lercanidipina).
+Debe  evitarse  la  co-prescripción  de  lercanidipina  con  inhibidores  de CYP3A4 (p.ej. ketoconazol, itraconazol, ritonavir, eritromicina, troleandomicina, claritromicina).
+
+Ciclosporina
+Se han observado niveles de plasma incrementados tanto para lercanidipina como para ciclosporina cuando se administran concomitantemente. Un estudio en jóvenes voluntarios sanos ha demostrado que, cuando la ciclosporina se administró 3 horas después de lercanidipina, los niveles plasmáticos de lercanidipina no variaban, mientras que la AUC de ciclosporina se incrementó en un 27%. Sin embargo, la co-administración de lercanidipina con ciclosporina causó un incremento 3 veces superior de los niveles en plasma de lercanidipina y un incremento de un 21% en la AUC de ciclosporina. Ciclosporina y lercanidipina no deberían administrarse juntos.
+
+Inductores de CYP3A4
+La  administración  concomitante  de  lercanidipina  con  inductores  de CYP3A4  tales  como  anticonvulsivantes  (p.ej.  fenitoína,  fenobarbital, carbamazepina) y rifampicina, se realizará con precaución dado que el efecto antihipertensivo puede reducirse y la presión arterial debería ser controlada más frecuentemente de lo habitual.
+
+Alcohol
+Se  debe  evitar  el  consumo  de  alcohol,  dado  que  puede  potenciar  el efecto de los medicamentos antihipertensivos vasodilatadores.
+
+Precauciones, incluido el ajuste de dosis
+
+Sustratos del CYP3A4
+Se  deberá  tener  precaución  al  prescribir  lercanidipina  conjuntamente con otros sustratos del CYP3A4, tales como terfenadina, astemizol, medicamentos antiarrítmicos clase III como amiodarona, quinidina o sotatol.
+
+Midazolam
+Cuando  se  administró  a  una  dosis  de  20  mg  concomitantemente  con midazolam por vía oral a voluntarios ancianos, la absorción de lercanidipina se incrementó (en un 40%) y la tasa de absorción descendió (tmáx se retrasó de 1,75 a 3 horas). Las concentraciones de midazolam no variaron.
+
+Metoprolol
+Cuando  se  administró  lercanidipina  conjuntamente  con  metoprolol, un betabloqueante eliminado principalmente por vía hepática, la biodisponibilidad del metoprolol no se vio modificada mientras que la de lercanidipina se redujo en un 50%. Este efecto puede ser debido a la reducción en el flujo sanguíneo hepático causado por betabloqueantes y por lo tanto puede ocurrir con otros medicamentos de esta clase. En consecuencia, lercanidipina puede administrarse de forma segura con fármacos bloqueantes de receptores β-adrenérgicos, pero se requerirá un ajuste de la dosis.
+
+Digoxina
+La administración simultánea de 20 mg de lercanidipina en pacientes tratados  crónicamente  con  ß-metildigoxina  no  mostró  evidencia  de interacción  farmacocinética.  Sin  embargo,  se  observó  un  incremento medio en la Cmáx de un 33% de digoxina, mientras que la AUC y el aclaramiento renal no se modificaron sustancialmente. Debe hacerse un seguimiento riguroso de los pacientes en tratamiento concomitante con digoxina para controlar los signos de toxicidad por digoxina.
+
+Uso concomitante con otros medicamentos
+
+Fluoxetina
+Un  estudio  de  interacción  con  fluoxetina  (inhibidor  del  CYP2D6  y CYP3A4) llevado a cabo en voluntarios sanos dentro del rango 65 ± 7 años (media ± d.e.) ha demostrado una modificación clínicamente no relevante en la farmacocinética de lercanidipina.
+
+Cimetidina
+La administración conjunta de 800 mg diarios de cimetidina no causa modificaciones  significativas  de  los  niveles  plasmáticos  de  lercanidipina,  si  bien  se  requiere  precaución  a  dosis  más  elevadas,  ya  que pueden incrementarse la biodisponibilidad y el efecto hipotensor de lercanidipina.
+
+Simvastatina
+Cuando  se  administra  simultáneamente  y  repetidamente  20  mg  de lercanidipina con 40 mg de simvastatina, la AUC de lercanidipina no se modifica significativamente, mientras que la AUC de simvastatina se incrementa un 56% y para su metabolito activo ß-hidroxiacido en un 28%. Es improbable que tales cambios sean clínicamente relevantes.
+No  se  espera  interacción  cuando  lercanidipina  se  administra  por  la mañana y la simvastatina por la noche, tal y como está indicado para tales medicamentos.
+
+Warfarina
+La coadministración de lercanidipina 20 mg. en voluntarios sanos administrada en ayunas no altera la farmacocinética de Warfarina.
+
+Diuréticos e inhibidores ECA
+Lercanidipina ha sido administrado de forma segura con diuréticos e inhibidores ECA.
+
+Otros medicamentos que afectan a la presión arterial Al igual que sucede con los medicamentos antihipertensivos, se puede observar un aumento de los efectos hipotensivos al administrar lercanidipina con otros medicamentos que afectan a la presión arterial, como los alfabloqueantes para el tratamiento de síntomas urinarios, antidepresivos tricíclicos, neurolépticos. Por el contrario, se puede observar una reducción del efecto hipotensor al utilizar de forma concomitante corticosteroides.
+
+REACCIONES ADVERSAS
+
+Resumen del perfil de seguridad
+La seguridad de lercanidipina con dosis de 10-20 mg una vez al día se ha evaluado en ensayos clínicos doble ciego controlados con placebo
+
+(1200 pacientes que recibieron lercanidipina y 603 pacientes que recibieron placebo) y en ensayos clínicos controlados y no controlados a largo plazo en un total de 3676 pacientes hipertensos que recibieron lercanidipina.
+Las  reacciones  adversas  más  frecuentes  en  los  ensayos  clínicos  y  en la experiencia después de la comercialización son: edema periférico, cefalea, rubefacción, taquicardia y palpitaciones.
+
+Tabla de reacciones adversas
+En la tabla siguiente se detallan las reacciones adversas reportadas en los ensayos clínicos y la experiencia después de la comercialización en todo el mundo, en las cuales existe una relación causal razonable, son agrupadas según la clasificación de Órganos del Sistema MedDRA y clasificadas por frecuencia: muy frecuentes (≥ 1/10); frecuentes (≥ 1/100 a <1/10); poco frecuentes (≥ 1/1.000 a <1/100); raras (≥ 1/10.000 a
+<1/1.000) ; muy raras (<1/10.000) y frecuencia no conocida (no puede estimarse a partir de los datos disponibles). Dentro de cada frecuencia se agrupan las reacciones en orden decreciente de gravedad.
+
+Frecuente
+
+Poco frecuente
+
+Rara
+
+No conocida
+
+Cefalea
+
+Mareo
+
+Hipersensibilidad
+
+Somnolencia
+Sincope
+
+Angina de pecho
+
+Hipotensión
+
+Dispepsia
+Náuseas
+Dolor en la zona superior del abdomen
+
+Vómitos
+Diarrea
+
+Erupción
+Prurito
+
+Mialgia
+
+Poliuria
+
+Astenia
+Fatiga
+
+Urticaria
+
+Polaquiuria
+
+Dolor torácico
+
+Hipertrofia gingival(1)
+Efluyente peritoneal turbio(1)
+
+Transaminasa elevada(1)
+
+Angioedema(1)
+
+Clasificación de MedDRA por órganos y sistemas
+
+Trastornos del sistema inmunológico
+
+Trastornos del sistema nervioso
+
+Trastornos cardiacos
+
+Trastornos vasculares
+
+Trastornos gastrointestinales
+
+Trastornos hepatobiliares
+
+Trastornos de la piel y del tejido subcutáneo
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Trastornos renales y urinarios
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Taquicardia
+Palpitaciones
+
+Rubefacción
+
+Edema periférico
+
+(1) Reacciones adversas a partir de notificaciones espontáneas durante la experiencia después de la comercialización en todo el mundo.
+
+Descripción de reacciones adversas específicas En los ensayos clínicos controlados con placebo, la incidencia del edema periférico fue del 0,9% con 10-20 mg de lercanidipina y del 0,83% con placebo. Esta frecuencia alcanzó el 2% en la población global del estudio, incluidos los ensayos clínicos a largo plazo.
+Lercanidipina no parece influir de forma adversa en los niveles de azúcar en sangre o niveles de lípidos séricos.
+Rara vez, algunas dihidropiridinas pueden dar lugar a dolor precordial o  angina  de  pecho.  Muy  raramente,  pacientes  con  angina  de  pecho pre-existente pueden experimentar incremento de la frecuencia, duración o gravedad de estos ataques. Se pueden observar casos aislados de infarto de miocardio.
+
+Notificación de sospecha de reacciones adversas
+Es  importante  notificar  la  sospecha  de  reacciones  adversas  al  medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema  Nacional  de  Farmacovigilancia  al  siguiente  link:  https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de GADOR S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACIÓN
+
+Después de la comercialización de lercanidipina, se han reportado algunos casos de sobredosis con dosis comprendidas entre 30-40 y 800 mg, incluidos informes de intento de suicidio.
+
+Síntomas
+Al igual que con otras dihidropiridinas, una sobredosis de lercanidipina puede provocar una dilatación vascular periférica excesiva y taquicardia refleja. Sin embargo, con dosis muy elevadas, la selectividad periférica
+
+podría perderse, provocando bradicardia y un efecto inotrópico negativo. Las reacciones adversas más frecuentes asociadas a los casos de sobredosis son hipotensión, mareo, cefalea y palpitaciones.
+
+Tratamiento
+Los  casos  de  hipotensión  clínicamente  significativa  requieren  apoyo cardiovascular  activo,  como  supervisión  frecuente  de  la  función  respiratoria y cardiaca, elevación de las extremidades y atención al volumen de líquidos en circulación y volumen de orina. En vista del efecto farmacológico prolongado de lercanidipina, es esencial que el estado cardiovascular  del  paciente  se  supervise  durante  al  menos  24  horas.
+Debido a los elevados niveles de fijación de proteínas del fármaco, la diálisis podría no resultar efectiva. Es previsible que los pacientes que hayan sufrido sobredosis de moderada a grave se deban mantener en observación en entornos de cuidados intensivos.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Mantener en lugar seco y fresco a temperatura inferior a 30°C.
+
+PRESENTACIÓN
+
+LERCADIP® 10: Envases conteniendo 30 y 60 comprimidos recubiertos.
+LERCADIP® 20: Envases conteniendo 30 y 60 comprimidos recubiertos.
+
+Información para el paciente
+
+Composición
+Cada comprimido recubierto de LERCADIP® 10 contiene:
+Lercanidipina clorhidrato (como Lercanidipina 9,4 mg) ............ 10 mg
+Excipientes:
+Lactosa monohidrato ......................................................... 30,000 mg Celulosa microcristalina ....................................................  39,000 mg
+Polivinilpirrolidona ........................................... ................... 4,500 mg Almidón glicolato de sodio .................................................  15,500 mg
+Estearato de magnesio .........................................................  1,000 mg Hidroxipropilmetilcelulosa .................................................. 1,913 mg
+Dióxido de titanio ................................................. ................ 0,600 mg Talco ...................................................................................... 0,150 mg
+Polietilenglicol 6000 ........................................... ................ 0,300 mg Oxido férrico ........................................................................ . 0,037 mg
+
+Cada comprimido recubierto de LERCADIP® 20 contiene:
+Lercanidipina clorhidrato (como Lercanidipina 18,8 mg) .......... 20 mg
+Excipientes:
+Lactosa monohidrato .........................................................  60,000 mg Celulosa microcristalina ................................... ................. 78,000 mg
+Almidón glicolato sódico .................................................... 31,000 mg Povidona ..............................................................................  9,000 mg
+Estearato de magnesio ........................................................ 2,000 mg Hipromellosa ................................................... .................... 3,826 mg
+Talco .................................................................. ................... 0,300 mg Dióxido de titanio ................................................................. 1,200 mg
+Macrogol 6000 .................................................................... 0,600 mg Oxido de hierro .................................................. ................... 0,075 mg
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+¿Qué es LERCADIP® y para que se utiliza?
+Lercanidipina  clorohidrato  pertenece  al  grupo  de  medicamentos llamados bloqueantes de los canales del calcio (del grupo de las dihidropiridinas) que bajan la tensión arterial.
+LERCADIP® se utiliza para el tratamiento de la tensión arterial elevada, también conocida como hipertensión arterial en adultos mayores de 18 años (no está recomendado para niños menores de 18 años de edad).
+
+¿Qué es lo que debo saber antes de tomar LERCADIP® y durante el tratamiento?
+
+No tome LERCADIP®
+•  Si es alérgico (hipersensible) a lercanidipina clorohidrato o a cualquiera de los demás componentes de LERCADIP®.
+
+•  Si padece enfermedades del corazón tales como: obstrucción del flujo  sanguíneo  de  salida  del  corazón,  insuficiencia  cardíaca  no controlada, angina de pecho inestable (malestar torácico en reposo o progresivamente creciente) y durante el primer mes después de sufrir un infarto de miocardio.
+
+•  Si padece problemas de hígado graves.
+•  Si padece problemas de riñón graves o se está sometiendo a diálisis.
+•  Si está tomando ciertos medicamentos como inhibidores del metabolismo hepático como: antifúngicos (tales como ketoconazol o itraconazol), antibióticos macrólidos (tales como eritromicina, troleandomicina o claritromicina), antivirales (tales como ritonavir).
+•  Si está tomando otros medicamentos conteniendo ciclosporina (utilizada después de un trasplante para prevenir el rechazo de órganos).
+
+•  Con pomelo o jugo de pomelo.
+
+¿Qué debo informar a mi médico antes de tomar LERCADIP®?
+Antes de tomar LERCADIP® dígale a su médico:
+•  Si tiene un problema de corazón.
+
+•  Si tiene problemas de hígado o riñón.
+•  Si está embarazada o planea estarlo.
+•  Si está amantando (dándole el pecho a su bebé).
+•  Si  es  menor  de  18  años,  ya  que  la  seguridad  y  la  eficacia  de
+
+LERCADIP® no ha sido demostrada en menores de 18 años.
+
+¿Puedo tomar LERCADIP® con otros medicamentos?
+Informe a su médico acerca de todos los medicamentos que toma.
+Ello incluye:
+•  Medicamentos bajo receta, medicamentos de venta libre y suplementos a base de hierbas.
+
+Al  combinar  LERCADIP®  con  otros  medicamentos,  el  efecto  del mismo o del otro medicamento podría variar o podría aumentar la frecuencia de determinados efectos adversos.
+Informe  a  su  médico  si  está  tomando  cualquiera  de  los  siguientes medicamentos:
+•  Fenitoína,  fenobarbital  o  carbamazepina  (medicamentos  para
+
+tratar la epilepsia).
+
+•  Rifampicina (medicamento para el tratamiento de la tuberculosis).
+•  Astemizol o terfenadina (medicamentos para la alergia).
+•  Amiodarona, quinidina o sotalol (medicamentos para el tratamiento de alteraciones del ritmo cardíaco).
+
+•  Midazolam (medicamento para ayudarle a dormir).
+•  Digoxina (medicamento para el tratamiento de problemas de corazón)
+•  betabloqueantes como metoprolol (un medicamento para el tratamiento de la tensión arterial elevada, insuficiencia cardíaca y ritmo cardíaco anormal o arritmias).
+
+•  Cimetidina  (más  de  800  mg,  un  medicamento  para  las  úlceras,
+
+indigestiones o ardores).
+
+•  Simvastatina (un medicamento para disminuir los niveles de colesterol sanguíneos).
+
+•  Otros medicamentos para tratar la tensión arterial elevada.
+
+Toma de LERCADIP® con alimentos, bebidas y alcohol
+•  Las comidas ricas en grasa aumentan considerablemente la concentración del medicamento en la sangre.
+
+•  El alcohol puede incrementar el efecto de LERCADIP®. No consuma
+
+alcohol durante el tratamiento con lercanidipina.
+
+•  LERCADIP® no se debe tomar con pomelo o jugo de pomelo ya que
+
+puede aumentar el efecto hipotensor.
+
+Embarazo, lactancia y fertilidad
+No es recomendable que tome LERCADIP® si está embarazada y no debe  ser  tomado  durante  la  lactancia.  No  hay  datos  de  la  toma  de lercanidipina en mujeres embarazadas y en periodo de lactancia. Si usted está embarazada o en periodo de lactancia, si no está usando un método anticonceptivo eficaz, cree que podría estar embarazada o tiene la intención de quedarse embarazada, consulte a su médico antes de tomar este medicamento.
+
+Conducción y uso de máquinas
+Si sufre mareos, debilidad o adormecimiento al tomar este medicamento, no conduzca vehículos ni use máquinas.
+
+LERCADIP® contiene lactosa
+Si  su  médico  le  ha  indicado  que  padece  una  intolerancia  a  ciertos azúcares consulte con él antes de tomar este medicamento. Este medicamento contiene almidón gluconato de sodio.
+
+¿Como debo tomar LERCADIP®?
+La vía de administración de este medicamento es oral.
+Tome LERCADIP® exactamente como se lo indicó su médico, a la misma hora cada día, preferiblemente por las mañanas y al menos 15 minutos antes de las comidas.
+Las comidas ricas en grasa aumentan considerablemente la concentración del medicamento en la sangre.
+Los comprimidos deben ser ingeridos enteros con ayuda de un poco de agua.
+No consuma alcohol, jugo de pomelo o pomelo mientras se encuentra en tratamiento con LERCADIP®.
+No cambie sus dosis como así tampoco suspenda la administración de LERCADIP® sin consultar primero con su médico.
+
+Siga exactamente las instrucciones de administración de este medicamento indicadas por su médico.
+En caso de duda consulte a su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+Si ha tomado más LERCADIP® del que le han indicado, hable con un médico o acuda al hospital inmediatamente con los comprimidos y este prospecto.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros centros de intoxicaciones”.
+
+Tomar una dosis superior a la dosis correcta puede provocar una bajada excesiva de la tensión arterial y que los latidos del corazón se tornen irregulares y más rápidos.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si deja de tomar una dosis, tómela tan pronto como lo recuerde. Luego, continúe al día siguiente como el médico le había indicado. No tome una dosis doble para compensar las dosis olvidadas. Siempre consulte a su médico.
+
+Si interrumpe el tratamiento con LERCADIP® Si deja de tomar lercanidipina su presión arterial aumentará de nuevo. Consulte con su médico antes de interrumpir el tratamiento. Si tiene alguna pregunta sobre el uso de este medicamento, consulte con su médico.
+
+¿Cuáles son los efectos adversos que puede tener LERCADIP®?
+Al  igual  que  todos  los  medicamentos,  LERCADIP®  puede  producir efectos adversos, aunque no todas las personas los sufran.
+Algunos de estos efectos adversos pueden ser graves. Si sufre cualquiera de estos efectos adversos, consulte a su médico:
+•  Angina de pecho (opresión del pecho debido a la falta de sangre en su corazón), reacciones alérgicas (con síntomas como picazón, sarpullido y urticaria) y desmayo.
+
+Los  pacientes  con  angina  de  pecho  preexistente  pueden  sufrir  un aumento en la frecuencia, duración o gravedad de estos ataques con
+
+los  medicamentos  del  grupo  al  que  pertenece  LERCADIP®.  Se  han observado casos aislados de ataques al corazón.
+Otros efectos adversos posibles son:
+Frecuentes: dolor de cabeza, incremento del ritmo cardíaco o palpitaciones (latidos fuertes o acelerados), enrojecimiento súbito de la cara, cuello o parte superior del pecho, hinchazón de los tobillos.
+Poco frecuentes: mareos, caída de la presión arterial, ardor de estómago, malestar, dolor de estómago, erupción en la piel, picazón o prurito, dolor muscular, aumento de la cantidad de orina, debilidad o cansancio.
+Raros:  somnolencia,  vómitos,  diarrea,  urticaria,  aumento  en  la  frecuencia urinaria, dolor torácico.
+Frecuencia que no puede estimarse a partir de los datos disponibles:
+hinchazón de las encías, cambios en la función hepática (detectada en análisis sanguíneos), líquido turbio (al realizar la diálisis peritoneal a través de un tubo al interior del abdomen), hinchazón de la cara, labios, lengua o garganta que pueda provocar dificultades al respirar o tragar.
+
+Comunicación de efectos adversos
+Si  experimenta  cualquier  tipo  de  efecto  no  deseado,  consulte  a  su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto. También puede comunicarse al Departamento de Farmacovigilancia GADOR S.A, teléfono 0800-220-2273 o a farmacovigilancia@gador.com.
+
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la Página Web de la ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes,  o  llamar  a
+ANMAT responde al 0800-333-1234”.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico actual.  No lo recomiende a otras personas”.
+
+Conservación de LERCADIP®
+Mantener en lugar fresco y seco a temperatura inferior a 30°C.
+
+Presentaciones
+LERCADIP® 10: Envases conteniendo 30 y 60 comprimidos recubiertos.
+LERCADIP® 20: Envases conteniendo 30 y 60 comprimidos recubiertos.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Bajo licencia de Recordati S.p.A. Milán, Italia. Elaborado en Via Matteo Civitali 1, 20148, Milán, Italia.
+
+Acondicionado, distribuido y comercializado por Gador S.A. Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas. E.M.A.M.S. Certificado N° 46.780.
+
+Fecha de última revisión: 04/2022
+
+G00078202-09

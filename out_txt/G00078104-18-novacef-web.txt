@@ -1,0 +1,442 @@
+NOVACEF®
+CEFIXIMA 400 mg
+
+Comprimidos recubiertos.
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto contiene:
+Cefixima..................................................................................400,00 mg
+Excipientes:
+Celulosa microcristalina ....................................................... 252,06 mg Fosfato Bicalcico .................................................................... 215,46 mg
+Almidón de maíz ............................................................................65 mg Dióxido de silicio coloidal ..........................................................2,48 mg
+Estearato de magnesio..................................................................30 mg Croscarmelosa sódica ...................................................................20 mg
+Talco ................................................................................................ 15 mg Opadry YS-1-7003 blanco ............................................................... 5 mg
+
+ACCIÓN TERAPÉUTICA
+
+Es posible iniciar el tratamiento antes de conocer los estudios para evaluar la susceptibilidad de la cefixima a los organismos causales, pero siempre  luego  de  obtener  las  muestras  correspondientes.  Posteriormente, si fuese necesario, se realizarán los ajustes correspondientes.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+La cefixima es una cefalosporina oral de tercera generación, altamente estable frente a las betalactamasas, cuya acción bactericida resulta de la inhibición de la síntesis de la pared celular bacteriana.
+
+NOVACEF® ha demostrado su actividad in vitro y en infecciones clínicas por los siguientes microorganismos:
+
+Antibiótico cefalosporínico de tercera generación, activo por vía oral contra microorganismos Gram positivos y Gram negativos susceptibles. Código ATC: J01DD08
+
+Organismos Gram positivos
+Streptococcus pneumoniae. Streptococcus pyogenes.
+
+INDICACIONES
+
+La  sensibilidad  de  los  gérmenes  a  los  antibióticos  es  un  aspecto dinámico  y  puede  sufrir  variaciones  dependiendo  del  tipo  de  microorganismo, del sitio de inicio de la infección (hospitalaria o de la comunidad) y del patrón de usos y costumbres del fármaco analizado.
+Por lo tanto se recomienda verificar los perfiles de sensibilidad local y las recomendaciones nacionales e internacionales actualizadas de tratamiento antimicrobiano antes de prescribir NOVACEF®.
+El análisis de sensibilidad más pertinente es el provisto por el laboratorio institucional de bacteriología ya que refleja con mayor certeza la situación epidemiológica del lugar en el que se realiza la prescripción; o bien, como alternativa, análisis locales, regionales o nacionales, tales como los obtenidos a través de la “Red Nacional de Vigilancia de la Resistencia a los Antimicrobianos WHONET Argentina”.
+(Red WHONET: http://antimicrobianos.com.ar/category/resistencia/whonet/#)
+Las recomendaciones de tratamiento antimicrobiano son habitualmente generadas por los Servicios de Infectología, los Comités de Control de Infecciones institucionales o Sociedades Científicas reconocidas.
+
+Las indicaciones de NOVACEF® son:
+Otitis  media  causada  por  Haemophilus  influenzae  (cepas  betalactamasas positivas y negativas), Moraxella (Branhamella) catarrhalis (muchas de las cuales son betalactamasas positivas) y S. pyogenes.
+Faringitis y amigdalitis causadas por S. pyogenes. La cefixima es efectiva en erradicar el S. pyogenes de la nasofaringe, aunque la droga de elección para la profilaxis de la fiebre reumática es la penicilina.
+Bronquitis  aguda  y  exacerbaciones  de  bronquitis  crónica  causadas por  Streptococcus  pneumoniae  y  Haemophilus  influenzae  (cepas betalactamasas positivas y negativas).
+
+Infecciones no complicadas del tracto urinario: cistitis, cistouretritis, pielonefritis producidas por Escherichia coli y Proteus mirabilis.
+Gonorrea  no  complicada  (cervical/uretral)  causadas  por  Neisseria gonorrhoeae (cepas productoras o no de penicilinasas).
+
+Organismos Gram negativos
+Haemophilus  influenzae  (cepas  betalactamasas  positivas  y  negativas). Moraxella (Branhamella) catarrhalis (muchas de las cuales son betalactamasas  positivas).  Escherichia  coli.  Proteus  mirabilis.  Neisseria gonorrhoeae (incluyendo cepas productoras o no de penicilinasas). Klebsiella Sp. Enterobacter Sp.
+
+NOVACEF® ha demostrado actividad in vitro sin establecer la eficacia clínica sobre la mayoría de las cepas de los siguientes organismos:
+
+Organismos Gram positivos
+Streptococcus agalactiae.
+
+Organismos Gram negativos
+Haemophilus  parainfluenzae  (cepas  betalactamasas  positivas  y negativas). Proteus vulgaris. Pasteurella multocida. Providencia species. Salmonella species. Shigella species. Citrobacter amalonaticus.
+Citrobacter diversus. Serratia marcescens.
+
+La  mayoría  de  las  cepas  de  Enterococo  (Streptococcus  faecalis,  Estreptococos del grupo D) y Estafilococos (incluyendo cepas coagulasa positivas y negativas, y cepas meticilino resistentes) son resistentes a Cefixima. Además la mayoría de las cepas de Pseudomonas, Bacteroides fragilis, Listeria monocytogenes y Clostridium son resistentes a cefixima.
+
+Mecanismos de resistencia
+La resistencia bacteriana a cefixima puede deberse a uno o más de los siguientes mecanismos:
+
+•  Hidrólisis  por  betalactamasas  de  amplio  espectro  o  por  enzimas codificadas  por  cromosomas  (AmpC)  que  pueden  experimentar inducción o eliminación de la represión en determinadas especies de bacterias Gram-negativas aerobias.
+
+•  Reducción de la afinidad de las proteínas fijadoras de penicilina.
+•  Reducción  de  la  permeabilidad  de  la  membrana  externa  de  determinados microorganismos Gramnegativos, lo que restringe el
+
+acceso a las proteínas fijadoras de penicilinas.
+
+•  Bombas de expulsión de medicamentos
+En una misma célula bacteriana pueden coexistir más de uno de estos mecanismos de resistencia.
+Dependiendo  del  mecanismo,  las  bacterias  pueden  expresar  resistencia cruzada a varios o a todos los betalactámicos o los antibacterianos de otras clases.
+
+FARMACOCINÉTICA
+
+Después de su administración oral, se absorbe el 40 a 50% de la dosis, sin estar afectado por los alimentos. Con una dosis de 200 mg, se producen concentraciones pico de 2 mcg/ml (entre 1 y 4 mcg/ml)
+y de 3,7 mcg/ml (entre 1,3 y 7,7 mcg/ml) con una dosis de 400 mg.
+El  tiempo  de  absorción  máxima  se  prolonga  aproximadamente  0,8 horas cuando la dosis se administra con las comidas. La biodisponibilidad oral absoluta está en el rango del 22-54%.
+Las concentraciones pico séricas se producen 2 a 6 horas después de la dosis oral de comprimidos de 200 y 400 mg.
+El 50% de la dosis absorbida es excretada sin cambios en la orina de 24 horas, mientras otro 10% de la dosis es excretado en la bilis. No se han obtenido metabolitos en la sangre o en la orina. Su unión a las proteínas plasmáticas es del 65%, principalmente a la albúmina. La vida media de eliminación es dosis-independiente y varía entre 3 y 4 horas. En pacientes con compromiso moderado de la función renal (clearance de creatinina de 20 a 40 ml/min) puede llegar a 6,4 horas y en casos severos (clearance de creatinina de 5 a 20 ml/min) puede prolongarse hasta 11,5 horas.
+La eliminación de la cefixima no es significativa ni por hemodiálisis o por diálisis peritoneal. No hay datos disponibles sobre la secreción de cefixima en la leche materna.
+La Cmáx y AUC de cefixima en ancianos sanos es sensiblemente más alta que en voluntarios jóvenes, por lo que se les puede administrar la misma dosis que en la población general.
+
+POSOLOGÍA/DOSIFICACIÓN - MODO DE ADMINISTRACIÓN
+
+Posología en adultos
+La dosis habitual recomendada de NOVACEF® en adultos es de 400 mg diarios, en una sola toma. Si se prefiere, la dosis diaria puede ser dividida en dos tomas. La duración habitual de tratamiento es de 7 días, aunque puede continuarse hasta los 14 días si se requiere.
+En caso de cistitis no complicada en mujeres, el período de tratamiento es de 1 a 3 días.
+Para el tratamiento de las infecciones gonocócicas cervicales y uretrales, se recomienda una dosis oral única de 400 mg.
+Posología en adolescentes de 12 años de edad en adelante Deben recibir la dosis recomendada para los adultos (400 mg al día).
+
+Posología en ancianos
+Generalmente no requiere ajustes de dosis. Hay que evaluar la función renal, ajustando la posología en caso de alteración de la función renal grave (ver “Posología en insuficiencia renal).
+
+Posología en pacientes con insuficiencia renal
+NOVACEF® puede administrarse en pacientes que presenten alteración de la función renal. Los ajustes de dosis son necesarios en pacientes con clearance de creatinina menores de 20 ml/min, en diálisis peritoneal  ambulatoria  continua  o  hemodiálisis,  la  dosis  no  debe superar los 200 mg/día.
+
+Posología en pacientes con insuficiencia hepática En pacientes con insuficiencia hepática, el hecho de que cefixima no se metabolice en hígado, posibilita la administración del preparado, sin necesidad de modificar la dosis.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad conocida a alguno de los componentes del producto
+
+y a las cefalosporinas.
+Reacción de hipersensibilidad previa, inmediata o intensa a la penicilina o a cualquier antibiótico betalactámico.
+
+ADVERTENCIAS
+
+Debe  tenerse  precaución  en  pacientes  sensibles  a  las  penicilinas debido  a  la  posibilidad  de  alergia  cruzada  entre  penicilinas  y  cefalosporinas.
+Fueron reportados casos de colitis seudomembranosa con el uso de antibióticos de amplio espectro, incluida la cefixima, razón por la cual se debe tener presente su diagnóstico en aquellos pacientes que presenten diarreas en asociación temporal con agentes antibacterianos.
+Los casos leves suelen responder a la discontinuación del tratamiento,  mientras  los  moderados  a  severos  pueden  requerir  tratamiento hidroelectrolítico,  suplementos  proteicos  y  antibióticos  contra  el Clostridium difficile. En tal caso se suspenderá la administración de cefixima y se adoptarán las medidas terapéuticas correspondientes.
+Están contraindicados los medicamentos que inhiben el peristaltismo intestinal. Si se utiliza durante mucho tiempo, la cefixima pueda ocasionar la proliferación de microorganismos que no sean sensibles.
+
+PRECAUCIONES
+
+Cefixima debe administrarse con cautela a pacientes que hayan presentado hipersensibilidad a otros medicamentos. Se han informado reacciones  cutáneas  intensas  como  síndrome  de  hipersensibilidad inducido por medicamentos (síndrome DRESS) o reacciones cutáneas ampollosas (necrólisis epidérmica tóxica, síndrome de Stevens-Johnson)  en  pacientes  tratados  con  cefixima.  En  tal  caso  se  suspenderá inmediatamente la administración de cefixima.
+
+Alteración de la función renal
+Cefixima  debe  administrarse  con  precaución  a  los  pacientes  con aclaramiento de creatinina < 20 ml/min. No existen datos suficientes sobre el uso de la cefixima en el grupo de pacientes pediátricos y  adolescentes  en  presencia  de  alteración  de  la  función  renal.  Por consiguiente, no se recomienda utilizar cefixima en estos grupos de pacientes.
+Si se administra una combinación de preparados de cefixima y aminoglucósidos, polimixina B, colistina u otros diuréticos del asa en dosis elevadas (p. ej., furosemida), es preciso vigilar la función renal por la probabilidad de que se produzca un empeoramiento de la alteración de la función renal. Este requisito es válido especialmente para pacientes que ya presenten alguna limitación de la función renal.
+El tratamiento con cefixima en la dosis recomendada (400 mg) puede alterar significativamente la microbiota normal del colon y dar lugar a la proliferación de clostridios. Los estudios indican que una las principales causas de la diarrea que se asocia a los antibacterianos es una toxina producida por Clostridium difficile. En pacientes que presenten diarrea persistente e intensa durante el tratamiento con cefixima o después es preciso que tener en cuenta el riesgo de colitis pseudomembranosa que supone una amenaza para la vida. En tal caso se suspenderá la administración de cefixima y se adoptarán las medidas terapéuticas  correspondientes.  Están  contraindicados  los  medicamentos que inhiben el peristaltismo intestinal (ver Interacciones).
+Si  se  utiliza  durante  mucho  tiempo,  la  cefixima  pueda  ocasionar  la proliferación de microorganismos que no sean sensibles.
+
+INTERACCIONES FARMACOLÓGICAS
+
+Al igual que con otras cefalosporinas, se han reportado incrementos en el tiempo de protrombina. Tener precaución en los pacientes que reciban terapia anticoagulante.
+Si  se  administra  junto  con  sustancias  potencialmente  nefrotóxicas (como aminoglucósidos, colistina, polimixina y viomicina) y diuréticos de acción potente (p. ej., ácido etacrínico o furosemida) induce un aumento del riesgo de deterioro de la función renal.
+
+Nifedipina, un antagonista de los canales del calcio, puede aumentar la biodisponibilidad de cefixima en hasta un 70 %.
+La administración de cefixima puede reducir la eficacia de los anticonceptivos orales. Por eso se recomienda tomar medidas anticonceptivas no hormonales complementarias.
+
+Interacciones con pruebas de laboratorio Se  puede  producir  una  reacción  positiva  falsa  de  glucosa  en  orina con  las  soluciones  de  Fehling,  Benedict  o  comprimidos  de  sulfato de cobre. Ello no se observa con las pruebas basadas en reacciones enzimáticas de la glucosa oxidasa.
+Puede obtenerse una reacción positiva falsa para las cetonas en orina con las pruebas que se sirven del nitroprusiato, pero no en las que se sirven del nitroferricianuro.
+Pueden  producirse  pruebas  de  Coombs  directas  con  falsos  positivos  y debe considerarse la posibilidad del resultado debido al uso de la droga.
+
+Carcinogénesis - Mutagénesis – Trastornos de la fertilidad No se registraron carcinogenicidad ni mutagenicidad en los estudios con cefixima, tampoco daños sobre la fertilidad o los fetos.
+
+Embarazo
+No se dispone de estudios de seguridad en humanos y, aunque no se comprobara su actividad teratogénica en animales, el uso de cefixima durante el embarazo debe utilizarse sólo en caso de que el beneficio potencial justifique el riesgo potencial para la madre y el feto.
+
+Lactancia
+Se desconoce si cefixima es eliminada en la leche materna humana.
+La decisión de seguir o no con la lactancia o con el tratamiento con cefixima debe tomarse teniendo en cuenta el beneficio de la lactancia para el niño y el beneficio del tratamiento con cefixima para la mujer.
+Pero hasta que se disponga de más datos clínicos no debe recetarse cefixima a las mujeres en período de lactancia.
+
+REACCIONES ADVERSAS
+
+En general, las reacciones adversas registradas en los pacientes tratados con NOVACEF® cefixima han sido leves y transitorias y tienden a la resolución sin necesidad de la interrupción del tratamiento. En esta sección se ha utilizado la siguiente convención para clasificar las reacciones adversas en términos de frecuencia: Frecuentes (≥1/100 a <1/10); Poco frecuentes (≥1/1.000 a <1/100); Raras (≥1/10.000 a  <1/1.000);  Muy  raras  (<1/10.000)  y  Frecuencia  no  conocida  (no puede estimarse a partir de los datos disponibles).
+
+Trastornos Gastrointestinales:
+Frecuentes:  diarreas.  Poco  frecuentes:  dolor  abdominal,  dispepsia, náuseas, vómitos. Raras: flatulencia.
+
+Trastornos de la piel y del tejido subcutáneo:
+Poco  frecuentes:  erupción.  Raras:  edema  angioneurótico  y  prurito.
+Muy raras: síndrome de Stevens-Johnson, necrólisis epidérmica tóxica.
+Frecuencia  no  conocida:  Erupción  medicamentosa  con  eosinofilia  y Síntomas sistémicos Eritema multiforme.
+
+citosis, neutropenia.
+Trastornos Hepáticos:
+Muy Raras: Hepatitis, ictericia colestásica.
+
+Trastornos del metabolismo:
+Raras: anorexia.
+
+Trastornos generales:
+Raras: Inflamación de mucosas, fiebre.
+
+Infecciones e infestaciones:
+Raras:  Sobreinfección  bacteriana,  sobreinfección  micótica.  Muy  raras: Colitis asociada a antibacterianos.
+
+Anormalidades en pruebas de laboratorio:
+Poco frecuentes: Enzimas hepáticas elevadas (transaminasas, fosfatasa alcalina). Raras: Aumento de la urea en sangre. Muy raras: Creatinina elevada en sangre. Frecuencia no conocida: prueba de Coombs directa e indirecta positiva.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar las sospechas de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al  siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A. vía email a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273
+
+SOBREDOSIFICACIÓN
+
+No existen antídotos específicos para la cefixima. Las reacciones adversas vistas en niveles superiores a 2 gramos de cefixima, no difieren del perfil visto en pacientes tratados a las dosis habituales. Luego de una  cuidadosa  evaluación  clínica  del  paciente,  de  la  valoración  del tiempo transcurrido desde la ingesta, de la cantidad de droga ingerida y descartando la contraindicación de ciertos procedimientos, el profesional  decidirá  la  realización  o  no  del  tratamiento  general  de rescate:  vómito  provocado  o  lavado  gástrico,  carbón  activado,  purgante salino (45 a 60 min. luego del carbón activado) o aquellos procedimientos terapéuticos que considere necesarios. No se remueven cantidades significativas de cefixima por hemodiálisis ni por diálisis peritoneal.
+
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ - BUENOS AIRES:
+(011) 4962-6666/2247.
+HOSPITAL NAC. ALEJANDRO POSADAS - HAEDO (PCIA. DE BS AS):
+(011) 4654-6648/4658-7777.
+Optativamente otros Centros de Intoxicaciones”.
+
+Trastornos del sistema inmunológico:
+Raras:  hipersensibilidad.  Muy  raras:  enfermedad  del  suero.  Shock anafiláctico.
+
+NOVACEF® comprimidos recubiertos conservar en lugar seco, entre
+15°C y 30°C.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Trastornos Renales:
+Muy Raras: nefritis intersticial.
+
+PRESENTACIONES
+
+Trastornos del Sistema Nervioso Central:
+Poco  frecuente:  cefaleas.  Raras:  vértigo.  Muy  raras:  Hiperactividad
+Psicomotora.
+
+NOVACEF® comprimidos recubiertos: envases conteniendo 8 comprimidos recubiertos.
+
+Trastornos Hemolinfáticos:
+Raras:  eosinofilias.  Muy  raras:  pancitopenia,  anemia  hemolítica trombocitopenia, agranulocitosis.  Frecuencia no conocida: trombo-
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  preinscripción y vigilancia médica y no puede repetirse sin nueva receta médica.”
+
+Información para el paciente
+
+Composicion
+Cada comprimido recubierto de NOVACEF® contiene:
+Cefixima..................................................................................... 400 mg
+Excipientes:
+Celulosa microcristalina .....................................................252,06 mg Fosfato Bicalcico ..................................................................215,46 mg
+Almidón de maíz ..........................................................................65 mg Dióxido de silicio coloidal ....................................................... 2,48 mg
+Estearato de magnesio................................................................30 mg Croscarmelosa sódica .................................................................20 mg
+Talco ..............................................................................................15 mg Opadry YS-1-7003 blanco .............................................................5 mg
+
+Sírvase leer esta información antes de comenzar a tomar el medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información nueva (o alguna información puede haber cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted.
+No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este  medicamento  debe  ser  indicado  por  su  médico  y  prescripto bajo una receta médica.
+
+¿Qué es y para que se utiliza NOVACEF®?
+NOVACEF® contiene un medicamento que se denomina cefixima, que pertenece al grupo de antibióticos de las “cefalosporinas”, que se emplean para el tratamiento de infecciones causadas por bacterias. Se la utiliza para tratar la infección del oído medio, faringitis y  amigdalitis,  infección  que  causa  empeoramiento  repentino  de una bronquitis de larga duración, infección aguda no complicada de la vejiga, infección no complicada de los riñones, gonorrea no complicada.
+
+¿Cuál  es  la  información  más  importante  que  debo  saber sobre NOVACEF®?
+Debe informar a su médico antes de empezar a tomar NOVACEF® si:
+• ha tenido colitis alguna vez,
+• tiene problemas renales,
+• toma medicamentos que puedan afectar sus riñones,
+• ha padecido diarrea intensa o persistente con dolor o calambres en  el  estómago  durante  el  tratamiento  con  NOVACEF®  o  después, deje de tomar este medicamento y póngase en contacto con su médico inmediatamente. No podrá tomar medicamentos que ralenticen o detengan los movimientos intestinales,
+
+• la persona que toma este medicamento tiene menos de 12 años
+
+de edad,
+
+• está embarazada, cree que podría estar embarazada o tiene intención de quedarse embarazada,
+
+• está amantando a su bebé.
+
+Si  presenta  un  síndrome  que  se  conoce  como  DRESS  (erupción cutánea  con  eosinofilia  y  síntomas  sistémicos),  síndrome  de  Steven-Johnson o una reacción cutánea que se conoce como necrólisis epidérmica  tóxica  mientras  toma  NOVACEF®,  deje  de  tomar  este medicamento  y  póngase  en  contacto  con  su  médico  inmediatamente.
+El tratamiento con un ciclo de NOVACEF® puede aumentar de manera transitoria la probabilidad de que presente infecciones causadas por otro tipo de gérmenes sobre los que NOVACEF® no actúa.
+Por ejemplo, puede presentar candidiasis oral (infección causada por un hongo levaduriforme que se denomina Cándida).
+
+Si no está seguro de si lo antedicho se le puede aplicar a usted, consulte a su médico antes de tomar este medicamento.
+
+Las precauciones a tener presente son las siguientes:
+• Utilice antibióticos solamente con la prescripción de un médico
+
+u odontólogo.
+
+• No se automedique ni ofrezca antibióticos a otras personas.
+•  Cumpla  el  tratamiento  según  lo  indicado,  respetando  la  dosis, horarios  de  la  toma  y  tiempo  de  tratamiento.  No  prolongue  ni interrumpa el tratamiento salvo que se lo indique el profesional.
+• No utilice antibióticos que le hayan sobrado o que le hayan sobrado a otros.
+
+• Lávese frecuentemente las manos con agua y con jabón.
+• Mantenga su calendario de vacunación al día.
+
+¿Qué es lo que debo saber antes de tomar NOVACEF® y durante el tratamiento?
+¿Quiénes no deben tomar NOVACEF®?
+No tome NOVACEF® si:
+• es alérgico a la cefixima o a alguno de los demás componentes
+
+de este medicamento.
+
+• es alérgico a cualquier otro tipo de antibiótico cefalosporínico.
+• ha presentado una reacción alérgica intensa al antibiótico penicilina o cualquier otro tipo de antibiótico betalactámico.
+
+Si no está seguro, hable con su médico antes de tomar cefixima.
+
+¿Qué debo informar a mi médico antes de tomar NOVACEF®?
+Antes de tomar NOVACEF®, dígale a su médico si:
+• ha tenido colitis alguna vez,
+• tiene problemas renales,
+• la persona que toma este medicamento tiene menos de 12 años de
+
+edad.
+
+• es alérgico a la penicilina o a cualquier otro antibiótico betalactámico.
+
+Una reacción alérgica puede consistir en erupción cutánea (sarpullido), prurito, dificultad para tragar o para respirar o hinchazón de la cara, los labios, la garganta y la lengua. No todas las personas que son alérgicas a las penicilinas lo son también a las cefalosporinas.
+Pero debe ser especialmente precavido si alguna vez ha presentado una reacción alérgica a cualquier penicilina, porque quizá sea alérgico también a este medicamento. Si ha padecido una reacción alérgica intensa o grave que causó dificultad para respirar o mareo, después  de  tomar  la  administración  de  cefixima,  se  suspenderá dicha administración y se facilitará el tratamiento correspondiente.
+
+¿Puedo tomar NOVACEF® con otros medicamentos?
+En caso de estar bajo tratamiento por otras enfermedades, informe a su médico todos los medicamentos que toma. Por ejemplo:
+• Medicamentos que dañan los riñones, como:
+•  Antibióticos  como  los  aminoglucósidos,  la  colistina  y  la  polimixina.
+
+• Medicamentos que aumentan la cantidad de orina que produce su organismo (diuréticos), como el ácido etacrínico o la furosemida.
+
+• Nifedipina, un medicamento que se emplea para el tratamiento
+
+de la tensión arterial o de problemas cardiacos.
+
+•  Anticoagulantes  (medicamentos  que  impiden  la  coagulación sanguínea) como la warfarina en algunos pacientes. NOVACEF® causa  problemas  de  coagulación  y  puede  aumentar  el  tiempo necesario para que la sangre coagule.
+
+• Anticonceptivos orales (píldora anticonceptiva).
+
+Efecto en los análisis de laboratorio
+Si se hace análisis de sangre o de orina, informe a su médico que está tomando NOVACEF®, porque puede alterar los resultados de algunos de estos análisis. Puede alterar los resultados de las determinaciones del azúcar en orina (como las pruebas de Benedict o de Fehling). Si padece diabetes y se hace análisis de orina periódicos, informe a su médico, porque es posible que se tengan que utilizar otros  análisis  para  controlar  la  diabetes  mientras  reciba  este  medicamento.
+Cefixima  puede  alterar  los  resultados  de  algunas  pruebas  para medir las cetonas en la orina. Informe a su médico de que está tomando cefixima, porque puede ser necesario utilizar otras pruebas.
+También puede alterar los resultados de un análisis de sangre para detectar anticuerpos que se denomina prueba de Coombs directa.
+
+¿Cómo debo tomar NOVACEF®?
+La vía de administración de este producto es oral y debe tomarlo exactamente como se lo indicó el médico, a las horas del día que correspondan  respetando  la  dosis  y  duración  del  tratamiento.  El comprimido debe ingerirse entero junto a un vaso con agua.
+En caso de duda, consulte de nuevo a su médico. La dosis que su médico le recete dependerá del tipo de infección y de la gravedad de ésta. También depende del funcionamiento de los riñones. Su médico se lo explicará.
+La  dosis  recomendada  en  adultos  es  de  400  mg  (1  comprimido recubierto  de  NOVACEF®  400  mg)  al  día.  El  medicamento  debe tomarse siempre a la misma hora del día.
+
+Pacientes con problemas renales
+En  pacientes  con  problemas  renales  puede  ser  necesario  reducir la dosis de NOVACEF®. Su médico calculará la dosis correcta para usted a partir de los resultados de los análisis de sangre o de orina con los que se mide la función renal. Los datos disponibles sobre el uso de NOVACEF® en niños y adolescentes con problemas renales son insuficientes. Por eso no se recomienda utilizar NOVACEF® en estos pacientes.
+
+Pacientes de edad avanzada
+No es preciso cambiar la dosis para pacientes de edad avanzada, si el funcionamiento de los riñones es normal.
+
+Adolescentes de 12 años de edad en adelante Los adolescentes de 12 años de edad en adelante pueden recibir la misma dosis que los adultos.
+
+Niños menores de 12 años de edad
+La forma farmacéutica en comprimidos recubiertos no es adecuada para niños menores de 12 años.
+
+¿Qué debo hacer en caso de sobredosis?
+Si toma más NOVACEF® del que debe, consulte lo antes posible a su médico.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si olvidó tomar un comprimido de NOVACEF®, tómelo en cuanto se acuerde. Pero si faltan menos de 6 horas para la próxima dosis, no lo tome y reanude el calendario habitual. No tome una dosis doble para compensar las dosis olvidadas.
+Si interrumpe el tratamiento con NOVACEF® simplemente porque se  encuentra  mejor,  puede  que  la  infección  reaparezca.  Si  recibe el tratamiento, pero empeora o sigue sintiéndose mal al final del tratamiento, informe a su médico.
+
+¿Cuáles son los efectos adversos que puede tener NOVACEF®?
+Los efectos adversos más comunes se consideran leves y transitorios.
+
+Efectos  adversos  frecuentes  (pueden  afectar  hasta  1  de  cada
+10 personas):
+- diarrea.
+
+Efectos adversos ocasionales (pueden afectar hasta 1 de cada
+100 personas):
+• cefalea.
+• náuseas.
+• vómitos.
+• dolor abdominal.
+• cambios en los análisis de sangre que miden el funcionamiento
+
+del hígado.
+
+• erupción cutánea.
+
+Efectos adversos raros (pueden afectar hasta 1 de cada 1.000 personas):
+• aumento de la probabilidad de infectarse por gérmenes sobre los
+
+que no actúa la NOVACEF®. Por ejemplo:
+
+• la candidiasis oral.
+• aumento del número de un tipo de glóbulo blanco que se denominan eosinófilos.
+• reacción alérgica.
+• pérdida de apetito.
+• mareo.
+• flatulencia (gases).
+• picazón en la piel.
+• inflamación de la mucosa que tapiza la boca u otras superficies internas.
+• fiebre.
+• cambios en los análisis de sangre que miden el funcionamiento
+
+de los riñones.
+
+Efectos  adversos  muy  raros  (pueden  afectar  hasta  1  de  cada
+10.000 personas):
+• reducción del número de diversas células de la sangre (los síntomas pueden ser cansancio, infecciones nuevas y propensión a los cardenales o a sangrar).
+
+• reacción alérgica que se caracteriza por erupción cutánea, fiebre, dolor articular y aumento del tamaño de determinados órganos.
+• problemas hepáticos, como ictericia (coloración amarillenta de la
+
+piel o del blanco de los ojos).
+
+• inflamación del riñón.
+• inquietud y aumento de la actividad.
+• reducción del número de un tipo de glóbulo blanco (neutropenia),
+• aumento del número de plaquetas (trombocitosis).
+• dispepsia (indigestión, dolor de estómago)
+• erupción cutánea o lesiones de la piel con un anillo de color rosa/ rojo y un centro pálido, que pueden picar, descamarse o estar llenas de líquido. La erupción aparece especialmente en las palmas de las manos o en las plantas de los pies. Pueden ser signos de una  alergia  grave  al  medicamento,  que  se  denomina  «eritema multiforme».
+
+Los siguientes efectos adversos son importantes y precisarán medidas inmediatas si los presenta. Deje de tomar NOVACEF® y acuda inmediatamente a su médico si presenta los siguientes síntomas:
+
+Efectos  adversos  muy  raros  (pueden  afectar  hasta  1  de  cada
+10.000 personas):
+• diarrea acuosa e intensa, que también puede ser sanguinolenta,
+• reacciones  alérgicas  intensas  repentinas  (shock  anafiláctico)
+como erupción o roncha cutánea, picor, hinchazón de la cara, los labios, la lengua u otras partes del cuerpo, sensación de tirantez en el pecho, sibilancias o síncope,
+
+• enfermedad cutánea grave con ampollas en la piel, la boca, los ojos y los genitales (síndrome de Stevens Johnson, necrólisis epidérmica tóxica).
+
+Efectos adversos de frecuencia no conocida (no puede estimarse a partir de los datos disponibles):
+•  erupción  cutánea  intensa,  fiebre,  aumento  de  tamaño  de  ganglios,  aumento  del  número  de  un  tipo  de  leucocitos  (glóbulos blancos) que se denominan eosinófilos (síndrome DRESS).
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en esta información.
+
+“Ante  cualquier  inconveniente  con  el  producto  el  paciente  puede llenar la ficha que está en la Página Web de la ANMAT: https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde 0800-333-1234.”
+
+¿Cómo debo conservar NOVACEF®?
+
+Conservar en lugar seco, entre 15°C y 30°C. Conservar en el embalaje original.
+
+Los medicamentos no se deben tirar por los desagües ni a la basura.
+En caso de duda pregunte a su farmacéutico cómo deshacerse de los envases y de los medicamentos que no necesita. De esta forma, ayudará a proteger el medio ambiente.
+
+Este folleto resume la información más importante de NOVACEF®, para mayor información y ante cualquier duda CONSULTE CON SU MÉDICO.
+No use este medicamento si la etiqueta o el envase está dañado.
+
+Ud. puede tomar/usar NOVACEF® hasta el último día del mes indicado en el envase. No tome NOVACEF® luego de la fecha de vencimiento.
+
+¿Cuáles son las presentaciones de NOVACEF®?
+Se presenta en envases conteniendo 8 comprimidos recubiertos.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Elaborado bajo licencia de Otsuka Chemical CO., LTD., representado por GADOR S.A.
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A. Tel: 4858-9000. Elaborado en Calle 519, entre Ruta 2 y Calle S/N, Parque
+
+Industrial La Plata, La Plata, Pcia. de Bs.As.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado N° 38.882. Fecha de última revisión:  03/2022
+
+G00078104-18

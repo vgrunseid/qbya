@@ -1,0 +1,2446 @@
+COMPLERA®
+
+EMTRICITABINA 200 mg
+RILPIVIRINA 25 mg
+TENOFOVIR DISOPROXIL FUMARATO 300 mg
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Canadiense
+
+COMPOSICIÓN
+Cada comprimido recubierto de COMPLERA® contiene:
+Emtricitabina ............................................................................... 200 mg Rilpivirina (equivalente a 27,5 mg de Rilpivirina ClH) .................... 25 mg
+Tenofovir  disoproxil  fumarato  (equivalente  a  245  mg  de  Tenofovir disoproxil) ............................................................................... 300 mg
+Excipientes:
+Celulosa  microcristalina,  Lactosa  monohidrato,  Povidona,  Almidón pregelatinizado,  Polisorbato  20,  Croscaramelosa  sódica,  Estearato  de magnesio, Opadry II púrpura 33G100000 ......................................... c.s.
+
+1. ACCIÓN TERAPÉUTICA
+COMPLERA® es una combinación de dosis fijas de los fármacos antirretrovirales FTC, RPV y TDF.
+Código ATC: J05AR08
+
+2. INDICACIONES
+COMPLERA®, está indicado como un régimen completo para el tratamiento de la infección por el VIH-1 en adultos y pacientes pediátricos con un peso de al menos 35 kg:
+•  Como terapia inicial en aquellos que no tienen antecedentes de tratamiento antirretroviral y con ARN del VIH-1 menor o igual a 100.000 copias/ml al comienzo del tratamiento, o
+
+•  Para  reemplazar  un  régimen  antirretroviral  estable  en  aquellos pacientes  con  supresión  virológica  (ARN  del  VIH-1  menor  a  50  copias/ml) y con un régimen antirretroviral estable durante al menos 6  meses  sin  fracaso  del  tratamiento  y  sin  sustituciones  conocidas asociadas  con  la  resistencia  a  los  componentes  individuales  de COMPLERA® [ver Microbiología (3.2.4) y Estudios clínicos (8)].
+
+Limitaciones de uso
+•  La cantidad de sujetos que presentaron fracaso virológico, definido como ARN del VIH-1≥50 copias/ml, fue mayor en los sujetos tratados con rilpivirina que tenían un valor de ARN del VIH-1 superior a
+100.000  copias/ml  al  comienzo  del  tratamiento,  en  comparación con los sujetos tratados con rilpivirina que tenían un valor de ARN del VIH-1inferior o igual a100.000 copias/ml [ver Estudios clínicos (8)].
+
+3. CARACTERÍSTICAS FARMACOLÓGICAS/PROPIEDADES
+3.1 DESCRIPCIÓN
+COMPLERA®  es  un  comprimido  de  dosis  fijas  combinadas  de  dos análogos  de  nucleósidos  inhibidores  de  la  transcriptasa  inversa  del VIH-1(INTI) (FTC y TDF) y un inhibidor no análogo de nucleósidos de la transcriptasa inversa (INNTI) [(RPV)]. La FTC es un análogo de nucleósido sintético de la citidina. TDF, que in vivo se convierte en tenofovir, un fosfonato nucleósido acíclico (nucleótido) análogo del 5’-monofosfato de adenosina.
+Los comprimidos de COMPLERA® se administran por vía oral.
+Emtricitabina:  El  nombre  químico  de  la  FTC  es  5-fluoro-1-[(2R,5S)-2-
+(hidroximetil)-1,3-oxatiolan-5-il]citosina.La  emtricitabina  es  el  enantiómero(-) de un tio análogo de la citidina, que se diferencia de otros análogos de la citidina por tener un flúor en la posición 5.
+La fórmula molecular es C8H10FN3O3S y su peso molecular es 247,24.
+Tiene la siguiente fórmula estructural:
+
+La FTC es un polvo cristalino de color blanco a blanquecino que tiene una solubilidad en agua de aproximadamente 112 mg por ml a 25oC.
+Rilpivirina: La RPV se encuentra disponible en forma de sal de clorhidrato. El nombre químico del clorhidrato de rilpivirina es monoclorhidrato de 4-[[4-[[4-[(E)-2-cianoetenil]-2,6-dimetilfenil]amino]-2-pirimidinil]amino]benzonitrilo. La fórmula molecular es C22H18N6•HCl y su peso molecular es 402,88. El clorhidrato de rilpivirina tiene la siguiente fórmula estructural:
+
+El clorhidrato de rilpivirina es un polvo de color blanco a casi blanco.
+El clorhidrato de rilpivirina es prácticamente insoluble en agua con un amplio rango de pH.
+Tenofovir  DF:  El  TDF  es  una  sal  de  ácido  fumárico  del  éster  bis-isopropoxicarboniloximetilo  derivado  del  tenofovir.  El  nombre  químico del  tenofovir  DF  es  fumarato  de  9-[(R)-2-[[bis[[(isopropoxicarbonil)
+oxi]-metoxi]fosfinil]metoxi]propil]adenina (1:1). La fórmula molecular es C19H30N5O10P • C4H4O4 y su peso molecular es 635,52. Tiene la siguiente fórmula estructural:
+
+El TDF es un polvo cristalino de color blanco a blanquecino que tiene una solubilidad en agua de 13,4 mg por ml a 25oC. Todas las dosis se expresan  en  términos  de  tenofovir  DF,  excepto  donde  se  indique  de otro modo.
+3.2 ACCIÓN FARMACOLÓGICA - FARMACOLOGÍA CLÍNICA
+3.2.1 Mecanismo de acción
+COMPLERA® es una combinación de dosis fijas de los fármacos antirretrovirales FTC, RPV y TDF [ver Microbiología (3.2.4)].
+3.2.2 Farmacodinamia
+Efectos en el electrocardiograma
+El  efecto  de  la  RPV  con  la  dosis  recomendada  de  25  mg  una  vez  por día en el intervalo QTcF se evaluó en un estudio aleatorizado, cruzado, controlado con placebo y principio activo (400 mg de moxifloxacina una vez por día), realizado en 60 adultos sanos, con 13 mediciones tomadas durante  un  plazo  de  24  horas  en  estado  estacionario.  Las  diferencias medias  máximas  seriadas  (límite  superior  de  confianza  del  95%)  en el intervalo QTcF respecto del placebo después de la corrección basal fueron de 2,0 (5,0) milisegundos (es decir, por debajo del umbral de interés clínico).
+Al estudiar dosis supraterapéuticas de 75 mg una vez por día y 300 mg una vez por día de RPV (3 veces y 12 veces la dosis en COMPLERA®) en adultos sanos, las diferencias medias máximas seriadas (límite superior de confianza del 95%) en el intervalo QTcF respecto del placebo después de la corrección basal fueron de 10,7 (15,3) y 23,3 (28,4) milisegundos, respectivamente. La administración en estado estacionario de RPV en dosis de 75 mg una vez por día y 300 mg una vez por día produjo una Cmáx  media  en  estado  estacionario  aproximadamente  2,6  veces  y  6,7 veces, respectivamente, más alta que la Cmáx media observada con la dosis recomendada de RPV de 25 mg una vez por día [ver Advertencias y precauciones (7.2)].
+3.2.3 Farmacocinética
+COMPLERA®: al administrarse con alimentos (el contenido calórico total de la comida fue de aproximadamente 400 kcal, con alrededor de 13 gramos de grasa), las exposiciones de RPV. FTC y tenofovir fueron similares al comparar COMPLERA® con las cápsulas de EMTRIVA® (emtricitabina 200 mg) más comprimidos de RPV (25 mg) más comprimidos de VIREAD® (tenofovir DF 300 mg) luego de la administración de dosis únicas a sujetos sanos (N=34).
+La administración de dosis únicas de comprimidos de COMPLERA® a sujetos sanos en ayunas produjo una exposición a la RPV aproximadamente un 25% más alta en comparación con la administración de cápsulas de EMTRIVA® (200 mg de emtricitabina) más comprimidos de rilpivirina
+(25 mg) más comprimidos de VIREAD® (300 mg de tenofovir DF), mientras las exposiciones de la FTC y el tenofovir fueron similares (N=15).
+
+Absorción, distribución, metabolismo y excreción Las propiedades farmacocinéticas de los componentes de COMPLERA® se proporcionan en la Tabla 1. Los parámetros FC de RPV, FTC y tenofovir se proporcionan en la Tabla 2.
+
+Tabla  1.  Propiedades  farmacocinéticas  de  los  componentes  de
+COMPLERA®
+
+Absorción
+Tmáx (h)
+% de biodisponibilidad oral en ayunasa
+Efecto de una comida liviana (con relación a en ayunas)b
+Efecto de una comida estándar (con relación a en ayunas)b
+Distribución
+% unido a proteínas plasmáticas humanas
+Fuente de datos de unión de proteínas
+Metabolismo
+
+Metabolismo
+
+Eliminación
+
+Vía principal de eliminación
+
+c (mL/min)
+
+CLrenal t1/2 (h)d
+% de la dosis excretada en la orinae
+% de la dosis excretada en la hecese
+
+RPV
+
+4-5
+NC
+
+↑9%
+
+↑16%
+
+FTC
+
+Tenofovir
+
+1-2
+93
+
+↔
+
+↔
+
+1
+25f
+
+↑28%
+
+↑38%
+
+~99
+
+<4
+
+<0.7
+
+In vitro
+
+In vitro
+
+In vitro
+
+CYP3A
+
+No significativamente metabolizado
+
+Metabolismo
+
+NC
+50
+6
+85
+
+Filtración glomerular y secreción tubular activa
+
+213±89
+10
+86
+~14
+
+243±33
+17
+70-80
+NC
+
+NC = No calculado. a. Mediana. b. Los valores se refieren al % de cambio en base a la relación media geométrica calculada (con alimentos/en ayunas) en la AUC. COMPLERA® comida liviana = 390 kcal, 12 g grasa; COMPLERA® comida estándar = 540 kcal, 21 g grasa. Comida con alto contenido graso no evaluada. Aumento = ↑; Disminución = ↓;
+Sin efecto = ↔. c. Media ± SD. d. Los valores t1/2 se refieren a la vida media plasmática terminal mediana. e. Dosificación en estudios de equilibrio de masa: FTC (administración de una sola dosis de [14C] FTC después de múltiples dosificaciones de FTC durante
+10 días); RPV (administración de una sola dosis de [14C] RPV); no se realizó un estudio de equilibrio de masa para tenofovir. f. Biodisponibilidad oral de tenofovir de VIREAD®.
+
+Tabla 2. Parámetros farmacocinéticos para RPV, FTC y Tenofovir en adultos infectados por HIV
+Parámetro media ± SD
+
+Cmáx (μg/mL)
+
+AUCtau (μg•hr/mL)
+
+C0h (μg/mL)
+
+RPVa
+NA
+2.24±0.85d
+0.08±0.04d
+
+FTCb
+1.80±0.72d
+10.0±3.12d
+0.09±0.07d
+
+Tenofovirc
+0.30±0.09
+2.29±0.69e
+
+NA
+
+NA = No aplicable. SD= Desviación estándar. a. Cálculos de la FC poblacional de RPV
+25 mg una vez por día en sujetos adultos infectados por HIV-1 sin tratamiento antirretroviral previo (datos reunidos de los ensayos de Fase 3 hasta la Semana 96; n=679).
+b. Administración oral de múltiples dosis de FTC 200 mg a sujetos infectados por HIV-1 (n=20). c. Dosis única de 300 mg de TDF a sujetos infectados por HIV-1 en el estado en ayunas. d. Datos presentados como valores de estado estacionario. e. AUC0-24h.
+
+Poblaciones específicas
+Pacientes geriátricos
+La farmacocinética de FTC, RPV y tenofovir no ha sido evaluada completamente en los adultos mayores (65 años de edad y mayores) [ver Uso en poblaciones específicas (7.4.4)].
+Pacientes pediátricos
+No  se  han  llevado  a  cabo  ensayos  pediátricos  usando  COMPLERA® comprimidos. La información pediátrica se basa en los ensayos llevados a cabo con los componentes individuales de COMPLERA® [ver Uso en poblaciones específicas (7.4.3)].
+Emtricitabina: La farmacocinética de la FTC en estado estacionario se determinó en 27 sujetos pediátricos infectados por el VIH-1, de entre 13 y menos de 17 años, que recibieron una dosis diaria de 6 mg/kg hasta una dosis máxima de 240 mg en solución oral o de 200 mg en cápsula;
+26 de 27 sujetos en este grupo etario recibieron la cápsula de 200 mg de FTC. Los valores medios (± DE) de Cmáx y ABC fueron de 2,7 ± 0,9 μg/ ml y de 12,6 ± 5,4 μg•h/ml, respectivamente. Las exposiciones que se alcanzaron en los sujetos pediátricos de entre 12 y menos de 18 años fueron similares a las alcanzadas en los adultos que recibieron una dosis diaria de 200 mg.
+Rilpivirina: La farmacocinética de la RPV en los sujetos pediátricos infectados por el VIH-1, de entre 12 y menos de 18 años, sin tratamiento antirretroviral previo que recibieron 25 mg de rilpivirina una vez por día fue similar  a la  de los  adultos infectados por el  VIH-1 sin tratamiento previo que recibieron 25 mg de RPV una vez por día [Tabla 3]. El peso
+
+corporal no produjo ningún efecto clínicamente significativo en la farmacocinética de la RPV de los sujetos pediátricos que participaron en el ensayo C213 (33 a 93 kg).
+
+Tabla 3. Cálculos de la farmacocinética poblacional para la administración de 25 mg de RPV una vez por día en sujetos pediátricos infectados por el VIH-1, de entre 12 y menos de 18 años, sin tratamiento antirretroviral previo (datos obtenidos del ensayo de fase
+2 hasta la semana 48)
+Parámetro
+
+25 mg de RPV una vez por día
+N=34
+
+ABC24h (ng•h/ml)
+Media ± desviación estándar
+Mediana (rango)
+
+C0h (ng/ml)
+Media ± desviación estándar
+Mediana (rango)
+
+2424 ± 1024
+2269 (417-5166)
+
+85 ± 40
+79 (7-202)
+
+Tenofovir DF: La farmacocinética del tenofovir en estado estacionario se evaluó en 8 sujetos pediátricos infectados por el VIH-1 (entre 12 y menos de 18 años). Los valores medios (± DE) de Cmáx y ABCtau son de 0,38 ±
+0,13 μg/ml y de 3,39 ± 1,22 μg•h/ml, respectivamente. La exposición al tenofovir alcanzada en estos sujetos pediátricos que recibieron dosis orales diarias de 300 mg de TDF fue similar a las exposiciones alcanzadas en los adultos que recibieron dosis diarias de 300 mg de TDF.
+Sexo
+No se han observado diferencias farmacocinéticas clínicamente relevantes en base al sexo para la FTC, la RPV y el TDF.
+Raza
+Emtricitabina: No se han identificado diferencias farmacocinéticas debidas a la raza luego de la administración de FTC.
+Rilpivirina: El análisis farmacocinético poblacional de la RPV en sujetos infectados por el VIH-1 indicó que la raza no tuvo ningún efecto clínicamente relevante en la exposición a la RPV.
+Tenofovir  DF:  No  hubo  cantidades  suficientes  de  grupos  raciales  y étnicos  diferentes  de  la  raza  caucásica  como  para  poder  determinar adecuadamente  las  posibles  diferencias  farmacocinéticas  entre  estas poblaciones luego de la administración de TDF.
+Pacientes con disfunción renal
+Emtricitabina y tenofovir DF: La farmacocinética de la FTC y del TDF se altera en los sujetos con disfunción renal. En los sujetos con depuración de creatinina inferior a 50 ml por minuto o con enfermedad renal terminal que requieren diálisis, se incrementaron la Cmáx y el ABC de la FTC y del tenofovir [ver Advertencias y precauciones (7.1.4) y Uso en poblaciones específicas (7.4.5)].
+Rilpivirina: El análisis farmacocinético poblacional indicó que la exposición a la RPV fue similar en los sujetos infectados por el VIH-1 con disfunción renal leve en comparación con los sujetos infectados por el VIH-1 con función renal normal. Se dispone de información limitada o nula acerca de la farmacocinética de la RPV en pacientes con disfunción renal moderada o grave, o en pacientes con enfermedad renal terminal, y las concentraciones de RPV pueden incrementarse debido a la alteración de la absorción, la distribución y el metabolismo del fármaco como consecuencia de la disfunción renal [ver Uso en poblaciones específicas (7.4.5)].
+Pacientes con disfunción hepática
+Emtricitabina: No se ha estudiado la farmacocinética de la FTC en sujetos con disfunción hepática; sin embargo, la FTC no es metabolizada significativamente por las enzimas hepáticas, por lo que el impacto de la disfunción hepática debería ser limitado.
+Rilpivirina:  La  RPV  se  metaboliza  y  elimina  principalmente  por  el  hígado. En un estudio en el que se realizó la comparación de 8 sujetos con disfunción hepática leve (puntaje A de Child-Pugh) con 8 controles correspondientes, y la comparación de 8 sujetos con disfunción hepática moderada (puntaje B de Child-Pugh) con 8 controles correspondientes, la exposición a dosis múltiples de RPV fue un 47% más alta en los sujetos con disfunción hepática leve y un 5% más alta en los sujetos con disfunción hepática moderada. La RPV no ha sido estudiada en sujetos con  disfunción  hepática  grave  (puntaje  C  de  Child-Pugh)  [ver  Uso  en poblaciones específicas (7.4.6)].
+Tenofovir  DF:  Se  ha  estudiado  la  farmacocinética  del  tenofovir  luego de una dosis de 300 mg de TDF en sujetos no infectados por el VIH con disfunción hepática de moderada a grave. No se observaron alteraciones sustanciales en la farmacocinética del tenofovir en los sujetos con disfunción hepática en comparación con los sujetos con función normal.
+Coinfección por los virus de la hepatitis B y/o C No se ha evaluado exhaustivamente la farmacocinética de la FTC y del TDF en pacientes coinfectados con los virus de la hepatitis B y/o C. El análisis farmacocinético poblacional indicó que la coinfección por los virus de la hepatitis B y/o C no tuvo ningún efecto clínicamente relevante en la exposición a la RPV.
+Embarazo y postparto
+La exposición (C0h y AUC24h) a la RPV total después de la administración de RPV 25 mg una vez por día como parte de un régimen antirretroviral
+
+fue de 30 a 40% menor durante el embarazo (similar para el segundo y el tercer trimestre), en comparación con el postparto (ver Tabla 4). Sin embargo, la exposición durante el embarazo no fue significativamente diferente de las exposiciones obtenidas en los ensayos de Fase 3 de regímenes que contienen RPV. En base a la relación exposición-respuesta para RPV, esta disminución no se considera clínicamente relevante en pacientes que están virológicamente suprimidos. La unión a proteínas de RPV fue similar (>99%) durante el segundo trimestre, el tercer trimestre y el postparto.
+
+Etinilestradiol/ noretindrona
+
+0,035 una vez por día/1 mg una vez por día dosis única de 40 administrada 12 horas antes de la
+RPV dosis única de 40 administrada 2 horas antes de la
+RPV dosis única de 40 administrada 4 horas antes de la
+RPV
+
+400 una vez por día
+
+90/400 una vez por día dosis individualizada de 60-100 una vez por día
+
+20 una vez por día
+
+300 una vez por día
+
+300 una vez por día
+
+600 una vez por día
+
+25 una vez por día
+
+Dosis única de 50
+
+400/100 una vez por día
+400/100
+/100 + 100 voxilapreviri una vez por día
+
+300 una vez por día
+
+ND
+
+ND
+
+ND
+
+↑76
+(↑57 a
+↑97)
+↑12
+(↑3 a
+↑21)
+
+25 una vez por día
+
+16 ↔d
+
+↔d
+
+↔d
+
+dosis única de 150c
+
+24
+
+↓1
+(↓16 a
+ ↑16)
+
+↓9
+(↓22 a
+↑7)
+
+dosis única de 150c
+
+23
+
+↓85
+(↓88 a
+↓81)
+
+↓76
+(↓80 a
+↓72)
+
+dosis única de 150c
+
+150 una vez por díac
+25 una vez por díad
+
+25 una vez por día
+
+150 una vez por díac
+25 una vez por día
+50 una vez por día
+150 una vez por díac
+150 una vez por día
+75 una vez por día
+25 una vez por día
+
+25 una vez por día
+
+150 una vez por díac
+
+24
+
+15
+
+14
+
+↑21
+(↑6 a
+↑39)
+
+↑30
+(↑13 a
+↑48)
+↓3
+(↓12 a
+↑7)
+
+↑13
+(↑1 a
+↑27)
+
+↑49
+(↑31 a
+↑70)
+↑2
+(↓6 a
+↑11)
+
+12 ↔d
+
+↔d
+
+↔d
+
+16
+
+18
+
+18
+
+16
+
+23
+
+16
+
+24
+
+30
+
+16
+
+↓40
+(↓52 a
+↓27)
+↓31
+(↓38 a
+↓24)
+↑43
+(↑30 a
+ ↑56)e
+↓69
+(↓73 a
+↓64)
+↑4
+(↓5 a
+↑13)
+↓8
+(↓15 a
+↓1)
+↓7
+(↓12 a
+↓2)
+
+↓21
+(↓26 a
+↓16)
+
+↓4
+(↓19 a
+↑13)
+
+↓40
+(↓49 a
+↓29)
+↓42
+(↓48 a
+↓35)
+↑16
+(↑6 a
+↑26)e
+↓80
+(↓82 a
+↓77)
+↑12
+(↑5 a
+↑19)
+↓2
+(↓8 a
+↑5)
+
+↓5
+(↓10 a 0)
+
+↓20
+(↓24 a
+↓15)
+
+↑1
+(↓13 a
+↑18)
+
+↓33
+(↓42 a
+↓22)
+↓48
+(↓54 a
+↓41)
+↓7
+(↓15 a
+↑1)e
+↓89
+(↓90 a
+↓87)
+↑25
+(↑16 a
+↑35)
+↑4
+(↓2 a
+↑9)
+↓4
+(↓10 a
+↑3)
+
+↓18
+(↓23 a
+↓13)
+
+↓1
+(↓17 a
+↑16)
+
+Famotidina
+
+Ketoconazol
+
+Ledipasvir/
+Sofosbuvir
+
+Metadona
+
+Omeprazol
+
+Rifabutin
+
+Rifampicina
+
+Simeprevir
+
+Sildenafil
+
+Sofosbuvir/
+Velpatasvir
+
+Sofosbuvir/
+Velpatasvir/
+Voxilaprevirh
+
+TDF
+
+ND = No disponible. a. N = Número máximo de sujetos para Cmáx, ABC o Cmín. b. Aumento=↑; disminución=↓; sin efecto=↔. c. El estudio de interacciones se realizó con una dosis más alta que la dosis recomendada de RPV (25 mg una vez por día), y se evaluó el efecto máximo en el fármaco coadministrado. d. Estudio realizado con COMPLERA®
+(RPV/FTC/TDF) coadministrado con HARVONI® (ledipasvir/sofosbuvir). e. Comparación basada en los controles históricos. f. El grupo de referencia para la comparación consistió en 25 mg de RPV al día administrada sola. g. Estudio realizado con COMPLERA® coadministrado con EPCLUSA® (sofosbuvir/velpatasvir). h. Estudio realizado con ODEFSEY (FTC/
+RPV/tenofovir alafenamida). i. Estudio realizado con voxilaprevir 100 mg adicional para lograr exposiciones de voxilaprevir esperadas en pacientes infectados por HCV.
+
+Tabla  6.  Interacciones  medicamentosas:  Cambios  en  los  parámetros  farmacocinéticos  para  FTC  en  presencia  de  los  fármacos coadministrados
+
+Fármaco coadministrado
+
+Famciclovir
+
+Ledipasvir/
+Sofosbuvir
+
+Dosis del fármaco coadministrado
+(mg)
+500 x 1
+90/400 una vez por día
+
+Dosis de FTC
+(mg)
+
+Na Cambio % medio de los parámetros farmacocinéticos de FTCb (IC del 90%)
+
+Cmáx
+
+200 x 1
+200 una vez por díac
+
+12 ↔
+↑2
+(↓2 a
+↑6)
+
+15
+
+ABC
+
+↔
+↑5
+(↑2 a
+↑8)
+
+Cmín
+
+ND
+↑6
+(↓3 a
+↑15)
+
+Tabla 4. Resultados farmacocinéticos de la RPV total después de la administración de RPV 25 mg una vez por día como parte de un régimen antirretroviral, durante el 2do trimestre del embarazo, el 3er trimestre del embarazo y el postparto
+Farmacocinética de la RPV total
+(media ±SD, tmáx: mediana
+[intervalo)
+
+Postparto
+(6-12 semanas)
+(N=11)
+
+2do trimestre del embarazo
+(N=15)
+
+3er trimestre del embarazo
+(N=13)
+
+C0h, ng/mL
+Cmín, ng/mL
+Cmáx, ng/mL tmáx, h
+AUC24h, ng.h/mL
+
+111 ± 69,2
+84,0 ± 58,8
+167 ± 101
+
+65,0 ± 23,9
+54,3 ± 25,8
+121 ± 45,9
+4,00 (2,03-25,08) 4,00 (1,00-9,00) 4,00 (2,00-24,93)
+1,792 ± 711
+
+63,5 ± 26,2
+52,9 ± 24,4
+123 ± 47,5
+
+2,714 ± 1,535
+
+1,762 ± 662
+
+Estudios sobre interacciones medicamentosas Rilpivirina:  La  RPV  es  metabolizada  principalmente  por  las  enzimas del citocromo CYP3A, por lo que los fármacos que inducen o inhiben
+CYP3A  pueden  afectar  la  depuración  de  la  RPV.  La  coadministración de COMPLERA® y fármacos que inducen CYP3A puede ocasionar una disminución  en  las  concentraciones  plasmáticas  de  RPV,  pérdida  de la  respuesta  virológica  y  posible  resistencia.  La  coadministración  de COMPLERA®  y  fármacos  que  inhiben  CYP3A  puede  ocasionar  un  aumento en las concentraciones plasmáticas de RPV. La coadministración de  COMPLERA®  con  fármacos  que  aumentan  el  pH  gástrico  puede ocasionar una disminución en las concentraciones plasmáticas de RPV, pérdida de la respuesta virológica y posible resistencia a la RPV y a la clase de INNTI.
+Es poco probable que la rilpivirina en dosis de 25 mg una vez por día tenga un efecto clínicamente relevante en la exposición de especialidades farmacéuticas metabolizadas por las enzimas del CYP.
+Emtricitabina y tenofovir DF: Los estudios clínicos e in vitro sobre la farmacocinética de las interacciones medicamentosas han demostrado que la posibilidad de interacciones mediadas por el CYP en las que intervienen la FTC y el tenofovir con otras especialidades farmacéuticas es baja.
+La  FTC  y  el  tenofovir  se  excretan  principalmente  por  los  riñones,  mediante  una  combinación  de  filtración  glomerular  y  secreción  tubular activa. No se han observado interacciones medicamentosas a causa de competencia por la excreción renal; sin embargo, la coadministración de FTC y TDF con fármacos que se eliminan mediante secreción tubular activa puede aumentar las concentraciones de emtricitabina, tenofovir y/o el fármaco coadministrado [ver Interacciones farmacológicas (7.2)].
+Los  fármacos  que  disminuyen  la  función  renal  pueden  aumentar  las concentraciones de FTC y/o tenofovir.
+Los estudios de interacciones medicamentosas descritas en las Tablas 5-10 fueron realizados con COMPLERA® (RPV/FTC/TDF) o los componentes de COMPLERA® (RPV, FTC o TDF) administrados individualmente.
+Los efectos de la coadministración de otros fármacos en los valores de ABC, Cmáx y Cmín de la RPV, la FTC y el TDF se resumen en las Tablas 5, 6 y 7 respectivamente. El efecto de la coadministración la RPV, la FTC y el TDF en los valores de ABC, Cmáx y Cmín de otros fármacos se resumen en las Tablas 8, 9 y 10, respectivamente. Para obtener información acerca de las recomendaciones clínicas, ver Interacciones farmacológicas (7.2).
+
+Tabla  5.  Interacciones  medicamentosas:  Cambios  en  los  parámetros farmacocinéticos de la RPV en presencia de los fármacos coadministrados
+
+Fármaco coadministrado
+
+Acetaminofeno
+
+Atorvastatina
+
+Clorzoxazona
+
+Dosis del fármaco coadministrado
+(mg)
+
+dosis única de 500
+
+40 una vez por día
+
+dosis única de 500 administrada 2 horas después de la RPV
+
+Dosis de RPV
+(mg)
+
+Na Cambio % medio en los parámetros farmacocinéticos de la RPVa (IC del 90%)b
+
+150 una vez por díac
+150 una vez por díac
+
+150 una vez por díac
+
+16
+
+16
+
+16
+
+Cmáx
+
+↑9
+(↑1 a
+↑18)
+↓9
+(↓21 a
+↑6)
+
+↑17
+(↑8 a
+↑27)
+
+ABC
+
+↑16
+(↑10 a
+↑22)
+↓10
+(↓19 a
+↓1)
+
+↑25
+(↑16 a
+↑35)
+
+Cmín
+
+↑26
+(↑16 a
+↑38)
+↓10
+(↓16 a
+↓4)
+
+↑18
+(↑9 a
+↑28)
+
+Sofosbuvir/
+Velpatasvir
+
+Sofosbuvir/
+Velpatasvir/
+Voxilaprevir
+
+TDF
+
+400/100 una vez por día
+400/100
+/100 +
+Voxilaprevire 100 una vez por día
+300 una vez por día x 7 días
+
+200 una vez por díad
+
+200 una vez por díaf
+
+24
+
+↓5
+(↓10 a 0)
+
+30
+
+↓12
+(↓17 a
+↓7)
+
+↓1
+(↓3 a
+↑2)
+
+↓7
+(↓10 a
+↓4)
+
+200 una vez por día x 7 días
+
+17 ↔
+
+↔
+
+↑5
+(↓1 a
+↑11)
+
+↑7
+(↑1 a
+↑14)
+
+↑20
+(↑12 a
+ ↑29)
+
+ND = No disponible. a. N = número máximo de sujetos para Cmáx, AUC o Cmín. b. Aumento=↑; disminución=↓; sin efecto=↔. c. Estudio realizado con COMPLERA® coadministrado con HARVONI®. d. Estudio realizado con COMPLERA® coadministrado con EPCLUSA®. e. Estudio realizado con voxilaprevir 100 mg adicional para lograr exposiciones de voxilaprevir esperadas en pacientes infectados por HCV. f. Estudio realizado con ODEFSEY (FTC/RPV/tenofovir alafenamida).
+
+Tabla 7. Interacciones medicamentosas: Cambios en los parámetros farmacocinéticos para Tenofovir en presencia de los fármacos coadministrados
+
+Dosis de TDF
+(mg)a
+
+Nb Cambio % medio de los parámetros farmacocinéticos de Tenofovirc (IC del 90%)
+
+Fármaco coadministrado
+
+Entecavir
+
+Emtricitabine
+
+Ledipasvir/
+Sofosbuvir
+
+Sofosbuvir/
+Velpatasvir
+
+Tacrolimus
+
+Dosis del fármaco coadministrado
+(mg)
+1 una vez por día por 10 días
+
+200 una vez por día por 7 días
+
+90/400 una vez por día por 10 días
+400/100 una vez por día
+0,05 mg/kg dos veces por día por 7 días
+
+300 una vez por día
+300 una vez por día por 7 días
+
+300 una vez por díad
+
+300 una vez por día
+
+300 una vez por díae
+
+Cmáx
+
+ABC
+
+Cmín
+
+↔
+
+↔
+
+↔
+
+17 ↔
+
+↔
+
+↔
+
+↑40
+(↑31 a
+↑50 )
+
+↑40
+(↑34 a
+↑46)
+
+↑91
+(↑74 a
+↑110)
+
+↑84
+(↑76 a
+↑92)
+
+14
+
+24
+
+21
+
+↑32
+(↑25 a
+↑39 )
+
+↑44
+(↑33 a
+↑55)
+
+ ↑13
+(  ↑1 a
+↑27)
+
+ND = No disponible. a. Los sujetos recibieron VIREAD® 300 mg por día. b. N = Número máximo  de  sujetos  para  Cmáx,  AUC  o  Cmín.  c.  Aumento=↑;  disminución=↓;  sin  efecto=↔. d. Estudio realizado con COMPLERA® coadministrado con HARVONI®. e. Estudio realizado con COMPLERA® coadministrado con EPCLUSA®.
+
+Tabla  8.  Interacciones  medicamentosas:  Cambios  en  los  parámetros  farmacocinéticos  de  los  fármacos  coadministrados  en presencia de RPV
+
+Dosis de RPV
+(mg)
+
+Dosis del fármaco coadministrado
+(mg)
+
+Dosis única de 500
+
+150 una vez por díac
+
+Fármaco coadministrado
+
+Acetaminofeno
+
+Atorvastatina
+
+2-hidroxiatorvastatina
+
+40 una vez por día
+
+150 una vez por díac
+
+16
+
+ND
+
+Cmín
+
+Na Cambio % medio en los parámetros farmacocinéticos del fármaco coadministradob (IC del 90%)
+ABC
+↓8
+(↓15 a ↓1)
+↑4
+(↓3 a
+↑12)
+↑39
+(↑29 a
+↑50)
+↑23
+(↑13 a
+↑33)
+
+Cmáx
+↓3
+(↓14 a
+↑10)
+↑35
+(↑8 a
+↑68)
+↑58
+(↑33 a
+↑87)
+↑28
+(↑15 a
+↑43)
+
+↓15
+(↓31 a
+↑3)
+↑32
+(↑10 a
+↑58)
+
+ND
+
+16
+
+16
+
+16
+
+4-hidroxiatorvastatina
+
+Clorzoxazona
+
+Digoxina
+
+Etinilestradiol
+
+Noretindrona
+
+Dosis única de 500 tomada
+2 horas después de
+RPV
+
+Dosis única de 0,5
+
+0,035 una vez por día
+
+1 mg una vez por día
+
+150 una vez por día
+
+25 una vez por día
+
+25 una vez por día
+
+16
+
+22
+
+17
+
+↓2
+(↓15 a
+↑13)
+
+↑6
+(↓3 a
+↑17)
+↑17
+(↑6 a
+↑30)
+↓6
+(↓17 a
+↑6)
+
+↑3
+(↓5 a
+↑13)
+
+↓2
+(↓7 a ↑4)
+
+↑14
+(↑10 a
+↑19)
+↓11
+(↓16 a
+↓6)
+
+ND
+
+ND
+
+↑9
+(↑3 a
+↑16)
+↓1
+(↓10 a
+↑8)
+
+400 una vez por día
+
+90 una vez por día
+
+dosis individualizada de 60-100 una vez por día
+
+dosis única de 850
+
+20 una vez por día
+
+600 una vez por día
+
+150 una vez por díac
+25 una vez por día
+
+25 una vez por día
+
+25 una vez por día
+150 una vez por díac
+
+150 una vez por díac
+
+150 mg una vez por día
+
+25 mg una vez por día
+
+dosis única de 50
+
+75 una vez por díac
+
+400 una vez por día
+
+Ketoconazol
+
+Ledipasvir
+
+R(-)metadona
+
+S(+)metadona
+
+Metformina
+
+Omeprazol
+
+Rifampicina
+
+25-desacetilrifampicina
+
+Simeprevir
+
+Sildenafil
+
+N-desmetilsildenafil
+
+Sofosbuvir
+
+GS-331007d
+
+25 una vez por día
+
+25 una vez por día
+
+25 una vez por día
+
+25 una vez por díae
+25 una vez por díae
+150 una vez por díac
+
+Sofosbuvir
+
+GS-331007d
+
+Velpatasvir
+
+Voxilaprevir
+
+TDF
+
+400 una vez por día
+
+100 una vez por día
+
+100 + 100 una vez por día
+
+300 una vez por día
+
+14
+
+↓15
+(↓20 a
+↓10)
+
+↓24
+(↓30 a
+↓18)
+
+↓66
+(↓75 a
+↓54)
+
+41
+
+↑1
+(↓3 a ↑5)
+
+↑2
+(↓3 a ↑6)
+
+↑2
+(↑2 a ↑7)
+
+13
+
+13
+
+20
+
+15
+
+16
+
+16
+
+21
+
+16
+
+24
+
+24
+
+24
+
+30
+
+30
+
+16
+
+↓14
+(↓22 a
+↓5)
+↓13
+(↓22 a
+↓3)
+↑2
+(↓5 a
+↑10)
+↓14
+(↓32 a
+↑9)
+↑2
+(↓7 a
+↑12)
+↔
+(↓13 a
+↑15)
+↑10
+(↓3 a
+↑26)
+↓7
+(↓20 a
+↑8)
+↓10
+(↓20 a
+↑2)
+↑9
+(↓5 a
+↑25)
+↓4
+(↓10 a
+↑1)
+↓4
+(↓15 a
+↑10)
+↓5
+(↓14 a
+↑5)
+↑2
+(↓2 a ↑6)
+↑5
+(↓4 a
+↑16)
+↓4
+(↓16 a
+↑11)
+↑19
+(↑6 a
+↑34)
+
+↓16
+(↓26 a
+↓5)
+↓16
+(↓26 a
+↓4)
+↓3
+(↓10 a
+↑6)
+↓14
+(↓24 a
+↓3)
+↓1
+(↓8 a
+↑7)
+↓9
+(↓23 a
+↑7)
+↑6
+(↑6 a
+↑19)
+↓3
+(↓13 a
+↑8)
+↓8
+(↓15 a
+↓1)
+↑16
+(↑10 a
+↑24)
+
+↑4
+(0 a ↑7)
+
+↓1
+(↓12 a
+↑11)
+
+↑1
+(↓3 a ↑6)
+
+↑4
+(↑1 a ↑6)
+
+↓22
+(↓33 a
+↓9)
+↓21
+(↓33 a
+↓8)
+
+ND
+
+ND
+
+ND
+
+ND
+
+↑4
+(↑17 a
+↑11)
+
+ND
+
+ND
+
+ND
+
+↑12
+(↑7 a
+↑17)
+↑2
+(↓9 a
+↑15)
+
+ND
+
+ND
+
+↑1
+(↓6 a ↑7)
+
+↑1
+(↓5 a ↑9)
+
+↓6
+(↓16 a
+↑5)
+↑23
+(↑16 a
+↑31)
+
+↑2
+(↓8 a
+↑12)
+↑24
+(↑10 a
+↑38)
+
+ND  =  No  disponible.  a.  N  =  Número  máximo  de  sujetos  para  Cmáx,  AUC  o  Cmín.
+b. Aumento=↑; disminución=↓; sin efecto=↔. c. El estudio de interacciones se realizó con una dosis más alta que la dosis recomendada de rilpivirina (25 mg una vez por día). d. El metabolito de nucleósido circulante predominante de sofosbuvir.
+e. Estudio realizado con ODEFSEY.
+
+Tabla  9.  Interacciones  medicamentosas:  Cambios  en  los  parámetros  farmacocinéticos  para  los  fármacos  coadministrados  en presencia de FTC
+
+Fármaco coadministrado
+
+Dosis del fármaco coadministrado
+(mg)
+
+Dosis de FTC
+(mg)
+
+Na Cambio % medio de los parámetros farmacocinéticos del fármaco coadministradob (IC del 90%)
+
+Famciclovir
+
+500 x 1
+
+200 x 1
+
+12 ↔
+
+Cmáx
+
+ABC
+
+↔
+
+Cmín
+
+NA
+
+TDF
+
+300 una vez por día por 7 días
+
+200 una vez por día por 7 días
+
+17 ↔
+
+↔
+
+↔
+
+ND = No disponible. a. Todos los ensayos de interacciones se realizaron en voluntarios sanos. b. Sin efecto = ↔.
+
+No se observaron interacciones medicamentosas clínicamente significativas entre FTC e indinavir, sofosbuvir/velpatasvir, sofosbuvir/velpatasvir/voxilaprevir, estavudina y zidovudina.
+
+↔
+
+↔
+
+Velpatasvir
+
+100 una vez por día
+
+Tabla  10.  Interacciones  medicamentosas:  Cambios  en  los  parámetros  farmacocinéticos  para  los  fármacos  coadministrados  en presencia de TDF
+
+Fármaco coadministrado
+
+Emtricitabina
+
+Entecavir
+
+Tacrolimus
+
+Dosis del fármaco coadministrado
+(mg)
+
+200 una vez por día por 7 días
+
+1 una vez por día por 10 días
+0,05 mg/kg dos veces por día por 7 días
+
+Dosis de TDF
+(mg)
+
+300 una vez por día por 7 días
+300 una vez por día
+
+300 una vez por día
+
+Na Cambio % medio de los parámetros farmacocinéticos del fármaco coadministradob (IC del 90%)
+ABC
+
+Cmáx
+
+Cmín
+
+17 ↔
+
+↔
+
+28 ↔
+
+↑13
+(↑11 a
+↑15)
+
+↑20
+(↑12 a
+↑29)
+
+↔
+
+21 ↔
+
+↔
+
+↔
+
+ND = No disponible. a. Todos los ensayos de interacciones se realizaron en voluntarios sanos. b. Aumento = ↑; sin efecto = ↔.
+
+No se observó ningún efecto en los parámetros farmacocinéticos de los siguientes fármacos coadministrados con TDF: metadona, anticonceptivos orales (etinilestradiol/norgestimato) o rivabirina.
+
+3.2.4 Microbiología
+Mecanismo de acción
+Emtricitabina: La FTC, un nucleósido sintético análogo de la citidina, se fosforila por acción de enzimas celulares para formar el 5’-trifosfato de emtricitabina. El 5’-trifosfato de emtricitabina inhibe la actividad de la transcriptasa inversa (TI) del VIH-1 al competir con el sustrato natural
+5’-trifosfato de desoxicitidina y al ser incorporado al ADN viral incipiente, lo que produce la terminación de la cadena. El 5’-trifosfato de emtricitabina es un inhibidor débil de las ADN polimerasas α, β y ε de mamíferos, y de la ADN polimerasa γ mitocondrial.
+Rilpivirina: La RPV es un inhibidor no nucleósido de la transcriptasa inversa del VIH-1 del grupo de las diarilpirimidinas, e inhibe la replicación del VIH-1 mediante la inhibición no competitiva de la TI del VIH-1. La RPV no inhibe las ADN polimerasas α y β ni la ADN polimerasa γ mitocondrial de células humanas.
+Tenofovir DF: El TDF es un diéster de fosfonato nucleósido acíclico análogo del monofosfato de adenosina. El TDF requiere la hidrólisis inicial del diéster para su conversión a tenofovir y fosforilaciones subsiguientes por medio de enzimas celulares para formar el difosfato de tenofovir. El difosfato de tenofovir inhibe la actividad de la TI del VIH-1 al competir con el sustrato natural 5’-trifosfato de desoxiadenosina y, una vez incorporado al ADN, por la terminación de la cadena de ADN. El difosfato de tenofovir es un inhibidor débil de las ADN polimerasas α y β de mamíferos y de la ADN polimerasa γ mitocondrial.
+Actividad antiviral
+Emtricitabina, rilpivirina y TDF: La combinación triple de FTC, RPV y TDF no mostró actividad antagonista en cultivo celular.
+Emtricitabina: Se evaluó la actividad antiviral de la FTC contra aislamientos clínicos y de laboratorio del VIH-1 en líneas celulares linfoblastoides, la línea celular MAGI-CCR5 y células mononucleares de sangre periférica. Los valores que lograron el 50% de la concentración efectiva (CE50)
+para la FTC estuvieron en el rango de 0,0013-0,64 μM. La FTC en cultivo celular mostró actividad antiviral contra los clados A, B, C, D, E, F y G del VIH-1 (los valores de CE50 variaron entre 0,007 y 0,075 μM), y también actividad específica contra la cepa del VIH-2 (los valores de CE50 variaron entre 0,007 y 1,5 μM). No se observaron efectos antagonistas en estudios de combinaciones farmacológicas de la FTC con inhibidores nucleósidos de la transcriptasa inversa (abacavir, lamivudina, estavudina, tenofovir,  zidovudina),  inhibidores  no  nucleósidos  de  la  transcriptasa inversa (delavirdina, EFV, nevirapina y RPV) e inhibidores de la proteasa
+(amprenavir, nelfinavir, ritonavir, saquinavir).
+Rilpivirina: La RPV exhibió actividad contra cepas de laboratorio del VIH-1 salvaje en una línea de linfocitos T con infección aguda, y la mediana de CE50 correspondiente al VIH-1IIIB fue de 0,73 nM. La RPV en cultivo celular demostró tener una actividad limitada contra el VIH-2, con una mediana de CE50 de 5220 nM (rango de 2510 a 10.830 nM). La RPV demostró actividad antiviral contra un amplio panel de aislamientos primarios del grupo M del VIH-1 (subtipos A, B, C, D, F, G y H), con valores de CE50 que variaron de 0,07-1,01 nM, y fue menos activa contra los aislamientos primarios del grupo O, con valores de CE50 que variaron de 2,88-8,45 nM.
+La actividad antiviral de la RPV no fue antagonista cuando se combinó con los INNTI EFV, etravirina onevirapina; los IN(t)TI abacavir, didanosina,
+FTC, lamivudina, estavudina, tenofovir o zidovudina; los inhibidores de la  proteasa  amprenavir,  atazanavir,  darunavir,  indinavir,  lopinavir,  nelfinavir, ritonavir, saquinavir o tipranavir; el inhibidor de la fusión gp41 enfuvirtida; el antagonista del correceptor CCR5 maraviroc; o el inhibidor de la transferencia de cadena mediada por la integrasa raltegravir.
+Tenofovir  DF:  Se  evaluó  la  actividad  antiviral  del  tenofovir  contra aislamientos clínicos y de laboratorio del VIH-1 en líneas celulares linfoblastoides,  monocitos/macrófagos  primarios  y  linfocitos  de  sangre periférica. Los valores de CE50 correspondientes al tenofovir estuvieron dentro del rango de 0,04-8,5 μM. El tenofovir en cultivo celular mostró actividad antiviral contra los clados A, B, C, D, E, F, G y O del VIH-1 (los valores de CE50 variaron entre 0,5-2,2 μM), así como también mostró actividad específica contra la cepa del VIH-2 (los valores de CE50 variaron entre 1,6–5,5 μM). No se observaron efectos antagonistas en estudios de combinaciones farmacológicas del tenofovir con INTI (abacavir, didanosina, FTC, lamivudina, estavudina y zidovudina), INNTI (delavirdina,
+EFV, nevirapina y RPV) e inhibidores de la proteasa (amprenavir, indinavir, nelfinavir, ritonavir y saquinavir).
+Resistencia
+En cultivo celular
+Emtricitabina y tenofovir DF: Se han seleccionado aislamientos del VIH1 en cultivo celular con susceptibilidad reducida a la FTC o al tenofovir.
+La susceptibilidad reducida a la FTC estuvo asociada con sustituciones M184V/I en la TI del VIH-1. Los aislamientos del VIH-1 seleccionados por el tenofovir expresaron una sustitución K65R en la TI del VIH-1 y mostraron una reducción de 2-4 veces en la susceptibilidad al tenofovir. Además, fue seleccionada por el tenofovir una sustitución K70E en la TI del VIH-1, resultando en una reducción de bajo nivel en la susceptibilidad al abacavir, la FTC, la lamivudina y el tenofovir.
+Rilpivirina: Se seleccionaron cepas resistentes a la RPV en cultivo celular, que abarcaron desde el VIH-1 salvaje de diferentes orígenes y subtipos hasta el VIH-1 resistente a INNTI. Las sustituciones de aminoácidos observadas con frecuencia que aparecieron y redujeron la susceptibilidad fenotípica a la RPV incluyeron: L100I, K101E, V106I y A, V108I, E138K y
+G, Q, R, V179F e I, Y181C e I, V189I, G190E, H221Y, F227C, y M230I y L.
+En  sujetos  adultos  infectados  por  el  VIH-1  sin  antecedentes  de  tratamiento antirretroviral En  el  análisis  de  resistencia  de  la  semana  96  realizado  con  los  datos combinados  obtenidos  de  sujetos  adultos  que  recibieron  RPV  o  EFV en combinación con FTC/TDF en los ensayos clínicos de fase 3 C209 y C215, la aparición de resistencia fue mayor entre los virus de los sujetos en el grupo de RPV + FTC/TDF que en el grupo de EFV + FTC/TDF, y fue dependiente de la carga viral basal. En el análisis de resistencia con los datos combinados, el 61% (47/77) de los sujetos que reunían los requisitos para el análisis de resistencia (sujetos del análisis de resistencia) en el grupo de RPV + FTC/TDF presentó virus con resistencia genotípica y/o fenotípica a la RPV, en comparación con el 42% (18/43) de los sujetos del análisis de resistencia en el grupo de EFV + FTC/TDF que presentó resistencia genotípica y/o fenotípica al EFV. Asimismo, apareció resistencia genotípica y/o fenotípica a la FTC o al tenofovir en los virus del 57% (44/77) de los sujetos del análisis de resistencia en el grupo de la RPV, en comparación con el 26% (11/43) en el grupo del EFV.
+Las sustituciones de INNTI que aparecieron en el análisis de resistencia a la RPV de los virus de los sujetos incluyeron V90I, K101E/P/T, E138K/A/
+Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L y M230L, que estuvieron asociadas con un cambio fenotípico dentro del rango de 2,6-621 veces para la rilpivirina. La sustitución E138K apareció con mayor frecuencia durante  el  tratamiento  con  RPV,  comúnmente  en  combinación  con la  sustitución  M184I.  Las  sustituciones  M184I  o  V  asociadas  con  la resistencia a la FTC y la lamivudina y las sustituciones asociadas con la resistencia a INTI (K65R/N, A62V, D67N/G, K70E, Y115F, K219E/R) aparecieron con mayor frecuencia en los sujetos del análisis de resistencia a la RPV que en los sujetos del análisis de resistencia al EFV [Tabla 11].
+En el análisis de resistencia de los virus de los sujetos con cargas virales basales ≤100.000 copias/ml, las sustituciones de resistencia a los INNTI e INTI aparecieron con menor frecuencia en comparación con los virus de los sujetos con cargas virales basales >100.000 copias/ml: el 23% (10/44) en comparación con el 77% (34/44) de las sustituciones de resistencia a los INNTI y el 20% (9/44) en comparación con el 80%
+(35/44) de las sustituciones de resistencia a los INTI. Esta diferencia se observó también con las sustituciones de resistencia individuales a la FTC/lamivudinay el tenofovir: el 22% (9/41) en comparación con el 78%
+(32/41) para M184I/V y el 0% (0/8) en comparación con el 100% (8/8)
+para K65R/N. Además, en el análisis de resistencia de los virus de los sujetos  con  recuentos  basales  delinfocitos  CD4+  ≥200  células/mm3, las sustituciones de resistencia a los INNTI y/o los INTI aparecieron con menor frecuencia en comparación con los virus de los sujetos con recuentos basales delinfocitosCD4+ <200 células/mm3: el 32% (14/44)
+en comparación con el 68% (30/44) de las sustituciones de resistencia a los INNTI y el 27% (12/44) en comparación con el 73% (32/44) de las sustituciones de resistencia a los INTI.
+
+Tabla  11.  Proporción  de  sustituciones  de  la  transcriptasa  inversa que aparecen con frecuencia en el virus VIH-1 de los sujetos adultos del análisis de resistenciaa que recibieron RPV o EFV en combinación con FTC/TDF en los ensayos de fase 3 combinados
+TMC278-C209 y TMC278-C215 en el análisis de la semana 96
+C209 y C215 N=1096
+
+Sujetos que calificaron para el análisis de resistencia
+
+RPV+FTC/TDF
+N=550
+
+EFV+FTC/TDF
+N=546
+
+ 14% (77/550)
+
+8% (43/546)
+
+Sujetos con datos de resistencia posbasales evaluables
+
+70
+
+31
+
+Sustituciones de INNTI emergentesb
+
+Cualquiera
+V90I
+K101E/P/T/Q
+K103N
+E138K/A/Q/G
+E138K+M184Ic
+V179I/D
+Y181C/I/S
+V189I
+H221Y
+
+63% (44/70)
+14% (10/70)
+19% (13/70)
+1% (1/70)
+40% (28/70)
+30% (21/70)
+6% (4/70)
+13% (9/70)
+9% (6/70)
+10% (7/70)
+
+Sustituciones de INTI emergentesd
+63% (44/70)
+59% (41/70)
+11% (8/70)
+
+Cualquiera
+M184I/V
+K65R/N
+A62V, D67N/G, K70E, Y115F, o
+K219E/Re
+
+55% (17/31)
+0
+10% (3/31)
+39% (12/31)
+0
+0
+10% (3/31)
+3% (1/31)
+0
+0
+
+32% (10/31)
+26% (8/31)
+6% (2/31)
+
+20% (14/70)
+
+3% (1/31)
+
+a. Sujetos que reunieron los requisitos para el análisis de resistencia. b. V90, L100,
+K101, K103, V106, V108, E138, V179, Y181, Y188, V189, G190, H221, P225, F227 y M230. c. Esta combinación de sustituciones de INTI e INNTI constituye un subconjunto de los sujetos con la sustitución E138K. d. A62V, K65R/N, D67N/G, K70E, L74I, Y115F,
+M184V/I, L210F, K219E/R. e. Estas sustituciones aparecieron adicionalmente a las sustituciones primarias M184V/I o K65R; A62V (n=2), D67N/G (n=3), K70E (n=4), Y115F
+(n=2), K219E/R (n=8) en los sujetos del análisis de resistencia a la RPV.
+
+En sujetos adultos con supresión virológica infectados por el VIH-1 Estudio 106: Hasta la semana 48, 4 sujetos que cambiaron a COMPLERA® (4 de los 469 sujetos, 0,9%) y 1 sujeto que mantuvo su régimen basado en un inhibidor de la proteasa potenciado con ritonavir (1 de los 159 sujetos,
+0,6%)  desarrollaron  resistencia  genotípica  y/o  fenotípica  a  uno  de  los medicamentos del estudio. Los 4 sujetos con aparición de resistencia con COMPLERA® presentaron indicios de resistencia a la FTC y 3 de los sujetos presentaron indicios de resistencia a la RPV.
+Resistencia cruzada
+Rilpivirina, emtricitabina y tenofovir DF:
+En cultivo celular
+No  se  ha  demostrado  que  se  genere  resistencia  cruzada  significativa entre las variantes de VIH-1 resistentes a la RPV y las resistentes a la FTC o al tenofovir, ni entre las variantes resistentes a la FTC o al tenofovir y las resistentes a la RPV.
+Rilpivirina:
+Virus mutante de INNTI dirigido al sitio
+Se ha observado resistencia cruzada entre los INNTI. Las sustituciones únicas de INNTI correspondientes a K101P, Y181I e Y181V redujeron 52 veces,
+15 veces y 12 veces la susceptibilidad a la RPV, respectivamente. La combinación de E138K y M184I redujo 6,7 veces la susceptibilidad a la RPV, en comparación con 2,8 veces para la sustitución E138K sola. La sustitución
+K103N no mostró susceptibilidad reducida a la RPV por sí misma. Sin embargo, la combinación de K103N y L100I produjo una susceptibilidad a la RPV siete veces menor. En otro estudio, la sustitución Y188L produjo una susceptibilidad a la RPV nueve veces menor en los aislamientos clínicos y seis veces menor en los mutantes dirigidos al sitio. Las combinaciones de 2 o 3 sustituciones asociadas con la resistencia a INNTI produjeron una disminución de la susceptibilidad a la RPV (cambio dentro del rango de 3,7-554 veces) en el 38% y el 66% de los mutantes, respectivamente.
+En  sujetos  adultos  infectados  por  el  VIH-1  sin  antecedentes  de  tratamiento antirretroviral
+Teniendo en cuenta todos los datos clínicos y de cultivos celulares disponibles,  es  probable  que  cualquiera  de  las  siguientes  sustituciones de aminoácidos, cuando se encuentran presentes al inicio, disminuya la actividad antiviral de la RPV: K101E, K101P, E138A, E138G, E138K,
+E138R,  E138Q,  V179L,  Y181C,  Y181I,  Y181V,  Y188L,  H221Y,  F227C, M230I, M230L, y la combinación de L100I + K103N.
+Es  probable  que  se  genere  resistencia  cruzada  al  EFV,  la  etravirina y/o  la  nevirapina  después  del  fracaso  virológico  y  el  desarrollo  de resistencia a la RPV. En un análisis realizado a las 96 semanas con los datos combinados obtenidos de sujetos adultos que recibieron RPV en combinación  con  FTC/TDF  en  los  ensayos  clínicos  de  fase  3  TMC278C209y TMC278-C215, 43 de los 70 (61%) de los sujetos del análisis de resistencia  a  la  RPV  con  datos  de  resistencia  posbasales  presentaron virus con susceptibilidad reducida a la RPV (≥2,5 veces). De estos, el 84%  (n=36/43)  tenía  resistencia  al  EFV  (cambio  ≥3,3  veces),  el  88%
+(n=38/43))  tenía  resistencia  a  la  etravirina  (cambio  ≥3,2  veces)  y  el 60% (n=26/43) tenía resistencia a la nevirapina (cambio ≥6 veces). En el grupo de EFV, 3 de los 15 (20%) sujetos del análisis de resistencia al EFV tenían virus con resistencia a la etravirina y a la RPV, y el 93% (14/15)
+tenía resistencia a la nevirapina. Los virus de los sujetos que presentaron fracaso virológico mientras recibían RPV en combinación con FTC/TDF desarrollaron más sustituciones asociadas con la resistencia a INNTI que generaron más resistencia cruzada a la clase de INNTI y tuvieron una mayor probabilidad de mostrar resistencia cruzada a todos los INNTI de la clase que los sujetos que presentaron un fracaso durante el tratamiento con EFV.
+Emtricitabina: Los aislamientos resistentes a la FTC (M184V/I) presentaron resistencia cruzada a la lamivudina, pero conservaron la susceptibilidad a la didanosina, la estavudina, el tenofovir, la zidovudina y los INNTI
+(delavirdina, EFV, nevirapina y RPV) en cultivo celular. Los aislamientos del VIH-1 que contienen la sustitución K65R, seleccionados in vivo por el abacavir, la didanosina y el tenofovir, demostraron una susceptibilidad reducida a la inhibición ejercida por la FTC. Los virus que albergan sustituciones que reducen la susceptibilidad a la estavudina y la zidovudina
+(M41L, D67N, K70R, L210W, T215Y/F, K219Q/E) o a la didanosina (L74V)
+permanecieron sensibles a la FTC. El VIH-1 que contenía las sustituciones K103N asociadas con la resistencia a INNTI o las sustituciones asociadas con la RPV fue susceptible a la FTC.
+Tenofovir DF: Las sustituciones K65R y K70E seleccionadas por el tenofovir también son seleccionadas en algunos pacientes infectados por el VIH-1 que recibieron tratamiento con abacavir o didanosina. Los aislamientos del VIH-1 con las sustituciones K65R y K70E también mostraron una susceptibilidad reducida a la FTC y la lamivudina. Por lo tanto, puede generarse resistencia cruzada entre estos INTI en los pacientes cuyo virus alberga la sustitución K65R. Los aislamientos del VIH-1 obtenidos de pacientes (N=20) cuyo VIH-1 expresó una media de 3 sustituciones de aminoácidos de la TI asociadas con la zidovudina (M41L, D67N, K70R,
+L210W, T215Y/F o K219Q/E/N) disminuyeron 3,1 veces la susceptibilidad al tenofovir.
+Los  sujetos  cuyo  virus  expresó  una  sustitución  L74V  sin  sustituciones asociadas  con  la  resistencia  a  la  zidovudina  (N=8)  tuvieron  una  respuesta reducida a TDF. Se dispone de datos limitados sobre los pacientes  cuyo  virus  expresó  una  sustitución  Y115F  (N=3),  una  sustitución
+Q151M(N=2) o una inserción T69(N=4); todos ellos tuvieron una respuesta reducida.
+El VIH-1 que contiene las sustituciones K103N e Y181C asociadas con la resistencia a INNTI o que contiene sustituciones asociadas con la RPV fue susceptible al tenofovir.
+
+4. DOSIFICACIÓN Y MODO DE ADMINISTRACIÓN
+4.1 PRUEBAS ANTES DEL INICIO Y DURANTE EL TRATAMIENTO CON
+COMPLERA®
+Antes o cuando se inicia el tratamiento con COMPLERA®, realizar pruebas a los pacientes con respecto a la infección por el virus de la hepatitis
+B [ver Advertencias y precauciones (7.1.1)].
+Antes de iniciar el tratamiento con COMPLERA® y durante el tratamiento con  COMPLERA®,  con  un  régimen  clínicamente  apropiado,  evaluar  la creatinina sérica, el aclaramiento de creatinina estimado, la glucosa en orina y la proteína urinaria en todos los pacientes. En los pacientes con enfermedad renal crónica, evaluar también el fósforo sérico [ver Advertencias y precauciones (7.1.4)].
+4.2 Dosis recomendada
+COMPLERA® es un producto de combinación de dosis fija de tres fármacos que contiene 200 mg de emtricitabina (FTC), 25 mg de rilpivirina (RPV) y 300 mg de tenofovir disoproxil fumarato (TDF). La dosis recomendada de COMPLERA® en adultos y pacientes pediátricos que pesan al menos 35 kg es un comprimido tomado oralmente una vez por día con alimentos [ver Uso en poblaciones específicas (7.4) y Farmacología clínica (3.2.3)].
+4.3 Dosis recomendada durante el embarazo Para  las  pacientes  embarazadas  que  ya  están  tomando  COMPLERA® antas del embarazo y están virológicamente suprimidas (ARN de HIV-1 menor de 50 copias por mL), se puede continuar con un comprimido de COMPLERA® tomado una vez por día. Se observaron exposiciones menores de rilpivirina, un componente de COMPLERA®, durante el embarazo, por lo tanto, debería monitorearse estrechamente la carga viral [ver Uso en poblaciones específicas (7.4) y Farmacología clínica (3.2)].
+4.4 No recomendado en pacientes con disfunción renal moderada o grave Dado  que  COMPLERA®  es  una  combinación  de  dosis  fijas,  no  debe recetarse  a  pacientes  que  requieran  una  reducción  de  la  dosis,  como aquellos  que  tienen  disfunción  renal  moderada  o  grave  (depuración de creatinina estimada inferior a 50 ml por minuto) [ver Advertencias y precauciones (7.1.4) y Uso en poblaciones específicas (7.4)].
+4.5 Dosificación recomendada con coadministración con rifabutina Si  se  coadministra  COMPLERA®  con  rifabutina,  se  recomienda  tomar un comprimido adicional de 25 mg de rilpivirina una vez por día con COMPLERA®, y con una comida durante todo el tiempo que se coadministre la rifabutina [ver Interacciones farmacológicas (7.2.6) y Farmacología clínica (3.2.3)].
+
+5. FORMA FARMACÉUTICA Y CONCENTRACIÓN
+Cada  comprimido  de  COMPLERA®  contiene  200  mg  de  emtricitabina (FTC),  27,5  mg  de  clorhidrato  de  rilpivirina  (equivalentes  a  25  mg  de rilpivirina) y 300 mg de tenofovir DF (tenofovir DF o TDF, equivalentes a 245 mg de disoproxilo de tenofovir).
+Los comprimidos son de color rosa violáceo, con forma de cápsula, están recubiertos con película, y presentan grabado en bajorrelieve la inscripción “GSI” en un lado y ninguna inscripción del otro lado.
+
+6. CONTRAINDICACIONES
+COMPLERA®  está  contraindicado  cuando  se  coadministra  con  los fármacos  mencionados  a  continuación,  dado  que  la  coadministración puede ocasionar pérdida de la respuesta virológica y posible resistencia a COMPLERA® o a la clase de INNTI [ver Advertencias y precauciones  (7.1.6),  Interacciones  farmacológicas  (7.2)  y  Farmacología  clínica
+(3.2.3)]:
+•  Los anticonvulsivantes carbamazepina, oxcarbazepina, fenobarbital,
+
+fenitoína.
+
+•  Los antimicobacterianos rifampicina, rifapentina.
+•  El glucocorticoide (sistémico) dexametasona (más de una dosis única)
+•  Productos herbales: hierba de San Juan (Hypericum perforatum).
+•  Los inhibidores de la bomba de protones, como dexlansoprazol, esomeprazol, lansoprazol, omeprazol, pantoprazol, rabeprazol.
+
+7. ADVERTENCIASY PRECAUCIONES
+7.1 GENERALES
+7.1.1 Exacerbación aguda grave de la hepatitis B en pacientes coinfectados por el VIH-1 y el VHB Realizar  análisis  para  detectar  la  presencia  del  virus  de  la  hepatitis  B
+(HVB) crónica en todos los pacientes con VIH-1 antes o cuando se inicia el tratamiento antirretroviral [ver Dosificación y administración (4.1)].
+Se han informado exacerbaciones agudas graves de la hepatitis B (por ejemplo,  descompensación  hepática  e  insuficiencia  hepática)  en  pacientes que están coinfectados por el VIH-1 y el VHB y que discontinuaron los productos que contenían FTC y/o TDF, dos de los componentes de COMPLERA®. Debe monitorearse rigurosamente a los pacientes que estén coinfectados por el VIH-1 y el VHB, que discontinúen COMPLERA® con seguimiento clínico y de laboratorio durante al menos varios meses después de interrumpir el tratamiento con COMPLERA®. Si corresponde, puede estar justificado el inicio de un tratamiento contra la hepatitis B, especialmente en pacientes con enfermedad hepática avanzada o cirrosis, ya que la exacerbación de la hepatitis post-tratamiento puede llevar a una descompensación hepática y a insuficiencia hepática.
+7.1.2 Hepatotoxicidad
+Se  han  informado  eventos  adversos  hepáticos  en  pacientes  que  recibieron un régimen que contenía RPV. Los pacientes con infección por el virus de la hepatitis B o C subyacente, o aumentos marcados en las pruebas hepáticas antes del tratamiento pueden correr un mayor riesgo de agravación o de desarrollar aumentos en las pruebas de la función hepática con el uso de COMPLERA®. Se han informado algunos casos de toxicidad hepática en pacientes adultos que recibieron un régimen que contenía RPV que no tenían enfermedad hepática preexistente ni otros factores de riesgo identificables. Se recomienda realizar análisis de laboratorio apropiados antes de iniciar el tratamiento y monitorear la hepatotoxicidad durante el tratamiento con COMPLERA® en pacientes con enfermedad hepática subyacente, como hepatitis B o C, o en pacientes con aumentos marcados en las pruebas hepáticas antes de iniciar el tratamiento. Asimismo, se deberá considerar el monitoreo con pruebas hepáticas en los pacientes sin disfunción hepática preexistente ni otros factores de riesgo.
+7.1.3 Trastornos depresivos
+Se ha informado la reacción adversa trastornos depresivos (estado de ánimo deprimido, depresión, disforia, depresión mayor, estado de ánimo alterado, pensamientos negativos, intento de suicidio, ideación suicida) con el uso de rilpivirina. Los pacientes con síntomas depresivos graves deben someterse a una evaluación médica inmediata para analizar la posibilidad de que los síntomas estén relacionados con COMPLERA® y, de ser así, determinar si los riesgos de continuar con el tratamiento superan los beneficios.
+Durante los ensayos de fase 3 en adultos (N=1368) hasta 96 semanas, la incidencia de trastornos depresivos (independientemente de la causalidad y la gravedad) informada entre los sujetos que recibieron RPV
+(n=686) o EFV (n=682) fue del 9% y del 8%, respectivamente. La mayoría de los eventos fueron de gravedad leve o moderada. La incidencia de  trastornos  depresivos  de  grados  3  y  4  (independientemente  de  la causalidad) fue del 1% tanto para la RPV como para el EFV. La incidencia de suspensiones del tratamiento a causa de los trastornos depresivos entre los sujetos que recibieron RPV o EFV fue del 1% en cada grupo.
+Se informó ideación suicida en 4 sujetos de cada grupo mientras que se informó intento de suicidio en 2 sujetos del grupo de la RPV.
+Durante el ensayo de fase 2 en sujetos pediátricos de entre 12 y menos de 18 años (N=36) que recibieron RPV por un período de 48 semanas, la incidencia de trastornos depresivos (independientemente de la causalidad y la gravedad) fue del 19,4% (7/36). La mayoría de los eventos fueron de gravedad leve o moderada. La incidencia de trastornos depresivos de grado 3 y 4 (independientemente de la causalidad) fue del 5,6% (2/36). Ninguno de los sujetos suspendió el tratamiento debido a trastornos depresivos. Se notificaron casos de ideación suicida e intento de suicidio en 1 sujeto.
+7.1.4 Nueva aparición o empeoramiento de la disfunción renal Se han informado casos de disfunción renal, entre los que se incluyen insuficiencia renal aguda y síndrome de Fanconi (lesión tubular renal con  hipofosfatemia  grave),  asociados  con  el  uso  de  tenofovir  DF  [ver
+Reacciones adversas (9.2)].
+Antes de iniciar COMPLERA® y durante el tratamiento con COMPLERA®,
+
+con un régimen clínicamente apropiado, evaluar la creatinina sérica, el aclaramiento de creatinina estimado, glucosa en orina y proteínas en orina en todos los pacientes. En los pacientes con enfermedad renal crónica evaluar también el fósforo sérico.
+Debe  evitarse  administrar  COMPLERA®  con  el  uso  reciente  o  concomitante de un fármaco nefrotóxico (por ejemplo, antiinflamatorios no esteroideos [AINE] múltiples o a altas dosis) [ver Interacciones farmacológicas (7.2.4)]. Se han informado casos de insuficiencia renal aguda tras iniciar AINE múltiples o a altas dosis en pacientes infectados por el VIH con factores de riesgo de disfunción renal que parecían estar estables con tenofovir DF. Algunos pacientes necesitaron internación y terapias de sustitución de la función renal. En caso de ser necesario, se deben considerar  las  alternativas  a  los  AINE  en  los  pacientes  con  riesgo  de disfunción renal.
+El dolor óseo persistente o que empeora, el dolor de extremidades, las fracturas y/o el dolor o debilidad muscular pueden ser manifestaciones de una tubulopatía renal proximal y deben dar lugar a una evaluación de la función renal en los pacientes de riesgo.
+La emtricitabina y el TDF se eliminan principalmente por los riñones; sin embargo, no sucede así con la RPV. Dado que COMPLERA® es un producto de combinación y no se puede modificar la dosis de los componentes individuales, no se recomienda la administración de COMPLERA® a los pacientes con depuración de creatinina estimada inferior a 50 ml por minuto [ver Uso en poblaciones específicas (7.4.3)].
+7.1.5 Pérdida ósea y defectos de mineralización
+Densidad mineral ósea
+En los ensayos clínicos en adultos infectados por el VIH-1, el TDF, un componente de COMPLERA®, estuvo asociado a disminuciones ligeramente mayores en la densidad mineral ósea (DMO) y aumentos en los marcadores bioquímicos del metabolismo óseo, lo que sugiere un aumento del recambio óseo con respecto a los comparadores. Las concentraciones séricas de la hormona paratiroidea y de 1,25-vitamina D también fueron más altos en los sujetos que recibieron tenofovir DF. Para obtener información adicional, consulte la ficha técnica de TDF.
+Se llevaron a cabo ensayos clínicos en los que se evaluó el TDF en sujetos pediátricos y adolescentes. En circunstancias normales, la DMO aumenta rápidamente en los pacientes pediátricos. En los sujetos de entre 2 y menos de 18 años infectados por el VIH-1, los efectos óseos fueron similares a los observados en los sujetos adultos y sugieren un mayor recambio óseo. La ganancia en la DMO del cuerpo entero fue menor en los sujetos pediátricos infectados por el VIH-1 que recibieron tratamiento con TDF en comparación con los grupos de control. Se observaron tendencias similares en los sujetos adolescentes infectados por hepatitis B crónica de entre 12 y menos de 18 años. En todos los ensayos pediátricos, el crecimiento esquelético (estatura) no se vio afectado.
+Se  desconocen  los  efectos  de  los  cambios  asociados  con  el  TDF  en  la DMO y en los marcadores bioquímicos sobre la salud ósea a largo plazo y el riesgo de fracturas en el futuro. Debe considerarse la evaluación de la DMO en los pacientes adultos y pediátricos que tienen antecedentes de fractura ósea patológica u otros factores de riesgo de osteoporosis o pérdida de masa ósea. Si bien no se ha estudiado el efecto de los suplementos de calcio y vitamina D, es posible que el uso de tales suplementos sea beneficioso para todos los pacientes. Se debe obtener asesoramiento adecuado si se sospecha la presencia de anomalías óseas.
+Defectos de mineralización
+Se han informado casos de osteomalacia asociada con tubulopatía renal proximal, que se manifiesta como dolor óseo o dolor en las extremidades y que puede contribuir a las fracturas, en relación con el uso de TDF
+[ver Reacciones adversas (9)].
+Se  han  informado  asimismo  casos  de  artralgia  y  dolor  o  debilidad muscular en casos de tubulopatía renal proximal. Deben considerarse la hipofosfatemia y la osteomalacia secundarias a la tubulopatía renal proximal en los pacientes con riesgo de disfunción renal que presenten síntomas óseos o musculares persistentes o empeoramiento de los mismos mientras reciben productos que contienen TDF [ver Advertencias y precauciones (7.1.5)].
+7.1.6  Riesgo  de  reacciones  adversas  o  pérdida  de  la  respuesta virológica debido a interacciones farmacológicas El uso concomitante de COMPLERA® y otros fármacos puede resultar en interacciones farmacológicas potencialmente significativas, algunas de las cuales pueden llevar a [ver Dosificación y administración (4.5), Contraindicaciones (6) e Interacciones farmacológicas (7.2)]:
+•  Pérdida del efecto terapéutico de COMPLERA® y posible desarrollo de
+
+resistencia debido a exposición reducida a la RPV.
+
+•  Posible reacción adversa clínicamente significativa de mayores exposiciones de componentes de COMPLERA®.
+
+En sujetos sanos, se ha demostrado que 75 mg una vez por día y 300 mg una vez por día de RPV (3 veces y 12 veces la dosis en COMPLERA®) prolongan el intervalo QTc del electrocardiograma. Considerar alternativas a COMPLERA® cuando se coadministra con un fármaco que se conoce que tiene el riesgo de Torsade de Pointes [ver Interacciones farmacológicas (7.2) y Farmacología clínica (3.2)].
+Ver Tabla 12 para los pasos para prevenir o tratar estas posibles y conocidas  interacciones  farmacológicas  significativas,  incluyendo  las recomendaciones  de  dosificaciones.  Considerar  la  probabilidad  de las  interacciones  farmacológicas  antes  y  durante  el  tratamiento  con
+
+COMPLERA® y revisar las medicaciones concomitantes durante el tratamiento con COMPLERA®.
+7.1.7 Acidosis láctica/hepatomegalia severa con esteatosis Se han informado casos de acidosis láctica y hepatomegalia grave con esteatosis, incluso casos fatales, con el uso de análogos de los nucleósidos, incluyendo TDF y FTC, componentes de COMPLERA®, solo o en combinación con otros antirretrovirales. Se debe suspender el tratamiento con  COMPLERA®  en  todo  paciente  que  presente  datos  clínicos  o  de laboratorio que sugieran acidosis láctica o hepatotoxicidad pronunciada
+(que puede incluir hepatomegalia y esteatosis incluso en ausencia de elevaciones marcadas de transaminasas).
+7.1.8 Síndrome de reconstitución inmunitaria Se  han  informado  casos  de  síndrome  de  reconstitución  inmunitaria en  pacientes  que  recibieron  tratamiento  antirretroviral  combinado, incluidos los componentes de COMPLERA®. Durante la fase inicial del tratamiento  antirretroviral  combinado,  los  pacientes  cuyo  sistema inmunitario responde pueden presentar una respuesta inflamatoria a infecciones oportunistas residuales o indolentes [como la infección causada  por  Mycobacterium  avium,  el  citomegalovirus,  la  neumonía  por Pneumocystis jirovecii [PCP] o la tuberculosis), lo que puede requerir evaluación y tratamiento adicionales.
+Se  han  informado  asimismo  casos  de  trastornos  autoinmunitarios (como, por ejemplo, enfermedad de Graves, polimiositis, síndrome de Guillain-Barré y hepatitis autoimmune) en el contexto de la reconstitución inmunitaria, aunque el tiempo hasta la aparición es más variable y se pueden producir muchos meses después de iniciar el tratamiento.
+7.1.9 Reacciones cutáneas y de hipersensibilidad Se  han  reportado  reacciones  cutáneas  y  de  hipersensibilidad  severas durante la experiencia posterior a la comercialización, incluyendo casos de Reacción a Drogas con Eosinofilia y Síntomas Sistémicos (DRESS, por sus siglas en inglés) con regímenes conteniendo RPV. Mientras algunas de las reacciones cutáneas se acompañaron de síntomas constitucionales como fiebre, otras reacciones cutáneas se asociaron con disfunción orgánica, incluyendo elevaciones en los resultados de los análisis bioquímicos séricos hepáticos. Durante los estudios clínicos de fase 3, se reportaron erupciones cutáneas relacionadas con el tratamiento de al menos Grado 2 de severidad en el 1% de los pacientes que recibían RPV más FTC/TDF. En general, la mayoría de las erupciones cutáneas fueron de Grado 1 o 2 y ocurrieron durante las primeras cuatro a seis semanas de tratamiento [ver Reacciones adversas (9.1 y 9.4)].
+Se debe interrumpir el tratamiento con COMPLERA® inmediatamente si aparecen signos o síntomas de reacciones cutáneas o de hipersensibilidad severas, incluyendo –pero sin limitarse al listado que se presenta– erupción  cutánea  severa  o  erupción  cutánea  acompañada  por  fiebre, ampollas, compromiso de las mucosas, conjuntivitis, edema facial, angioedema, hepatitis o eosinofilia. Debe controlarse el estado clínico general incluyendo parámetros de laboratorio, e iniciar la terapia apropiada.
+
+7.2 INTERACCIONES FARMACOLÓGICAS
+Ver también Contraindicaciones (6) y Farmacología clínica (3.2.3).
+7.2.1 No se recomienda con otras medicaciones antirretrovirales Debido a que COMPLERA® es un régimen completo no se recomienda la  coadministración  con  otras  medicaciones  antirretrovirales  para  el tratamiento  de  la  infección  por  HIV-1.  No  se  proporciona  información exhaustiva con respecto a la probabilidad de interacciones fármaco-fármaco con otras medicaciones antirretrovirales.
+Esta  sección  describe  las  interacciones  medicamentosas  clínicamente  relevantes  que  se  producen  con  COMPLERA®.  Se  llevaron  a  cabo estudios  de  interacciones  medicamentosas  con  los  componentes  de COMPLERA® (FTC, RPV y TDF como monoterapias) o con COMPLERA® como producto de combinación [ver Dosificación y modo de administración (4), Contraindicaciones (6) y Farmacología clínica (3.2.3)].
+7.2.2 Fármacos que inducen o inhiben las enzimas CYP3A
+La  rilpivirina  es  metabolizada  principalmente  por  la  enzima  3A  del  citocromo P450 (CYP), por lo que los fármacos que inducen o inhiben las CYP3A pueden afectar la depuración de la RPV [ver Contraindicaciones
+(6), Advertencias y precauciones (7) y Farmacología clínica (3.2.3)]. La coadministración de RPV y fármacos que inducen las CYP3A puede ocasionar disminución en las concentraciones plasmáticas de la RPV, pérdida de la respuesta virológica y posible resistencia a la RPV o a la clase de INNTI.
+La coadministración de RPV y fármacos que inhiben las CYP3A puede ocasionar un aumento en las concentraciones plasmáticas de RPV.
+7.2.3 Fármacos que aumentan el pH gástrico La coadministración de RPV con fármacos que aumentan el pH gástrico puede  disminuir  las  concentraciones  plasmáticas  de  RPV  y  ocasionar pérdida de la respuesta virológica y posible resistencia a la RPV o a la clase de INNTI. El uso de RPV con inhibidores de la bomba de protones está contraindicado y el uso de RPV con antagonistas del receptor de H2 requiere una administración escalonada [ver Contraindicaciones (6) y Farmacología clínica (3.2.3)].
+7.2.4 Fármacos que afectan la función renal Debido a que la FTC y el tenofovir se eliminan principalmente por los riñones a través de una combinación de filtración glomerular y secreción tubular activa, la coadministración de COMPLERA® con fármacos que reducen la función renal o compiten por la secreción tubular activa puede aumentar las concentraciones séricas de FTC, tenofovir y/u otros
+
+fármacos que se eliminan por vía renal. Los ejemplos de fármacos que se eliminan por secreción tubular activa incluyen, entre otros, aciclovir, dipivoxilo de adefovir, cidofovir, ganciclovir, valaciclovir, valganciclovir, aminoglucósidos (p. ej., gentamicina) y AINE múltiples o a dosis altas
+[ver Advertencias y precauciones (7.1.4)].
+7.2.5 Fármacos que prolongan el intervalo QT
+Se  dispone  de  información  limitada  sobre  la  posibilidad  de  una  interacción farmacodinámica entre la RPV y los fármacos que prolongan el intervalo QTc del electrocardiograma. En un estudio realizado en sujetos sanos, se ha demostrado que la administración de dosis de RPV, de 75 mg una vez por día y 300 mg una vez por día, (3 veces y 12 veces la dosis en COMPLERA®) prolonga el intervalo QTc del electrocardiograma [ver
+Advertencias  y  precauciones  (7.2.5)  y  Farmacología  clínica  (3.2.2)].
+Considerar alternativas a COMPLERA® cuando se coadministre con un fármaco que se sabe conlleva riesgo de Torsade de Pointes.
+7.2.6 Interacciones medicamentosas significativas En la Tabla 12, se resume la información importante sobre las interacciones medicamentosas relacionadas con COMPLERA®. Las interacciones medicamentosas descritas se basan en estudios realizados con la FTC, la RPV o el TDF como fármacos individuales, o con COMPLERA® como producto de combinación o constituyen posibles interacciones medicamentosas [ver Farmacología clínica (3.2.3), Tablas 5-10]. Para la lista de fármacos contraindicados ver Contraindicaciones (6).
+
+Tabla 12. Interacciones medicamentosas significativasa:
+
+Efecto en la concentraciónb
+
+Comentario clínico
+
+Clase del fármaco concomitante:
+nombre del fármaco
+
+Antiácidos:
+antiácidos
+(p. ej., aluminio, hidróxido de magnesio o carbonato de calcio)
+
+Anticonvulsivantes:
+carbamazepina oxcarbazepina fenobarbital fenitoína
+
+↔ RPV (antiácidos administrados al menos 2 horas antes o al menos 4 horas después de la RPV)
+↓ RPV (ingesta concomitante)
+↓ RPV
+
+Administrar antiácidos al menos 2 horas antes o al menos 4 horas después de COMPLERA®
+
+La coadministración está contraindicada debido a la probabilidad de pérdida de la respuesta virológica y el desarrollo de resistencia
+La coadministración está contraindicada debido a la probabilidad de pérdida de la respuesta virológica y el desarrollo de resistencia
+Si se coadministra
+COMPLERA® con rifabutina, se recomienda un comprimido adicional de 25 mg de RPV una vez por día administrado de forma concomitante con COMPLERA® y con una comida durante todo el tiempo que se coadministre la rifabutina
+No se requiere un ajuste de la dosis cuando se coadministra COMPLERA® con antimicóticos azoles.
+Cuando se coadministran antimicóticos azoles con COMPLERA®, debe realizarse un monitoreo clínico para detectar infecciones micóticas intercurrentes
+La coadministración está contraindicada debido a la probabilidad de pérdida de la respuesta virológica y el desarrollo de resistencia
+Los pacientes que reciban COMPLERA® de manera concomitante con HARVONI® (ledipasvir/ sofosbuvir), EPCLUSA®
+(sofosbuvir/velpatasvir)
+o VOSEVI® (sofosbuvir/ velpatasvir/voxilaprevir)
+deben mantenerse bajo supervisión para detectar reacciones adversas asociadas con el TDF
+
+↓ RPV
+
+Antimicobacterianos:
+rifampina rifapentina
+
+Rifabutina
+
+↓ RPVc
+
+↑ RPVc,d
+↓ ketoconazolc,d
+
+Antimicóticos azoles:
+fluconazol itraconazol ketoconazol posaconazol voriconazol
+
+↓ RPV
+
+Glucocorticoides
+(sistémicos):
+dexametasona
+(tratamiento de más de una sola dosis)
+
+↑ tenofovirc
+
+Antivirales contra la hepatitis C:
+ledipasvir/sofosbuvir sofosbuvir/velpatasvir sofosbuvir/velpatasvir/ voxilaprevir
+
+Antagonistas de los receptores H2:
+cimetidina famotidina nizatidina ranitidina
+
+Productos herbales:
+hierba de San Juan
+(Hypericum perforatum)
+
+Antibióticos macrólidos o cetólidos:
+claritromicina eritromicina telitromicina
+Analgésicos narcóticos:
+metadona
+
+↔ RPVc,d (famotidina administrada 12 horas antes de la RPV o 4 horas después de la RPV)
+↓ RPVc,d (famotidina administrada 2 horas antes de la RPV)
+↓ RPV
+
+↑ RPV
+↔ claritromicina
+↔ eritromicina
+↔ telitromicina
+
+↓ R(−) metadonac
+↓ S(+) metadonac
+↔ RPVc
+↔ metadonac (cuando se usa con tenofovir)
+
+↓ RPV
+
+Inhibidores de la bomba de protones:
+por ej., dexlansoprazol esomeprazol lansoprazol omeprazol pantoprazol rabeprazol
+
+Administrar los antagonistas de los receptores H2 al menos 12 horas antes o al menos 4 horas después de COMPLERA®
+
+La coadministración está contraindicada debido a la probabilidad de pérdida de la respuesta virológica y el desarrollo de resistencia
+Siempre que sea posible, deben considerarse otras alternativas, como la azitromicina
+
+No se requieren ajustes de la dosis al iniciar la coadministración de metadona con COMPLERA®. Sin embargo, se recomienda realizar un monitoreo clínico, dado que es posible que sea necesario ajustar el tratamiento de mantenimiento con metadona en algunos pacientes
+La coadministración está contraindicada debido a la probabilidad de pérdida de la respuesta virológica y el desarrollo de resistencia
+
+a. Esta tabla no incluye todas las interacciones. b. Aumento = ↑; Disminución = ↓;
+Sin efecto= ↔. c. La interacción se evaluó en un estudio clínico. Todas las demás interacciones medicamentosas mostradas son previstas. d. Este estudio de interacciones se ha realizado con una dosis más alta que la dosis recomendada de RPV evaluando el efecto máximo sobre el fármaco coadministrado. Las recomendaciones posológicas se aplican a la dosis recomendada de RPV, que consiste en 25 mg una vez por día.
+
+7.2.7  Fármacos  sin  interacciones  observadas  ni  previstas  con
+COMPLERA®
+No  se  han  observado  interacciones  medicamentosas  clínicamente significativas entre la FTC y los siguientes medicamentos: famciclovir, ledipasvir/sofosbuvir’  sofosbuvir/velpatasvir,  sofosbuvir/velpatasvir/ voxilaprevir o TDF.
+En los estudios realizados en sujetos sanos, no se han observado interacciones medicamentosas clínicamente significativas entre el TDF y los siguientes medicamentos: entecavir, metadona, anticonceptivos orales, ribavirina, sofosbuvir o tacrolimus.
+Tampoco  se  han  observado  interacciones  medicamentosas  clínicamente  significativas  entre  la  RPV  y  los  siguientes  medicamentos:
+acetaminofeno, atorvastatina, clorzoxazona, etinilestradiol, ledipasvir/ sofosbuvir, noretindrona, sildenafil, simeprevir, sofosbuvir, sofosbuvir/ velpatasvir, sofosbuvir/velpatasvir/voxilaprevir, telaprevir o TDF.La RPV no exhibió un efecto clínicamente significativo en la farmacocinética de la digoxina o metformina.
+7.3 CARCINOGÉNESIS, MUTAGÉNESIS, DETERIORO DE LA FERTILIDAD Emtricitabina: En estudios de carcinogenicidad a largo plazo realizados con la FTC, no se observaron aumentos relacionados con el fármaco en la incidencia de tumores en ratones tratados con dosis de hasta 750 mg por kg por día (26 veces la exposición sistémica humana con la dosis terapéutica de 200 mg por día) ni en ratas tratadas con dosis de hasta
+600 mg por kg por día (31 veces la exposición sistémica humana con la dosis terapéutica).
+La  FTC  no  fue  genotóxica  en  la  prueba  bacteriana  de  retromutación (prueba de Ames) ni en los ensayos de linfoma de ratón o micronúcleos de ratón.
+La FTC no afectó la fertilidad en ratas machos con exposiciones aproximadamente 140 veces más altas ni en ratones machos y hembras con exposiciones  aproximadamente  60  veces  más  altas  (ABC)  que  en  los seres humanos que reci bieron la dosis diaria recomendada de 200 mg.
+La fertilidad fue normal en las crías de los ratones expuestos a diario desde antes del nacimiento (dentro del útero) hasta la madurez sexual, con  exposiciones  diarias  (ABC)  aproximadamente  60  veces  más  altas que las exposiciones en seres humanos con la dosis diaria recomendada de 200 mg.
+Rilpivirina: Se evaluó el potencial cancerígeno de la RPV mediante la administración por sonda oral a ratones y ratas hasta 104 semanas. Se
+
+administraron dosis diarias de 20, 60 y 160 mg por kg por día a ratones, y se administraron dosis de 40, 200, 500 y 1500 mg por kg por día a ratas. En las ratas, no se observaron neoplasias relacionadas con el fármaco. En los ratones, la RPV tuvo resultados positivos para neoplasias hepatocelulares, tanto en machos como en hembras. Es posible que los hallazgos hepatocelulares observados en los ratones sean específicos de roedores. Con las dosis más bajas evaluadas en los estudios de carcinogenicidad, las exposiciones sistémicas (según los valores de ABC) a la RPV fueron 21 veces (ratones) y 3 veces (ratas) mayores, en comparación con las exposiciones observadas en los seres humanos con la dosis recomendada (25 mg una vez por día).
+La RPV tuvo resultados negativos, tanto en ausencia como en presencia de un sistema de activación metabólica, en el ensayo de retromutación de Ames in vitro y en el de linfoma de ratón in vitro para la clastogenicidad. La RPV no indujo daño cromosómico en la prueba de micronúcleos in vivo en ratones.
+En un estudio realizado en ratas, no se observaron efectos en el apareamiento ni en la fertilidad al administrar hasta 400 mg de RPV por kg por día, una dosis de RPV que mostró toxicidad materna. Esta dosis está asociada con una exposición que es aproximadamente 40 veces más alta que la exposición obtenida en seres humanos con la dosis recomendada de 25 mg una vez por día.
+Tenofovir DF: Se llevaron a cabo estudios a largo plazo de carcinogenicidad oral del TDF en ratones y ratas, con exposiciones aproximadamente hasta 16 veces (ratones) y 5 veces (ratas) mayores a las observadas en los seres humanos con la dosis terapéutica para la infección por el VIH-1.
+Con la dosis alta en ratones hembras, se incrementaron los adenomas hepáticos, con exposiciones 16 veces mayores que las de los seres humanos. En las ratas, el estudio arrojó resultados negativos en cuanto a hallazgos  de  carcinogénesis  con  exposiciones  hasta  5  veces  mayores que las observadas en los seres humanos con la dosis terapéutica.
+El tenofovir DF fue mutagénico en el ensayo de linfoma de ratón in vitro y negativo en una prueba de mutagenicidad bacteriana (prueba de Ames)
+in vitro. En un ensayo de micronúcleos de ratón in vivo, el TDF tuvo resultados negativos cuando se administró a ratones machos.
+No  hubo  efectos  en  la  fertilidad,  la  capacidad  de  apareamiento  ni  el desarrollo embrionario temprano cuando se administró TDF a ratas machos con una dosis equivalente a 10 veces la dosis para seres humanos, sobre la base de las comparaciones de la superficie corporal, durante 28 días antes del apareamiento y a las ratas hembras durante 15 días antes del apareamiento hasta el séptimo día de gestación. Sin embargo, se observó una alteración del ciclo estral en las ratas hembras.
+7.4 USO EN POBLACIONES ESPECÍFICAS
+7.4.1 Embarazo
+Registro de embarazos con antirretrovirales A fin de monitorear los resultados en los fetos de mujeres embarazadas expuestas a COMPLERA®, se ha establecido un registro de embarazos concebidos durante tratamientos con antirretrovirales. Se recomienda que los médicos registren a las pacientes que queden embarazadas en el siguiente sitio de internet: www.apregistry.com, o se comuniquen al +54 11 4858 9000 (interno 229) o a farmacovigilancia@gador.com.ar.
+Resumen de riesgos
+Los datos disponibles del APR no muestran un aumento del riesgo general de defectos congénitos importantes con le exposición en el primer trimestre para emtricitabina (FTC), rilpivirina (RPV) o tenofovir (TDF) en comparación con la tasa de antecedentes para defectos congénitos principales de 2,7% en una población de referencia de los EE. UU del Metropolitan
+Atlanta Congenital Defects Program (MACDP) (ver Datos). En un ensayo clínico, las exposiciones totales de rilpivirina eran generalmente menores durante el embarazo en comparación con el período postparto [ver Farmacología clínica (3.2)]. La tasa de abortos espontáneos para los fármacos individuales no se informa en el APR. La tasa de antecedentes estimada de  abortos  espontáneos  en  embarazos  clínicamente  reconocidos  en  la población general de los EE.UU. es de 15-20%.
+En base a la experiencia de las mujeres embarazadas infectadas por HIV1 que completaron un ensayo clínico a través del período postparto con un régimen a base de RPV, no se requieren ajustes de la dosis para las pacientes embarazadas que ya reciben un régimen que contiene RPV estable  antes  del  embarazo  y  que  están  virológicamente  suprimidas
+(ARN de HIV-1 menor de 50 copias por mL). Se observaron exposiciones menores de RPV durante el embarazo, por lo tanto, la carga viral debería ser monitoreada estrechamente [ver Datos y Farmacología clínica (3.2)].
+En estudios en animales, no se observaron efectos adversos sobre el desarrollo cuando los componentes de COMPLERA® fueron administrados separadamente durante el período de organogénesis a exposiciones de hasta 60 y 120 veces (ratones y conejos, respectivamente,
+FTC) y 15 y 70 veces (ratas y conejos, respectivamente; RPV) la exposición de estos componentes en COMPLERA® y a 14 y 19 veces (ratas y conejos, respectivamente) la dosis humana de TDF en base a comparaciones del área de superficie corporal (ver Datos). Igualmente, no se observaron efectos adversos sobre el desarrollo cuando se administró
+FTC a ratones y se administró RPV a ratas durante la lactancia a exposiciones de hasta aproximadamente 60 y 63 veces, respectivamente, la exposición a la dosis diaria recomendada de estos componentes en COMPLERA®.  No  se  observaron  efectos  adversos  en  la  cría  de  ratas cuando se administró TDF durante la lactancia a exposiciones de tenofovir de aproximadamente 14 veces la exposición a la dosis diaria recomendada de COMPLERA®.
+Datos
+Datos en humanos
+Los informes prospectivos del APR de defectos congénitos principales generales en embarazos expuestos a los componentes farmacológicos de  COMPLERA®  son  comparados  con  la  tasa  de  defectos  congénitos principales de base de los EE.UU. Las limitaciones metodológicas del APR incluyen el uso de MACDP como el grupo comparador externo. Las limitaciones del uso de un comparador externo incluyen diferencias en la metodología y poblaciones, así como también la confusión debido a una enfermedad subyacente.
+Emtricitabina: En base a informes prospectivos al APR de exposiciones a regímenes que contienen FTC durante el embarazo que resultaron en nacimientos vivos (incluyendo más de 2.750 expuestos en el primer trimestre y más de 1.200 expuestos en el segundo/tercer trimestre), no hubo un aumento de los defectos congénitos principales generales con FTC en comparación con la tasa de defectos congénitos de base de 2,7% en la población de referencia de los EE.UU. del MACDP. La prevalencia de defectos congénitos principales en nacimientos vivos fue de 2,4% (IC de 95%: 1,9% a 3,1%) con una exposición del primer trimestre a regímenes que contienen FTC y 2,3% (IC de 95%: 1,5% a 3,3%) con la exposición del segundo/tercer trimestre a regímenes que contienen FTC.
+Rilpivirina: RPV en combinación con un régimen de base fue evaluada en un ensayo clíico de 19 mujeres embarazadas infectadas por HIV-1 que recibían un régimen a base de RPV durante el segundo y el tercer trimestres  y  postparto.  Cada  una  de  las  pacientes  recibían  un  régimen a base de RPV en el momento del enrolamiento. Doce pacientes completaron  el  ensayo  durante  el  período  postparto  (6-12  semanas después del parto) y no se obtuvieron los resultados de los embarazos para seis sujetos. La exposición (C0h y AUC) de la RPV total fue aproximadamente 30 a 40% menor durante el embarazo en comparación con el postparto (6 a 12 semanas). La ligadura de proteínas de RPV era similar
+(>99%) durante el segundo trimestre, el tercer trimestre, y el período postparto  [ver  Farmacología  clínica  (12.3)].  Una  paciente  discontinuó el ensayo después de una muerte fetal a las 25 semanas de gestación debido a una ruptura prematura de membranas sospechada. Entre las 12 pacientes que estaban virológicamente suprimidas al inicio (menos de 50 copias/mL), la respuesta virológica se preservó en 10 pacientes
+(83,3%) hasta la visita del tercer trimestre y en 9 pacientes (75%) hasta la visita postparto de 6-12 semanas. Los resultados virológicos durante la visita del tercer trimestre faltaban para dos pacientes que se retiraron
+(una paciente era no adherente al fármaco del estudio y una paciente retiró su consentimiento). Entre los 10 niños con resultados de la prueba de HIV disponibles, todos eran negativos para el HIV-1 en el momento del parto y hasta 16 semanas postparto (los 10 bebés recibieron tratamiento profiláctico con zidovudina). La RPV fue bien tolerada durante el embarazo y el postparto. No hubo nuevos hallazgos de seguridad en comparación con el perfil de seguridad conocido de RPV en los adultos infectados por HIV–1.
+En base a informes prospectivos al APR de exposiciones a regímenes que  contienen  RPV  durante  el  embarazo  (incluyendo  más  de  290  expuestas durante el primer trimestre y más de 160 expuestas en el segundo/tercer trimestre), no hubo un aumento significativo en el riesgo general  de  defectos  congénitos  principales  con  RPV  en  comparación con la tasa de defectos congénitos de base de 2,7% en la población de referencia de los EE.UU. del MACDP. La prevalencia de defectos congénitos principales en nacimientos vivos fue de 1,0% (IC de 95%: 0,2% a
+2,9%) y 1,2% (IC de 95%: 0,2% a 4,4%) después de la exposición en el primer y en el segundo/tercer trimestre, respectivamente, a regímenes que contienen RPV.
+Tenofovir DF: En base a informes prospectivos al APR de exposiciones a regímenes que contienen TDF durante el embarazo que resultaron en nacimientos  vivos  (incluyendo  más  de  3.500  expuestas  en  el  primer trimestre y más de 1.500 expuestas en el segundo/tercer trimestre), no hubo un aumento en el riesgo general de defectos congénitos principales generales en comparación con la tasa de defectos congénitos de base de 2,7% en la población de referencia de los EE.UU. del MACDP.
+La prevalencia de defectos congénitos principales en nacimientos vivos fue de 2,3% (IC de 95%: 1,8% a 2,9%) con la exposición en el primer trimestre a regímenes que contenían TDF, y 2,2% (IC de 95%: 1,6% a
+3,1%)  con  la  exposición  den  el  segundo/tercer  trimestre  a  regímenes que contienen TDF.
+Datos en animales
+Emtricitabina:  FTC  fue  administrada  oralmente  a  ratones  hembras preñadas (a 0, 250, 500 o 1.000 mg/kg/día) y conejas (a 0, 100, 300 o 1.000 mg/kg/día) durante la organogénesis (en los días de gestación 6 a 15, y 7 a 19, respectivamente). No se observaron efectos toxicológicos significativos en estudios de toxicidad embrio-fetales realizados con FTC en ratones a exposiciones (AUC) aproximadamente 60 veces mayores y en conejos a aproximadamente 120 veces mayores que las exposiciones en humanos a la dosis diaria recomendada. En un estudio de desarrollo pre/postnatal  en  ratones  hembras,  se  administró  la  FTC  oralmente  a dosis de hasta 1.000 mg/kg/día; no se observaron efectos adversos significativos relacionados directamente con el fármaco en la cría expuesta diariamente  desde  antes  del  nacimiento  (in  utero)  hasta  la  madurez
+
+sexual a exposiciones diarias (AUC) de aproximadamente 60 veces mayores que las exposiciones en humanos a la dosis diaria recomendada.
+Rilpivirina: Se administró la RPV oralmente a ratas preñadas (40, 120 o 400 mg/kg/día) y conejos (5, 10 o 20 mg/kg/día) durante la organogénesis (en los días de gestación 6 a 17, y 6 a 19, respectivamente). No se observaron efectos toxicológicos significativos en los estudios de toxicidad embrio-fetal realizados con RPV en ratas y conejos a exposiciones 15
+(ratas) y 70 (conejos) veces mayores que la exposición en humanos a la dosis recomendada de 25 mg una vez por día. En un estudio de desarrollo pre/postnatal con RPV, en donde se administró a las ratas hasta 400 mg/kg/día hasta la lactancia, no se observaron efectos adversos significativos relacionados directamente con el fármaco en la cría.
+Tenofovir DF: Se administró TDF oralmente a ratas preñadas (a 0, 50, 150 o 450 mg/kg/día) y conejos (a 0, 30, 100 o 300 mg/kg/día) durante la organogénesis (en los días de gestación 7 a 17, y 6 a 18, respectivamente). No se observaron efectos toxicológicos significativos en estudios de toxicidad embrio-fetales realizados con TDF en ratas a dosis hasta 14 veces la dosis humana basada enlas comparaciones del área de superficie corporal y conejos a dosis de hasta 19 veces la dosis humana en base a las comparaciones del área de superficie corporal. En un estudio de desarrollo pre/postnatal en ratas, se administró TDF oralmente hasta la lactancia a dosis de hasta 600 mg/kg/día; no se observaron efectos adversos en la cría a tenofovir aproximadamente y 2,7 veces mayores que las exposiciones en humanos a la dosis diaria recomendada de COMPLERA®.
+7.4.2 Lactancia
+Resumen de riesgos
+Se recomienda que las madres infectadas por el VIH no amamanten a sus hijos para evitar el riesgo de transmisión posnatal del VIH.
+En  base  a  los  datos  publicados,  la  FTC  y  el  tenofovir  han  demostrado estar  presentes  en  la  leche  humana.  No  hay  datos  sobre  la  presencia de RPV en la leche humana. La RPV ha demostrado estar presente en la leche de rata (ver Datos).
+Se desconoce si los componentes de COMPLERA® afectan la producción de leche o tienen efectos sobre el niño amamantado. Debido a la probabilidad de: (1) transmisión del HIV (en niños HIV-negativos); (2) desarrollar resistencia viral (en niños HIV-positivos); y (3) reacciones adversas en un niño  amamantado  similares  a  las  observadas  en  los  adultos,  debe  instruirse a las madres que no amamanten si están recibiendo COMPLERA®.
+Datos
+Rilpivirina: En animales, no se realizaron estudios para evaluar la excreción de RPV directamente; sin embargo, la RPV se midió en crías de ratas que fueron expuestas a la leche de las madres tratadas (a las que se les administraron hasta 400 mg/kg/día).
+7.4.3 Uso pediátrico
+La seguridad y efectividad de COMPLERA® como un régimen completo para el tratamiento de la infección por HIV-1 fue establecida en pacientes pediátricos de 12 años de edad y mayores con un peso corporal mayor que, o igual a, 35 kg [ver Dosificación y administración (4.2)]. El uso de COMPLERA® en este grupo etario con un peso de al menos 35 kg es soportado por estudios adecuados y bien controlados de RPV+FTC+TDF en adultos con infección por HIV-1 así como también datos de estudios pediátricos de los componentes individuales de COMPLERA® (RPV, FTC y TDF) [ver Farmacología clínica (3.2) y Estudios clínicos (8.2)].
+COMPLERA® sólo debería ser administrado a pacientes pediátricos con un peso corporal mayor que, o igual a, 35 kg. Debido a que COMPLERA® es  un  comprimido  de  una  combinación  de  dosis  fija,  la  dosis  de COMPLERA® no puede ser ajustada para pacientes de menor peso. La seguridad y la efectividad para COMPLERA® no ha sido establecida en pacientes pediátricos con un peso menor de 35 kg [ver Reacciones adversas (9.3) y Farmacología clínica (3.2.3)].
+7.4.4 Uso geriátrico
+Los estudios clínicos realizados con FTC, RPV o TDF no incluyeron cantidades suficientes de sujetos de 65 años o más como para determinar si responden de modo diferente que los sujetos más jóvenes. En general, la selección de la dosis para los pacientes de edad avanzada debe efectuarse con precaución, teniendo en cuenta la mayor frecuencia de disminución  de  las  funciones  hepática,  renal  o  cardíaca,  así  como  las enfermedades concomitantes u otros tratamientos farmacológicos [ver
+Farmacología clínica (3.2.3)].
+7.4.5 Disfunción renal
+Dado que COMPLERA® es una combinación de dosis fijas y no puede ajustarse la dosis, no se recomienda en pacientes que tienen disfunción renal moderada, grave o terminal (depuración de creatinina estimada inferior a 50 ml por minuto) o que requieren diálisis [ver Advertencias y precauciones (7.1.2), y Farmacología clínica (3.2.3)].
+7.4.6 Disfunción hepática
+No se requiere ajustar la dosis de COMPLERA® en los pacientes con disfunción hepática leve (clase A de Child-Pugh) o moderada (clase B de Child-Pugh). No se ha estudiado el efecto de COMPLERA® en pacientes con disfunción hepática grave (clase C de Child-Pugh) [ver Farmacología clínica (3.2.3)].
+7.5 TOXICOLOGÍA Y/O FARMACOLOGÍA EN ANIMALES Tenofovir DF: El tenofovir y el tenofovir DF administrados a ratas, perros y monos en estudios de toxicología con exposiciones (según los valores de ABC) equivalentes a 6 veces o más que las exposiciones observadas en los seres humanos ocasionaron toxicidad ósea. En los monos, la toxicidad ósea se diagnosticó como osteomalacia. La osteomalacia observada en los monos mostró ser reversible al reducir la dosis o suspender el uso de tenofovir. En las ratas y los perros, la toxicidad ósea se manifestó en forma de disminución de la densidad mineral ósea. Se desconocen los mecanismos subyacentes de la toxicidad ósea.
+Se observaron indicios de toxicidad renal en 4 especies animales. En estos animales, se observaron diversos grados de aumentos de creatinina sérica, nitrógeno ureico en sangre, glucosuria, proteinuria, fosfaturia y/o calciuria, y de disminuciones del fosfato sérico. Estas toxicidades se observaron con exposiciones (según los valores de ABC) 2-20 veces más altas que las observadas en los seres humanos. No se conoce la relación de las anomalías renales, en particular la fosfaturia, con la toxicidad ósea.
+
+8. ESTUDIOS CLÍNICOS
+8.1 Sujetos adultos
+En  sujetos  adultos  infectados  por  el  VIH-1  sin  antecedentes  de  tratamiento antirretroviral La eficacia de COMPLERA® se basa en los análisis de los datos obtenidos durante 48 y 96 semanas en COMPLERA® estudios aleatorizados, doble  ciego,  controlados:  el  estudio  C209  (ECHO)  y  el  subgrupo  con TRUVADA® del estudio C215 (THRIVE), realizados en sujetos infectados por el VIH-1 sin tratamiento previo (N=1368). Los estudios tienen un diseño  idéntico,  excepto  por  el  régimen  de  fondo.  Los  sujetos  fueron aleatorizados en una proporción 1:1 para recibir ya sea 25 mg de RPV
+(N=686) una vez por día o 600 mg de EFV (N=682) una vez por día junto con un régimen de fondo. En el estudio C209 (N=690), el régimen de fondo consistió en FTC/TDF. En el estudio C215 (N=678), el régimen de fondo consistió en 2 INTI: FTC/TDF (60%, n=406) o lamivudina/zidovudina (30%, n=204) o abacavir + lamivudina (10%, n=68).
+Para los sujetos que recibieron FTC/TDF (N=1096) en los estudios C209 y C215, la media de la edad fue de 37 años (rango: 18-78), el 78% era de sexo masculino, el 62% era de raza blanca, el 24% era de raza negra, y el 11% era de raza asiática. La media basal del recuento de linfocitos
+CD4+ era de 265 células/mm3 (rango: 1-888) y el 31% tenía recuentos de linfocitos CD4+ <200células/mm3. La mediana basal del ARN del VIH-1 plasmático era de 5 log10 copias/ml (rango: 2-7). Los sujetos fueron estratificados según el ARN del VIH-1 basal. El 50% de los sujetos tenía una carga viral basal ≤100.000 copias/ml, el 39% de los sujetos tenía una carga viral basal de 100.000 copias/ml a 500.000 copias/ml, y el 11% de los sujetos tenía una carga viral basal >500.000 copias/ml.
+Los resultados del tratamiento durante 96 semanas para el subconjunto de sujetos que recibieron FTC/TDF en los estudios C209 y C215 [Tabla 13]  concuerdan  en  general  con  los  resultados  del  tratamiento  para todos los sujetos que participaron. La incidencia de fracaso virológico fue mayor en el grupo de la RPV que en el grupo del EFV en la semana
+96. Los fracasos virológicos y las suspensiones por eventos adversos se produjeron principalmente en las primeras 48 semanas de tratamiento.
+
+Tabla  13.  Resultados  virológicos  combinados  del  tratamiento aleatorizado  de  los  estudios  C209  y  C215  (en  la  semana  96  en sujetos adultos sin antecedentes de tratamiento antiviral en combinación con FTC/TDF) en la semana 96a
+
+RPV
++FTC/
+TDF
+N=550
+77%
+14%
+
+EFV
++FTC/
+TDF
+N=546
+77%
+8%
+
+4%
+
+4%
+
+9%
+
+6%
+
+<1%
+
+≤1%
+
+ARN del VIH-1 <50 copias/mlb
+ARN del VIH-1 ≥50 copias/mlc
+Sin datos virológicos en la ventana de la semana 96
+Motivos
+Abandono del estudio debido a un evento adverso o la muerted Abandono del estudio por otros motivose y el último ARN del VIH-1 disponible <50 copias/ml (o faltante)
+Datos faltantes durante la ventana pero mientras se continuaba en el estudio ARN del VIH-1 <50 copias/ml por ARN del VIH-1 basal (copias/ml)
+≤100.000
+>100.000
+ARN del VIH-1 ≥50 copias/mlc por ARN del VIH-1 basal (copias/ml)
+≤100.000
+5%
+>100.000
+12%
+ARN del VIH-1 <50 copias/ml por recuento de linfocitos CD4+ basal
+(células/mm3)
+<200
+≥200
+ARN del VIH-1 ≥50 copias/mlc por recuento de linfocitos CD4+ basal
+(células/mm3)
+<200
+≥200
+
+80%
+74%
+
+83%
+71%
+
+7%
+22%
+
+27%
+8%
+
+12%
+7%
+
+72%
+79%
+
+68%
+82%
+
+a. Los análisis se basaron en los datos de las últimas cargas virales observadas dentro de la ventana de la semana 96 (semanas 90-103). b. La diferencia prevista (IC del 95%)
+de la tasa de respuesta es 0,5% (-4,5% a 5,5%) en la semana 96. c. Incluye a los sujetos que  tenían  ≥50  copias/ml  en  la  ventana  de  la  semana  96;  los  sujetos  que  suspendieron el tratamiento en forma anticipada debido a la falta o pérdida de eficacia; los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte o la falta o pérdida de eficacia y que, en el momento de la suspensión del tratamiento, tenían un valor de carga viral ≥50 copias/ml; y los sujetos que tuvieron un cambio en el régimen de fondo que no estaba permitido por el protocolo. d. Incluye a los sujetos que suspendieron el tratamiento debido a un evento adverso o la muerte, si como consecuencia faltaban datos virológicos durante el tratamiento en la ventana de la semana 96. e. Incluye a los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte o la falta o pérdida de eficacia, p. ej., consentimiento retirado, pérdida durante el seguimiento, etc.
+
+En función de los datos combinados obtenidos de los estudios C209 y C215, el aumento medio del recuento de linfocitos CD4+ con respecto al valor basal en la semana 96 fue de 226 células/mm3 para los sujetos tratados con RPV + FTC/TDF y de 223 células/mm3 para los sujetos tratados con EFV + FTC/TDF.
+En sujetos adultos con supresión virológica infectados por el VIH-1 En  el  estudio  106,  un  estudio  aleatorizado  y  abierto  en  adultos  con supresión  virológica  infectados  por  el  VIH-1,  se  evaluó  la  eficacia  y  la seguridad  de  cambiar  de  un  inhibidor  de  la  proteasa  potenciado  con ritonavir en combinación con dos INTI a COMPLERA®. Los sujetos tenían que  estar  recibiendo  su  primer  o  su  segundo  régimen  antirretroviral, sin  antecedentes  de  fracaso  virológico,  no  tener  actualmente  y  sin antecedentes  de  resistencia  a  ninguno  de  los  tres  componentes  de COMPLERA® y deben haber presentado supresión (ARN del VIH-1 <50 copias/ml) durante al menos 6 meses antes de la selección. Los sujetos fueron aleatorizados en una proporción de 2:1 a cambiar a COMPLERA® al inicio (grupo de COMPLERA®, N=317), o a permanecer con su régimen antirretroviral basal durante 24 semanas (grupo de IRB, N=159)
+y luego cambiar a COMPLERA® durante otras 24 semanas (N =52). Los sujetos tenían una media de edad de 42 años (intervalo: 19 a 73), el 88% era de sexo masculino, el 77% era blanco, el 17% era negro y el 17% era hispano/latino. El recuento medio basal de linfocitos CD4+ era de 584 células/mm3 (intervalo: 42 a 1484). La aleatorización se estratificó según el uso de TDF y/o lopinavir/ritonavir en el régimen basal.
+Los resultados del tratamiento se presentan en la Tabla 14.
+
+Tabla 14. Resultados virológicos del estudio GS-US-264-0106 en sujetos virológicamente suprimidos
+
+COMPLERA®
+Semana 48a
+
+Permanecieron con su régimen basal
+(IRB) Semana
+24b
+
+N=317
+
+N=159
+
+ARN del VIH-1 <50 copias/mlc
+
+89% (283/317) 90% (143/159)
+
+ARN del VIH-1 ≥50 copias/mld
+
+3% (8/317)
+
+5% (8/159)
+
+Sin datos virológicos en la ventana de la semana 24
+
+Abandono del medicamento del estudio debido a un EA o la muertee
+
+2% (7/317)
+
+0%
+
+Abandono del medicamento del estudio por otros motivos y último valor disponible de ARN del VIH-1 <50 copias/mlf
+
+5% (16/317)
+
+3% (5/159)
+
+Datos faltantes durante la ventana pero recibe el medicamento del estudio
+
+1% (3/317)
+
+2% (3/159)
+
+a. La ventana de la semana 48 está entre los días 295 y 378 (inclusive). b. Para los sujetos en el grupo de IRB que mantuvieron su régimen basal durante 24 semanas y luego cambiaron a COMPLERA®, la ventana de la semana 24 está entre el día 127 y el día de la primera dosis de COMPLERA®. c. La diferencia prevista (IC del 95%) de la tasa de respuesta de cambiar a COMPLERA® en la semana 48 en comparación con permanecer con el régimen basal en la semana 24 (en ausencia de resultados de la semana 48 del grupo de IRB por el diseño del estudio) es del -0,7% (-6,4% a 5,1%). d.
+Incluye a los sujetos con ARN del VIH-1 ≥50 copias/ml dentro de la ventana temporal, a los sujetos que suspendieron el tratamiento por motivos de falta o pérdida de eficacia y a los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso o la muerte y que en el momento de la suspensión tenían una carga viral ≥50 copias/ml. e. Incluye a los sujetos que suspendieron el tratamiento debido a un evento adverso o la muerte en cualquier punto de la ventana temporal desde el día 1 sí, como consecuencia, esto dio lugar a la falta de datos virológicos durante el tratamiento en la ventana especificada. f. Incluye a los sujetos que suspendieron el tratamiento por motivos distintos de un evento adverso, la muerte o la falta o pérdida de eficacia, p.ej., retiro del consentimiento, pérdida durante el seguimiento, etc.
+
+8.2 Sujetos pediátricos
+La farmacocinética, la seguridad y la eficacia de la RPV en combinación con otros antirretrovirales se evaluó en un ensayo de fase 2, de grupo
+
+único, sin enmascaramiento, realizado en sujetos pediátricos infectados por el VIH-1, sin tratamiento antirretroviral previo, de entre 12 y menos de 18 años, que pesaban al menos 32 kg (TMC-C213). Se inscribieron treinta y seis (36) sujetos cuya mediana de la edad era de 14,5 años (rango de 12 a 17 años); el 55,6% era de sexo femenino, el 88,9% era de raza negra, y el 11,1% era de raza asiática. La mayoría de los sujetos (24/36)
+recibió RPV en combinación con FTC y TDF. De estos 24 sujetos, 20 tenían un valor basal de ARN del VIH ≤100.000 copias/ml. A continuación, se describen con mayor detalle las características basales y los resultados de eficacia en la semana 48 correspondientes a estos 20 sujetos.
+La mediana del valor basal de ARN del VIH-1 plasmático y el recuento de linfocitos CD4+ fue de 49.550 (rango de 2060 a 92.600 copias/ml)
+y de 437,5 células/mm3 (rango de 123 a 983 células/mm3), respectivamente. En la semana 48, el 80% (16/20) de los sujetos tenía un valor de ARN del VIH <50 copias/ml, el 15% (3/20) tenía un valor de ARN del VIH
+≥50 copias/ml, y un sujeto suspendió el tratamiento con anterioridad a la semana 48 y antes de alcanzar supresión virológica (ARN del VIH <50 copias/ml). En la semana 48, el aumento medio en el recuento de linfocitos CD4+ respecto de la situación basal fue de 225 células/mm3.
+
+9. REACCIONES ADVERSAS
+Las  siguientes  reacciones  adversas  se  analizan  en  otras  secciones  del prospecto:
+•  Exacerbaciones agudas graves de la hepatitis B en pacientes coinfectados por HIV-1 y HBV [ver Advertencias y precauciones (7.1.1)].
+
+•  Hepatotoxicidad [ver Advertencias y precauciones (7.1.2)].
+•  Trastornos depresivos [ver Advertencias y precauciones (7.1.3)].
+•  Nueva aparición o empeoramiento de la disfunción renal [ver Advertencias y precauciones (7.1.4)].
+
+•  Pérdida ósea y defectos de mineralización [ver Advertencias y precau-
+
+•  Acidosis  láctica/hepatomegalia  grave  con  esteatosis  [ver  Adverten-
+
+•  Síndrome de reconstitución inmunitaria [ver Advertencias y precau-
+
+•  Reacciones cutáneas y de hipersensibilidad [ver Advertencias y preciones (7.1.5)].
+
+cias y precauciones (7.1.7)]
+
+ciones (7.1.8)].
+
+cauciones (7.1.9)].
+
+9.1 Experiencia en ensayos clínicos
+Debido  a  que  los  ensayos  clínicos  se  realizan  en  condiciones  muy variadas,  las  tasas  de  reacciones  adversas  observadas  en  los  ensayos clínicos realizados con un determinado fármaco no pueden compararse directamente con las tasas observadas en los ensayos clínicos realizados con otro fármaco, y es posible que no reflejen las tasas observadas en la práctica.
+Reacciones  adversas  de  la  experiencia  en  ensayos  clínicos  en sujetos adultos En  sujetos  adultos  infectados  por  el  VIH-1  sin  antecedentes  de  tratamiento antirretroviral
+Estudios C209 y C215
+La  evaluación  de  seguridad  de  la  RPV,  utilizada  en  combinación  con otros  fármacos  antirretrovirales,  se  basa  en  los  datos  combinados en la semana 96 obtenidos de 1368 sujetos en los ensayos de fase 3
+TMC278-C209 (ECHO)y TMC278-C215 (THRIVE) realizados en sujetos adultos infectados por el VIH-1 sin tratamiento antirretroviral previo. Un total de 686 sujetos recibieron RPV en combinación con otros fármacos antirretrovirales  como  régimen  de  fondo;  la  mayoría  (N=550)  recibió
+FTC/TDF como régimen de fondo. La cantidad de sujetos aleatorizados al grupo de control con EFV fue de 682; 546 de ellos recibieron FTC + TDF como régimen de fondo [ver Estudios clínicos (8)]. La mediana de la duración de la exposición para los sujetos de cualquiera de los dos grupos de tratamiento fue de 104 semanas.
+En la Tabla 15, se muestran las reacciones adversas observadas en la semana 96 en sujetos que recibieron RPV o EFV + FTC/TDF como régimen de fondo. No se identificaron nuevos tipos de reacciones adversas entre la semana 48 y la semana 96. Las reacciones adversas observadas en este subconjunto de sujetos concordaron, en general, con las reacciones observadas en la población general de pacientes que participaron en estos estudios.
+La  proporción  de  sujetos  que  suspendieron  el  tratamiento  con  RPV  o EFV  +  FTC/TDF  debido  a  reacciones  adversas,  independientemente de la gravedad, fue del 2% y del 5%, respectivamente. Las reacciones adversas más frecuentes que provocaron la suspensión del tratamiento consistieron en trastornos psiquiátricos: 9 (1,6%) sujetos del grupo de RPV + FTC/TDF y 12 (2,2%) sujetos del grupo de EFV + FTC/TDF. Se produjeron eventos de erupción cutánea que provocaron la suspensión del tratamiento en 1 (0,2%) sujeto del grupo de RPV + FTC/TDF y en 10
+(1,8%) sujetos del grupo de EFV + FTC/TDF.
+Reacciones adversas frecuentes
+En la Tabla 15, se muestran las reacciones adversas clínicas a la RPV o al EFV de intensidad al menos moderada (grado ≥2) que se informaron en al menos el 2% de los sujetos adultos.
+
+Tabla  15.  Reacciones  adversas  seleccionadasa  (grados  2-4)  que se informaron en ≥2% de los sujetos adultos que recibieron RPV o EFV en combinación con FTC/TDF en los estudios C209 y C215
+(análisis de la semana 96)
+
+Término preferido
+
+Trastornos depresivosb
+Cefalea
+Insomnio
+Sueños anormales
+Mareos
+Náuseas
+Erupción cutánea
+
+RPV
++FTC/TDF
+
+N=550
+
+EFV
++FTC/TDF
+
+N=546
+
+2%
+2%
+2%
+1%
+1%
+1%
+1%
+
+2%
+2%
+2%
+3%
+7%
+2%
+5%
+
+a. Las frecuencias de las reacciones adversas se basan en todos los eventos adversos emergentes del tratamiento de grados 2-4 que se evaluaron como relacionados con el fármaco del estudio. b. Incluyen las reacciones adversas informadas como estado de ánimo deprimido, depresión, disforia, depresión mayor, estado de ánimo alterado, pensamientos negativos, intento de suicidio, ideación suicida.
+
+Rilpivirina: Las reacciones adversas emergentes del tratamiento de intensidad al menos moderada (grado ≥2) que se produjeron en menos del 2% de los sujetos tratados con RPV más cualquiera de los regímenes de  fondo  permitidos  (N=686)  en  los  estudios  clínicos  C209  y  C215 incluyen (agrupadas por sistema corporal): vómitos, diarrea, molestias abdominales,  dolor  abdominal,  fatiga,  colecistitis,  colelitiasis,  disminución del apetito, somnolencia, trastornos del sueño, ansiedad, glomerulonefritis  membranosa,  glomerulonefritis  mesangioproliferativa y nefrolitiasis.
+En sujetos adultos con supresión virológica infectados por el VIH-1 No  se  identificaron  reacciones  adversas  nuevas  a  COMPLERA®  en  los sujetos estables con supresión virológica que cambiaron a COMPLERA® desde un régimen que contenía un inhibidor de la proteasa potenciado con ritonavir; sin embargo, la frecuencia de las reacciones adversas aumentó en un 20% (Estudio 106) tras cambiar a COMPLERA®.
+Emtricitabina y Tenofovir DF: Las reacciones adversas más frecuentes que  se  produjeron  en  al  menos  el  10%  de  los  sujetos  adultos  infectados  por  el  VIH-1  sin  tratamiento  previo  en  un  ensayo  clínico  de fase  3  con  FTC  y  TDF  en  combinación  con  otro  antirretroviral  fueron diarrea,  náuseas,  fatiga,  cefalea,  mareos,  depresión,  insomnio,  sueños  anormales  y  erupción  cutánea.  Las  reacciones  adversas  que  se produjeron  en  al  menos  el  5%  de  los  sujetos  con  o  sin  tratamiento previo que recibieron FTC o TDF con otros antirretrovirales en ensayos clínicos incluyeron dolor abdominal, dispepsia, vómitos, fiebre, dolor, nasofaringitis, neumonía, sinusitis, infección en las vías respiratorias superiores, artralgia, dolor de espalda, mialgia, parestesia, neuropatía periférica (que incluye neuritis y neuropatía periféricas), ansiedad, aumento de la tos y rinitis.
+Se han informado casos de alteración del color de la piel con una frecuencia mayor entre los sujetos tratados con FTC; se manifestó con hiperpigmentación en las palmas de las manos y/o las plantas de los pies que, en general, fue una reacción leve y asintomática. Se desconocen su mecanismo y significación clínica.
+Anomalías de laboratorio en sujetos adultos En  la  Tabla  16,  se  presentan  los  porcentajes  de  sujetos  tratados  con RPV + FTC/TDF o con EFV + FTC/TDF en los estudios C209 y C215 que presentaron anomalías de laboratorio emergentes del tratamiento seleccionadas (grados 1 a 4), que representan la toxicidad de peor grado.
+
+Tabla  16.  Anomalías  de  laboratorio  seleccionadas  (grados  1-4)
+informadas en sujetos adultos que recibieron RPV o EFV en combinación con FTC/TDF en los estudios C209 y C215 (análisis de la semana 96)
+
+RPV
++FTC/TDF
+
+EFV
++FTC/TDF
+
+N=550
+
+N=546
+
+Anomalía en los parámetros de laboratorio (%)
+
+Rango de toxicidad de
+DAIDS
+
+BIOQUÍMICA
+
+Aumento de creatinina
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+   Grado 4
+
+Aumento de AST
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+   Grado 4
+
+1,1-1,3 x LSNa
+
+>1,3-1,8 x LSN
+
+>1,8-3,4 x LSN
+
+>3,4 x LSN
+
+6%
+
+1%
+
+<1%
+
+0
+
+1,25-2,5 x LSN
+
+16%
+
+>2,5-5,0 x LSN
+
+>5,0-10,0 x LSN
+
+>10,0 x LSN
+
+4%
+
+2%
+
+1%
+
+1%
+
+1%
+
+0
+
+<1%
+
+19%
+
+7%
+
+3%
+
+1%
+
+Aumento de ALT
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+   Grado 4
+
+Aumento de bilirrubina total
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+Aumento de colesterol total (en ayunas)
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+Aumento de colesterol LDL
+(en ayunas)
+
+   Grado 1
+
+   Grado 2
+
+   Grado 3
+
+Aumento de triglicéridos
+(en ayunas)
+
+   Grado 2
+
+   Grado 3
+
+   Grado 4
+
+1,25-2,5 x LSN
+
+19%
+
+>2,5-5,0 x LSN
+
+>5,0-10,0 x LSN
+
+>10,0 x LSN
+
+1,1-1,5 x LSN
+
+>1,5-2,5 x LSN
+
+>2,5-5,0 x LSN
+
+200-239 mg/dl
+
+240-300 mg/dl
+
+>300 mg/dl
+
+130-159 mg/dl
+
+160-190 mg/dl
+
+>190 mg/dl
+
+500-750 mg/dl
+
+751-1200 mg/dl
+
+>1200 mg/dl
+
+5%
+
+1%
+
+1%
+
+6%
+
+3%
+
+1%
+
+14%
+
+6%
+
+<1%
+
+13%
+
+5%
+
+1%
+
+1%
+
+1%
+
+0
+
+22%
+
+7%
+
+2%
+
+1%
+
+<1%
+
+1%
+
+<1%
+
+31%
+
+18%
+
+2%
+
+28%
+
+13%
+
+4%
+
+2%
+
+2%
+
+1%
+
+N = Cantidad de sujetos por grupo de tratamiento. a. LSN = Límite superior del valor normal.
+Nota: Los porcentajes se calcularon en función de la cantidad de sujetos en la población por intención de tratar (intent to treat, ITT) con FTC + TDF como régimen de fondo.
+
+Emtricitabina o tenofovir DF: Las siguientes anomalías de laboratorio de grado 3 o 4 se han informado anteriormente en sujetos que recibieron tratamiento con FTC o TDF con otros antirretrovirales en otros ensayos clínicos: aumento de amilasa pancreática (>2,0 x LSN), aumento de amilasa sérica (>175 U/l), aumento de lipasa (>3,0 x LSN), aumento de fosfatasa alcalina  (>550  U/l),  aumento  o  disminución  de  glucosa  sérica  (<40  o >250 mg/dl), aumento de glucosuria (≥3+), aumento de creatinacinasa
+(M:>990  U/l;  F:>845  U/l),  disminución  de  neutrófilos  (<750/mm3)  y aumento de hematuria (>75 hematíes/CGA).
+Función suprarrenal
+En  los  ensayos  de  fase  3  C209  y  C215  combinados  que  se  realizaron en sujetos tratados con RPV más cualquiera de los regímenes de fondo permitidos (N=686), hubo un cambio medio general en la semana 96 con respecto al valor basal de cortisol fue de -0,69 (-1,12; 0,27) microgramos/dl en el grupo de RPV y de -0,02 (-0,48; 0,44) microgramos/ dl en el grupo de EFV.
+En el grupo de RPV, 43/588 (7,3%) sujetos con un valor normal en la prueba de estimulación con 250 microgramos de corticotropina en la situación  basal  presentaron  un  valor  anormal  en  dicha  prueba  (nivel máximo de cortisol <18,1 microgramos/dl) durante el ensayo en comparación con 18/561 (3,2%) sujetos en el grupo de EFV. De los sujetos que presentaron un valor anormal en la prueba de estimulación con 250 microgramos de corticotropina durante el ensayo, 14 sujetos del grupo de RPV y 9 sujetos del grupo de EFV presentaron un valor anormal en dicha prueba en la semana 96. En general, no se produjeron eventos adversos graves, muertes ni suspensiones del tratamiento que puedan atribuirse  claramente  a  la  insuficiencia  suprarrenal.  Se  desconoce  la significación clínica de la tasa anormal más alta en las pruebas de estimulación con 250 microgramos de corticotropina en el grupo de RPV.
+Creatinina sérica
+En  los  ensayos  de  fase  3  C209  y  C215  combinados  que  se  realizaron en sujetos tratados con RPV más cualquiera de los regímenes de fondo permitidos (N=686), hubo un pequeño aumento en la creatinina sérica durante las 96 semanas de tratamiento con RPV. La mayor parte de este aumento se produjo dentro de las primeras 4semanas de tratamiento con un cambio medio de 0,1mg/dl (rango: -0,3mg/dl a 0,6 mg/dl) observado hasta la semana 96. En los sujetos que ingresaron en el ensayo con disfunción renal leve o moderada, el aumento de creatinina sérica observado  fue  similar  al  aumento  observado  en  sujetos  con  función renal normal. Estos cambios no se consideran clínicamente relevantes y ningún sujeto suspendió el tratamiento debido a los aumentos en la creatinina sérica. Los aumentos en la creatinina fueron similares según los IN(t)TI de fondo.
+
+Lípidos séricos
+En la Tabla 17, se presentan los cambios con respecto al valor basal en el colesterol total, el colesterol LDL y los triglicéridos.
+
+Tabla  17.  Valores  de  lípidos  informados  en  sujetos  adultos  que recibieron RPV o EFV en combinación con FTC/TDF en los estudios
+C209 y C215a
+
+Datos combinados obtenidos del análisis a las 96 semanas de los ensayos C209 y C215
+
+RPV + FTC/TDF N=550
+Semana 96
+N
+
+EFV + FTC/TDF N=546
+Semana 96
+
+N
+
+Valor basal
+Media
+(mg/dl)
+
+Media
+(mg/dl)
+
+Cambio mediob
+(mg/dl)
+2
+
+Valor basal
+Media
+(mg/dl)
+
+Media
+(mg/dl)
+
+Cambio mediob
+(mg/dl)
+26
+
+430
+
+162
+
+164
+
+401
+
+160
+
+186
+
+429
+
+42
+
+45
+
+4
+
+399
+
+40
+
+50
+
+11
+
+427
+
+97
+
+97
+
+-1
+
+397
+
+96
+
+110
+
+14
+
+430
+
+123
+
+109
+
+-14
+
+401
+
+127
+
+133
+
+6
+
+Media
+
+Colesterol total
+(en ayunas)
+Colesterol
+HDL
+(en ayunas)
+Colesterol
+LDL
+(en ayunas)
+Triglicéridos
+(en ayunas)
+
+N = Cantidad de sujetos por grupo de tratamiento. a. Se excluyen los sujetos que recibieron hipolipemiantes durante el período de tratamiento. b. El cambio con respecto al  valor basal  corresponde a la media de  los cambios intrapaciente con respecto al valor basal para los pacientes que disponen del valor basal y del valor de la semana 96.
+
+Sujetos adultos coinfectados por el virus de la hepatitis B y/o la hepatitis C En los sujetos adultos coinfectados por el virus de la hepatitis B o C que recibieron RPV en los estudios C209 y C215, la incidencia de elevación de las enzimas hepáticas fue más alta que en los sujetos sin coinfección que recibieron RPV. Se observó el mismo aumento en el grupo de EFV.
+La exposición farmacocinética a la RPV en los sujetos coinfectados fue similar a la de los sujetos sin coinfección.
+Reacciones  adversas  de  experiencia  en  ensayos  clínicos  con  sujetos pediátricos
+Emtricitabina: Además de las reacciones adversas notificadas en adultos, se observaron anemia e hiperpigmentación en el 7% y 32%, respectivamente, de los sujetos pediátricos (entre 3 meses de edad y menos de 18 años) que recibieron tratamiento con FTC (emtricitabina) en el mayor de  los  dos  ensayos  pediátricos  no  controlados  sin  enmascaramiento
+(N=116).  Para  obtener  más  información,  consulte  la  ficha  técnica  de EMTRIVA® (emtricitabina).
+Rilpivirina: La evaluación de seguridad se basa en el análisis de la semana  48  del  ensayo  de  fase  2,  de  grupo  único,  sin  enmascaramiento
+“TMC278 C213”, en el que 36 sujetos infectados por el VIH-1 que tenían entre 12 y menos de 18 años, 32 kg de peso como mínimo y que no habían recibido tratamiento antirretroviral previo, recibieron RPV (25 mg una vez por día) en combinación con otros antirretrovirales. La duración de  la  exposición  de  los  sujetos  tuvo  una  mediana  de  63,5  semanas.
+Ningún sujeto suspendió el tratamiento debido a reacciones adversas.
+No se identificaron reacciones adversas nuevas en comparación con las reacciones observadas en los adultos.
+Se notificaron reacciones adversas en 19 sujetos pediátricos (52,8%). La mayoría de las reacciones adversas fueron de grado 1 o 2. Las reacciones adversas que se notificaron con mayor frecuencia en al menos 2 sujetos
+(independientemente de la gravedad) incluyen cefalea (19,4%), depresión  (19,4%),  somnolencia  (13,9%),  náuseas  (11,1%),  mareos  (8,3%), dolor abdominal (8,3%), vómitos (5,6%) y erupción cutánea (5,6%).
+Las anomalías de laboratorio observadas fueron similares a las de los adultos. Para obtener más información, consulte la ficha técnica de rilpivirina.
+Función suprarrenal
+En el ensayo TMC278 C213, en la semana 48, el cambio medio general respecto de la situación basal en los valores de cortisol basal mostró un incremento de 1,59 (0,24; 2,93) microgramos/dl.
+Seis de 30 (20%) sujetos que tenían valores normales en la prueba de estimulación  con  250  microgramos  de  corticotropina  en  la  situación basal  presentaron  un  valor  anormal  en  dicha  prueba  (nivel  máximo de cortisol <18,1 microgramos/dl) durante el ensayo. Tres de estos sujetos presentaron un valor anormal en la prueba de estimulación con 250 microgramos de corticotropina en la semana 48. En general, no se produjeron eventos adversos graves, muertes ni suspensiones del tratamiento que puedan atribuirse claramente a la insuficiencia suprarrenal.
+Se desconoce la significación clínica del valor anormal en las pruebas de estimulación con 250 microgramos de corticotropina.
+Tenofovir DF: En un ensayo clínico pediátrico realizado en sujetos de entre 12 y menos de 18 años, las reacciones adversas observadas en los sujetos pediátricos que recibieron tratamiento con TDF concordaron con las reacciones observadas en los ensayos clínicos realizados con TDF (tenofovir DF) en adultos [ver Advertencias y precauciones (7.1.2)]. Para obtener más información, incluida información sobre los cambios en la densidad mineral ósea, consulte la ficha técnica de VIREAD® (tenofovir DF).
+9.2 Experiencia poscomercialización
+Se han identificado las siguientes reacciones adversas durante el uso posterior a la aprobación de los regímenes que contienen RPV o TDF.
+Debido a que las reacciones que aparecen en el período poscomercialización son informadas voluntariamente por una población de tamaño indeterminado, no siempre es posible calcular su frecuencia de manera confiable ni establecer una relación causal con la exposición al fármaco.
+COMPLERA®:
+Trastornos del metabolismo y de la nutrición: Aumento de peso.
+Trastornos de la piel y del tejido subcutáneo: Reacciones cutáneas y de hipersensibilidad severas, incluyendo casos de Reacción a Drogas con Eosinofilia y Síntomas Sistémicos (DRESS, por sus siglas en inglés).
+Rilpivirina:
+Trastornos renales y urinarios: Síndrome nefrótico.
+Emtricitabina:
+No  se  han  identificado  reacciones  adversas  poscomercialización  para incluir en esta sección.
+Tenofovir DF:
+Trastornos del sistema inmunitario: Reacción alérgica, incluso angioedema.
+Trastornos del metabolismo y de la nutrición: Acidosis láctica, hipopotasemia, hipofosfatemia.
+Trastornos respiratorios, torácicos y mediastínicos: Disnea.
+Trastornos  gastrointestinales:  Pancreatitis,  aumento  de  la  amilasa, dolor abdominal.
+Trastornos  hepatobiliares:  Esteatosis  hepática,  hepatitis,  aumento  de enzimas hepáticas (más comúnmente: AST, ALT, gamma GT).
+Trastornos de la piel y del tejido subcutáneo: Erupción cutánea.
+Trastornos musculoesqueléticos y del tejido conjuntivo: Rabdomiólisis, osteomalacia (que se manifiesta como dolor óseo y puede contribuir a las fracturas), debilidad muscular, miopatía.
+Trastornos renales y urinarios: Insuficiencia renal aguda, insuficiencia renal, necrosis tubular aguda, síndrome de Fanconi, tubulopatía renal proximal, nefritis intersticial (incluso casos agudos), diabetes insípida nefrogénica, disfunción renal, aumento de la creatinina, proteinuria, poliuria.
+Trastornos generales y alteraciones en el lugar de administración: Astenia.
+Las siguientes reacciones adversas, indicadas bajo los encabezados de los sistemas corporales anteriores, pueden producirse como consecuencia de una tubulopatía renal proximal: rabdomiólisis, osteomalacia, hipopotasemia, debilidad muscular, miopatía, hipofosfatemia.
+Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https://vigiflow-eforms.who-umc.
+org/ar/medicamentos y/o al Departamento de Farmacovigilancia de Gador S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o  telefónicamente  al 0800-220-2273.
+
+10. SOBREDOSIFICACIÓN
+En  caso  de  sobredosis,  debe  monitorearse  al  paciente  para  detectar cualquier  indicio  de  toxicidad.  El  tratamiento  de  la  sobredosis  con COMPLERA® consiste en medidas generales de sostén, que incluyen el monitoreo de los signos vitales y ECG (intervalo QT), así como la observación del estado clínico del paciente.
+Emtricitabina: El tratamiento con hemodiálisis elimina aproximadamente el 30% de la dosis de FTC durante un período de 3 horas de diálisis, iniciado dentro de 1,5 horas de haber administrado la dosis de FTC (velocidad de flujo sanguíneo de 400 ml por minuto y velocidad de flujo del dializado de 600 ml por minuto). No se sabe si la FTC puede eliminarse mediante diálisis peritoneal.
+Rilpivirina: No hay ningún antídoto específico para tratar la sobredosis con RPV. La experiencia de sobredosis con RPV en seres humanos es limitada. Dado que la RPV presenta un alto grado de unión a las proteínas plasmáticas, es poco probable que la diálisis elimine significativamente la RPV.
+Tenofovir  DF:  El  tenofovir  se  elimina  de  forma  eficiente  mediante hemodiálisis,  con  un  coeficiente  de  extracción  de  aproximadamente el 54%. Después de una dosis única de 300 mg de TDF, una sesión de hemodiálisis de 4 horas eliminó aproximadamente el 10% de la dosis administrada de tenofovir.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+11. CONSERVACIÓN
+Mantener COMPLERA® en su envase original y bien cerrado hasta 25oC
+(eventualmente entre 15oC y 30oC).
+
+12. PRESENTACIÓN
+COMPLERA®  se  presenta  en  envases  conteniendo  30  comprimidos recubiertos.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”.
+
+COMPLERA®, es una marca comercial de Gilead Sciences, Inc., o de sus compañías relacionadas. Todas las demás marcas comerciales a las que se  hace  referencia  en  este  documento  pertenecen  a  sus  respectivos propietarios.
+
+© 2024 Gilead Sciences, Inc. Todos los derechos reservados.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A.
+
+Elaborado en Patheon Inc., Mississauga, Ontario, Canadá para Gilead Sciences Inc. Foster City, EE.UU.
+
+Representado, Comercializado y Distribuido por Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 57.834. Fecha de la última revisión: 9/2020
+
+AR- MAR20-US-NOV19
+G00170003-03

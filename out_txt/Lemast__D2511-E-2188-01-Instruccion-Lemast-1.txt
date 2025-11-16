@@ -1,0 +1,261 @@
+LEMAST®
+ROFLUMILAST
+
+Venta Bajo Receta - Industria Argentina
+
+COMPRIMIDOS RECUBIERTOS
+
+Fórmula
+Cada comprimido recubierto x 0,5 mg. contiene: ROFLUMILAST   0,500 mg. Excipientes:  lactosa 182,250 mg; croscarmelosa sódica  12,500 mg; povidona K-30  8,875 mg; almidón de maíz 40,000 mg; dióxido de silicio coloidal 3,750 mg; estearato de magnesio 2,500 mg; hidroxipropilmetilcelulosa E15 2,100 mg; polietilenglicol 6000 0,875 mg; bióxido de titanio 1,900 mg; talco 2,000 mg;
+óxido de hierro amarillo 0,250 mg.
+
+Acción  Terapéutica:  roflumilast  es  un  fármaco  inhibidor  de  la  fosfodiesterasa  4  (PDE4)  para  el tratamiento  tanto  de  la  inflamación  sistémica  como  pulmonar,  asociadas  a  la  enfermedad pulmonar obstructiva crónica (EPOC).
+
+Indicaciones:    tratamiento  de  mantenimiento  de  la  enfermedad  pulmonar  obstructiva  crónica severa (EPOC) (FEV1 post-broncodilatador menor al 50% del valor normal) en pacientes adultos, con  un  historial  de  exacerbaciones  frecuentes,  como  terapia  adicional  a  un  tratamiento  con broncodilatadores.
+
+Acción Farmacológica
+Propiedades farmacodinámicas
+Mecanismo de acción
+El roflumilast es un antiinflamatorio no esteroide, inhibidor de la PDE4, diseñado para actuar tanto en  la  inflamación  sistémica  como  pulmonar  asociadas  a  EPOC.  El  mecanismo  de  acción  es  la inhibición de la PDE4, la principal enzima metabolizadora del adenosin monofosfato cíclico (AMPc)
+que se encuentra tanto en células estructurales como inflamatorias, centrales en la patogénesis de la EPOC.
+El roflumilast actúa con igual potencia sobre las variantes de empalme de la PDE4A, 4B y 4D en el rango nanomolar. La afinidad por las variantes de empalme de PDE4C es de 5 a 10 veces inferior.
+Este mecanismo de acción y tipo de selectividad también corresponde al roflumilast N-óxido, que es el metabolito activo más importante del roflumilast.
+Efectos farmacodinámicos
+En  modelos  experimentales,  la  inhibición  de  la  PDE4  incrementa  los  niveles  intracelulares  de AMPc lo que mejora la disfunción leucocitaria asociada a la EPOC de las células musculares lisas vasculares de las vías aéreas y del pulmón, de las células endoteliales y de las células epiteliales de  las  vías  aéreas  y  los  fibroblastos.  Tras  la  estimulación  in  vitro  de  neutrófilos,  monocitos, macrófagos o linfocitos humanos, el roflumilast y el roflumilast N-óxido suprimen la liberación de mediadores  inflamatorios,  tales  como  leucotrieno  B4,  especies  reactivas  del  oxígeno,  factor  de necrosis tumoral α, interferón y granzima B. En pacientes con EPOC, el roflumilast disminuye el número  de  neutrófilos  en  el  esputo.  Además,  el  roflumilast  atenuó  el  paso  de  neutrófilos  y eosinófilos al interior de las vías respiratorias de  voluntarios sanos en pruebas de provocación con endotoxina.
+Eficacia clínica
+En dos estudios de un año de duración y en dos estudios de seis meses de duración se distribuyeron al azar y trataron 4.768 pacientes, de los cuales 2.374 fueron tratados con roflumilast.
+El diseño de estos estudios se efectuó en grupos paralelos, doble ciego controlado con placebo.
+Los estudios de un año de duración incluyeron pacientes con un historial de EPOC severa a muy severa  (FEV1  (volumen  espiratorio  forzado  en  un  segundo)  ≤  50%  de  los  valores  normales)
+asociada a bronquitis crónica, con al menos una exacerbación documentada el año previo, y con síntomas en el período basal según lo determinado por la puntuación para la tos y el esputo.
+En un análisis combinado de los resultados de los estudios se demostró que la administración de 500 microgramos de roflumilast una vez por día mejoró en forma significativa la función pulmonar en comparación con el placebo, en un promedio  48 mL (FEV1, post-broncodilatador).
+La  mejoría  de  la  función  pulmonar  fue  evidente  en  la  primera  visita  luego  de  4  semanas  de tratamiento  y  se  mantuvo  durante  un  año.  La  tasa  (por  paciente  y  año)  de  exacerbaciones moderadas  (que  requirieron  tratamiento  con  glucocorticoides  sistémicos)  o  de  exacerbaciones severas (que requirieron hospitalización y/o produjeron la muerte) después de un año fue de 1,142 con roflumilast y de 1,374 con placebo, lo que corresponde a una reducción del riesgo relativo del
+
+1
+
+roflumilast no produce inducción de las isoenzimas CYP1A2,  2A6,  2C9,  2C19 ó 3A4/5 y sólo una inducción débil de la CYP 2B6.
+Eliminación
+El aclaramiento plasmático luego de una breve perfusión intravenosa de roflumilast es aproximadamente de 9,6 L/h. Después de la administración de una dosis por vía oral, las semividas plasmáticas efectivas medias de roflumilast y de su metabolito N-óxido son aproximadamente de 17 y 30 horas, respectivamente.
+Las concentraciones plasmáticas en estado de equilibrio de roflumilast y de su metabolito N-óxido, con la administración de una dosis diaria, se alcanzan aproximadamente después de cuatro días en el caso del roflumilast y de seis días para el roflumilast N-óxido. Tras la administración oral o intravenosa de roflumilast radiomarcado, aproximadamente el 20% de la radiactividad se recuperó en las heces y el 70% en la orina como metabolitos inactivos.
+Linealidad / No-linealidad
+La farmacocinética del roflumilast y de su metabolito N-óxido es dosis dependiente en un rango de dosis comprendido entre 250 microgramos y 1.000 microgramos.
+Poblaciones especiales
+En personas de edad avanzada, las mujeres y los individuos no caucásicos, la actividad inhibitoria total  de  la  PDE4  se  incrementó  y  disminuyó  levemente  en  los  fumadores.  Ninguno  de  estos cambios fue considerado clínicamente relevante.
+No se recomienda efectuar un ajuste de la dosis en estos pacientes.
+En el caso de mujeres no fumadoras de raza negra puede darse una combinación de factores que puede conducir a un incremento en la exposición y a una intolerancia persistente al fármaco. En este caso el tratamiento con roflumilast debe ser evaluado (ver Precauciones y advertencias).
+Insuficiencia renal
+La actividad inhibitoria total de la PDE4 disminuyó en un 90% en los pacientes con insuficiencia renal severa (clearance de creatinina 10-30 mL/min). No es necesario ajustar la dosis.
+Insuficiencia hepática
+La farmacocinética de roflumilast, administrado a razón de una dosis diaria de 250 microgramos, fue estudiada en 8 pacientes con insuficiencia hepática leve a moderada pertenecientes a la clase
+A  y  B  de  la  escala  Child-Pugh.  En  estos  pacientes,  la  actividad  inhibitoria  total  de  la  PDE4  se incrementó aproximadamente en un 20% en los casos de insuficiencia hepática Child-Pugh A y aproximadamente en un 90% en aquellos con insuficiencia hepática Child-Pugh B.
+Las simulaciones sugieren una proporcionalidad de dosis entre roflumilast 250 microgramos y 500 microgramos en los pacientes con insuficiencia hepática leve a moderada.
+Es necesario tener precaución en pacientes con insuficiencia hepática Child-Pugh A (ver Posología y  forma  de  administración).  Roflumilast  no  debe  administrarse  a  pacientes  con  insuficiencia hepática severa (Child-Pugh B ó C) (ver Contraindicaciones)
+Datos preclínicos de seguridad
+No existen evidencias de un potencial efecto inmunotóxico, de sensibilización cutánea o fototóxico.
+En  ratas  machos  se  observó  una  leve  disminución  de  la  fertilidad  junto  con  toxicidad  en  el epidídimo.  No  se  observó  toxicidad  en  el  epidídimo  o  alteraciones  seminales  en  otras  especies incluyendo monos, a pesar de exposiciones más elevadas al fármaco.
+En uno de los dos estudios de desarrollo embriofetal efectuados en ratas, se observó una mayor incidencia de osificación incompleta de los huesos craneales, con dosis que produjeron toxicidad materna.
+En uno de los tres estudios de fertilidad y desarrollo embriofetal realizados en ratas, se observaron pérdidas post-implantación. Las pérdidas post-implantación no fueron observadas en conejos. En ratones  se  observó  una  prolongación  de  la  gestación.  Se  desconoce  la  relevancia  de  estos hallazgos para los seres humanos. La mayoría de los hallazgos más importantes observados en los  estudios  de  seguridad  farmacológica  y  toxicológica  se  produjo  con  dosis  y  niveles  de exposición superiores a los normales para el uso clínico del fármaco. Estos hallazgos consistieron principalmente en manifestaciones gastrointestinales (vómitos, hipersecreción gástrica, erosiones gástricas e inflamación intestinal y cardíacos (hemorragias focalizadas, depósitos de hemosiderina e  infiltrado  celular  linfohistiocitario  en  la  aurícula  derecha  en  perros  y  descenso  de  la  presión sanguínea e incremento de la frecuencia cardíaca en ratas, cobayos y perros).
+En los estudios de toxicidad con dosis repetidas y en los estudios de potencial carcinogénico, se observaron efectos tóxicos específicos en la mucosa olfatoria de los roedores. Este efecto parece deberse  a  la  presencia  de  ADCP  (4-amino-3,5-dicloro-piridina)  N-óxido,  un  intermediario específicamente  formado  en  la  mucosa  olfatoria  de  los  roedores,  con  una  especial  afinidad  de unión en estas especies (ratón, rata y hámster).
+
+Posología y Modo de administración: la dosis recomendada es de un comprimido recubierto de
+
+3
+
+16,9%   (p=0,0003).
+En el subgrupo de pacientes con historial de exacerbaciones frecuentes (por lo menos 2 durante el último año), la reducción del riesgo relativo del 21,3%. En pacientes con EPOC moderada, el roflumilast no redujo en forma significativa el número de exacerbaciones en comparación con el placebo.
+En otros dos estudios de un año de duración se incluyó y distribuyó al azar a un total de 2.690 pacientes. En estos estudios  no fue criterio de inclusión que los pacientes tuvieran un historial de bronquitis crónica ni de exacerbaciones de la EPOC. La administración de 500 microgramos de roflumilast  una vez por día mejoró significativamente la función pulmonar en comparación con el placebo  en  un  promedio  de  55  mL  (FEV1  pre-broncodilatador,  p<0,0001)  y  53  mL  (FEV1 post-broncodilatador,  p<0,0001).  La  incidencia  de  eventos  adversos  fue  independiente  del tratamiento concomitante con corticosteroides inhalados.
+En dos estudios de seis meses de duración se incluyeron pacientes con un historial de EPOC en los 12 meses previos al período basal, como mínimo. En ambos estudios se incluyeron pacientes con EPOC moderada a severa con obstrucción no reversible de las vías respiratorias y un FEV1 entre  el  40%  y  el  70%  de  los  valores  normales.  Se  agregó  roflumilast  o  placebo  al  tratamiento continuo  con  un  broncodilatador  de  acción  prolongada  (salmeterol  o  tiotropio).  En  los  dos estudios, el FEV1 pre-broncodilatador mejoró significativamente en 49 mL por encima del efecto broncodilatador del tratamiento concomitante con salmeterol y en 80 mL por encima del tratamiento concomitante con tiotropio.
+
+Farmacocinética
+Propiedades farmacocinéticas
+El  roflumilast  es  ampliamente  metabolizado  en  los  seres  humanos  con  la  formación  de  un metabolito  principal  farmacológicamente  activo,  el  roflumilast  N-óxido.  Debido  a  que  tanto  el roflumilast como el roflumilast N-óxido tienen actividad inhibitoria de la PDE4 in vivo, las consideraciones  farmacocinéticas  se    basan  en  la  actividad  inhibitoria  total  sobre  la  PDE4  (es  decir,  la exposición total al roflumilast y al N-óxido).
+Absorción
+Luego de administrar por vía oral una dosis de 500 microgramos la biodisponibilidad absoluta del roflumilast,  es  del  80%.  Las  concentraciones  plasmáticas  máximas  de  roflumilast  se  producen aproximadamente  una  hora  después  de  la  ingesta  de  la  dosis  en  ayunas,  (rango  entre  0,5  y  2 horas).
+Las  concentraciones  máximas  del  metabolito  N-óxido  se  alcanzan  aproximadamente  luego  de ocho horas (en un rango de 4 y 13 horas). La ingesta de alimentos no afecta la actividad inhibitoria total  de  la  PDE4  pero  retrasa  en  una  hora  el  tiempo  necesario  hasta  lograr  la  concentración máxima (tmax) de roflumilast y reduce la Cmax aproximadamente un 40%. Sin embargo, la Cmax y tmax del roflumilast N-óxido no son afectados.
+Distribución
+La unión con las proteínas plasmáticas del roflumilast y de su metabolito N-óxido es aproximadamente del 99% y 97%, respectivamente.
+El volumen de distribución de una dosis única de 500 microgramos de roflumilast es aproximadamente 2,9 L/kg. Debido a las propiedades fisicoquímicas, el roflumilast es rápidamente distribuido en los órganos y tejidos, incluyendo el tejido graso de ratones, hámsteres y ratas. Una fase precoz de distribución con una gran penetración tisular es seguida por una marcada fase de eliminación desde el tejido graso,  probablemente debida a una pronunciada transformación del compuesto original en roflumilast N-óxido. Estos estudios efectuados en ratas con roflumilast radiomarcado también  indican  una  escasa  penetración  a  través  de  la  barrera  hematoencefálica.  No  existen evidencias de una acumulación específica ni de retención de roflumilast o de sus metabolitos en los órganos y en el tejido graso.
+Biotransformación
+El roflumilast es ampliamente metabolizado a través de las reacciones de fase I (citocromo P 450)
+y de fase II (conjugación). El metabolito N-óxido es el metabolito más importante observado en el plasma de los seres humanos. El AUC plasmática del metabolito N-óxido es en promedio 10 veces mayor que el AUC plasmática del roflumilast. Por ello, se considera que el metabolito N-óxido es el que contribuye principalmente a la actividad inhibitoria de la PDE4 in vivo.
+Los estudios realizados in vitro y los estudios clínicos de interacción indican que el metabolismo del  roflumilast  en  su  metabolito  N-óxido  se  realiza  a  través  de  las  isoenzimas  CYP1A2  y  3A4.
+Teniendo  en  cuenta  los  resultados  de  estudios  posteriores  efectuados  in  vitro  en  microsomas hepáticos humanos, las concentraciones plasmáticas terapéuticas de roflumilast y de roflumilast
+N-óxido no inhiben las isoenzimas CYP1A2, 2A6, 2B6,  2C8,  2C9,  2C19,  2D6,  2E1, 3A4/5 ó
+4A9/11. Por lo tanto, es poco probable que haya interacciones relevantes con sustancias metabolizadas por estas enzimas del citocromo P450. Además, los estudios in vitro han demostrado que el
+
+2
+
+500 microgramos de roflumilast una vez por día. Puede ser preciso administrar roflumilast durante varias semanas para alcanzar su efecto (ver Propiedades farmacodinámicas). Roflumilast ha sido estudiado en investigaciones clínicas de hasta un año de duración.
+Poblaciones especiales
+Población geriátrica (65 años o mayores)
+No es necesario efectuar ajustes en la dosis.
+Insuficiencia renal
+No es necesario efectuar ajustes en la dosis.
+Insuficiencia hepática
+Los datos clínicos obtenidos con el empleo de roflumilast en pacientes con insuficiencia hepática leve clase A según la escala Child-Pugh son insuficientes como para recomendar un ajuste de la dosis (ver Farmacocinética). Por lo tanto, roflumilast debe ser utilizado con precaución en estos pacientes. Los pacientes con insuficiencia hepática moderada o grave de clase B o C según la escala Child-Pugh no deben tomar roflumilast (ver Contraindicaciones)
+Población pediátrica
+No es pertinente el empleo de roflumilast en pacientes pediátricos (menores de 18 años)
+Forma de administración
+Para uso por vía oral.
+Los  comprimidos  recubiertos  deben  ser  ingeridos  con  agua  y  administrados  diariamente  a  la misma hora. El comprimido recubierto puede tomarse con o sin alimentos.
+
+Contraindicaciones:  hipersensibilidad  al  roflumilast  o  a  cualquiera  de  los  excipientes  de  la formulación. Insuficiencia hepática moderada o severa (clase B o C según la escala Child-Pugh).
+
+Precauciones  y  Advertencias:  se  debe  informar  a  todos  los  pacientes  sobre  los  riesgos  de roflumilast  y  las  precauciones  que  deben  tomarse  para  su  uso  seguro.  Antes  de  comenzar  el tratamiento con roflumilat se les debe dar una tarjeta del paciente.
+Medicamentos de rescate
+El roflumilast es un antiinflamatorio indicado para el tratamiento de mantenimiento de la EPOC severa asociada con bronquitis crónica, en pacientes adultos con un historial de exacerbaciones frecuentes, para ser administrado como una terapia adicional a un tratamiento broncodilatador. No está indicado como un medicamento de rescate para el alivio de los broncoespasmos agudos.
+Pérdida de peso
+En los estudios de un año de duración (M2-124, M2-125) se observó con mayor frecuencia una pérdida del peso corporal en los pacientes tratados con roflumilast en comparación con aquellos que recibieron placebo. A los tres meses de interrumpir el tratamiento con roflumilast, la mayoría de los pacientes recuperó el peso perdido.
+En los pacientes con peso inferior al normal, el peso corporal debe ser controlado en cada visita.
+Se debe advertir a los pacientes que deben controlar regularmente su peso. En caso de observarse una pérdida de peso clínicamente relevante y si explicación, debe interrumpirse la administración de roflumilast y efectuar el seguimiento del peso del paciente.
+Condiciones clínicas especiales
+Debido a la falta de experiencia relevante, el tratamiento con roflumilast no debe iniciarse o debe interrumpirse  el  tratamiento  actual  con  roflumilast  en  el  caso  de  pacientes  con  enfermedades inmunológicas  severas  (por  ej.:  infección  por  HIV,  esclerosis  múltiple,  lupus  eritematoso, leucoencefalopatía multifocal progresiva), enfermedades infecciosas agudas graves, carcinomas
+(excepto el carcinoma de células basales), o en pacientes tratados con fármacos inmunosupresores (por ej.: metotrexato, azatiopirina, infliximab, etenecerpt o corticosteroides orales administrados por un tiempo prolongado, excepto la administración de corticosteroides sistémicos a corto plazo).  La  experiencia  en  pacientes  con  infecciones  latentes,  tales  como  tuberculosis,  hepatitis viral, infección viral por herpes y herpes zoster es limitada.
+No  se  ha  estudiado  el  uso  de  roflumilast  en  pacientes  con  insuficiencia  cardíaca  congestiva (grados 3 y 4 según la NYHA) y, por lo tanto, no se recomienda el tratamiento en este tipo de pacientes.
+Trastornos psiquiátricos
+El  tratamiento  con  roflumilast  se  asocia  con  un  aumento  del  riesgo  de  aparición  de  trastornos psiquiátricos, tales como insomnio, ansiedad, nerviosismo y depresión. En los estudios clínicos se han  observado,  en  casos  raros,  ideación  y  comportamiento  suicida,  incluyendo  el  suicido consumado (ver Reacciones adversas/Reacción tóxicas). Por lo tanto, se deben evaluar cuidadosamente  los  riesgos  y  beneficios  de  iniciar  o  continuar  un  tratamiento  con  roflumilast  si  los pacientes  informan  síntomas  psiquiátricos  existentes  o  previos  al  tratamiento  o  si  se  prevé  el
+
+4
+
+fueron: diarrea (5,9%), pérdida de peso corporal (3,4%), náuseas (2,9%), dolor abdominal (1,9%)
+y  cefalea  (1,7%).  La  mayoría  de  estas  reacciones  adversas  fueron  leves  o  moderadas  y  se produjeron principalmente en las primeras semanas de tratamiento. En su mayoría se resolvieron con la continuación del tratamiento.
+En  la  tabla  siguiente,  las  reacciones  adversas  se  clasifican  según  la  escala  de  frecuencias MedDRA:  Muy  frecuentes  (≥1/10);  frecuentes  (≥1/100  a  <1/10);  poco  frecuentes  (≥1/1.000  a
+<1/100); raras (≥1/10.000 a <1.000); muy raras (<1/10.00); frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+Dentro de cada grupo de frecuencia, las reacciones adversas se presentan en orden decreciente de severidad.
+
+Tabla: Reacciones adversas con roflumilast en los estudios clínicos en EPOC.
+
+Frecuentes
+
+Poco frecuentes
+
+Raras
+
+Hipersensibilidad
+
+Frecuencia
+Sistema – Órgano
+Trastornos del sistema inmunológico
+Trastornos endócrinos
+Trastornos del metabolismo y de la nutrición
+Trastornos psiquiátricos
+
+Pérdida de peso.
+Pérdida de apetito.
+Insomnio
+
+Trastornos del sistema nervioso
+
+Cefalea
+
+Trastornos cardiacos
+Trastornos respiratorios, torácicos y mediastínicos
+
+Trastornos gastrointestinales  Diarrea
+Náuseas
+Dolor abdominal
+
+Trastornos hepatobiliares
+
+Trastornos de la piel y tejido celular subcutáneo
+Trastornos musculoesqueléticos y del tejido conectivo
+
+Trastornos generales y patologías en el lugar de la administración
+
+Ginecomastia
+
+Depresión
+Nerviosismo
+Disgeusia
+
+Infecciones del tracto respiratorio (excluida neumonía)
+Hematoquezia
+Constipación
+
+Aumento de la GGT.
+Aumento de la AST
+Urticaria
+
+Aumento de la creatinina fosfoquinasa
+(CPK)
+
+Ansiedad
+
+Temblor
+Vértigo
+Mareos
+Palpitaciones
+
+Gastritis
+Vómitos
+Reflujo gastroesofágico
+Dispepsia
+
+Rash
+
+Espasmos musculares y debilidad
+Mialgia
+Dorsalgia
+Malestar
+Astenia
+Fatiga
+
+En  los  estudios  clínicos  rara  vez  se  informaron  casos  de  ideación  y  comportamiento  suicida, incluyendo  el  suicido  consumado.  Se  debe  instruir  a  los  pacientes  para  que  comuniquen  a  su médico la aparición de cualquier ideación suicida (ver Precauciones y advertencias).
+
+Antagonismos y antidotismos
+No se conocen hasta el presente.
+
+Sobredosificación: en los estudios de fase I, luego de la ingestión de una dosis por vía oral de 2.500 microgramos y de una dosis única de 5.000 microgramos (diez veces la dosis recomendada),  se  observó  un  aumento  de  la  incidencia  de  los  siguientes  síntomas:  cefalea,  trastornos gastrointestinales, mareos, palpitaciones,  vértigo, sudor e hipotensión arterial.
+En caso de sobredosificación se recomienda instaurar las medidas apropiadas de apoyo. Debido
+
+tratamiento con otros medicamentos con potenciabilidad para causar alteraciones psiquiátricas.
+Se debe instruir a los pacientes para que informen a su médico la aparición de cualquier cambio en  el  comportamiento  o  humor  y  sobre  cualquier  ideación  suicida.  Además  roflumilast  no  está recomendado en pacientes con historial de depresión asociada con ideación o comportamiento suicida.
+Intolerancia persistente
+Aunque  las  reacciones  adversas  tales  como  diarrea,  náuseas,  dolor  abdominal  y  cefalea  se observan principalmente durante las primeras semanas de tratamiento, en la mayoría de los casos se resuelven al continuar con el mismo. El tratamiento con roflumilast deberá revaluarse en caso de observarse una intolerancia persistente.
+Esto puede ocurrir en poblaciones especiales que pueden tener una mayor exposición al fármaco, tales  como  mujeres  de  raza  negra  no  fumadoras  (ver  Farmacocinética)  o  en  pacientes  con tratamiento concomitante con el inhibidor de la CYP1A2, fluvoxamina o inhibidores duales de la CYP3A4/1A2 enoxacina y cimetidina (ver Interacciones medicamentosas).
+Teofilina
+No existen datos clínicos que respalden el tratamiento concomitante con teofilina para la terapia de mantenimiento. Por lo tanto, no se recomienda el tratamiento concomitante con teofilina.
+Lactosa
+Roflumilast    contiene    lactosa.  Los    pacientes    con    intolerancia    hereditaria      a      la  galactosa, insuficiencia  de  lactasa  Lapp  o  malabsorción  de  glucosa  o  galactosa  no  deben  tomar  este medicamento.
+Interacciones medicamentosas: los estudios de interacción sólo han sido efectuados en adultos.
+El paso principal en el metabolismo del roflumilast es la N-oxidación del roflumilast en roflumilast N-óxido mediante las CYP3A4 y CYP 1A2. Tanto el roflumilast como el roflumilast N-óxido tienen una actividad inhibitoria intrínseca sobre la fosfodiesterasa 4 (PDE4). Por consiguiente, luego de la administración de roflumilast, se considera que la inhibición total de la PDE4 es el efecto combinado de roflumilast y roflumilast N-óxido. En los estudios clínicos de interacción con los inhibidores de la CYP3A4, tales como la eritromicina y el ketoconazol, se ha demostrado un incremento del 9% en la actividad inhibitoria total de la PDE4 (es decir, la exposición total a roflumilast y el roflumilast
+N-óxido).
+Los  estudios  de  interacción  con  fluvoxamina,  inhibidor  de  la  CYP1A2,  y  con  enoxacina    y cimetidina, inhibidores duales de las CYP3A4 y CYP1A2, han mostrado incrementos de la actividad inhibitoria total de la PDE4 del 59%, 25% y 47%, respectivamente. La asociación de roflumilast con estas  sustancias  activas  puede  ocasionar  un  aumento  de  la  exposición  y  una  intolerancia persistente. En este caso, el tratamiento con roflumilast debe ser revaluado (ver Precauciones y advertencias).
+La  administración  de  rifampicina,  un  inductor  del  citocromo  P450,  produjo  una  reducción  de  la actividad  inhibitoria  total  de  la  PDE4  de  aproximadamente  60%.  En  consecuencia,  el  uso  de potentes  inductores  del  citocromo  P450  (por  ej.  fenobarbital,  carbamazepina,  fenitoína)  puede reducir la eficacia terapéutica del roflumilast. La administración concomitante con teofilina produjo un aumento del 8% en la actividad inhibitoria total de la PDE4 (ver Precauciones y advertencias).
+En un estudio de interacción con un anticonceptivo oral que contenía gestodeno y etinilestadiol, la actividad inhibitoria total de la PDE4 se incrementó en un 17%.
+No  se  observaron  interacciones  con  salbutamol,  formoterol  y  budesonida  inhalados  ni  con montelukast, digoxina, warfarina, sildenafil y midazolam administrados por vía oral. La administración  concomitante  con  un  antiácido  (combinación  de  hidróxido  de  magnesio)  no  alteró  la absorción o la farmacocinética del roflumilast o la del derivado N-óxido.
+Embarazo:  los  datos  existentes  sobre  el  empleo  de  roflumilast  en  mujeres  embarazadas  son limitados.  Los  estudios  efectuados  en  animales  han  mostrado  toxicidad  reproductiva  (ver  datos preclínicos de seguridad). No se recomienda el empleo de roflumilast durante el embarazo y en mujeres en edad fértil que no estén utilizando anticonceptivos.
+Se ha demostrado que el roflumilast atraviesa la barrera placentaria en ratas preñadas.
+Lactancia:  los  datos  farmacocinéticos  disponibles  en  animales  han  mostrado  la  excreción  de roflumilast  o  sus  metabolitos  en  la  leche.  No  se  puede  descartar  un  riesgo  para  el  lactante.
+Roflumilast no debe utilizarse durante la lactancia.
+Fertilidad: en un estudio sobre espermatogénesis humana, la administración de 500 microgramos de roflumilast no tuvo efecto en los parámetros seminales o en las hormonas reproductivas durante los tres meses de tratamiento ni en los tres meses siguientes una vez terminado.
+Uso pediátrico: no es pertinente el empleo de roflumilast en pacientes pediátricos (menores de 18 años).
+
+Reacciones adversas: en los estudios clínicos efectuados en pacientes con EPOC, aproximadamente el 16% de los enfermos experimentó reacciones adversas con el roflumilast (en comparación con el 5% de los tratados con placebo). Las reacciones adversas más frecuentes notificadas
+
+5
+
+a la elevada unión del roflumilast con las proteínas plasmáticas, no es probable que la hemodiálisis constituya un método eficaz para su eliminación. Se desconoce si el roflumilast es dializable mediante diálisis peritoneal.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+Presentación:   envases con 30 comprimidos recubiertos.
+Fecha de última revisión: Octubre de 2013
+
+Forma de conservación
+- Conservar a temperatura no mayor a 30°C, proteger  de la humedad.
+-  Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 57.058
+Laboratorios CASASCO S.A.I.C. - Boyacá 237 - Ciudad Autónoma de  Buenos Aires
+
+7
+
+E-2188-01 / D2511 / Act.09/2013
+
+6
+
+8

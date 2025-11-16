@@ -27,8 +27,8 @@ build/
 # Datos/outputs derivados (no versionar)
 # Carpetas de datos / resultados generados
 chroma/
-out_txt/
-out_txt_base/
+
+
 
 
 __pycache__/

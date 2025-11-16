@@ -1,0 +1,1213 @@
+TEZACAR®
+TEZACAFTOR 100 mg / IVACAFTOR 150 mg
+IVACAFTOR 150 mg
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto amarillo de Tezacaftor/Ivacaftor contiene:
+Ivacaftor ............................................................................................. 150 mg Tezacaftor  .......................................................................................... 100 mg
+Excipientes:
+Lauril sulfato de sodio ................................................................ 0,9375 mg Hidroxipropilmetilcelulosa acetato succinato ...................... 36,5625 mg
+Hidroxipropilmetilcelulosa E15 ........................................................ 25 mg Croscarmelosa sódica ......................................................................... 30 mg
+Dióxido de silicio coloidal ................................................................. 2,4 mg Celulosa microcristalina PH 102 .................................................. 247,6 mg
+Estearato de magnesio vegetal ........................................................ 7,5 mg Óxido de hierro amarillo ................................................................... 0,1 mg
+Dióxido de Titanio 1)..................................................................... 2,4255 mg Triacetina 1) ................................................................................... 1,2375 mg
+Hidroxipropilmetilcelulosa 1) ....................................................... 6,237 mg Pigmento perlado con base de mica (CI 77019/CI 77891) 2) ........ 0,1 mg
+Maltodextrina 2) .............................................................................. 0,188 mg Carboximetilcelulosa sódica 2) ..................................................... 0,485 mg
+Lecitina 2) ........................................................................................ 0,075 mg Dextrosa monohidrato 2) ................................................................ 0,152 mg
+1)  Aquarius Prime BAT 218006.
+2)  Opadry FX Silver 62W28547.
+
+Cada comprimido recubierto celeste de Ivacaftor contiene:
+Ivacaftor ............................................................................................. 150 mg
+Excipientes:
+Lauril sulfato de sodio ................................................................ 6,5875 mg Hidroxipropilmetilcelulosa acetato succinato  ......................36,5625 mg
+Croscarmelosa sódica  ..................................................................... 33,9 mg Celulosa microcristalina PH 101  ............................................ 107,605 mg
+Polivinilpirrolidona  ...................................................................... 28,25 mg Celulosa microcristalina PH 102  ................................................ 80,88 mg
+Estearato de magnesio vegetal  .................................................. 6,215 mg Indigotina laca alumínica ............................................................ 0,008 mg
+Alcohol polivinílico 1) ................................................................... 5,9968 mg Dióxido de Titanio 1).......................................................................  3,748 mg
+Polietilenglicol 1) .......................................................................... 3,0284 mg Talco 1)............................................................................................ 2,2188 mg
+Carboximetilcelulosa Sódica 2) .................................................... 0,485 mg Maltodextrina 2)  .............................................................................  0,188 mg
+Dextrosa Monohidrato 2)  ............................................................... 0,152 mg Pigmento perlado con base de mica (CI 77019/CI 77891) 2) ...  0,100 mg
+Lecitina 2) ........................................................................................ 0,075 mg
+1)  Opadry II 85F28751 white.
+2)  Opadry FX Silver 62W28547.
+
+ACCIÓN TERAPÉUTICA
+
+Modulador de CFTR (regulador de la conductancia transmembrana de la fibrosis quística). Código ATC: R07AX31.
+
+INDICACIONES
+
+TEZACAR® es una combinación de tezacaftor e ivacaftor, indicado para
+
+el tratamiento de pacientes con fibrosis quística (FQ) a partir de los de 6 años de edad y con un peso mayor o igual a 30 kg que son homocigotas para la mutación F508del o que presentan al menos una mutación en el gen regulador de la conductancia transmembrana de la fibrosis quística
+(CFTR) que presenta respuesta al tratamiento con tezacaftor/ivacaftor en base a los datos in vitro y/o la evidencia clínica. (Ver Propiedades farmacológicas)
+En  caso  de  desconocerse  el  genotipo  de  un  paciente,  debe  efectuarse  un  análisis  de  mutaciones  del  gen  de  la  FQ  para  detectar la  presencia  de  una  mutación  en  el  CFTR  y,  posteriormente,  debe verificarse el resultado con una secuenciación bidireccional según lo recomienden las instrucciones de uso correspondientes al análisis de mutaciones.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+El tezacaftor facilita el procesamiento y la transmigración celular de las formas normales y mutantes seleccionadas del gen CFTR (incluyendo F508del-CFTR) para lograr aumentar la cantidad de proteína
+CFTR madura en la superficie celular. El ivacaftor es un potenciador de CFTR que facilita el aumento del transporte de cloruro facilitando la apertura del canal de la proteína CFTR en la superficie celular. Para que funcione el ivacaftor tiene que estar presente la proteína CFTR en la superficie celular. El ivacaftor puede potenciar a la proteína CFTR suministrada  a  la  superficie  celular  por  el  tezacaftor,  llevando  a  un aumento del transporte de cloruro mayor que con cualquiera de los dos agentes en forma individual. El efecto combinado de tezacaftor e ivacaftor produce un aumento en la cantidad y función de CFTR en la superficie celular, dando por resultado un aumento en el transporte de cloruro.
+
+Ensayo de transporte de cloruro de CFTR en células tiroideas de ratas de Fisher (Fisher rat thyroid, FRT) que expresan la mutación de CFTR La respuesta a tezacaftor/ivacaftor en relación al transporte de cloruros de la proteína CFTR mutada fue determinada en estudios de electrofisiología con cámara Ussing usando un panel de líneas celulares FRT transfectadas  con  mutaciones  individuales  de  CFTR.  Tezacaftor/ivacaftor aumentó el transporte de cloruro en células FRT que expresan mutaciones de CFTR que dan por resultado que la proteína CFTR llegue a la superficie celular.
+El umbral de respuesta del transporte de cloruro in vitro fue designado como unaumento neto de al menos 10% del valor normal con respecto al valor inicial debido a que es predictivo o se puede esperar razonablemente que prediga el beneficio clínico. Para las mutaciones individualesla magnitud del cambio neto con respecto al valor inicial en el transporte de cloruro mediado por CFTR in vitro no está correlacionado con la magnitud de la respuesta clínica
+Las mutaciones de empalme no pueden ser estudiadas en el ensayo de FRT.
+La Tabla 1 incluye las mutaciones de CFTR que presentaron respuesta en base a (1) una respuesta clínica de VEF1 y/o (2) datos in vitro en estirpe  celular  tiroidea  de  ratas  Fisher  (Fisher  rat  thyroid,  FRT),  que indican  que  tezacaftor/ivacaftor  aumenta  el  transporte  de  cloruro  en al menos 10% del valor normal no tratado con respecto al valor inicial.
+Las mutaciones del gen CFTR que no son sensibles a ivacaftor en forma individual no se espera que presenten respuesta a tezacaftor/ivacaftor, excepto los homocigotas F508del.
+
+Tabla 1: Lista de las mutaciones del gen CFTR que producen proteína CFTR y que responden a tez acaftor/ivacaftor
+
+L346P
+L967S
+
+E92K
+E116K
+
+546insCTA
+711+3A→G*
+
+G5756A
+G576A;
+R668C†
+2789+5G→A*
+L997F
+G622D
+E193K
+3272-26A→G*
+L1324P
+G970
+E403D
+3849+10kbC→T* E588V
+L1335P
+G1069R
+G1244E
+L1480P
+E822K
+A120T
+G1249R M152V
+E831X
+A234D
+G1349D M265R
+F191V
+A349V
+F311del H939R M952I
+A455E*
+H1054D M952T
+F311L
+A554E
+H1375P
+F508C
+A1006E
+I148T
+F508C;
+A1067T
+S1251N↑
+F508del^ I175V
+I336K
+F575Y
+I601F
+F1016S
+I618T
+F1052V
+I807M
+F1074L
+
+P205S
+Q98R
+Q237E
+Q237H
+Q359R
+
+P5L
+P67L*
+
+D110E
+D110H*
+D192G
+D433Y
+D433Y;G576A;
+R668C†
+D579G*
+D614G
+D836Y
+D924N
+D979V
+
+F1099L
+G126D
+G178E
+G178R
+G194R
+
+I980K
+I1027T
+I1139V
+I1269N
+I1366N
+
+D1152H*
+
+G194V
+
+K1060T
+
+D1270N
+
+G314E
+
+L15P
+
+R117G
+R117H
+
+S589N
+S737F
+
+R117L
+R117P
+R170H
+R258G
+R334L
+R334Q
+R347H*
+R347L
+R347P
+R352Q*
+
+S912L
+S945L*
+S977F*
+S1159F*
+S1159P
+S1251N
+SI255P
+T388I
+T1036N
+T1053I
+
+R352W V201M
+V232D
+R553Q
+V562I
+R668C
+V754M
+R751L
+V1153E
+R792G
+
+V1240G
+R1066H V1293G
+R1070Q W1282R
+R1070W* Y109N
+Y161S
+R1162L
+
+R1283M Y1014C
+
+R1283S
+
+Y1032C
+
+Q1291R R933G
+R31L
+R74Q
+R74W
+R74W;
+D1270N†
+R74W;
+V201M†
+R74W;
+V201M;
+D1270N†
+
+E56K
+E60K
+
+G551D
+G551S
+
+L206W* R75Q
+L320V
+
+R117C*
+
+S549N
+S549R
+
+*  Datos clínicos para estas mutaciones en los estudios clínicos.
+^ Un paciente tiene que tener dos copias de la mutación F508del o al menos una
+
+copia de una mutación sensible presentada en la tabla 1 para ser indicado.
+
+†  Mutaciones  complejas/compuestas  en  donde  un  solo  alelo  del  gen  CFTR  tiene multiples mutaciones; estas existen independientemente de la presencia de mutaciones en el otro alelo.
+
+FARMACODINAMIA
+
+Efectos sobre el cloruro en el sudor
+En el ensayo con pacientes a partir de 12 años homocigotas para la mutación F508del, la diferencia de tratamiento entre tezacaftor/ivacaftor y placebo en la media del cambio absoluto con respecto el valor inicial del cloruro en el sudor hasta la Semana 24 fue de -10,1 mmoles/L (CI del 95%: -11,4, -8,8).
+En el ensayo con pacientes a partir de los 12 años heterocigotas para la mutación F508del y una segunda mutación que se predijo que presentaría respuesta a tezacaftor/ivacaftor, la diferencia del tratamiento en la media del cambio absoluto desde el valor inicial del cloruro en el sudor hasta la Semana 8 fue de -9,5 mmoles/L (CI del 95%: -11,7, -7,3) entre tezacaftor/ivacaftor y el placebo y de -4,5 mmoles/l (CI del 95%: -6,7,
+-2,3) entre ivacaftor y el placebo.
+En el ensayo con pacientes de 6 a menos de 12 años de edad una reducción del cloruro en el sudor fue observada desde el valor inicial hasta la semana 4 y se mantuvo durante todo el periodo de tratamiento de 24 semanas. La media del cambio absoluto desde el valor inicial del cloruro en el sudor fue -14.5 mmol/l (CI del 95%: -17.4, -11.6) en la semana 24.
+
+Electrofisiología cardiaca
+A una dosis 3 veces mayor que la dosis máxima recomendada aprobada, el tezacaftor no prolonga el intervalo QT en un grado clínicamente relevante.
+En  un  estudio  separado  de  ivacaftor  que  evalúa  dosis  hasta  3  veces mayores  que  la  dosis  máxima  recomendada  aprobada,  ivacaftor  no prolonga el intervalo QT en un grado clínicamente relevante.
+
+es  de  aproximadamente  1,5  para  tezacaftor  y  2,2  para  ivacaftor.  Las exposiciones  de  tezacaftor  (administrado  sólo  o  en  combinación  con ivacaftor) aumentan de una manera aproximadamente proporcional a la dosis con el aumento de la dosis de 10 mg a 300 mg una vez por día.
+Los parámetros farmacocinéticos claves para tezacaftor e ivacaftor en equilibrio estacionario se muestran en la Tabla 2.
+
+Tabla 2: Media (DS) de los parámetros farmacocinéticos de tezacaftor e ivacaftor en equilibrio estacionario en pacientes con FQ
+
+Fármaco
+
+Cmáx
+(mcg/mL)
+
+t1⁄2 (h) eficaz
+
+ABC0-24hs o
+ABC0-12hs
+(mcg·h/ml)*
+
+Tezacaftor 100 mg una vez por día/ ivacaftor 150 mg cada 12 horas
+
+Tezacaftor 5,95 (1,50) 15,0 (3,44)
+
+84,5 (27,8)
+
+Ivacaftor
+
+1,17
+(0,424)
+
+13,7 (6,06)
+
+11,3 (4,60)
+
+*  ABC0-24h para tezacaftor y ABC0-12h para ivacaftor
+
+Absorción
+Después de una sola dosis en sujetos sanos en estado postprandial, el tezacaftor fue absorbido con una mediana (rango) de tiempo hasta la concentración máxima (tmáx) de aproximadamente 4,0 horas (2 a 6 horas). La mediana (rango) de la tmáx de ivacaftor fue de aproximadamente
+6,0 horas (3 a 10 horas) en el estado postprandial.
+Cuando se administró una sola dosis de tezacaftor/ivacaftor con alimentos de contenido graso, la exposición de tezacaftor era similar y la exposición de ivacaftor era aproximadamente 3 veces mayor que cuando se tomó en ayunas.
+
+Distribución
+El tezacaftor se une aproximadamente 99% a las proteínas plasmáticas, principalmente  a  la  albúmina.  El  ivacaftor  se  une  aproximadamente
+99%  a  las  proteínas  plasmáticas,  principalmente  a  la  glicoproteína ácida alfa 1 y a la albúmina. Después de la administración oral de tezacaftor  100  mg  una  vez  por  día/ivacaftor  150  mg  cada  12  horas  en pacientes  con  FQ  en  el  estado  postprandial,  la  media  (±DS)  para  el volumen aparente de distribución de tezacaftor e ivacaftor fue de 271
+(157) l y 206 (82,9) l, respectivamente. Tezacaftor e ivacaftor no se dividen preferentemente en los glóbulos rojos humanos.
+
+Metabolismo
+El tezacaftor es metabolizado ampliamente en los humanos. Los datos in vitro sugieren que el tezacaftor es metabolizado principalmente por CYP3A4  y  CYP3A5.  Después  de  una  administración  oral  de  una  sola dosis de 100 mg de 14C-tezacaftor a hombres sanos, M1, M2 y M5 eran los  3  metabolitos  circulantes  principales  de  tezacaftor  en  humanos.
+M1 presenta una potencia similar a la de tezacaftor y es considerado farmacológicamente activo. M2 es mucho menos farmacológicamente activo que el tezacaftor o M1, y M5 no se considera farmacológicamente activo. Otro metabolito circulante menor, M3, es formado por glucuronidación directa de tezacaftor.
+El ivacaftor también es metabolizado ampliamente en los humanos. Los datos in vitro e in vivo indican que el ivacaftor es metabolizado principalmente por CYP3A4 y CYP3A5. M1 y M6 son los dos principales metabolitos de ivacaftor en los humanos. M1 tiene aproximadamente un sexto de la potencia de ivacaftor y es considerado farmacológicamente activo. M6 no se considera farmacológicamente activo.
+
+Eliminación
+Después de la administración oral de tezacaftor 100 mg una vez por día/ivacaftor 150 mg cada 12 horas en pacientes con FQ en el estado postprandial,  la  media  (±DS)  para  los  valores  de  aclaramiento  aparentes  de  tezacaftor  e  ivacaftor  eran  de  1,31  (0,41)  y  15,7  (6,38)  l/h, respectivamente. Después de la administración en estado estacionario de tezacaftor en combinación con ivacaftor en pacientes con FQ, la vida media efectiva de tezacaftor e ivacaftor era de aproximadamente 15,0
+(3,44) y 13,7 (6,06) horas, respectivamente.
+
+Propiedades farmacocinéticas de relevancia clínica La farmacocinética de tezacaftor e ivacaftor es similar entre voluntarios adultos  sanos  y  pacientes  con  FQ.  Después  de  la  administración  de una dosis una vez por día de tezacaftor y dos veces por día de ivacaftor en  pacientes  con  FQ,  las  concentraciones  plasmáticas  de  tezacaftor e  ivacaftor  alcanzan  un  equilibrio  estacionario  dentro  de  los  8  días y dentro de los 3 a 5 días, respectivamente, después de comenzar el tratamiento. En el equilibrio estacionario, la relación de acumulación
+
+Excreción
+Después  de  la  administración  oral  de  14C-tezacaftor,  la  mayor  parte de la dosis (72%) fue excretada en las heces (inalterada o en forma de metabolito  M2)  y  aproximadamente  14%  fue  recuperada  en  la  orina
+(principalmente en forma de metabolito M2), dando por resultado una recuperación total media del 86% hasta 21 días después de la dosis.
+Menos de 1% de la dosis administrada fue excretada en la orina como tezacaftor inalterado, mostrando que la excreción renal no es la principal vía de eliminación de tezacaftor en los humanos.
+Después de la administración oral de ivacaftor sólo, la mayor parte de ivacaftor (87,8%) es eliminada en las heces después de la conversión metabólica. Hubo una eliminación mínima de ivacaftor y sus metabolitos en  orina  (sólo  6,6%  de  la  radioactividad  total  fue  recuperada  en  la orina), y hubo una excreción urinaria insignificante de ivacaftor como fármaco inalterado.
+
+Poblaciones especiales
+En función de los análisis de PK poblacional, los parámetros de exposición PK de tezacaftor/ivacaftor en niños y adolescentes (de 6 a menos de 18 años de edad) son similares al rango de ABCs observado en adultos cuando se administra en combinación.
+
+Población pediátrica
+Pacientes pediátricos de 6 años de edad y con un peso mayor o igual a
+30 kg a menos de 12 años de edad:
+
+(Child-Pugh Clase C, puntuación 10 a 15) que recibían tezacaftor/ivacaftor. La magnitud del aumento en la exposición en los pacientes con insuficiencia hepática severa es desconocida, pero se espera que sea mayor  que  la  observada  en  pacientes  con  insuficiencia  hepática  moderada. Por lo tanto, no se recomienda utilizar tezacaftor/ivacaftor en pacientes con insuficiencia hepática grave a menos que los beneficios superen los riesgos (ver Posología/Dosificación - Modo de administración,
+Poblaciones especiales).
+No se considera necesario ajustar la dosis en pacientes con insuficiencia hepática leve.
+
+Pacientes de sexo masculino y femenino
+Los parámetros farmacocinéticos de tezacaftor e ivacaftor son similares en hombres y mujeres
+
+POSOLOGÍA/DOSIFICACIÓN – Modo de administración
+
+Tabla  3:  Exposición  a  tezacaftor/ivacaftor  por  grupo  etario, media (DS)
+
+Grupo etario
+
+Dosis
+
+ABCs tezacaftor mcg•h/mL*
+
+ABCs ivacaftor mcg•h/mL*
+
+6 a < 12 años ^
+
+6 a < 12 años
+(≥30 kg) ^
+
+tezacaftor
+100 mg/ ivacaftor
+150 mg
+
+71,3 (28,3)
+
+92,7 (21,9)
+
+8,5 (3,34)
+
+10,8 (3,52)
+
+Modo de administración
+TEZACAR®  es  para  uso  oral.  Indicar  a  los  pacientes  que  traguen  los comprimidos  enteros.  TEZACAR®  debería  tomarse  con  alimentos  con contenido graso, tales como los alimentos recomendados en las guías nutricionales  estándar  para  la  enfermedad.  Ejemplos  de  alimentos que contienen grasa son aquellos preparados con manteca o aceites o aquellos que contienen huevos, productos lácteos (cómo quesos, leche entera),  frutos  secos  (como  manteca  de  maní,  nueces)  o  carnes.  (ver
+Propiedades farmacológicas, Absorción).
+
+^ Las exposiciones en el rango de peso ≥30 kg son predicciones derivadas del modelo PK de población.
+
+*  ABC0-24 hs para tezacaftor y ABC0-12 hs para ivacaftor.
+
+Pacientes pediátricos de 12 a menos de 18 años de edad:
+Después  de  la  administración  oral  de  los  comprimidos  de  tezacaftor 100  mg  una  vez  por  día  /  ivacaftor  150  mg  cada  12  horas,  la  media
+(±DS) de las ABCss fue de 97,1 (35,8) mcg·h/ml y 11,4 (5,50) mcg·h/ ml, respectivamente para tezacaftor e ivacaftor, similar a la ABCss media en pacientes adultos a los que se les administraron comprimidos de tezacaftor 100 mg una vez por día/ivacaftor 150 mg cada 12 horas.
+
+Pacientes con insuficiencia renal
+Tezacaftor/ivacaftor no ha sido estudiado en pacientes con insuficiencia  renal  moderada  o  severa  (aclaramiento  de  creatinina  ≤30  mL/ min)  ni  en  pacientes  con  enfermedad  renal  terminal.  En  un  estudio farmacocinético en humanos con tezacaftor solo, hubo una eliminación mínima de tezacaftor y sus metabolitos en la orina (sólo 13,7% de la radioactividad total fue recuperada en la orina con 0,79% como fármaco inalterado).
+En  un  estudio  farmacocinético  en  humanos  con  ivacaftor  sólo,  hubo una eliminación mínima de ivacaftor y sus metabolitos en la orina (sólo
+6,6% de la radioactividad total fue recuperada en la orina).
+En un análisis farmacocinético poblacional, los datos de 665 pacientes que  recibían  tezacaftor  o  tezacaftor  en  combinación  con  ivacaftor  en ensayos clínicos de Fase 2/3 indicaron que una insuficiencia renal leve
+(N=147; TFGe (tasa de filtración glomerular estimada) de 60 a menos de 90 mL/min/1,73 m2) y moderada (N=7; TFGe 30 a menos de 60 mL/ min/1,73 m2) no afectó el aclaramiento de tezacaftor considerablemente.
+(ver  Posología/Dosificación  -  Modo  de  administración,  Poblaciones especiales).
+
+Pacientes con insuficiencia hepática
+Después de múltiples dosis de tezacaftor e ivacaftor durante 10 días, los pacientes con deterioro moderado de la función hepática (Child-Pugh
+Clase  B,  puntuación  7  a  9)  presentaron  un  aumento  de  aproximadamente 36% en la ABC y un aumento de 10% en la Cmáx para tezacaftor, y un aumento del 50% en la ABC de ivacaftor en comparación con sujetos sanos  demográficamente  correspondientes.  En  un  estudio  realizado por  separado,  los  pacientes  con  deterioro  moderado  de  la  función hepática (Child-Pugh Clase B, puntuación 7 a 9) presentaron una Cmáx de ivacaftor similar pero un aumento aproximadamente de 2,0 veces en la ABC0-∞ de ivacaftor en comparación con sujetos sanos demográficamente correspondientes. En función de estos resultados, se recomienda una forma de administración modificada de tezacaftor/ivacaftor en pacientes con insuficiencia hepática moderada (ver Posología/
+Dosificación – Modo de administración, Advertencias y precauciones,
+Poblaciones especiales).
+No se han realizado estudios farmacocinéticos en pacientes con insuficiencia hepática leve (Child-Pugh Clase A, puntuación 5 a 6) o severa
+
+Posología
+Dosis recomendada en adultos, adolescentes y niños a partir de los de 6 años de edad y con un peso igual o mayor de 30kg La dosis recomendada es un comprimido (tezacaftor 100 mg/ivacaftor
+150 mg) tomado por la mañana y un comprimido (ivacaftor 150 mg)
+tomado  por  la  noche,  separados  por  aproximadamente  12  horas.
+TEZACAR® es para uso oral.
+
+Dosis omitidas
+Si pasaron 6 horas o menos desde la dosis de la mañana o de la noche que se olvidó tomar, el paciente debe tomar la dosis olvidada tan pronto como sea posible y continuar con el régimen original. Si pasaron más de 6 horas desde la dosis olvidada de la mañana o de la noche, el paciente no debe tomar la dosis olvidada. La siguiente dosis del régimen puede tomarse al horario usual. No debe tomarse más de una dosis al mismo tiempo.
+
+Posología en poblaciones especiales
+Dosis recomendada para los pacientes con insuficiencia hepática Para  el  ajuste  de  la  dosis  para  pacientes  con  insuficiencia  hepática, consulte la Tabla 4.
+No hay experiencia del uso de TEZACAR® en pacientes con insuficiencia hepática severa (Child-Pugh Clase C), pero se espera que la exposición de  tezacaftor  e  ivacaftor  sea  mayor  que  en  los  pacientes  con  insuficiencia  hepática  moderada.  Por  lo  tanto,  no  se  recomienda  utilizar
+TEZACAR® en pacientes con insuficiencia hepática severa a menos que los beneficios esperados superen los riesgos. (ver Posología/Dosificación - Modo de administración, Poblaciones especiales, Propiedades farmacológicas). No es necesario ajustar la dosis de TEZACAR® en pacientes con insuficiencia hepática leve (Child-Pugh Clase A).
+
+Tabla 4: Recomendaciones de dosificación para los pacientes con insuficiencia hepática
+
+Insuficiencia hepática
+Leve (Child-Pugh
+Clase A)
+Moderada
+(Child-Pugh
+Clase B)
+Severa
+(Child-Pugh
+Clase C)
+
+Mañana
+
+Noche
+
+No requiere ajuste de la dosis
+Sin la dosis de ivacaftor de 150 mg
+
+Sin la dosis de ivacaftor de 150 mg
+
+No requiere ajuste de la dosis
+
+Un comprimido de tezacaftor
+100 mg/ivacaftor 150 mg una vez por día.
+Un comprimido de tezacaftor
+100 mg/ ivacaftor 150 mg una vez por día (o con menor frecuencia).
+El intervalo de administración se debe modificar de acuerdo con la respuesta clínica y la tolerabilidad.
+
+Ajuste de la dosis para pacientes que toman fármacos que son inhibidores de la CYP3A El régimen de dosificación de TEZACAR® debería ser ajustado cuando
+
+es coadministrado con inhibidores moderados y potentes de la CYP3A.
+Cuando se coadministra con inhibidores moderados de la CYP3A (por ejemplo, fluconazol, eritromicina), el régimen de dosificación debería ser ajustado como se indica en la Tabla 5 (Ver Interacciones con otros fármacos, Propiedades farmacológicas). Cuando se coadministra con inhibidores potentes de la CYP3A (por ejemplo, ketoconazol, itraconazol, posaconazol, voriconazol, telitromicina y claritromicina), el régimen de dosificación debería ser ajustado como en la Tabla 5 (ver Interacciones con otros fármacos, Propiedades farmacológicas).
+
+Tabla  5.  Esquema  de  dosificación  para  el  uso  concomitante  de TEZACAR® con Inhibidores moderados de la CYP3A
+
+Día 1
+
+Día 2
+
+Día 3
+
+Día 4*
+
+Dosis de la mañana
+Comprimido de Tezacaftor
+100 mg/ivacaftor 150 mg
+Comprimido de Ivacaftor 150 mg
+Dosis de la noche
+Comprimido de Ivacaftor 150 mg
+
+√
+
+-
+
+-
+
+-
+
+√
+
+-
+
+√
+
+-
+
+-
+
+-
+
+√
+
+-
+
+*Continuar la administración de la dosis con los comprimidos de tezacaftor 100 mg/ ivacaftor 150 mg o comprimidos de ivacaftor 150 mg en días alternados.
+
+Esquema de dosificación para el uso concomitante de TEZACAR® con Inhibidores potentes de la CYP3A
+
+Día 1
+
+Día 2 y Día 3
+
+Día 4#
+
+Dosis de la mañana
+Comprimido de Tezacaftor
+100 mg/ivacaftor 150 mg
+Dosis de la noche ^
+Comprimido de Ivacaftor 150 mg
+
+√
+
+-
+
+-
+
+-
+
+√
+
+-
+
+#  Continuar con la dosis con los comprimidos de tezacaftor 100 mg/ivacaftor 150 mg dos veces por semana, que se toman con 3 a 4 días de diferencia aproximadamente.
+
+^ No se debe tomar la dosis de la noche de ivacaftor 150 mg ningún día.
+
+Deberían evitarse alimentos o bebidas que contengan pomelo o naranjas amargas durante el tratamiento con TEZACAR® (Ver Interacciones con otros fármacos).
+
+CONTRAINDICACIONES
+
+Hipersensibilidad a algunos de los principios activos o algunos de los excipientes.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Aumento de las aminotransferasas y daño hepático Se  ha  notificado  descompensación  de  la  función  hepática,  incluida insuficiencia hepática que ha dado lugar a un trasplante y la muerte, en  pacientes  con  FQ  con  cirrosis  preexistente  e  hipertensión  portal mientras  recibían  tratamiento  con  otros  regímenes  de  moduladores de CFTR .Tezacaftor/Ivacaftor en combinación con Ivacaftor se debe utilizar con precaución en pacientes con enfermedad hepática avanzada y solo si se espera que los beneficios superen los riesgos. Si se utiliza
+TEZACAR® en estos pacientes, deben ser supervisados estrechamente tras el inicio del tratamiento. (ver Propiedades farmacológicas y Reacciones adversas).
+Se  han  observado  aumento  de  transaminasas  en  pacientes  con  FQ tratados con tezacaftor/ivacaftor, así como también con monoterapia con ivacaftor. Se recomienda realizar evaluaciones de la función hepática en todos los pacientes antes de comenzar con la administración de TEZACAR®, cada 3 meses durante el primer año de tratamiento y luego anualmente. Para los pacientes con antecedentes de elevaciones de las transaminasas debería considerarse un monitoreo más frecuente de la función hepática. En el caso de elevaciones significativas de las transaminasas (por ejemplo, pacientes con valores de ALT o AST
+>5 del límite superior del rango normal (LSN), o valores de ALT o AST >3 del LSN con valores de bilirrubina >2 del LSN) la administración debe ser interrumpida y deberían seguirse estrechamente con pruebas de laboratorio hasta que se resuelvan las anomalías. Después de la  resolución  de  las  elevaciones  de  las  transaminasas  deben  considerarse  los  beneficios  y  los  riesgos  de  reanudar  el  tratamiento  (ver
+Reacciones adversas).
+
+Reacciones de hipersensibilidad, que incluyen anafilaxia Se han informado reacciones de hipersensibilidad, que incluyen casos de anafilaxia, posteriores a la comercialización (ver Reacciones adversas).
+Si se presentan signos o síntomas de reacciones de hipersensibilidad graves durante el tratamiento, suspenda TEZACAR® e inicie el procedimiento correspondiente.
+Considere los beneficios y los riesgos para cada paciente antes de decidir si reanudar o no el tratamiento con TEZACAR®.
+
+Uso concomitante con inductores de la CYP3A
+La  exposición  a  ivacaftor  es  significativamente  disminuida  y  la  exposición a tezacaftor puede ser reducida por el uso concomitante de inductores de la CYP3A, que pueden reducir la efectividad terapéutica de TEZACAR®. Por lo tanto, no se recomienda la coadministración con inductores potentes de la CYP3A (Ver Interacciones medicamentosas y Propiedades farmacológicas)
+
+Cataratas
+Se han informado casos de opacidades del cristalino no congénitas en pacientes pediátricos tratados con tezacaftor/ivacaftor, así como también con monoterapia con ivacaftor. Aunque se encontraban presentes otros factores de riesgo en algunos casos (tal como uso de corticosteroides, exposición a radiación), no se puede excluir un posible riesgo atribuible al tratamiento con tezacaftor/ivacaftor. Se recomienda realizar exámenes oftalmológicos iniciales y de seguimiento en pacientes pediátricos  al  iniciar  el  tratamiento  con  TEZACAR®  (Ver  Poblaciones especiales).
+
+Interacciones con otros medicamentos y otras formas de interacción Probabilidad de que otros fármacos afecten a tezacaftor/ivacaftor
+Inductores de la CYP3A
+Tezacaftor e ivacaftor son sustratos de la CYP3A (ivacaftor es un sustrato sensible de la CYP3A). El uso concomitante de inductores de la CYP3A puede  dar  por  resultado  exposiciones  reducidas  y  por  lo  tanto  una eficacia de TEZACAR® reducida. La coadministración de ivacaftor con rifampina, un potente inductor de la CYP3A, disminuyó significativamente la exposición de ivacaftor (área bajo la curva [ABC]) un 89%. Se puede esperar también que las exposiciones de tezacaftor disminuyan significativamente durante la coadministración con inductores potentes  de  la  CYP3A.  Por  lo  tanto,  no  se  recomienda  la  coadministración de TEZACAR® con inductores potentes de la CYP3A (ver Advertencias y precauciones, Propiedades farmacológicas).
+Ejemplos de inductores potentes de la CYP3A incluyen:
+•  Rifampicina, rifabutina, fenobarbital, carbamazepina, fenitoína y hierba de San Juan (Hypericum perforatum).
+
+Inhibidores de la CYP3A
+La coadministración con itraconazol, un potente inhibidor de la CYP3A, aumentó la exposición de tezacaftor (ABC) 4,0 veces e ivacaftor 15,6 veces. Cuando se coadministra con inhibidores potentes de la CYP3A, el régimen de dosificación de TEZACAR® debería ser ajustado (ver Posología/
+Dosificación - Modo de administración, Propiedades farmacológicas).
+Ejemplos de inhibidores potentes de la CYP3A incluyen:
+•  Ketoconazol, itraconazol, posaconazol y voriconazol.
+•  Telitromicina y claritromicina.
+La  coadministración  de  fluconazol  aumentó  la  exposición  a  ivacaftor (ABC)  3,0  veces.  La  simulación  sugirió  que  la  coadministración  con fluconazol,  un  inhibidor  moderado  de  la  CYP3A,  puede  aumentar  la exposición a tezacaftor (ABC) aproximadamente 2,0 veces. Cuando se coadministra con inhibidores moderados de la CYP3A, el régimen de dosificación  de  TEZACAR®  debería  ajustarse  (ver  Posología/Dosificación - Modo de administración, Propiedades farmacológicas).
+Ejemplos de inhibidores moderados de la CYP3A incluyen:
+•  Fluconazol.
+•  Eritromicina.
+La coadministración de tezacaftor/ivacaftor con jugo de pomelo, que contiene  uno  o  más  componentes  que  inhiben  moderadamente  la CYP3A, puede aumentar la exposición de tezacaftor e ivacaftor; por lo tanto, deben evitarse los alimentos o las bebidas que contienen pomelo o naranjas amargas durante el tratamiento con TEZACAR® (ver Posología/
+Dosificación - Modo de administración, Propiedades farmacológicas).
+
+Ciprofloxacina
+La coadministración de tezacaftor/ivacaftor con ciprofloxacina no tuvo un efecto significativo sobre la exposición de tezacaftor o ivacaftor. Por lo tanto, no es necesario un ajuste de la dosis durante la administración  concomitante  de  TEZACAR®  con  ciprofloxacina  (ver  Propiedades farmacológicas).
+
+Probabilidad de que tezacaftor/ivacaftor afecte a otros fármacos
+Sustratos de la CYP3A
+La  coadministración  de  tezacaftor/ivacaftor  con  midazolam  (oral),  un sustrato sensible a la CYP3A, no afectó la exposición de midazolam. No se requiere un ajuste de la dosis de los sustratos de CYP3A cuando se coadministra con TEZACAR® (Ver Propiedades Farmacológicas).
+
+Substratos de la CYP2C9
+Ivacaftor puede inhibir a la CYP2C9; por lo tanto se recomienda el monitoreo del coeficiente internacional normalizado (INR, por sus siglas en  inglés)  durante  la  coadministración  de  TEZACAR®  con  warfarina.
+Otros productos terapéuticos para los cuales la exposición puede ser aumentada  por  tezacaftor/ivacaftor  incluyen  glimepirida  y  glipizida;
+estos productos terapéuticos deberían ser usados con precaución (ver
+Propiedades farmacologicas).
+
+Digoxina y otros sustratos de P-gp
+La coadministración de tezacaftor/ivacaftor con digoxina, un sustrato sensible a P-gp, aumentó la exposición de digoxina 1,3 veces consistente con una inhibición débil de P-gp por ivacaftor. La administración de  tezacaftor/ivacaftor  puede  aumentar  la  exposición  sistémica  de productos medicinales que son sustratos sensibles de P-gp, que pueden aumentar o prolongar su efecto terapéutico y reacciones adversas.
+Cuando se usa TEZACAR® en forma concomitante con digoxina u otros sustratos de P-gp con un índice terapéutico estrecho, tales como ciclosporina, everolimus, sirolimus y tacrolimus, se debe tener precaución y realizar un monitoreo apropiado (ver Propiedades farmacológicas).
+
+Anticonceptivos hormonales
+Se ha estudiado tezacaftor/ivacaftor con un anticonceptivo oral de etinilestradiol/ noretindrona y se halló que no tenía un efecto significativo sobre las exposiciones del anticonceptivo hormonal. No se espera que TEZACAR® modifique la eficacia de los anticonceptivos hormonales (ver
+Propiedades farmacológicas).
+
+Estudios de interacciones con otros fármacos Se realizaron estudios de interacción farmacológica con tezacaftor/ivacaftor y otros fármacos que probablemente se administren en conjunto con tezacaftor/ivacaftor o con fármacos que se utilizan con frecuencia como sondas para los estudios de interacción farmacocinética (ver Interacciones con otros fármacos).
+
+Probabilidad de que tezacaftor/Ivacaftor afecte a otros fármacos
+Los estudios clínicos realizados (con rosiglitazona y desipramina – ver Tabla 6) mostraron que ivacaftor no es un inhibidor de CYP2C8 o CYP2D6.
+En base a resultados in vitro, ivacaftor tiene el potencial para inhibir a la CYP3A y a P-gp, y también puede inhibir a la CYP2C9. In vitro, el ivacaftor no fue un inductor de las isoenzimas CYP. El ivacaftor no es un inhibidor de los transportadores OATP1B1, OATP1B3, OCT1, OCT2, OAT1 u OAT3.
+En base a los resultados in vitro, el tezacaftor tiene un bajo potencial
+para  inhibir  CYP1A2,  CYP2B6,  CYP2C8,  CYP2C9,  CYP2C19,  CYP2D6 y CYP3A4. El tezacaftor tiene un bajo potencial para inducir a CYP3A, pero no es un inductor de CYP1A2 ni de CYP2B6. El tezacaftor tiene un bajo potencial para inhibir los transportadores P-gp, proteína resistente al cáncer de mama (breast cancer resistant protein, BCRP), OATP1B1,
+OATP1B3, OCT2, OAT1 o OAT3.
+Los  estudios  clínicos  con  midazolam  mostraron  que  la  combinación Tezacaftor/ivacaftor no es un inhibidor de la CYP3A. La coadministración de tezacaftor/ivacaftor con digoxina, un sustrato sensible de P-gp, aumentó  la  exposición  a  digoxina  1,3  veces.  La  coadministración  de tezacftor/ivacaftor con un anticonceptivo oral de etinilestradiol/ noretindrona no tuvo un efecto significativo sobre las exposiciones de los anticonceptivos hormonales.
+Los efectos de tezacaftor e ivacaftor (o ivacaftor sólo) sobre la exposición de los fármacos coadministrados se muestran en la Tabla 6 (ver Interacciones con otros fármacos).
+
+Probabilidad de que otros fármacos afecten a tezacaftor/Ivacaftor Estudios in vitro mostraron que ivacaftor y tezacaftor eran sustratos de las enzimas CYP3A (es decir, CYP3A4 y CYP3A5). La exposición a ivacaftor y tezacaftor se verá reducida por la administración concomitante con inductores de CYP3A y se verá aumentada por la administración concomitante de inhibidores de CYP3A.
+Estudios in vitro mostraron que tezacaftor es un sustrato para el transportador de captación OATP1B1 y para los transportadores de descarga P-gp y,
+BCRP. El tezacaftor no es un sustrato para OATP1B3. Estudios in vitro mostraron que el ivacaftor no es un sustrato para OATP1B1, OATP1B3 o P-gp.
+Los  efectos  de  fármacos  coadministrados  sobre  la  exposición  de
+
+tezacaftor e ivacaftor (o ivacaftor sólo) se muestran en la Tabla 7 (ver Posología/Dosificación - Modo de administración e Interacciones con otros fármacos).
+
+Tabla 6: Impacto de tezacaftor/ivacaftor o ivacaftor sobre otros fármacos
+
+Dosis y régimen
+
+Fármaco
+
+Dosis
+
+TEZ/IVA o IVA
+
+Relación media (CI del 90%) de otros fármacos
+Sin efecto = 1,0
+
+ABC
+
+Cmáx
+
+Efecto sobre la PK del fármaco
+
+Midazolam
+
+Dosis oral única de 2 mg
+
+TEZ 100 mg/IVA
+150 mg cada mañana + IVA
+150 mg cada noche
+
+ ↔Midazolam
+
+TEZ 100 mg/IVA
+150 mg cada mañana + IVA
+150 mg cada noche
+
+↑ Digoxina
+
+TEZ 100 mg/IVA
+150 mg cada mañana + IVA
+150 mg cada noche
+
+↔ Etinil estradiol
+
+↔ Noretindrona
+
+Digoxina Dosis única
+
+Anticonceptivo oral
+
+de 0,5 mg
+
+Etinilestradiol/
+Noretindrona
+0,035 mg/
+1,0 mg una vez por día
+
+Pitavastatina
+
+Dosis única de 2 mg
+
+TEZ 100 mg/IVA
+150 mg cada mañana + IVA 150 mg cada tarde
+
+↑ Pitavastatina*
+
+Rosiglitazona
+
+Dosis oral única de 4 mg
+
+IVA 150 mg dos veces por día
+
+ ↔ Rosiglitazona
+
+Desipramina
+
+Dosis única de 50 mg
+
+IVA 150 mg dos veces por día
+
+ ↔ Desipramina
+
+1,12
+(1,01,
+1,25)
+
+1,30
+(1,17,
+1,45)
+
+1,12
+(1,03,
+1,22)
+
+1,05
+(0,98,
+1,12)
+
+1,24
+(1,27,
+1,31)
+
+0,975
+(0,897,
+1,06)
+
+1,04
+(0,985,
+1,10)
+
+1,13
+(1,01,
+1,25)
+
+1,32
+(1,07,
+1,64)
+
+1,15
+(0,99,
+1,33)
+
+1,01
+(0,87,
+1,19)
+
+0,977
+(0,841,
+1,14)
+
+0,928
+(0,858,
+1,00)
+
+1,00
+(0,939;
+1,07)
+
+↑ = aumento, ↓ = disminución, ↔ = sin cambios. CI = Intervalo de confianza; TEZ = tezacaftor; IVA = ivacaftor; PK = Farmacocinética.
+* El efecto no es clínicamente significativo - no es necesario un ajuste de la dosis.
+
+Tabla 7: Impacto de otros fármacos sobre tezacaftor/ivacaftor o ivacaftor
+
+Dosis y régimen
+
+Fármaco
+
+Dosis
+
+TEZ/IVA o IVA
+
+Itraconazol
+
+200 mg dos veces por día el Día 1, seguido por 200 mg una vez por día
+
+TEZ 25 mg
++ IVA
+50 mg una vez por día
+
+Ciprofloxacina
+
+750 mg dos veces por día
+
+Anticonceptivo oral
+
+Noretindrona/ etinilestradiol
+1,0 mg/
+0,035 mg una vez por día
+
+Rifampicina
+
+600 mg una vez por día
+
+TEZ 50 mg
++ IVA
+150 mg dos veces por día
+TEZ 100 mg/
+IVA 150 mg cada mañana
++ IVA
+150 mg cada noche
+
+Dosis única de IVA
+150 mg
+
+Efecto sobre la PK de
+TEZ/IVA
+↑ Tezacaftor
+
+↑ Ivacaftor
+
+↔ Tezacaftor
+
+↑ Ivacaftor*
+
+ ↔ Tezacaftor
+
+↔ Ivacaftor
+
+↓ Ivacaftor
+
+Relación media
+(CI del 90%) de tezacaftor e ivacaftor
+Sin efecto = 1,0
+
+ABC
+
+Cmáx
+
+4,02
+(3,71,
+4,63)
+15,6
+(13,4,
+18,1)
+1,08
+(1,03,
+1,13)
+1,17
+(1,06,
+1,30)
+1,01
+(0,963,
+1,05)
+
+1,03
+(0,960,
+1,11)
+0,114
+(0,097,
+0,136)
+
+2,83
+(2,62,
+3,07)
+8,60
+(7,41,
+9,98)
+1,05
+(0,99,
+1,11)
+1,18
+(1,06,
+1,31)
+1,01
+(0,933,
+1,09)
+
+1,03
+(0,941,
+1,14)
+0,200
+(0,168,
+0,239)
+
+Fluconazol
+
+Dosis única de 400 mg el Día
+1, seguido por 200 mg una vez por día
+
+↑ Ivacaftor
+
+IVA 150 mg dos veces por día
+
+2,95
+(2,27,
+3,82)
+
+2,47
+(1,93,
+3,17)
+
+↑ = aumento, ↓ = disminución, ↔ = sin cambios. CI = Intervalo de confianza; TEZ
+
+= tezacaftor; IVA = ivacaftor; PK = Farmacocinética.
+
+*  El efecto no es clínicamente significativo – no es necesario un ajuste de la dosis.
+
+Carcinogénesis, mutagénesis y trastornos de la fertilidad y de la reproducción
+No se realizaron estudios de carcinogenicidad, mutagenicidad, ni compromiso de la fertilidad con la combinación de tezacaftor e ivacaftor. Sin embargo, se describen a continuación estudios separados de tezacaftor e ivacaftor.
+
+Tezacaftor
+Se realizó un estudio de 2 años en ratas Sprague-Dawley y un estudio de 6 meses en ratones transgénicos Tg.rasH2 para evaluar el potencial carcinogénico de tezacaftor. No se observó evidencia de tumorigenicidad de tezacaftor en ratas machos y hembras con dosis orales de hasta 50 y 75 mg/kg/día (aproximadamente 2 y 3 veces la dosis máxima recomendada en seres humanos (maximum recommended human dose, MRHD, por sus siglas en ingles)) en base a las ABCs sumadas de tezacaftor y sus metabolitos en machos y hembras, respectivamente). No se observó evidencia de tumorigenicidad en ratones transgénicos Tg.rasH2 machos y hembras con dosis de tezacaftor de hasta 500 mg/kg/día.
+Tezacaftor arrojó resultados negativos para la genotoxicidad en los siguientes análisis: prueba de Ames para la mutación genética bacteriana, análisis de aberración cromosómica in vitro en células de ovario de hámster chino y prueba de micronúcleos en ratones in vivo.
+No se observaron efectos sobre la fertilidad en machos y hembras ni en el desarrollo embrionario temprano en ratas con dosis orales de tezacaftor de hasta 100 mg/kg/día (aproximadamente 3 veces la MRHD en base a la ABC sumada de tezacaftor y el metabolito M1).
+
+Ivacaftor
+Se  realizaron  estudios  de  dos  años  en  ratones  CD-1  y  ratas  Sprague-Dawley para evaluar el potencial carcinogénico de ivacaftor. No se observó evidencia de tumorigenicidad de ivacaftor en ratones o ratas con dosis orales de hasta 200 mg/kg/día y 50 mg/kg/día, respectivamente (aproximadamente equivalentes a 2 y 9 veces la MRHD, respectivamente, en base a las ABCs sumadas de ivacaftor y sus metabolitos).
+Ivacaftor arrojo resultados negativos para genotoxicidad en los siguientes  ensayos:  prueba  de  Ames  para  la  mutación  genética  bacteriana, ensayo  de  aberración  cromosómica  in  vitro  en  células  de  ovario  de hámster chino y prueba de micronúcleos en ratones in vivo.
+El ivacaftor alteró los índices de fertilidad y performance reproductiva en ratas machos y hembras con dosis de 200 mg/kg/día (aproximadamente 9 y 6 veces, respectivamente, la MRHD en base a las ABCs sumadas de ivacaftor y sus metabolitos). Se observaron aumentos en los periodos de celo prolongado en hembras con dosis de 200 mg/kg/día.
+El ivacaftor también aumentó el número de hembras con embriones no viables y disminuyó los cuerpos lúteos, las implantaciones y los embriones viables en ratas con dosis de 200 mg/kg/día (aproximadamente 6 veces la MRHD en base a las ABCs sumadas de ivacaftor y sus metabolitos) cuando se administró a las madres antes y durante la preñez temprana. Estos problemas de fertilidad y performance reproductiva en ratas machos y hembras con dosis de 200 mg/kg/día fueron atribuidos a toxicidad severa. No se observaron efectos sobre los índices de fertilidad y performance reproductiva en ratas macho y hembra con dosis ≤100 mg/kg/día (aproximadamente 6 y 4 veces, respectivamente, la MRHD en base a las ABCs sumadas de ivacaftor y sus metabolitos).
+
+Poblaciones especiales
+Embarazo
+Resumen de riesgos
+Hay datos limitados e incompletos en seres humanos obtenidos de los ensayos clínicos y de los informes post-comercialización sobre el uso de  tezacaftor/ivacaftor  o  sus  componentes  individuales,  en  mujeres embarazadas. Por lo tanto, no se puede informar un riesgo asociado al fármaco. Aunque no hay estudios de reproducción en animales con la administración concomitante de tezacaftor e ivacaftor, se realizaron estudios  de  reproducción  y  de  desarrollo  separados  con  tezacaftor  e ivacaftor en ratas y conejas preñadas. En los estudios de reproducción en animales, la administración oral de tezacaftor a ratas y conejas preñadas durante la organogénesis no demostró teratogenicidad o efectos adversos  sobre  el  desarrollo  con  dosis  que  produjeron  exposiciones maternas de hasta aproximadamente 3 veces la exposición a la dosis máxima recomendada en humanos (MRHD, por sus siglas en inglés)
+en ratas y 0,2 veces la MRHD en conejas (en base a las ABCs sumadas para tezacaftor y el metabolito M1). La administración oral de ivacaftor a ratas y conejas preñadas durante la organogénesis no demostró teratogenicidad o efectos adversos sobre el desarrollo con dosis que produjeron exposiciones maternas de hasta aproximadamente 6 y 16 veces la exposición a la MRHD, respectivamente. No se observaron efectos adversos sobre el desarrollo después de la administración oral tanto de tezacaftor como de ivacaftor en ratas preñadas desde el período de organogénesis hasta la lactancia con dosis que produjeron exposiciones maternas aproximadamente 1 y 4 veces las exposiciones a la MRHD, respectivamente (ver Datos).
+No se conoce el riesgo inicial asociado a las principales anomalías congénitas y abortos para la población indicada. En la población general de los EE.UU, el riesgo asociado estimado de defectos congénitos importantes y abortos en embarazos clínicamente reconocidos es de 2% a 4% y 15% a 20%, respectivamente.
+
+Datos
+Datos en animales
+Tezacaftor
+En un estudio de desarrollo embrio-fetal en ratas preñadas a las que se les administró la dosis durante el período de organogénesis desde el día 6 al 17 de gestación, tezacaftor no fue teratogénico y no afectó el desarrollo ni la supervivencia fetal a exposiciones de hasta 3 veces la MRHD (en base a las ABCs sumadas para tezacaftor y el metabolito
+M1 con dosis orales maternas de hasta 100 mg/kg/día). En un estudio de desarrollo embrio-fetal realizado en conejas preñadas a las que se les administró la dosis durante el período de organogénesis desde el día 7al 20 de gestación, tezacaftor no fue teratogénico y no afectó el desarrollo o la supervivencia fetal a exposiciones de hasta 0,2 veces la MRHD (en base a las ABCs sumadas para tezacaftor y el metabolito M1 con dosis orales maternas de hasta 25 mg/kg/día). Se observaron pesos corporales fetales más bajos en conejos con una dosis maternalmente tóxica que produjo exposiciones aproximadamente 1 vez la MRHD (con una dosis materna de 50 mg/kg/día). En un estudio de desarrollo pre- y postnatal  (pre-  and  postnatal  development  PPND)  en  ratas  preñadas a las que se les administró la dosis desde el día 6 de gestación hasta el día 18 de la lactancia, tezacaftor no tuvo efectos adversos sobre el desarrollo de las crías con una exposición de aproximadamente 1 vez la MRHD (en base a las ABCs sumadas para tezacaftor y el metabolito
+M1 con una dosis materna de 25 mg/kg/día). Se observaron menores pesos corporales fetales y retardos tempranos del desarrollo como la separación  del  pabellón  auricular,  la  apertura  de  los  ojos  y  el  reflejo de enderezamiento con una dosis maternalmente tóxica (en base a la pérdida de peso materno) que produjo exposiciones aproximadamente
+2 veces la exposición a la MRHD (en base a las ABCs sumadas para tezacaftor y el metabolito M1 a una dosis oral materna de 50 mg/kg/día).
+Se observó transferencia placentaria de tezacaftor en ratas preñadas.
+
+Ivacaftor
+En un estudio de desarrollo embrio-fetal realizado en ratas preñadas que  recibieron  la  dosis  durante  el  período  de  organogénesis  desde el día 7 al 17 de gestación, ivacaftor no fue teratogénico y no afectó la supervivencia fetal con exposiciones de hasta 6 veces la MRHD (en base  a  las  ABCs  sumadas  para  ivacaftor  y  sus  metabolitos  con  una dosis  oral  materna  de  200  mg/kg/día).  En  un  estudio  de  desarrollo embrio-fetal en conejas preñadas a las que se les administró la dosis durante el período de organogénesis desde el día 7 al 19 de gestación, ivacaftor no fue teratogénico y no afectó el desarrollo o la supervivencia fetal con exposiciones de hasta 16 veces la MRHD (en base a una ABC para ivacaftor con dosis orales maternas de hasta 100 mg/kg/día). En un estudio PPND en ratas preñadas a las que se les administró la dosis desde el día 7 de la gestación hasta el día 20 de la lactancia el, ivacaftor no tuvo efectos sobre el parto, el crecimiento y el desarrollo de las crías con exposiciones de hasta 4 veces la MRHD (en base a las ABCs sumadas para ivacaftor y sus metabolitos con dosis orales maternas de hasta
+100 mg/kg/día). Se observaron menores pesos corporales fetales con una dosis maternalmente tóxica que produjo exposiciones de 6 veces la MRHD. Se observó transferencia placentaria de ivacaftor en ratas y conejas preñadas.
+
+Lactancia
+Resumen de riesgos
+No hay información con respecto a la presencia de tezacaftor o ivacaftor
+
+en la leche humana, ni los efectos sobre el bebé amamantado, o los efectos sobre la producción de leche. Ambos, tezacaftor e ivacaftor, son excretados en la leche de ratas lactantes (ver Datos). Se deben considerar los beneficios de la lactancia sobre el desarrollo y la salud junto con la necesidad clínica de la madre de tomar TEZACAR® y cualquier posible efecto adverso potencial derivado de TEZACAR® en el bebé amamantado o por la condición materna subyacente.
+
+Datos
+Tezacaftor
+Se demostró la excreción láctea de tezacaftor en ratas después de una sola dosis oral (30 mg/kg) de  14C-tezacaftor administrado 6 a 10 días postparto en las madres lactantes. La exposición de 14C-tezacaftor en la leche fue aproximadamente 3 veces mayor que en el plasma (en base a la ABC0-24h).
+
+Ivacaftor
+Se demostró la excreción láctea de ivacaftor en ratas después de una sola dosis oral (100 mg/kg) de  14C-ivacaftor administrado 9 a 10 días postparto en las madres lactantes. La exposición de 14C-ivacaftor en la leche fue aproximadamente 1,5 veces mayor que en el plasma (en base a la ABC0-24h).
+
+Empleo en población pediátrica
+Se han establecido la seguridad y eficacia de tezacaftor/ivacaftorpara el tratamiento de la FQ en pacientes pediátricos desde los 6 años de edad a menos de 18 años que son homocigotas para la mutación F508del o que tienen al menos una mutación en el gen CFTR que presenta respuesta al tratamiento con a tezacaftor/ivacaftor en base a los datos in vitro y/o la evidencia clínica. (ver Propiedades farmacológicas)
+No se han estudiado la seguridad y la eficacia de tezacaftor/ivacaftor en pacientes con FQ menores de 6 años de edad.
+
+Datos de toxicidad en animales jóvenes
+Se observaron hallazgos de cataratas en ratas jóvenes a las que se les administró  niveles  de  dosis  de  ivacaftor  de  10  mg/kg/día  y  mayores
+(0,25 veces la MRHD en base a la exposición sistémica de ivacaftor y sus metabolitos) desde el día 7 hasta el día 35 en el periodo posnatal. Este hallazgo no se observó en animales de más edad.
+
+Empleo en pacientes de edad avanzada
+Los ensayos clínicos de tezacaftor/ivacaftor no incluyeron un número suficiente de pacientes de 65 años de edad y mayores para determinar si responden en forma diferente de los pacientes más jóvenes.
+
+Empleo en insuficiencia renal
+Tezacaftor/ivacaftor no ha sido estudiado en pacientes con insuficiencia renal moderada o severa ni en pacientes con enfermedad renal terminal. No se recomienda un ajuste de la dosis en pacientes con insuficiencia renal leve o moderada. Se recomienda precaución en pacientes con insuficiencia renal severa o enfermedad renal terminal (ver Propiedades farmacológicas).
+
+Empleo en insuficiencia hepática
+No es necesario un ajuste de la dosis para pacientes con insuficiencia hepática  leve  (Child-Pugh  Clase  A).  Se  recomienda  administrar  una dosis reducida de TEZACAR® a los pacientes con insuficiencia hepática moderada (Child-Pugh Clase B). No hay experiencia en pacientes con insuficiencia hepática severa (Child-Pugh Clase C), pero es de esperar que la exposición de tezacaftor/ivacaftor sea mayor que en los pacientes con insuficiencia hepática moderada. Por lo tanto, no se recomienda utilizar TEZACAR® en pacientes con insuficiencia hepatica severa a menos que los beneficios esperados superen los riesgos (ver Posología/
+Dosificación - Modo de administración, Propiedades farmacológicas).
+
+Pacientes con disfunción pulmonar severa En dos estudios clínicos se incluyeron un total de 39 pacientes tratados con tezacaftor/ivacaftor que tenían valores de ppVEF1 <40 inicial (rango
+30-40); 23 pacientes en el primer estudio y 16 pacientes en el segundo. Hubo 24 pacientes tratados con placebo en el primer estudio y 15 pacientes tratados con placebo y 13 pacientes tratados con ivacaftor en el segundo estudio, que tenían ppVEF1<40 inicial. La seguridad y la eficacia en este subgrupo eran comparables con los resultados generales observados en ambos estudios.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de tezacaftor/ivacaftor sobre la capacidad para conducir y utilizar máquinas es pequeña. Se han comunicado casos de mareos en los pacientes tratados con tezacaftor/ivacaftor, así como con ivacaftor en monoterapia. Se debe aconsejar a los pacientes que experimenten mareos que no conduzcan ni utilicen máquinas hasta que los síntomas remitan.
+
+REACCIONES ADVERSAS
+
+Las siguientes reacciones adversas se comentan con mayores detalles en otras secciones del prospecto:
+•  Elevaciones de las transaminasas (ver Advertencias y precauciones).
+•  Cataratas (ver Advertencias y precauciones).
+
+Experiencia en ensayos clínicos
+Como los ensayos clínicos se realizan bajo condiciones que varían ampliamente, las tasas de reacciones adversas observadas en los ensayos clínicos de un fármaco no pueden ser comparados directamente con las tasas en los ensayos clínicos de otro fármaco y pueden no reflejar las tasas observadas en la práctica clínica.
+El perfil de seguridad general de tezacaftor/ivacaftor se basa en datos de 1001 pacientes en tres ensayos clinicos, doble ciego, controlados con placebo: dos ensayos de grupos paralelos de 12 y 24 semanas de duración y un ensayo de diseño cruzado de 8 semanas de duración. Los pacientes elegibles también podían participar en un estudio de extensión abierta que evaluó seguridad (hasta 96 semanas de tratamiento con tezacaftor/ivacaftor). En los tres ensayos controlados con placebo, un total de 496 pacientes con FQ de 12 años y mayores recibieron al menos  una  dosis  de  tezacaftor/ivacaftor.  La  proporción  de  pacientes que discontinuaron el fármaco en estudio prematuramente debido a eventos adversos fue de 1,6% para los pacientes tratados con tezacaftor/ivacaftor y 2,0% para los pacientes tratados con placebo. Las reacciones adversas serias, ya sea que los investigadores las consideraron relacionadas con el fármaco como las que no, que ocurrieron con mayor frecuencia en pacientes tratados con tezacaftor/ivacaftor comparados con el placebo incluyeron síndrome de obstrucción intestinal distal en 3
+(0,6%) pacientes tratados con tezacaftor/ivacaftor versus 0 en pacientes tratados con placebo. No hubo muertes en los ensayos controlados con placebo, y se produjo una muerte en el estudio de extensión abierto debido a insuficiencia respiratoria e infección por influenza en un paciente que había discontinuado tezacaftor/ivacaftor siete semanas antes.
+El perfil de seguridad de tezacaftor/ivacaftor era en general similar en todos los subgrupos de pacientes, incluyendo análisis por edad, sexo, el ppVEF1 inicial, y regiones geográficas.
+La Tabla 8 presenta reacciones adversas que se produjeron en ≥3% de los  pacientes  tratados  con  tezacaftor/ivacaftor.  Estas  reacciones  también se produjeron a una tasa mayor que en los pacientes tratados con placebo en los ensayos de grupos paralelos, controlados con placebo de 12 y 24 semanas.
+
+Tabla 8: Incidencia de reacciones adversas al fármaco en ≥3% de los pacientes tratados con tezacaftor/ivacaftor y en mayor cantidad que los tratados con placebo
+
+Reacciones adversas
+(Término preferido)
+
+Cefalea
+Náusea
+Congestión  de  senos paranasales
+Mareos
+
+Tezacaftor/Ivacaftor
+N=334 n (%)
+49 (15)
+29 (9)
+13 (4)
+
+Placebo
+N=343 n (%)
+44 (13)
+24 (7)
+6 (2)
+
+12 (4)
+
+8 (2)
+
+Los datos de seguridad de los siguientes estudios son similares a los observados  en  los  estudios  que  permitieron  elaborar  la  tabla  de  frecuencia:
+• un ensayo cruzado de 8 semanas, aleatorizado, doble ciego, controlado con placebo, realizado en 244 pacientes con FQ de 12 años de edad y mayores que eran heterocigotas para la mutación F508del y una segunda mutación que se predijo que respondería a tezacaftor/ ivacaftor
+
+• un estudio de 24 semanas, abierto, en 70 pacientes con FQ de 6 años a menos de 12 años de edad que eran o bien homocigotas para la mutación F508del o heterocigotas para la mutación F508del y una segunda mutación que se predijo que respondería a tezacaftor/ivacaftor.
+
+Anomalías de laboratorio
+Elevaciones de las transaminasas
+Durante los ensayos controlados con placebo en pacientes de 12 años de edad y mayores, la incidencia de valores máximos de transaminasas (ALT o AST) >8, >5 o >3 veces el límite superior del rango normal (LSN)
+era similar entre los pacientes tratados con tezacaftor/ivacaftor y los pacientes tratados con placebo; 0,2%, 1,0% y 3,4% en pacientes tratados con tezacaftor/ivacaftor y 0,4%, 1,0% y 3,4% en pacientes tratados con placebo. Un paciente (0,2%) tratado con tezacaftor/ivacaftor y 2 pacientes (0,4%) tratados con placebo discontinuaron en forma permanente el  tratamiento  por  transaminasas  elevadas.  Ningún  paciente  tratado con tezacaftor/ivacaftor experimentó una elevación de transaminasas
+>3 veces el LSN asociada con bilirrubina total elevada >2 veces el LSN.
+Durante un estudio de de 24 semanas, abierto, en pacientes de 6 años a menos de 12 años de edad, la incidencia de niveles máximos de transaminasas (ALT o AST) >8, >5 y >3 x LSN fue de 1,4%, 4,3% y 10,0%, respectivamente.  Ningún  paciente  tratado  con  tezacaftor/ivacaftor experimentó una elevación de transaminasas >3 x LSN asociada con bilirrubina total elevada >2 x LSN o discontinuó el tratamiento con tezacaftor/ivacaftor debido a elevaciones de las transaminasas.
+
+Experiencia posterior a la comercialización Se identificaron las siguientes reacciones adversas durante el uso de tezacaftor/ivacaftor después de su aprobación. Debido a que estas reacciones son reportadas voluntariamente por una población de tamaño incierto, no siempre es posible calcular de manera confiable su frecuencia o establecer una relación causal con la exposición al medicamento.
+
+al  siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos y/o al Departamento de Farmacovigilancia  de  Gador  S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o telefónicamente al 0800-220-2273.
+Siguiendo pautas internacionales, TEZACAR® se encuentran adherido al Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar los riesgos  potenciales  conocidos  de  un  producto,  preservando  sus beneficios terapéuticos.
+
+SOBREDOSIFICACIÓN
+
+No se encuentra disponible un antídoto específico para la sobredosificación con TEZACAR®. El tratamiento de la sobredosificación consiste en medidas de soporte generales incluyendo el monitoreo de los signos vitales y la observación del estado clínico del paciente.
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+Trastornos del sistema inmunitario: anafilaxia.
+Piel: erupción.
+
+PRESENTACIÓN
+
+Notificación de sospecha de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia
+
+Envases  conteniendo  60  comprimidos  recubiertos  (30  comprimidos recubiertos amarillos de la combinación Tezacaftor/Ivacaftor + 30 comprimidos recubiertos celestes de Ivacaftor).
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”.
+
+Información para el paciente
+
+Composición
+Cada comprimido recubierto amarillo de Tezacaftor/Ivacaftor contiene:
+Ivacaftor ........................................................................................ 150 mg Tezacaftor  ..................................................................................... 100 mg
+Excipientes:
+Lauril sulfato de sodio ...........................................................  0,9375 mg Hidroxipropilmetilcelulosa acetato succinato  ................  36,5625 mg
+Hidroxipropilmetilcelulosa E15  .................................................. 25 mg Croscarmelosa sódica  ................................................................... 30 mg
+Dióxido de silicio coloidal ............................................................ 2,4 mg Celulosa microcristalina PH 102  ............................................ 247,6 mg
+Estearato de magnesio vegetal  ...................................................7,5 mg Óxido de hierro amarillo ..............................................................  0,1 mg
+Dióxido de Titanio 1)................................................................ 2,4255 mg Triacetina 1) ...............................................................................1,2375 mg
+Hidroxipropilmetilcelulosa 1) ..................................................  6,237 mg Pigmento perlado con base de mica (CI 77019/CI 77891) 2)  ...... 0,1 mg
+Maltodextrina 2) ......................................................................... 0,188 mg Carboximetilcelulosa sódica 2) ................................................ 0,485 mg
+Lecitina 2) ...................................................................................  0,075 mg Dextrosa monohidrato 2) ........................................................... 0,152 mg
+1)  Aquarius Prime BAT 218006.
+2)  Opadry FX Silver 62W28547.
+
+Cada comprimido recubierto celeste de Ivacaftor contiene:
+Ivacaftor .........................................................................................150 mg
+Excipientes:
+Lauril sulfato de sodio ........................................................... 6,5875 mg Hidroxipropilmetilcelulosa acetato succinato  ................. 36,5625 mg
+Croscarmelosa sódica  ................................................................ 33,9 mg Celulosa microcristalina PH 101 .........................................107,605 mg
+Polivinilpirrolidona  .................................................................  28,25 mg Celulosa microcristalina PH 102 ............................................ 80,88 mg
+Estearato de magnesio vegetal  .............................................. 6,215 mg Indigotina laca alumínica ....................................................... 0,008 mg
+Alcohol polivinílico 1) .............................................................. 5,9968 mg Dióxido de Titanio 1)................................................................... 3,748 mg
+Polietilenglicol 1) ..................................................................... 3,0284 mg Talco 1)....................................................................................... 2,2188 mg
+Carboximetilcelulosa Sódica 2) ............................................... 0,485 mg Maltodextrina 2) ......................................................................... 0,188 mg
+Dextrosa Monohidrato 2)........................................................... 0,152 mg Pigmento perlado con base de mica (CI 77019/CI 77891) 2) ....0,100 mg
+Lecitina 2) .................................................................................... 0,075 mg
+1)  Opadry II 85F28751 white.
+2)  Opadry FX Silver 62W28547.
+
+Lea esta información antes de comenzar a tomar el medicamento, aun cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información nueva (o alguna información puede haber cambiado).
+Recuerde  que  su  médico  le  recetó  este  medicamento  sólo  a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto  bajo  una  receta  médica,  u  otra  condición  de  venta,  según corresponda.
+
+1) ¿Qué es TEZACAR® y para que se utiliza?
+• TEZACAR® es un medicamento indicado para el tratamiento de la fibrosis quística (FQ) en pacientes a partir de los de 6 años de edad y con un peso mayor o igual a 30 kg que tienen dos copias de la mutación F508del o que tienen al menos una mutación en el gen de la FQ que responde al tratamiento con TEZACAR®.
+
+• Hable con su médico para saber si tiene una mutación del gen de la
+
+FQ indicada.
+
+Se desconoce si TEZACAR® es seguro y efectivo en niños menores de 6 años de edad.
+
+2)¿Qué  es  lo  que  debo  saber  antes  de  tomar  TEZACAR®  y durante el tratamiento?
+¿Quiénes no deben tomar TEZACAR®?
+• Pacientes alérgicos a los principios activos o excipientes que componen este medicamento.
+
+No tome TEZACAR® si está tomando determinados medicamentos o suplementos herbales tales como:
+• Antibióticos tales como rifampina o rifabutina.
+• Medicamentos para las convulsiones tales como fenobarbital, carbamazepina o fenitoína.
+
+• Hierba de San Juan.
+Hable con su médico antes de tomar TEZACAR® si usted toma cualquiera de los medicamentos o suplementos herbales indicados arriba.
+
+¿Qué debo informar a mi médico antes de tomar TEZACAR®?
+Antes de tomar TEZACAR®, informe a su médico acerca de todos sus problemas de salud, incluyendo si usted:
+• Tiene o tuvo problemas hepáticos. Puede ser necesario que su médico le ajuste la dosis.
+• Tiene problemas renales.
+• Si está embarazada o planea quedar embarazada. Se desconoce si TEZACAR® dañará a su bebé que aún no ha nacido. Usted y su médico deben decidir si toma TEZACAR® mientras está embarazada.
+
+• Si  está  amamantando  o  planea  amamantar.  Se  desconoce  si TEZACAR® pasa a la leche materna. Usted y su médico deben decidir si toma TEZACAR® mientras está amamantando.
+
+¿Puedo tomar TEZACAR® con otros medicamentos?
+TEZACAR® puede afectar la manera en que actúan otros medicamentos, y otros medicamentos pueden afectar cómo actúa TEZACAR®.
+Informe  a  su  médico  acerca  de  todos  los  medicamentos  que  usted toma, incluyendo medicamentos recetados y de venta libre, vitaminas y suplementos herbales, porque la dosis de TEZACAR® puede necesitar ser ajustada cuando se toma con determinados medicamentos.
+Pida a su médico una lista de estos medicamentos si no está seguro.
+Informe especialmente a su médico si usted toma:
+• Medicamentos antifúngicos, tales como ketoconazol, itraconazol,
+
+posaconazol, voriconazol o fluconazol.
+
+• Antibióticos tales como telitromicina, claritromicina o eritromicina.
+Conozca los medicamentos que toma. Guarde una lista de ellos para mostrar a su médico cuando le prescriban un nuevo medicamento.
+
+¿Qué precauciones debo tener al tomar TEZACAR®?
+TEZACAR® puede causar mareos en algunas personas que lo toman.
+No conduzca automóviles no use maquinarias ni realice cualquier acción que necesite que usted esté alerta hasta que sepa si TEZACAR® lo afecta.
+Evite alimentos o bebidas que contengan pomelo o naranjas amargas mientras toma TEZACAR®.
+
+3) ¿Cómo debo tomar TEZACAR®?
+• Tome TEZACAR®  exactamente  como  se  lo  indicó  el  médico,  a  las horas del día que correspondan respetando la dosis y duración.
+
+• La vía de administración de este producto es oral.
+• Los comprimidos deben ingerirse enteros.
+•  TEZACAR® está compuesto por dos comprimidos distintos:
+
+–  El comprimido amarillo que contiene los medicamentos tezacaftor e ivacaftor (tiene la leyenda “100” en una de sus caras y “150”
+en la otra).
+
+–  El  comprimido  celeste  que  contiene  el  medicamento  ivacaftor
+
+(tiene la leyenda “150” en una de sus caras y lisa en la otra).
+•  Tome el comprimido amarillo por la mañana y el celeste por la noche.
+• Tome cada comprimido con una separación de 12 horas.
+• Tome siempre TEZACAR® con alimentos de contenido graso. Ejemplos de alimentos de contenido graso son aquellos preparados con manteca  o  aceites  o  aquellos  que  contienen  huevos,  productos lácteos  (como  quesos,  leche  entera,  yogur),  frutos  secos  (como manteca de maní, nueces) o carnes.
+
+Si tiene problemas hepáticos, ya sean moderados o graves, puede ser necesario que su médico haga un ajuste de dosis, ya que su hígado no procesará este medicamento tan rápido como es habitual.
+No cambie sus dosis como así tampoco suspenda la administración de TEZACAR® sin consultar primero con su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+Si toma más de la dosis recetada de TEZACAR®:
+Consulte con el médico inmediatamente. Si puede, enséñele el medicamento y este prospecto. Puede presentar efectos adversos.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+• Si olvida tomar una dosis de TEZACAR® y:
+
+–  Si pasaron 6  horas  o  menos desde el momento en que toma habitualmente el comprimido amarillo a la mañana o el comprimido celeste a la noche, tome la dosis olvidada con alimentos de contenido graso tan pronto como pueda. Luego tome la dosis siguiente en el momento habitual.
+
+–  Si pasaron más de 6 horas desde el momento en el que usted toma  habitualmente  el  comprimido  amarillo  a  la  mañana  o  el comprimido celeste a la noche no tome la dosis olvidada. Tome la dosis siguiente en el momento habitual con alimentos de contenido graso.
+
+–  No tome una cantidad mayor de la dosis habitual de TEZACAR®
+
+para compensar la dosis olvidada.
+
+4) ¿Cuáles son los efectos adversos de TEZACAR®?
+ TEZACAR® puede causar efectos adversos, incluyendo:
+• Aumento de enzimas hepáticas en la sangre en personas tratadas con  TEZACAR®  o  tratadas  con  ivacaftor  sólo.  Su  médico  realizará análisis de sangre para controlar su hígado:
+–  Antes de que comience a tomar TEZACAR®.
+–  Cada 3 meses durante su primer año de tratamiento con TEZACAR®.
+–  Cada año mientras esté tomando TEZACAR®.
+
+Su médico puede indicar la realización de análisis de sangre para controlar el hígado con más frecuencia si usted tuvo enzimas hepáticas elevadas en la sangre en el pasado.
+Se ha observado daño hepático y empeoramiento de la función hepática en pacientes con enfermedad hepática grave que recibieron otros  regímenes  con  moduladores  de  CFTR.  El  empeoramiento  de la función hepática puede ser grave y puede requerir un trasplante.
+Llame a su médico inmediatamente si tiene cualquiera de los siguientes síntomas de problemas hepáticos:
+
+–  Dolor o molestia en el área del estómago superior derecha (abdominal).
+
+–  Color amarillento de la piel o de la parte blanca de los ojos.
+–  Pérdida de apetito.
+–  Náuseas o vómitos.
+–  Coloración oscura o ámbar de la orina.
+
+• Reacciones  alérgicas  graves  han  ocurrido  en  personas  que  recibieron tratamiento con tezacaftor / ivacaftor. Llame a su médico o diríjase inmediatamente a la sala de emergencias si tiene algún síntoma  de  una  reacción  alérgica.  Los  síntomas  de  una  reacción alérgica pueden incluir:
+–  Erupción o urticaria.
+–  Aturdimiento o mareo.
+–  Sensación de opresión en el pecho o de tener la garganta cerrada
+
+o dificultad para respirar.
+
+• Anomalías en el cristalino del ojo (cataratas) en algunos niños y adolescentes tratados con TEZACAR® o tratados con ivacaftor sólo.
+Si es un niño o un adolescente, su médico debe realizarle exámenes oftálmicos antes y durante el tratamiento con TEZACAR® para determinar si tiene cataratas.
+
+Entre los efectos adversos más frecuentes de TEZACAR® se incluyen:
+• Dolor de cabeza.
+• Náuseas.
+• Congestión sinusal.
+• Mareos.
+
+Comunicación de efectos adversos
+Si usted experimenta cualquier efecto adverso, informe a su médico.
+Esto incluye efectos adversos posibles no indicados en este prospecto.
+Estos no son todos los efectos adversos posibles de TEZACAR®.
+Para obtener más información, consulte a su médico.
+
+Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la página Web de ANMAT http://www.argentina.gob.
+ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde 0800-333-1234.
+También  puede  comunicarse  al  Departamento  de  Farmacovigilancia Gador S.A., a farmacovigilancia@gador.com o teléfono 0800-220-2273.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+Siguiendo  pautas  internacionales,  TEZACAR®  se  encuentran adherido al Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar los riesgos potenciales conocidos de un producto, preservando sus beneficios terapéuticos.
+
+5) ¿Cómo debo conservar TEZACAR®?
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+Este  folleto  resume  la  información  más  importante  de TEZACAR®, para mayor información y ante cualquier duda CONSULTE CON SU MÉDICO.
+
+No utilice este medicamento si el envase está dañado.
+Ud. puede tomar TEZACAR® hasta el último día del mes indicado en el envase. No tome TEZACAR® luego de la fecha de vencimiento.
+
+“Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias
+
+Farmacéuticas. . E.M.A.M.S. Certificado N° 59.259. Fecha de última revisión: 4/2024.
+
+G00213501-01

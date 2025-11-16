@@ -1,0 +1,450 @@
+200 mm
+
+200 mm
+
+NEDAL MET XR® 5/1000
+
+DAPAGLIFLOZINA (como Propanodiol monohidrato) 5 mg;
+METFORMINA HCl 1000 mg.
+COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA
+
+NEDAL MET XR® 10/1000
+
+DAPAGLIFLOZINA (como Propanodiol monohidrato) 10 mg;
+METFORMINA HCl 1000 mg.
+COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA
+
+Venta Bajo Receta                                                                                        Industria Argentina
+
+ADVERTENCIA: ACIDOSIS LÁCTICA
+
+• Los casos post-comercialización de acidosis láctica asociada con metformina resultaron en muerte, hipotermia, hipotensión y bradiarritmias resistentes. El comienzo de la acidosis láctica es a menudo imperceptible y está acompañado de síntomas inespecíficos como malestar general, mialgias, dificultad para respirar, somnolencia y dolor abdominal. La acidosis láctica asociada con metformina se caracteriza por presentar niveles elevados de lactato en sangre (<5 mmol/litro), acidosis con brecha aniónica aumentada (sin evidencia de cetonuria o cetonemia), un aumento de la relación lactato/piruvato; y niveles de metformina en plasma generalmente >5mcg/ml.
+• Los factores de riesgo vinculados con la acidosis láctica asociada con metformina incluyen: insuficiencia renal, uso concomitante de ciertos medicamentos (ej.
+Inhibidores de la anhidrasa carbónica como el topiramato), edad igual o mayor a 65 años, estudios radiológicos con contraste, cirugía y otros procedimientos, estados hipóxicos (ej. Insuficiencia cardíaca aguda congestiva), consumo excesivo de alcohol e insuficiencia hepática. Pasos para reducir el riesgo y tratar la acidosis láctica asociada con metformina en estos grupos de alto riesgo se presentan en el prospecto completo.
+• Si se sospecha acidosis láctica asociada con metformina, se debe discontinuar el tratamiento con NEDAL MET XR e implementar medidas generales de soporte en un ámbito hospitalario. Se recomienda hemodiálisis rápidamente.
+
+FÓRMULAS
+NEDAL MET XR 5/1000
+Cada comprimido recubierto de liberación prolongada contiene:
+DAPAGLIFLOZINA (como Propanodiol monohidrato) 5,000 mg; METFORMINA HCl
+1000,000 mg. Excipientes: Hidroxipropilmetilcelulsa  K100 225,000 mg; Celulosa Microcristalina 453,350 mg; Copovidona 105,000 mg; Povidona K-30 10,800 mg; Croscarmelosa
+Sodica 18,000 mg; Crospovidona 28,800 mg; Dióxido de silicio coloidal 1,800 mg; Estearato de magnesio 11,100 mg; Óxido de Hierro rojo 0,500 mg; Opadry II Blanco 49,500 mg
+(Alcohol Polivinílico parcialmente hidrolizado 19,800 mg; Dióxido de titanio 12,375 mg;
+Polietilenglicol 3000 9,999 mg; Talco 7,326 mg).
+
+NEDAL MET XR 10/1000
+Cada comprimido recubierto de liberación prolongada contiene:
+DAPAGLIFLOZINA (como Propanodiol monohidrato) 10,000 mg; METFORMINA HCl
+1000,000 mg. Excipientes: Hidroxipropilmetilcelulsa K100 225,000 mg; Celulosa Microcristalina 447,200 mg; Copovidona 105,000 mg; Povidona K-30 10,800 mg; Croscarmelosa
+Sodica 18,000 mg; Crospovidona 28,800 mg; Dióxido de silicio coloidal 1,800 mg; Estearato de magnesio 11,100 mg; Óxido de Hierro amarillo 0,500 mg; Opadry II Blanco 49,500 mg
+(Alcohol Polivinílico parcialmente hidrolizado 19,800 mg; Dióxido de titanio 12,375 mg;
+Polietilenglicol 3000 9,999 mg; Talco 7,326 mg).
+
+ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: fármacos usados en diabetes, combinaciones de fármacos hipoglucemiantes orales.
+Cód. ATC: A10BD15
+
+INDICACIONES
+NEDAL MET XR es una combinación de dapagliflozina, un inhibidor del cotransportador de sodio-glucosa 2 (SGLT2), y metformina, una biguanida, indicada como complemento de la dieta y el ejercicio para mejorar el control glucémico en adultos con diabetes mellitus tipo 2.
+La dapagliflozina está indicada para reducir:
+• el riesgo de hospitalización por insuficiencia cardíaca en adultos con diabetes mellitus tipo 2 y enfermedad cardiovascular establecida o múltiples factores de riesgo cardiovascular.
+• el riesgo de muerte cardiovascular y hospitalización por insuficiencia cardíaca en adultos con insuficiencia cardíaca (NYHA clase II-IV) con fracción de eyección reducida.
+• el riesgo de disminución sostenida de TFGe (tasa de filtración glomerular estimada), enfermedad renal en etapa terminal, muerte cardiovascular y hospitalización por insuficiencia cardíaca en adultos con enfermedad renal crónica en riesgo de progresión.
+Limitaciones de uso:
+• No es para el tratamiento de la diabetes mellitus tipo 1. Podría aumentar el riesgo de cetoacidosis diabética en estos pacientes.
+• Debido al componente de metformina, el uso de NEDAL MET XR está limitado a adultos con diabetes mellitus tipo 2 para todas las indicaciones.
+• No se recomienda NEDAL MET XR para el tratamiento de enfermedad renal crónica en pacientes con enfermedad renal poliquística o pacientes que requieren o tienen antecedentes recientes de terapia inmunosupresora para el tratamiento de la enfermedad renal.
+No se espera que NEDAL MET XR sea efectivo en estas poblaciones.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de acción
+NEDAL MET XR es una combinación de dos agentes antihiperglucemiantes con mecanismos de acción complementarios para mejorar el control glucémico en adultos con diabetes tipo 2: dapagliflozina, un inhibidor del co-transportador de sodio-glucosa tipo 2 (SGLT2), y clorhidrato de metformina, una biguanida.
+Dapagliflozina
+El co-transportador de sodio-glucosa tipo 2 (SGLT2), expresado en los túbulos renales proximales, es responsable de la mayoría de la reabsorción de la glucosa filtrada del lúmen del túbulo. La dapagliflozina es un inhibidor de SGLT2. Al inhibir SGLT2, la dapagliflozina reduce la reabsorción de la glucosa filtrada y reduce el umbral renal para la glucosa, y por lo tanto aumenta la excreción urinaria de glucosa.
+Clorhidrato de metformina
+La metformina mejora la tolerancia a la glucosa en pacientes con diabetes tipo 2, disminuyendo  tanto  la  glucemia  basal  como  la  postprandial.  La  metformina  disminuye  la producción hepática de glucosa y la absorción intestinal de glucosa, y mejora la sensibilidad a la insulina mediante el aumento de la captación y utilización periférica de la glucosa.
+La metformina no produce hipoglucemia ni en los pacientes con diabetes tipo 2 ni en los sujetos sanos, salvo en circunstancias inusuales y tampoco causa hiperinsulinemia. El tratamiento con metformina no altera la secreción de insulina, aunque puede disminuir las concentraciones de insulina en ayunas y la respuesta de la insulina plasmática a lo largo del día.
+
+Propiedades farmacodinámicas
+General
+Dapagliflozina
+Se observaron aumentos en la cantidad de glucosa excretada en orina en sujetos sanos y en pacientes con diabetes mellitus tipo 2 después de la administración de dapagliflozina
+(ver Figura 1). Las dosis de dapagliflozina de 5 mg o 10 mg por día en pacientes con diabetes mellitus tipo 2 durante 12 semanas resultó en la excreción de aproximadamente 70 gramos de glucosa en la orina por día. Se observó una excreción máxima de glucosa a dosis  diarias  de  20  mg  de  dapagliflozina.  Esta  excreción  urinaria  de  glucosa  con dapagliflozina también lleva a aumentos en el volumen urinario.
+
+1
+
+Clorhidrato de metformina
+En pacientes con función renal disminuida (basado en el clearance de creatinina), la vida media plasmática y sanguínea de la metformina se prolonga y el clearance renal disminuye proporcionalmente a la disminución en el clearance de creatinina.
+Insuficiencia hepática
+Dapagliflozina
+En pacientes con insuficiencia hepática leve o moderada (Child-Pugh clase A y B), los valores medios de Cmax y AUC de dapagliflozina fueron hasta un 12% y un 36% superiores, respectivamente, en comparación con los sujetos de control sanos, tras la administración de una sola dosis de 10 mg de dapagliflozina. Estas diferencias no se consideraron clínicamente significativas. En pacientes con insuficiencia hepática grave (Child-Pugh Clase
+C), los valores medios de Cmax y AUC de dapagliflozina fueron hasta un 40% y un 67% superiores, respectivamente, en comparación con los sujetos de control sanos.
+Clorhidrato de metformina
+No se realizaron estudios farmacocinéticos de metformina en pacientes con insuficiencia hepática.
+Paciente geriátrico
+Dapagliflozina
+Sobre la base de un análisis farmacocinético poblacional, la edad no tiene un efecto clínicamente significativo sobre las exposiciones sistémicas de dapagliflozina; por lo tanto, no se recomienda un ajuste de dosis.
+Clorhidrato de metformina
+Los resultados limitados de estudios controlados sobre la farmacocinética de la metformina en sujetos sanos de edad avanzada indican que disminuye la depuración plasmática total de la metformina, se prolonga la vida media y aumenta la Cmax comparado con sujetos jóvenes sanos. A partir de estos datos, se deduce que las variaciones farmacocinéticas de la metformina con el avance de la edad se deben principalmente a un cambio de la función renal.
+Paciente pediátrico
+No se estudió la farmacocinética de dapagliflozina-metformina acción prolongada en la población pediátrica.
+Sexo
+Dapagliflozina
+Sobre la base de un análisis farmacocinético poblacional, el sexo no tiene un efecto clínicamente significativo sobre las exposiciones sistémicas de dapagliflozina, por lo tanto, no se recomienda un ajuste de dosis.
+Clorhidrato de metformina
+Los parámetros farmacocinéticos de la metformina no difieren significativamente entre sujetos sanos y pacientes con diabetes tipo 2 cuando se analizan de acuerdo al sexo
+(hombres=19, mujeres= 16). De manera similar, en estudios clínicos controlados en pacientes con diabetes tipo 2, el efecto anti-hiperglicémico de la metformina fue comparable con hombres y mujeres.
+Raza
+Dapagliflozina
+Sobre la base de un análisis farmacocinético poblacional, la raza (raza blanca, negra o asiática) no tiene un efecto clínicamente significativo sobre las exposiciones sistémicas de dapagliflozina, por lo tanto, no se recomienda un ajuste de dosis.
+Clorhidrato de metformina
+No se realizaron estudios sobre los parámetros farmacocinéticos de la metformina en base a la raza. En estudios clínicos controlados de metformina en pacientes con diabetes tipo 2, el efecto anti hiperglucémico fue comparable en pacientes de raza blanca (n=249), raza negra (n=51) e hispánicos (n=24).
+Peso corporal
+Dapagliflozina
+Sobre la base de un análisis farmacocinético poblacional, el peso corporal no tiene efectos clínicamente significativos sobre las exposiciones sistémicas de la dapagliflozina, por lo tanto, no se recomienda un ajuste de dosis.
+Interacciones farmacológicas
+No se han realizado estudios específicos sobre interacciones medicamentosas farmacocinéticas con dapagliflozina-metformina acción prolongada, aunque este tipo de estudios se realizaron con los componentes individuales de dapagliflozina y metformina.
+Evaluación in vitro de interacciones farmacológicas
+Dapagliflozina
+En los estudios in vitro, la dapagliflozina y dapagliflozina 3-O-glucurónido no inhibieron las enzimas CYP 1A2, 2C9, 2C19, 2D6, 3A4, ni indujeron las enzimas CYP 1A2, 2B6 ó 3 A 4. La dapagliflozina es un sustrato débil del transportador activo de la P-glicoproteína (P-gp), y la dapagliflozina 3-O-glucurónido no inhibió significativamente a los transportadores activos
+P-gp, COT2, AT1 u OAT3. En general, la dapagliflozina es poco probable que afecte la farmacocinética o los medicamentos administrados concomitantemente que son sustratos de P-pg, OCT2, OAT1 u OAT3.
+
+Efectos de otros medicamentos sobre la metformina Efectos de medicamentos co-administrados sobre exposición sistémica de metformina en plasma.
+No se requiere ajuste de dosis para los siguientes medicamentos:
+Gliburida (5 mg), Furosemida (40 mg); Nifedipina (10 mg); Propanolol (40 mg); Ibuprofeno
+(400 mg)
+Los fármacos catiónicos eliminados por secreción tubular renal pueden reducir la eliminación de metformina: utilizar con precaución.
+Cimetidina (400 mg)
+
+Efectos de la metformina sobre otros medicamentos No se requiere ajuste de dosis para los siguientes medicamentos:
+Gliburida (5 mg); Furosemida (40 mg); Nifedipina (10 mg); Propanolol (40 mg); Ibuprofeno
+(400 mg); Cimetidina (400 mg).
+
+Efectos de otros medicamentos sobre la dapagliflozina No se requiere ajuste de dosis para los siguientes medicamentos:
+Agentes antidiabéticos orales: Metformina (1000 mg); Pioglitazona (45 mg); Sitagliptina (100 mg); Glimepirida (4 mg); Voglibosa (0,2 mg tres veces al día).
+Agentes cardiovasculares: Hidroclorotiazida (25 mg); Bumetanida (1 mg); Valsartán (320 mg); Simvastatina (40 mg).
+Agentes anti-infecciosos
+Rifampicina (600 mg una vez al día durante 6 días).
+Agentes no esteroides anti-inflamatorios Ácido mefenámico (dosis de carga de 500 mg seguido de 14 dosis de 250 mg cada 6 horas).
+
+Efectos de la dapagliflozina sobre otros medicamentos No se requiere ajuste de dosis para los siguientes medicamentos:
+Agentes antidiabéticos orales: Metformina (1000 mg); Pioglitazona (45 mg); Sitagliptina (100 mg); Glimepirida (4 mg).
+Agentes cardiovasculares: Hidroclorotiazida (25 mg); Bumetanida (1 mg); Valsartán (320 mg); Simvastatina (40 mg); Digoxina (0,25 mg); Warfarina (25 mg); S-warfarina; R-warfarina
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+Antes de la iniciación de NEDAL MET XR
+• Evalúe la función renal antes de iniciar la terapia con NEDAL MET XR y periódicamente a partir de entonces.
+• Evalúe el estado del volumen y, si fuera necesario, corrija la reducción del volumen antes de iniciar NEDAL MET XR.
+
+Administración recomendada
+• Tome NEDAL MET XR por vía oral una vez al día por la mañana con alimentos.
+• Trague los comprimidos de NEDAL MET XR enteros y nunca los triture, corte ni mastique.
+
+Dosificación recomendada
+• Individualice la dosis inicial de NEDAL MET XR según el régimen actual del paciente. Los pacientes que toman una dosis vespertina de metformina de liberación prolongada deben omitir su última dosis antes de comenzar con NEDAL MET XR.
+• Para mejorar el control glucémico en pacientes que aún no toman dapagliflozina, la dosis inicial recomendada de dapagliflozina es de 5 mg una vez al día.
+• Para indicaciones relacionadas con insuficiencia cardíaca y enfermedad renal crónica, la dosis recomendada de dapagliflozina es de 10 mg una vez al día.
+• La dosificación puede ajustarse según la eficacia y la tolerabilidad sin exceder la dosis
+
+3
+
+Antes de iniciar el tratamiento con NEDAL MET XR en pacientes con una o más de estas características, se debe evaluar y corregir la volemia. Controlar los signos y síntomas de hipotensión después de iniciar el tratamiento.
+Cetoacidosis
+Reportes de cetoacidosis, una enfermedad grave con riesgo de vida que requiere hospitalización urgente, han sido identificados durante la vigilancia post-comercialización en pacientes con diabetes mellitus tipo 1 y tipo 2 tratados con inhibidores del co-transportador de sodio-glucosa de tipo 2 (SGLT2), incluyendo dapagliflozina. Se han reportado casos fatales de cetoacidosis en pacientes tratados con dapagliflozina. NEDAL MET XR no está indicado para el tratamiento de pacientes con diabetes mellitus tipo1.
+Los pacientes con NEDAL MET XR que presentan signos y síntomas consistentes con acidosis metabólica grave deben ser evaluados para detectar cetoacidosis independientemente de los niveles de glucosa en sangre ya que la cetoacidosis asociada con NEDAL
+MET XR puede estar presente incluso si los niveles de glucosa en sangre son inferiores a 250mg/dl. Si se sospecha cetoacidosis, NEDAL MET XR debe discontinuarse, debe evaluarse el paciente y sustituirse el tratamiento de inmediato. El tratamiento de la cetoacidosis suele requerir de insulina y fluidoterapia.
+En muchos reportes de post-comericalización, y especialmente en pacientes con diabetes tipo 1, la presencia de cetoacidosis no fue reconocida inmediatamente y se demoró la sustitución del tratamiento porque los niveles de glucosa en sangre fueron inferiores a los típicamente esperados para cetoacidosis diabética (a menudo inferior a 250mg/dl). Los signos y síntomas en la presentación fueron consistentes con deshidratación y acidosis metabólica grave e incluyeron náuseas, vómitos, dolor abdominal, malestar generalizado, falta de aire. En algunos, pero no en todos los casos, los factores que predisponen a cetoacidosis fueron identificados como la reducción de la dosis de insulina, enfermedad febril aguda, ingesta calórica reducida por enfermedad o cirugía, trastornos pancreáticos que sugieren deficiencia de insulina (ej. Diabetes tipo 1, antecedentes de pancreatitis o cirugía pancreática), y abuso de alcohol. Antes de iniciar el tratamiento con NEDAL MET
+XR, considerar los factores en los antecedentes del paciente que puedan predisponer a cetoacidosis incluyendo deficiencia de insulina pancreática por cualquier causa, restricción calórica y abuso de alcohol. En pacientes tratados con NEDAL MET XR considerar el control para detectar cetoacidosis y discontinuar temporariamente el tratamiento con NEDAL MET XR en situaciones clínicas conocidas por predisponer a la cetoacidosis (ej.
+ayuno prolongado debido a enfermedad aguda o cirugía).
+
+Lesión aguda renal y deterioro de la función renal
+La dapagliflozina produce contracción del volumen intravascular y puede causar insuficiencia renal. Ha habido reportes post-comercialización de lesión aguda renal, algunos de los cuales requieren hospitalización y diálisis, en pacientes que recibieron dapagliflozina:
+algunos reportes involucran pacientes menores de 65 años de edad.
+Antes de iniciar el tratamiento con NEDAL MET XR se deben considerar los factores que pueden predisponer a los pacientes a lesión aguda renal incluyendo hipovolemia, insuficiencia renal crónica, insuficiencia cardíaca congestiva y medicaciones concomitantes
+(diuréticos, inhibidores de la ECA, ARA II, AINEs). Considerar la discontinuación temporaria de NEDAL MET XR en cualquier contexto de ingesta oral reducida (como enfermedad aguda o ayuno) o pérdida de líquido (enfermedad gastrointestinal o exposición al calor excesivo); controlar a los pacientes para detectar signos y síntomas de lesión aguda renal.
+Si se produce una lesión aguda renal, discontinuar NEDAL MET XR de inmediato y sustituir el tratamiento.
+La dapagliflozina aumenta la creatinina sérica y disminuye la TFGe. Los pacientes de edad avanzada y los pacientes con función renal deteriorada pueden ser más susceptibles a estos cambios. Las acciones adversas relacionadas con la función renal pueden producirse después del inicio del tratamiento con NEDAL MET XR. La función renal debe ser evaluada antes de iniciar el tratamiento con NEDAL MET XR y ser controlada periódicamente en lo sucesivo. NEDAL MET XR está contraindicado en pacientes con TFGe inferior a 60 m/min/1,73 m2.
+Urosepsis y pielonefritis
+Ha habido reportes post-comercialización de infecciones graves del tracto urinario, incluyendo urosepsis y pielonefritis que requieren hospitalización en pacientes tratados con inhibidores del SGLT2, incluyendo dapagliflozina. El tratamiento con inhibidores del SGLT2 aumenta el riesgo de infecciones del trato urinario. Evaluar a los pacientes para detectar signos y síntomas de infecciones del tracto urinario y tratar de inmediato, si está indicado hacerlo.
+Uso de medicamentos conocidos que causan hipoglucemia
+Dapagliflozina
+Se  sabe  que  la  insulina  y  los  secretagogos  de  insulina  causan  hipoglucemia.  La dapagliflozina puede aumentar el riesgo de hipoglucemia cuando se combina con insulina o con un secretagogo de insulina. Por lo tanto, puede requerirse una dosis más baja de insulina o secretagogo de insulina para minimizar el riesgo de hipoglucemia cuando estos agentes se utilizan en forma concomitante con NEDAL MET XR.
+Clorhidrato de metformina
+No se produce hipoglucemia en pacientes que reciben metformina sola bajo circunstancias habituales de uso, pero puede presentarse cuando la ingesta calórica es deficiente, cuando el ejercicio extenuante no se compensa con el suplemento calórico, o durante el uso concomitante con otros agentes reductores de glucosa (como sulfonilureas e insulina) o etanol. Los pacientes ancianos, debilitados o mal nutridos, y aquellos con insuficiencia adrenal o pituitaria, o intoxicación alcohólica, son particularmente propensos a efectos hipoglucémicos. Puede resultar difícil reconocer hipoglucemia en ancianos y en personas que toman medicamentos bloqueantes beta adrenérgicos.
+Concentraciones de Vitamina B12
+En ensayos clínicos controlados de 29 semanas de duración con metformina, pudo observarse una disminución de vitamina B12 a niveles subnormales, sin manifestaciones clínicas, en aproximadamente el 7% de los pacientes. Esta disminución, posiblemente debida a la interferencia en la absorción de vitamina B12 por el complejo B12 – factor intrínseco, es, sin embargo, raramente asociada con anemia, y parece ser rápidamente reversible con la interrupción de la metformina o la administración de suplementos de vitamina B12. Se aconseja medir anualmente los parámetros hematológicos en los pacientes que reciben NEDAL MET XR, y cualquier anomalía aparente deber ser adecuadamente investigada y tratada.
+Ciertas personas (aquellas con una inadecuada ingesta o absorción de vitamina B12 o calcio) parecen ser propensas a desarrollar niveles de vitamina B12 subnormales. En estos pacientes, las mediciones de rutina de vitamina B12 sérica en intervalos de 2 a 3 años pueden ser útiles.
+Micosis genital
+La dapagliflozina aumenta el riesgo de micosis genital. Los pacientes con antecedentes de micosis genital son más propensos a desarrollarla. Controlar y tratar adecuadamente.
+Aumentos de colesterol de lipoproteínas de baja densidad (LDL-C)
+Se observan aumentos del LDL-C con dapagliflozina. Controlar el LDL-C y tratar de acuerdo a la evolución esperada después de iniciar el tratamiento con NEDAL MET XR.
+Cáncer de vejiga
+Sobre 22 estudios clínicos, se reportaron nuevos casos diagnosticados de cáncer de vejiga en 10/6045 pacientes (0.17%) tratados con dapagliflozina y 1/3512 pacientes (0.03%)
+tratados con placebo/comparador. Después de excluir a pacientes en los que la exposición al fármaco de estudio fue menor a un año al momento del diagnóstico de cáncer de vejiga, hubo 4 casos con dapagliflozina y ningún caso con placebo/comparador. Factores de riesgo de cáncer de vejiga y hematuria (un indicador potencial de tumores pre-existentes)
+fueron equilibrados entre los grupos de tratamiento al estado basal. Hubo muy pocos casos para determinar si la aparición de estos eventos se relaciona con la dapagliflozina.
+No se dispone de datos suficientes para determinar si la dapagliflozina tiene un efecto sobre los tumores de vejiga pre-existentes. Consecuentemente, NEDAL MET XR no debe usarse en pacientes con cáncer de vejiga activo. En pacientes con antecedentes de cáncer de vejiga, deben ser considerados los beneficios del control glucémico versus los riesgos desconocidos para la recurrencia del cáncer con NEDAL MET XR.
+Resultado macrovascular
+No se han realizado estudios clínicos que establezcan en forma concluyente la reducción del riesgo macrovascular con la asociación dapagliflozina-metformina.
+
+Interacciones medicamentosas
+Prueba positiva de glucosa en orina
+Dapagliflozina
+El seguimiento del control de la glucemia con pruebas de glucosa en la orina no se recomienda en pacientes que toman inhibidores SGLT2 ya que los inhibidores SGLT2 aumentan la excreción de glucosa en orina y determinaran pruebas positivas. Usar métodos alternativos para monitorear el control glucémico.
+Interferencia en el ensayo de 1,5-anhidroglucitol (1,5-AG)
+Dapagliflozina
+No se recomienda monitorear el control glucémico mediante el ensayo 1,5-AG ya que las
+
+5
+
+metformina en ratones macho y hembras. Tampoco se observó un potencial tumorigénico con metformina en ratas macho. Sin embargo, aumentó la incidencia de pólipos benignos del estroma uterino en las ratas hembras tratadas con 900 mg/kg/día.
+No hubo evidencia de potencial mutagénico de metformina en los siguientes ensayos in vitro: Prueba de Ames (S. typhimurium), prueba de mutación genética (células de linfoma de ratón), o la prueba de aberraciones cromosómicas (linfocitos humanos). Los resultados en el ensayo in vivo de micronúcleos de ratón también fueron negativos.
+La fertilidad de las ratas macho o hembra no se vio afectada por la metformina cuando se administró en dosis de hasta 600 mg/kg/día, que es de aproximadamente 3 veces la MRHD en base a comparaciones del área de superficie corporal.
+
+Uso geriátrico
+NEDAL MET XR
+No se recomienda un cambio de dosis de NEDAL MET XR en base a la edad. Se recomienda una evaluación más frecuente de la función renal en pacientes de edad avanzada.
+Dapagliflozina
+Un total de 1.424 (24%) de los 5936 pacientes tratados con dapagliflozina eran mayores de 65 años de edad, y 207 (3,5%) de los pacientes eran mayores de 75 años de edad, en una combinación de 21 estudios de dapagliflozina doble ciego, controlados, de seguridad y eficacia clínica. Después de controlar el nivel de la función renal (TFGe), la eficacia fue similar en los pacientes menores de 65 años de edad y en aquellos mayores de 65 años de edad. En los pacientes ≥65 años de edad, una mayor proporción de pacientes tratados con dapagliflozina experimentaron reacciones adversas relacionadas con depleción de volumen e insuficiencia o falla renal en comparación con los pacientes tratados con placebo.
+Clorhidrato de metformina
+Los estudios clínicos controlados de metformina no incluyeron una cantidad suficiente de pacientes de edad avanzada para determinar si responden de manera diferente comparado con los pacientes más jóvenes, aunque otra experiencia clínica reportada no identificó diferencias en las respuestas entre los pacientes de edad avanzada y los jóvenes. Se sabe que la metformina se excreta principalmente por vía renal y porque el riesgo de acidosis láctica con metformina es mayor en pacientes con insuficiencia renal moderada a grave,
+NEDAL MET XR debe usarse solamente en pacientes que tienen una función renal normal o  levemente  alterada.  La  dosis  inicial  y  de  mantenimiento  de  metformina  deben determinarse  con  prudencia  en  pacientes  de  edad  avanzada  debido  a  la  posible disminución de la función renal en esta población. Todo ajuste de la dosis debe basarse en una evaluación cuidadosa de la función renal.
+
+Pacientes con insuficiencia renal leve (TFGe ≥ 60 a < 90 ml/min/1,73 m2).
+Dapagliflozina
+La combinación de 21 estudios de seguridad y eficacia clínica, doble-ciego, activo controlado con placebo (dapagliflozina como monoterapia o en combinación con otras terapias antidiabéticas) incluyeron un 53% (4906/9339) de pacientes con insuficiencia renal leve. El perfil de seguridad en pacientes con insuficiencia renal leve es similar a la población global.
+
+Insuficiencia hepática
+El uso de metformina en pacientes con insuficiencia hepática ha sido asociado con algunos casos de acidosis láctica. No se recomienda NEDAL MET XR en pacientes con insuficiencia hepática.
+
+REACCIONES ADVERSAS
+Las siguientes reacciones adversas importantes se describen a continuación:
+
+• Acidosis Láctica.
+• Hipotensión.
+• Cetoacidosis.
+• Lesión aguda renal y deterioro de la función renal.
+• Urosepsis y pielonefritis.
+• Uso de medicamentos conocidos que causan hipoglucemia.
+• Concentraciones de Vitamina B12.
+• Micosis Genital.
+• Aumentos de Colesterol de lipoproteínas de baja densidad (LDL-C).
+• Cáncer de vejiga
+
+SOBREDOSIFICACIÓN
+Dapagliflozina
+No  hubo  informes  de  sobredosis  durante  el  programa  de  desarrollo  clínico  para dapagliflozina. Es razonable emplear medidas de apoyo según lo dictado por el estado clínico del paciente. La eliminación de dapagliflozina por hemodiálisis no ha sido estudiada.
+Clorhidrato de metformina
+Se han producido sobredosis de clorhidrato de metformina, incluida la ingesta de cantidades superiores a los 50 g. Se reportó hipoglucemia en aproximadamente el 10% de los casos, pero no se estableció una asociación causal con el clorhidrato de metformina. Se reportó acidosis láctica en aproximadamente un 32% de los casos de sobredosis de metformina. La metformina es dializable, con una depuración de hasta 170 ml/mm bajo buenas condiciones hemodinámicas. Por lo tanto, la hemodiálisis puede resultar útil para eliminar el fármaco acumulado cuando se sospecha de una sobredosis de metformina.
+
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+INFORMACION DE ASESORAMIENTO AL PACIENTE lnstrucciones Instruir a los pacientes en cuanto a leer la información para el paciente antes de comenzar el tratamiento con NEDAL MET XR y volver a leer cada vez que se renueva la prescripción.
+lnformar a los pacientes sobre los potenciales riesgos de NEDAL MET XR y sobre modos alternativos de terapia. También informar a los pacientes sobre la importancia de cumplir con las instrucciones dietarias, actividad física en forma regular, control periódico de glucosa en sangre y prueba de HbA1c, reconocimiento y tratamiento de hipoglucemia e hiperglucemia, y evaluación de las complicaciones de la diabetes. Aconsejar al paciente a recurrir a atención médica de inmediato durante períodos de stress como fiebre, traumatismo, infección, o cirugía, ya que los requerimientos farmacológicos pueden cambiar.
+Informar a los pacientes que la incidencia de hipoglucemia puede aumentar cuando se agrega NEDAL MET XR a un secretagogo de insulina (ej. sulfonilurea) o a insulina.
+lnstruir a la paciente a informar de inmediato a su médico si está embarazada o planea quedar embarazada. En base a datos sobre animales, NEDAL MET XR puede causar daño fetal en el segundo y tercer trimestre del embarazo.
+lnstruir a la paciente a informar de inmediato a su médico si está en periodo de lactancia o planea estarlo. Se desconoce si NEDAL MET XR se excreta en la leche materna; sin embargo, en base a datos sobre animales, NEDAL MET XR podría causar daño a los lactantes.
+lnformar a los pacientes que las reacciones adversas más frecuentes asociadas con el uso de NEDAL MET XR son infecciones micóticas genitales en mujeres, nasofaringitis, infecciones del tracto urinario, diarrea, cefalea, náuseas y vómitos.
+lnstruir a los pacientes que NEDAL MET XR debe tragarse entero y no debe triturarse o masticarse, y que los ingredientes inactivos pueden ocasionalmente ser eliminados en las heces como una masa blanda que puede parecer el comprimido original.
+lnstruir a los pacientes que NEDAL MET XR debe tomarse solamente como fue indicado. Si se omite una dosis, asesorar a los pacientes de tomarla tan pronto lo recuerden salvo que ya sea casi el momento de la próxima dosis, en cuyo caso los pacientes deben saltear la dosis omitida y tomar el medicamento al momento programado regularmente. Aconsejar a los pacientes que no tomen 2 comprimidos de NEDAL MET XR al mismo tiempo, salvo que haya sido indicado así por el médico.
+Acidosis láctica lnformar a los pacientes sobre los riesgos de la acidosis láctica debido al componente de la metformina y sus síntomas y afecciones que predisponen a su desarrollo. lnformar a los pacientes de discontinuar el tratamiento con NEDAL MET XR de inmediato y avisar sin demora a su médico si presentan hiperventilación inexplicable, mialgias, malestar general, somnolencia inusual, mareos, latidos cardíacos lentos o irregulares, sensación de frio
+(especialmente en las extremidades) u otros síntomas inespecíficos. Los síntomas gastrointestinales son frecuentes al principio del tratamiento con metformina y pueden producirse al inicio del tratamiento con NEDAL MET XR; no obstante, informar a los pacientes sobre consultar a su médico si desarrollan síntomas inexplicables. Si aparecen síntomas gastrointestinales después de la estabilización, es poco probable que se relacionen con el fármaco;
+
+mediciones de 1,5-AG no son confiables en la evaluación del control glucémico en pacientes que toman inhibidores SGLT2. Usar métodos alternativos para monitorear el control glucémico.
+Inhibidores de la anhidrasa carbónica
+Topiramato y otros inhibidores de la anhidrasa carbónica (ej. zonisamida, acetazolamida o diclofereamida) causan frecuentemente una disminución en el bicarbonato sérico, e inducen una acidosis metabólica hiperclorémica sin brecha aniónica. El uso concomitante de estos fármacos con NEDAL MET XR puede aumentar el riesgo de acidosis láctica.
+Considerar un control más frecuente de estos pacientes.
+Fármacos que reducen el aclaramiento de la metformina El uso concomitante de fármacos que interfieren con los sistemas de transporte tubular renal implicados en la eliminación renal de la metformina (ej. inhibidores de transportadores de cationes orgánicos-2 [OCT2] / extrusión de toxinas y multifármacos [MATE] tales como ranolazina, vandetanib, dolutegravir y cimetidina) pueden aumentar la exposición sistémica a la metformina y pueden aumentar el riesgo de acidosis láctica. Considerar los beneficios y riesgos del uso concomitante.
+Alcohol
+Se sabe que el alcohol potencia el efecto de la metformina en el metabolismo del lactato.
+Advertir a los pacientes contra el consumo excesivo de alcohol mientras son tratados con
+NEDAL MET XR.
+Uso con otros medicamentos
+Clorhidrato de metformina
+Ciertos medicamentos pueden predisponer a la hiperglucemia y provocar una pérdida del control glucémico. Estos medicamentos incluyen las tiazidas y otros diuréticos, corticoesteroides, fenotiazinas, productos tiroideos, estrógenos, anticonceptivos orales, fenitoína, acido nicotínico, simpaticomiméticos, bloqueantes de los canales de calcio, e isoniazida.
+Cuando se administran estos fármacos a un paciente tratado con NEDAL MET XR, este debe mantenerse bajo estricta observación para detectar una posible pérdida del control glucémico. Cuando se interrumpe la administración de dichos fármacos a un paciente tratado con NEDAL MET XR, el paciente debe mantenerse bajo estricta observación para detectar posible hipoglucemia.
+En voluntarios sanos, la farmacocinética de la metformina y propanolol, y de metformina e ibuprofeno no se vio afectada cuando se co-administra en estudios de interacción de dosis única.
+
+Embarazo
+Embarazo Categoría C
+No se han realizado estudios adecuados y bien controlados de dapagliflozina-metformina acción prolongada o sus componentes individuales en mujeres embarazadas. Según los resultados  de  estudios  de  toxicidad  reproductiva  y  de  desarrollo  en  animales,  la dapagliflozina, un componente de NEDAL MET XR, puede afectar el desarrollo renal y la maduración. En un estudio de ratas jóvenes, se evidenció un aumento en la incidencia y/o gravedad de dilataciones pélvicas y tubulares renales con la dosis más baja ensayada, que fue de aproximadamente 15 veces la exposición clínica a partir de una dosis de 10 mg.
+Estos resultados se produjeron con exposiciones del fármaco durante períodos del desarrollo animal que se correlacionan con el fin del segundo y tercer trimestre del embarazo humano. Durante el embarazo, considerar terapias alternativas apropiadas, especialmente durante el segundo y tercer trimestre. Se debe usar NEDAL MET XR durante el embarazo solamente si el beneficio potencial justifica el riesgo potencial del feto.
+Dapagliflozina
+En un estudio de toxicidad juvenil, cuando se administró dapagliflozina directamente a ratas jóvenes a partir del día post-natal (PND) 21 hasta PND 90 a dosis de 1, 15 ó 75 mg/kg/día, se reportó aumento de peso de los riñones y dilataciones pélvicas y tubulares renales en todos los niveles. La exposición a la dosis más baja ensayada fue de 15 veces la dosis clínica máxima, basada en el AUC. Las dilataciones pélvicas y tubulares renales observadas en animales jóvenes no revirtieron totalmente dentro del periodo de recuperación de 1 mes aproximadamente.
+En un estudio de desarrollo pre y post natal, se administró a ratas gestantes desde el día 6 de la gestación hasta el día 21 de la lactancia, dosis de 1, 15 ó 75 mg/kg/día, y las crías estuvieron indirectamente expuestas in útero y durante la lactancia. Se observó un aumento de la incidencia o gravedad de la dilatación pélvica renal en la cría adulta de madres tratadas con 75 mg/kg/día (la exposición a dapagliflozina en madres y crías fue de 1415 y 137 veces, respectivamente, los valores humanos a dosis clínica). No se observaron efectos adversos en los puntos finales de desarrollo a 1 mg/kg/día, o aproximadamente 19 veces la dosis clínica.
+En estudios sobre el desarrollo embrio-fetal en ratas y conejos, se administró dapagliflozina durante intervalos coincidiendo con el primer trimestre del período de organogénesis en humanos. No se observaron toxicidades de desarrollo en conejos en ninguna de las dosis ensayadas. En ratas, la dapagliflozina no fue ni embrio-letal ni teratogénica a dosis hasta
+75mg/kg/día o 1441 veces la dosis clínica máxima de 10mg. A dosis más altas en ratas, se observaron malformaciones en los vasos sanguíneos, costillas, vertebras, esternón, y variaciones esqueléticas en los fetos a ≥150 mg/kg o 2344 veces la dosis clínica de 10mg.
+Clorhidrato de metformina
+La metformina no fue teratogénica en ratas y conejos con dosis hasta 600mg/kg/día. Esto representa una exposición de aproximadamente 2 y 6 veces la dosis recomendada humana diaria de 2000 mg en base a comparaciones del área de superficie corporal para ratas y conejos, respectivamente. La determinación de concentraciones fetales demostró una barrera placentaria parcial a metformina.
+
+Lactancia
+No se han realizado estudios empleando la asociación de los componentes de NEDAL MET XR. En estudios realizados con los componentes individuales, tanto la dapagliflozina
+(alcanzando niveles de 0,49 veces mayor que en el plasma materno) y la metformina se excretan en la leche de ratas lactantes.
+Los datos de las ratas jóvenes expuestas directamente a dapagliflozina demostraron riesgo para  el  riñón  en  desarrollo  (dilataciones  pélvicas  y  tubulares  renales)  durante  la maduración. Dado que la maduración del riñón humano se produce in útero y en los primeros 2 años de vida, cuando se puede producir la exposición de la lactancia, puede haber riesgo para el riñón humano en desarrollo. Debido a que muchos fármacos se excretan en la leche humana y debido al potencial de reacciones adversas graves en los lactantes por la dapagliflozina, debe tomarse una decisión sobre si discontinuar la lactancia o suspender NEDAL MET XR, teniendo en cuenta la importancia del fármaco para la madre.
+
+Uso pediátrico
+No se ha establecido la seguridad y eficacia de dapagliflozina-metformina acción prolongada en pacientes pediátricos menos de 18 años de edad.
+
+Carcinogénesis, Mutagénesis, Deterioro de la Fertilidad No se han realizado estudios empleando la asociación de los componentes de NEDAL MET XR en animales para evaluar la carcinogénesis, mutagénesis o deterioro de la fertilidad. Los siguientes datos se basan en los hallazgos realizados en los estudios con dapagliflozina y metformina por separado.
+Dapagliflozina
+La dapagliflozina no indujo tumores, ya sea en ratones a ratas, en cualquiera de las dosis evaluadas en estudios de carcinogenicidad de 2 años. Las dosis orales en ratones consistieron en 5, 15, y 40 mg/kg/día en machos y 2, 10, y 20 mg/kg/día en hembras, y las dosis orales en ratas eran 0,5, 2, y 10 mg/kg/día tanto para machos como para hembras.
+Las dosis más altas evaluadas en ratones fueron aproximadamente 72 veces (en machos)
+y 105 veces (en hembras) la dosis clínica de 10 mg/día, en base a la exposición según AUC.
+En ratas, la dosis más alta fue de aproximadamente 131 veces (machos) y 186 veces (hembras) la dosis clínica de 10 mg/día, en base a la exposición según AUC.
+Dapagliflozina dio resultado negativo en el ensayo de mutagenicidad de Ames y positivo en un estudio de clastogenicidad in vitro, pero solo en presencia de la activación de S9 y a concentraciones ≥ 100 mcg/ml. Dapagliflozina dio resultado negativo para clastogenicidad en un grupo de estudios in vivo en las que se evaluaron micronúcleos o reparación de ADN en ratas con múltiples exposiciones, >2100 veces la dosis clínica. No se observó signo de carcinogenicidad o mutagenicidad en los estudios en animales, lo que sugiere que la dapagliflozina no representa un riesgo genotóxico para el ser humano.
+La dapagliflozina no tuvo efectos sobre el apareamiento, la fertilidad o desarrollo embrionario prematuro en ratas machos o hembras tratados en múltiples exposiciones, ≤ 1708 y 998 veces el máximo recomendado de dosis humanas en hombres y mujeres, respectivamente.
+Clorhidrato de metformina
+Se realizaron estudios de carcinogénesis a largo plazo en ratas (duración de la administración 104 semanas) y en ratones (duración de la administración 91 semanas) con dosis de hasta inclusive 900 mg/kg/día y 1500 mg/kg/día, respectivamente. Estas dosis equivalen a aproximadamente 4 veces la dosis diaria máxima recomendada en seres humanos de 2000 mg, basándose en la superficie corporal.  No se encontraron signos de carcinogénesis con
+
+6
+
+sin embargo, la aparición de síntomas justifica una evaluación para determinar si se deben a la acidosis láctica o a otra enfermedad grave.
+Aconsejar a los pacientes contra el consumo excesivo de alcohol mientras toma NEDAL
+MET XR.
+lnformar a los pacientes sobre la importancia de someterse a estudios regulares de la función renal y de parámetros hematológicos durante el tratamiento con NEDAL MET XR.
+lnstruir a los pacientes en cuanto a informar al médico que están tomando NEDAL MET XR antes de cualquier cirugía o procedimiento radiológico, ya que puede requerirse la discontinuación temporaria de NEDAL MET XR hasta que se haya confirmado que la función renal se encuentra normal.
+Hipotensión lnformar a los pacientes que se puede producir hipotensión sintomática con NEDAL MET XR y asesorarlos de ponerse en contacto con el médico si experimentan dichos síntomas.
+lnformar a los pacientes que la deshidratación puede aumentar el riesgo de hipotensión, y de consumir liquido adecuadamente.
+Cetoacidosis lnformar a los pacientes que la cetoacidosis es una enfermedad grave con riesgo de vida.
+Se reportaron casos de cetoacidosis durante el uso de dapagliflozina. lnstruir a los pacientes sobre comprobar los niveles de cetonas (cuando es posible) si los síntomas consistentes con la cetoacidosis se producen incluso si la glucosa en sangre no es elevada.
+Si se presentan síntomas de cetoacidosis (incluyendo náuseas, vómitos, dolor abdominal, cansancio, y dificultad para respirar) instruir a los pacientes a discontinuar NEDAL MET XR y recurrir a atención médica inmediatamente.
+Lesión renal aguda lnformar a los pacientes que se reportó lesión renal aguda durante el uso de dapagliflozina.
+Aconsejar a los pacientes que busquen atención médica inmediatamente si han reducido la ingesta oral (debido a enfermedad aguda o ayuno) o si tienen aumento de pérdidas de líquidos (debido a vómitos, náuseas, diarrea o exposición excesiva al calor), ya que puede ser apropiado discontinuar temporariamente el uso de NEDAL  MET  XR en dichas circunstancias.
+lnfecciones del tracto urinario lnformar a los pacientes sobre el potencial de infecciones del tracto urinario. Proveerles información sobre los síntomas de infecciones del tracto urinario. Aconsejarles recurrir a atención médica si experimentan dichos síntomas.
+lnfecciones micóticas genitales en mujeres (ej. Vulvovaginitis).
+lnformar a las pacientes que pueden producirse infecciones vaginales por hongos y proveerles información sobre los signos y síntomas de las infecciones vaginales por hongos. Aconsejarlas sobre opciones de tratamiento y cuando recurrir a atención médica.
+lnfecciones micóticas genitales en hombres (ej. Balanitis)
+lnformar a los pacientes que pueden producirse infecciones micóticas por hongos en el pene (ej. balanitis o balanopostitis), especialmente en pacientes con antecedentes previos.
+Proveerles información sobre los signos y síntomas de balanitis y balanopostitis (erupción o enrojecimiento de las glándulas o prepucio del pene). Aconsejarles sobre opciones de tratamiento y cuando recurrir a atención médica.
+Reacciones de hipersensibilidad lnformar a los pacientes que se han reportado reacciones de hipersensibilidad serias (ej.
+urticaria y angioedema) con los componentes de NEDAL MET XR. Aconsejar a los pacientes en cuanto a reportar de inmediato todo signo o síntoma que pudiera sugerir una reacción alérgica o angioedema, y discontinuar el fármaco hasta haber consultado al médico tratante.
+Cáncer de vejiga lnformar a los pacientes en cuanto a reportar de inmediato todo signo de hematuria macroscópica u otro síntoma que pudiera estar potencialmente relacionado con el cáncer de vejiga.
+Prueba de laboratorio
+Debido al mecanismo de acción de la dapagliflozina, los pacientes que toman NEDAL MET XR darán positivo en las pruebas de glucosa en orina.
+
+Esta especialidad medicinal está libre de gluten.
+
+PRESENTACIÓN
+NEDAL MET XR 5-1000: Envases con 60 comprimidos recubiertos de liberación prolongada.
+NEDAL MET XR 10-1000: Envases con 30 comprimidos recubiertos de liberación prolongada.
+
+Fecha de última revisión: diciembre de 2022.
+
+FORMA DE CONSERVACIÓN
+-Conservar en lugar seco, desde 15 °C hasta 25 °C.
+-Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+Especialidad Medicinal Autorizada por el Ministerio de Salud de la Nación.
+Certificado N° 59.807
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires, Argentina - Argentina.
+
+E-5351-01 / D5686 / Act.: 01/2023
+
+m m
+0
+0
+6
+
+m m
+0
+0
+6
+
+Electrofisiología cardíaca
+La dapagliflozina no se asoció con una prolongación clínicamente relevante del intervalo QTc a dosis diarias de hasta 150 mg (15 veces la dosis recomendada) en un estudio de sujetos sanos. Además, no se observó un efecto clínicamente significativo en el intervalo
+QTc después de dosis únicas de hasta 500 mg (50 veces la dosis recomendada) de dapagliflozina en sujetos sanos.
+
+FARMACOCINÉTICA
+Los comprimidos de combinación dapagliflozina-metformina acción prolongada se consideran  bioequivalentes  a  la  coadministración  de  dosis  correspondientes  de dapagliflozina y clorhidrato de metformina de liberación prolongada administrados concomitantemente como comprimidos individuales.
+La administración de dapagliflozina-metformina acción prolongada en sujetos sanos después de una comida estándar en comparación con el estado de ayuno dio como resultado el mismo grado de exposición tanto para dapagliflozina como para metformina de liberación prolongada. En comparación con el estado de ayuno, la comida estándar dio como resultado una reducción del 35% y un retraso de 1 a 2 horas en las concentraciones plasmáticas máximas de dapagliflozina. Este efecto sobre el alimento no se considera como clínicamente significativo. El alimento no presenta un efecto relevante sobre la farmacocinética de la metformina cuando se administra como comprimidos de combinación dapagliflozina-metformina acción prolongada.
+Absorción
+Dapagliflozina
+Después de la administración oral de dapagliflozina, la concentración plasmática máxima (Cmax) se alcanza generalmente dentro de las 2 horas en estado de ayuno. Los valores de Cmax y AUC aumentan proporcionalmente con el aumento de dosis de dapagliflozina en el rango de dosis terapéutico. La biodisponibilidad oral absoluta de dapagliflozina tras la administración de una dosis de 10 mg es del 78%. La administración de dapagliflozina con una comida rica en grasas reduce su Cmax en un 50% y prolonga la Tmax en aproximadamente 1 hora, pero no altera el AUC, en comparación con el estado de ayuno. Estos cambios  no  se  consideran  clínicamente  significativos  y  la  dapagliflozina  puede administrarse con o sin alimentos.
+Clorhidrato de metformina
+Tras una dosis oral única de metformina de liberación prolongada, el tiempo medio para alcanzar la Cmax es de 7 horas, pudiendo variar entre 4 y 8 horas. El grado de absorción de la  metformina  (medido  por  el  AUC)  aumentó  aproximadamente  un  50%  tras  la administración del comprimido de metformina de liberación prolongada junto con los alimentos. No se observó ningún efecto de los alimentos sobre la Cmax y Tmax de metformina.
+Distribución
+La dapagliflozina se une a las proteínas plasmáticas aproximadamente en un 91%. La unión a las proteínas no se ve alterada en los pacientes con insuficiencia renal o hepática.
+Clorhidrato de metformina
+No se han realizado estudios de distribución con la metformina de liberación prolongada;
+sin embargo, el volumen de distribución aparente (V/F) tras dosis orales únicas de 850 mg de metformina de liberación inmediata fue en promedio de 654 ± 358 L. La metformina se une a las proteínas plasmáticas en un grado insignificante, a diferencia de las sulfonilureas, cuya unión a las proteínas supera el 90%. La metformina se distribuye en los eritrocitos.
+Metabolismo
+Dapagliflozina
+El metabolismo de dapagliflozina está mediado principalmente por UGT1A9; el metabolismo mediado  por  CYP  es  una  vía  metabólica  de  depuración  menor  en  seres  humanos.
+Dapagliflozina se metaboliza en forma extensa, principalmente para formar dapagliflozina 3-O-glucurónido, un metabolito inactivo. Dapagliflozina 3-O-glucurónido constituye el 61% de una dosis de 50 mg de [14C]-dapagliflozina, siendo el componente predominante relacionado con el fármaco en el plasma humano.
+Clorhidrato de metformina
+Los estudios sobre la administración de dosis intravenosas únicas en sujetos sanos demuestran que la metformina se excreta en forma inalterada en la orina y no es objeto de metabolismo en el hígado (no se identificaron metabolitos en seres humanos) o de excreción biliar.
+No se han realizado estudios de metabolismo con comprimidos de metformina de liberación prolongada.
+Eliminación
+Dapagliflozina
+Dapagliflozina y los metabolitos relacionados se eliminan principalmente mediante excreción urinaria. Después de la administración de una dosis única de 50 mg de [14C]- dapagliflozina, el 75% y el 21% de la radioactividad total se excretaron respectivamente en orina y heces. En la orina, menos del 2% de la dosis se excreta como fármaco original. En las heces, aproximadamente el 15% de la dosis se excreta como fármaco original. La vida media terminal (t1/2) plasmática para dapagliflozina es de aproximadamente 12,9 horas después de una dosis oral única de 10 mg de dapagliflozina.
+Clorhidrato de metformina
+El clearance renal es aproximadamente 3,5 veces mayor que el clearance de creatinina, lo que indica que la secreción tubular es la principal vía de eliminación de la metformina. Tras la administración oral, aproximadamente el 90% del fármaco absorbido se elimina por vía renal en las primeras 24 horas, con una vida media de eliminación del plasma de alrededor de 6,2 horas. En la sangre, la vida media de eliminación es de aproximadamente 17,6 horas, lo que indica que la masa de eritrocitos puede ser un compartimento de distribución.
+Poblaciones específicas
+Insuficiencia renal
+Dapagliflozina
+En estado estacionario (20 mg una vez al día de dapagliflozina durante 7 días), los pacientes con diabetes tipo 2 con insuficiencia renal leve o con insuficiencia renal moderada o grave
+(según lo determinado por TFGe) tuvieron exposiciones sistémicas medias a dapagliflozina del 45%, 2,04 veces y 3,03 veces mayor, respectivamente, comparado con los pacientes con diabetes tipo 2 con función renal normal. La mayor exposición sistémica a dapagliflozina en pacientes con diabetes mellitus tipo 2 con insuficiencia renal, no resultó en una excreción de glucosa de 24 horas proporcionalmente mayor. La excreción urinaria de 24 horas en estado estacionario en pacientes con diabetes tipo 2 e insuficiencia renal leve, moderada y grave fue del 42%, 80% y 90% más baja, respectivamente, que en pacientes con diabetes tipo 2 con función renal normal. Se desconoce el efecto de la hemodiálisis sobre la exposición a la dapagliflozina.
+
+2
+
+diaria máxima recomendada de 10 mg de dapagliflozina y 2000 mg de clorhidrato de metformina (HCl) de liberación prolongada.
+
+Pacientes con insuficiencia renal
+• No es necesario ajustar la dosis de NEDAL MET XR en pacientes con una tasa de filtración glomerular estimada (TFGe) mayor o igual a 45 mL/min/1,73 m2.
+• No se recomienda el inicio de NEDAL MET XR en pacientes con una TFGe entre 30 y 45 mL/min/1,73 m2. Evalúe el beneficio y el riesgo de continuar la terapia si la TFGe cae persistentemente por debajo de este nivel.
+• Es probable que la dapagliflozina sea ineficaz para mejorar el control glucémico en pacientes con TFGe inferior a 45 mL/min/1,73 m2.
+• No se recomienda el inicio de metformina para pacientes con TFGe inferior a 45 mL/min/1,73 m2.
+• NEDAL MET XR está contraindicado en pacientes con una TFGe inferior a 30 mL/min/1,73 m2, enfermedad renal en etapa terminal o en diálisis debido al componente de metformina.
+
+Interrupción de los procedimientos de obtención de imágenes con contraste yodado.
+Suspenda NEDAL MET XR en el momento o antes de un procedimiento de imágenes con contraste yodado en pacientes con antecedentes de enfermedad hepática, alcoholismo o insuficiencia cardíaca; o en pacientes a los que se les administrará contraste yodado intraarterial. Vuelva a evaluar la TFGe 48 horas después del procedimiento de imagen;
+reinicie NEDAL MET XR si la función renal es estable.
+
+CONTRAINDICACIONES
+NEDAL MET XR está contraindicado en pacientes con:
+
+• Insuficiencia renal moderada a severa (TFGe inferior a 60 ml/min/1,73 m2), enfermedad renal en etapa terminal o pacientes en diálisis.
+• Antecedentes de reacciones de hipersensibilidad grave a la dapagliflozina o hipersensibilidad al clorhidrato de metformina.
+• Acidosis metabólica aguda o crónica, incluyendo cetoacidosis diabética, con o sin coma. La cetoacidosis diabética debe tratarse con insulina.
+
+ADVERTENCIAS Y PRECAUCIONES
+Acidosis láctica
+Han ocurrido casos post-comercialización de acidosis láctica asociada con metformina, incluyendo casos fatales. Estos casos presentaron un comienzo sutil acompañado por síntomas inespecíficos como malestar general, mialgias, dolor abdominal, dificultad para respirar o somnolencia aumentada; también se observó hipotermia, hipotensión y bradiarritmias resistentes con acidosis grave.
+La acidosis láctica asociada con metformina se caracteriza por concentraciones elevadas de lactato en sangre (>5 mmol/litro), acidosis con brecha aniónica aumentada (sin evidencia de cetonuria o cetonemia) y un aumento de la relación lactato/piruvato; y niveles de metformina en plasma generalmente >5 mcg/ml. La metformina aumenta la absorción hepática del lactato incrementando los niveles de lactato en sangre que puede aumentar el riesgo de acidosis láctica, especialmente en pacientes en riesgo.
+Si se sospecha acidosis láctica asociada con metformina se deben instaurar de inmediato medidas generales de soporte en un ámbito hospitalario junto con la discontinuación inmediata de NEDAL MET XR.
+En pacientes tratados con NEDAL MET XR con un diagnóstico o fuerte sospecha de acidosis láctica, se recomienda hemodiálisis de inmediato para corregir la acidosis y eliminar la metformina acumulada (el clorhidrato de metformina es dializable, con un clearance de hasta 170 ml/minuto bajo buenas condiciones hemodinámicas). La hemodiálisis ha resultado a menudo en una desaparición de los síntomas y en recuperación.
+Hay que instruir a los pacientes y a sus familias sobre los síntomas de la acidosis láctica, y si estos síntomas se producen, instruirlos en cuanto a discontinuar NEDAL MET XR y reportar dichos síntomas a sus médicos.
+Para cada uno de los conocidos y posibles factores de riesgo para acidosis láctica asociada con metformina, las recomendaciones para reducir el riesgo y el tratamiento de la acidosis láctica asociada con metformina se detallan a continuación.
+Insuficiencia renal: los casos post-comercialización de acidosis láctica asociada con metformina se presentan principalmente en pacientes con insuficiencia renal significativa. El riesgo de acumulación de metformina y acidosis láctica asociada con metformina aumenta con la gravedad de la insuficiencia renal debido a que la metformina se excreta sustancialmente por los riñones. Las recomendaciones clínicas en base a la función renal del paciente incluyen:
+• Antes de iniciar NEDAL MET XR, obtener la tasa de filtración glomerular estimada (TFGe).
+• NEDAL MET XR está contraindicado en pacientes con TFGe inferior a 60 ml/minuto/1.73 m2.
+• Obtener una TFGe por lo menos una vez por año en todos los pacientes tratados con NEDAL MET XR. En pacientes con mayor riesgo de desarrollar insuficiencia renal (ej.
+ancianos), la función renal debe evaluarse más frecuentemente.
+
+Depleción de volumen
+La dapagliflozina puede causar depleción del volumen intravascular que a veces podría manifestarse como hipotensión sintomática o cambios transitorios agudos en la creatinina.
+Hubo informes posteriores a la comercialización de lesión renal aguda, algunos que requirieron hospitalización y diálisis, en pacientes con diabetes mellitus tipo 2 que recibieron inhibidores de SGLT2, incluida la dapagliflozina. Los pacientes con función renal alterada
+(eGFR inferior a 60 mL/min/1,73 m2), los pacientes de edad avanzada o los pacientes que toman diuréticos de asa podrían presentar un mayor riesgo de depleción de volumen o hipotensión. Antes de iniciar NEDAL MET XR en pacientes con una o más de estas características, evalúe el estado del volumen y la función renal. Vigile los signos y síntomas de hipotensión y la función renal después de iniciar la terapia.
+
+Interacciones farmacológicas: El uso concomitante de NEDAL MET XR con fármacos específicos puede incrementar el riesgo de acidosis láctica asociada con metformina;
+aquellos que deterioran la función renal, resultan en cambios hemodinámicos significativos, pueden interferir con el equilibrio acido-base o aumentar la acumulación de metformina (ej.
+fármacos catiónicos). Por lo tanto, considerar el control de los pacientes más frecuentemente en estos casos.
+65 años de edad o mayores: El riesgo de acidosis láctica asociada con metformina aumenta con la edad del paciente debido a que los pacientes de edad avanzada tienen una mayor probabilidad de presentar insuficiencia hepática, renal o cardíaca que los pacientes más jóvenes. Evaluar la función renal más frecuentemente en pacientes de edad avanzada.
+Estudios radiológicos con contraste: La administración intravascular de agentes de contraste yodados en pacientes tratados con metformina dio lugar a una disminución aguda en la función renal y la aparición de acidosis láctica. Interrumpir NEDAL MET XR al momento o antes de efectuar un procedimiento de imagen con agentes de contraste yodados en pacientes con antecedentes de insuficiencia hepática, alcoholismo, o insuficiencia cardíaca; o en pacientes a los que se les administrara contraste yodado intra-arterial. Reevaluar la eGFR 48 horas después de efectuar el procedimiento de imagen, y reanudar NEDAL MET XR si la función renal se mantiene estable.
+Cirugía y otros procedimientos: La retención de alimentos y líquidos durante procedimientos quirúrgicos u otros procedimientos puede aumentar el riesgo de depleción de volumen, hipotensión e insuficiencia renal. NEDAL MET XR debe discontinuarse temporariamente mientras los pacientes tienen una ingesta restringida de alimentos y líquidos.
+Estados hipóxicos: Varios de los casos post-comercialización de acidosis láctica asociada con metformina se observaron en el contexto de insuficiencia cardíaca congestiva (especialmente acompañados por hipoperfusión e hipoxemia). El colapso cardiovascular (shock), el infarto agudo de miocardio, sepsis y otras afecciones asociadas con hipoxemia han sido asociados con acidosis láctica y también pueden causar azoemia prerrenal. Cuando dichos eventos ocurren, discontinuar NEDAL MET XR.
+Consumo excesivo de alcohol: El alcohol potencia los efectos de la metformina en el metabolismo del lactato y esto puede aumentar el riesgo de acidosis láctica asociada con metformina. Se debe advertir a los pacientes en cuanto al consumo de alcohol mientras están bajo tratamiento de NEDAL MET XR.
+Insuficiencia hepática: Pacientes con insuficiencia hepática han desarrollado acidosis láctica asociada con metformina. Esto puede deberse al deterioro en el aclaramiento del lactato, resultando en niveles de lactato en sangre más elevados. Por lo tanto, evitar el uso de NEDAL MET XR en pacientes con evidencia clínica o de laboratorio de enfermedad hepática.
+Hipotensión
+Dapagliflozina produce contracción de volumen intravascular. Después de iniciar el tratamiento con dapagliflozina puede producirse hipotensión sintomática, especialmente en pacientes con deterioro de la función renal (eGFR <60 ml/min/1,73 m2), pacientes de edad avanzada, o pacientes bajo tratamiento con diuréticos del asa.
+
+4
+
+7
+
+8

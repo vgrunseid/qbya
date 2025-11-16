@@ -1,0 +1,666 @@
+ELAFAX® XR 75 - 150
+VENLAFAXINA 75 mg - 150 mg
+
+Comprimidos recubiertos de liberación controlada Venta bajo receta archivada (PSI IV). Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de liberación controlada de ELAFAX® XR
+75 contiene:
+Venlafaxina (como clorhidrato 84,85 mg)  ................................75,00 mg
+Excipientes:  Manitol,  Povidona,  Polietilenglicol  400,  Celulosa  microcristalina, Anhídrido silícico, Estearato de Magnesio, Ester de celulosa,
+Opadry (compuesto por: Hidroxipropilmetilcelulosa, Dióxido de titanio, Polisorbato y Polietilenglicol).................................................................c.s.
+
+Cada comprimido recubierto de liberación controlada de ELAFAX® XR
+150 contiene:
+Venlafaxina (como clorhidrato 169,72 mg) ............................ 150,00 mg
+Excipientes:  Manitol,  Povidona,  Polietilenglicol  400,  Celulosa  microcristalina, Anhídrido silícico, Estearato de Magnesio, Ester de celulosa,
+Opadry (compuesto por: Hidroxipropilmetilcelulosa, Dióxido de titanio, Polisorbato y Polietilenglicol).................................................................c.s.
+
+ACCIÓN TERAPÉUTICA
+
+Antidepresivo. Código ATC: N06AX16.
+
+INDICACIONES
+
+ELAFAX® XR está indicado en:
+
+Trastorno Depresivo Mayor (TDM)
+
+ELAFAX® XR está indicado para el tratamiento del Trastorno Depresivo Mayor (según DSM-IV). La eficacia de venlafaxina de liberación controlada fue establecida, en pacientes adultos, en estudios a corto y largo plazo.
+
+Trastorno de Ansiedad Generalizada (TAG)
+
+ELAFAX® XR está indicado para el tratamiento del Trastorno de Ansiedad Generalizada (según DSM-IV). La eficacia de venlafaxina de liberación controlada fue establecida en estudios a corto y largo plazo.
+
+Trastorno de ansiedad social (Fobia Social-TAS).
+
+ELAFAX® XR está indicado para el tratamiento del Trastorno de Ansiedad Social (según DSM-IV). La eficacia de venlafaxina de liberación controlada fue establecida en estudios a corto y largo plazo.
+
+Trastorno de Pánico con o sin agorafobia
+
+ELAFAX® XR está indicado para el tratamiento del Trastorno de Pánico, con o sin agorafobia (según DSM-IV). La eficacia de venlafaxina de liberación controlada ha sido establecida en estudios a corto plazo.
+
+ACCIÓN FARMACOLÓGICA
+
+El mecanismo de acción de venlafaxina se ha adjudicado a la potenciación de la actividad de neurotransmisores a nivel del sistema nervioso central. Tanto venlafaxina como su metabolito activo, O-desmetilvenlafaxina (ODV), son potentes inhibidores selectivos de la recaptación
+
+neuronal de serotonina y norepinefrina e inhibidor débil de la recaptación de dopamina. La potencia de venlafaxina sobre la inhibición de la recaptación de serotonina es algo menor que la desarrollada por los fármacos conocidos como ISRS o inhibidores selectivos de la recaptación de serotonina.
+Algunos resultados obtenidos en estudios de experimentación indicarían que venlafaxina induce una reducción en la sensibilidad de los receptores  β-adrenérgicos,  cuya  significación  clínica  se  desconoce.
+Venlafaxina y ODV no tienen,  in vitro, una afinidad significativa por los receptores muscarínicos, histaminérgicos o alfa-adrenérgicos, la cual podría estar asociada con los efectos anticolinérgicos, sedantes y  cardiovasculares  observados  con  otros  psicotrópicos.  Tanto  venlafaxina  como  ODV  no  desarrollan  actividad  inhibidora  de  la  monoaminooxidasa.
+
+FARMACOCINÉTICA
+
+Las concentraciones plasmáticas de venlafaxina y de O-desmetilvenlafaxina (ODV) en estado estable se alcanzan dentro de los tres días de administración de dosis múltiples por vía oral. Con niveles de dosificación entre los 75 mg y los 450 mg diarios, tanto la venlafaxina, como la ODV presentaron una cinética lineal. La depuración plasmática media ± DE de la venlafaxina y de la ODV en estado estable es de 1,3 ± 0,6 y 0,4 ±
+0,2 L/h/kg, respectivamente. La vida media de eliminación es de 5 ± 2 y 11 ± 2 hs, respectivamente, y el volumen de distribución manifiesto en estado estable es de 7,5 ± 3,7 y 5,7 ± 1,8 L/kg, respectivamente. En concentraciones terapéuticas, venlafaxina y ODV se unen mínimamente a las proteínas plasmáticas (27% y 30% respectivamente).
+
+Absorción y distribución
+
+La absorción de venlafaxina por vía oral es amplia (92%) luego de una dosis única y no se modifica por las comidas.. La biodisponibilidad absoluta de venlafaxina es del 45%. Después de la administración de una dosis única de venlafaxina en una formulación de liberación controlada, la concentración plasmática máxima de venlafaxina y de ODV se alcanza más tardíamente que con la formulación de liberación inmediata. El Tmáx se alcanza a las 5,5 hs para venlafaxina de liberación controlada y 9 hs para el ODV, a diferencia de venlafaxina de liberación inmediata que se alcanza a las 2 hs, y 3 hs para el ODV. Las fluctuaciones de la concentración plasmática de venlafaxina de liberación controlada fueron más estables que venlafaxina de liberación inmediata. No obstante, la exposición a venlafaxina y ODV es semejante con la administración de ambas formulaciones.
+
+Metabolismo y excreción
+
+Venlafaxina es metabolizada en el hígado principalmente a O-desmetilvenlafaxina por acción de la isoenzima CYP2D6. Utilizando sistemas de liberación controlada, la vida media de eliminación plasmática de venlafaxina está influida por la cinética de absorción. Los alimentos no afectan la biodisponibilidad de venlafaxina ni la de su metabolito. La principal vía de eliminación de venlafaxina y sus metabolitos es la excreción renal. El 87% de la dosis de venlafaxina es recuperada en la orina dentro de las 48 hs como venlafaxina (5%), ODV no conjugada (29%),
+ODV conjugada (26%) u otros metabolitos inactivos menores (27%).
+ La edad y el sexo no determinan ajustes en la dosis de venlafaxina. Las concentraciones plasmáticas de venlafaxina son mayores en los metabolizadores lentos que en los metabolizadores extensivos. Sin embargo,
+
+no existe necesidad de realizar diferentes esquemas de dosificación en estos grupos.
+
+Pacientes con deterioro hepático
+La enfermedad hepática altera la farmacocinética de venlafaxina y su metabolito activo, con aumento de la concentración plasmática de ambos. Los pacientes cirróticos necesitan ajustes de dosis.
+
+Pacientes con deterioro renal
+La enfermedad renal también prolonga la vida media de eliminación de venlafaxina y ODV y reduce su depuración. Los pacientes con índice de depuración de creatinina <30 ml/min, requieren ajustes en la dosis de venlafaxina. En pacientes sometidos a diálisis la vida media de eliminación de la ODV se prolonga alrededor del 142% y la depuración se reduce alrededor del 56% comparado con pacientes con función normal. En estos pacientes se requiere un ajuste de dosis.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Los  comprimidos  deben  tomarse  enteros,  sin  dividir,  triturar  o masticar. La cubierta externa que constituye la membrana semipermeable del comprimido de ELAFAX® XR no se disuelve en el tubo digestivo, aunque el contenido del principio activo, venlafaxina, es liberado  progresivamente  por  el  sistema  osmótico  de  liberación.
+Por ello, la cubierta externa puede aparecer en la materia fecal con un aspecto parecido al comprimido, sin que éste hecho signifique una alteración en la eficacia terapéutica del producto. ELAFAX® XR debería ser administrado en una dosis con alimentos, a la mañana o a la tarde aproximadamente a la misma hora todos los días.
+
+Trastorno depresivo mayor
+
+La dosis inicial habitual es de 75 mg/día. En algunos pacientes puede ser conveniente comenzar con una dosis de 37,5 mg/día durante 4 a 7 días, para observar la tolerabilidad antes de llegar a los 75 mg/día. Los pacientes que no respondan a la dosis de 75 mg/día pueden beneficiarse con incrementos de dosis hasta un máximo de 225 mg/día. Los incrementos en las dosis no deben sobrepasar los 75 mg/día y deben ser realizados en intervalos no menores a 4 días. Cuatro días es el tiempo necesario en la mayoría de los pacientes, para alcanzar el estado estacionario de venlafaxina y ODV en el plasma. Mientras que la dosis recomendada de venlafaxina de liberación inmediata para los pacientes ambulatorios con depresión moderada es de 225 mg/día, los pacientes con depresión severa internados han respondido a una dosis promedio de 350 mg/día (rango de 150 a 375 mg/día). Cabe notar que la experiencia con venlafaxina de liberación controlada a dosis mayores de 225 mg/día, es limitada.
+
+Trastorno de ansiedad generalizada
+
+En la mayoría de los pacientes, la dosis inicial es de 75 mg/día en una sola toma. En algunos casos puede ser conveniente comenzar con 37,5 mg/día, durante 4 a 7 días, para permitir que el paciente se habitúe al tratamiento antes de incrementar la dosis a 75 mg/día en una sola toma. En ausencia de respuesta, la dosis de 75 mg/día puede incrementarse hasta un máximo de 225 mg/día, efectuando los incrementos a razón de 75 mg/día, por vez, en intervalos no menores a 4 días.
+
+Trastorno de ansiedad social (fobia social)
+
+La dosis recomendada es de 75 mg/día en una sola toma. No hay evidencia que dosis más altas confieran un beneficio adicional.
+
+Trastorno de Pánico con o sin agorafobia
+
+Se recomienda administrar una dosis inicial de 37,5 mg/día durante 7 días. La dosis habitual es de 75 mg/día. Los pacientes que no respondan a la dosis de 75 mg/día pueden beneficiarse con incrementos de dosis hasta un máximo de 225 mg/día. Los incrementos en las dosis no deben sobrepasar los 75 mg/día y deben ser realizados en intervalos no menores a 7 días.
+
+Cambio de ELAFAX® de liberación inmediata a ELAFAX® XR
+
+Los  pacientes  que  están  medicados  con  venlafaxina  de  liberación
+
+inmediata pueden cambiar a ELAFAX® XR. Para ello, administrar en 1 sola toma diaria de ELAFAX® XR, a la dosis equivalente más cercana que recibía anteriormente en dosis divididas.
+
+Pacientes con deterioro hepático
+
+Se  debe  reducir  la  dosis  diaria  total  de  ELAFAX®  XR  en  un  50%  en pacientes  con  síntomas  leves  (Child-Pugh  Clase  A)  o  moderados
+(Child-Pugh Clase B) de insuficiencia hepática. Reducir la dosis diaria total en un 50% o más en pacientes con insuficiencia hepática grave (clase C de Child-Pugh) o cirrosis hepática.
+
+Pacientes con deterioro renal
+
+Dada la disminución en el índice de depuración plasmática y el aumento en la vida media de eliminación de venlafaxina y ODV observados en pacientes con deterioro renal, es recomendable que la dosis diaria total se reduzca en un 25% a 50% en aquellos pacientes con alteraciones de la función renal de leve (CLcr=60-89 mL/min) a moderada (CLcr=30-59 mL/min). En los pacientes sometidos a hemodiálisis o con insuficiencia renal severa (CLcr<30 mL/min), es recomendable que la dosis diaria total se reduzca en un 50%.. Al evidenciarse mucha variación individual en el índice de depuración plasmática entre los pacientes con deterioro renal, puede ser deseable la individualización de la dosis para cada paciente.
+
+Pacientes ancianos
+
+En  los  ancianos,  no  se  recomiendan  ajustes  de  dosis.  Sin  embargo, como con cualquier antidepresivo, debe administrarse con precaución cuando se está individualizando la dosis. Se deben tomar cuidados especiales durante el aumento de la misma.
+
+Tratamiento de mantenimiento
+
+No hay evidencia disponible de estudios clínicos controlados, que indiquen durante cuánto tiempo un paciente con TDM, TAG, TAS o Trastorno de Pánico, debe ser tratado con venlafaxina de liberación controlada.
+Es conocido que después del episodio agudo de TDM, se requiere un tratamiento farmacológico a largo plazo. Se ha demostrado que los pacientes que respondieron al tratamiento con venlafaxina de liberación controlada, mantuvieron la respuesta durante 52 semanas a la misma dosis. En pacientes con TAG y TAS, venlafaxina de liberación controlada, ha mostrado ser efectiva a los 6 meses de tratamiento. Los pacientes con trastorno de pánico, que continuaron el tratamiento con venlafaxina de  liberación  controlada  luego  de  12  semanas,  experimentaron  un período más largo sin síntomas hasta la recaída, que aquellos tratados con placebo.
+La necesidad de continuar el tratamiento en los pacientes que mejoraron con venlafaxina de liberación controlada, debería ser periódicamente reevaluada.
+
+Discontinuación del tratamiento
+
+Han  sido  reportados  síntomas  asociados  a  la  discontinuación  de ELAFAX® XR, de otros ISRSs e IRSNs (Ver Precauciones). Al suspender el tratamiento con venlafaxina de liberación controlada, los pacientes deberán ser sometidos a un monitoreo de estos síntomas. Siempre que sea posible, se recomienda una reducción gradual de la dosis antes que una suspensión abrupta. Si se presentan síntomas intolerables al disminuir la dosis o al suspender el tratamiento, podrá considerarse la posibilidad de retomar la dosis anterior prescrita. Luego el médico podrá seguir disminuyendo la dosis, pero a un ritmo más gradual. En trabajos clínicos llevados a cabo con venlafaxina de liberación controlada, el tratamiento fue discontinuado en forma escalonada con disminuciones de 75 mg/día en intervalos de 1 semana.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad  conocida  al  fármaco  o  a  alguno  de  los  excipientes de la formulación. Administración concomitante con inhibidores de la monoaminooxidasa (IMAOs) debido al aumento del riesgo de síndrome  serotoninérgico.  También  está  contraindicado  tomar  venlafaxina dentro  del  período  de  14  días  desde  la  discontinuación  de  un  IMAO
+(Ver Advertencias).
+
+Está contraindicado tomar venlafaxina en pacientes que están siendo tratados con IMAOs tales como linezolid o azul de metileno intravenoso.
+
+ADVERTENCIAS
+
+Sobredosis
+
+Debe indicarse a los pacientes que no tomen alcohol, debido a los efectos que tiene sobre el SNC, a la posibilidad de empeoramiento clínico de enfermedades psiquiátricas y a la posibilidad de interacciones adversas con Venlafaxina, incluidos efectos depresores del SNC. Se han comunicado  casos  de  sobredosis  de  Venlafaxina,  en  su  mayoría,  en combinación con otros medicamentos y/o alcohol, incluidos casos con desenlace mortal.
+Las prescripciones de Venlafaxina deben hacerse por la menor cantidad  posible  del  medicamento,  de  manera  consecuente  con  un  buen tratamiento del paciente, con el fin de reducir el riesgo de sobredosis.
+
+Ideación suicida
+
+El uso de antidepresivos con indicación aprobada por ensayos clínicos controlados  en  adultos  con  Trastorno  Depresivo  Mayor  (TDM)  y  otras condiciones psiquiátricas deberá establecerse en un marco terapéutico adecuado a cada paciente en particular. Esto incluye:
+a. que la indicación sea hecha por especialistas que puedan monitorear rigurosamente la emergencia de cualquier signo de agravamiento o aumento de la ideación suicida, como así también cambios conductuales con síntomas del tipo de agitación;
+
+b. que se tengan en cuenta los resultados de los últimos ensayos clínicos controlados;
+
+c.  que  se  considere  que  el  beneficio  clínico  debe  justificar  el  riesgo
+
+potencial.
+
+Han sido reportados en pacientes adultos tratados con antidepresivos ISRS ó con otros antidepresivos con mecanismo de acción compartida tanto  para  el  TDM  como  para  otras  indicaciones  (psiquiátricas  y  no psiquiátricas) los siguientes síntomas: ansiedad, agitación, ataques de pánico, insomnio, irritabilidad, hostilidad (agresividad), impulsividad, acatisia, hipomanía y manía. Aunque la causalidad ante la aparición de estos síntomas y el empeoramiento de la depresión y/o la aparición de impulsos suicidas no ha sido establecida, existe la inquietud de que dichos síntomas puedan ser precursores de ideación suicida emergente.
+Los familiares y quienes cuidan a los pacientes deberían ser alertados acerca de la necesidad de seguimiento de los pacientes en relación tanto de los síntomas descriptos como de la aparición de ideación suicida y reportarlo inmediatamente a los profesionales tratantes.
+Dicho seguimiento debe incluir la observación diaria de los pacientes por sus familiares o quienes estén a cargo de sus cuidados.
+Se  desconoce  si  el  riesgo  de  pensamientos  y  conductas  suicidas  en niños,  adolescentes  yadultos  jóvenes  se  extiende  al  uso  a  largo  plazo, es decir, más de cuatro meses. Sin embargo, existe una sustancial evidencia  de  ensayos  de  mantenimiento  controlados  con  placebo  en adultos con TDM de que los antidepresivos retrasan la recurrencia de la depresión y que la depresión en sí misma es un factor de riesgo para pensamientos suicidas y comportamientos.
+Si  se  toma  la  decisión  de  discontinuar  el  tratamiento  la  medicación debe ser reducida lo más rápidamente posible, pero teniendo en cuenta el esquema indicado para cada principio activo dado que en algunos casos la discontinuación abrupta puede asociarse con ciertos síntomas de retirada.
+La seguridad y eficacia no han sido establecidas en pacientes menores de 18 años.
+Análisis combinados de fármacos antidepresivos (ISRSs y otros) a corto plazo, controlados con placebo, mostraron que estos fármacos aumentan el riesgo de pensamiento y comportamiento suicida (suicidalidad)
+en niños, adolescentes y adultos jóvenes (18-24 años) con TDM y otros trastornos  psiquiátricos.  Los  estudios  a  corto  plazo  no  mostraron  un incremento del riesgo de suicidalidad con antidepresivos, comparado con placebo en adultos mayores de 24 años; ha habido una reducción con antidepresivos comparado con placebo en adultos ≥ 65 años.
+No  han  ocurrido  suicidios  en  ningún  estudio  clínico  pediátrico.  En estudios clínicos con adultos ha habido suicidios, pero el número no fue suficiente para alcanzar una conclusión sobre el efecto del fármaco en suicidio. Hubo considerable variación en el riesgo de pensamientos y  conductas  suicidas  entre  las  drogas,  pero  hubo  un  mayor  riesgo
+
+identificados  en  pacientes  jóvenes  para  la  mayoría  de  los  fármacos estudiados. Hubo diferencias en el riesgo absoluto de pensamientos y conductas suicidas en las diferentes indicaciones, con mayor incidencia en pacientes con trastorno depresivo mayor.
+
+Pacientes con trastorno bipolar
+
+Un trastorno depresivo mayor puede ser la manifestación inicial de un Trastorno Bipolar. Antes de comenzar el tratamiento con un antidepresivo,  se  deberá  examinar  atentamente  a  los  pacientes  con  síntomas depresivos  para  determinar  si  están  en  riesgo  de  padecer  Trastorno
+Bipolar; tal examinación debería incluir una historia psiquiátrica detallada, incluyendo antecedentes familiares de suicidio, trastorno bipolar y depresión.
+
+Síndrome serotoninérgico
+
+El desarrollo de un potencial síndrome serotoninérgico con riesgo de vida puede ocurrir con el tratamiento con venlafaxina, particularmente con  el  uso  concomitante  de  drogas  serotoninérgicas  (incluyendo  los ISRSs,  IRSNs,  triptanes,  antidepresivos  tricíclicos,  fentanilo,  tramadol,  litio,  meperidina,  metadona,  triptófano,  buspirona,  anfetaminas y Hierba de San Juan) y con drogas que dañan el metabolismo de la serotonina (en particular los IMAOs, tales como linezolid y azul de metileno intravenoso). El síndrome serotoninérgico también puede ocurrir cuando estos las drogas se usan solas. Los síntomas del síndrome serotoninérgico pueden incluir cambios en el estado mental (por ejemplo agitación,  alucinaciones,  delirium,  coma)  inestabilidad  autonómica
+(taquicardia,  presión  sanguínea  lábil,  hipertermia,  diaforesis,  rubor, mareos),  anormalidades  neuromusculares  (hipereflexia,  incoordinación, temblor, rigidez, mioclonias), convulsiones y síntomas gastrointestinales (náuseas, vómito, diarrea). (Ver Precauciones, Interacciones medicamentosas)
+Está  contraindicado  el  uso  concomitante  de  venlafaxina  con  IMAOs para el tratamiento de trastornos psiquiátricos. No se debe comenzar tratamiento con venlafaxina en los pacientes que están siendo tratados con  IMAOs  como  linezolid  o  azul  de  metileno  intravenoso..  No  hubo reportes en la que la vía de administración era diferente o a dosis menores. Si fuera necesario comenzar un tratamiento con linezolid o azul de metileno intravenoso, venlafaxina debe ser discontinuada antes de iniciar el tratamiento (Ver Contraindicaciones).
+Se debe monitorear a todos los pacientes tomando ELAFAX® XR para prevenir la emergencia de un síndrome serotonergico.
+El uso concomitante de venlafaxina con agentes serotoninérgicos debe ser  discontinuado  inmediatamente  si  ocurre  alguno  de  los  eventos descriptos  arriba,  y  debería  iniciarse  un  tratamiento  sintomático  de soporte.  Si  la  utilización  concomitante  de  ELAFAX®  XR  con  otros  fármacos  serotoninérgicos  está  clínicamente  justificada,  informe  a  los pacientes sobre el mayor riesgo de síndrome serotoninérgico y controle los síntomas.
+
+Hipertensión arterial
+
+El  tratamiento  con  venlafaxina  puede  asociarse  con  un  aumento de  la  presión  arterial  en  algunos  pacientes.  Se  debe  realizar  un monitoreo  de  la  presión  arterial  antes  de  iniciar  el  tratamiento  y regularmente durante el mismo. Chequear en los pacientes si tienen hipertensión pre-existente antes de iniciar el tratamiento con venlafaxina de liberación controlada, y utilizar con precaución en estos pacientes o en los que tengan alteraciones cardiovasculares o cerebrovasculares. La elevación de la Presión arterial sostenida puede conducir a resultados adversos. Se han registrado casos de presión arterial elevada que requirieron atención inmediata mediante estaban en tratamiento con velnafaxina de liberación prolongada. Si apareciera un aumento sostenido de la presión arterial durante el tratamiento con venlafaxina, se debe considerar la posibilidad de reducir la dosis o interrumpir el tratamiento.
+Se han reportado que el 1,4% de los pacientes tratados con venlafaxina de  liberación  controlada,  tuvieron  un  incremento  ≥15  mm  Hg  de  la presión arterial diastólica en posición supina con una presión arterial ≥
+105 mm Hg, comparado al 0,9% de los pacientes tratados con placebo.
+También se observó que el 1% de los pacientes tratados con venlafaxina de  liberación  controlada,  tuvieron  un  incremento  ≥20  mm  Hg  de  la presión arterial sistólica en posición supina con una presión arterial ≥
+180 mm Hg, comparado al 0,3% de los pacientes tratados con placebo.
+
+El tratamiento con venlafaxina de liberación controlada estuvo asociada con hipertensión sostenida.
+
+Glaucoma de ángulo cerrado
+
+La midriasis que puede ocurrir en pacientes medicados con drogas antidepresivas, incluyendo venlafaxina de liberación controlada, puede desencadenar un ataque de ángulo cerrado en un paciente con ángulos estrechos  anatómicamente  que  no  tenga  una  iridectomía  evidente.
+Evite el uso de antidepresivos, incluido ELAFAX® XR, en pacientes con ángulos anatómicamente estrechos no tratados.
+
+PRECAUCIONES
+
+Discontinuación  del  tratamiento  con  venlafaxina  de  liberación controlada
+
+Se ha reportado la aparición de algunos síntomas con la discontinuación  abrupta  o  la  reducción  de  la  dosis  de  venlafaxina.  Los  síntomas reportados incluyen agitación, anorexia, ansiedad, confusión, fallas en la coordinación y balance, diarrea, mareos, sequedad de boca, humor disfórico, fasciculaciones, fatiga, síntomas similares a la gripe, cefalea, hipomanía,  insomnio,  náuseas,  nerviosismo,  pesadillas,  disturbios sensoriales  (incluyendo  sensaciones  tipo  shock  eléctrico),  somnolencia,  sudoración,  temblor,  vértigo  y  vómitos.  Suicidio  consumado, pensamientos  suicidas,  agresión  y  comportamiento  violento  se  han observado  en  pacientes  durante  la  reducción  de  la  dosis  de  venlafaxina  liberación  extendida,  incluso  durante  la  discontinuación.  Otros informes posteriores a la comercialización describen cambios visuales
+(como visión borrosa o problemas para concentrarse) y aumento de la presión arterial después de suspender o reducir la dosis de venlafaxina de liberación prolongada
+Durante la comercialización de venlafaxina de liberación prolongada, otros IRSN e ISRS, ha habido informes de efectos adversos. que ocurren al suspender estos medicamentos, particularmente cuando son abruptos, incluido los siguientes: irritabilidad, letargo, labilidad emocional, tinnitus y convulsiones.
+Cuando se suspende el tratamiento, los pacientes deberían ser monitoreados por si aparece alguno de los síntomas descriptos. Cuando sea posible, se recomienda una reducción gradual de la dosis. Si aparecen síntomas intolerables después de la discontinuación o disminución de la dosis, considerar restablecer la dosis prescripta previamente.
+
+Cambios en el peso en pacientes pediátricos
+
+La seguridad y eficacia de venlafaxina de liberación controlada en combinación con agentes reductores de peso, no ha sido establecida, por lo tanto no se recomienda la co-administración. ELAFAX® XR no está indicado para pérdida de peso solo o en combinación con otros productos.
+En pacientes pediátricos que participaron en estudios en TDM y TAG, la incidencia de pacientes que experimentaron un descenso de peso de 3,5% o más fue de 18 y 3,6% en los tratados con venlafaxina de liberación controlada y placebo, respectivamente. La incidencia de pacientes que experimentaron un descenso de peso de 3,5% o más, en estudios en TAS en población pediátrica fue de 47% y 14% en los tratados con venlafaxina de liberación controlada y placebo respectivamente.
+El cambio promedio del peso corporal desde el comienzo del tratamiento en los estudios en pacientes pediátricos con TDM y TAG, con venlafaxina  de  liberación  controlada  vs.  placebo  fue  de  -0,45  y  +0,77  kg respectivamente. En los estudios en TAS el cambio promedio del peso corporal fue de -0,75 y +0,76 kg en los pacientes tratados con venlafaxina de liberación controlada vs. placebo respectivamente.
+Se evaluaron los riesgos asociados con el uso a largo plazo (6 meses)
+de  venlafaxina  de  liberación  controlada  en  niños  y  adolescentes  con diagnóstico de TDM. Ellos tuvieron incrementos en el peso menor que el esperado, basado en datos de compañeros del mismo sexo y edad. La diferencia entre la ganancia de peso observada y esperada fue mayor en niños (<12 años) que en adolescentes (>12 años).
+
+Cambios en el apetito de pacientes pediátricos
+
+ La disminución del apetito (reportada como anorexia) se observó con mayor frecuencia en los pacientes tratados con venlafaxina de liberación prolongada versus pacientes tratados con placebo en estudios previos
+
+a la comercialización de venlafaxina de liberación prolongada para el TDM, TAG y trastorno de ansiedad social. En pacientes pediátricos que participaron en estudios en TDM y TAG, se observó disminución del apetito en el 10% de los pacientes tratados con venlafaxina de liberación controlada comparado al 3% de los pacientes que recibieron placebo.
+En los estudios en Fobia Social, se observó disminución del apetito en el 22% y 3% de los pacientes que recibieron venlafaxina de liberación controlada o placebo respectivamente.
+La tasa de discontinuación por pérdida de peso fue del 0,7% tanto para los pacientes que recibieron venlafaxina de liberación controlada como los que recibieron placebo.
+
+Cambios en la altura en pacientes pediátricos
+
+El aumento promedio en altura, en estudios pediátricos en TDM fue de 0,8 cm en pacientes tratados con venlafaxina de liberación controlada comparado a 0,7 cm en pacientes que recibieron placebo; en estudios en TAG fue de 0,3 cm y 1 cm en pacientes tratados con venlafaxina de liberación controlada y placebo respectivamente; y en estudios en TAS, 1 cm tanto en pacientes tratados con venlafaxina de liberación controlada o con placebo. Las diferencias en incremento de altura en los estudios en TDM y TAG fue más notable en pacientes <12 años. A los 6 meses del estudio, los niños y adolescentes tuvieron un incremento de la altura menor del esperado, basado en datos de compañeros el mismo sexo y edad. La diferencia entre la tasa de crecimiento observada y esperada fue mayor para los niños (<12 años) que los adolescentes (>12 años).
+
+Activación de la manía/hipomanía
+
+En pacientes con trastorno bipolar, el tratamiento de un episodio depresivo con ELAFAX® XR u otro antidepresivo puede precipitar un episodio mixto/maníaco. En estudios previos a la comercialización en TDM,
+TAG, TAS y Trastorno de Pánico con o sin agorafobia, se informó manía/ hipomanía en el 0-0,3% de los pacientes tratados con venlafaxina de liberación controlada comparado con el 0-0,2% de los pacientes que recibieron placebo. También se ha reportado hipomanía o manía en una pequeña proporción de pacientes con trastornos del humor que fueron tratados con otros antidepresivos. Antes de iniciar el tratamiento con ELAFAX® XR se deberá indagar el historial personal o familiar de trastorno bipolar. manía o hipomanía.
+
+Hiponatremia
+
+Con el uso de ISRS e IRSN, incluyendo venlafaxina puede ocurrir hiponatremia y/o síndrome de secreción inadecuada de hormona antidiurética. Se han reportado casos con sodio sérico ≤ 110 mmol/L. Esto debe ser  tomado  en  consideración  en  pacientes  ancianos,  pacientes  con depleción de volumen o que toman diuréticos. Considerar la discontinuación de ELAFAX® XR en pacientes con hiponatremia sintomática y la derivación a un centro médico apropiado.
+Los signos y síntomas de hiponatremia incluyen dolor de cabeza, dificultad para concentrarse, deterioro de la memoria. confusión, debilidad e inestabilidad, que pueden provocar caídas.
+Los síntomas asociados con casos más graves y/o agudos incluyen alucinaciones, síncope, convulsiones, coma, paro respiratorio y muerte.
+
+Convulsiones
+
+Se han reportado casos de convulsiones en los pacientes tratados con venlafaxina. Como sucede con otros antidepresivos, ELAFAX® XR debe ser utilizado con precaución en pacientes con antecedentes de convulsiones. El tratamiento debe ser discontinuado en caso de presentarse un síndrome convulsivo.
+
+Sangrado anormal
+
+Los medicamentos que interfieren con la inhibición de la recaptación de serotonina, incluido ELAFAX® XR, pueden aumentar el riesgo de eventos  hemorrágicos,  que  van  desde  equimosis,  hematomas,  epistaxis, petequias y desde hemorragia gastrointestinal hasta hemorragia potencialmente mortal. El Uso concomitante de aspirina, Medicamentos antiinflamatorios no esteroides (AINE), warfarina, otros anticoagulantes y otros medicamentos que se sabe que afectan la función plaquetaria pueden aumentar este riesgo. Reportes de casos y epidemiológicos han demostrado una asociación entre el uso de drogas que interfieren
+
+con la recaptación de serotonina y la aparición de hemorragia gastrointestinal. Basados en los datos de los estudios observacionales publicados, la exposición a los IRSN, particularmente en el mes antes del parto, se  ha  asociado  con  un  aumento  de  menos  del  doble  en  el  riesgo  de sufrir complicaciones como la hemorragia postparto.
+Se  deberá  informar  a  los  pacientes  del  riesgo  incrementado  de  sangrado asociado al uso concomitante de ELAFAX® XR y medicamentos antiinflamatorios no esteroides (AINE), aspirina u otros medicamentos que afecten la coagulación. Para los pacientes que toman warfarina, se deberá controlar cuidadosamente los índices de coagulación cuando se inicie, titule o suspenda ELAFAX® XR.
+
+Elevación del colesterol sérico
+
+En estudios clínicos controlados con placebo, de al menos 3 meses de duración, fueron reportados incrementos clínicamente relevantes en el colesterol sérico en el 5,3% de los pacientes tratados con venlafaxina y 0% de los pacientes tratados con placebo. La medición de los niveles de colesterol sérico debería ser considerada en el tratamiento a largo plazo.
+
+Enfermedad pulmonar intersticial y neumonía eosinofílica
+
+Han  sido  raramente  reportadas  enfermedad  pulmonar  intersticial  y neumonía  eosinofílica  asociados  con  el  uso  de  venlafaxina.  La  posibilidad  de  estos  eventos  adversos  debe  ser  considerada  en  aquellos pacientes tratados con venlafaxina que presenten disnea progresiva, tos o molestias en el tórax. Dichos pacientes deberán someterse a una rápida evaluación y deberá considerarse la discontinuación del tratamiento con venlafaxina.
+
+Uso en pacientes con enfermedades concomitantes
+
+La experiencia clínica con venlafaxina de liberación controlada en pacientes  con  enfermedades  sistémicas  concomitantes  es  limitada.  Se aconseja precaución al administrar ELAFAX® XR en pacientes con enfermedades o trastornos hemodinámicos o metabólicos.
+Venlafaxina no ha sido evaluada ni utilizada suficientemente en pacientes con antecedentes recientes de infarto de miocardio o enfermedad coronaria  inestable.  Los  pacientes  con  estos  diagnósticos  fueron  sistemáticamente excluidos de varios estudios clínicos durante la investigación de la droga. Sin embargo, la evaluación electrocardiográfica de 769 pacientes que recibieron venlafaxina en ensayos a doble ciego, de 4 a 6 semanas de duración, no mostró anormalidades en la conducción del estímulo eléctrico. En los pacientes tratados con venlafaxina, la frecuencia cardíaca aumentó en alrededor de 4 latidos por minuto en relación a la basal.
+En pacientes con deterioro de la función renal (índice de depuración plasmática  de  creatinina  de  10  a  70  mL/min)  o  cirrosis  hepática,  la depuración de venlafaxina y su metabolito activo disminuyeron, prolongándose  las  vidas  medias  de  eliminación  de  ambas  sustancias, pudiendo ser necesario administrar una dosis menor. ELAFAX® XR, al igual que todos los antidepresivos, debe ser usado con precaución en estos pacientes.
+
+Disfunción sexual
+
+En  pacientes  masculinos,  el  uso  de  IRSN  puede  provocar  retraso  o insuficiencia  eyaculatoria,  disminución  libido  y  disfunción  eréctil.  En pacientes femeninas, el uso de IRSN puede provocar una disminución de la libido y Orgasmo retrasado o ausente. Es importante que los médicos pregunten sobre la función sexual antes del inicio de ELAFAX® XR y para preguntar específicamente sobre los cambios en la función sexual durante tratamiento, porque es posible que la función sexual no se informe espontáneamente. Al evaluar los cambios en la función sexual, es importante obtener una historia detallada (incluido el momento de aparición de los síntomas).porque los síntomas sexuales pueden tener otras causas, incluido el trastorno psiquiátrico subyacente.
+Los inhibidores selectivos de la recaptación de serotonina / inhibidores de la recaptación de serotonina-epinefrina pueden ocasionar síntomas de disfunción sexual. Existen reportes de disfunción sexual duradera cuando los síntomas han continuado luego de discontinuar estos medicamentos.
+
+Exámenes de laboratorio
+No se recomiendan pruebas de laboratorio específicas.
+
+Interacciones medicamentosas
+
+Inhibidores de la monoaminooxidasa (IMAO)
+El uso concomitante de ELAFAX® XR está contraindicado en pacientes tomando  IMAO,  incluidos  IMAO  como  linezolid  o  intravenosos  como azul de metileno.
+
+Alcohol
+Debe indicarse a los pacientes que no tomen alcohol, debido a los efectos que tiene sobre el SNC, a la posibilidad de empeoramiento clínico de enfermedades psiquiátricas y a la posibilidad de interacciones adversas con Venlafaxina, incluidos efectos depresores del SNC.
+
+Drogas que inhiben la isoenzima del citocromo P450:
+Sustratos de la CYP2D6:
+El uso concomitante de ELAFAX® XR aumenta la Cmax y el AUC de un Sustrato de CYP2D6, que puede aumentar el riesgo de toxicidad del Sustrato CYP2D6. Considerar la reducción de la dosis de sustratos concomitantes de CYP2D6.
+Inhibidores de la CYP3A4:
+La administración conjunta con venlafaxina puede incrementar los niveles de venlafaxina y ODV. Considere reducir la dosis de ELAFAX® XR.
+
+Drogas metabolizadas por las isoenzimas del citocromo P450:
+Dado que venlafaxina es un inhibidor relativamente débil del CYP2D6;
+por no afectar la actividad de los CYP1A2, CYP2C9, CYP2C19 y CYP3A4, no  deben  esperarse  interacciones  con  fármacos  metabolizados  por estas isoenzimas.
+
+Drogas activas sobre el SNC
+El riesgo de utilizar venlafaxina en combinación con otras drogas activas sobre el SNC no ha sido evaluado sistemáticamente, excepto con litio y diazepam. Consecuentemente, se recomienda precaución en caso de ser necesaria la administración concomitante de venlafaxina y dichas drogas.
+Litio: Los parámetros farmacocinéticos de uno y otro fármaco no son afectados por la administración conjunta de ambos.
+Haloperidol: La administración de venlafaxina concomitantemente con haloperidol, disminuyó aproximadamente en un 42% la depuración de este último, conjuntamente con aumento del 70% del área bajo la curva y del 88% en la concentración máxima de haloperidol.
+Diazepam: Venlafaxina no afecta la farmacocinética de diazepam ni la de su metabolito activo, desmetildiazepam ni los efectos psicomotores y psicométricos inducidos por diazepam.
+Clozapina: La asociación con venlafaxina determinó una elevación temporal de los niveles de clozapina y la aparición de reacciones adversas, incluyendo convulsiones.
+Risperidona:  La  administración  de  venlafaxina  resulta  en  un  incremento  del  área  bajo  la  curva  de  risperidona.  A  pesar  de  ello,  la coadministración  de estos fármacos no modifica significativamente el perfil total de la actividad de la risperidona y de su metabolito 9-hidroxi-risperidona.
+
+Drogas serotoninérgicas
+Basados en el mecanismo de acción de venlafaxina y el potencial para causar síndrome serotoninérgico, se debe tener precaución cuando sea co-administrado  con  otras  drogas  que  puedan  afectar  el  sistema  de neurotransmisores serotoninérgicos, tales como, triptanes, ISRSs, otros
+IRSNSs, antidepresivos tricíclicos, linezolid, litio, opioides,, buspirona, anfetaminaso hierbas de San Juan. Si el tratamiento concomitante de venlafaxina con estas drogas está clínicamente justificado, se requiere un  cuidadoso  seguimiento  del  paciente,  particularmente,  durante  el inicio  del  tratamiento  y  los  incrementos  de  dosis.  (Ver  Advertencias,
+Síndrome serotoninérgico). No está recomendado el uso concomitante de venlafaxina con suplementos con triptofano.
+
+Tratamiento electroconvulsivo
+No se han establecido los probables beneficios que se obtendrían con la combinación de una terapéutica electroconvulsiva y venlafaxina.
+Drogas que interfieren con la hemostasis (AINEs, aspirina y warfarina):
+El uso concomitante de ELAFAX® XR con un antiplaquetario o El fármaco anticoagulante puede potenciar el riesgo de hemorragia. Esto puede deberse  al  efecto  de  Venlafaxina  de  liberación  extendida  sobre  la liberación de serotonina por plaquetas. Se deberá Vigilar de cerca el sangrado en pacientes que reciben un antiplaquetario o medicamento anticoagulante cuando se inicia o suspende ELAFAX® XR.
+
+Agentes reductores de peso
+La seguridad y eficacia de venlafaxina combinada con agentes reductores  de  peso,  incluyendo  fentermina,  no  ha  sido  establecida.  No  se recomienda  el  uso  de  venlafaxina  con  agentes  reductores  de  peso.
+ELAFAX® XR no está indicado para el descenso de peso, solo o en combinación con otros productos.
+
+Interacciones con análisis de laboratorio Se han reportado falsos positivos en análisis de inmunoensayo para la detección  de  anfetaminas  o  feneciclidina  en  orina,  en  pacientes  que toman  venlafaxina.  Estos  análisis  pueden  continuar  dando  positivos después de varios días de haber suspendido la terapia con venlafaxina.
+Los análisis confirmatorios para distinguir venlafaxina de anfetaminas y feneciclidina son la espectrometría de masas o cromatografía gaseosa.
+
+Carcinogénesis
+Se administró venlafaxina por sonda oral a ratones durante 18 meses en dosis de hasta 120 mg/kg diarios, la cual fue 1,7 veces la dosis máxima recomendada para humanos sobre una base en mg/m2. Asimismo se administró venlafaxina a ratas por sonda oral durante 24 meses en dosis de hasta 120 mg/kg diarios. En las ratas que recibieron la dosis de  120  mg/kg,  las  concentraciones  plasmáticas  de  venlafaxina  en  la necropsia fueron 1 vez (ratas machos) y 6 veces (ratas hembras) las concentraciones plasmáticas de pacientes que recibieron la dosis máxima recomendada para humanos. Los niveles plasmáticos del metabolito
+O-desmetilado fueron menores en las ratas que en los pacientes que recibieron la dosis máxima recomendada para humanos. Los tumores no aumentaron por el tratamiento con venlafaxina en ratones o ratas.
+
+Mutagénesis
+Venlafaxina  y  su  principal  metabolito,  no  fueron  mutagénicos  en  la prueba de mutación reversa de Ames en bacterias Salmonella o en la prueba de mutaciones genéticas avanzadas de células de mamíferos en  ovarios  de  hámster  chinos/HGPRT.  Asimismo,  venlafaxina  no  fue mutagénica en el ensayo in vitro de transformación celular en ratones
+BALB/c-3T3, la prueba de intercambio de cromátidas hermanas en células de ovario cultivadas de hámsters chinos, o en la prueba  in vivo de aberraciones cromosómicas en la médula ósea en ratas. ODV no fue mutagénica en la prueba in vitro de aberraciones cromosómicas celulares  de  ovarios  de  hámsters  chinos,  pero  produjeron  una  respuesta clastogénica en la prueba in vivo de aberraciones cromosómicas en la médula ósea de ratas.
+
+Deterioro de la fertilidad
+
+Los  estudios  sobre  reproducción  y  fertilidad  en  ratas  no  mostraron efectos sobre la fertilidad de machos o hembras con dosis orales hasta
+2 veces la dosis máxima recomendada para humanos de 225 mg/d en base a mg/m2. Sin embargo, se observó reducción de la fertilidad en un estudio en el cual ratas hembras y machos fueron tratadas con ODV, el principal metabolito de la venlafaxina, previo a y durante el apareamiento y gestación. Esto ocurrió en una exposición a ODV (área bajo la curva) aproximadamente de 2 a 3 veces que la asociada con una dosis de venlafaxina en humanos de 225 mg/d.
+
+Embarazo
+
+Efectos teratogénicos
+Los datos disponibles de estudios epidemiológicos publicados sobre el uso de venlafaxina en mujeres embarazadas han no se ha identificado un  riesgo  asociado  al  fármaco  de  defectos  congénitos  importantes, abortos  espontáneos  o  resultados  fetales  adversos.  Los  datos  disponibles  de  estudios  observacionales  con  venlafaxina  han  identificado un potencial mayor riesgo de preeclampsia cuando se usa durante la mitad o el final del embarazo; la exposición a IRSN cerca del parto puede aumentar el riesgo de hemorragia posparto. Hay riesgos asociados con la depresión no tratada durante el embarazo y la mala adaptación neonatal en Recién nacidos expuestos a IRSN, incluida venlafaxina de liberación prolongada durante el embarazo.
+
+Efectos no teratogénicos
+Los neonatos expuestos a venlafaxina de liberación controlada, otros IRSNs (Inhibidores de la Recaptación de Norepinefrina y Serotonina), o ISRSs (Inhibidores Selectivos de la Recaptación de Serotonina) durante el tercer trimestre, han tenido complicaciones que requirieron hospitalizaciones prolongadas, apoyo respiratorio y alimentación por sonda.
+Estas  complicaciones  pueden  presentarse  inmediatamente  después del  parto.  Los  hallazgos  clínicos  informados  han  incluido  problemas respiratorios, cianosis, apnea, convulsiones, inestabilidad de la temperatura, dificultad en la alimentación, vómitos, hipoglucemia, hipotonía, hipertonía, hiperreflexia, temblores, nerviosismo, irritabilidad y llanto constante. Estas características son compatibles con un efecto tóxico directo de los IRSNs o de los ISRSs o posiblemente, un síndrome por suspensión del fármaco. Cabe notar que, en algunos casos, el cuadro clínico es compatible con el síndrome de serotoninérgico. Al tratar a una mujer embarazada con venlafaxina de liberación controlada durante el tercer trimestre, el médico deberá considerar detenidamente los riesgos y beneficios potenciales del tratamiento.
+
+Trabajo de parto y alumbramiento
+
+Datos observacionales indican un incremento del riesgo (menos que el doble) de hemorragia postparto luego de la exposición a ISRS / IRSN dentro del mes previo al nacimiento.
+
+Lactancia
+
+Se  ha  reportado  que  venlafaxina  y  ODV  se  excretan  en  la  leche  humana Y los datos no han mostrado reacciones adversas en lactantes amamantados.  No  existen  datos  sobre  los  efectos  de  la  venlafaxina en la producción de leche. Se deben considerar los beneficios de la lactancia materna para el desarrollo y la salud junto con la necesidad clínica de la madre así como de cualquier posible efecto adverso en el niño amamantado.
+
+Uso en pediatría
+
+Venlafaxina no se recomienda para uso en niños y adolescentes menores de 18 años.
+
+Uso en geriatría
+
+No se manifestaron diferencias en la efectividad o seguridad entre los pacientes con 65 o más años de edad y los más jóvenes. Sin embargo, no  puede  descartarse  una  mayor  sensibilidad  de  algunos  individuos mayores. Al igual que con otros antidepresivos ISRSs o IRSNs, se han informado diversos casos de hiponatremia en ancianos, quienes pueden  tener  un  mayor  riesgo  para  este  evento.  La  farmacocinética  de venlafaxina y de ODV no se encuentra sustancialmente alterada en los ancianos. No se recomiendan ajustes posológicos para los ancianos por la edad solamente, a pesar de que otras circunstancias clínicas, algunas de las cuales pueden ser más comunes en los ancianos - tales como disfunción renal o hepática - pueden justificar una reducción de la dosis.
+
+REACCIONES ADVERSAS
+
+A continuación, se describen las reacciones adversas observadas en los ensayos  clínicos  y  en  la  experiencia  post-comercialización  clasificada por Órganos y Sistemas y por frecuencia. La frecuencia se define de la siguiente manera: Frecuentes > del 10 %, ocasionales 1 al 10 %, raras
+< al 1%.
+Las  siguientes  reacciones  adversas  se  encuentran  en  más  detalle  en otras secciones de este prospecto: Hipersensibilidad, Pensamientos y comportamiento  suicida,  Síndrome  serotoninérgico,  Hipertensión  arterial, Sangrado anormal, Glaucoma de ángulo cerrado, Activación de la manía/hipomanía, Síndrome de discontinuación, Disfunción renal,
+Disfunción  hepática,  Convulsiones,  Hiponatremia,  Cambios  de  peso y  altura,  Cambios  en  el  apetito,  Enfermedad  pulmonar  intersticial  y Neumonía eosinofílica.
+Las reacciones adversas más comunes son náuseas (30%), somnolencia (15,3%), boca seca (14,8%), sudoración (11,4%), eyaculación anormal (9,9%), anorexia (9,8%), constipación (9,3%), impotencia (5,3%) y disminución de la libido (5,1%).
+
+Reacciones adversas reportadas como razones para discontinuar el tratamiento
+
+El 12% de los pacientes que recibieron venlafaxina de liberación controlada en estudios clínicos a corto plazo, en las cuatro indicaciones, discontinuó el tratamiento por eventos adversos comparado al 4% que estaba tratado  con  placebo.  Las  reacciones  adversas  más  comunes  fueron:
+astenia, cefalea, náuseas, mareos, insomnio, somnolencia y sudoración.
+En estudios controlados en pacientes con TDM, TAG; TAS y Trastorno de Pánico, los eventos adversos que ocurrieron en ≥ 2% de los pacientes tratados con venlafaxina de liberación controlada y que fueron más frecuentes que el placebo, son:
+Generales: Frecuente: astenia.
+Cardiovasculares:  Ocasionales:  vasodilatación,  hipertensión,  palpitaciones.
+Digestivos:.  Frecuentes:  Nauseas,  boca  seca.  Ocasionales:  Anorexia, constipación, diarrea, vómitos.
+Sistema  Nervioso:  Frecuentes:  vértigo,  insomnio,  somnolencia.  Ocasionales: nerviosismo, sueños anormales, temblor, parestesias, disminución de la libido.
+Respiratorios: Ocasional: bostezos.
+Dermatológicos: Frecuentes: sudoración (incluidos sudores nocturnos).
+Órganos de los sentidos: Ocasional: visión anormal.
+Sistema  Urogenital:  eyaculación  anormal  (Hombres)a,  impotencia (Hombres)a, anorgasmia (Hombres)a (Mujeres)b.
+a.  Porcentajes basados en el número de hombres (Venlafaxina de liberación extendida, n = 1440; placebo, n = 923).
+
+b. Porcentajes basados en el número de mujeres (Venlafaxina de liberación extendida, n = 2118; placebo, n = 1274).
+
+Otras reacciones adversas observadas fueron las siguientes
+
+General: reacción de fotosensibilidad, escalofríos.
+Cardiovascular: hipotensión postural, síncope, hipotensión, taquicardia.
+Digestivo: hemorragia gastrointestinal, bruxismo.
+Hemáticos: equimosis.
+Metabólicos/nutricionales:  hipercolesterolemia,  aumento  o  pérdida de peso.
+Sistema  Nervioso:  convulsiones,  agitación,  confusión,  acatisia,  alucinaciones, hipertonía, mioclonías, despersonalización, apatía, reacción maníaca.
+Dermatológicos: urticaria, prurito, rash, alopecía.
+Sentidos especiales: midriasis, anormalidad de la acomodación, tinitus, perversión del gusto.
+Urogenital: retención urinaria, incontinencia urinaria, aumento de la frecuencia urinaria, trastornos menstruales asociados con incremento del sangrado o aumento del sangrado irregular (ej. menorragia, metrorragia).
+SOC: trastornos del sistema reproductivo y de la mama
+Hemorragia postparto*
+*Este evento se ha notificado para la clase terapéutica de ISRS / IRSN
+
+Cambios en los signos vitales
+
+El tratamiento con venlafaxina de liberación controlada (promediando los grupos que recibieron diferentes dosis en los ensayos clínicos) fue asociado con un aumento promedio de la frecuencia del pulso de aproximadamente 2 latidos por minuto, comparado con 1 latido por minuto en el grupo placebo.
+El tratamiento con venlafaxina de liberación controlada fue asociado con aumento de la presión arterial, sistólica y diastólica, en posición supina  relacionado  a  la  dosis.  El  1,4%  de  los  pacientes  tratados  con venlafaxina de liberación controlada, tuvieron un incremento ≥15 mm
+Hg de la presión arterial diastólica con una presión arterial ≥ 105 mm Hg, comparado al 0,9% de los pacientes tratados con placebo. También se observó que el 1% de los pacientes tratados con venlafaxina de liberación controlada, tuvieron un incremento ≥20 mm Hg de la presión arterial sistólica con una presión arterial ≥ 180 mm Hg, comparado al 0,3% de los pacientes tratados con placebo.
+
+Cambios en el ECG
+
+Cambios en los exámenes de laboratorio
+
+El tratamiento con venlafaxina de liberación controlada fue asociado con un incremento en las concentraciones del colesterol sérico. Los pacientes tratados con venlafaxina sufrieron un incremento en los valores de colesterol total entre 1,5 y 7,9 mg/dL (8-24 semanas de tratamiento).
+Este  incremento  fue  dependiente  de  la  duración  del  tratamiento,  y tiende a ser mayor a dosis más altas. El tratamiento con venlafaxina de liberación controlada también estuvo asociado con incremento de triglicéridos séricos en ayunas en estudios en TAS y trastorno de pánico. El incremento fue entre 5,9 y 11,8 mg/dl (12-24 semanas de tratamiento).
+
+Informes posteriores a la comercialización
+
+Ha habido informes voluntarios de otros eventos adversos asociados con el uso de venlafaxina, y que podrían no tener una relación causal con el uso de la misma, estos incluyen:
+Generales: anafilaxia, angioedema.
+Cardiovascular: prolongación del QT, fibrilación ventricular, taquicardia ventricular (incluyendo torsada de punta).
+Digestivo: pancreatitis.
+Hemático: sangrado de la membrana mucosa, discrasias sanguíneas (agranulocitosis, anemia aplástica, neutropenia, y pancitopenia), prolongación del tiempo de sangrado, trombocitopenia.
+Metabólico/nutricional: hiponatremia, Síndrome inapropiado de hormona  antidiurética,  tests  de  función  hepática  anormal,  aumento  de prolactina.
+Musculoesquelético: rabdomiólisis.
+Sistema Nervioso: Síndrome Neuroléptico Maligno, Síndrome serotoninérgico, delirium, síntomas extrapiramidales (distonía, disquinesia), deterioro de la coordinación y el balance, disquinesia tardía.
+Respiratorio: eosinofilia pulmonar.
+Dermatológicos: Sindrome de Stevens Johnson, necrolisis epidérmica tóxica, eritema multiforme.
+Sentidos especiales: glaucoma de ángulo cerrado.
+
+Notificación de Sospecha de Reacciones Adversas
+
+Es importante notificar la sospecha de reacciones adversas al medicamento  tras  su  autorización.  Ello  permite  una  supervisión  continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos  y/o  al  Departamento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+ABUSO Y DEPENDENCIA
+
+ELAFAX® XR (clorhidrato de venlafaxina) no es una sustancia controlada.
+
+Abuso
+
+Mientras  que  en  estudios  clínicos  venlafaxina  no  ha  sido  estudiada sistemáticamente respecto de su potencial de abuso, en los estudios clínicos no se registró ninguna indicación de conducta de búsqueda del fármaco. Sin embargo, no es posible predecir sobre la base de la experiencia previa a la comercialización, el alcance con el cual un fármaco activo del SNC podría ser mal utilizado, desviado y/o abusado una vez comercializado el medicamento. En consecuencia, los médicos deberán evaluar cuidadosamente a los pacientes respecto de su historia de abuso de fármacos, y realizar un seguimiento minucioso de aquellos pacientes, observando en ellos los signos de mal uso o abuso de venlafaxina (por ej., desarrollo de tolerancia, aumento de la dosis, conducta de búsqueda del fármaco).
+
+En estudios a dosis flexible con venlafaxina en rangos de 200 a 375 mg/ día, y dosis promedio mayores de 300 mg/día, el cambio promedio de la frecuencia cardíaca fue de 8,5 latidos por minuto, comparado con 1,7 latidos por minuto para placebo.
+
+Dependencia física y psicológica
+
+Estudios in vitro revelaron que venlafaxina no tiene virtualmente ninguna  afinidad  con  los  opiáceos,  las  benzodiazepinas,  la  fenciclidina
+
+(PCP)  o  con  los  receptores  del  ácido  aspártico  N-metil-D  (NMDA).  Se estableció  que  venlafaxina  no  ejerce  ninguna  actividad  estimulante significativa del SNC en roedores. En estudios sobre discriminación de la droga en primates, venlafaxina no presentó una responsabilidad de abuso estimulante o depresivo importante.
+Los efectos producidos por la suspensión del fármaco han sido informados por los pacientes que recibieron venlafaxina.
+
+SOBREDOSIFICACIÓN
+
+Experiencia en humanos
+
+Se han reportado algunos casos de sobredosis en los estudios previos a la comercialización de venlafaxina de liberación controlada (en pacientes con TDM, TAG, TAS y Trastornos por Pánico). Estos casos reportados incluían  venlafaxina  de  liberación  controlada  sola  o  en  combinación con otros medicamentos del SNC (paroxetina, lorazepam y zolpidem)
+y/o  alcohol.  La  dosis  máxima  ingerida  de  venlafaxina  de  liberación controlada fue de 6 g. Todos los pacientes se recuperaron sin secuelas.
+La somnolencia fue el síntoma más comúnmente informado. Otros síntomas reportados fueron parestesias de los cuatro miembros, mareos moderados, náuseas, entumecimientos de manos y pies, y sensación frío-calor  5  días  posteriores  a  la  sobredosis.  Un  paciente  que  ingirió
+2,75 g de venlafaxina tuvo 2 convulsiones generalizadas y una prolongación de QTc de 500 mseg, en comparación con 405 mseg al inicio del tratamiento. En otros pacientes se reportó taquicardia sinusal leve.
+Posterior  a  la  comercialización  se  han  registrado  casos  de  sobredosis con  venlafaxina  fundamentalmente  en  combinación  con  alcohol  y/u otros fármacos, incluidos casos con desenlace mortal. Los síntomas reportados más comúnmente fueron taquicardia, cambios en el nivel de conciencia (desde somnolencia hasta coma), midriasis, convulsiones y vómitos. Se han registrado cambios en el electrocardiograma (por ej., prolongación del intervalo QT, bloqueo de las ramas del haz, prolongación de QRS), taquicardia ventricular, bradicardia, hipotensión, hipoglucemia, rabdomiólisis, vértigo, necrosis hepática, síndrome serotoninérgico y muerte. En adultos, pueden producirse síntomas de intoxicación grave tras la ingesta de aproximadamente 3 g de Venlafaxina.
+
+Control de la sobredosis
+
+La intoxicación grave puede requerir un tratamiento urgente complejo y monitorización. Por tanto, en caso de sospecha de sobredosis de Venlafaxina, se recomienda ponerse en contacto de inmediato con un servicio de toxicología.
+Al tratar la sobredosis, considere la posibilidad de un compromiso de múltiples drogas. No se conocen sustancias antagónicas específicas ni antídotos de venlafaxina.
+
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros Centros de Intoxicaciones”.
+
+PRESENTACIONES
+
+ELAFAX® XR 75 y 150: envases conteniendo 28 comprimidos recubiertos de liberación controlada.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+No exponer a temperaturas mayores a 30°C.
+
+“Este medicamento debe ser utilizado bajo prescripción y vigilancia médica y no puede repetirse sin nueva receta médica”
+
+Información para el paciente
+
+Composición
+
+Cada comprimido recubierto de liberación controlada de ELAFAX® XR
+75 contiene:
+Venlafaxina (como clorhidrato 84,85 mg)  ............................ 75,00 mg
+Excipientes:  Manitol,  Povidona,  Polietilenglicol  400,  Celulosa  microcristalina,  Anhídrido  silícico,  Estearato  de  Magnesio,  Ester  de celulosa, Opadry (compuesto por: Hidroxipropilmetilcelulosa, Dióxido de titanio, Polisorbato y Polietilenglicol)............................................c.s.
+
+Cada comprimido recubierto de liberación controlada de ELAFAX® XR
+150 contiene:
+Venlafaxina (como clorhidrato 169,72 mg) .........................150,00 mg
+Excipientes:  Manitol,  Povidona,  Polietilenglicol  400,  Celulosa  microcristalina,  Anhídrido  silícico,  Estearato  de  Magnesio,  Ester  de celulosa, Opadry (compuesto por: Hidroxipropilmetilcelulosa, Dióxido de titanio, Polisorbato y Polietilenglicol)............................................c.s.
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona. Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento. Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+¿Qué es ELAFAX® XR y para que se utiliza?
+
+ELAFAX®  XR  contiene  venlafaxina  de  liberación  controlada,  y  está indicado para tratar adultos con:
+•  Trastorno Depresivo Mayor.
+•  Trastorno de Ansiedad Generalizada.
+•  Trastorno de Ansiedad Social.
+•  Trastorno de Pánico con o sin agorafobia.
+
+¿Qué es lo que debo saber antes de tomar de ELAFAX® XR y durante el tratamiento?
+
+¿Quiénes no deben tomar/usar ELAFAX® XR?
+
+Si es alérgico al clorhidrato de venlafaxina, al succinato de desvenlafaxina o a cualquiera de los ingredientes de ELAFAX® XR.
+
+•  Si esta tomando un inhibidor de la monoaminooxidasa (IMAO).
+•  Si ha dejado de tomar un IMAO en los últimos 14 días.
+•  Si está siendo tratado con el antibiótico linezolid o azul de metileno
+
+intravenoso.
+
+Pregúntele  a  su  médico  si  no  está  seguro  de  si  está  tomando  un IMAO, incluidos IMAO como linezolid o azul de metileno intravenoso.
+
+ni disuelva ELAFAX® XR.
+
+•  No consuma alcohol mientras esta tomando ELAFAX® XR
+•  La cubierta externa del comprimido de ELAFAX® XR no se disuelve en el tubo digestivo, aunque el contenido del principio activo, venlafaxina, es liberado progresivamente. Por ello, la cubierta externa puede aparecer en la materia fecal con un aspecto parecido al comprimido, esto no indica una alteración en la eficacia del producto.
+
+ ¿Qué debo informar a mi médico antes de tomar/usar ELAFAX® XR?
+
+ ¿Qué debo hacer en caso de sobredosis?
+
+•  Si tiene antecedentes familiares de suicidio, trastorno bipolar, depresión, manía o hipomanía.
+•  Si tiene presión arterial alta.
+•  Si tiene problemas cardíacos.
+•  Si  tiene  problemas  cerebrovasculares  o  ha  sufrido  un  derrame
+
+cerebral.
+
+•  Si tiene o ha tenido problemas de sangrado.
+•  Si tiene presión alta en el ojo (glaucoma).
+•  Si tiene colesterol alto o triglicéridos altos.
+•  Si tiene problemas de riñón o hígado.
+•  Si tiene o ha tenido ataques o convulsiones.
+•  Si tiene niveles bajos de sodio en la sangre.
+•  Si tiene problemas pulmonares.
+•  Si usted consume alcohol.
+•  Si usted esta embarazada o planea estarlo.
+•  Si usted queda embarazada mientras esta en tratamiento.
+•  Si usted esta amamantando o piensa que va a hacerlo.
+
+¿Puedo tomar ELAFAX® XR con otros medicamentos?
+
+•  Informe a su médico si usted está tomando algún medicamento, todos los que toma, incluidos los recetados y los de venta libre. Incluidos medicamentos, vitaminas y suplementos a base de hierbas.
+
+Informe especialmente a su médico si toma.
+•  Medicamentos para tratar las migrañas conocidos como triptanos.
+•  Antidepresivos tricíclicos.
+•  Llitio.
+•  Tramadol, fentanilo, meperidina, metadona u otros opioides.
+•  Triptófano.
+•  Buspirona.
+•  Anfetaminas.
+•  Hierba de San Juan.
+•  Fentermina.
+•  Otros medicamentos que contienen desvenlafaxina o venlafaxina
+•  Medicamentos  que  pueden  afectar  la  coagulación  de  la  sangre, como  aspirina,  medicamentos  antiinflamatorios  no  esteroides
+(AINE), Warfarina.
+
+No comience ni suspenda ningún otro medicamento durante el tratamiento con ELAFAX® XR sin antes hablar con su medico.
+
+ELAFAX® XR y otros medicamentos pueden afectarse entre sí provocando serios efectos adversos. ELAFAX® XR puede afectar la forma en la  que  actúan  otros  medicamentos,  y  otros  medicamentos  pueden afectar la forma en la que actúa ELAFAX® XR.
+
+¿Cómo debo tomar ELAFAX® XR?
+
+Tome/use ELAFAX® XR exactamente como se lo indicó el médico, a las horas del día que correspondan respetando la dosis y duración.
+No cambie su dosis ni suspenda la medicación sin consultar primero con su medico.
+•  Es posible que su médico necesite cambiar la dosis de ELAFAX® XR
+
+hasta que sea la dosis adecuada para usted.
+•  Tome ELAFAX® XR 1 vez al día con las comidas.
+•  ELAFAX® XR puede tomarse por la mañana o por la noche, pero
+
+En  la  experiencia  post  comercialización,  se  comunicaron  casos  de sobredosis de venlafaxina, en su mayoría en combinación con otros medicamentos  y/o  alcohol,  incluidos  casos  con  desenlace  mortal.
+Los acontecimientos notificados más frecuentemente por sobredosis incluyen taquicardia, cambios en el nivel de consciencia (que oscila desde somnolencia hasta coma), midriasis, convulsiones y vómitos.
+Otros  acontecimientos  incluyen  alteraciones  electrocardiográficas (por ejemplo, prolongación del intervalo QT, bloqueo de rama, prolongación de QRS, taquicardia ventricular, bradicardia, hipotensión, hipoglucemia, vértigo y muerte. En adultos, pueden producirse síntomas de intoxicación grave tras la ingesta de aproximadamente 3 g de venlafaxina.
+Si usted toma demasiado ELAFAX® XR llame a su médico o a un centro de intoxicaciones a la brevedad.
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+Optativamente otros Centros de Intoxicaciones.
+
+-¿Qué debo hacer si dejo de tomar una dosis?
+
+Si  olvidó  tomar  alguna  dosis,  tome  la  dosis  perdida  tan  pronto como Ud. lo recuerde. Si es casi el tiempo de su próxima dosis, deje la perdida, y tome la dosis habitual; no tome una dosis doble para compensarla.
+
+¿Cuáles son los efectos adversos que puede tener ELAFAX® XR?
+
+Al igual que todos los medicamentos,  ELAFAX® XR puede producir efectos indeseables o adversos, aunque no todas las personas los sufran.Los efectos adversos más comunes con ELAFAX® XR son:
+•  Náuseas.
+•  Boca seca.
+•  Problemas sexuales masculinos y femeninos.
+•  Pérdida de apetito (anorexia).
+•  Somnolencia.
+•  Transpiración.
+•  Constipación.
+
+ELAFAX® XR, como otros antidepresivos, puede provocar efectos adversos serios, que incluyen:
+•  Pensamientos o acciones suicidas. Llame a su médico o a un centro de  emergencias  si  aparece  o  empeora  alguno  de  los  siguientes síntomas: intento de suicidio; actuar impulsivamente de manera peligrosa, con violencia o agresividad; pensamiento suicida; depresión nueva o desmejoramiento de la ya existente; ataque de pánico o ansiedad nueva o desmejoramiento de la ya existente;
+sentimiento de agitación, nerviosismo, irritabilidad o enojo; problemas para dormir; incremento de la actividad, hablar más que lo habitual; otro cambio inusual de conducta; problemas visuales como dolor en los ojos, cambios en la visión, hinchazón o enrojecimiento alrededor del ojo.
+
+tómelo de la misma manera cada vez.
+
+•  Trague ELAFAX® XR entero con líquido. No divida, triture, mastique
+
+Consulte inmediatamente a su médico si aparece alguno de los siguientes síntomas:
+
+•  Cambios en la presión arterial, generalmente incremento.
+•  Dilatación de las pupilas.
+•  Ansiedad y problemas para dormir (insomnio).
+•  Episodios de manía o hipomanía (incremento de energía con problemas importantes para dormir)
+
+•  Disminución  de  los  niveles  de  sodio  en  sangre,  especialmente en  ancianos.  Los  síntomas  incluyen:  dolor  de  cabeza,  debilidad e inestabilidad, confusión, problemas en la concentración, en el pensamiento y la memoria.
+
+•  Convulsiones.
+•  Hemorragias anormales.
+•  Problemas raros pulmonares.
+•  Severas reacciones alérgicas.
+Estos no son todos los efectos adversos de ELAFAX® XR. Pregunte a su  médico  para  más  información.  Si  experimenta  alguno  de  estos efectos adversos, consulte a su médico, incluso si se trata de efectos adversos que no aparecen en este prospecto.
+
+Comunicación de efectos adversos
+
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto.
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la Página Web de la ANMAT:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos,  o  llamar  a
+ANMAT responde al 0800-333-1234”.
+También  puede  comunicarse  al  Departamento  de  Farmacovigilancia Gador S.A., a farmacovigilancia@gador.com o teléfono 0800-220-2273.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+
+Recordatorio
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”
+
+Precauciones  a  tomar  durante  el  tiempo  que  se  utiliza
+ELAFAX® XR
+
+•   ELAFAX® XR puede causar somnolencia o afectar la capacidad de tomar decisiones o reaccionar rápidamente. Por lo cual no debe manejar u operar maquinarias o realizar alguna actividad peligrosa hasta que conozca como ELAFAX® XR pueda afectarlo.
+•  No beber alcohol mientras esté medicado con ELAFAX® XR.
+
+Si necesita información adicional consulte a su médico.
+
+Modo de conservación
+
+No exponer a temperaturas mayores a 30°C.
+No utilice este medicamento después de la fecha de vencimiento que aparece en el envase.
+
+Presentaciones
+
+ELAFAX® XR 75 y 150: envases conteniendo 28 comprimidos recubiertos de liberación controlada.
+
+“Este medicamento debe ser utilizado bajo prescripción y vigilancia médica y no puede repetirse sin nueva receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+Envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+Elaborado en: Av. General Lemos 2809, Los Polvorines, Partido de Malvinas Argentinas,
+
+Pcia. de Buenos Aires, Argentina. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado
+
+en Ciencias Farmacéuticas. E.M.A.M.S. Certificado No 44.166.
+
+Fecha última revisión: 07/2024
+
+G00076803-05

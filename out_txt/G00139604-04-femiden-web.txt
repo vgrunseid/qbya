@@ -1,0 +1,802 @@
+FEMIDEN®
+ACETATO DE NOMEGESTROL 2,5 mg
+ESTRADIOL (como Hemihidrato) 1,5 mg
+Comprimidos recubiertos
+Venta bajo receta. Industria Argentina.
+
+COMPOSICIÓN
+
+PROPIEDADES FARMACOLÓGICAS
+
+Cada comprimido recubierto rosa (activo) de FEMIDEN® contiene:
+Estradiol (como hemihidrato) ........................................................1,50 mg Acetato de nomegestrol .................................................................2,50 mg
+
+Excipientes:
+Lactosa monohidrato..................................................................57,698 mg Celulosa microcristalina PH 102 .................................................15,20 mg
+Sílica coloidal anhidra .................................................................... 0,24 mg Estearato de magnesio ................................................................... 1,20 mg
+Crospovidona ..................................................................................1,60 mg Opadry Y S-1 7003 Blanco ............................................................. 1,93 mg
+Laca FD&C Rojo N° 40...................................................................0,042 mg Opaglos GS 2-0700 ........................................................................0,04 mg
+
+Cada comprimido recubierto blanco (inactivo) de FEMIDEN® contiene:
+Lactosa monohidrato.................................................................... 61,76 mg Celulosa microcristalina PH 102 .................................................15,20 mg
+Crospovidona ..................................................................................1,60 mg Silica coloidal anhidra .................................................................... 0,24 mg
+Estearato de magnesio ................................................................... 1,20 mg Opadry Y S-1 7003 Blanco ............................................................. 1,96 mg
+Opaglos GS 2-0700 ........................................................................0,04 mg
+
+ACCIÓN TERAPÉUTICA
+
+Anticonceptivo.  Grupo  farmacoterapéutico:  Hormonas  sexuales  y moduladores  del  aparato  genital,  progestágenos  y  estrógenos,  asociaciones fijas.
+
+Código ATC:
+G03AA14.
+
+INDICACIONES
+
+Evitar el embarazo en mujeres que deciden adoptar este método (anticoncepción oral)
+
+Mecanismo de acción
+El acetato de nomegestrol es un progestágeno derivado de la progesterona, altamente selectivo. Tiene una fuerte afinidad por el receptor de la progesterona humana con actividad antigonadotrópica, antiestrogénica, y antiandrógena moderada, sin actividad estrógena, andrógena, glucocorticoide o mineralocorticoide.
+El estrógeno contenido en FEMIDEN® es 17β-estradiol, un estrógeno natural que es igual al 17β-estradiol humano endógeno.
+El efecto anticonceptivo de FEMIDEN® se basa principalmente en la inhibición de la ovulación y en los cambios en la secreción cervicouterina.
+En un estudio clínico, realizado en Europa en mujeres de 18 a 35 años de edad con acetato de nomegestrol y estradiol hemihidrato, se calcularon los siguientes índices de Pearl:
+-  Fracaso del método: 0,40 (límite superior del intervalo de confianza
+
+del 95%, 1,03).
+
+-  Fracaso del método y de la usuaria: 0,38 (límite superior del intervalo
+
+de confianza del 95%, 0,97).
+
+En un estudio clínico realizado, en mujeres de 18 a 35 años de edad, con acetato de nomegestrol y estradiol hemihidrato en Estados Unidos se calcularon los siguientes índices de Pearl:
+-  Fracaso del método: 1,22 (límite superior del intervalo de confianza
+
+del 95%, 2,18).
+
+-  Fracaso del método y de la usuaria: 1,16 (límite superior del intervalo de confianza del 95%, 2,08). En otro estudio clínico se observó que después de interrumpir la administración de acetato de nomegestrol y estradiol hemihidrato, se evidenció el retorno de la ovulación en los primeros 28 días después de la toma del último comprimido en el 79% de las mujeres.
+
+Propiedades Farmacocinéticas Acetato de nomegestrol La absorción del acetato de nomegestrol administrado por vía oral es rápida, alcanzando concentraciones máximas en el plasma (7 ng/ml) a las dos horas después de la administración de una dosis única. La biodisponibilidad absoluta del acetato de nomegestrol luego de una dosis única es del 63%, sin observarse un efecto clínicamente relevante de los alimentos sobre la misma.
+
+El  volumen  de  distribución  aparente  de  acetato  de  nomegestrol  en estado estacionario es de 1.645 ± 576 l. El 97 a 98% del acetato de nomegestrol se une en gran cantidad a la albúmina, pero no se liga a la globulina de unión de la hormona sexual (SHBG) ni a la globulina de unión a los corticoides (CBG).
+Es metabolizado en el hígado por las enzimas del citocromo P450, principalmente por el CYP3A4 y CYP3A5, y posiblemente por el CYP2C19 y el CYP2C8, en varios metabolitos hidroxilados inactivos, sufriendo un metabolismo extenso de fase 2 para formar conjugados glucurónido y sulfato.
+La vida media de eliminación (t1/2) es de 46 h (límites: 28 y 83 h) en el  estado  estacionario.  Se  desconoce  la  semivida  de  eliminación  de los metabolitos. Es excretado por la orina y las heces, en un 80% de la dosis aproximadamente, al cabo de cuatro días y casi completamente después de diez días. Las cantidades excretadas fueron más altas en las heces que en la orina.
+El estado estacionario se alcanza luego de los cinco días, observándose concentraciones plasmáticas máximas de acetato de nomegestrol (12 ng/ml) 1,5 horas después de la administración. En este estado, se obtienen concentraciones plasmáticas promedio de 4 ng/ml.
+En condiciones in vitro, el acetato de nomegestrol no ocasiona ninguna inducción o inhibición notoria de ninguna enzima del citocromo P450 y no tiene ninguna interacción clínicamente relevante con el transportador P-gp.
+
+Estradiol
+La  biodisponibilidad  absoluta  del  estradiol  es  de  aproximadamente el 1%, luego de sufrir un efecto considerable de primer paso hepático después de la administración por vía oral, no observándose efecto de los alimentos sobre la biodisponibilidad del estradiol.
+La distribución del estradiol exógeno y endógeno es similar y amplia en el  organismo,  encontrándose  generalmente  en  concentraciones  más altas en los órganos destinatarios de las hormonas sexuales. Circula en sangre unido a la SHBG (37%) y a la albúmina (61%), quedando aproximadamente del 1 al 2% libre en plasma.
+El estradiol exógeno administrado por vía oral es metabolizado extensamente, transformándose rápidamente en el intestino y el hígado en varios  metabolitos,  principalmente  estrona,  que  posteriormente  se conjugan y se someten a la circulación enterohepática. En la oxidación de la estrona y el estradiol intervienen las enzimas del citocromo P450, principalmente CYP1A2, CYP1A2 (extrahepático), CYP3A4, CYP3A5, y CYP1B1 y CYP2C9. La actividad de las deshidrogenasas de estradiol, las sulfotransferasas y las arilsulfatasas mantienen un equilibrio dinámico entre el estradiol, la estrona y el sulfato de estrona.
+El estradiol se depura rápidamente de la circulación, quedando luego del metabolismo y de la circulación enterohepática, una gran acumulación circulante de sulfatos y glucurónidos de estrógeno. La resultante es una semivida de eliminación, después de la administración por vía intravenosa, muy variable del estradiol que se calcula en 3,6 ± 1,5 h.
+En estado estacionario se alcanzan concentraciones séricas máximas de estradiol de aproximadamente 90 pg/ml luego de las seis horas de la administración de una dosis, y una concentración sérica promedio de 50 pg/ml que se corresponde con las concentraciones de estradiol de las fases temprana y tardía del ciclo menstrual de una mujer.
+
+Poblaciones especiales
+No se han observado diferencias entre las adolescentes posmenárquicas
+
+sanas y en pacientes adultas, después de una dosis única de acetato de nomegestrol y estradiol hemihidrato, en las propiedades farmacocinéticas del acetato de nomegestrol. Sin embargo, la exposición fue un 36% más baja en las adolescentes comparado a las adultas para el componente  de  estradiol,  desconociéndose  la  implicancia  clínica  de este resultado.
+No se han evaluado las propiedades farmacocinéticas del acetato de nomegestrol y estradiol en los diversos grupos étnicos, y en pacientes con insuficiencia renal y hepática.
+
+POSOLOGIA Y MODO DE ADMINISTRACIÓN
+
+Posología
+FEMIDEN® debe tomarse diariamente durante 28 días consecutivos. El envase contiene 24 comprimidos rosa activos con los cuales se inicia la ingesta, continuando con cuatro comprimidos blancos inactivos. Una vez terminado el envase, se comienza con el siguiente, sin interrupción alguna de la ingesta diaria de comprimidos e independientemente de la presencia o ausencia de la metrorragia de privación. La metrorragia de privación comienza habitualmente en el segundo o tercer día después de la toma del último comprimido rosa y puede ocurrir que no haya finalizado antes de comenzar el siguiente envase de FEMIDEN®.
+(Ver Advertencias y Precauciones).
+
+Poblaciones especiales
+Insuficiencia renal: No hay datos disponibles en pacientes con insuficiencia renal, es poco probable que esta afección afecte a la eliminación del acetato de nomegestrol y del estradiol.
+Insuficiencia hepática: No se han realizado estudios clínicos en pacientes con insuficiencia hepática. Dado que el metabolismo de las hormonas esteroides podría estar alterado en los pacientes con una hepatopatía grave,  el  uso  de  FEMIDEN®  en  estas  mujeres  no  está  indicado  en  la medida en que los valores de la función hepática no hayan vuelto a la normalidad (ver Contraindicaciones).
+Población pediátrica: No se ha establecido la seguridad y eficacia en adolescentes menores de 18 años. El uso de FEMIDEN® en niños y adolescentes premenárquicas no es apropiado.
+
+Forma de administración
+Los comprimidos deben administrarse diariamente vía oral y con algo de líquido si es necesario, aproximadamente a la misma hora, independientemente de las comidas y en el orden indicado en el blister. Para esto último se proporcionan adhesivos marcados con los siete días de la semana por lo que, para facilitar la toma, la usuaria deberá seleccionar el  adhesivo  correspondiente  que  comience  con  el  día  de  inicio  de  la toma del comprimido y adherirlo en el blister.
+
+Cómo comenzar a tomar FEMIDEN®
+-  Sin uso previo, en el último mes, de anticonceptivos hormonales: se empezarán a tomar los comprimidos el primer día de la metrorragia, es decir el primer día del ciclo natural de la mujer. No es necesario que se tomen medidas anticonceptivas adicionales.
+
+-  Cambio desde un anticonceptivo hormonal combinado (anticonceptivo oral combinado (AOC), anillo vaginal o parche transdérmico): la usuaria podrá comenzar a tomar FEMIDEN® preferentemente al día siguiente del último comprimido que contiene los principios activos
+
+de su AOC anterior, o a más tardar, deberá comenzar con FEMIDEN® al día siguiente del intervalo habitual sin comprimidos o con comprimidos de placebo de su AOC anterior. Para el caso que la mujer haya usado un anillo vaginal o un parche transdérmico, deberá empezar a tomar FEMIDEN® preferiblemente en el día de su retirada, o a más tardar cuando la siguiente aplicación hubiera tenido lugar.
+
+-  Cambio desde un método que contiene sólo progestágeno (implante, inyectable, minipíldora) o desde un dispositivo intrauterino (DIU)
+hormonal:  FEMIDEN®  deberá  iniciarse  el  día  de  la  extracción  del dispositivo intrauterino o del implante y administrarse, en el caso de un inyectable, el día que debiera aplicarse la siguiente inyección. La minipíldora puede cambiarse cualquier día y FEMIDEN® deberá empezarse al día siguiente. En estas situaciones se instruirá a la mujer para que use además un método de barrera hasta que haya tomado durante siete días los comprimidos rosa activos ininterrumpidamente.
+-  Luego  de  un  aborto  espontáneo  en  el  primer  trimestre:  la  mujer puede iniciar FEMIDEN® inmediatamente, sin necesidad de medidas anticonceptivas adicionales. - Luego de un aborto espontáneo en el segundo trimestre o del parto: comenzar FEMIDEN® entre el día 21 y el 28 después de un aborto espontáneo en el segundo trimestre o del parto. En el caso de comenzar posteriormente, deberá utilizar un método de barrera hasta que haya cumplido la toma, durante siete días sin interrupciones, del comprimido rosa activo.
+
+Si la mujer ha tenido relaciones sexuales, hay que descartar que se haya producido un embarazo antes del inicio del uso del AOC, o bien esperar a tener su primera menstruación.
+
+Conducta ante el olvido de la toma de algún comprimido En caso de haber transcurrido menos de 24 horas desde que la mujer olvidó  tomar  cualquiera  de  los  comprimidos  activos,  no  se  reduce  la protección anticonceptiva. La mujer deberá tomar el comprimido apenas lo recuerde y, luego, continuará tomando los demás comprimidos a la hora habitual.
+En caso de haber transcurrido más de 24horas desde que olvidó tomar cualquiera  de  los  comprimidos  activos,  puede  verse  reducida  la  protección anticonceptiva. Las siguientes normas básicas pueden guiar la conducta a seguir con los comprimidos olvidados:
+• Es necesario la toma sin interrupciones del “comprimido rosa activo”
+durante siete días para conseguir la supresión adecuada del eje hipotalámico-hipofisario-ovárico.
+
+• Mayor es el riesgo de embarazo a medida que se olviden más “comprimidos rosa activos” y cuánto más cerca se esté de la fase de los cuatro comprimidos blancos de placebo.
+- Días 1 a 7: la mujer debe tomar el último comprimido olvidado apenas se acuerde, aunque esto signifique tomar dos comprimidos a la vez. A partir de allí seguirá tomando los comprimidos a la hora habitual. No obstante, los siete días siguientes, debe utilizarse un método de barrera, por ejemplo un condón. Debe plantearse la posibilidad de un embarazo, si las relaciones sexuales tuvieron lugar dentro de los siete días anteriores.
+- Días  8  a  17:  la  mujer  debe  tomar  el  último  comprimido  olvidado apenas se acuerde, aunque esto signifique tomar dos comprimidos a la vez. A partir de allí seguirá tomando los comprimidos a la hora habitual.  En  el  caso  que  la  usuaria  haya  tomado  correctamente  los comprimidos  en  los  7  días  previos  al  comprimido  omitido,  no  será necesario  establecer  precauciones  anticonceptivas  adicionales.  Sin
+
+embargo, si se ha olvidado más de un comprimido, se debe aconsejar a la mujer que tome precauciones adicionales durante siete días.
+- Días 18 a 24: Ante la proximidad a la fase de comprimidos de placebo el riesgo de disminución de la fiabilidad es inminente, aunque es posible evitar la disminución de la protección anticonceptiva al ajustar el calendario de toma de comprimidos. Al cumplir con cualquiera de las dos siguientes opciones, no es necesaria la implementación de medidas anticonceptivas adicionales, siempre y cuando la usuaria haya tomado correctamente todos los comprimidos en los siete días previos al primer comprimido olvidado. De lo contrario, deberá seguir sólo la primera opción y tomar medidas adicionales en los siete días siguientes.
+
+1.  La  mujer  debe  tomar  el  último  comprimido  olvidado  apenas  se acuerde, aunque esto signifique tomar dos comprimidos a la vez. A partir de allí seguirá tomando los comprimidos a la hora habitual, hasta que los comprimidos activos se hayan acabado. Se debe desechar  los  cuatro  comprimidos  de  placebo  y  comenzar  el  siguiente envase blister de inmediato. Es poco probable que la usuaria tenga una metrorragia de privación hasta el fin de la sección de comprimidos activos del segundo envase, pero puede sufrir oligometrorragia o metrorragia intermenstrual en los días que toma los comprimidos.
+2. La  mujer  puede  interrumpir  la  toma  de  comprimidos  activos  del envase  blister  actual  y  a  continuación  deberá  tomar  comprimidos de  placebo  o  inactivos  durante  un  período  de  hasta  cuatro  días, incluyendo la cantidad de días en que se ha olvidado de tomar los comprimidos. Seguidamente debe iniciar el siguiente envase blister.
+Debe plantearse la posibilidad de un embarazo si la mujer se olvidó de tomar los comprimidos y, no presenta una metrorragia de privación en la fase de comprimidos de placebo.
+Se debe tener en cuenta que si la mujer no está segura del número o del color de los comprimidos olvidados ni de qué recomendación seguir, debe usar un método anticonceptivo de barrera hasta que haya completado los siete días de toma ininterrumpida de los comprimidos rosa activos.
+Ante el olvido de comprimidos blancos de placebo no se ve reducida la protección anticonceptiva, por lo que los comprimidos blancos de la última (4a) fila del blister pueden no tenerse en cuenta. No obstante para evitar que se prolongue accidentalmente la fase de comprimidos de placebo deberán desecharse los comprimidos olvidados.
+
+Conducta en caso de trastornos digestivos Ante alteraciones digestivas agudas (por ejemplo, diarrea o vómitos), la absorción de los principios activos puede verse afectada y deberían tomarse medidas anticonceptivas adicionales. En el caso de producirse vómitos en las tres o cuatro horas siguientes a la toma del comprimido rosa, se deberá tomar un comprimido nuevo lo antes posible, preferentemente en las 24 horas siguientes a la hora habitual en que se toma el comprimido. Si transcurren más de 24 horas, se puede aplicar la misma recomendación que para el caso de olvidarse de tomar los comprimidos, (Ver Posologia, “Conducta ante el olvido de la toma de algún comprimido”). Si la mujer desea mantener su calendario habitual de toma de comprimidos, deberá tomar el (los) comprimido(s) rosa adicionales de otro envase.
+
+Cómo retrasar un período o cambiar los períodos Con el objetivo de retrasar un período la usuaria deberá seguir con otro
+
+envase blister de FEMIDEN® sin necesidad de tomar los comprimidos blancos de placebo del envase actual. La prolongación puede realizarse durante el tiempo que se desee, hasta que los comprimidos rosa activos del segundo envase se terminen. La reanudación de la toma regular de FEMIDEN® se realizará después de haber tomado todos los comprimidos blancos de placebo del segundo envase. Durante la prolongación del período, la mujer puede tener metrorragia intermenstrual u oligometrorragia.
+Para efectuar un cambio a un día de la semana diferente al que la mujer esté habituada con su esquema actual, se aconseja que acorte la fase con comprimidos blancos de placebo, hasta un máximo de cuatro días.
+A menor intervalo, mayor es la posibilidad de que no tenga metrorragia de privación y pueda presentar metrorragia intermenstrual y oligometrorragia durante la toma del siguiente envase.
+
+CONTRAINDICACIONES
+
+Las siguientes contraindicaciones para los AOC que contienen etinilestradiol se consideran también aplicables al uso de FEMIDEN® dado que no se dispone todavía de datos epidemiológicos con AOC que contienen 17β-estradiol. Se deberá interrumpir inmediatamente la toma del medicamento en caso de que cualquiera de las afecciones aparezca por primera vez durante el uso de FEMIDEN®,
+•  Hipersensibilidad a los principios activos o a alguno de los excipientes
+
+de FEMIDEN®.
+
+•  Presencia o riesgo de tromboembolia arterial:
+
+–  Presencia de un factor de riesgo grave o de varios factores de riesgo de trombosis arterial debido a múltiples factores de riesgo (Ver Advertencias  y  Precauciones),  como  por  ejemplo:  hipertensión grave; diabetes  mellitus con síntomas vasculares; dislipoproteinemia grave.
+
+–  Presencia o antecedentes de accidente cerebrovascular o afección
+
+prodrómica (por ej. accidente isquémico transitorio).
+
+–  Antecedentes de migraña con síntomas neurológicos focales.
+–  Tromboembolia arterial: TEA actual, antecedentes de TEA (por ej. infarto de miocardio) o afección prodrómica ( por ej. angina de pecho).
+–  Predisposición hereditaria o adquirida conocida a la tromboembolia arterial, tal como hiperhomocisteinemia, y anticuerpos antifosfolipídicos (anticuerpos anitcardiolipina, anticoagulante del lupus).
+
+•  Presencia o riesgo de tromboembolia venosa (TEV):
+
+–  Tromboembolia venosa: TEV actual (con anticoagulantes) o antecedentes de la misma ( por ej. trombosis venosa profunda (TVP) o embolia pulmonar (EP).
+
+–  Cirugía mayor con inmovilización prolongada –  Predisposición hereditaria o adquirida conocida a la tromboembolia venosa, por ejemplo, resistencia de la proteína C activada
+(PCA), (incluyendo el factor V Leiden), deficiencia de antitrombina-III, deficiencia de proteína C, deficiencia de proteína S
+
+–  Riesgo elevado de tromboembolia venosa debido a la presencia
+
+de varios factores de riesgo.
+
+•  Presencia o antecedentes de hepatopatía grave, mientras los valores
+
+de la función hepática no hayan vuelto a la normalidad.
+
+•  Presencia o antecedentes de tumores hepáticos (benignos o malignos).
+•  Pancreatitis o antecedentes de pancreatitis si está relacionada con
+
+hipertrigliceridemia grave.
+
+•  Hemorragia vaginal no diagnosticada.
+
+•  Presencia o antecedentes de meningioma.
+•  Neoplasias malignas confirmadas o presuntas, influenciadas por los esteroides sexuales (por ejemplo, de los órganos genitales o de las mamas).
+
+ADVERTENCIAS Y PRECAUCIONES
+
+A  continuación  se  mencionan  alguna  de  las  afecciones  o  factores  de riesgo por los que, de estar presentes, deberán sopesarse las ventajas del uso de FEMIDEN® contra los posibles riesgos para cada mujer en particular, y se deberán conversar con ella antes de que se decida empezar a utilizar FEMIDEN®. Ante la aparición, agravamiento, o exacerbación de cualquiera de estas afecciones o factores de riesgo, la mujer deberá contactar a su médico para que éste decida si debe interrumpirse o no el uso de FEMIDEN®.
+FEMIDEN®  contiene  17β-estradiol.  Como  no  se  dispone  todavía  de datos epidemiológicos con AOC que contienen estradiol, las siguientes  advertencias  se  basan  en  datos  epidemiológicos  de  anticonceptivos  orales  combinados  (AOC),  considerándose  aplicables  al  uso  de
+FEMIDEN®.
+
+Alteraciones tromboembólicas
+El  uso  de  cualquier  AOC  (incluido  FEMIDEN®)  conlleva  un  aumento del  riesgo  de  tromboembolia  venosa  (TEV),  en  comparación  con  su no uso, siendo máximo durante el primer año en que una mujer usa un anticonceptivo oral combinado por primera vez. Los medicamentos  que  contienen  levonorgestrel,  norgestimato  o  noretisterona  se asocian con el riesgo más bajo de TEV. FEMIDEN® puede conllevar un riesgo de TEV semejante al observado con los AOC con levonorgestrel.
+La decisión de utilizar cualquier medicamento diferente del que tiene el menor riesgo conocido de TEV se debe tomar solamente después de comentarlo con la mujer para garantizar que comprende el riesgo de TEV con AOC y que su riesgo de TEV es mayor durante el primer año de uso. También existen ciertas evidencias de que el riesgo aumenta cuando se reinicia el AOC después de una interrupción del uso de 4 semanas o más.El riesgo de episodios de tromboembolia venosa en las mujeres que toman AOC aumenta con: el incremento de la edad, antecedentes  familiares  positivos  (algún  caso  de  TEV  en  hermanos o padres a una temprana edad), una intervención quirúrgica mayor, cualquier cirugía de las extremidades inferiores o un traumatismo grave, la inmovilización prolongada, la obesidad (índice de masa corporal superior a 30 kg/m2). Es aconsejable en las situaciones quirúrgicas y de inmovilización prolongada interrumpir el uso, y en el caso de una cirugía programada suspenderlo por lo menos con cuatro semanas de anticipación  y  reanudarlo  dos  semanas  después  de  la  recuperación completa de la movilidad. Se deberá considerar el tratamiento antitrombótico si no se ha suspendido el uso de AOC por adelantado. La inmovilización temporal, incluyendo los viajes en avión mayores a 4 horas, también puede ser un factor de riesgo de TEV, en especial en mujeres con otros factores de riesgo. Es preciso tener en cuenta el aumento del riesgo de tromboembolia en el embarazo y en particular en el período de 6 semanas del puerperio.
+FEMIDEN®  está  contraindicado  si  una  mujer  tiene  varios  factores  de riesgo que la ponen en una situación de alto riesgo de trombosis venosa. Si una mujer tiene más de un factor de riesgo, es posible que el aumento del riesgo sea mayor que la suma de los factores individuales;
+
+en este caso se debe tener en cuenta su riesgo total de TEV. Si se considera que la relación beneficio/riesgo es negativa, no se debe prescribir un AOC. El TEV puede ser mortal en el 1-2% de los casos.
+También se ha asociado el uso de AOC con un aumento del riesgo de tromboembolia arterial (infarto de miocardio, ataque isquémico transitorio),  siendo  excepcional  la  trombosis  en  otros  vasos  sanguíneos, como por ejemplo, en las venas y arterias hepáticas, renales, mesentéricas, retinianas o cerebrales. El riesgo de complicaciones tromboembólicas arteriales o de un accidente cerebrovascular en las mujeres que toman  AOC  aumenta  con:  el  incremento  de  la  edad,  el  tabaquismo
+(mayor aumento de riesgo en fumadoras frecuentes y de mayor edad, especialmente en las mujeres mayores de 35 años), por esto se aconseja fervientemente dejar de fumar, a las mujeres mayores de 35 años, si desean usar un AOC. Aumenta además con antecedentes familiares positivos (algún caso de trombosis arterial en hermanos o padres a una temprana  edad),  la  obesidad  (índice  de  masa  corporal  superior  a  30
+Kg/m2),  la  migraña,  la  hipertensión,  otras  enferemedades  asociadas a acontecimientos vasculares adversos ( dislipoproteinemia, diabetes mellitus, hiperhomocisteinemia, lupus eritematoso sistémico, cardiopatías valvulares y fibrilación auricular). El aumento en la intensidad o frecuencia de la migraña durante el uso de AOC puede ser un motivo de interrupción de FEMIDEN®.
+FEMIDEN® está contraindicado si una mujer presenta varios factores de riesgo de TEA o uno grave que la ponen en una situación de alto riesgo de trombosis arterial. Si una mujer tiene más de un factor de riesgo, es posible que el aumento del riesgo sea mayor que la suma de los factores individuales; en este caso se debe tener en cuenta su riesgo total. Si se considera que la relación beneficio/riesgo es negativa, no se debe prescribir un AOC.
+Los posibles síntomas de trombosis deben ser advertidos, por el médico, a las mujeres que usan AOC y en caso de presencia o confirmación de trombosis se deberá interrumpir inmediatamente el uso de los mismos y realizar el tratamiento adecuado.
+
+Neoplasias
+Se ha comunicado un aumento del riesgo de cáncer cervicouterino en mujeres que toman AOC durante un tiempo mayor a 5 años, aunque se mantiene la controversia sobre esta observación ya que otros factores confusores como el comportamiento sexual y el virus de papiloma humano (HPV) pueden ser atribuibles también a este resultado.
+El uso de AOC con dosis más altas de etinilestradiol (50 μgl) hace que el riesgo de cáncer de endometrio y de ovario sea menor. Queda por confirmar si esto también se aplica a los AOC que contienen 17β-estradiol.
+El riesgo relativo de diagnóstico de cáncer de mama en las mujeres que toman AOC es ligeramente más alto (RR = 1,24) y este exceso de riesgo desaparece gradualmente en el transcurso de los diez años luego de la interrupción del uso de AOC. El exceso de casos en relación al riesgo total de cáncer de mama es bajo, en mujeres que toman o han tomado
+AOC, ya que este cáncer es raro en mujeres menores de 40 años. Además tienden a ser menos avanzados clínicamente que los casos en las mujeres que no los han tomado nunca.
+Raramente se ha comunicado la aparición de tumores hepáticos benignos y malignos, en las mujeres que toman AOC. Deberá plantearse la posibilidad de un tumor hepático cuando, en una mujer que toma AOC, se presentan dolor abdominal superior agudo, aumento del tamaño del hígado o signos de hemorragia intrabdominal.
+
+Meningioma
+ Se ha notificado la aparición de meningioma (único y múltiple) con el uso prolongado (varios años) de monoterapia con nomegestrol a dosis de 3,75 mg o 5 mg diarios y superiores. Si se diagnostica un meningioma  en  un  paciente  tratado  con  FEMIDEN®  se  debe  suspender  el tratamiento.
+
+Otras patologías
+Mayor riesgo de pancreatitis puede presentarse en mujeres con hipertrigliceridemia o antecedentes familiares que toman AOC.
+Se  han  reportado  pequeños  aumentos  de  la  presión  arterial,  siendo muy infrecuentes los aumentos clínicamente relevantes. Si bien no se ha establecido una relación entre el uso de AOC y la hipertensión clínica, si ocurriese durante el uso de un AOC una hipertensión clínicamente significativa y sostenida, es prudente que el médico retire la toma de los comprimidos y trate la hipertensión.
+La ictericia o prurito asociado a colestasis, la formación de cálculos biliares, el síndrome urémico hemolítico, el lupus eritematoso sistémico, la porfiria, el herpes gestacional, la pérdida auditiva relacionada con otosclerosis y la corea de Sydenham son afecciones que se producen o se agravan tanto con el embarazo como con el uso de AOC; sin embargo la evidencia en relación con el uso de los AOC no es concluyente.
+Los estrógenos exógenos (AOC) pueden inducir o exacerbar los síntomas del angioedema hereditario y adquirido.
+ Puede requerirse la suspensión del uso de AOC, en trastornos agudos o crónicos de la función hepática, hasta que se normalicen los indicadores de la función hepática, y en casos de recurrencia de ictericia colestática que se haya producido por primera vez durante el embarazo o con el uso anterior de esteroides sexuales.
+Si bien los AOC pueden tener un efecto sobre la resistencia periférica a la insulina y la tolerancia a la glucosa en las mujeres sanas, no hay pruebas  de  la  necesidad  de  modificar  la  pauta  terapéutica  en  las  mujeres diabéticas que usan AOC a dosis bajas (< 0,05 mg de etinilestradiol). Sin embargo se debe observar meticulosamente a mujeres diabéticas mientras toman un AOC, especialmente durante los primeros meses de uso.
+Se ha relacionado el uso de AOC con el empeoramiento de la depresión, la enfermedad de Crohn y la colitis ulcerosa.
+Un  estado  de  ánimo  deprimido  y  depresión  son  reacciones  adversas reconocidas debidas al uso de anticonceptivos hormonales. La depresión puede ser grave y es un factor de riesgo reconocido asociado al comportamiento suicida y al suicidio. Se debe indicar a las mujeres que se pongan en contacto con su médico en caso de experimentar cambios en el estado de ánimo y síntomas depresivos, incluso si aparecen poco después de iniciar el tratamiento.
+En ocasiones puede producirse cloasma, en especial en las mujeres con antecedentes de cloasma gravídico, por lo que éstas deberán evitar la exposición al sol o a la radiación ultravioleta mientras toman AOC.
+Los pacientes con intolerancia hereditaria a la galactosa, insuficiencia de lactasa de Lapp o problemas de absorción de glucosa o galactosa, no deben tomar este medicamento.
+
+Exploración / consulta
+Antes del inicio o del reinicio del uso de un AOC, debe obtenerse una anamnesis  completa  y  debe  descartarse  el  embarazo,  determinar  la presión arterial y, si está indicado clínicamente, debe hacerse una exploración física, de acuerdo con las contraindicaciones y las advertencias.
+
+Es importante dirigir la atención de la mujer hacia la información sobre la trombosis venosa y arterial, incluido el riesgo de FEMIDEN® en comparación con otros AOC, los síntomas de TEV y TEA, los factores de riesgo conocidos y qué debe hacer en caso de una sospecha de trombosis. La mujer deberá leer atentamente el prospecto y seguir los consejos que le brinde su médico. Se debe advertir a las pacientes de que los anticonceptivos orales no protegen contra la infección por el VIH (SIDA) ni contra otras enfermedades de transmisión sexual.
+
+Disminución de la eficacia
+La eficacia de los AOC puede verse afectada en caso de que, se olviden tomar los comprimidos, del uso de medicamentos concomitantes o de trastornos digestivos durante la toma de comprimidos activos.
+
+Control del ciclo
+Todos los AOC pueden producir una metrorragia irregular (oligometrorragia  o  metrorragia  intermenstrual),  especialmente  en  los  primeros meses  de  uso.  Por  lo  tanto  sólo  será  significativo,  evaluar  cualquier hemorragia irregular, luego de un intervalo de adaptación de aproximadamente tres ciclos. El porcentaje de hemorragias intracíclicas en mujeres que tomaban FEMIDEN® durante estos meses, varió entre el 15 y el 20%. Si persistiesen los sangrados o aparecieran luego de ciclos anteriormente regulares, deberán excluirse una neoplasia maligna o el embarazo.
+Si las irregularidades hemorrágicas persisten o se producen después de ciclos anteriormente regulares, se deben considerar causas no hormonales y están indicadas las medidas adecuadas de diagnóstico para excluir una neoplasia maligna o un embarazo. Estas medidas pueden consistir en el legrado.
+La  duración  de  la  metrorragia  de  privación  en  las  mujeres  que  usan FEMIDEN®  es,  en  promedio,  de  tres  a  cuatro  días,  aunque  también pueden notar la ausencia de la misma sin estar embarazadas. Si no hay metrorragia de privación y FEMIDEN® se ha tomado según las instrucciones de la sección POSOLOGIA, es poco probable que la mujer esté embarazada. Sin embargo, si FEMIDEN® no se hubiese tomado acorde a las instrucciones o si hubiera dos faltas de metrorragias de privación consecutivas, debe descartarse el embarazo antes de continuar el uso de FEMIDEN®.
+
+Interacciones Farmacológicas
+Efectos de otras drogas sobre FEMIDEN®
+Los medicamentos inductores enzimáticos pueden causar metrorragia intermenstrual e incluso el fracaso del anticonceptivo oral al aumentar la depuración de las hormonas sexuales. Algunos ejemplos son: fenitoína, fenobarbital, carbamacepina, rifampicina, primidona, bosentán, hierba de San Juan; de menor efecto inductor: oxcarbazepina, topiramato, felbamato y griseofulvina. También pueden afectar el metabolismo hepático los inhibidores de la proteasa del VIH o del virus de la hepatitis C (VHC9) (por ejemplo, ritonavir, boceprevir, telaprevir) y los inhibidores no nucleosídicos de la transcriptasa inversa (por ejemplo, efavirenz).
+Con estos medicamentos debe utilizarse un método de barrera durante el tiempo de administración concomitante del medicamento y durante 28 días después de su interrupción. En caso de tratamiento prolongado con sustancias inductoras de las enzimas hepáticas, debe plantearse el uso de otro método anticonceptivo.
+
+Si la administración concomitante se prolonga hasta después de terminar los comprimidos activos del envase-blíster actual, el siguiente envase-blíster se debe iniciar, de forma inmediata, sin el intervalo habitual de comprimidos de placebo.
+La administración concomitante de inhibidores potentes (por ejemplo, ketoconazol,  itraconazol,  claritromicina)  o  moderados  (por  ejemplo, fluconazol,  diltiazem,  eritromicina)  del  CYP3A4  puede  aumentar  las concentraciones séricas de estrógenos o progestágenos.
+No  se  realizaron  estudios  de  interacción  de  medicamentos  con FEMIDEN® en mujeres en edad fértil.
+
+Efectos de FEMIDEN® sobre otras drogas
+Debe prestarse una atención especial a la interacción con la lamotrigina ya que los anticonceptivos orales pueden afectar al metabolismo de este medicamento, entre otros. El etinilestradiol puede reducir las concentraciones de lamotrigina en un 50%.
+
+Otras interacciones
+Durante los ensayos clínicos con la pauta combinada para el VHC ombitasvir/paritaprevir/ritonavir  con  y  sin  dasabuvir,  elevaciones  de  ALT mayores a 5 veces el límite superior normal (LSN) fueron, de forma significativa, más frecuentes en mujeres que tomaban medicamentos con etinilestradiol como los AOC. Las mujeres que tomaban medicamentos con  estrógenos  distintos  a  etinilestradiol,  como  estradiol,  mostraron una  tasa  de  elevación  de  ALT  semejante  a  la  de  las  mujeres  que  no recibían  ningún  estrógeno;  no  obstante,  debido  al  número  reducido de mujeres que tomaban otros estrógenos, se debe tener precaución cuando se administre de forma concomitante con la pauta combinada de ombitasvir/paritaprevir/ritonavir con y sin dasabuvir y con la pauta de glecaprevir/pibrentasvir.
+
+Efectos sobre análisis de laboratorio
+Los valores bioquímicos de las pruebas de función hepática, tiroidea, suprarrenal y renal, los niveles plasmáticos de las proteínas transportadoras (globulina que se fija a los corticosteroides), las fracciones lípido/ lipidoproteína, los parámetros del metabolismo de los glúcidos, y los valores de coagulación y fibrinólisis pueden verse alterados por el uso de esteroides anticonceptivos, dentro de los límites de normalidad del laboratorio.
+
+Carcinogénesis, mutagénesis y trastornos de fertilidad En  estudios  preclínicos  a  dosis  repetidas  con  estradiol  hemihidrato, acetato de nomegestrol o la asociación de ambos han indicado unos efectos estrogénicos y gestágenos esperados.
+El acetato de nomegestrol no es genotóxico. No se realizaron estudios de genotoxicidad y carcinogénesis con la asociación. Los estudios de toxicidad reproductiva de la asociación han demostrado fototoxicidad compatible  con  la  exposición  al  estradiol  hemihidrato.  Debe  tenerse presente que los esteroides sexuales pueden favorecer el crecimiento de determinados tejidos y tumores hormonodependientes.
+
+Embarazo
+FEMIDEN® no está indicado durante el embarazo. En caso que se produjera un embarazo mientras se toma FEMIDEN®, debe interrumpirse su administración. No ha sido evidenciado ningún aumento del riesgo de defectos congénitos en los bebés nacidos de mujeres que tomaban
+
+AOC que contienen etinilestradiol antes del embarazo, ni un efecto teratógeno cuando estos anticonceptivos se tomaron de forma inadvertida al principio del embarazo. La combinación de acetato de nomegestrol y estradiol hemihidrato no ha mostrado reacciones adversas, sobre el feto o el recién nacido, en un número limitado de embarazos de riesgo.
+Se debe tener en cuenta el mayor riesgo de TEV durante el período posparto cuando se reinicia la administración de FEMIDEN®.
+
+Lactancia
+No hay evidencia de que las pequeñas cantidades de esteroides anticonceptivos y sus metabolitos excretados con la leche tengan un efecto perjudicial en la salud del lactante. Los AOC pueden reducir la cantidad y cambiar la composición de la leche materna. Por este motivo, no se debe recomendar el uso de AOC hasta que la madre en lactancia haya dejado de amamantar completamente al niño. Durante el período de lactancia la madre deberá emplear un método anticonceptivo alternativo.
+
+Población pediátrica
+No se dispone de datos sobre la seguridad y la eficacia en adolescentes menores de 18 años. No se conoce si la cantidad de estradiol en FEMIDEN® es suficiente para mantener una concentración adecuada de estradiol en las adolescentes, especialmente para la acumulación de masa ósea (Ver Farmacocinetica).
+
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de FEMIDEN® sobre la capacidad para conducir y utilizar maquinarias es nula o insignificante.
+
+REACCIONES ADVERSAS
+
+Las reacciones adversas notificadas con más frecuencia en los ensayos clínicos fueron acné (15,4%) y metrorragia de privación irregular (9,8%).
+Se ha observado un aumento del riesgo de tromboembolia arterial y venosa, que provoca acontecimientos adversos graves, con el uso de AOC (Ver Advertencias y Precauciones).
+Las reacciones adversas enumeradas a continuación están clasificadas por órganos y sistemas y por frecuencia: muy frecuente (≥ 1/10), frecuentes (≥ 1/100 a 1/10), poco frecuentes (≥ 1/1.000 a 1/100) y raras
+(≥ 1/10.000 a 1/1.000).
+Trastornos del metabolismo y de la nutrición: Poco frecuentes: retención de líquidos, aumento del apetito. Raras: disminución del apetito.
+Trastornos  psiquiátricos:  Frecuentes:  disminución  de  la  libido,  alteración  del  estado  de  ánimo,  depresión  /estado  de  ánimo  depresivo.
+Raras: aumento de la libido.
+Trastornos del sistema nervioso: Frecuentes: cefalea, migraña. Raras:
+trastorno de la atención, accidente cerebrovascular, accidente isquémico transitorio, trastorno de la atención.
+Trastornos oculares: Raras: intolerancia a las lentes de contacto/xeroftalmia.
+Trastornos vasculares: Poco frecuentes: sofocos. Raras: tromboembolia venosa.
+Trastornos  gastrointestinales:  Frecuentes:  náuseas.  Poco  frecuentes:
+distensión abdominal. Raras: xerostomía.
+Trastornos hepatobiliares: Raras: colecistitis, colelitiasis.
+Trastornos  de  la  piel  y  del  tejido  subcutáneo:  Muy  frecuentes:  acné.
+Poco frecuentes: sequedad de la piel, hiperhidrosis, prurito, alopecia, seborrea. Raras: hipertricosis, cloasma.
+
+Trastornos musculoesqueléticos y del tejido conjuntivo: Poco frecuentes:
+sensación de pesadez.
+Trastornos  del  aparato  reproductor  y  de  la  mama:  Muy  frecuentes:
+metrorragia de privación anormal. Frecuentes: metrorragia, menorragia, dolor de mama, dolor pélvico. Poco frecuentes: hinchazón de las mamas,  nódulos  de  la  mama,  galactorrea,  hipomenorrea,  síndrome premenstrual, espasmo uterino, dispareunia, sequedad vaginal. Raras:
+olor vaginal, molestia vulvovaginal.
+Trastornos generales y alteraciones en el lugar de administración: Poco frecuentes: edema, irritabilidad. Raras: hambre.
+Exploraciones complementarias: Frecuentes: aumento del peso. Poco frecuentes: aumento de las enzimas hepáticas.
+Además de las reacciones adversas antes citadas, se han notificado reacciones de hipersensibilidad con una frecuencia no conocida.
+
+Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento.
+En  Argentina:  Se  invita  a  los  profesionales  sanitarios  a  notificar  las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https://www.argentina.gob.ar/anmat/ farmacovigilancia/notificanos/eventosadversos  y/o  al  Departamento de  Farmacovigilancia  de  Gador  S.A  vía  e-mail  a  farmacovigilancia@ gador.com o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACIÓN
+
+No se han evidenciado problemas de seguridad con dosis múltiples de hasta cinco veces la dosis diaria de FEMIDEN® y dosis únicas de hasta 40 veces la dosis diaria de solo acetato de nomegestrol. Los síntomas que pueden producirse con anticonceptivos orales asociados, según la experiencia general son: náuseas, vómitos y, en chicas jóvenes, hemorragia vaginal ligera. No hay antídotos y el tratamiento posterior debe ser sintomático.
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los centros de Toxicología:
+En Argentina:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666 / 2247.
+HOSPITAL A. POSADAS:
+(011) 4654- 6648 / 4658-7777.
+Optativamente otros Centros de Intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en su envase original a una temperatura ambiente inferior a 30oC.
+En Ecuador: Venta bajo receta médica. Conservar a temperatura no mayor a 30°
+
+PRESENTACIÓN
+
+Envases conteniendo 1 blister calendario con 28 comprimidos recubiertos (24 comprimidos recubiertos color rosa (activos) y 4 comprimidos recubiertos color blanco (inactivos).
+
+Información para la paciente
+
+Composición
+Cada comprimido recubierto rosa (activo) de FEMIDEN® contiene:
+Estradiol (como hemihidrato) ...................................................... 1,50 mg Acetato de nomegestrol ............................................................... 2,50 mg
+Excipientes:
+Lactosa monohidrato................................................................57,698 mg Celulosa microcristalina PH 102 ............................................... 15,20 mg
+Sílica coloidal anhidra ...................................................................0,24 mg Estearato de magnesio ................................................................. 1,20 mg
+Crospovidona ................................................................................ 1,60 mg Opadry Y S-1 7003 Blanco ............................................................1,93 mg
+Laca FD&C Rojo N° 40.................................................................0,042 mg Opaglos GS 2-0700 ...................................................................... 0,04 mg
+
+Cada comprimido recubierto blanco (inactivo) de FEMIDEN® contiene:
+Lactosa monohidrato...................................................................61,76 mg Celulosa microcristalina PH 102 ............................................... 15,20 mg
+Crospovidona ................................................................................ 1,60 mg Silica coloidal anhidra ...................................................................0,24 mg
+Estearato de magnesio ................................................................. 1,20 mg Opadry Y S-1 7003 Blanco ............................................................1,96 mg
+Opaglos GS 2-0700 ...................................................................... 0,04 mg
+
+“Sírvase leer esta información antes de comenzar a tomar el medicamento, aún cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información nueva (o alguna información puede haber cambiado).
+
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica”, .
+
+1) ¿Cuál es la información más importante que debo saber sobre FEMIDEN® ?
+Los anticonceptivos orales combinados son uno de los métodos anticonceptivos reversibles más confiables si se utilizan correctamente.
+
+•  Aumentan ligeramente el riesgo de sufrir un coágulo de sangre en las venas y en las arterias, especialmente en el primer año o cuando se reinicia el uso de un anticonceptivo hormonal combinado tras una pausa de 4 semanas o más.
+
+Si experimenta alguno de estos síntomas
+
+• Hinchazón de una pierna o pie o a lo largo de una vena de la
+
+pierna o pie, especialmente cuando va acompañada de:
+– Dolor o sensibilidad en la pierna, que tal vez se advierta solo
+
+al ponerse de pie o caminar.
+
+– Aumento de la temperatura en la pierna afectada.
+– Cambio de color de la piel de la pierna, p. ej. si se pone pálida,
+
+roja o azul.
+
+Es posible que esté sufriendo
+Trombosis venosa profunda
+
+• Falta  de  aliento  repentina  sin  causa  conocida  o  respiración
+
+Embolia pulmonar
+
+rápida.
+
+• Tos repentina sin una causa clara, que puede arrastrar sangre.
+• Dolor en el pecho agudo que puede aumentar al respirar hondo.
+• Aturdimiento intenso o mareo.
+• Latidos cardíacos acelerados o irregulares.
+• Dolor de estómago intenso.
+
+Si no está segura, consulte a un médico, ya que algunos de estos síntomas como la tos o la falta de aliento se pueden confundir con una afección más leve como una infección respiratoria (p.
+ej. un “catarro común”).
+Síntomas que se producen con más frecuencia en un ojo:
+• Pérdida inmediata de la visión, o bien
+• Visión borrosa indolora, que puede evolucionar hasta pérdida
+
+de la visión.
+
+Dolor, molestias, presión, pesadez en el pecho.
+• Sensación de opresión o plenitud en el pecho, brazo o debajo
+
+del esternón.
+
+• Sensación de plenitud, indigestión o ahogo.
+• Malestar de la parte superior del cuerpo que irradia a la espalda,
+
+la mandíbula, la garganta, el brazo y el estómago.
+
+• Sudoración, náuseas, vómitos o mareo.
+• Debilidad extrema, ansiedad o falta de aliento.
+• Latidos del corazón acelerados o irregulares.
+• Hinchazón y ligera coloración azul de una extremidad.
+• Dolor de estómago intenso (abdomen agudo).
+
+• Debilidad  o  entumecimiento  repentino  de  la  cara,  brazo  o
+
+pierna, especialmente en un lado del cuerpo.
+
+• Confusión repentina, dificultad para hablar o para comprender.
+• Dificultad repentina de visión en uno ojo o en ambos.
+• Dificultad repentina para caminar, mareo, pérdida del equilibrio o de la coordinación.
+
+• Dolor  de  cabeza  repentino,  intenso  y  prolongado  sin  causa
+
+conocida.
+
+• Pérdida del conocimiento o desmayo, con o sin convulsiones.
+
+A veces los síntomas del ACV pueden ser breves, con una recuperación casi inmediata y completa, pero de todos modos debe buscar asistencia médica urgente ya que puede correr el riesgo de sufrir otro ACV.
+
+Trombosis de las venas retinianas
+(coágulo de sangre en el ojo)
+Ataque al corazón
+
+Coágulos de sangre que bloquean otros vasos sanguíneos
+Accidente cerebrovascular (ACV)
+
+•  Esté alerta y consulte a su médico urgentemente si cree que puede tener síntomas de un coágulo de sangre, como se describen a continuación:
+
+2) ¿Que es FEMIDEN® y para que se utiliza?
+FEMIDEN® es un anticonceptivo, que se administra con el fin de evitar embarazos.
+
+-  Contiene  24  comprimidos  rosa  con  sustancias  activas  recubiertos con película, que tienen una pequeña cantidad de dos hormonas femeninas diferentes: acetato de nomegestrol (una progestina que deriva de la hormona llamada progesterona) y estradiol hemihidrato  (un  estrógeno  que  es  idéntico  a  la  hormona  natural  producida durante un ciclo menstrual por sus ovarios).
+
+-  Además contiene cuatro comprimidos blancos sin sustancias activas, que no contienen hormonas, llamadas placebos.
+
+-  A estos anticonceptivos que, como FEMIDEN®, contienen dos hormonas diferentes, se los denomina “anticonceptivos orales combinados”.
+
+3) Qué es lo que debo saber antes de tomar femiden® y durante el tratamiento?
+- ¿Quiénes no deben usar FEMIDEN®?
+No debe usar FEMIDEN® si tiene alguna de las afecciones enumeradas a continuación. Informe a su médico si tiene alguna de las afecciones enumeradas a continuación. Su médico comentará con usted qué otra forma de anticoncepción sería más adecuada.
+• Si tiene (o ha tenido alguna vez) un coágulo de sangre en un vaso sanguíneo de las piernas (trombosis venosa profunda, TVP), en los pulmones (embolia pulmonar, EP) o en otros órganos.
+
+• Si padece un trastorno que afecta a la coagulación de la sangre:
+por ejemplo, deficiencia de proteína C, deficiencia de proteína S, deficiencia de antitrombina III, factor V Leiden o anticuerpos antifosfolipídicos.
+
+• Si necesita una operación o si pasa mucho tiempo sin ponerse de
+
+pie.
+
+• Si ha sufrido alguna vez un ataque al corazón o un Accidente Cerebro
+
+Vascular.
+
+• Si ha tenido alguna vez una angina de pecho (una afección que provoca fuerte dolor en el pecho y puede ser el primer signo de bloqueo de los vasos sanguíneos del corazón -arterias coronarias-) o un accidente isquémico transitorio (AIT, síntomas temporales de Accidente
+Cerebro Vascular).
+
+• Si tiene alguna de las siguientes enfermedades que pueden aumentar
+
+su riesgo de formación de un coágulo en las arterias.
+− diabetes grave con lesión de los vasos sanguíneos.
+− tensión arterial muy alta.
+− niveles muy altos de grasa en la sangre (colesterol o triglicéridos);
+− una afección llamada hiperhomocisteinemia.
+
+• Si ha tenido alguna vez un tipo de migraña llamado “migraña con aura”.
+• Si ha tenido alguna vez una inflamación del páncreas (pancreatitis)
+
+relacionada con niveles altos de grasa en la sangre.
+
+• Si ha tenido alguna vez una enfermedad grave del hígado y su función hepática no es todavía normal.
+
+• Si ha tenido alguna vez un tumor benigno o maligno del hígado.
+• Si ha tenido alguna vez o puede tener un cáncer de mama o de órganos
+
+genitales.
+
+• En caso de presencia o antecedentes de meningioma (generalmente, tumor benigno del tejido localizado entre el cerebro y el cráneo) .
+En caso de duda, contacte con su médico.
+
+• Si tiene cualquier sangrado en la vagina sin causa aparente.
+• Si es alérgica al estradiol, al acetato de nomegestrol o a alguno de
+
+los demás componentes de este medicamento.
+
+Si  cualquiera  de  estas  condiciones  aparece  por  primera  vez  mientras toma  FEMIDEN®,  deje  de  tomarlo  inmediatamente  y  consulte  a  su médico.  Mientras  tanto,  use  un  anticonceptivo  no  hormonal  (por ejemplo, el uso de un preservativo o de otro método anticonceptivo de barrera) o no mantenga. relaciones sexuales.
+FEMIDEN®,  al  igual  que  otros  anticonceptivos  hormonales,  no  protege contra la infección por el virus de la inmunodeficiencia humana (VIH) (que puede causar el síndrome de inmunodeficiencia adquirida
+[SIDA]) ni contra ninguna otra enfermedad de transmisión sexual.
+
+Meningiomas
+Se han notificado casos de meningioma (generalmente tumores benignos del cerebro) con el uso prolongado (varios años) de monoterapia con nomegestrol (sin estradiol) a dosis más elevadas de 3,75 mg y 5 mg y superiores. Si se diagnostica un meningioma, el tratamiento con FEMIDEN® se debe suspender.
+
+Trastornos psiquiátricos
+Algunas  mujeres  que  utilizan  anticonceptivos  hormonales  como FEMIDEN® han notificado depresión o un estado de ánimo deprimido.
+La depresión puede ser grave y a veces puede inducir pensamientos suicidas.
+Si experimenta alteraciones del estado de ánimo y síntomas depresivos, póngase en contacto con su médico para obtener asesoramiento médico adicional lo antes posible.
+
+Cáncer
+Se han detectado casos de cáncer de mama con una frecuencia ligeramente mayor en las mujeres que toman anticonceptivos combinados, pero no se sabe si esto es causado por las píldoras combinadas. Por ejemplo, puede ser que se detecten más tumores en las mujeres que toman píldoras combinadas porque su médico examina sus mamas con mayor frecuencia. Después de interrumpir la píldora combinada, el aumento del riesgo disminuye gradualmente. Es importante que se revise con regularidad los pechos y que consulte a su médico si nota algún bulto. También debe informar a su médico si un familiar cercano sufre o ha sufrido alguna vez cáncer de mama. En casos raros, en las mujeres  que  toman  píldoras,  se  han  presentado  tumores  benignos
+(no cancerosos) del hígado e, incluso en casos aún más raros, tumores malignos (cancerosos) del hígado. Contacte con su médico si sufre un dolor abdominal excepcionalmente intenso.
+El cáncer cervicouterino es causado por una infección por el virus del papiloma humano (VPH). Se ha notificado que se produce con mayor frecuencia en las mujeres que usan la píldora durante más de 5 años.
+Se desconoce si esto se debe al uso de anticonceptivos hormonales o a otros factores, como la diferencia en la conducta sexual.
+
+Análisis de laboratorio
+Si le hacen algún análisis de sangre o de orina, informe a su médico de que está tomando FEMIDEN®, ya que puede afectar a los resultados de algunos análisis.
+
+Niños y adolescentes
+No se dispone de datos sobre la seguridad y la eficacia en las adolescentes menores de 18 años.
+
+Embarazo y lactancia
+Las  mujeres  que  están  embarazadas  o  que  creen  que  pueden  estarlo no deben usar FEMIDEN®. Si se queda embaraza mientras usa FEMIDEN®,  debe  dejar  de  tomarlo  inmediatamente  y  contactar  con su médico.
+No  se  recomienda  generalmente  el  uso  de  FEMIDEN®,  durante  la lactancia. Si desea usar la píldora mientras está amamantando, debe preguntar a su médico.
+
+Conducción y uso de máquinas
+La influencia de FEMIDEN®,  sobre la capacidad para conducir o utilizar máquinas es nula o insignificante.
+
+FEMIDEN® contiene lactosa
+Si su médico le ha indicado que padece una intolerancia a ciertos azúcares, consulte con él antes de tomar este medicamento.
+
+- ¿Qué debo informar a mi médico antes de tomar FEMIDEN®?
+Informe a su médico si sufre cualquiera de las siguientes afecciones:
+• angioedema hereditario y adquirido. Consulte inmediatamente al médico si presenta síntomas de angioedema, como hinchazón de la cara, la lengua o la garganta, o dificultad para deglutir, o ronchas, acompañadas  de  dificultad  para  respirar.  Los  medicamentos  que contienen estrógenos pueden inducir o empeorar los síntomas del angioedema.
+
+• epilepsia.
+• enfermedad del hígado (por ejemplo, ictericia) o de la vesícula biliar
+
+(por ejemplo, cálculos).
+
+• diabetes.
+• depresión.
+• enfermedad de Crohn o colitis ulcerosa (enfermedad intestinal inflamatoria crónica).
+
+• lupus eritematoso sistémico (LES, una enfermedad que afecta a su
+
+sistema natural de defensa).
+
+• síndrome urémico hemolítico (SUH, un trastorno de la coagulación
+
+de la sangre que provoca insuficiencia en el riñón).
+
+• anemia de células falciformes (una enfermedad hereditaria de los
+
+glóbulos rojos).
+
+• niveles  elevados  de  grasa  en  la  sangre  (hipertrigliceridemia)  o antecedentes familiares conocidos de esta afección. La hipertrigliceridemia  se  ha  asociado  a  mayor  riesgo  de  padecer  pancreatitis
+(inflamación del páncreas).
+
+• una inflamación de las venas que hay debajo de la piel (tromboflebitis
+
+superficial).
+
+• varices.
+• una afección que se produjo por primera vez o que empeoró durante el embarazo o con el uso anterior de hormonas femeninas; por ejemplo: pérdida de la audición, porfiria (una enfermedad de la sangre), herpes gestacional (erupción cutánea con vesículas durante el embarazo), corea de Sydenham (una enfermedad de los nervios en la que se producen movimientos súbitos del cuerpo).
+
+• tiene o ha tenido alguna vez cloasma (manchas pigmentadas marrón-dorado en la piel, llamados “parches del embarazo”, sobre todo en la cara). En ese caso, evite una exposición excesiva al sol o a la luz ultravioleta.
+
+Informe también a su médico si:
+• un familiar cercano sufre o ha sufrido alguna vez cáncer de mama.
+• necesita una operación o si pasa mucho tiempo sin ponerse de pie.
+• acaba de dar a luz y tiene mayor riesgo de presentar coágulos de sangre. Debe preguntar a su médico cuánto tiempo debe esperar después de dar a luz para empezar a tomar FEMIDEN®.
+
+- ¿Puedo tomar FEMIDEN® con otros medicamentos?
+“Informe a su médico acerca de todos los medicamentos que toma.
+Hay  medicamentos  que  pueden  hacer  que  FEMIDEN®  sea  menos eficaz en la prevención del embarazo o pueden causar un sangrado inesperado. Estos incluyen medicamentos para tratar las siguientes enfermedades:
+
+–  Epilepsia (por ejemplo, primidona fenitoína, fenobarbital, carbamazepina, oxcarbamazepina, topiramato, felbamato);
+
+–  Tuberculosis (por ejemplo, la rifampicina)
+–  Infección por el VIH (por ejemplo, rifabutina, ritonavir, efavirenz);
+–  Infección por el virus de la hepatitis C (VHC) (por ejemplo, inhibidores de la proteasa);
+
+–  Otras enfermedades infecciosas (por ejemplo, griseofulvina);
+–  Presión alta en los vasos sanguíneos de los pulmones conocida
+
+como hipertensión arterial pulmonar (bosentán).
+
+• La planta medicinal llamada hipérico o hierba de San Juan (Hypericum  perforatum)  también  puede  hacer  que  FEMIDEN®  deje  de funcionar correctamente. Si desea usar productos a base de plantas que contienen hipérico mientras está usando FEMIDEN®, debe consultarlo antes con su médico.
+
+• Si está tomando medicamentos o productos a base de plantas que pudieran reducir la eficacia de FEMIDEN®, se debe utilizar también un método anticonceptivo de barrera. Puesto que el efecto de otros medicamentos sobre FEMIDEN® puede durar hasta 28 días después de que interrumpa el medicamento, es necesario utilizar un método anticonceptivo de barrera durante este tiempo.
+
+• Algunos medicamentos pueden aumentar los niveles de los principios activos de FEMIDEN® en la sangre. La eficacia de la píldora se mantiene, pero informe a su médico en el caso de que esté usando medicamentos para tratar infecciones producidas por hongos que contienen ketoconazol.
+
+• FEMIDEN® también puede interferir con la función de otros medicamentos, como el antiepiléptico llamado lamotrigina.
+
+• La pauta combinada para el virus de la hepatitis C (VHC) ombitasvir/ paritaprevir/ ritonavir con y sin dasabuvir, así como la pauta de glecaprevir/pibrentasvir,  pueden  provocar  elevaciones  en  los  resultados sanguíneos de la función hepática (aumento de la enzima hepática ALT) en mujeres que utilizan AHC que contienen etinilestradiol. FEMIDEN® contiene estradiol en lugar de etinilestradiol. Se desconoce si se puede producir un aumento de la enzima hepática
+ALT cuando se utiliza FEMIDEN® con esta pauta combinada para el VHC. Su médico le informará al respecto.
+
+4) ¿Cómo debo tomar FEMIDEN®?
+Siga  exactamente  las  instrucciones  de  administración  de  este  medicamento indicadas por su médico. En caso de duda pregunte a su médico.
+
+Cuándo y de qué manera se toman los comprimidos La vía de administración de FEMIDEN® es oral.
+Cada envase calendario de FEMIDEN® contiene 28 comprimidos: 24 comprimidos rosa activos (números 1-24) y 4 comprimidos blancos inactivos (números 25-28). Cuando comience un nuevo envase de FEMIDEN®  inicie  siempre  con  el  comprimido  activo  marcado  con el  número  1.  Elija  una  de  las  siete  etiquetas  autoadhesivas  que indican  los  días  de  la  semana,  que  comience  con  el  día  en  el  que usted iniciará la toma de los comprimidos. A modo de ejemplo, si usted comenzara un día jueves, debería utilizar el autoadhesivo que comience con “Jue” y pegarlo en el blíster en el espacio superior a la hilera con los comprimidos rosa activos. Así Ud. podrá controlar si ha tomado el comprimido diario que le corresponde. Usted deberá tomar diariamente cada comprimido de FEMIDEN®, de acuerdo a la dirección de las flechas del blister, por lo que primero finalizará los comprimidos activos y luego los inactivos o placebos. Ingerirlos, si es necesario, con un poco de agua y todos los días aproximadamente a la misma hora.
+Su  menstruación  comenzará  mientras  se  encuentre  tomando  los comprimidos blancos placebos, dentro de los 4 días y, por lo general a los 2-3 días después de la toma del último comprimido rosa activo.
+Este sangrado de privación puede continuar hasta que comience el próximo envase.
+Inicie el nuevo envase calendario en forma ininterrumpida, es decir al día siguiente de la toma del último comprimido blanco, aunque su menstruación todavía no se haya retirado. Por lo tanto usted comenzará un nuevo envase calendario siempre el mismo día de semana y todos los meses tendrá su menstruación aproximadamente durante los mismos días. Algunas mujeres pueden no tener su menstruación todos los meses mientras toman los comprimidos inactivos, aunque de haber tomado FEMIDEN® acorde a las instrucciones mencionadas, la probabilidad de que esté embarazada es muy baja.
+
+Comienzo de su primer envase de FEMIDEN® Si usted no ha tomado ningún anticonceptivo hormonal durante el mes anterior Inicie  la  toma  de  FEMIDEN®  el  primer  día  de  su  ciclo  menstrual  (el primer día de su menstruación). No necesitará utilizar otros métodos anticonceptivos  adicionales,  ya  que  FEMIDEN®  comienza  a  actuar inmediatamente.
+
+• Cambio  desde  otro  anticonceptivo  hormonal  combinado,  anillo
+
+anticonceptivo vaginal o parche transdérmico):
+
+Inicie FEMIDEN® el día posterior en que tomó el último comprimido del envase anticonceptivo que ha tomado hasta ahora. Usted podrá comenzar FEMIDEN® luego de la última toma del comprimido activo de su anticonceptivo anterior o a más tardar el día después a la toma del último comprimido inactivo o placebo, o último día libre de  comprimidos,  de  su  anticonceptivo  anterior.  Cuando  cambie desde  un  anillo  anticonceptivo  vaginal  o  un  parche  transdérmico, comience a usar FEMIDEN® el día en que continuaría con un nuevo anillo  vaginal  o  un  nuevo  parche  transdérmico.  No  necesitará  utilizar un método anticonceptivo adicional siguiendo correctamente estas instrucciones.
+• Cambio desde un método exclusivamente con progestágeno (mini-píldora, inyección de progestágeno, implante o un dispositivo de liberación de progestágeno intrauterino (DIU hormonal)
+
+En el caso de la mini píldora usted puede suspenderla en cualquier momento y comenzar al día siguiente con la toma de FEMIDEN®. Para el resto de los métodos, inicie FEMIDEN® el día en que se hubiera aplicado la próxima inyección de hormonas, o el día en que le retiran su implante o el DIU hormonal. Se recomienda en estos casos que durante los primeros 7 días de la toma de FEMIDEN® utilice adicionalmente un anticonceptivo de barrera (por ejemplo, preservativo), en caso de tener relaciones sexuales.
+
+• Después de haber tenido un niño
+Puede iniciar la toma de FEMIDEN® entre el día 21 y 28 después del parto.  En  el  caso  de  comenzar  luego  del  día  28,  utilice  además  un método anticonceptivo de barrera (preservativo) durante los primeros 7 días de la toma de FEMIDEN®. Si en el período postparto usted mantuvo relaciones sexuales previo al inicio de la toma de FEMIDEN®, debería descartarse un posible embarazo o esperar su próximo período menstrual. Si usted amamanta después de un parto y quiere comenzar con la toma de FEMIDEN® remítase al prospecto en la sección
+“Embarazo y lactancia”.
+
+• Luego de un aborto espontáneo:
+Siga las recomendaciones de su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+Si toma más FEMIDEN® del que debe consulte a su médico o al centro de intoxicaciones.
+En Argentina:
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ
+(011) 4962-6666/2247
+HOSPITAL A. POSADAS
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si olvidó tomar FEMIDEN®, comprimidos rosa activos:
+-  Si la demora en la toma de algún comprimido rosa es menor de 24 horas,  la  protección  frente  al  embarazo  no  se  ve  reducida.  Tome el comprimido tan pronto advierta el olvido y los comprimidos siguientes a la hora habitual.
+
+• Si han pasado 24 horas o más desde que tomó un comprimido, la protección de la píldora contra el embarazo puede estar reducida.
+Cuantos  más  comprimidos  haya  olvidado,  mayor  es  el  riesgo  de quedarse embarazada. Hay un riesgo especialmente alto de quedarse embarazada si se olvida de tomar comprimidos rosa activos del comienzo o del final del blister. Por lo tanto, debería seguir las siguientes instrucciones:
+
+Día 1-7 de los comprimidos rosa activos
+Ni bien se dé cuenta del olvido tome rápidamente el último comprimido rosa activo que omitió (aunque tenga que tomar dos comprimidos al mismo tiempo), luego continúe con el siguiente comprimido en el
+
+horario habitual. No obstante deberá emplear medidas anticonceptivas adicionales, de barrera (por ejemplo preservativo), en los 7 días siguientes. Si la semana previa al olvido usted tuvo relaciones sexuales,  existe  la  posibilidad  de  embarazo,  por  lo  que  deberá  consultar rápidamente a su médico.
+
+Días 8-17 de los comprimidos rosa activos Ni bien se dé cuenta del olvido tome rápidamente el último comprimido rosa activo omitido (aunque tenga que tomar dos comprimidos al mismo tiempo), luego continúe con los siguientes comprimidos en el horario habitual. En este caso la anticoncepción no está comprometida y no se necesitan medidas adicionales. Pero ante el olvido de más de un comprimido utilice medidas de protección adicionales durante los 7 días siguientes.
+
+Días 18-24 de los comprimidos rosa activos En este período aumenta la posibilidad que usted quede embarazada, si se olvida de tomar los comprimidos rosa activos, poco tiempo antes que comience la toma de los comprimidos placebos blancos. Esta posibilidad puede ser evitada con un ajuste en el esquema de tomas, mediante estas dos opciones:
+1. Ni bien se dé cuenta del olvido tome rápidamente el último comprimido rosa activo omitido (aunque tenga que tomar dos comprimidos al mismo tiempo), luego continúe con los siguientes comprimidos en  el  horario  habitual.  Una  vez  finalizados  los  comprimidos  rosa activos descarte la toma de los comprimidos blancos o placebos, y comience con la toma de un nuevo envase. Durante la toma de los comprimidos rosa activos pueden aparecer sangrados intercurrentes o sangrados leves (gotas o manchas de sangre).
+
+2.  Deje  de  tomar  inmediatamente  el  comprimido  rosa  activo  y  comience a tomar los comprimidos blancos inactivos durante 3 días como máximo de manera que el número total de comprimidos de placebo más comprimidos activos no sea superior a cuatro. Cuando finalice la toma de los comprimidos blancos inactivos, empiece con el siguiente envase.
+
+En caso de no recordar la cantidad de comprimidos rosa olvidados de tomar, elija la opción 1, y durante los 7 días siguientes utilice un método de barrera como protección adicional además de consultar a su médico.
+Si usted ha olvidado de tomar comprimidos rosa activos y no tiene la menstruación durante el período de toma de los comprimidos blancos, entonces  puede  ser  que  usted  esté  embarazada.  Consultar  previamente a su médico antes del inicio de la toma del siguiente envase.
+(Ver esquema).
+
+Si olvidó tomar FEMIDEN® comprimidos blancos inactivos Los 4 últimos comprimidos blancos en la última hilera son placebos que no contienen sustancias activas. Si usted olvida tomar alguno de estos comprimidos, la protección de FEMIDEN® contra el embarazo se mantiene. Tire el(los) comprimido(s) blancos de placebo, que se olvidó de tomar y empiece a tomar los comprimidos del siguiente blíster a su horario habitual.
+
+Si usted tiene vómitos o diarrea severa
+En caso de tener vómitos o diarrea severa después de 3-4 horas de tomar los  comprimidos  rosa  activos,  las  sustancias  activas  de  FEMIDEN®
+
+pueden no ser totalmente absorbidas por su cuerpo. Por lo tanto se produce una situación similar a la del olvido de un comprimido rosa activo  y  usted  deberá  tomar  lo  antes  posible  otro  comprimido  rosa
+(dentro de las 24 hs), de un envase de reserva, luego de presentarse vómitos o diarrea. Si ya pasaron más de 24 horas, siga las instrucciones de  “Si  olvidó  tomar  FEMIDEN®comprimidos  rosa  activos”.  Por  favor consulte con su médico cuando tenga diarrea severa. En caso de estar tomando los comprimidos blancos, y presentar vómitos o diarrea, la efectividad se mantiene ya que son comprimidos inactivos.
+
+Si usted desea retrasar su período menstrual Incluso  si  no  está  recomendado,  Usted  puede  retrasar  su  período menstrual,  descartando  los  comprimidos  blancos  de  placebo  y  comenzando  inmediatamente  con  un  nuevo  envase  de  FEMIDEN®.
+Durante la toma del segundo envase, pueden ocurrir menstruaciones leves o parecidas a las habituales. Si usted desea que su menstruación comience durante la toma del segundo envase, deje de tomar los comprimidos rosa y comience con la toma de los comprimidos blancos.
+Una vez que haya tomado los cuatro comprimidos blancos del segundo envase, inicie normalmente un tercer envase. Si no está segura de lo que debe hacer, consulte a su médico.
+
+Si usted desea cambiar el primer día de su período menstrual Si  toma  FEMIDEN®  de  acuerdo  a  las  indicaciones,  su  menstruación comenzará  en  los  días  que  se  encuentre  tomando  los  comprimidos blancos. En el caso que desee cambiar el día, acorte el número de días en los que toma los comprimidos blancos (no más de 4). De esta forma deberá comenzar un nuevo envase antes de lo acostumbrado. Durante los días en que usted toma los comprimidos rosa del nuevo envase pueden aparecer sangrados leves (gotas o manchas de sangre). Consulte a su médico si no está segura cómo proceder
+
+Si se presentan sangrados inesperados
+Durante los primeros meses de uso de todos los anticonceptivos orales combinados pueden presentarse sangrados vaginales irregulares entre las menstruaciones (sangrados leves o intercurrentes). Continúe con  la  toma  de  los  comprimidos  como  es  habitual.  Generalmente los sangrados vaginales cesan normalmente después de un tiempo aproximado de 3 meses. Consulte a su médico, si los sangrados se prolongan, aumentan o vuelven a aparecer.
+
+Si no ha tenido una o varias menstruaciones Se  ha  observado  que  el  período  menstrual  normal  ocasionalmente puede no presentarse luego del día 24. Si ha tomado todos los comprimidos correctamente y no ha tenido vómitos o diarrea severa, ni ha tomado otros medicamentos, es muy poco probable que usted esté embarazada. Continúe con la toma de FEMIDEN® de la manera acostumbrada. Si no ha tomado adecuadamente todos los comprimidos o si su menstruación no se presenta dos veces consecutivas, podría suceder que usted esté embarazada. Contacte inmediatamente a su médico. No inicie el próximo envase sin que su médico haya descartado la posibilidad de un embarazo.
+
+Si interrumpe el tratamiento con FEMIDEN® Puede dejar de tomar FEMIDEN® en cualquier momento. Si no desea
+
+Esquema: Si han pasado más de 12 horas de la toma habitual de un comprimido rosa.
+
+Si olvidó más de un comprimido rosa
+
+Consulte a su médico
+
+Día 1 - 7
+
+SI ¿Tuvo relaciones sexuales durante la semana anterior al olvido del comprimido?
+
+NO
+
+Sólo olvidó un comprimido rosa
+(por más de 12 horas desde que se olvidó de tomar)
+
+Día 8 - 17
+
+- Tome el comprimido olvidado.
+- Termine de usar todo el envase.
+
+• Tome el comprimido olvidado.
+• Durante los 7 días siguientes use un método de barrera
+(preservativo).
+
+• Termine de usar todo el envase.
+
+- Tome el comprimido olvidado.
+- Termine de tomar los comprimidos rosa.
+- Descarte los cuatro comprimidos blancos.
+- Comience con la toma del nuevo envase.
+
+Día 18 - 24
+
+o :
+
+- Deje de tomar inmediatamente los comprimidos rosa.
+- Continúe directamente con los 4 comprimidos blancos.
+- Luego comience un nuevo envase.
+
+quedarse embarazada, pregunte primero al médico acerca de otros métodos anticonceptivos. Si ha dejado de tomar FEMIDEN® porque desea  quedarse  embarazada,  es  mejor  que  espere  hasta  que  haya tenido una menstruación natural antes de intentar quedarse embarazada. Esto le ayudará a determinar cuándo nacerá el niño.
+
+Poco frecuentes (pueden afectar hasta 1 de cada 100 personas):
+• aumento del apetito, retención de líquidos (edema).
+• sofocos.
+• hinchazón del abdomen.
+• aumento de la sudoración, pérdida de cabello, picor, sequedad de la
+
+5) ¿Cuáles son los efectos adversos que puede tener FEMIDEN®?
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede producir efectos adversos, aunque no todas las personas los sufran.
+Si sufre cualquier efecto adverso, especialmente si es grave y persistente, o tiene algún cambio de salud que cree que se puede deber a
+FEMIDEN® consulte a su médico.
+Todas las mujeres que toman anticonceptivos hormonales combinados corren mayor riesgo de presentar coágulos de sangre en las venas (tromboembolia  venosa  [TEV])  o  coágulos  de  sangre  en  las  arterias
+(tromboembolia arterial TEA]).
+Los  siguientes  efectos  adversos  se  han  relacionado  con  el  uso  de
+FEMIDEN®:
+
+Muy frecuentes (pueden afectar a más de 1 de cada 10 personas):
+• acné;
+• cambios en la menstruación (por ejemplo, ausencia o irregularidad).
+
+Frecuentes (pueden afectar hasta 1 de cada 10 personas):
+• disminución del deseo sexual, depresión o estado de ánimo depresivo,
+
+cambios de humor;
+
+• dolor de cabeza o migraña;
+• sentirse enferma (náuseas);
+• menstruación abundante, dolor de las mamas, dolor pélvico;
+• aumento de peso.
+
+piel, piel grasa.
+
+• pesadez en las extremidades.
+• menstruaciones  regulares  pero  escasas,  mamas  de  mayor  tamaño, bulto en la mama, producción de leche mientras no está embarazada, síndrome premenstrual, dolor durante las relaciones sexuales, sequedad de la vagina o la vulva, espasmo del útero.
+
+• irritabilidad.
+• aumento de las enzimas hepáticas.
+
+Raros (pueden afectar hasta 1 de cada 1.000 personas):
+• coágulos de sangre perjudiciales en una vena o arteria, por ejemplo:
+– en una pierna o pie.
+– en un pulmón.
+– ataque al corazón.
+– Accidente cerebrovascular (ACV).
+– ACV leve o síntomas temporales similares a los de una ACV, lo que se llama accidente isquémico transitorio (AIT).
+– coágulos de sangre en el hígado, estómago/intestino, riñones u ojo.
+
+Las posibilidades de tener un coágulo de sangre pueden ser mayores si tiene cualquier otra afección que aumente este riesgo.
+• disminución del apetito.
+• aumento del deseo sexual.
+• trastorno de la atención.
+• sequedad de los ojos, intolerancia a las lentes de contacto.
+
+• sequedad de la boca.
+• manchas pigmentadas marrón-dorado, sobre todo en la cara, crecimiento excesivo de vello.
+
+• olor vaginal, molestias en la vagina o la vulva;
+• hambre.
+• enfermedad de la vesícula biliar.
+
+Se han notificado reacciones alérgicas (de hipersensibilidad) en usuarias de FEMIDEN®, pero su frecuencia no puede estimarse a partir de los datos disponibles.
+Tome  contacto  con  su  médico  de  inmediato  si  desarrolla  cualquier efecto adverso incluso si no figura en el listado anterior.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto.
+En Argentina:
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la Página Web de la ANMAT: https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes,  o  llamar  a
+ANMAT responde al 0800-333-1234”.
+
+También  puede  comunicarse  al  Departamento  de  Farmacovigilancia Gador S.A., a farmacovigilancia@gador.com o teléfono 0800-220-2273.
+
+Mediante la comunicación de efectos no deseados usted puede contribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este medicamento.
+
+6) Presentación
+Envases conteniendo 1 blister calendario con 28 comprimidos recubiertos (24 comprimidos recubiertos color rosa (activos) y 4 comprimidos recubiertos color blanco (inactivos)).
+
+7) ¿Cómo debo conservar FEMIDEN®?
+Conservar en su envase original a una temperatura ambiente inferior a 30oC.
+En Ecuador: Venta bajo receta médica. Conservar a temperatura no mayor a 30°
+
+“Este  medicamento  ha  sido  prescripto  sólo  para  su  problema médico actual.
+No lo recomiende a otras personas. Ante cualquier duda consulte a su médico”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visita nuestro sitio: www.gador.com /productos
+
+Envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A. - Argentina. Tel: 4858-9000.
+
+Elaborado en Ruta 8, Km 60, Calle 10. Parque Industrial Pilar, Partido de Pilar, Pcia. de Bs. As.- Argentina.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. En Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado N° 57.154
+
+Fecha última revisión: 05/2023
+
+G00139604-04

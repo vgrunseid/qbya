@@ -1,0 +1,800 @@
+BURICAS®
+FEDRATINIB 100 mg
+
+Cápsulas duras.
+Venta bajo receta archivada. Vía de administración: Oral. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada cápsula dura de BURICAS® contiene:
+Fedratinib (como diclorhidrato monohidrato 117,30 mg) ..... 100,000 mg Celulosa microcristalina silicificada .................................... 179,700 mg
+Estearil fumarato de sodio .................................................... 3,0000 mg Gelatina* ............................................................................ 93,5880 mg
+Dióxido de titanio* ................................................................ 2,1806 mg Colorante FD&C Azul N° 1* ................................................... 0,0004 mg
+Colorante FD&C Rojo 40* ...................................................... 0,2310 mg *Componentes de la cápsula N° 0 naranja/blanco.
+
+ACCIÓN TERAPÉUTICA
+
+Fármacos antineoplásicos, inhibidores de la proteína cinasa.
+Código ATC: L01EJ02.
+
+INDICACIONES TERAPÉUTICAS
+
+BURICAS®  está  indicado  para  el  tratamiento  de  la  esplenomegalia o  los  síntomas  relacionados  con  la  enfermedad  en  pacientes  adultos con mielofibrosis primaria, mielofibrosis posterior a policitemia vera o mielofibrosis posterior a trombocitemia esencial que no han recibido inhibidores de la cinasa asociada a Janus (JAK) previamente o han recibido tratamiento con ruxolitinib.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+BURICAS®  contiene  fedratinib  que  es  un  inhibidor  de  la  cinasa  con actividad contra la cinasa Janus 2 (JAK2) y la tirosina cinasa 3 similar a FMS (FLT3) de tipo natural y con mutaciones activas. El fedratinib es un inhibidor selectivo de la JAK2 con una mayor actividad inhibidora sobre la JAK2 que sobre los miembros de la familia JAK1, JAK3 y TYK2.
+Fedratinib  redujo  la  fosforilación  mediada  por  JAK2  de  las  proteínas transductoras  de  señal  y  activadoras  de  la  transcripción  (STAT3/5)  e inhibió la proliferación de células malignas in vitro e in vivo.
+
+Efectos farmacodinámicos
+El fedratinib inhibe la fosforilación de la proteína transductora de señal y activadora de la transcripción (STAT)3 inducida por citocinas en sangre completa de los pacientes con mielofibrosis. La inhibición máxima de la fosforilación de STAT3 provocada por la administración de una dosis única de 300, 400 o 500 mg de fedratinib se dio aproximadamente 2 horas después de la administración de la dosis, y los valores volvieron a ser próximos a los basales a las 24 horas. El día 15 del ciclo 1 después de la administración de 300, 400 o 500 mg de fedratinib diarios se lograron niveles de inhibición similares en estado de equilibrio dinámico FC.
+
+Propiedades farmacocinéticas
+
+Absorción
+El uso de fedratinib a una dosis de entre 300 mg y 500 mg una vez al
+
+día (de 0,75 a 1,25 veces la dosis recomendada de 400 mg) se traduce en un aumento proporcional a la dosis de la media geométrica de la Cmáx de fedratinib y el área bajo la curva de la concentración plasmática frente al tiempo a lo largo del intervalo de administración (AUCtau). Los niveles medios en equilibrio dinámico se alcanzaron en el plazo de 15 días de administración diaria. Los cocientes de acumulación media son similares en los pacientes adultos con MF primaria, MF posterior a PV o MF posterior a ET, que son de 3 a 4 veces mayores.
+A la dosis de 400 mg una vez al día, la media geométrica (coeficiente de variación, %CV) la Cmáx,ed de fedratinib es de 1804 ng/ml (49%) y el AUCtau,ed, de 26870 ng.h/ml (43%) en los pacientes con mielofibrosis.
+Tras la administración oral de 400 mg una vez al día, fedratinib se absorbe rápidamente y alcanza la Cmáx en equilibrio dinámico en el plazo de 3 horas (intervalo: de 2 a 4 horas). Según un estudio de equilibrio de masas en seres humanos, se estima que la absorción oral de fedratinib será del 63-77% aproximadamente.
+Una  comida  baja  en  grasas  y  calorías  (total  de  162  calorías:  6%  de grasas, 78% de hidratos de carbono y 16% de proteínas) o con un alto contenido en grasas y calorías (total de 815 calorías: 52% de grasas,
+33% de hidratos de carbono y 15% de proteínas) incrementó el AUCinf hasta el 24% y la Cmáx hasta el 14% de una dosis única de 500 mg de fedratinib. Por lo tanto, fedratinib se puede tomar con o sin comida, ya que no se ha observado ningún efecto clínicamente relevante en la farmacocinética de fedratinib con alimentos. La administración con una comida con un alto contenido en grasas puede reducir la incidencia de náuseas y vómitos; por lo tanto, se recomienda tomar fedratinib con alimentos.
+
+Distribución
+La media del volumen aparente de distribución de fedratinib en equilibrio dinámico es de 1770 l en pacientes con mielofibrosis a la dosis de 400 mg una vez al día, lo que permite suponer una amplia distribución tisular. La unión de fedratinib a proteínas plasmáticas humanas es del 95% aproximadamente, sobre todo a la glucoproteína ácida α1.
+
+Biotransformación
+Fedratinib  se  metaboliza  mediante  múltiples  CYP  in  vitro,  con  una contribución  predominante  del  CYP3A4  y  una  menor  aportación  del CYP2C19 y las FMO.
+Fedratinib fue la entidad predominante (aproximadamente el 80% de la radioactividad plasmática) en la circulación sistémica tras la administración  oral  de  fedratinib  radiomarcado.  Ninguno  de  los  metabolitos aporta más del 10% del total de la exposición relacionada con la sustancia original en el plasma.
+
+Eliminación
+Tras una única dosis oral de fedratinib radiomarcado, la eliminación se produjo sobre todo a través del metabolismo, ya que aproximadamente el 77% de la radiactividad se excretó en las heces y solo en torno al 5% se excretó en la orina. La sustancia original inalterada fue el componente principal de las excreciones, con una media aproximada del 23% y el 3% de la dosis en las heces y la orina respectivamente.
+La farmacocinética de fedratinib se caracteriza por una disposición bifásica con una semivida efectiva de 41 horas, una semivida terminal de aproximadamente 114 horas y un aclaramiento aparente (CL/F) (%CV)
+de 13 l/h (51%) en los pacientes con mielofibrosis.
+
+Poblaciones especiales
+
+Edad, peso corporal, sexo y raza
+En un análisis farmacocinético poblacional de los datos acumulados de 452 pacientes, no se observó ningún efecto clínicamente relevante en la farmacocinética de fedratinib en relación con la edad (el análisis incluyó 170 pacientes de 65-74 años, 54 de 75-84 años y 4 de +85 años), el peso corporal (de 40 a 135 kg), el sexo (el análisis incluyó 249 hombres y 203 mujeres) y la raza (el análisis incluyó 399 blancos, 7 negros,
+44 asiáticos y 2 de otras).
+
+Insuficiencia renal
+Tras una dosis única de 300 mg de fedratinib, el AUCinf de fedratinib aumentó en 1,5 veces en los sujetos con insuficiencia renal moderada (AcCr de 30 ml/min a 59 ml/min según C-G) y en 1,9 veces en los sujetos con insuficiencia renal grave (AcCr de 15 ml/min a 29 ml/min según
+C-G), en comparación con la de los sujetos con función renal normal
+(AcCr ≥90 ml/min según C-G).
+En un análisis farmacocinético poblacional de los datos acumulados de 452 pacientes, no se observó ningún efecto clínicamente relevante en la farmacocinética de fedratinib en relación con la insuficiencia renal leve (definida como 60 ≤AcCr <90 ml/min).
+
+Insuficiencia hepática
+La seguridad y farmacocinética de una dosis única 300 mg de fedratinib se evaluaron en un estudio en sujetos con función hepática normal e insuficiencia hepática leve (clase A de Child-Pugh). No se observó ningún efecto clínicamente relevante en la farmacocinética de fedratinib en los sujetos con insuficiencia hepática leve en comparación con los sujetos con función hepática normal.
+En un análisis farmacocinético poblacional de los datos acumulados de 452 pacientes, no se observó ningún efecto clínicamente relevante en la farmacocinética de fedratinib en relación con la insuficiencia leve (definida como un valor de bilirrubina total ≤LSN y AST >LSN o de bilirrubina total de 1 a 1,5 veces el LSN y cualquier aumento de la AST; n = 115)
+o moderada (definida como bilirrubina total de >1,5 a 3 veces el LSN y cualquier valor de la AST; n = 17).
+La farmacocinética de fedratinib no se ha evaluado en pacientes con insuficiencia hepática grave (clase C de Child-Pugh).
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Los pacientes que están en tratamiento con ruxolitinib, antes de iniciar el tratamiento con BURICAS® deben reducir gradualmente y suspender ruxolitinib de acuerdo con el prospecto de ruxolitinib.
+Es  necesario  obtener  pruebas  basales  de  los  niveles  de  tiamina  (vitamina  B1),  hemograma  completo,  panel  hepático,  amilasa/lipasa, nitrógeno  ureico  en  sangre  (BUN)  y  creatinina  antes  de  iniciar  el tratamiento con BURICAS® periódicamente durante el tratamiento y cuando esté indicado clínicamente. El tratamiento con BURICAS® no se debe iniciar en pacientes con deficiencia de tiamina, hasta que se hayan  corregido  los  niveles  de  tiamina.  No  se  recomienda  iniciar  el tratamiento con BURICAS® en pacientes con un recuento de plaquetas basal inferior a 50 x 109/l y un recuento absoluto de neutrófilos (RAN)
+inferior a 1,0 x 109/l.
+Se recomienda utilizar antieméticos profilácticos según la práctica local durante las primeras 8 semanas de tratamiento y continuarlos después cuando  esté  indicado  clínicamente.  La  administración  de  BURICAS® con una comida con un alto contenido en grasas puede reducir la incidencia de náuseas y vómitos.
+La dosis recomendada de BURICAS® es de 400 mg una vez al día.
+El  tratamiento  puede  continuar  mientras  los  pacientes  obtengan beneficio  clínico.  Se  debe  considerar  modificar  la  dosis  en  caso  de toxicidad  hematológica  y  no  hematológica  (tabla  1).  BURICAS®  se debe suspender en los pacientes que no puedan tolerar una dosis de 200 mg al día.
+Si se omite una dosis, la siguiente dosis se debe tomar el día siguiente.  No  se  deben  tomar  cápsulas  adicionales  para  compensar  la  dosis olvidada.
+
+Modificaciones de la dosis
+Las  modificaciones  de  la  dosis  para  tratar  la  toxicidad  hematológica, la toxicidad no hematológica y la encefalopatía de Wernicke (EW) se muestran en la tabla 1.
+
+Tratamiento de la dosis de los niveles de tiamina Antes de iniciar el tratamiento y durante el mismo, es necesario reponer los niveles de tiamina cuando estén bajos. Durante el tratamiento, los niveles de tiamina se deben evaluar periódicamente (p. ej., mensualmente  durante  los  3  primeros  meses  y  cada  3  meses  en  adelante)  y cuando esté indicado clínicamente.
+
+Modificaciones de la dosis con el uso concomitante de inhibidores potentes del CYP3A4 Si no es posible evitar el uso concomitante de inhibidores potentes del CYP3A4, la dosis de BURICAS® se debe reducir a 200 mg. Es necesario realizar un control cuidadoso (p. ej., al menos cada semana) de la seguridad de los pacientes.
+En los casos en que se suspenda la coadministración con un inhibidor potente del CYP3A4, la dosis de BURICAS® se debe aumentar a 300 mg una vez al día durante las primeras dos semanas después de la suspensión del inhibidor del CYP3A4 y, a continuación, 400 mg una vez al día, según la tolerancia. Se deberán realizar otros ajustes adicionales cuando sea necesario, en función del control de la seguridad y eficacia de BURICAS®.
+
+Nuevo incremento de la dosis
+Si la reacción adversa debida a BURICAS® que llevó a reducir la dosis se controla con un tratamiento eficaz y la toxicidad se resuelve durante al menos 28 días, es posible aumentar el nivel de dosis a un nivel de dosis superior cada mes hasta el nivel de dosis original. No se recomienda volver  a  incrementar  la  dosis  si  la  reducción  se  debió  a  toxicidad  no hematológica  de  Grado  4,  elevación  de  la  alanina  aminotransferasa
+(ALT), aspartato aminotransferasa (AST) o bilirrubina total de Grado ≥3 o recurrencia de toxicidad hematológica de Grado 4.
+
+Tabla  1:  Reducciones  de  la  dosis  por  toxicidad  hematológica  y no hematológica surgida durante el tratamiento y para el tratamiento de la encefalopatía de Wernicke
+
+Toxicidad hematológica
+
+Reducción de la dosis
+
+Trombocitopenia de Grado 3 con hemorragia activa (recuento de plaquetas <50 x 109/l) o trombocitopenia de Grado 4 (recuento de plaquetas <25 x 109l)
+
+Interrumpir  la  dosis  de  BURICAS®  hasta la  resolución  a  Grado  ≤2  (recuento  de plaquetas  <75  x  109/l)  o  al  valor  basal.
+Reiniciar  la  dosis  a  100  mg  diarios  por debajo de la última dosis administrada.
+
+Neutropenia de Grado 4 (recuento absoluto de neutrófilos [RAN]:
+<0,5 x 109/l)
+
+Anemia de Grado 3 y superior, transfusión indicada (nivel de hemoglobina <8,0 g/dl)
+
+Interrumpir la dosis de BURICAS® hasta la resolución a Grado ≤2 (RAN <1,5 x 109/l)
+o al valor basal.
+Reiniciar  la  dosis  a  100  mg  diarios  por debajo  de  la  última  dosis  administrada.
+Pueden  usarse  factores  de  crecimiento de granulocitos a criterio del médico (Ver sección Advertencias y precauciones).
+
+Interrumpir la dosis de BURICAS® hasta la resolución a Grado ≤2 (nivel de hemoglobina <10,0 g/dl) o al valor basal. Reiniciar la dosis a 100 mg diarios por debajo de la última dosis administrada.
+
+Recurrencia de toxicidad hematológica de Grado 4
+
+Suspender BURICAS® a criterio del médico.
+
+Toxicidad no hematológica
+
+Reducción de la dosis
+
+Náuseas, vómitos o diarrea de Grado
+≥3 que no responden a las medidas sintomáticas en el plazo de 48 horas
+
+Interrumpir  la  dosis  de  BURICAS®  hasta la resolución a Grado ≤1 o al valor basal.
+Reiniciar  la  dosis  a  100  mg  diarios  por debajo de la última dosis administrada.
+
+ALT/AST de Grado ≥3 (de >5,0 a 20,0 x límite superior de la normalidad
+[LSN]) o bilirrubina (de >3,0 a
+10,0 LSN)
+
+Interrumpir  la  dosis  de  BURICAS®  hasta la resolución a Grado ≤1 (AST/ALT (>LSN3,0 x LSN) o bilirrubina (>LSN-1,5 x LSN))
+o  al  valor  basal.  Reiniciar  la  dosis  a  100 mg diarios por debajo de la última dosis administrada.
+Vigilar la ALT, AST y bilirrubina (total y directa) cada 2 semanas durante al menos 3  meses  después  de  la  reducción  de  la dosis. En caso de recurrencia de una elevación de Grado 3 o superior, suspender el tratamiento con BURICAS®
+
+Amilasa/lipasa de Grado ≥3 (de >2,0 a 5,0 x LSN)
+
+Otra toxicidad no hematológica de Grado ≥3
+
+Tratamiento de los niveles de tiamina y la encefalopatía de
+Wernicke
+
+Para los niveles de tiamina inferiores al intervalo normal (de 74 a 222 nmol/l)* pero ≥30 nmol/l sin signos o síntomas de EW
+
+Para niveles de tiamina <30 nmol/l sin signos o síntomas de EW
+
+Interrumpir la dosis de BURICAS® hasta la resolución a Grado 1 (>LSN-1,5 x LSN) o al valor basal. Reiniciar la dosis a 100 mg diarios por debajo de la última dosis administrada.
+Vigilar  la  amilasa/lipasa  cada  2  semanas durante  al  menos  3  meses  después de  la  reducción  de  la  dosis.  En  caso  de recurrencia de una elevación de Grado 3 o superior, suspender el tratamiento con BURICAS® .
+
+Interrumpir  la  dosis  de  BURICAS®  hasta la resolución a Grado ≤1 o al valor basal.
+Reiniciar  la  dosis  a  100  mg  diarios  por debajo de la última dosis administrada.
+
+Reducción de la dosis
+
+Interrumpir el tratamiento con BURICAS®
+Administrar 100 mg de tiamina oral todos los días hasta que los niveles de tiamina vuelvan  al  intervalo  normal*.  Considerar el reinicio del tratamiento con BURICAS® cuando  los  niveles  de  tiamina  se  sitúen dentro del intervalo normal*.
+
+Interrumpir el tratamiento con BURICAS®
+Iniciar un tratamiento con tiamina parenteral  a  dosis  terapéuticas  hasta  que  los niveles  de  tiamina  vuelvan  al  intervalo normal*.  Considerar  el  reinicio  del  tratamiento con BURICAS® cuando los niveles de tiamina se sitúen dentro del intervalo normal*.
+
+En caso de signos o síntomas de EW, independientemente de los niveles de tiamina
+
+Suspender el tratamiento con BURICAS® y administrar de manera inmediata tiamina parenteral a dosis terapéuticas.
+
+*El intervalo normal de tiamina puede variar dependiendo de los métodos utilizados por el laboratorio.
+
+Poblaciones especiales
+
+Insuficiencia renal
+En los pacientes con insuficiencia renal grave (aclaramiento de creatinina [AcCr] de 15 ml/min a 29 ml/min según Cockcroft-Gault [C-G]), la dosis se debe reducir a 200 mg. No se recomienda modificar la dosis inicial en los pacientes con insuficiencia renal leve o moderada (AcCr de 30 ml/min a 89 ml/min según C-G). Dado el posible aumento de la  exposición,  los  pacientes  con  insuficiencia  renal  moderada  preexistente pueden necesitar controles de la seguridad al menos cada semana y, en caso necesario, modificaciones de la dosis basadas en las reacciones adversas.
+
+Insuficiencia hepática
+No se ha evaluado la farmacocinética de BURICAS® en pacientes con insuficiencia  hepática  grave.  Debe  evitarse  el  uso  de  BURICAS®  en pacientes  con  insuficiencia  hepática  grave  (clase  C  de  Child-Pugh  o bilirrubina total >3 veces el LSN y cualquier aumento de la AST). No es necesario modificar la dosis inicial en los pacientes con disfunción hepática leve o moderada.
+
+Pacientes de edad avanzada
+No es necesario ajustar la dosis en los pacientes de edad avanzada (>65 años de edad).
+
+Población pediátrica
+No se ha establecido la seguridad y eficacia de BURICAS® en niños o adolescentes de hasta 18 años. No se dispone de datos.
+
+Forma de administración
+BURICAS® es para administración por vía oral.
+Las  cápsulas  no  se  deben  abrir,  romper  ni  masticar.  Deben  tragarse enteras,  preferiblemente  con  agua,  y  se  pueden  tomar  con  o  sin  alimentos. La administración con una comida con un alto contenido en grasas puede reducir la incidencia de náuseas y vómitos; por lo tanto, se recomienda la toma con alimentos.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+Embarazo.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Encefalopatía, incluida la encefalopatía de Wernicke Se han notificado casos de encefalopatía grave y mortal, entre ellos de encefalopatía  de  Wernicke,  en  pacientes  que  tomaban  fedratinib.  La encefalopatía de Wernicke es una emergencia neurológica provocada por la deficiencia de tiamina (vitamina B1). Los signos y síntomas de encefalopatía de Wernicke pueden ser ataxia, alteraciones del estado mental y oftalmoplejía (p. ej., nistagmo, diplopía). Toda alteración del estado mental, confusión o deterioro de la memoria debe hacer sospechar la presencia de una posible encefalopatía, como puede ser la encefalopatía de Wernicke, y dar lugar a una evaluación completa que incluya  una  exploración  neurológica,  la  evaluación  de  los  niveles  de tiamina y pruebas de imagen.
+Es necesario evaluar los niveles de tiamina y el estado nutricional de los pacientes antes de iniciar el tratamiento con BURICAS® de manera periódica durante el tratamiento (p. ej., mensualmente durante los primeros 3 meses y cada 3 meses en adelante) y cuando esté indicado clínicamente. No se debe iniciar el tratamiento con BURICAS® en pacientes  con  deficiencia  de  tiamina.  Antes  de  iniciar  el  tratamiento y durante el mismo, se deben reponer los niveles de tiamina cuando estén bajos. En caso de sospecha de encefalopatía, se debe suspender inmediatamente el tratamiento con BURICAS® e iniciar un tratamiento con tiamina parenteral a la vez que se evalúan todas las causas posibles.
+Debe hacerse un seguimiento de los pacientes hasta que los síntomas se hayan resuelto o hayan mejorado y se hayan normalizado los niveles de tiamina.
+
+Anemia, trombocitopenia y neutropenia
+El tratamiento con BURICAS® puede causar anemia, trombocitopenia y neutropenia. Deben obtenerse hemogramas completos en el momento basal, de manera periódica durante el tratamiento y cuando esté indicado clínicamente (ver sección Posología y forma de administración y sección Reacciones adversas) No se ha estudiado BURICAS® en pacientes con un recuento de plaquetas basal <50 x 109/l y un RAN <1,0 x 109/l.
+
+Anemia
+Por lo general, la anemia se da durante los primeros 3 meses de tratamiento. Los pacientes con un nivel de hemoglobina inferior a 10,0 g/dl en el inicio del tratamiento son más propensos a experimentar anemia de Grado 3 o superior durante el tratamiento y deben ser objeto de un control cuidadoso (p. ej., una vez por semana durante el primer mes hasta que mejoren los niveles de hemoglobina). Los pacientes que experimenten anemia pueden necesitar transfusiones de sangre. Hay que considerar una reducción de la dosis en los pacientes que experimenten anemia, especialmente en quienes necesiten transfusiones de eritrocitos.
+
+Trombocitopenia
+Por lo general, la trombocitopenia se da durante los primeros 3 meses de tratamiento. Los pacientes con recuento de plaquetas bajo (<100 x 109/l) al inicio del tratamiento tienen más probabilidades de experimentar trombocitopenia de Grado 3 o superior durante el tratamiento y deben ser objeto de un control cuidadoso (p. ej., una vez por semana durante  el  primer  mes  hasta  que  mejore  el  recuento  de  plaquetas).
+En líneas generales, la trombocitopenia es reversible y normalmente se maneja con un tratamiento sintomático como interrupciones de la dosis,  reducción  de  la  dosis  y/o  transfusiones  de  plaquetas  en  caso necesario. Los pacientes deben ser conscientes del elevado riesgo de hemorragia asociado a la trombocitopenia.
+
+Neutropenia
+Por lo general, la neutropenia fue reversible y se manejó con una interrupción temporal de fedratinib.
+
+Acontecimientos gastrointestinales
+Las náuseas, vómitos y diarrea son algunas de las reacciones adversas más frecuentes en los pacientes tratados con fedratinib. La mayoría de las reacciones adversas son de Grado 1 o 2 y se suelen dar en las primeras 2 semanas de tratamiento. Se debe considerar la posibilidad de administrar
+
+un tratamiento adecuado con antieméticos profilácticos (p. ej., antagonistas de los receptores de la 5-HT3) durante el tratamiento con BURICAS®
+La diarrea se debe tratar inmediatamente con antidiarreicos en la primera aparición de los síntomas. En los casos de náuseas, vómitos o diarrea de Grado 3 o superior que no respondan a las medidas sintomáticas en el plazo de 48 horas, es necesario interrumpir la dosis de BURICAS® hasta la resolución a Grado 1 o inferior o al estado basal. La dosis debe reiniciarse a 100 mg diarios menos que la última dosis administrada. Los niveles de tiamina se deben controlar y reponer en caso necesario.
+
+Toxicidad hepática
+Se han notificado elevaciones de los niveles de ALT y AST con el tratamiento con fedratinib, así como un caso de insuficiencia hepática. Es necesario controlar la función hepática de los pacientes en el momento basal, al menos una vez al mes durante los primeros 3 meses, de manera periódica durante el tratamiento y cuando esté indicado clínicamente. Después de la observación de toxicidad, hay que realizar controles a  los  pacientes  al  menos  cada  2  semanas  hasta  la  resolución.  Por  lo general, las elevaciones de la ALT y la AST fueron reversibles con modificaciones de la dosis o la suspensión permanente del tratamiento.
+
+Niveles elevados de amilasa/lipasa
+Se han notificado elevaciones de la amilasa y/o la lipasa con el tratamiento con fedratinib, así como un caso de pancreatitis. Es necesario controlar la amilasa y lipasa de los pacientes en el momento basal, al menos una vez al mes durante los primeros 3 meses, de manera periódica  durante  el  tratamiento  y  cuando  esté  indicado  clínicamente.
+Después de la observación de toxicidad, hay que realizar controles a los pacientes al menos cada 2 semanas hasta la resolución. En caso de amilasa y/o lipasa de Grado 3 o superior, se recomienda modificar la dosis.
+
+Niveles elevados de creatinina
+Se han notificado elevaciones de la creatinina con el tratamiento con fedratinib (ver sección Reacciones adversas). Es necesario controlar los niveles de creatinina de los pacientes en el momento basal, al menos una vez al mes durante los primeros 3 meses, de manera periódica durante el tratamiento y cuando esté indicado clínicamente. En caso de insuficiencia renal grave (AcCr de 15 ml/min a 29 ml/min según C-G), se recomienda modificar la dosis.
+
+Eventos adversos cardiovasculares mayores (MACE)
+En un amplio estudio aleatorizado y controlado con tratamiento activo de tofacitinib (otro inhibidor de la JAK) en pacientes con artritis reumatoide de 50 años o más con al menos un factor de riesgo cardiovascular adicional,  se  observó  con  tofacitinib  en  comparación  con  los  inhibidores  del  TNF,  una  mayor  tasa  de  eventos  adversos  cardiovasculares mayores  (MACE),  definidos  como  muerte  cardiovascular,  infarto  de miocardio (IM) no mortal y accidente cerebrovascular no mortal.
+Se  han  notificado  acontecimientos  MACE  en  pacientes  que  recibían
+Fedratinib.
+Antes  de  iniciar  o  continuar  el  tratamiento  con  Fedratinib,  se  deben tener en cuenta los beneficios y los riesgos para el paciente individual, especialmente en pacientes de 65 años o más, pacientes que fuman actualmente o han fumado durante mucho tiempo en el pasado y pacientes con antecedentes de enfermedad cardiovascular aterosclerótica u otros factores de riesgo cardiovasculares.
+
+previa, pacientes sometidos a cirugía mayor, inmovilización, uso de anticonceptivos hormonales combinados o terapia hormonal sustitutiva y trastorno hereditario de la coagulación. Se debe volver a evaluar a los pacientes con regularidad durante el tratamiento con Fedratinib para valorar los cambios en el riesgo de TEV. Se debe evaluar inmediatamente a los pacientes con signos y síntomas de TEV y suspender en pacientes con sospecha de TEV, independientemente de la dosis.
+
+Neoplasias malignas secundarias
+En un amplio estudio aleatorizado y controlado con tratamiento activo de tofacitinib (otro inhibidor de la JAK) en pacientes con artritis reumatoide de 50 años o más con al menos un factor de riesgo cardiovascular adicional, se observó con tofacitinib en comparación con los inhibidores del TNF, una mayor tasa de neoplasias malignas, en particular cáncer de pulmón, linfoma y cáncer de piel no melanoma (CPNM).
+Se ha notificado linfoma y otras neoplasias malignas en pacientes que recibían inhibidores de la JAK, incluido Fedratinib.
+Antes  de  iniciar  o  continuar  el  tratamiento  con  Fedratinib,  se  deben tener en cuenta los beneficios y los riesgos para el paciente individual, especialmente en pacientes de 65 años o más y en pacientes que fuman actualmente o han fumado durante mucho tiempo en el pasado.
+
+Interacciones medicamentosas
+La administración concomitante de fedratinib con inhibidores potentes del CYP3A4 aumenta la exposición a fedratinib. Una mayor exposición a fedratinib puede aumentar el riesgo de reacciones adversas. En lugar de inhibidores potentes del CYP3A4, se debe considerar el uso de tratamientos alternativos que no provoquen una inhibición fuerte de la actividad del CYP3A4. Si no es posible reemplazar los inhibidores potentes del CYP3A4, es necesario reducir la dosis de fedratinib cuando se administra con inhibidores potentes del CYP3A4, (p. ej., ketoconazol, ritonavir). Es necesario realizar un control cuidadoso (p. ej., al menos cada  semana)  de  la  seguridad  de  los  pacientes.  La  coadministración prolongada de un inhibidor moderado del CYP3A4 puede requerir un control cuidadoso de la seguridad y, si es necesario, modificaciones de la dosis en función de las reacciones adversas.
+Los fármacos que inhiben el CYP3A4 y el CYP2C19 al mismo tiempo (p.  ej.,  fluconazol,  fluvoxamina)  o  la  combinación  de  inhibidores  de CYP3A4 y CYP2C19 pueden aumentar la exposición a fedratinib y se deben evitar en los pacientes que reciben fedratinib.
+Los  fármacos  que  provocan  una  inducción  potente  o  moderada  del CYP3A4 (p. ej., fenitoína, rifampicina, efavirenz) pueden disminuir la exposición a fedratinib y deben evitarse en los pacientes que reciben fedratinib.
+Si fedratinib se debe coadministrar con un sustrato de CYP3A4 (p. ej., midazolam, simvastatina), CYP2C19 (p. ej., omeprazol, S-mefenitoína)
+o CYP2D6 (p. ej., metoprolol, dextrometorfano), se deben efectuar modificaciones de la dosis de los medicamentos coadministrados cuando sea necesario, con un control cuidadoso de la seguridad y la eficacia.
+Si fedratinib se debe coadministrar con fármacos que son excretados renalmente a través del transportador de cationes orgánicos (OCT)2 y de la proteína de extrusión de multifármacos y toxinas (MATE)1/2-K (p.
+ej., metformina), se debe tener precaución y se deben efectuar modificaciones de la dosis cuando sea necesario.
+No se ha estudiado el uso concomitante de factores de crecimiento hematopoyético con fedratinib. No se conoce la seguridad y la eficacia de estas coadministraciones.
+
+Trombosis
+En un amplio estudio aleatorizado y controlado con tratamiento activo de tofacitinib (otro inhibidor de la JAK) en pacientes con artritis reumatoide de 50 años o más con al menos un factor de riesgo cardiovascular adicional, se observó con tofacitinib en comparación con los inhibidores del TNF, una mayor tasa de acontecimientos tromboembólicos venosos (TEV) dependiente de la dosis, incluidas trombosis venosa profunda
+(TVP) y embolia pulmonar (EP).
+Se han notificado acontecimientos de trombosis venosa profunda (TVP)
+y embolia pulmonar (EP) en pacientes que recibían Fedratinib.
+ Antes de iniciar o continuar el tratamiento con Fedratinib, se deben tener en cuenta los beneficios y los riesgos para el paciente individual, especialmente  en  pacientes  con  factores  de  riesgo  cardiovasculares
+(ver también Eventos adversos cardiovasculares mayores [MACE]). En pacientes  con  factores  de  riesgo  de  TEV  conocidos  que  no  sean  factores  de  riesgo  cardiovascular  o  de  neoplasia  maligna,  Fedratinib  se debe utilizar con precaución. Los factores de riesgo de TEV que no son factores de riesgo cardiovascular o de neoplasia maligna incluyen TEV
+
+Efectos de otros medicamentos en fedratinib Fedratinib  se  metaboliza  mediante  múltiples  CYPs  in  vitro,  con  una contribución  predominante  del  CYP3A4  y  una  menor  aportación  del CYP2C19, y monooxigenasas que contienen flavina (FMOs).
+
+Inhibidores potentes y moderados del CYP3A4 La  coadministración  de  ketoconazol  (inhibidor  potente  del  CYP3A4:
+200 mg dos veces al día) con una dosis única de fedratinib (300 mg)
+aumentó el área bajo la curva de la concentración plasmática frente al tiempo desde el momento cero hasta el infinito (AUCinf) de fedratinib aproximadamente 3 veces.
+Con base en las simulaciones farmacocinéticas basadas en la fisiología (FCBF), se prevé que la coadministración de inhibidores moderados del CYP3A4, eritromicina (500 mg tres veces al día) o diltiazem (120 mg dos veces al día) con fedratinib 400 mg una vez al día aumente el AUC de fedratinib en equilibrio dinámico en 1,2 y 1,1 veces, respectivamente.
+No se pueden descartar reacciones adversas tras la coadministración prolongada de un inhibidor moderado del CYP3A4.
+
+Inhibición simultánea del CYP3A4 y el CYP2C19 No se ha estudiado el efecto de la administración concomitante de un inhibidor dual o combinado del CYP3A4 y el CYP2C19 en la farmacocinética de fedratinib. Las simulaciones PBPK indican que la administración concomitante de un inhibidor dual del CYP3A4 y el CYP2C19 con una dosis única de fedratinib puede aumentar el AUCinf de fedratinib 4 veces aproximadamente y que la situación podría cambiar con la administración de varias dosis de fedratinib debido a la compleja interacción de la autoinhibición y autoinducción de enzimas CYP. Los fármacos que inhiben el CYP3A4 y el CYP2C19 simultáneamente (p. ej., fluconazol, fluvoxamina) o una combinación de inhibidores de CYP3A4 y CYP2C19 pueden  aumentar  la  exposición  a  fedratinib  y  se  deben  evitar  en  los pacientes que reciben fedratinib.
+
+Inductores potentes y moderados del CYP3A4 La coadministración de rifampicina (inductor potente del CYP3A4: 600 mg una vez al día) o efavirenz (inductor moderado del CYP3A4: 600 mg una vez al día) con una única dosis de fedratinib (500 mg) disminuye el AUCinf de fedratinib aproximadamente en un 80% o un 50%, respectivamente.
+
+Inhibidores de la bomba de protones
+La coadministración de pantoprazol (inhibidor de la bomba de protones: 40 mg al día) con una dosis única de fedratinib (500 mg) aumentó el  AUCinf  de  fedratinib  en  un  grado  clínicamente  insignificante  (por 1,15). Por lo tanto, no se prevé que un aumento del pH gástrico tenga un impacto clínicamente significativo en la exposición a fedratinib y no se necesita ningún ajuste de dosis para la administración concomitante de fedratinib con fármacos que aumentan el pH gástrico.
+
+Efectos de fedratinib en otros medicamentos
+
+Efectos en enzimas: sustratos del CYP3A4, el CYP2C19 o el CYP2D6 La  administración  concomitante  de  fedratinib  con  el  sustrato  del CYP3A4  midazolam  (2  mg),  el  sustrato  del  CYP2C19  omeprazol  (20 mg) y el sustrato del CYP2D6 metoprolol (100 mg) multiplica el AUCinf del midazolam, el omeprazol y el metoprolol por 3,8, 2,8 y 1,8 y las concentraciones máximas (Cmáx) por 1,8, 1,1 y 1,6 respectivamente. Por lo tanto, se deben realizar modificaciones de las dosis de medicamentos que son sustratos del CYP3A4, CYP2C19 o CYP2D6 cuando sea necesario y con un estricto control de la seguridad y la eficacia.
+
+Efectos en los transportadores
+En estudios in vitro, fedratinib inhibe la glucoproteína-P (gp-P), la proteína de resistencia del cáncer de mama (BCRP), MATE1, MATE2-K, el polipéptido transportador de aniones orgánicos (OATP)1B1, OATP1B3 y  OCT2.  La  coadministración  de  una  dosis  única  de  fedratinib  (600 mg) con una dosis única de digoxina (sustrato de gp-P: 0,25 mg), rosuvastatina (sustrato de OATP1B1/1B3 y 9 sustrato de BCRP: 10 mg), y metformina (sustrato de OCT2 y MATE1/2-K: 1000 mg) no tuvo ningún efecto clínicamente relevante en el AUCinf de digoxina, rosuvastatina y metformina. El aclaramiento renal de metformina disminuyó en un 36%  en  presencia  de  fedratinib.  El  efecto  farmacodinámico  hipoglucemiante de metformina en presencia de fedratinib parece reducido, siendo el AUC0-3h de la glucosa un 17% más alto. Se debe tener precaución  y  se  deben  efectuar  modificaciones  de  la  dosis  cuando  sea necesario con los fármacos que son excretados renalmente a través de
+OCT2 y MATE1/2- K.
+
+Factores de crecimiento hematopoyético
+No  se  ha  estudiado  el  uso  concomitante  de  factores  de  crecimiento hematopoyético y fedratinib. Se desconoce si la inhibición de JAK por fedratinib  reduce  la  eficacia  de  los  factores  de  crecimiento  hematopoyético o si los factores de crecimiento hematopoyético afectan a la eficacia de fedratinib.
+
+Carcinogénesis, mutagénesis y trastornos de la fertilidad
+
+Datos preclínicos de seguridad
+Fedratinib se ha evaluado en estudios farmacológicos de seguridad, estudios de toxicidad de dosis repetidas, estudios de genotoxicidad y estudios de toxicidad reproductiva, así como en un estudio de carcinogenicidad. Fedratinib no fue genotóxico ni cancerígeno en el modelo de  ratón  transgénico  Tg.rasH2  de  6  meses.  Los  estudios  preclínicos han puesto de manifiesto que, a dosis clínicamente relevantes, fedratinib no inhibe el transporte de la tiamina en el tubo gastrointestinal ni el cerebro.
+En estudios de toxicidad de dosis repetidas de hasta 9 meses de duración en ratones, ratas y perros, las principales reacciones adversas observadas fueron hipoplasia de la médula ósea; hipertrofia, necrosis y proliferación de las vías biliares; atrofia/depleción linfoide; degeneración/ necrosis de los túbulos renales; inflamación del tubo gastrointestinal;
+degeneración/necrosis del músculo esquelético y cardíaco; infiltración histiocítica del pulmón; y evidencias de inmunosupresión como neumonía y/o abscesos. Las exposiciones plasmáticas máximas alcanzadas en los estudios toxicológicos de dosis repetidas estuvieron asociadas a una toxicidad significativa, que incluyó mortalidad, y fueron inferiores a las exposiciones plasmáticas toleradas en los pacientes a la dosis más alta recomendada de 400 mg, lo que permite suponer que los seres humanos son menos sensibles que las especies preclínicas a los efectos adversos de fedratinib. No se alcanzaron exposiciones clínicamente relevantes en las especies utilizadas en los estudios de toxicidad, por lo que estos estudios tienen un valor limitado en cuanto a la generación de datos de seguridad clínicamente relevantes sobre fedratinib.
+
+Fertilidad y desarrollo embrionario inicial Fedratinib no tuvo ningún efecto en los parámetros de los ciclos estrales, el rendimiento del acoplamiento, la fertilidad, el embarazo o los parámetros reproductivos masculinos o femeninos en ratas. La exposición (AUC) fue aproximadamente de 0,10 a 0,13 veces la exposición clínica a la dosis recomendada de 400 mg una vez al día. En un estudio de toxicidad de dosis repetidas, a exposiciones de aproximadamente equivalentes  a  la  exposición  clínica  humana,  fedratinib  provocó  aspermia,  oligospermia  y  degeneración  de  los  túbulos  seminíferos  en perros macho.
+
+Desarrollo embriofetal
+La administración de fedratinib a ratas durante la organogénesis (de 6 a 17 días de gestación) se asoció a efectos adversos embriofetales, entre  ellos  pérdida  post  implantación,  menor  peso  corporal  fetal  y variaciones esqueléticas. Estos efectos se produjeron en ratas a aproximadamente 0,1 veces la exposición clínica en el ser humano a la dosis diaria recomendada de 400 mg/día. En conejos, fedratinib no produjo toxicidad para el desarrollo al nivel de dosis más alto probado (exposición aproximadamente 0,08 veces la exposición humana a la dosis diaria recomendada).
+
+Fertilidad, embarazo y lactancia
+
+Mujeres con capacidad de gestación/anticoncepción Es necesario indicar a las mujeres con capacidad de gestación que eviten quedarse embarazadas mientras reciben BURICAS® y que deben utilizar un método anticonceptivo eficaz durante el tratamiento y hasta al menos 1 mes después de la última dosis.
+
+Embarazo
+No hay datos relativos al uso de fedratinib en mujeres embarazadas. Los estudios en animales han mostrado toxicidad para la reproducción; la exposición en estos estudios fue inferior a la exposición humana a la dosis recomendada. Sobre la base de su mecanismo de acción, BURICAS® puede provocar daño fetal. BURICAS® pertenece a una clase de fármacos, los inhibidores de la JAK, que en ratas y conejos han demostrado ser causa de mortalidad embriofetal y teratogenicidad a exposiciones clínicamente relevantes. BURICAS® está contraindicado durante el embarazo. Las mujeres con capacidad de gestación deben utilizar métodos anticonceptivos durante el tratamiento y durante al menos 1 mes después de la última dosis. Si BURICAS® se utiliza durante el embarazo o la paciente se queda embarazada mientras toma este medicamento, es necesario informar a la paciente del posible riesgo para el feto.
+
+Lactancia
+Se desconoce si fedratinib/metabolitos se excretan en la leche materna.
+No se puede excluir el riesgo en lactantes.
+Las mujeres no deben amamantar durante el tratamiento con BURICAS® y hasta al menos 1 mes después de la última dosis de BURICAS®
+
+Fertilidad
+No hay datos humanos sobre el efecto de fedratinib en la fertilidad. No hay datos sobre los efectos en la fertilidad en animales a niveles de exposición clínicamente relevantes.
+
+Empleo en pacientes de edad avanzada
+La experiencia en el grupo de edad de 75 años y más es limitada. En los estudios clínicos, el 13,8% (28/203) de los pacientes tratados con fedratinib tenían 75 años de edad o más y las reacciones adversas graves y causantes de la suspensión del tratamiento fueron más frecuentes. No es necesario ajustar la dosis en pacientes de edad avanzada (>65 años).
+
+Empleo en pediatría
+No se ha establecido la seguridad y eficacia de fedratinib en niños o adolescentes de hasta 18 años.
+
+Empleo en pacientes con insuficiencia renal y hepática
+Ver sección Posología.
+
+Excipientes
+Las cápsulas contienen menos de 1 mmol de sodio (23 mg) por dosis;
+esto es, esencialmente “exento de sodio”.
+
+Efectos sobre la capacidad para conducir y utilizar maquinarias
+La influencia de BURICAS® sobre la capacidad para conducir y utilizar máquinas es insignificante. Los pacientes que experimentan mareos después de tomar BURICAS® deben abstenerse de conducir o utilizar máquinas.
+
+Trastorno del metabolismo y de la nutrición
+
+Lipasa elevadaa
+
+Muy frecuentes
+
+Trastornos del sistema nervioso
+
+Amilasa elevadaa
+
+Muy frecuentes
+
+Cefalea
+
+Muy frecuentes
+
+Encefalopatía de
+Wernicke
+
+Frecuentes
+
+Mareo
+
+Frecuentes
+
+Trastornos vasculares
+
+Hipertensión
+
+Frecuentes
+
+Trastornos gastrointestinales
+
+Diarrea
+
+Muy frecuentes
+
+Vómitos
+
+Muy frecuentes
+
+Nauseas
+
+Muy frecuentes
+
+Estreñimiento
+
+Muy frecuentes
+
+Dispepsia
+
+Frecuentes
+
+REACCIONES ADVERSAS
+
+Trastornos hepatobiliares
+
+Alanina aminotransferasa elevadaa
+
+Muy frecuentes
+
+Resumen del perfil de seguridad
+La información de la seguridad global de fedratinib se evaluó en los 608 pacientes que recibieron dosis continuas de fedratinib en los estudios clínicos de fase I, II y III.
+
+Mielofibrosis primaria o secundaria
+En los estudios clínicos de pacientes con mielofibrosis (MF) primaria, mielofibrosis posterior a policitemia vera (MF post-PV) o mielofibrosis posterior a trombocitemia esencial (MF post-TE) tratados con fedratinib
+400 mg (N = 203), que incluían pacientes con exposición previa a ruxolitinib (N = 97; JAKARTA2), la mediana de la exposición se situó en 35,6 semanas (intervalo de 0,7 a 114,6 semanas) y la mediana del número de ciclos (1 ciclo = 28 días) iniciados fue de 9 ciclos.
+El 63% de los 203 pacientes estuvieron expuestos durante 6 meses o más y el 38%, durante 12 meses o más.
+En los 203 pacientes con MF tratados con una dosis de 400 mg de fedratinib en los estudios clínicos, las reacciones adversas no hematológicas más frecuentes fueron diarrea (67,5%), náuseas (61,6%) y vómitos
+(44,8%). Las reacciones adversas hematológicas más frecuentes fueron anemia (99,0%) y trombocitopenia (68.5%) según los valores analíticos
+(tabla 2). Las reacciones adversas graves más frecuentes en los pacientes con MF que recibieron 400 mg fueron anemia (2,5% según los acontecimientos adversos notificados y no los valores analíticos) y diarrea
+(1,5%). El 24% de los pacientes que recibieron 400 mg de fedratinib suspendieron el tratamiento de forma permanente debido a acontecimientos adversos, independientemente de su causalidad.
+
+Tabla de reacciones adversas
+Las reacciones adversas en los estudios clínicos durante todo el tratamiento (tabla 2) se dan según la clasificación de órganos del sistema MedDRA.
+Dentro de cada clasificación de órganos del sistema, las reacciones adversas aparecen clasificadas por frecuencia, con las reacciones más frecuentes en primer lugar. Las frecuencias se definen como: muy frecuentes (≥1/10);
+frecuentes (≥1/100 a <1/10); poco frecuentes (≥1/1 000 a <1/100); raras (de ≥1/10 000 a <1/1 000); muy raras (<1/10 000); y frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Tabla 2: Todas las reacciones adversas por sistema de clasificación de órganos y término preferido
+
+Sistema de clasificación de órganos
+
+Reacción adversa
+
+Todos los grados de frecuencia
+
+Infecciones e infestaciones
+
+Infección urinaria
+
+Muy frecuentes
+
+Trastornos de la sangre y del sistema linfático
+
+Anemiaa
+
+Muy frecuentes
+
+Trombocitopeniaa
+
+Muy frecuentes
+
+Neutropeniaa
+
+Muy frecuentes
+
+Hemorragiab
+
+Muy frecuentes
+
+Aspartato aminotransferasa elevadaa
+
+Muy frecuentes
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Dolor óseo
+
+Frecuentes
+
+Espasmos musculares Muy frecuentes
+
+Dolor en las extremidades
+
+Frecuentes
+
+Trastornos renales y urinarios
+
+Creatinina en sangre elevadaa
+
+Muy frecuentes
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Disuria
+
+Fatiga /
+Astenia
+
+Frecuentes
+
+Muy frecuentes
+
+Exploraciones complementarias
+
+Aumento de peso
+
+Frecuentes
+
+MedDRA=Diccionario medico de actividades reguladoras.
+SMQ= consulta normalizada MedDRA (grupo de varios términos preferidos de MedDRA que engloban un concepto médico).
+
+b La hemorragia incluye cualquier tipo asociado a trombocitopenia que requiera una intervención clínica. La hemorragia se evalúa utilizando los términos de hemorragia de la SMQ de MedDRA (concepto amplio).
+
+Descripción de algunas reacciones adversas
+
+Encefalopatía, incluida la encefalopatía de Wernicke Se notificaron casos graves de encefalopatía, incluido un caso de encefalopatía de Wernicke confirmada, en el 1,3% (8/608) de los pacientes tratados  con  fedratinib  en  los  estudios  clínicos;  7  pacientes  estaban tomando fedratinib a 500 mg diarios antes de la aparición de los signos neurológicos y presentaban factores de riesgo como malnutrición, acontecimientos adversos gastrointestinales y otros factores de riesgo que pueden causar deficiencia de tiamina. En un paciente tratado con fedratinib  a  400  mg  se  determinó  que  presentaba  encefalopatía  hepática. La mayoría de los acontecimientos se resolvieron con algunos síntomas neurológicos residuales, entre ellos pérdida de memoria, deterioro cognitivo y mareos, con la excepción de un caso mortal (1/608;
+0,16%). Se trató de un paciente con cáncer de cabeza y cuello, metástasis cerebral, dificultad para comer y pérdida de peso que recibió fedratinib a 500 mg en un estudio para otra indicación.
+
+Toxicidad gastrointestinal
+Las náuseas, los vómitos y la diarrea son algunas de las reacciones adversas más frecuentes en los pacientes tratados con fedratinib. De los pacientes con MF tratados con 400 mg de fedratinib, experimentaron diarrea el 68% de los pacientes, náuseas el 62% de los pacientes y vómitos el 45% de los pacientes. Sufrieron diarrea, náuseas y vómitos de Grado 3 el 5%, 0,5% y 2% de los pacientes respectivamente. La mediana del tiempo hasta la aparición de náuseas, vómitos, y diarrea de cualquier
+Grado fue de 2 días, y el 75% de los casos se produjeron en el plazo de 3 semanas desde el inicio del tratamiento. Se notificaron interrupciones y reducciones de la dosis debido a toxicidad gastrointestinal en el 11% y 9% de los pacientes respectivamente. El 4% de los pacientes suspendieron el tratamiento con 400 mg de fedratinib de forma permanente debido a toxicidad gastrointestinal.
+
+Anemia
+De los pacientes con mielofibrosis primaria o secundaria tratados con 400 mg de fedratinib, el 52% experimentaron anemia de Grado 3. La mediana del tiempo hasta la primera aparición de un acontecimiento de anemia de Grado 3 fue de aproximadamente 60 días, y el 75% de los casos se produjeron en el plazo de 4 meses desde el inicio del tratamiento. El 58% de los pacientes tratados con 400 mg de fedratinib recibieron transfusiones de eritrocitos y el 1,5% de los pacientes suspendieron el tratamiento con 400 mg de fedratinib de forma permanente debido a anemia
+
+Trombocitopenia
+De los pacientes con mielofibrosis primaria o secundaria tratados con 400 mg de fedratinib, el 14% y el 9% experimentaron trombocitopenia de Grado 3 y de Grado 4 respectivamente. La mediana del tiempo hasta la primera aparición de un acontecimiento de trombocitopenia de Grado 3 o 4 fue de aproximadamente 70 días, y el 75% de los casos se produjeron en el plazo de 7 meses desde el inicio del tratamiento.
+El 9% de los pacientes tratados con 400 mg de fedratinib recibieron transfusiones  de  plaquetas.  El  11%  de  los  pacientes  experimentaron hemorragia  (asociada  a  trombocitopenia)  que  requirió  intervención clínica. El 3% de los pacientes suspendieron el tratamiento de forma permanente debido a trombocitopenia.
+
+Neutropenia
+El 3,5% de los pacientes experimentaron neutropenia de Grado 4 y el 0,5% notificaron interrupción de la dosis debido a neutropenia.
+
+Toxicidad hepática
+El 52% y el 59% de los pacientes tratados con 400 mg de fedratinib experimentaron  elevaciones  de  los  niveles  de  ALT  y  AST  (todos  los Grados) respectivamente, el 3% y el 2% fue de Grado 3 o 4 respectivamente. La mediana de tiempo hasta la aparición de elevación de la aminotransferasa de cualquier Grado fue de aproximadamente 1 mes, y el 75% de los casos se produjeron en el plazo de 3 meses desde el inicio del tratamiento.
+
+Niveles elevados de amilasa/lipasa
+El 24% y el 40% de los pacientes con MF tratados con fedratinib experimentaron elevaciones de la amilasa y/o la lipasa (todos los Grados)
+respectivamente. La mayoría de estos acontecimientos fueron de Grado 1 o 2, y el 2,5% y 12% fueron de Grado 3/4 respectivamente. La mediana de tiempo hasta la aparición de elevación de la amilasa o lipasa de cualquier Grado fue de 16 días, y el 75% de los casos se produjeron en el plazo de 3 meses desde el inicio del tratamiento. El 1,0% de los pacientes que recibieron 400 mg de fedratinib suspendieron el tratamiento de forma permanente debido a elevaciones de la amilasa y/o la lipasa.
+
+Niveles elevados de creatinina
+El  74%  de  los  pacientes  con  MF  que  tomaron  400  mg  de  fedratinib experimentaron  elevaciones  de  los  niveles  de  creatinina  (todos  los Grados). Por lo general, estas elevaciones fueron acontecimientos de Grado 1 o 2 asintomáticos, y en el 3% de los pacientes se observaron elevaciones de Grado 3. La mediana de tiempo hasta la aparición de
+
+elevación de la creatinina de cualquier Grado fue de 27 días, y el 75% de los casos se produjeron en el plazo de 3 meses desde el inicio del tratamiento. El 1% y 0,5% de los pacientes notificaron interrupciones y reducciones de la dosis debido a elevación de la creatinina respectivamente. El 1,5% de los pacientes tratados con 400 mg de fedratinib suspendieron el tratamiento de forma permanente debido a elevación de la creatinina.
+
+Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/ eventosadversos  y/o  al  Departamento  de  Farmacovigilancia  de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+Siguiendo pautas internacionales, BURICAS® se encuentran adherido al Plan de Gestión de Riesgos (PGR).
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia diseñadas  para  identificar,  caracterizar,  prevenir  o  minimizar  riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones
+
+SOBREDOSIS
+
+La  experiencia  con  sobredosis  de  fedratinib  es  limitada.  Durante  los estudios clínicos con fedratinib en pacientes con mielofibrosis, las dosis se incrementaron hasta 600 mg al día y hubo 1 sobredosis accidental de 800 mg. En las dosis superiores a 400 mg, la toxicidad gastrointestinal, la fatiga y los mareos, así como la anemia y la trombocitopenia, tuvieron tendencia a darse con más frecuencia. En los datos agrupados de los estudios clínicos, la encefalopatía, incluida la encefalopatía de Wernicke, estuvo asociada a las dosis de 500 mg. En caso de sobredosis, no se debe administrar más BURICAS® y es necesario realizar un control clínico a la persona y tomar las medidas sintomáticas que estén indicadas clínicamente.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+
+Optativamente otros Centros de Intoxicaciones”.
+
+PRESENTACIONES
+
+Envase  conteniendo  120  cápsulas  duras  (10  blísters  conteniendo  12 cápsulas cada uno).
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+
+Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin nueva receta médica.
+
+Información para el paciente
+
+Composición
+
+Cada cápsula dura de BURICAS® contiene:
+Fedratinib (como diclorhidrato monohidrato 117,30 mg) .... 100,000 mg Celulosa microcristalina silicificada ................................. 179,700 mg
+Estearil fumarato de sodio ................................................. 3,0000 mg Gelatina* ......................................................................... 93,5880 mg
+Dióxido de titanio* ............................................................. 2,1806 mg Colorante FD&C Azul N° 1* ................................................ 0,0004 mg
+Colorante FD&C Rojo 40* ................................................... 0,2310 mg *Componentes de la cápsula N° 0 naranja/blanco.
+
+Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento, aun cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada vez que renueve su receta). Puede haber información  nueva  (o  alguna  información  puede  haber  cambiado).
+Recuerde que su médico le recetó este medicamento sólo a usted. No lo administre (o recomiende) a ninguna otra persona.
+Esta información no reemplaza el hablar con su médico acerca de su enfermedad o el tratamiento.
+Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+1 ¿Cuál es la información más importante que debo saber sobre BURICAS®?
+
+Informe a su médico inmediatamente si nota alguno de los siguientes síntomas, que podrían ser signo de una enfermedad grave del cerebro llamada encefalopatía (incluida la encefalopatía de Wernicke):
+• Confusión, pérdida de memoria o dificultades para pensar,
+• Pérdida del equilibrio o problemas para caminar,
+• Problemas oculares como visión doble, visión borrosa, pérdida de
+
+la visión o movimientos oculares aleatorios.
+
+Este medicamento está sujeto a seguimiento adicional, lo que agilizará la detección de nueva información sobre su seguridad. Puede contribuir comunicando los efectos adversos que pudiera usted tener. La parte final incluye información sobre cómo comunicar estos efectos adversos.
+
+2 ¿Qué es BURICAS® y para qué se utiliza?
+
+BURICAS® contiene el principio activo fedratinib. Es un tipo de medicamento conocido como “inhibidores de la proteína cinasa”.
+BURICAS® se utiliza para tratar a pacientes adultos con hipertrofia del bazo o síntomas relacionados con la mielofibrosis, una forma poco frecuente de cáncer de la sangre.
+
+ 3 ¿Qué es lo que debo saber antes de tomar BURICAS® y durante el tratamiento?
+
+¿Quiénes no deben tomar BURICAS®?
+No tome BURICAS® si:
+• Es alérgico a fedratinib o a alguno de los demás componentes de
+
+este medicamento.
+
+• Está embarazada o cree que podría estar embarazada.
+
+¿Qué debo informar a mi médico antes de tomar BURICAS®?
+Informe a su médico antes de tomar BURICAS® si:
+
+• Está embarazada o planea quedarse embarazada.
+• Está amantando a su bebé.
+• Tiene una afección del cerebro llamada encefalopatía, incluida la
+
+encefalopatía de Wernicke.
+
+Esta última también puede aparecer durante el tratamiento, consulte con su médico si tiene alguno de los siguientes signos o síntomas:
+• Confusión, pérdida de memoria, o dificultad para pensar; pérdida
+
+del equilibrio o problemas para caminar.
+
+• Problemas oculares como movimiento ocular aleatorio, visión doble, visión borrosa y pérdida de la visión.
+
+Pueden ser signos de una afección cerebral llamada encefalopatía, incluida la encefalopatía de Wernicke, que puede provocar la muerte.
+Póngase en contacto con su médico inmediatamente si sufre alguno de estos signos o síntomas.
+
+Consulte a su médico durante su tratamiento
+• Si tiene sensación de mucho cansancio, falta de aliento, piel pálida o latido cardíaco rápido: pueden ser signos de un recuento bajo de glóbulos rojos.
+
+• Si tiene hemorragias o hematomas inusuales en la piel, más de lo habitual después de que le extraigan sangre, o sangrado de las encías: pueden ser signos de un número bajo de plaquetas.
+
+• Si  tiene  frecuentes  infecciones  o  reaparición  de  infecciones,  que
+
+pueden ser signo de un número bajo de glóbulos blancos.
+
+• Si tiene náuseas, vómitos o diarrea.
+• Si tiene o ha tenido alguna vez problemas de riñón.
+• Si tiene o ha tenido alguna vez problemas de hígado.
+• Si tiene o ha tenido alguna vez problemas de páncreas.
+
+Se ha observado lo siguiente con otro tipo de medicamento similar utilizado para el tratamiento de la artritis reumatoide: problemas de corazón, coágulos de sangre y cáncer. Consulte con su médico antes o durante el tratamiento si:
+• Es mayor de 65 años. Los pacientes de 65 años o más pueden tener un mayor riesgo de presentar problemas de corazón, incluido ataque al corazón, y algunos tipos de cáncer.
+• Tiene o ha tenido problemas de corazón.
+• Tiene o ha tenido cáncer.
+• es fumador o ha fumado en el pasado.
+• Ha tenido anteriormente coágulos de sangre en las venas de las piernas (trombosis venosa profunda) o los pulmones (embolia pulmonar).
+• Si de repente le falta el aire o tiene dificultad para respirar, dolor de pecho o dolor en la parte superior de la espalda, hinchazón de piernas o brazos, dolor o dolor a la palpación en las piernas, enrojecimiento o cambio de color en las piernas o brazos, ya que pueden ser signos de coágulos de sangre en las venas.
+
+• Observa nuevos crecimientos en la piel o cambios en los existentes.
+Su médico puede recomendarle que se someta a revisiones periódicas de la piel mientras esté tomando BURICAS®.
+
+Análisis de sangre
+Antes  y  durante  el  tratamiento,  se  le  realizarán  análisis  de  sangre para  comprobar  los  niveles  de  células  sanguíneas  (glóbulos  rojos, glóbulos blancos y plaquetas), los niveles de vitamina B1 y el funcionamiento del hígado y el páncreas. En función de los resultados de los análisis de sangre, su médico puede ajustar la dosis o interrumpir el tratamiento.
+
+Niños y adolescentes
+BURICAS® no se debe utilizar en niños o jóvenes menores de 18 años porque este medicamento no se ha estudiado en este grupo de edad.
+
+¿Puedo tomar BURICAS® con otros medicamentos?
+Informe a su médico si está tomando, ha tomado recientemente o pudiera tener que tomar cualquier otro medicamento de venta bajo receta, de venta libre o suplemento a base de hierbas. BURICAS® puede afectar al funcionamiento de algunos medicamentos. Además, algunos medicamentos pueden afectar al funcionamiento de BURICAS®.
+Los siguientes medicamentos puede aumentar el riesgo de efectos adversos con BURICAS®.
+• Ketoconazol,  fluconazol  (utilizados  para  tratar  las  infecciones  por
+
+hongos).
+
+• Fluvoxamina (utilizada tratar la depresión).
+• Ritonavir (utilizado para tratar las infecciones por VIH/SIDA).
+
+• No rompa, abra ni mastique las cápsulas.
+• Las cápsulas pueden tomarse con o sin alimentos, pero es preferible tomarlas con alimentos para evitar las ganas de vomitar (vómitos).
+Debe continuar tomando BURICAS® durante el tiempo que le indique el médico. Este es un tratamiento a largo plazo.
+
+¿Qué debo hacer en caso de sobredosis?
+Si accidentalmente toma demasiadas cápsulas de BURICAS® o una dosis más alta de lo que debería, póngase en contacto con su médico de inmediato o con un centro de intoxicaciones.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o comunicarse con los Centros de Toxicología:
+
+Los  medicamentos  siguientes  pueden  reducir  la  efectividad  de
+BURICAS®:
+• Rifampicina (utilizada para tratar la tuberculosis (TB) y otras infecHOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+
+ciones).
+
+• Fenitoína (utilizada para tratar la epilepsia y controlar los ataques o
+
+las convulsiones).
+
+• Efavirenz (utilizado para tratar las infecciones por VIH/sida).
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+BURICAS® puede afectar a otros medicamentos:
+• Midazolam (utilizado para ayudarle a dormir o aliviar la ansiedad).
+• Omeprazol (utilizado para tratar los problemas de estómago).
+• Metoprolol  (utilizado  para  tratar  la  angina  de  pecho  o  la  presión
+
+arterial alta).
+
+• Metformina (utilizado para reducir los niveles de azúcar en sangre).
+• También simvastatina, S-mefenitoína y dextrometorfano.
+Su médico decidirá si es necesario modificar la dosis.
+Además, informe a su médico si se ha operado recientemente o va a  someterse  a  una  operación  o  procedimiento,  porque  BURICAS® puede interactuar con algunos de sedantes.
+
+Embarazo y lactancia
+Si está embarazada o en periodo de lactancia, cree que podría estar embarazada o tiene intención de quedarse embarazada, consulte a su médico antes de utilizar este medicamento. No tome BURICAS® durante  el  embarazo.  Si  puede  quedar  embarazada,  debe  usar  un método anticonceptivo eficaz mientras tome estas cápsulas y evitar el embarazo durante al menos un mes después de la última dosis.
+No amamante mientras tome BURICAS® y durante al menos un mes después de la última dosis ya que se desconoce si este medicamento pasa a la leche materna.
+
+Conducción y uso de máquinas
+Si se siente mareado, no conduzca ni utilice máquinas hasta que desaparezcan estos efectos secundarios.
+
+BURICAS® y excipientes
+Este medicamento contiene menos de 23 mg de sodio (1 mmol) por dosis; esto es, esencialmente “exento de sodio”.
+
+4 ¿Cómo debo tomar BURICAS®?
+
+La vía de administración de este producto es oral.
+Siga  exactamente  las  instrucciones  de  administración  de  este  medicamento  indicadas  por  su  médico.  En  caso  de  duda,  consulte  de nuevo a su médico.
+La dosis recomendada es de 400 mg (cuatro cápsulas de 100 mg) por vía oral una vez al día.
+Se le realizarán análisis de sangre antes y mientras tome este medicamento  para  controlar  su  progreso.  Si  experimenta  determinados efectos secundarios mientras toma BURICAS® (ver Posibles efectos adversos), el médico puede reducir la dosis o pausar o interrumpir el tratamiento.
+
+Cómo tomar estas cápsulas
+• Trague las cápsulas enteras, preferiblemente con agua.
+
+Optativamente otros Centros de Intoxicaciones”.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si  se  olvida  de  una  dosis  o  vomita  después  de  tomar  una  cápsula, sáltese la dosis omitida y tome la siguiente dosis prevista a la hora habitual el día siguiente. No tome una dosis doble para compensar las cápsulas olvidadas o vomitadas.
+
+Si interrumpe el tratamiento con BURICAS® No deje de tomar BURICAS® mientras no se lo indique el médico.
+Si tiene cualquier otra duda sobre el uso de este medicamento, pregunte a su médico
+
+5 ¿Cuáles son los efectos adversos que puede tener BURICAS®?
+
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede producir efectos adversos, aunque no todas las personas los sufran.
+Informe a su médico inmediatamente si nota alguno de los siguientes síntomas, que podrían ser signo de una enfermedad grave del cerebro llamada encefalopatía (incluida la encefalopatía de Wernicke):
+• Confusión, pérdida de memoria o dificultades para pensar.
+• Pérdida del equilibrio o problemas para caminar.
+• Problemas oculares como visión doble, visión borrosa, pérdida de
+
+la visión o movimientos oculares aleatorios.
+
+Consulte a su médico si experimenta cualquier otro efecto adverso.
+Estos pueden incluir:
+Efectos adversos muy frecuentes (pueden afectar a más de 1 persona de cada 10)
+• Niveles bajos de glóbulos rojos, que pueden provocar cansancio, falta de aliento, piel pálida o latidos cardíacos acelerados (anemia).
+• Reducción de las plaquetas de la sangre, que puede hacerle sangrar
+
+o sufrir hematomas con facilidad (trombocitopenia).
+
+• Reducción de los glóbulos blancos (neutropenia), a veces con fiebre. Un nivel bajo de glóbulos blancos puede reducir la capacidad de combatir las infecciones.
+
+• Ganas de vomitar (náuseas) y vomitar (vómitos).
+• Diarrea.
+• Estreñimiento.
+• Hemorragia.
+• Infección urinaria.
+• Dolor de cabeza.
+• Espasmos musculares.
+• Cansancio (fatiga) o debilidad (astenia).
+• Alteraciones en los resultados de los análisis de sangre (aumento de la alanina aminotransferasa, aumento de la aspartato aminotransferasa, aumento de la creatinina en sangre, aumento de los
+
+niveles de amilasa y lipasa). Pueden ser signos de problemas de hígado, riñón o páncreas.
+
+minimizar riesgos relacionados a productos medicinales, y la evaluación de la efectividad de esas intervenciones.
+
+Efectos adversos frecuentes (pueden afectar hasta a 1 de cada
+10 personas)
+• Mareo.
+• Aumento de la presión arterial (hipertensión).
+• Indigestión (dispepsia).
+• Dolor óseo.
+• Dolor en las extremidades, las manos o los pies (dolor de las extremidades).
+
+• Aumento de peso.
+• Dolor al orinar.
+Estos pueden no ser todos los efectos adversos de BURICAS® para mayor información consulte a su médico.
+
+Comunicación de efectos adversos
+Si  experimenta  cualquier  tipo  de  efecto  no  deseado,  consulte  a su médico, incluso si se trata de posibles efectos adversos que no aparecen en este prospecto. También puede comunicarse al Departamento de Farmacovigilancia Gador S.A, teléfono 0800-220-2273 o a farmacovigilancia@gador.com.
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha que está en la página web de la ANMAT: https://www.argentina.gob.ar/ anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT responde al 0800-333-1234”.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede contribuir a proporcionar más información sobre la seguridad de este medicamento.
+
+Siguiendo  pautas  internacionales,  el  producto  BURICAS  se encuentra adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia  diseñadas  para  identificar,  caracterizar,  prevenir  o
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”.
+
+6 ¿Cómo debo conservar BURICAS®?
+
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+Este  medicamento  no  requiere  ninguna  temperatura  especial  de conservación.
+Los medicamentos no se deben tirar por los desagües ni a la basura.
+Pregunte a su farmacéutico cómo deshacerse de los envases y de los medicamentos que ya no necesita. De esta forma, ayudará a proteger el medio ambiente.
+
+Este  folleto  resume  la  información  más  importante  de BURICAS®, para mayor información y ante cualquier duda CONSULTE CON SU MÉDICO.
+No utilice este medicamento si el envase está dañado.
+Ud. puede tomar BURICAS® hasta el último día del mes indicado en el envase. No tome BURICAS® luego de la fecha de vencimiento.
+
+Presentación
+
+Envase conteniendo 120 cápsulas duras (10 blísters conteniendo 12 cápsulas cada uno).
+
+Este medicamento debe ser usado exclusivamente bajo prescripción  y  vigilancia  médica  y  no  puede  repetirse  sin  nueva receta médica.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestros sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+Elaborado en: Ruta 8, Km 60, Calle 10, Parque Industrial Pilar, Pcia. de Bs. As., Argentina.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 60.140. Fecha de última revisión: 05/2024
+
+G00240400-00

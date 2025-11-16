@@ -1,0 +1,2388 @@
+HARVONI®
+LEDIPASVIR 90 mg
+SOFOSBUVIR 400 mg
+Comprimidos recubiertos
+Venta bajo receta archivada.
+
+COMPOSICIÓN
+Cada comprimido recubierto de HARVONI® contiene: Ledipasvir 90 mg.
+Sofosbuvir 400 mg.
+Excipientes:  Copovidona,  Lactosa  monohidrato,  Celulosa  microcristalina,  Croscarmelosa  sódica,  Dióxido  de  silicio  coloidal,  Estearato  de magnesio, Alcohol polivinilico parcialmente hidrolizado*, Dióxido de titanio*, Polietilenglicol 3350*, Talco*, Colorante FD&C Amarillo No6* c.s.
+* Se refiere a los componentes del Opadry II anaranjado 85F13912.
+Excipientes con efecto conocido: HARVONI® contiene lactosa monohidrato y Colorante FD&C amarillo No6.
+1. ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: antiviral de acción directa.
+Código ATC: J05AP51.
+2. INDICACIONES Y USO
+HARVONI® está indicado para el tratamiento de la hepatitis C crónica (HCC) en adultos y en adolescentes entre 12 y 18 años de edad.
+Para consultar la actividad específica frente al genotipo del virus de la hepatitis C (VHC), ver secciones 7.1, 3.2.1., 3.2.3. y 8.
+3. CARACTERÍSTICAS/PROPIEDADES FARMACOLÓGICAS
+3.1 DESCRIPCIÓN
+Los  comprimidos  de  HARVONI®  son  comprimidos  de  asociación  en dosis fijas, que contienen ledipasvir y sofosbuvir. Ledipasvir es un inhibidor del VHC que actúa sobre la proteína NS5A de dicho virus, que es esencial tanto para la replicación del ARN, como para el ensamblaje de los viriones del VHC. Sofosbuvir es un inhibidor pangenotípico de la polimerasa de ARN dependiente del ARN NS5B del VHC, que es esencial para la replicación viral. Sofosbuvir es un profármaco nucleotídico que  sufre  metabolismo  intracelular  para  formar  el  trifosfato  análogo de la uridina farmacológicamente activo (GS-461203), que puede ser incorporado al ARN del VHC por la polimerasa NS5B y actúa como terminador de cadena. Comprimido recubierto con película de color anaranjado y forma de rombo, y con “GSI” grabado por un lado y “7985”
+por el otro. Los comprimidos de HARVONI® se administran por vía oral.
+Cada comprimido recubierto contiene 90 mg de ledipasvir y 400 mg de sofosbuvir como principios activos. Los comprimidos también incluyen los siguientes excipientes: copovidona, lactosa monohidrato, celulosa microcristalina,  croscarmelosa  sódica,  dióxido  de  silicio  coloidal  y  estearato de magnesio. Los comprimidos están recubiertos con Alcohol polivinílico, Dióxido de titanio, Polietilenglicol 3350, Talco y Colorante
+FD&C amarillo No6.
+3.2 FARMACOLOGÍA CLÍNICA
+3.2.1 Mecanismo de acción
+Ledipasvir es un inhibidor del VHC que actúa sobre la proteína NS5A de dicho virus, que es esencial tanto para la replicación del ARN, como para el ensamblaje de los viriones del VHC. La confirmación bioquímica de la inhibición de NS5A por parte de ledipasvir no es posible en la actualidad, ya que NS5A carece de función enzimática. Los ensayos in vitro de selección de resistencias y resistencia cruzada indican que el efecto de ledipasvir sobre la NS5A es su modo de acción. Sofosbuvir es un inhibidor pangenotípico de la polimerasa de ARN dependiente del ARN NS5B del VHC, que es esencial para la replicación viral. Sofosbuvir es un profármaco nucleotídico que sufre metabolismo intracelular para formar  el  trifosfato  análogo  de  la  uridina  farmacológicamente  activo
+(GS-461203), que puede ser incorporado al ARN del VHC por la polimerasa NS5B y actúa como terminador de cadena. GS-461203 (el metabolito activo de sofosbuvir) no es un inhibidor de las polimerasas de ADN y ARN humanas ni un inhibidor de la polimerasa de ARN mitocondrial.
+3.2.2  Farmacocinética
+Absorción
+Tras  la  administración  oral  de  ledipasvir/sofosbuvir  a  pacientes  infectados por el VHC, la mediana de las concentraciones plasmáticas máximas de  ledipasvir  se  observó  a  las  4,0  horas  después  de  la  administración.
+Sofosbuvir se absorbió rápidamente y la mediana de las concentraciones plasmáticas máximas se observó aproximadamente 1 hora después de la administración.  La  mediana  de  la  concentración  plasmática  máxima  de GS-331007 se observó a las 4 horas después de la administración. Según los análisis farmacocinéticos poblacionales en pacientes infectados por el
+
+VHC, las medias geométricas del AUC0-24 de ledipasvir (n = 2.113), sofosbuvir (n = 1.542) y GS-331007 (n = 2.113) en situación de equilibrio fueron de 7.290, 1.320 y 12.000 ng•h/ml, respectivamente. Las Cmáx de ledipasvir, sofosbuvir y GS-331007 en situación de equilibrio fueron de 323, 618 y 707 ng/ml, respectivamente. El AUC0-24 y la Cmáx de sofosbuvir y GS-331007 fueron similares en los sujetos adultos sanos y en los pacientes con infección por el VHC. En comparación con los sujetos sanos (n = 191), el AUC0-24 y la Cmáx de ledipasvir fueron un 24% y un 32% más bajas, respectivamente, en los pacientes infectados por el VHC. El AUC de ledipasvir es proporcional a la dosis a lo largo del intervalo posológico comprendido entre 3 y 100 mg. Las AUC de sofosbuvir y GS-331007 son casi proporcionales a la dosis a lo largo del intervalo posológico comprendido entre 200 mg y 400 mg.
+Efectos de los alimentos
+En comparación con las condiciones de ayuno, la administración de una dosis única de ledipasvir/sofosbuvir con una comida de contenido graso moderado o alto aumentó el AUC0-inf de sofosbuvir aproximadamente en 2 veces, pero no afectó significativamente a la Cmáx de sofosbuvir. Las exposiciones a GS-331007 y ledipasvir no se alteraron como consecuencia de ninguno de los tipos de comida. HARVONI® se puede administrar sin tener en cuenta la ingesta de alimentos.
+Distribución
+Ledipasvir se une a las proteínas plasmáticas humanas en >99,8%. Tras una dosis única de 90 mg de [14C]-ledipasvir en sujetos sanos, el cociente sangre/plasma de radioactividad [14C] osciló entre 0,51 y 0,66. Sofosbuvir se une a las proteínas plasmáticas humanas en aproximadamente un 61-65% y la unión es independiente de la concentración del fármaco a lo largo del intervalo comprendido entre 1 μg/ml y 20 μg/ml. La unión de GS-331007 a proteínas fue mínima en el plasma humano. Tras una dosis única de 400 mg de [14C]-sofosbuvir en sujetos sanos, el cociente sangre/plasma de radioactividad [14C] fue de aproximadamente 0,7.
+Biotransformación
+In vitro, no se observó un metabolismo detectable de ledipasvir por parte de las enzimas CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6 y CYP3A4 humanas. Se han observado datos indicativos de un metabolismo oxidativo lento a través de un mecanismo desconocido. Tras una dosis única de 90 mg de [14C]-ledipasvir, la exposición sistémica se debió casi exclusivamente al fármaco parental (>98%). El ledipasvir inalterado también es  la  principal  forma  presente  en  las  heces.  Sofosbuvir  se  metaboliza ampliamente en el hígado para formar el trifosfato análogo del nucleósido farmacológicamente activo GS-461203. No se observa el metabolito activo. La vía de activación metabólica engloba una hidrólisis secuencial del resto de carboxiléster catalizado por la catepsina A humana o la carboxilesterasa 1 y una escisión del fosforamidato por parte de la proteína fijadora de nucleótidos de la tríada de la histidina 1 seguida de una fosforilación a través de la vía de biosíntesis de nucleótidos de pirimidina. La desfosforilación da lugar a la formación del metabolito nucleosídico GS331007, que no se puede refosforilar eficazmente y carece de actividad contra el VHC in vitro. En ledipasvir/sofosbuvir, GS-331007 representa aproximadamente el 85% de la exposición sistémica total.
+Eliminación
+Tras una dosis única por vía oral de 90 mg de [14C]-ledipasvir, la recuperación total media de la radioactividad [14C] en las heces y en la orina fue del 87%, con la mayoría de la dosis radioactiva recuperada en las heces
+(el 86%). El ledipasvir inalterado excretado con las heces representó una media del 70% de la dosis administrada y el metabolito oxidativo M19 representó un 2,2% de la dosis. Estos datos sugieren que la excreción biliar de ledipasvir inalterado es una vía de eliminación principal y que la excreción renal es una vía de escasa importancia (aproximadamente un 1%). La mediana de la semivida terminal de ledipasvir en voluntarios sanos tras la administración de ledipasvir/sofosbuvir en ayunas fue de 47 horas. Tras una dosis única por vía oral de 400 mg de [14C]-sofosbuvir, la recuperación total media de la dosis fue superior al 92%, con una recuperación de aproximadamente el 80%, el 14% y el 2,5% en orina, heces y aire espirado, respectivamente. La mayor parte de la dosis de sofosbuvir recuperada en la orina fue GS-331007 (78%), mientras que el 3,5% se recuperó en forma de sofosbuvir. Estos datos indican que la depuración renal es la principal vía de eliminación de GS-331007, con una gran parte secretada activamente.
+
+La mediana de la semivida terminal de sofosbuvir y de GS-331007 tras la administración de ledipasvir/sofosbuvir fue de 0,5 y 27 horas, respectivamente. Ni ledipasvir ni sofosbuvir son sustratos de los transportadores de captación hepática, transportador de cationes orgánicos (TCO) 1, polipéptido transportador de aniones orgánicos (PTAO) 1B1 o PTAO1B3.
+GS-331007 no es un sustrato de los transportadores renales, incluidos el transportador de aniones orgánicos (TAO) 1, TAO3 o TCO2.
+Potencial  de  ledipasvir/sofosbuvir  in  vitro  para  afectar  a  otros medicamentos En las concentraciones alcanzadas en la práctica clínica, ledipasvir no es un inhibidor de los transportadores hepáticos, incluidos el PTAO1B1 o PTAO1B3, BSEP, OCT1, OCT2, TAO1, TAO3, transportador de extrusión de  múltiples  fármacos  y  compuestos  tóxicos  (EMFCT)  1,  proteína  de resistencia a múltiples fármacos (PRMF) 2 o PRMF4. Sofosbuvir y GS331007  no  son  inhibidores  de  los  transportadores  de  fármacos  glucoproteína P y la proteína de resistencia del cáncer de mama (PRCM),
+PRMF2, BESB, PTAO1B1, PTAO1B3 y TCO1 y GS-331007 no es un inhibidor de TAO1, TCO2 y EMFCT1. Sofosbuvir y GS-331007 no son inhibidores ni inductores de las enzimas del CYP ni de la uridina difosfato
+glucuronosiltransferasa (UGT) 1A1.
+Farmacocinética en poblaciones especiales
+Raza  y  sexo.  No  se  han  identificado  diferencias  farmacocinéticas  clínicamente  relevantes  debidas  a  la  raza  para  ledipasvir,  sofosbuvir  o GS-331007. No se han identificado diferencias farmacocinéticas clínicamente relevantes debidas al sexo para sofosbuvir o GS-331007. El AUC y la Cmáx de ledipasvir fueron un 77% y un 58% más altas, respectivamente, en las mujeres que en los hombres; no obstante, la relación entre sexo y exposición a ledipasvir no se consideró clínicamente relevante.
+Personas  de  edad  avanzada.  Los  análisis  farmacocinéticos  poblacionales  en  pacientes  infectados  por  el  VHC  mostraron  que  dentro  del intervalo de edad estudiado (18 a 80 años), la edad no tuvo un efecto clínicamente relevante sobre la exposición a ledipasvir, sofosbuvir o a
+GS-331007. Los ensayos clínicos con ledipasvir/sofosbuvir incluyeron a 235 pacientes de edad igual o superior a 65 años (el 8,6% del número total de pacientes).
+Insuficiencia renal. En la Tabla 1 se muestra un resumen del efecto de diferentes grados de insuficiencia renal (IR) sobre las exposiciones a los componentes de HARVONI® comparado con sujetos con función renal normal, como se describe en el texto a continuación. Ver Tabla 1.
+
+na eficazmente mediante hemodiálisis, con un coeficiente de extracción de aproximadamente el 53%. Tras una dosis única de 400 mg de sofosbuvir, una hemodiálisis de 4 horas eliminó el 18% de la dosis de sofosbuvir administrada.  En  pacientes  infectados  con  VHC  con  insuficiencia  renal grave tratados con ledipasvir/sofosbuvir durante 12 semanas (n = 18), la farmacocinética de ledipasvir, sofosbuvir y GS-331007 fue consistente con la observada en pacientes negativos para VHC con insuficiencia renal grave. Se estudió la farmacocinética de ledipasvir, sofosbuvir y GS331007 en pacientes infectados por el VHC con NT que requerían diálisis tratados con ledipasvir/sofosbuvir (n = 94) durante 8, 12 o 24 semanas, y se comparó con pacientes sin insuficiencia renal en los ensayos de fase
+2/3 de ledipasvir/sofosbuvir.
+Insuficiencia  hepática.  La  farmacocinética  de  ledipasvir  se  estudió  con una dosis única de 90 mg de ledipasvir en pacientes negativos para el VHC  con  insuficiencia  hepática  grave  (clase  C  de  Child-Pugh-Turcotte
+[CPT]). La exposición plasmática (AUCinf) a ledipasvir fue similar en los pacientes con insuficiencia hepática grave y en los pacientes con función hepática normal que actuaron como controles. Los análisis farmacocinéticos poblacionales en pacientes infectados por el VHC indicaron que la cirrosis
+(incluida la cirrosis descompensada) no tenía un efecto clínicamente relevante sobre la exposición a ledipasvir. La farmacocinética de sofosbuvir se estudió tras la administración de 400 mg del medicamento durante 7 días en pacientes infectados por el VHC con insuficiencia hepática moderada y grave (clases B y C de CPT). En comparación con los pacientes con función hepática normal, el AUC0-24 de sofosbuvir fue un 126% y un 143% más alta en los pacientes con insuficiencia hepática moderada y grave, mientras que el AUC0-24 de GS-331007 fue un 18% y un 9% más alta, respectivamente. Los análisis farmacocinéticos poblacionales en pacientes infectados por el VHC indicaron que la cirrosis (incluida la cirrosis descompensada) no tenía un efecto clínicamente relevante sobre la exposición a sofosbuvir y a GS-331007.
+Peso corporal.  El peso corporal no tuvo un efecto significativo sobre la exposición a sofosbuvir según un análisis farmacocinético poblacional. La exposición a ledipasvir disminuye con el aumento del peso corporal pero el efecto no se considera clínicamente relevante.
+Población  pediátrica.  Las  exposiciones  a  ledipasvir,  sofosbuvir  y  GS331007 en adolescentes de 12 a <18 años de edad fueron similares a las de los adultos participantes en los estudios de fases 2/3 tras la administración de ledipasvir/sofosbuvir (90 mg/400 mg). No se ha establecido la
+
+Tabla 1. Efecto de diferentes grados de insuficiencia renal sobre las exposiciones (AUC) a sofosbuvir, GS-331007 y ledipasvir comparado con sujetos con función renal normal
+
+Sujetos negativos para el VHC
+
+Sujetos infectados por el VHC
+
+IR leve
+(TFGe ≥50 y <80 ml/min/
+1,73 m2)
+
+IR moderada
+(TFGe ≥30 y <50 ml/min/
+1,73 m2)
+
+IR grave
+(TFGe <30 ml/min/
+1,73 m2)
+
+Sofosbuvir
+GS-331007
+Ledipasvir
+
+1,6 veces ↑
+1,6 veces ↑
+–
+
+2,1 veces ↑
+1,9 veces ↑
+–
+
+2,7 veces ↑
+5,5 veces ↑
+↔
+
+↔ Indica que no hay cambios clínicamente relevantes en la exposición a ledipasvir.
+
+NT que precisa diálisis
+
+Administrado
+1 h antes de la diálisis
+1,3 veces ↑
+≥10 veces ↑
+–
+
+Administrado
+1 h después de la diálisis
+1,6 veces ↑
+≥20 veces ↑
+–
+
+IR grave
+(TFGe <30 ml/min/
+1,73 m2)
+
+NT que precisa diálisis
+
+~2 veces ↑
+~6 veces ↑
+–
+
+1,9 veces ↑
+23 veces ↑
+1,6 veces ↑
+
+La farmacocinética de ledipasvir se estudió con una dosis única de 90 mg del medicamento en pacientes negativos para el VHC con insuficiencia renal  grave  (TFGe  <30  ml/min  por  Cockcroft-Gault,  mediana  [intervalo]  del  ClCr  22  [17-29]  ml/min).  La  farmacocinética  de  sofosbuvir se estudió en pacientes negativos para el VHC con insuficiencia renal leve (TFGe ≥50 y <80 ml/min/1,73m2), moderada (TFGe ≥30 y <50 ml/min/1,73m2)  y  grave  (TFGe  <30  ml/min/1,73  m2)  y  en  pacientes con nefropatía terminal (NT) que precisan hemodiálisis tras una dosis única de 400 mg de sofosbuvir. En comparación con los pacientes con función renal normal (TFGe >80 ml/min/1,73 m2), GS-331007 se elimifarmacocinética de ledipasvir, sofosbuvir y de GS-331007 en los pacientes pediátricos menores de 12 años (ver sección 4).
+3.2.3  Microbiología
+Actividad antiviral. Los valores de CE50 de ledipasvir y sofosbuvir frente a replicones de longitud completa o quiméricos capaces de codificar secuencias de la NS5A y NS5B a partir de aislamientos clínicos se detallan en la Tabla 2. La presencia de suero humano al 40% no tuvo efectos sobre la actividad de sofosbuvir contra el VHC pero redujo 12 veces la actividad de ledipasvir contra el VHC frente a los replicones del VHC de genotipo 1a. Ver Tabla 2.
+
+Tabla 2. Actividad de ledipasvir y sofosbuvir frente a replicones quiméricos
+
+Genotipo de los replicones
+
+Actividad de ledipasvir (CE50, nM)
+
+Actividad de sofosbuvir (CE50, nM)
+
+Replicones estables
+
+Replicones transitorios con NS5A mediana (intervalo)a
+
+Replicones estables
+
+Replicones transitorios con NS5B mediana (intervalo)a
+
+Genotipo 1a
+Genotipo 1b
+Genotipo 2a
+Genotipo 2b
+Genotipo 3a
+Genotipo 4a
+Genotipo 4d
+Genotipo 5a
+Genotipo 6a
+Genotipo 6e a. Replicones transitorios portadores de NS5A o NS5B de aislamiento de pacientes.
+b. Los replicones quiméricos portadores de genes NS5A de los genotipos 2b, 5a, 6a y 6e
+
+0,018 (0,009-0,085)
+0,006 (0,004-0,007)
+–
+–
+–
+–
+–
+–
+–
+–
+
+0,031
+0,004
+21-249
+16-530b
+168
+0,39
+0,60
+0,15b
+1,1b
+264b
+
+40
+110
+50
+15b
+50
+40
+-
+15b
+14b
+-
+
+62 (29-128)
+102 (45-170)
+29 (14-81)
+-
+81 (24-181)
+-
+-
+-
+-
+- se utilizaron para analizar el ledipasvir mientras que los replicones quiméricos portadores de genes NS5B de los genotipos 2b, 5a o 6a se utilizaron para analizar el sofosbuvir.
+
+Resistencia
+En cultivos celulares. Se han seleccionado replicones del VHC con sensibilidad reducida a ledipasvir en cultivos celulares para los genotipos
+1a y 1b. La sensibilidad reducida a ledipasvir se asoció con la sustitución primaria de la NS5A Y93H en ambos genotipos, 1a y 1b. Además, apareció una sustitución Q30E en los replicones de genotipo 1a. La mutagénesis dirigida al sitio de las VAR de la NS5A mostró que las sustituciones que confieren una magnitud del cambio >100 y ≤1.000 de la sensibilidad a ledipasvir son Q30H/R, L31I/M/V, P32L e Y93T en el genotipo 1a y P58D y Y93S en el genotipo 1b; y las sustituciones que confieren una magnitud del cambio >1.000 son M28A/G, Q30E/G/K,
+H58D, Y93C/H/N/S en el genotipo 1a y A92K e Y93H en el genotipo 1b. Se han seleccionado replicones del VHC con sensibilidad reducida a sofosbuvir en cultivos celulares para múltiples genotipos, entre ellos 1b, 2a, 2b, 3a, 4a, 5a y 6a. La sensibilidad reducida a sofosbuvir se asoció con la sustitución primaria de la NS5B S282T en todos los genotipos  de  replicón  estudiados.  La  mutagénesis  dirigida  al  sitio de  la  sustitución  S282T  en  los  replicones  de  8  genotipos  redujo  la sensibilidad a sofosbuvir de 2 a 18 veces y disminuyó la capacidad de replicación viral en un 89% a 99% en comparación con el tipo salvaje correspondiente.
+En  ensayos  clínicos  –  Adultos-genotipo  1.  En  un  análisis  combinado de pacientes que en los ensayos de fase 3 (ION-3, ION-1 e ION-2) recibieron ledipasvir/sofosbuvir, 37 (29 con genotipo 1a y 8 con genotipo
+1b) reunían los requisitos necesarios para los análisis de resistencia debido a que presentaron fracaso virológico o interrupción precoz del fármaco del ensayo y un ARN del VHC >1.000 UI/ml. Se disponía de datos de secuenciación profunda (punto de corte de la prueba: 1%) de la NS5A y la NS5B posteriores a la situación basal para 37/37 y 36/37 pacientes, respectivamente. Se observaron variantes asociadas a resistencia (VAR) de la NS5A en aislamientos posteriores a la situación basal de 29/37 pacientes (22/29 de genotipo 1a y 7/8 de genotipo 1b)
+que no alcanzaron una respuesta virológica sostenida (RVS). De los 29 pacientes con genotipo 1a que reunían los requisitos para los análisis de resistencia, 22/29 (76%) pacientes albergaban una o más VAR de la NS5A en las posiciones K24, M28, Q30, L31, S38 e Y93 en el momento del fracaso, mientras que en los 7/29 pacientes restantes no se detectaron VAR de la NS5A en el momento del fracaso.
+Las  variantes  más  frecuentes  fueron  Q30R,  Y93H  y  L31M.  De  los  8 pacientes con genotipo 1b que reunían los requisitos para los análisis de resistencia, 7/8 (88%) albergaban una o más VAR de la NS5A en las posiciones  L31  e  Y93  en  el  momento  del  fracaso,  mientras  que  1/8 pacientes carecía de VAR de la NS5A en el momento del fracaso. La variante más frecuente fue Y93H. Entre los 8 pacientes que carecían de VAR de la NS5A en el momento del fracaso, 7 recibieron 8 semanas de tratamiento (n = 3 con ledipasvir/sofosbuvir; n = 4 con ledipasvir/ sofosbuvir + ribavirina) y 1 paciente recibió ledipasvir/sofosbuvir durante 12 semanas.
+En los análisis fenotípicos, los aislamientos posteriores a la situación basal de los pacientes que albergaban VAR de la NS5A en el momento  del  fracaso  mostraron  una  sensibilidad  reducida  de  20  al  menos 243 veces (la dosis más alta analizada) a ledipasvir. La mutagénesis dirigida al sitio de la sustitución Y93H en ambos genotipos, 1a y 1b, y las sustituciones Q30R y L31M en el genotipo 1a redujeron en gran medida la sensibilidad a ledipasvir (magnitud del cambio en la CE50 que oscilaba entre 544 y 1.677 veces).
+Entre  los  pacientes  con  hepatopatía  compensada  después  del  trasplante o los pacientes con hepatopatía descompensada antes o después del trasplante (ensayos SOLAR-1 y SOLAR-2), la recaída se asoció con la detección de uno o más de los siguientes VAR de la NS5A: K24R,
+M28T, Q30R/H/K, L31V, H58D e Y93H/C en 12/14 pacientes de genotipo 1a, y L31M, Y93H/N en 6/6 pacientes de genotipo 1b. La sustitución E237G de la NS5B se detectó en 3 pacientes (1 de genotipo 1b y 2 de genotipo 1a) en los ensayos de fase 3 (ION-3, ION-1 e ION-2) y en 3 pacientes con infección por el genotipo 1a en los ensayos SOLAR-1 y SOLAR-2 en el momento de la recaída. La sustitución E237G mostró una reducción de 1,3 veces en la sensibilidad al sofosbuvir en el ensayo de replicones de genotipo 1a. La trascendencia clínica de esta sustitución se desconoce actualmente. La sustitución S282T de la NS5B asociada con resistencia a sofosbuvir no se detectó en ningún aislamiento de fracaso virológico de los ensayos de fase 3. Sin embargo, la sustitución
+S282T de la NS5B, en combinación con las sustituciones de la NS5A L31M,  Y93H  y  Q30L,  se  detectó  en  un  paciente  en  el  momento  del fracaso tras 8 semanas de tratamiento con ledipasvir/sofosbuvir en un ensayo de fase 2 (LONESTAR). Este paciente se volvió a tratar posteriormente con ledipasvir/sofosbuvir + ribavirina durante 24 semanas y alcanzó una RVS tras dicha repetición del tratamiento. En el ensayo
+SIRIUS  (ver  Eficacia  clínica  y  seguridad  más  abajo),  5  pacientes  con infección por el genotipo 1 recayeron después del tratamiento con ledipasvir/sofosbuvir con o sin ribavirina. Se observaron VAR de la NS5A en la recaída en 5/5 pacientes (para el genotipo 1a: Q30R/H + L31M/V
+[n = 1] y Q30R [n = 1]; para el genotipo 1b: Y93H [n = 3]).
+En ensayos clínicos – Adultos-genotipo 2, 3, 4, 5 y 6 VAR de la NS5A: Ninguno de los pacientes infectados por el genotipo 2 experimentaron recaída en el ensayo clínico, por lo que no se dispone
+
+de datos relativos a las VAR de la NS5A en el momento del fracaso. En los pacientes infectados por el genotipo 3 que experimentaron fracaso virológico, no se detectó de forma típica el desarrollo de VAR de la NS5A
+(incluido el incremento de las VAR presentes en la situación basal) en el momento del fracaso (n = 17). En cuanto a la infección por el genotipo
+4, 5 y 6, solo se ha evaluado un número escaso de pacientes (un total de 5 pacientes con fracaso). La sustitución Y93C de la NS5A apareció en el VHC de 1 paciente (genotipo 4), mientras que las VAR de la NS5A presentes en la situación basal se observaron en el momento del fracaso en todos los pacientes. En el ensayo SOLAR-2, un paciente con genotipo
+4d presentó sustitución E237G de la NS5B en el momento de la recaída.
+La trascendencia clínica de esta sustitución se desconoce actualmente.
+VAR de la NS5B: La sustitución S282T de la NS5B apareció en el VHC de 1/17 fracasos en el genotipo 3 y en el VHC de 1/3, 1/1 y 1/1 fracasos en el genotipo 4, 5 y 6, respectivamente.
+
+Efecto de las variantes basales del VHC asociadas con resistencia sobre el resultado del tratamiento
+Adultos-Genotipo  1.  Se  realizaron  análisis  para  investigar  la  asociación entre las VAR de la NS5A basales preexistentes y el resultado del tratamiento. En el análisis combinado de los ensayos de fase 3, un 16% de los pacientes presentaba VAR de la NS5A basales identificadas mediante  secuenciación  poblacional  o  profunda,  independientemente del subtipo. Las VAR de la NS5A basales estaban sobrerrepresentadas en pacientes que experimentaron recaída en los ensayos de fase 3 (ver
+Eficacia clínica y seguridad). Tras 12 semanas de tratamiento con ledipasvir/sofosbuvir (sin ribavirina) en pacientes con tratamiento previo (grupo 1 del estudio ION-2) 4/4 pacientes con una VAR de la NS5A basal que confiere una magnitud del cambio en la resistencia a ledipasvir de ≤100 alcanzaron una RVS.
+Para el mismo grupo de tratamientoz, en los pacientes con VAR de la NS5A basal que confieren una magnitud del cambio de >100 se produjo recaída en 4/13 (31%), en comparación con 3/95 (3%) en los que no tenían ninguna VAR basal o con VAR que confieren una magnitud del cambio de ≤100. Tras 12 semanas de tratamiento con ledipasvir/ sofosbuvir con ribavirina en pacientes con tratamiento previo y cirrosis compensada (SIRIUS, n = 77), 8/8 pacientes con VAR de la NS5A basales que confieren una sensibilidad reducida >100 veces al ledipasvir alcanzaron una RVS12.
+Entre  los  pacientes  con  hepatopatía  compensada  después  del  trasplante  (ensayos  SOLAR-1  y  SOLAR-2)  no  se  produjo  recaída  en  los pacientes con VAR de la NS5A basal (n = 23) tras 12 semanas de tratamiento con ledipasvir/sofosbuvir con ribavirina. Entre los pacientes con  hepatopatía  descompensada  (antes  y  después  del  trasplante), en  4/16  pacientes  (el  25%)  con  VAR  de  la  NS5A  que  confieren  una resistencia  >100  veces  se  produjo  recaída  tras  12  semanas  de  tratamiento  con  ledipasvir/sofosbuvir  con  ribavirina  comparado  con 7/120 (el 6%) en los que no tenían ninguna VAR de la NS5A basal o con VAR que confieren una magnitud del cambio de ≤100. El grupo de VAR de la NS5A que confirió un cambio >100 veces y se observó en los pacientes fueron las siguientes sustituciones en el genotipo 1a
+(M28A, Q30H/R/E, L31M/V/I, H58D, Y93H/N/C) o en el genotipo 1b (Y93H). La proporción de dichas VAR de la NS5A basales observadas con secuenciación profunda osciló entre muy baja (punto de corte de la prueba = 1%) y alta (parte principal de la población del plasma). La sustitución asociada con resistencia a sofosbuvir S282T no se detectó en la secuencia basal de la NS5B de ningún paciente de los ensayos de fase
+3 mediante secuenciación poblacional o profunda. Se alcanzó una RVS en los 24 pacientes (n = 20 con L159F + C316N; n = 1 con L159F; y n = 3 con N142T) que presentaban variantes basales asociadas con resistencia a los inhibidores nucleosídicos de NS5B.
+Adultos-Genotipo 2, 3, 4, 5 y 6. Debido al limitado tamaño de los ensayos, no se ha evaluado completamente la repercusión de las VAR de la NS5A basales sobre el resultado del tratamiento en los pacientes con HCC de genotipo 2, 3, 4, 5 o 6. No se observaron diferencias importantes en los resultados en función de la presencia o ausencia de VAR de la NS5A basales.
+Resistencia cruzada. Ledipasvir fue totalmente activo frente a la sustitución asociada con resistencia a sofosbuvir S282T de la NS5B, mientras que todas las sustituciones asociadas con resistencia a ledipasvir de la NS5A fueron totalmente sensibles a sofosbuvir. Tanto sofosbuvir como ledipasvir fueron totalmente activos frente a las sustituciones asociadas con resistencia a otras clases de antivirales de acción directa con diferentes mecanismos de acción, como los inhibidores no nucleósidos de la NS5B y los inhibidores de la proteasa NS3. Las sustituciones de la NS5A que confieren resistencia a ledipasvir pueden reducir la actividad antiviral de otros inhibidores de NS5A.
+
+4.POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+El tratamiento con HARVONI® debe ser iniciado y controlado por un médico con experiencia en el tratamiento de los pacientes con HCC.
+Posología
+Adultos y adolescentes entre 12 y 18 años de edad. La dosis recomendada de HARVONI® es de un comprimido una vez al día, acompañado o no de alimentos (ver sección 3.2.2).
+
+Tratamiento y duración
+
+Tabla 3. Duración recomendada del tratamiento para HARVONI® y uso recomendado de ribavirina administrada de forma concomitante para ciertos subgrupos
+Población de pacientes
+(incluidos los pacientes coinfectados por el VIH)
+Pacientes adultos y adolescentes de 12 años de edad o mayores con HCC de genotipo 1, 4, 5 o 6 Pacientes sin cirrosis HARVONI® durante 12 semanas.
+
+Se puede contemplar la administración de HARVONI® durante 8 semanas en los pacientes infectados por el genotipo 1 sin tratamiento previo
+(ver sección 8, estudio ION-3).
+HARVONI® + ribavirinaa durante 12 semanas o HARVONI® (sin ribavirina) durante 24 semanas.
+Se puede contemplar la administración de HARVONI® (sin ribavirina) durante 12 semanas en los pacientes considerados de bajo riesgo de progresión de  la  enfermedad  clínica  y  que  tienen  opciones  de repetición posterior del tratamiento (ver sección 7.1).
+HARVONI® + ribavirinaa durante 12 semanas
+(ver sección 8).
+Se puede contemplar la administración de HARVONI® (sin ribavirina) durante 12 semanas (en pacientes sin cirrosis) o 24 semanas (en pacientes con cirrosis) en los pacientes no elegibles o intolerantes al tratamiento con ribavirina.
+HARVONI® + ribavirinab durante 12 semanas
+(ver sección 8)
+Se puede contemplar la administración de HARVONI® (sin ribavirina) durante 24 semanas en los pacientes no elegibles o intolerantes al tratamiento con ribavirina.
+
+Pacientes  con  cirrosis compensada
+
+Pacientes post trasplante sin cirrosis o con cirrosis compensada
+
+Pacientes con cirrosis descompensada, independientemente del estado de trasplante
+
+Pacientes adultos y adolescentes de 12 años de edad o mayores con HCC de genotipo 3
+Pacientes con cirrosis compensada y/o fracaso del tratamiento anterior
+
+HARVONI® + ribavirinaa durante 24 semanas (ver secciones 7.1 y 8).
+
+a. Adultos: la ribavirina se administra en función del peso (<75 kg = 1.000 mg y ≥75 kg = 1.200 mg) por vía oral y en dos dosis divididas acompañadas de alimentos. Adolescentes: la posología recomendada para la ribavirina figura en la tabla 5.
+b. La posología recomendada para la ribavirina en los pacientes con cirrosis descompensada figura en la tabla 4.
+Tabla 4. Directrices para la posología de ribavirina cuando se administra con HARVONI® a los pacientes con cirrosis descompensada
+
+Paciente
+
+Dosis de ribavirina*
+
+Cirrosis de clase B de
+Child-Pugh-Turcotte
+(CPT) antes del trasplante
+
+Cirrosis de clase C de CPT antes del trasplante
+Cirrosis de clase B o C de CPT después del trasplante
+
+1.000 mg al día para pacientes que pesen <75 kg y 1.200 mg para aquellos que pesen ≥75 kg
+
+Dosis inicial de 600 mg que se puede ajustar hasta un máximo de 1.000/1.200 mg (1.000 mg para pacientes que pesen <75 kg y 1.200 mg para pacientes que pesen ≥75 kg) si se tolera bien. Si la dosis inicial no se tolera bien, la dosis se debe reducir del modo clínicamente indicado basándose en los niveles de hemoglobina
+
+* Si no se puede alcanzar una dosis más normalizada de ribavirina (por peso y función renal) por razones de tolerabilidad, se deben contemplar la administración de HARVONI® con ribavirina durante 24 semanas para minimizar el riesgo de recaída.
+Cuando HARVONI® se utilice en combinación con ribavirina, consulte también  la  Información  de  Prescripción  de  la  ribavirina.  En  pacientes adolescentes de 12 a 18 años de edad se recomienda la siguiente posología para la ribavirina cuando se divida en dos dosis diarias y se administre con alimentos.
+Tabla 5. Directrices para la posología de ribavirina cuando se administra con HARVONI® a adolescentes de 12 a 18 años de edad
+
+Peso corporal en kg
+
+Dosis de ribavirina*
+
+<47
+
+47-49
+
+50-65
+
+66-74
+
+> o = 75
+
+15 mg/kg/día
+
+600 mg/día
+
+800 mg/día
+
+1.000 mg/día
+
+1.200 mg/día
+
+* Ribavirina administrada por vía oral en dos dosis divididas acompañadas de alimentos.
+Modificación de la dosis de ribavirina en adultos que toman 1.000 1.200 mg al día. Si se utiliza HARVONI® en combinación con ribavirina y un paciente presenta una reacción adversa grave potencialmente relacionada con  ribavirina,  la  dosis  de  ribavirina  se  debe  modificar  o  interrumpir, si es pertinente, hasta que la reacción adversa remita o disminuya su
+
+gravedad. En la Tabla 6 se facilitan las directrices de modificación e interrupción de la dosis en función de la concentración de hemoglobina y el estado cardiaco del paciente.
+Tabla 6. Directrices de modificación de la dosis de ribavirina para la administración concomitante con HARVONI® en adultos
+
+Valores analíticos
+
+Reducir la dosis de ribavirina a 600 mg/día si:
+
+Interrumpir el tratamiento con ribavirina si:
+
+<10 g/dl
+
+<8,5 g/dl
+
+<12 g/dl a pesar de 4 semanas de tratamiento con la dosis reducida
+
+Disminución de la hemoglobina
+≥2 g/dl durante cualquier periodo de tratamiento de 4 semanas
+
+Hemoglobina en pacientes sin cardiopatía
+Hemoglobina en pacientes con antecedentes de cardiopatía estable Una  vez  suspendida  ribavirina  a  causa  de  una  anomalía  analítica  o  una manifestación clínica, se puede intentar reanudarla a una dosis de 600 mg al día y posteriormente incrementarla a 800 mg al día. Sin embargo, no se recomienda aumentarla a la dosis originalmente asignada (1.000 mg a
+1.200 mg al día).
+Población pediátrica menores de 12 años de edad. No se ha establecido la seguridad y la eficacia de HARVONI® en niños menores de 12 años.
+No se dispone de datos en pacientes pediátricos menores de 12 años de edad.
+Dosis  omitida.  Se  debe  indicar  a  los  pacientes  que  si  vomitan  en  un plazo de 5 horas desde la administración, deben tomar un comprimido adicional. Si vomitan más de 5 horas después de la administración, no hace falta ninguna dosis adicional (ver sección 8). Si se omite una dosis y no han transcurrido 18 horas desde la hora normal, se debe indicar a los pacientes que tomen el comprimido lo antes posible y después los pacientes deben tomar la siguiente dosis a la hora habitual. Si han transcurrido más de 18 horas, se debe indicar entonces a los pacientes que esperen y tomen la siguiente dosis a la hora habitual. Se debe indicar a los pacientes que no tomen una dosis doble.
+Pacientes de edad avanzada. No es preciso ajustar la dosis en los pacientes de edad avanzada (ver sección 3.2.2).
+Insuficiencia renal. No es necesario ajustar la dosis de HARVONI® en los pacientes con insuficiencia renal leve o moderada. Se dispone de datos muy limitados sobre la seguridad de ledipasvir/sofosbuvir en los pacientes con insuficiencia renal grave (tasa de filtración glomerular estimada
+[TFGe] <30 ml/min/1,73 m2), (ver las secciones 3.2.2 y 8). No se ha evaluado la seguridad en pacientes con nefropatía terminal (NT) que precisa diálisis (ver la sección 8). El tratamiento con ledipasvir/sofosbuvir se debe considerar en pacientes con insuficiencia renal grave o NT solo cuando no se puedan utilizar tratamientos alternativos, recomendados para estos pacientes (ver sección 7).
+Insuficiencia hepática. No es necesario ajustar la dosis de HARVONI® en los pacientes con insuficiencia hepática leve, moderada o grave (clases
+A, B o C de CPT, ver sección 3.2.2). Se ha establecido la seguridad y eficacia de ledipasvir/sofosbuvir en los pacientes con cirrosis descompensada (ver sección 8).
+Población pediátrica. No se ha establecido la seguridad y la eficacia de HARVONI® en niños menores de 12 años. No se dispone de datos en pacientes pediátricos menores de 12 años de edad.
+Forma de administración
+Por vía oral. Se debe indicar a los pacientes que traguen el comprimido entero, acompañado o no de alimentos. Debido a su sabor amargo, se recomienda  no  masticar  ni  machacar  el  comprimido  recubierto  (ver sección 3.2.2).
+5. FORMAS FARMACÉUTICAS Y CONCENTRACIONES Comprimido  recubierto  con  película  de  color  anaranjado  y  forma  de rombo, con “GSI” grabado por un lado y “7985” por el otro. Cada comprimido recubierto contiene 90 mg de ledipasvir y 400 mg de sofosbuvir.
+6. CONTRAINDICACIONES
+Hipersensibilidad a los principios activos o a alguno de los excipientes.
+La administración concomitante con rosuvastatina (ver sección 7.2).
+Uso con inductores potentes de la glucoproteína P Medicamentos que son inductores potentes de la glucoproteína P en el intestino (carbamacepina, fenofarbital, fenitoína, rifampicina, rifabutina  y  hierba  de  San  Juan  [Hypericum  perforatum]).  La  administración concomitante reducirá significativamente las concentraciones plasmáticas de ledipasvir y sofosbuvir y puede provocar la disminución de la eficacia de HARVONI® (ver sección 7.2).
+7. ADVERTENCIAS Y PRECAUCIONES
+7.1 GENERALES
+HARVONI®  no  se  debe  administrar  de  forma  concomitante  con  otros medicamentos que contengan sofosbuvir.
+Actividad específica según genotipo
+En cuanto a las pautas recomendadas con diferentes genotipos del VHC, ver sección 4. En cuanto a la actividad virológica y clínica específica según genotipo, ver sección 8. Los datos clínicos para respaldar el uso de HARVONI® en adultos infectados por el VHC de genotipo 3 son limitados (ver sección
+8). No se ha investigado la eficacia relativa de una pauta de 12 semanas consistente en ledipasvir/sofosbuvir + ribavirina, comparada con una pauta de 24 semanas de sofosbuvir + ribavirina. Se recomienda un tratamiento conservador de 24 semanas en todos los pacientes de genotipo 3 con tratamiento previo y en los pacientes de genotipo 3 sin ningún tratamiento previo y con cirrosis (ver sección 4). En la infección por el genotipo 3, solo se debe contemplar el uso de HARVONI® (siempre en combinación con ribavirina) en los pacientes considerados de alto riesgo de progresión clínica de la enfermedad y cuando no existan opciones terapéuticas alternativas. Los datos clínicos para respaldar el uso de HARVONI® en adultos infectados por el VHC de genotipo 2 y 6 son limitados (ver sección 8).
+Bradicardia severa y bloqueo cardiaco
+Se han observado casos de bradicardia severa y bloqueo cardiaco cuando
+HARVONI® se utiliza con amiodarona, con o sin otros fármacos para disminuir  la  frecuencia  cardiaca.  El  mecanismo  no  está  establecido.  El  uso concomitante de amiodarona fue limitado durante el desarrollo clínico de sofosbuvir. Los casos son potencialmente mortales, por lo que la amiodarona solo se debe administrar a pacientes que toman HARVONI® cuando no se toleren o estén contraindicados otros tratamientos antiarrítmicos. Si el uso concomitante de amiodarona se considera necesario, se recomienda una estrecha vigilancia de los pacientes cuando se inicie la administración de HARVONI®. Los pacientes de alto riesgo de bradiarritmia se deben monitorizar de forma continua durante 48 horas en un entorno clínico adecuado.
+Debido  a  la  prolongada  semivida  de  la  amiodarona,  también  se  deben monitorizar adecuadamente aquellos pacientes que hayan dejado de tomar amiodarona pocos meses antes y vayan a comenzar el tratamiento con HARVONI®. A todos los pacientes que reciben HARVONI® en combinación con amiodarona, con o sin otros fármacos antiarrítmicos, se les debe indicar cuáles son los síntomas de bradicardia y bloqueo cardiaco, e indicarles que acudan urgentemente al médico si experimentan dichos síntomas.
+Uso en pacientes diabéticos
+Los diabéticos pueden experimentar un mejor control de la glucosa, lo que puede resultar en hipoglucemia sintomática, después de iniciar el tratamiento con antivirales de acción directa contra el VHC. Los niveles de  glucosa  de  los  pacientes  diabéticos  que  inician  la  terapia  antiviral de  acción  directa  deben  ser  monitoreados  de  cerca,  particularmente dentro de los primeros 3 meses, y sus medicamentos para la diabetes deben modificarse cuando sea necesario. El médico a cargo del cuidado diabético del paciente debe ser informado cuando se inicia la terapia antiviral de acción directa.
+Co-infección por VHC/VHB (virus de la hepatitis B)
+Se han notificado casos de reactivación del virus de la hepatitis B (VHB), algunos de ellos fatales, durante o después del tratamiento con agentes antivirales de acción directa. La detección del VHB debe realizarse en todos los pacientes antes del inicio del tratamiento. Los pacientes coinfectados por VHB/VHC corren el riesgo de reactivar el VHB y, por lo tanto, deben controlarse y manejarse de acuerdo con las directrices clínicas actuales.
+Tratamiento de pacientes con exposición previa a antivirales de acción directa contra el VHC En  pacientes  en  quienes  ha  fracasado  el  tratamiento  con  ledipasvir/ sofosbuvir se observa en la mayoría de los casos una selección de mutaciones de resistencia en NS5A que reducen sustancialmente la sensibilidad a ledipasvir (ver sección 8). Datos limitados indican que dichas mutaciones de NS5A no revierten durante el seguimiento a largo plazo.
+Actualmente no existen datos para respaldar la eficacia de la repetición del tratamiento en pacientes en quienes ha fracasado el tratamiento con ledipasvir/sofosbuvir con una pauta posterior que contiene un inhibidor de NS5A. De modo similar, actualmente no existen datos para respaldar la eficacia de los inhibidores de la proteasa NS3/4A en pacientes en quienes ha fracasado anteriormente el tratamiento previo que incluía un inhibidor de la proteasa NS3/4A. Dichos pacientes pueden depender por tanto de otras clases de fármacos para la remisión de la infección por VHC. En consecuencia, se debe contemplar un tratamiento más largo en pacientes con opciones inciertas de repetición del tratamiento.
+Insuficiencia renal
+Los datos sobre la seguridad son limitados en los pacientes con insuficiencia  renal  grave  (tasa  de  filtración  glomerular  estimada  [TFGe]
+<30  ml/min/1,73  m2)  y  NT  que  requieren  hemodiálisis.  Cuando  no se dispone de otras opciones de tratamiento apropiadas, HARVONI® se puede administrar en estos pacientes sin realizar un ajuste de la dosis (ver secciones 3.2.1,3.2.2 y 9). Cuando se utilice HARVONI® en combinación con ribavirina, consulte también la Información de Prescripción de ribavirina para los pacientes con aclaramiento de creatinina (ClCr) <50 ml/min
+(ver sección 3.2.2).
+Adultos con cirrosis descompensada y/o que están a la espera de un trasplante hepático o después de un trasplante hepático No se ha investigado la eficacia de ledipasvir/sofosbuvir en pacientes infectados por VHC de genotipo 5 y de genotipo 6 con cirrosis descompensada y/o que están a la espera de un trasplante hepático o después de un trasplante hepático. El tratamiento con HARVONI® se debe orientar en función de la evaluación de los beneficios y riesgos potenciales de cada paciente en concreto.
+Uso con inductores moderados de la glucoproteína P Los medicamentos que son inductores moderados de la glucoproteína P en el intestino (p. ej., oxcarbazepina) pueden reducir las concentraciones plasmáticas de ledipasvir y sofosbuvir, con la consiguiente disminución del efecto terapéutico de HARVONI®. No se recomienda la administración
+
+concomitante de dichos medicamentos con HARVONI® (ver sección 7.2).
+Uso con ciertas pautas antirretrovirales contra el VIH HARVONI® ha mostrado aumentar la exposición a tenofovir, especialmente cuando se emplea conjuntamente con una pauta contra el VIH que  contiene  tenofovir  disoproxil  fumarato  y  un  estimulador  farmacocinético  (ritonavir  o  cobicistat).  No  se  ha  establecido  la  seguridad de  tenofovir  disoproxil  fumarato  en  el  contexto  de  HARVONI®  y  un estimulador farmacocinético. Se deben tener en cuenta los beneficios y riesgos potenciales que se asocian a la administración concomitante de HARVONI® con el comprimido combinado de dosis fija que contiene elvitegravir/cobicistat/emtricitabina/tenofovir  disoproxil  fumarato  o tenofovir disoproxil fumarato administrados conjuntamente con un inhibidor de la proteasa del VIH potenciado (p. ej. atazanavir o darunavir), en especial en pacientes con mayor riesgo de disfunción renal. Los pacientes que reciben HARVONI® de forma concomitante con elvitegravir/ cobicistat/emtricitabina/tenofovir  disoproxil  fumarato  o  con  tenofovir disoproxil  fumarato  y  un  inhibidor  de  la  proteasa  del  VIH  potenciado se deben vigilar en cuanto a reacciones adversas relacionadas con tenofovir. Consultar la Información de Prescripción de tenofovir disoproxil fumarato,  emtricitabina/tenofovir  disoproxil  fumarato  o  elvitegravir/ cobicistat/emtricitabina/tenofovir  disoproxil  fumarato  para  obtener recomendaciones acerca de la monitorización renal.
+Uso con inhibidores de la HMG-CoA reductasa La  administración  concomitante  de  HARVONI®  con  inhibidores  de  la HMG-CoA reductasa (estatinas) puede aumentar significativamente la concentración de la estatina, lo que incrementa el riesgo de miopatía y rabdomiolisis (ver sección 7.2).
+Población pediátrica
+No se recomienda el uso de HARVONI® en pacientes pediátricos menores de 12 años debido a que no se ha establecido la seguridad y eficacia en esta población.
+Excipientes
+HARVONI®  contiene  el  colorante  azo,  laca  de  aluminio  amarillo  anaranjado  FCF  (E110),  que  puede  provocar  reacciones  de  tipo  alérgico.
+HARVONI® contiene lactosa. En consecuencia, los pacientes con problemas hereditarios poco comunes de intolerancia a la galactosa, deficiencia de lactasa de Lapp o mala absorción de glucosa galactosa, no deben tomar este medicamento.
+Efectos sobre la capacidad para conducir y utilizar máquinas La influencia de HARVONI® (administrado solo o en combinación con ribavirina) sobre la capacidad para conducir y utilizar máquinas es nula o insignificante. No obstante, se debe advertir a los pacientes que la fatiga fue más frecuente en los pacientes tratados con ledipasvir/sofosbuvir en comparación con placebo.
+7.2 INTERACCIONES MEDICAMENTOSAS
+Dado que HARVONI® contiene ledipasvir y sofosbuvir, toda interacción que se haya identificado individualmente con estos principios activos se puede producir con HARVONI®.
+Potencial de HARVONI® para afectar a otros medicamentos
+Ledipasvir es un inhibidor in vitro del transportador de fármacos glucoproteína P y de la PRCM y puede aumentar la absorción intestinal de los sustratos de estos transportadores administrados de forma concomitante.
+Potencial de otros medicamentos para afectar a HARVONI® Ledipasvir  y  sofosbuvir  son  sustratos  del  transportador  de  fármacos glucoproteína  P  y  de  PRCM,  mientras  que  GS-331007  no  lo  es.  Los medicamentos que son inductores potentes de la glucoproteína P (carbamazepina,  fenobarbital,  fenitoína,  rifampicina,  rifabutina  y  hierba de  San  Juan)  pueden  reducir  significativamente  las  concentraciones plasmáticas de ledipasvir y sofosbuvir, con la consiguiente disminución del efecto terapéutico de ledipasvir/sofosbuvir, por lo que están contraindicados  con  HARVONI®  (ver  sección  6).  Los  medicamentos  que  son inductores moderados de la glucoproteína P en el intestino (p. ej., oxcarbazepina) pueden reducir las concentraciones plasmáticas de ledipasvir y  sofosbuvir,  con  la  consiguiente  disminución  del  efecto  terapéutico de  HARVONI®.  No  se  recomienda  la  administración  concomitante  de dichos medicamentos con HARVONI® (ver sección 7.1). La administración concomitante con medicamentos que inhiben la glucoproteína P o la PRCM puede aumentar las concentraciones plasmáticas de ledipasvir y  sofosbuvir  sin  incrementar  las  de  GS-331007;  HARVONI®  se  puede administrar  de  forma  concomitante  con  los  inhibidores  de  la  glucoproteína P o de la PRCM. No se prevén interacciones medicamentosas clínicamente significativas con ledipasvir/sofosbuvir mediadas por las enzimas del CYP450 o UGT1A1.
+Pacientes tratados con antagonistas de la vitamina K Dado  que  la  función  hepática  puede  cambiar  durante  el  tratamiento con HARVONI®, se recomienda un estrecho seguimiento de los valores de INR (Razón Internacional Normalizada INR, por sus siglas en inglés).
+Impacto de la terapia con AAD en medicamentos metabolizados por el hígado La farmacocinética de los medicamentos que son metabolizados por el hígado (por ejemplo, agentes inmunosupresores como los inhibidores de la calcineurina) pueden verse afectados por los cambios en la función hepática  durante  la  terapia  con  AAD,  relacionados  con  la  eliminación del VHC.
+Interacciones entre HARVONI® y otros medicamentos
+
+En  la  Tabla  7  se  facilita  una  lista  de  las  interacciones  medicamentosas establecidas o que pueden ser clínicamente significativas (donde el intervalo de confianza [IC] del 90% del cociente de las medias geométricas de mínimos cuadrados estuvo dentro “↔”, se extendió por encima “↑”, o se extendió por debajo “↓” de los límites de equivalencia predeterminados).
+Tabla 7. Interacciones entre HARVONI® y otros medicamentos
+Medicamento por áreas terapéuticas
+
+Recomendación relativa a la administración concomitante con HARVONI®
+
+Efectos sobre las concentraciones del medicamento. Cociente de las medias (intervalo de confianza del 90%)
+para AUC, Cmáx, Cmín
+AGENTES REDUCTORES DEL ÁCIDO
+
+a,b
+
+La solubilidad de ledipasvir disminuye a medida que aumenta el pH. Se prevé que los medicamentos que aumentan el pH gástrico disminuyan la concentración de ledipasvir.
+
+Se recomienda dejar un intervalo de separación de 4 horas entre la administración del antiácido y la de HARVONI®.
+
+Los antagonistas de los receptores H2 se pueden administrar simultáneamente o de forma escalonada con HARVONI® en dosis que no superen unos niveles posológicos comparables a famotidina 40 mg dos veces al día.
+
+Se pueden administrar dosis de inhibidores de la bomba de protones comparables a omeprazol 20 mg simultáneamente con HARVONI®. Los inhibidores de la bomba de protones no se deben tomar antes de HARVONI®.
+
+Antiácidos
+P. ej.: Hidróxido de aluminio o magnesio;
+carbonato de calcio
+
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+↔ Sofosbuvir
+↔ GS-331007
+(Aumento del pH gástrico)
+
+Ledipasvir
+↓ Cmáx 0,80 (0,69, 0,93)
+↔ AUC 0,89 (0,76, 1,06)
+Sofosbuvir
+↑ Cmáx 1,15 (0,88, 1,50)
+↔ AUC 1,11 (1,00, 1,24)
+GS-331007
+↔ Cmáx 1,06 (0,97, 1,14)
+↔ AUC 1,06 (1,02, 1,11)
+(Aumento del pH gástrico)
+
+Ledipasvir
+↓ Cmáx 0,83 (0,69, 1,00)
+↔ AUC 0,98 (0,80, 1,20)
+Sofosbuvir
+↔ Cmáx 1,00 (0,76, 1,32)
+↔ AUC 0,95 (0,82, 1,10)
+GS-331007
+↔ Cmáx 1,13 (1,07, 1,20)
+↔ AUC 1,06 (1,01, 1,12)
+(Aumento del pH gástrico)
+
+Antagonistas de los receptores H2
+Famotidina
+(40 mg en dosis única)/ledipasvir
+(90 mg en dosis única)c/ sofosbuvir
+(400 mg en dosis única)c, d
+Famotidina administrada simultáneamente con
+HARVONI®d
+Cimetidinae
+Nizatidinae
+Ranitidinae
+Famotidina
+(40 mg en dosis única)/ledipasvir
+(90 mg en dosis única)c/sofosbuvir (400 mg en dosis única)c, d
+Famotidina administrada
+12 horas antes de HARVONI®d
+Inhibidores de la bomba de protones
+Omeprazol
+(20 mg una vez al día)/ledipasvir
+(90 mg en dosis única)c/sofosbuvir (400 mg en dosis única)c
+Omeprazol administrado simultáneamente con HARVONI®
+Lansoprazole
+Rabeprazole
+Pantoprazole
+Esomeprazole
+ANTIARRÍTMICOS
+Amiodarona
+
+Ledipasvir
+↓ Cmáx 0,89 (0,61, 1,30)
+↓ AUC 0,96 (0,66, 1,39)
+Sofosbuvir
+↔ Cmáx 1,12 (0,88, 1,42)
+↔ AUC 1,00 (0,80, 1,25)
+GS-331007
+↔ Cmáx 1,14 (1,01, 1,29)
+↔ AUC 1,03 (0,96, 1,12)
+(Aumento del pH gástrico)
+
+Digoxina
+
+Interacción no estudiada Utilizar solo si no hay otra alternativa disponible. Se recomienda una estrecha vigilancia si este medicamento se administra junto con HARVONI®
+(ver secciones 7.1 y 9).
+La administración concomitante de HARVONI® con digoxina puede aumentar la concentración de digoxina. Es preciso obrar con cautela y se recomienda monitorizar las concentraciones terapéuticas de digoxina cuando se administre de forma concomitante con HARVONI®.
+
+Interacción no estudiada
+Prevista:
+↑ Digoxina
+↔ Ledipasvir
+↔ Sofosbuvir
+↔ GS-331007
+(Inhibición de la glucoproteína P)
+
+Se recomienda monitorización clínica, en busca de signos de hemorragia y anemia, cuando se administra de forma concomitante dabigatrán etexilato con HARVONI®. Una prueba de coagulación ayuda a identificar a los pacientes con mayor riesgo de hemorragia debido al aumento de la exposición a dabigatrán.
+Se recomienda un estrecho seguimiento de INR con todos los antagonistas de la vitamina
+K. Esto se debe a que la función hepática cambia durante el tratamiento con HARVONI®.
+
+HARVONI® está contraindicado con, fenobarbital y fenitoína,
+(ver sección 6).
+
+HARVONI® está contraindicado con carbamazepina (ver sección 6).
+
+Se prevé que la administración concomitante de HARVONI® con oxcarbazepina reduzca las concentraciones de ledipasvir y sofosbuvir, con la consiguiente disminución del efecto terapéutico de HARVONI®. No se recomienda dicha administración concomitante (ver sección 7.1).
+
+HARVONI® está contraindicado con rifampicina (ver sección 6).
+
+HARVONI® está contraindicado con rifabutina (ver sección 6).
+
+ANTICOAGULANTES
+Dabigatrán etexilato
+
+Interacción no estudiada
+Prevista:
+↑ Dabigatrán
+↔ Ledipasvir
+↔ Sofosbuvir
+↔ GS-331007
+(Inhibición de la glucoproteína P)
+
+Antagonistas de la vitamina K
+
+Interacción no estudiada
+
+ANTIEPILÉPTICOS
+Fenobarbital
+Fenitoína
+
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+↓ Sofosbuvir
+↔ GS-331007
+(Inducción de la glucoproteína P)
+
+Carbamazepina Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+Observada:
+Sofosbuvir
+↓ Cmáx 0,52 (0,43, 0,62)
+↓ AUC 0,52 (0,46, 0,59)
+Cmín (NA)
+GS-331007
+↔ Cmáx 1,04 (0,97, 1,11)
+↔ AUC 0,99 (0,94, 1,04)
+Cmín (NA)
+(Inducción de glucoproteina P)
+Interacción no estudiada.
+Prevista:
+↓ Ledipasvir
+↓ Sofosbuvir
+↔ GS-331007
+(Inducción de la glucoproteína P)
+
+Oxcarbazepina
+
+ANTIMICOBACTERIANOS
+Rifampicina
+(600 mg una vez al día)/ ledipasvir
+(90 mg en dosis única)d
+
+Interacción no estudiada
+Prevista:
+Rifampicina
+↔ Cmáx
+↔ AUC
+↔ Cmín
+Observada:
+Ledipasvir
+↓ Cmáx 0,65 (0,56, 0,76)
+↓ AUC 0,41 (0,36, 0,48)
+(Inducción de la glucoproteína P)
+Interacción no estudiada.
+Prevista:
+Rifampicina
+↔ Cmáx
+↔ AUC
+↔ Cmín
+Observada:
+Sofosbuvir
+↓ Cmáx 0,23 (0,19, 0,29)
+↓ AUC 0,28 (0,24, 0,32)
+GS-331007
+↔ Cmáx 1,23 (1,14, 1,34)
+↔ AUC 0,95 (0,88, 1,03)
+(Inducción de la glucoproteína P)
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+Observada:
+Sofosbuvir
+↓ Cmáx 0,64 (0,53, 0,77)
+↓ AUC 0,76 (0,63, 0,91)
+Cmín (NA)
+GS-331007
+↔ Cmáx 1,15 (1,03, 1,27)
+↔ AUC 1,03 (0,95, 1,12)
+Cmín (NA)
+(Inducción de la glucoproteina P)
+
+Rifampicina
+(600 mg una vez al día)/ sofosbuvir
+(400 mg en dosis única)d
+
+Rifabutina
+
+Se prevé que la administración concomitante de HARVONI® con rifapentina reduzca las concentraciones de ledipasvir y sofosbuvir, con la consiguiente disminución del efecto terapéutico de HARVONI®. No se recomienda dicha administración concomitante.
+
+No es necesario ajustar la dosis de HARVONI® ni de midazolam.
+
+Rifapentina
+
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+↓ Sofosbuvir
+↔ GS-331007
+(Inducción de la glucoproteína P)
+
+SEDANTES/HIPNÓTICOS
+
+Midazolam
+(2,5 mg en dosis única)/ledipasvir
+(90 mg en dosis única)
+Ledipasvir
+(90 mg una vez al día)
+
+Observada:
+Midazolam
+↔ Cmáx 1,07 (1,00, 1,14)
+↔ AUC 0,99 (0,95, 1,04)
+(Inhibición de CYP3A)
+Midazolam
+↔ Cmáx 0,95 (0,87, 1,04)
+↔ AUC 0,89 (0,84, 0,95)
+(Inducción de CYP3A)
+Prevista:
+↔ Sofosbuvir
+↔ GS-331007
+
+FÁRMACOS ANTIVIRALES CONTRA EL VIH: INHIBIDORES DE LA
+TRANSCRIPTASA INVERSA
+
+No es necesario ajustar la dosis de HARVONI® ni de efavirenz/ emtricitabina/tenofovir disoproxil fumarato.
+
+No es necesario ajustar la dosis de HARVONI® ni de emtricitabina/ rilpivirina/ tenofovir disoproxil fumarato.
+
+No es necesario ajustar la dosis de HARVONI® ni de abacavir/ lamivudina.
+
+Efavirenz/ emtricitabina/ tenofovir disoproxil fumarato
+(600 mg/
+200 mg/
+300 mg/ una vez al día)/ ledipasvir (90 mg una vez al día)c/ sofosbuvir
+(400 mg una vez al día)c,d
+
+Emtricitabina/ rilpivirina/tenofovir disoproxil fumarato
+(200 mg/
+25 mg/ 300 mg una vez al día)/ ledipasvir (90 mg una vez al día)c/ sofosbuvir
+(400 mg una vez al día)c, d
+
+Abacavir/ lamivudina
+(600 mg/
+300 mg una vez al día)/ledipasvir
+(90 mg una vez al día)c/sofosbuvir (400 mg una vez al día)c, d
+
+Efavirenz
+↔ Cmáx 0,87 (0,79, 0,97)
+↔ AUC 0,90 (0,84, 0,96)
+↔ Cmín 0,91 (0,83, 0,99)
+Emtricitabina
+↔ Cmáx 1,08 (0,97, 1,21)
+↔ AUC 1,05 (0,98, 1,11)
+↔ Cmín 1,04 (0,98, 1,11)
+Tenofovir
+↑ Cmáx 1,79 (1,56, 2,04)
+↑ AUC 1,98 (1,77, 2,23)
+↑ Cmín 2,63 (2,32, 2,97)
+Ledipasvir
+↓ Cmáx 0,66 (0,59, 0,75)
+↓ AUC 0,66 (0,59, 0,75)
+↓ Cmín 0,66 (0,57, 0,76)
+Sofosbuvir
+↔ Cmáx 1,03 (0,87, 1,23)
+↔ AUC 0,94 (0,81, 1,10)
+GS-331007
+↔ Cmáx 0,86 (0,76, 0,96)
+↔ AUC 0,90 (0,83, 0,97)
+↔ Cmín 1,07 (1,02, 1,13)
+
+Emtricitabina
+↔ Cmáx 1,02 (0,98, 1,06)
+↔ AUC 1,05 (1,02, 1,08)
+↔ Cmín 1,06 (0,97, 1,15)
+Rilpivirina
+↔ Cmáx 0,97 (0,88, 1,07)
+↔ AUC 1,02 (0,94, 1,11)
+↔ Cmín 1,12 (1,03, 1,21)
+Tenofovir
+↔ Cmáx 1,32 (1,25, 1,39)
+↑ AUC 1,40 (1,31, 1,50)
+↑ Cmín 1,91 (1,74, 2,10)
+Ledipasvir
+↔ Cmáx 1,01 (0,95, 1,07)
+↔ AUC 1,08 (1,02, 1,15)
+↔ Cmín 1,16 (1,08, 1,25)
+Sofosbuvir
+↔ Cmáx 1,05 (0,93, 1,20)
+↔ AUC 1,10 (1,01, 1,21)
+GS-331007
+↔ Cmáx 1,06 (1,01, 1,11)
+↔ AUC 1,15 (1,11, 1,19)
+↔ Cmín 1,18 (1,13, 1,24)
+
+Abacavir
+↔ Cmáx 0,92 (0,87, 0,97)
+↔ AUC 0,90 (0,85, 0,94)
+Lamivudina
+↔ Cmáx 0,93 (0,87, 1,00)
+↔ AUC 0,94 (0,90, 0,98)
+↔ Cmín 1,12 (1,05, 1,20)
+Ledipasvir
+↔ Cmáx 1,10 (1,01, 1,19)
+↔ AUC 1,18 (1,10, 1,28)
+↔ Cmín 1,26 (1,17, 1,36)
+Sofosbuvir
+↔ Cmáx 1,08 (0,85, 1,35)
+↔ AUC 1,21 (1,09, 1,35)
+GS-331007
+↔ Cmáx 1,00 (0,94, 1,07)
+↔ AUC 1,05 (1,01, 1,09)
+↔ Cmín 1,08 (1,01, 1,14)
+
+FÁRMACOS ANTIVIRALES CONTRA EL VIH: INHIBIDORES DE LA
+PROTEASA DEL VIH
+
+No es necesario ajustar la dosis de HARVONI® ni de atazanavir
+(potenciado con ritonavir).
+Para la combinación de tenofovir/emtricitabina + atazanavir/ ritonavir, ver más abajo.
+
+Cuando se administró con tenofovir disoproxil fumarato usado conjuntamente con atazanavir/ritonavir, HARVONI® aumentó la concentración de tenofovir.
+No se ha establecido la seguridad de tenofovir disoproxil fumarato en el contexto de HARVONI® y un estimulador farmacocinético (p. ej. ritonavir o cobicistat).
+La combinación se debe utilizar con precaución y con monitorización renal frecuente, si no se dispone de otras alternativas
+(ver sección 7.1).
+Las concentraciones de atazanavir también aumentan, con riesgo de aumento de los niveles de bilirrubina/ictericia.
+Dicho riesgo es aún mayor si se utiliza ribavirina como parte del tratamiento contra el VHC.
+
+No es necesario ajustar la dosis de HARVONI® ni de darunavir
+(potenciado con ritonavir).
+Para la combinación de tenofovir/emtricitabina + darunavir/ ritonavir, ver más abajo.
+
+Cuando se administró con darunavir/ritonavir usados conjuntamente con tenofovir disoproxil fumarato, HARVONI® aumentó la concentración de tenofovir.
+No se ha establecido la seguridad de tenofovir disoproxil fumarato en el contexto de HARVONI® y un estimulador farmacocinético (p. ej. ritonavir o cobicistat).
+La combinación se debe utilizar con precaución y con monitorización renal frecuente, si no se dispone de otras alternativas
+(ver sección 7.1).
+
+Atazanavir potenciado con ritonavir
+(300 mg/
+100 mg una vez al día)/ledipasvir
+(90 mg una vez al día)c/sofosbuvir (400 mg una vez al día)c, d
+
+Atazanavir potenciado con ritonavir
+(300 mg/
+100 mg una vez al día) + emtricitabina/tenofovir disoproxil fumarato (200 mg/
+300 mg una vez al día)/ledipasvir
+(90 mg una vez al día)c/sofosbuvir (400 mg una vez al día)c, d
+Administrados simultáneamentef
+
+Darunavir potenciado con ritonavir
+(800 mg/
+100 mg una vez al día)/ledipasvir
+(90 mg una vez al día)d
+
+Darunavir potenciado con ritonavir
+(800 mg/
+100 mg una vez al día)/sofosbuvir (400 mg una vez al día)
+
+Darunavir potenciado con ritonavir
+(800 mg/
+100 mg una vez al día) + emtricitabina/ tenofovir disoproxil fumarato (200 mg/
+300 mg una vez al día)/ledipasvir
+(90 mg una vez al día)c/sofosbuvir (400 mg una vez al día)c, d
+Administrados simultáneamentef
+
+Atazanavir
+↔ Cmáx 1,07 (1,00, 1,15)
+↔ AUC 1,33 (1,25, 1,42)
+↑ Cmín 1,75 (1,58, 1,93)
+Ledipasvir
+↑ Cmáx 1,98 (1,78, 2,20)
+↑ AUC 2,13 (1,89, 2,40)
+↑ Cmín 2,36 (2,08, 2,67)
+Sofosbuvir
+↔ Cmáx 0,96 (0,88, 1,05)
+↔ AUC 1,08 (1,02, 1,15)
+GS-331007
+↔ Cmáx 1,13 (1,08, 1,19)
+↔ AUC 1,23 (1,18, 1,29)
+↔ Cmín 1,28 (1,21, 1,36)
+Atazanavir
+↔ Cmáx 1,07 (0,99, 1,14)
+↔ AUC 1,27 (1,18, 1,37)
+↑ Cmín 1,63 (1,45, 1,84)
+Ritonavir
+↔ Cmáx 0,86 (0,79, 0,93)
+↔ AUC 0,97 (0,89, 1,05)
+↑ Cmín 1,45 (1,27, 1,64)
+Emtricitabina
+↔ Cmáx 0,98 (0,94, 1,02)
+↔ AUC 1,00 (0,97, 1,04)
+↔ Cmín 1,04 (0,96, 1,12)
+Tenofovir
+↑ Cmáx 1,47 (1,37, 1,58)
+↔ AUC 1,35 (1,29, 1,42)
+↑ Cmín 1,47 (1,38, 1,57)
+Ledipasvir
+↑ Cmáx 1,68 (1,54, 1,84)
+↑ AUC 1,96 (1,74, 2,21)
+↑ Cmín 2,18 (1,91, 2,50)
+Sofosbuvir
+↔ Cmáx 1,01 (0,88, 1,15)
+↔ AUC 1,11 (1,02, 1,21)
+GS-331007
+↔ Cmáx 1,17 (1,12, 1,23)
+↔ AUC 1,31 (1,25, 1,36)
+↑ Cmín 1,42 (1,34, 1,49)
+Darunavir
+↔ Cmáx 1,02 (0,88, 1,19)
+↔ AUC 0,96 (0,84, 1,11)
+↔ Cmín 0,97 (0,86, 1,10)
+Ledipasvir
+↑ Cmáx 1,45 (1,34, 1,56)
+↑ AUC 1,39 (1,28, 1,49)
+↑ Cmín 1,39 (1,29, 1,51)
+Darunavir
+↔ Cmáx 0,97 (0,94, 1,01)
+↔ AUC 0,97 (0,94, 1,00)
+↔ Cmín 0,86 (0,78, 0,96)
+Sofosbuvir
+↑ Cmáx 1,45 (1,10, 1,92)
+↑ AUC 1,34 (1,12, 1,59)
+GS-331007
+↔ Cmáx 0,97 (0,90, 1,05)
+↔ AUC 1,24 (1,18, 1,30)
+Darunavir
+↔ Cmáx 1,01 (0,96, 1,06)
+↔ AUC 1,04 (0,99, 1,08)
+↔ Cmín 1,08 (0,98, 1,20)
+Ritonavir
+↔ Cmáx 1,17 (1,01, 1,35)
+↔ AUC 1,25 (1,15, 1,36)
+↑ Cmín 1,48 (1,34, 1,63)
+Emtricitabina
+↔ Cmáx 1,02 (0,96, 1,08)
+↔ AUC 1,04 (1,00, 1,08)
+↔ Cmín 1,03 (0,97, 1,10)
+Tenofovir
+↑ Cmáx 1,64 (1,54, 1,74)
+↑ AUC 1,50 (1,42, 1,59)
+↑ Cmín 1,59 (1,49, 1,70)
+Ledipasvir
+↔ Cmáx 1,11 (0,99, 1,24)
+↔ AUC 1,12 (1,00, 1,25)
+↔ Cmín 1,17 (1,04, 1,31)
+Sofosbuvir
+↓ Cmáx 0,63 (0,52, 0,75)
+↓ AUC 0,73 (0,65, 0,82)
+GS-331007
+↔ Cmáx 1,10 (1,04, 1,16)
+↔ AUC 1,20 (1,16, 1,24)
+↔ Cmín 1,26 (1,20, 1,32)
+
+Lopinavir potenciado con ritonavir + emtricitabina/ tenofovir disoproxil fumarato
+
+Interacción no estudiada
+Prevista:
+↑ Lopinavir
+↑ Ritonavir
+↔ Emtricitabina
+↑ Tenofovir
+↑ Ledipasvir
+↔ Sofosbuvir
+↔ GS-331007
+
+Tipranavir potenciado con ritonavir
+
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+↓ Sofosbuvir
+↔ GS-331007
+(Inducción de laglucoproteína P)
+
+Cuando se administra con lopinavir/ritonavir usados conjuntamente con tenofovir disoproxil fumarato, se espera que HARVONI® aumente la concentración de tenofovir.
+No se ha establecido la seguridad de tenofovir disoproxil fumarato en el contexto de HARVONI® y un estimulador farmacocinético (p. ej. ritonavir o cobicistat).
+La combinación se debe utilizar con precaución y con monitorización renal frecuente, si no se dispone de otras alternativas
+(ver sección 7.1).
+
+Se prevé que la administración concomitante de HARVONI® con tipranavir (potenciado con ritonavir) reduzca las concentraciones de ledipasvir, con la consiguiente disminución del efecto terapéutico de HARVONI®. No se recomienda dicha administración concomitante.
+
+FÁRMACOS ANTIVIRALES CONTRA EL VIH: INHIBIDORES DE LA
+INTEGRASA
+
+Raltegravir
+(400 mg dos veces al día)/ ledipasvir
+(90 mg una vez al día)d
+
+Raltegravir
+(400 mg dos veces al día)/ sofosbuvir
+(400 mg una vez al día)d
+
+Elvitegravir/ cobicistat/ emtricitabina/ tenofovir disoproxil fumarato
+(150 mg/
+150 mg/
+200 mg/
+300 mg una vez al día)/ledipasvir
+(90 mg una vez al día)c/ sofosbuvir
+(400 mg una vez al día)c
+
+Dolutegravir
+
+Raltegravir
+↓ Cmáx 0,82 (0,66, 1,02)
+↔ AUC 0,85 (0,70, 1,02)
+↑ Cmín 1,15 (0,90, 1,46)
+Ledipasvir
+↔ Cmáx 0,92 (0,85, 1,00)
+↔ AUC 0,91 (0,84, 1,00)
+↔ Cmín 0,89 (0,81, 0,98)
+
+Raltegravir
+↓ Cmáx 0,57 (0,44, 0,75)
+↓ AUC 0,73 (0,59, 0,91)
+↔ Cmín 0,95 (0,81, 1,12)
+Sofosbuvir
+↔ Cmáx 0,87 (0,71, 1,08)
+↔ AUC 0,95 (0,82, 1,09)
+GS-331007
+↔ Cmáx 1,09 (0,99, 1,19)
+↔ AUC 1,02 (0,97, 1,08)
+
+Interacción no estudiada
+Prevista:
+↔ Emtricitabina
+↑ Tenofovir
+Observada:
+Elvitegravir
+↔ Cmáx 0,88 (0,82, 0,95)
+↔ AUC 1,02 (0,95, 1,09)
+↑ Cmín 1,36 (1,23, 1,49)
+Cobicistat
+↔ Cmáx 1,25 (1,18, 1,32)
+↑ AUC 1,59 (1,49, 1,70)
+↑ Cmín 4,25 (3,47, 5,22)
+Ledipasvir
+↑ Cmáx 1,63 (1,51, 1,75)
+↑ AUC 1,78 (1,64, 1,94)
+↑ Cmín 1,91 (1,76, 2,08)
+Sofosbuvir
+↑ Cmáx 1,33 (1,14, 1,56)
+↑ AUC 1,36 (1,21, 1,52)
+GS-331007
+↑ Cmáx 1,33 (1,22, 1,44)
+↑ AUC 1,44 (1,41, 1,48)
+↑ Cmín 1,53 (1,47, 1,59)
+
+Interacción no estudiada
+Prevista:
+↔ Dolutegravir
+↔ Ledipasvir
+↔ Sofosbuvir
+↔ GS-331007
+
+SUPLEMENTOS A BASE DE PLANTAS
+
+Hierba de San
+Juan
+
+Interacción no estudiada
+Prevista:
+↓ Ledipasvir
+↓ Sofosbuvir
+↔ GS-331007
+(Inducción de la glucoproteína P)
+
+No es necesario ajustar la dosis de HARVONI® ni de raltegravir.
+
+Cuando se administra con elvitegravir/ cobicistat/ emtricitabina/ tenofovir disoproxil fumarato, se espera que HARVONI® aumente la concentración de tenofovir.
+No se ha establecido la seguridad de tenofovir disoproxil fumarato en el contexto de HARVONI® y un estimulador farmacocinético (p. ej. ritonavir o cobicistat).
+La combinación se debe utilizar con precaución y con monitorización renal frecuente, si no se dispone de otras alternativas
+(ver sección 7.1).
+
+No es necesario ajustar la dosis.
+
+HARVONI® está contraindicado con hierba de San Juan, (ver sección 6).
+
+INHIBIDORES DE LA HMG-CoA REDUCTASA
+
+La administración concomitante de HARVONI® con rosuvastatina puede aumentar significativamente la concentración de rosuvastatina (aumento de varias veces del AUC), lo que se asocia con un incremento del riesgo de miopatía, incluida rabdomiolisis. La administración concomitante de HARVONI® con rosuvastatina está contraindicada (ver sección 6).
+
+La administración concomitante de HARVONI® con pravastatina puede aumentar significativamente la concentración de pravastatina, lo que se asocia con un incremento del riesgo de miopatía. Se recomienda el control químico y bioquímico de estos pacientes, que pueden necesitar un ajuste de la dosis
+(ver sección 7.1).
+
+No se pueden excluir las interacciones con otros inhibidores de la HMG-CoA reductasa.
+Cuando se administran de forma concomitante con HARVONI®, se debe contemplar la administración de una dosis reducida de estatinas e instituir una vigilancia cuidadosa de las reacciones adversas a las estatinas (ver sección 7.1).
+
+No es necesario ajustar la dosis de HARVONI® ni de metadona.
+
+No es necesario ajustar la dosis de HARVONI® ni de ciclosporina al inicio de la coadministración.
+Posteriormente, puede ser necesaria una estrecha monitorización y un posible ajuste de la dosis de ciclosporina.
+
+No es necesario ajustar la dosis de HARVONI® ni de tacrolimús al inicio de la coadministración.
+Posteriormente, puede ser necesario un control estrecho y un posible ajuste de la dosis de tacrolimus.
+
+Rosuvastatinag
+
+↑ Rosuvastatina
+(Inhibición de los transportadores de fármacos
+PTAO y PRCM).
+
+Pravastatinag
+
+↑ Pravastatina
+
+Otras estatinas
+
+Prevista:
+↑ Estatinas
+
+ANALGÉSICOS NARCÓTICOS
+
+Metadona
+
+Metadona
+(Tratamiento de mantenimiento con metadona
+[30 a 130 mg/ día])/sofosbuvir
+(400 mg una vez al día)d
+
+Interacción no estudiada
+Prevista:
+↔ Ledipasvir
+
+R-metadona
+↔ Cmáx 0,99 (0,85, 1,16)
+↔ AUC 1,01 (0,85, 1,21)
+↔ Cmín 0,94 (0,77, 1,14)
+Smetadona
+↔ Cmáx 0,95 (0,79, 1,13)
+↔ AUC 0,95 (0,77, 1,17)
+↔ Cmín 0,95 (0,74, 1,22)
+Sofosbuvir
+↓ Cmáx 0,95 (0,68, 1,33)
+↑ AUC 1,30 (1,00, 1,69)
+GS-331007
+↓ Cmáx 0,73 (0,65, 0,83)
+↔ AUC 1,04 (0,89, 1,22)
+
+INMUNOSUPRESORES
+
+Ciclosporinag
+
+Ciclosporina
+(600 mg en dosis única)/ sofosbuvir
+(400 mg en dosis única)h
+
+Tacrolimús
+
+Tacrolimús
+(5 mg en dosis única)/sofosbuvir (400 mg en dosis única)h
+
+Interacción no estudiada
+Prevista:
+↑ Ledipasvir
+↔ Ciclosporina
+
+Ciclosporina
+↔ Cmáx 1,06 (0,94, 1,18)
+↔ AUC 0,98 (0,85, 1,14)
+Sofosbuvir
+↑ Cmáx 2,54 (1,87, 3,45)
+↑ AUC 4,53 (3,26, 6,30)
+GS-331007
+↓ Cmáx 0,60 (0,53, 0,69)
+↔ AUC 1,04 (0,90, 1,20)
+
+Interacción no estudiada
+Prevista:
+↔ Ledipasvir
+
+Tacrolimús
+↓ Cmáx 0,73 (0,59, 0,90)
+↑ AUC 1,09 (0,84, 1,40)
+Sofosbuvir
+↓ Cmáx 0,97 (0,65, 1,43)
+↑ AUC 1,13 (0,81, 1,57)
+GS-331007
+↔ Cmáx 0,97 (0,83, 1,14)
+↔ AUC 1,00 (0,87, 1,13)
+
+Medicamento por áreas terapéuticas
+
+Efectos sobre las concentraciones del medicamento. Cociente de las medias (intervalo de confianza del 90%)
+para AUC, Cmáx, Cmín
+
+a,b
+
+Recomendación relativa a la administración concomitante con HARVONI®
+
+No es necesario ajustar la dosis de los anticonceptivos.
+
+ANTICONCEPTIVOS ORALES
+Norgestimato/ etinilestradiol
+(norgestimato
+0,180 mg/
+0,215 mg/
+0,25 mg/ etinilestradiol
+0,025 mg)/ ledipasvir
+(90 mg una vez al día)d
+
+Norelgestromina
+↔ Cmáx 1,02 (0,89, 1,16)
+↔ AUC 1,03 (0,90, 1,18)
+↔ Cmín 1,09 (0,91, 1,31)
+Norgestrel
+↔ Cmáx 1,03 (0,87, 1,23)
+↔ AUC 0,99 (0,82, 1,20)
+↔ Cmín 1,00 (0,81, 1,23)
+Etinilestradiol
+↑ Cmáx 1,40 (1,18, 1,66)
+↔ AUC 1,20 (1,04, 1,39)
+↔ Cmín 0,98 (0,79, 1,22)
+Norelgestromina
+↔ Cmáx 1,07 (0,94, 1,22)
+↔ AUC 1,06 (0,92, 1,21)
+↔ Cmín 1,07 (0,89, 1,28)
+Norgestrel
+↔ Cmáx 1,18 (0,99, 1,41)
+↑ AUC 1,19 (0,98, 1,45)
+↑ Cmín 1,23 (1,00, 1,51)
+Etinilestradiol
+↔ Cmáx 1,15 (0,97, 1,36)
+↔ AUC 1,09 (0,94, 1,26)
+↔ Cmín 0,99 (0,80, 1,23)
+
+Norgestimato/ etinilestradiol
+(norgestimato
+0,180 mg/
+0,215 mg/
+0,25 mg/ etinilestradiol
+0,025 mg)/ sofosbuvir
+(400 mg una vez al día)d
+
+a. Cociente de las medias (IC del 90%) de la farmacocinética de los medicamentos administrados de forma concomitante con los medicamentos del ensayo solos o combinados. Ausencia de efecto = 1,00.
+b. Todos los ensayos de interacciones se realizaron en voluntarios sanos.
+c. Administrado en forma de HARVONI®.
+d. Límites de ausencia de interacción farmacocinética del 70-143%.
+e. Estos son fármacos dentro de una clase donde se pudieron predecir interacciones similares.
+f.  La  administración  escalonada  (con  12  horas  de  intervalo)  de  atazanavir/ritonavir + emtricitabina/tenofovir disoproxil fumarato o darunavir/ritonavir + emtricitabina/ tenofovir disoproxil fumarato y HARVONI® ofreció resultados similares.
+g. Este estudio se realizó en presencia de otros dos fármacos antivirales de acción directa.
+h. Límite de bioequivalencia/equivalencia del 80-125%.
+
+Las interacciones medicamentosas descritas se basan en ensayos realizados con ledipasvir/sofosbuvir o con ledipasvir y sofosbuvir como medicamentos individuales, o son interacciones medicamentosas pronosticadas que  pueden  ocurrir  con  ledipasvir/sofosbuvir.  La  tabla  no  es  totalmente incluyente.
+
+7.3 TOXICOLOGÍA PRECLÍNICA
+Ledipasvir
+En los estudios con ratas y perros, no se identificaron órganos diana en términos de toxicidad con ledipasvir a exposiciones con un AUC aproximadamente 7 veces superior a la exposición humana con la dosis clínica recomendada. Ledipasvir no fue genotóxico en una batería de pruebas in vitro o in vivo que incluía pruebas de mutagenicidad bacteriana, pruebas de aberración cromosómica con linfocitos de sangre periférica humana y pruebas de micronúcleos de ratas in vivo. Ledipasvir no fue carcinogénico en un estudio de 6 meses de duración en ratones transgénicos rasH2 con exposiciones  de  hasta  26  veces  superiores  a  la  exposición  humana.  Se encuentra en marcha un estudio de carcinogenicidad en ratas. Ledipasvir no produjo efectos adversos sobre el apareamiento y la fertilidad. En las ratas hembra, el número medio de cuerpos lúteos y lugares de implantación presentó una ligera reducción con exposiciones maternas 6 veces superiores a la exposición humana con la dosis clínica recomendada. En el nivel de ausencia de efectos observados, la exposición en términos de AUC a ledipasvir, en machos y hembras, respectivamente, fue unas 7 y 3 veces superior a la exposición humana con la dosis clínica recomendada.
+No se observaron efectos teratogénicos en los estudios de toxicidad sobre el desarrollo en ratas y conejos con ledipasvir. En un estudio pre y postnatal, con una dosis tóxica para la madre, la descendencia de ratas en fase de desarrollo presentó una reducción en las medias de peso corporal y de ganancia de peso corporal en relación con la exposición intrauterina (a través de la administración materna) y durante la lactancia (a través de la leche materna) a una exposición materna 4 veces superior a la exposición humana con la dosis clínica recomendada. No se produjeron efectos sobre la supervivencia, el desarrollo físico y comportamental ni el rendimiento reproductor en la descendencia a exposiciones maternas similares a la exposición humana con la dosis clínica recomendada. Cuando se administró a ratas lactantes, ledipasvir se detectó en el plasma de sus crías lactantes, probablemente debido a su excreción a través de la leche.
+Sofosbuvir
+En los estudios de toxicidad a dosis repetidas en la rata y en el perro, las dosis elevadas de la mezcla diastereomérica 1:1 causaron efectos adversos  hepáticos  (perro)  y  cardiacos  (rata)  y  reacciones  gastrointestinales
+(perro). En los estudios en roedores no se pudo detectar la exposición a sofosbuvir, probablemente debido a la elevada actividad de esterasas; no obstante, la exposición al metabolito principal GS-331007 a las dosis que causan efectos adversos fue 16 veces (rata) y 71 veces (perro) más alta que la exposición clínica a 400 mg de sofosbuvir. No se observaron hallazgos hepáticos ni cardiacos en los estudios de toxicidad crónica a exposiciones
+5 veces (rata) y 16 veces (perro) más altas que la exposición clínica. No se observaron hallazgos hepáticos ni cardiacos en los estudios de carcinogenicidad de 2 años de duración a exposiciones 17 veces (ratón) y 9 veces
+(rata) más altas que la exposición clínica. Sofosbuvir no fue genotóxico en una batería de pruebas in vitro o in vivo que incluía pruebas de mutagenicidad bacteriana, pruebas de aberración cromosómica con linfocitos de sangre periférica humana y pruebas de micronúcleos murinos in vivo. Los estudios de carcinogenicidad en ratones y ratas no indican ningún potencial carcinogénico de sofosbuvir administrado a dosis de hasta 600 mg/ kg/día a ratones y 750 mg/kg/día a ratas. La exposición a GS-331007 en estos estudios fue hasta 17 veces (ratón) y 9 veces (rata) más alta que la exposición clínica a 400 mg de sofosbuvir. Sofosbuvir no tuvo efectos sobre la viabilidad fetoembrionaria ni la fertilidad en la rata y no fue teratogénico en los estudios de desarrollo en rata y conejo. No se notificaron efectos adversos sobre el comportamiento, la reproducción ni el desarrollo de la descendencia en ratas. En los estudios en conejos, la exposición a sofosbuvir fue 6 veces la exposición clínica esperada. En los estudios en ratas no se pudo determinar la exposición a sofosbuvir, pero los márgenes de exposición basados en el principal metabolito humano fueron aproximadamente 5 veces más altos que la exposición clínica a 400 mg de sofosbuvir. El material derivado de sofosbuvir se transfirió a través de la placenta en las ratas gestantes y a la leche en las ratas lactantes.
+7.4 USO EN POBLACIONES ESPECÍFICAS
+Mujeres en edad fértil/anticoncepción en hombres y mujeres Cuando  se  utilice  HARVONI®  en  combinación  con  ribavirina,  se  debe actuar  con  extrema  precaución  para  evitar  el  embarazo  tanto  en  las pacientes tratadas con este medicamento como en las parejas de sexo femenino de los pacientes varones. Se han demostrado efectos teratogénicos  y/o  embriocidas  significativos  en  todas  las  especies  animales expuestas a la ribavirina. Las mujeres en edad fértil o sus parejas de sexo masculino deben utilizar un método anticonceptivo efectivo durante el tratamiento y el periodo de tiempo tras la finalización del mismo que aparece recomendado en la Información de prescripción de ribavirina.
+Consultar la Información de prescripción de la ribavirina para obtener información adicional.
+Embarazo
+No hay datos o estos son limitados (datos en menos de 300 embarazos)
+relativos al uso de ledipasvir, sofosbuvir o HARVONI® en mujeres embarazadas. Los estudios en animales no sugieren efectos perjudiciales directos en términos de toxicidad para la reproducción. No se han observado efectos significativos sobre el desarrollo fetal con ledipasvir o sofosbuvir en ratas y conejos. No obstante, no se han podido estimar por completo los márgenes de exposición alcanzados para sofosbuvir en la rata con respecto a la exposición en los seres humanos a la dosis clínica recomendada (ver sección 7.3). Como medida de precaución, es preferible evitar el uso de HARVONI® durante el embarazo.
+Lactancia
+Se desconoce si ledipasvir o sofosbuvir y sus metabolitos se excretan en la leche materna. Los datos farmacocinéticos disponibles en animales muestran que ledipasvir y los metabolitos de sofosbuvir se excretan en la leche (ver sección 7.3). No se puede excluir el riesgo en recién nacidos/ niños. Por tanto, HARVONI® no se debe utilizar durante la lactancia.
+Fertilidad
+No se dispone de datos en humanos sobre el efecto de HARVONI® sobre la fertilidad. Los estudios en animales no sugieren efectos perjudiciales de ledipasvir o sofosbuvir sobre la fertilidad. Si se administra ribavirina de forma concomitante con HARVONI®, son aplicables las contraindicaciones relativas al uso de ribavirina durante el embarazo y la lactancia
+(ver también la Información de prescripción de ribavirina).
+Uso pediátrico
+Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+Uso geriátrico
+Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+Insuficiencia renal y insuficiencia hepática Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+8. ESTUDIOS CLÍNICOS
+La eficacia de HARVONI® (ledipasvir [LDV]/sofosbuvir [SOF]) se evaluó en tres ensayos abiertos de fase 3 en los que se disponía de los datos correspondientes a un total de 1.950 pacientes con HCC de genotipo 1. Los tres ensayos de fase 3 comprendían un ensayo realizado en pacientes sin ningún tratamiento previo y sin cirrosis (ION-3), un ensayo en pacientes sin ningún tratamiento previo con y sin cirrosis (ION-1) y un ensayo en pacientes con y sin cirrosis en los que había fracasado el tratamiento previo con una pauta basada en interferón, incluidas pautas que contenían un inhibidor de la proteasa del VHC (ION-2). Los pacientes de estos ensayos
+
+LDV/SOF
++ RBV
+8 semanas
+(n = 216)
+51 (21-71)
+
+presentaban hepatopatías compensadas. En estos tres ensayos de fase 3 se evaluó la eficacia de ledipasvir/sofosbuvir con o sin ribavirina. La duración del tratamiento era fija en cada ensayo. Durante los ensayos clínicos, los  valores  séricos  de  ARN  del  VHC  se  midieron  con  la  prueba  COBAS
+TaqMan HCV (versión 2.0) para uso con el High Pure System. La prueba tenía un límite inferior de cuantificación (LIdC) de 25 UI/ml. La RVS era el criterio principal de valoración para determinar la tasa de curación del VHC y se definió como niveles de ARN del VHC inferiores al LIdC a las 12 semanas después de la suspensión del tratamiento.
+Adultos sin ningún tratamiento previo y sin cirrosis: ION-3 (ensayo 0108), genotipo 1
+En  el  ensayo  ION-3  se  evaluaron  8  semanas  de  tratamiento  con  ledipasvir/sofosbuvir con o sin ribavirina y 12 semanas de tratamiento con ledipasvir/sofosbuvir en pacientes sin ningún tratamiento previo y sin cirrosis con HCC de genotipo 1. Los pacientes se aleatorizaron en una proporción 1:1:1 a uno de los tres grupos de tratamiento y se estratificaron en función del genotipo del VHC (1a frente a 1b).
+Tabla 8. Características demográficas y basales del ensayo ION-3
+Disposición de los pacientes
+
+TOTAL
+(n = 647)
+
+LDV/SOF
+12 semanas
+(n = 216)
+
+LDV/SOF
+8 semanas
+(n = 215)
+
+59% (128)
+
+54% (117)
+
+58% (375)
+
+52 (20-75)
+
+53 (22-75)
+
+53 (20-71)
+
+60% (130)
+
+LDV/SOF
+8 semanas
+(n = 215)
+
+33% (72)
+30% (65)
+37% (79)
+0% (0)
+
+38% (81)
+28% (61)
+33% (71)
+1% (3)
+
+19% (42)
+77% (167)
+80% (172)
+26% (56)
+
+17% (36)
+81% (176)
+80% (172)
+28% (60)
+
+21% (45)
+76% (164)
+80% (171)
+26% (56)
+
+35% (225)
+30% (191)
+35% (227)
+<1% (4)
+
+19% (123)
+78% (507)
+80% (515)a
+27% (172)
+
+Edad (años):
+mediana (intervalo)
+Sexo masculino
+Raza:
+Negro/
+Afroamericano
+Blanco
+Genotipo 1a
+Genotipo de
+IL28 CC
+Puntuación de Metavir determinada por FibroTestb
+33% (72)
+F0-F1
+30% (65)
+F2
+36% (77)
+F3-F4
+<1% (1)
+No interpretable a. Un paciente del grupo de tratamiento de 8 semanas con LDV/SOF no tenía un subtipo confirmado del genotipo 1.
+b. Los resultados del FibroTest no ausentes se relacionaron a las puntuaciones de Metavir del siguiente modo: 0 0,31 = F0 F1; 0,32 0,58 = F2; 0,59 1,00 = F3 F4.
+Tabla 9. Tasas de respuesta en el ensayo ION-3
+LDV/SOF
++ RBV
+8 semanas
+(n = 216)
+94% (202/215) 93% (201/216) 96% (208/216)
+
+93% (159/171) 92% (159/172) 96% (165/172)
+98% (43/44)
+95% (42/44)
+98% (42/43)
+
+RVS
+Resultado para los pacientes sin RVS
+Fracaso virológico durante el tratamiento
+Recaídaa
+Otrosb
+Genotipo
+Genotipo 1a
+Genotipo 1b a. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+b. Otros incluye a los pacientes que no lograron una RVS y no reunieron los criterios de fracaso virológico (p. ej., perdidos para el seguimiento).
+El tratamiento de 8 semanas con ledipasvir/sofosbuvir sin ribavirina no fue inferior al tratamiento de 8 semanas con ledipasvir/sofosbuvir más ribavirina (diferencia terapéutica: 0,9%; intervalo de confianza del 95%:
+-3,9% a 5,7%) ni al tratamiento de 12 semanas con ledipasvir/sofosbuvir (diferencia terapéutica: -2,3%; intervalo de confianza del 97,5%: -7,2% a
+3,6%). Entre los pacientes con un ARN del VHC basal <6 millones de UI/ ml, la VRS fue del 97% (119/123) con 8 semanas de tratamiento con ledipasvir/sofosbuvir y del 96% (126/131) con 12 semanas de tratamiento con ledipasvir/sofosbuvir.
+Tabla10. Tasas de recaída según las características basales en el ensayo ION-3, población con fracaso virológico*
+
+LDV/SOF
+12 semanas
+(n = 216)
+
+5% (11/215)
+<1% (2/215)
+
+1% (3/216)
+2% (5/216)
+
+4% (9/214)
+3% (6/216)
+
+0/216
+
+0/215
+
+0/216
+
+LDV/SOF
+8 semanas
+(n = 213)
+
+LDV/SOF + RBV
+8 semanas
+(n = 210)
+
+LDV/SOF
+12 semanas
+(n = 211)
+
+8% (10/129)
+1% (1/84)
+
+7% (8/114)
+1% (1/96)
+
+2% (3/127)
+0% (0/84)
+
+Sexo
+Varón
+Mujer
+Genotipo IL28
+
+CC
+No CC
+ARN del VHC basala
+ARN del VHC <6 millones de UI/ml
+ARN del VHC ≥6 millones de UI/ml
+
+4% (2/56)
+6% (9/157)
+
+0% (0/57)
+6% (9/153)
+
+0% (0/54)
+2% (3/157)
+
+2% (2/121)
+
+2% (3/136)
+
+2% (2/128)
+
+10% (9/92)
+
+8% (6/74)
+
+1% (1/83)
+
+* Excluidos los pacientes perdidos para el seguimiento o que retiraron su consentimiento.
+a. Los valores del ARN del VHC se determinaron mediante el análisis TaqMan de Roche;
+el ARN del VHC de un paciente puede variar de una visita a otra.
+Adultos  sin  ningún  tratamiento  previo  con  o  sin  cirrosis:  ION-1
+(ensayo 0102), genotipo 1
+ION-1 fue un ensayo aleatorizado y abierto que evaluó 12 y 24 semanas de tratamiento con ledipasvir/sofosbuvir con o sin ribavirina en 865 pacientes sin ningún tratamiento previo con HCC de genotipo 1, incluidos pacientes con cirrosis (aleatorizados 1:1:1:1). La aleatorización se estratificó en función de la presencia o ausencia de cirrosis y el genotipo del VHC (1a frente a 1b).
+Tabla 11. Características demográficas y basales del ensayo ION-1
+
+Disposición de los pacientes
+
+Edad (años):
+mediana
+(intervalo)
+
+Sexo masculino
+
+LDV/SOF
+12 semanas
+(n = 214)
+
+LDV/SOF
++ RBV
+12 semanas
+(n = 217)
+
+LDV/SOF
+24 semanas
+(n = 217)
+
+LDV/SOF
++ RBV
+24 semanas
+(n = 217)
+
+TOTAL
+(n = 865)
+
+52 (18-75) 52 (18-78) 53 (22-80) 53 (24-77) 52 (18-80)
+
+59% (127) 59% (128) 64% (139) 55% (119) 59% (513)
+
+Raza:
+Negro/
+Afroamericano 11% (24)
+
+12% (26)
+
+15% (32)
+
+12% (26) 12% (108)
+
+Blanco
+
+87% (187) 87% (188) 82% (177) 84% (183) 85% (735)
+
+Genotipo 1aa
+
+68% (145) 68% (148) 67% (146) 66% (143) 67% (582)
+
+Genotipo de
+IL28 CC
+
+26% (55)
+
+35% (76)
+
+24% (52)
+
+34% (73) 30% (256)
+
+Puntuación de Metavir determinada por FibroTestb
+
+F0F1
+
+F2
+
+F3F4
+
+No interpretable
+
+27% (57)
+
+26% (56)
+
+29% (62)
+
+30% (66) 28% (241)
+
+26% (56)
+
+25% (55)
+
+22% (47)
+
+28% (60) 25% (218)
+
+47% (100) 48% (104) 49% (107) 42% (91) 46% (402)
+
+<1% (1)
+
+1% (2)
+
+<1% (1)
+
+0% (0)
+
+<1% (4)
+
+a. Dos pacientes del grupo de tratamiento de 12 semanas con LDV/SOF, un paciente del grupo de tratamiento de 12 semanas con LDV/SOF+RBV, dos pacientes del grupo de tratamiento de 24 semanas con LDV/SOF y dos pacientes del grupo de tratamiento de 24 semanas con LDV/SOF + RBV no tenían un subtipo confirmado del genotipo 1.
+b. Los resultados del FibroTest no ausentes se relacionaron a las puntuaciones de Metavir del siguiente modo: 0 0,31 = F0 F1; 0,32 0,58 = F2; 0,59 1,00 = F3 F4.
+Tabla 12. Tasas de respuesta en el ensayo ION-1
+
+LDV/SOF
+12 semanas
+(n = 214)
+
+LDV/SOF
++ RBV
+12 semanas
+(n = 217)
+
+LDV/SOF
+24 semanas
+(n = 217)
+
+LDV/SOF
++ RBV
+24 semanas
+(n = 217)
+
+RVS
+
+99%
+(210/213)
+
+97%
+(211/217)
+
+98%
+(213/217)
+
+99%
+(215/217)
+
+Resultado para los pacientes sin RVS
+
+0/213a
+
+0/217
+
+<1% (1/217)
+
+0/216
+
+Fracaso virológico durante el tratamiento
+
+Recaídab
+
+<1% (1/212)
+
+0/217
+
+<1% (1/215)
+
+0/216
+
+Otrosc
+
+<1% (2/213)
+
+3% (6/217) <1% (2/217) <1% (2/217)
+
+Tasas de RVS para subgrupos seleccionados
+
+Genotipo
+
+Genotipo 1a
+
+Genotipo 1b
+
+Cirrosisd
+
+98%
+(142/145)
+
+97%
+(143/148)
+
+99%
+(144/146)
+
+99%
+(141/143)
+
+100%
+(67/67)
+
+99%
+(67/68)
+
+97%
+(67/69)
+
+100%
+(72/72)
+
+No
+
+Sí
+
+99%
+(176/177)
+
+97%
+(177/183)
+
+98%
+(181/184)
+
+99%
+(178/180)
+
+94% (32/34) 100% (33/33) 97% (32/33) 100% (36/36)
+
+a. Se excluyó a un paciente del grupo de tratamiento de 12 semanas con LDV/SOF y se excluyó a un paciente del grupo de tratamiento de 24 semanas con LDV/SOF + RBV porque ambos estaban infectados por HCC de genotipo 4.
+b. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+c. Otros incluye a los pacientes que no lograron una RVS y no reunieron los criterios de fracaso virológico (p. ej., perdidos para el seguimiento).
+d. Se excluyó de este análisis de subgrupo a los pacientes que carecían de estado de cirrosis.
+Adultos  previamente  tratados  con  o  sin  cirrosis:  ION-2  (ensayo
+0109), genotipo 1
+ION-2 fue un ensayo aleatorizado y abierto en el que se evaluaron 12 y 24 semanas de tratamiento con ledipasvir/sofosbuvir con o sin ribavirina
+(aleatorizados 1:1:1:1) en pacientes infectados por VHC de genotipo 1 con o sin cirrosis en los que había fracasado el tratamiento previo con una pauta basada en interferón, incluidas pautas que contenían un inhibidor de la proteasa del VHC. La aleatorización se estratificó en función de la presencia o ausencia de cirrosis, del genotipo del VHC (1a frente a
+1b) y de la respuesta al tratamiento previo contra el VHC (recaída/rebote viral frente a ausencia de respuesta).
+Tabla 13. Características demográficas y basales del ensayo ION-2
+
+Disposición de los pacientes
+
+Edad (años):
+mediana
+(intervalo)
+
+Sexo masculino
+
+LDV/SOF
+12 semanas
+(n = 109)
+
+LDV/SOF
++RBV
+12 semanas
+(n = 111)
+
+LDV/SOF
+24 semanas
+(n = 109)
+
+LDV/SOF
++RBV
+24 semanas
+(n = 111)
+
+TOTAL
+(n = 440)
+
+56 (24-67) 57 (27-75) 56 (25-68) 55 (28-70) 56 (24-75)
+
+68% (74)
+
+64% (71)
+
+68% (74)
+
+61% (68) 65% (287)
+
+Raza:
+Negro/
+Afroamericano 22% (24)
+
+14% (16)
+
+16% (17)
+
+18% (20)
+
+18% (77)
+
+Blanco
+
+77% (84)
+
+85% (94)
+
+83% (91)
+
+80% (89) 81% (358)
+
+Genotipo 1a
+
+79% (86)
+
+79% (88)
+
+78% (85)
+
+79% (88) 79% (347)
+
+Tratamiento previo contra el VHC
+
+PEGIFN + RBV 39% (43)
+
+42% (47)
+
+53% (58)
+
+53% (59) 47% (207)a
+
+Inhibidor de la proteasa del
+VHC + PEGIFN
++ RBV
+
+Genotipo de
+IL28 CC
+
+61% (66)
+
+58% (64)
+
+46% (50)
+
+46% (51) 53% (231)a
+
+9% (10)
+
+10% (11)
+
+14% (16)
+
+16% (18)
+
+13% (55)
+
+Puntuación de Metavir determinada por FibroTestb
+
+F0-F1
+
+F2
+
+F3-F4
+
+No interpretable
+
+14% (15)
+
+10% (11)
+
+12% (13)
+
+16% (18)
+
+13% (57)
+
+28% (31)
+
+26% (29)
+
+28% (31)
+
+30% (33) 28% (124)
+
+58% (63)
+
+64% (71)
+
+58% (63)
+
+54% (60) 58% (257)
+
+0% (0)
+
+0% (0)
+
+2% (2)
+
+0% (0)
+
+<1% (2)
+
+a. Un paciente de los grupos de tratamiento de 24 semanas con LDV/SOF y un paciente del grupo de tratamiento de 24 semanas con LDV/SOF+RBV habían fracasado en un tratamiento previo con una pauta basada en interferón no pegilado.
+b. Los resultados del FibroTest no ausentes se relacionaron a las puntuaciones de Metavir del siguiente modo: 0 0,31 = F0 F1; 0,32 0,58 = F2; 0,59 1,00 = F3 F4.
+Tabla 14. Tasas de respuesta en el ensayo ION-2
+
+LDV/SOF
+12 semanas
+(n = 109)
+
+94%
+(102/109)
+
+LDV/SOF
++ RBV
+12 semanas
+(n = 111)
+
+96%
+(107/111)
+
+LDV/SOF
+24 semanas
+(n = 109)
+
+LDV/SOF
++ RBV
+24 semanas
+(n = 111)
+
+99%
+(108/109)
+
+99%
+(110/111)
+
+RVS
+
+Resultado para los pacientes sin RVS
+
+Fracaso virológico durante el tratamiento
+
+Recaídaa
+
+Otrosb
+
+0/109
+
+0/111
+
+0/109
+
+<1% (1/111)
+
+6% (7/108)
+
+4% (4/111)
+
+0/109
+
+0/109
+
+0/111
+
+<1% (1/109)
+
+0/110
+
+0/111
+
+Tasas de RVS para subgrupos seleccionados
+
+Genotipo
+
+Genotipo 1a
+
+95% (82/86)
+
+95% (84/88)
+
+99% (84/85)
+
+99% (87/88)
+
+Genotipo 1b
+
+87% (20/23) 100% (23/23) 100% (24/24) 100% (23/23)
+
+Cirrosis
+
+No
+
+Síd
+
+95% (83/87)
+
+100%
+(88/88)c
+
+99% (85/86)c 99% (88/89)
+
+86% (19/22)
+
+82% (18/22) 100% (22/22) 100% (22/22)
+
+Tratamiento previo contra el VHC
+
+93% (40/43)
+
+96% (45/47) 100% (58/58) 98% (58/59)
+
+94% (62/66)
+
+97% (62/64)
+
+98% (49/50) 100% (51/51)
+
+PEGIFN
++ RBV
+
+Inhibidor de la proteasa del VHC
++ PEGIFN
++ RBV
+
+a. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+b. Otros incluye a los pacientes que no lograron una RVS y no reunieron los criterios de fracaso virológico (p. ej., perdidos para el seguimiento).
+c. Se excluyó de este análisis de subgrupo a los pacientes que carecían de estado de cirrosis.
+d. Puntuación de Metavir = 4 o puntuación de Ishak ≥5 por biopsia hepática, o puntuación de FibroTest >0,75 y (APRI) >2.
+En la Tabla 15 se muestran las tasas de recaída con las pautas de 12 semanas (con o sin ribavirina) para subgrupos seleccionados (ver también la sección Efecto de las variantes basales del VHC asociadas con resistencia sobre el resultado del tratamiento). En pacientes no cirróticos solo se produjeron recaídas en presencia de VAR de la NS5A basales y durante el tratamiento con ledipasvir/sofosbuvir sin ribavirina. En pacientes cirróticos se produjeron recaídas con ambas pautas, y en ausencia y en presencia de VAR de la NS5A basales.
+Tabla  15.  Tasas  de  recaída  para  subgrupos  seleccionados  en  el ensayo ION-2
+
+LDV/SOF
+12 semanas
+(n = 109)
+
+LDV/SOF
++ RBV
+12 semanas
+(n = 111)
+
+LDV/SOF
+24 semanas
+(n = 109)
+
+LDV/SOF
++ RBV
+24 semanas
+(n = 111)
+
+108
+
+111
+
+109
+
+110
+
+5% (4/86)a
+
+0% (0/88)b
+
+0% (0/86)b
+
+0% (0/88)
+
+14% (3/22)
+
+18% (4/22)
+
+0% (0/22)
+
+0% (0/22)
+
+Número de pacientes con respuesta al final del tratamiento
+
+Cirrosis
+
+No
+
+Sí
+
+Presencia de sustituciones en la NS5A basal asociadas con resistenciac
+
+No
+
+Sí
+
+3% (3/91)d
+
+2% (2/94)
+
+0% (0/96)
+
+0% (0/95)f
+
+24% (4/17)e
+
+12% (2/17)
+
+0% (0/13)
+
+0% (0/14)
+
+a. Estos 4 pacientes no cirróticos con recaída tenían todos polimorfismos en la NS5A basal asociados con resistencia.
+b. Se excluyó del análisis de subgrupo a los pacientes que carecían de estado de cirrosis.
+c. El análisis (mediante secuenciación profunda) incluyó los polimorfismos asociados con resistencia de la NS5A que conferían un cambio >2,5 veces de la CE50 (K24G/N/R,
+M28A/G/T,  Q30E/G/H/L/K/R/T,  L31I/F/M/V,  P32L,  S38F,  H58D,  A92K/T  e  Y93C/ F/H/N/S para la infección por VHC de genotipo 1a y L31I/F/M/V, P32L, P58D, A92K e
+Y93C/H/N/S para la de genotipo 1b).
+d. 3/3 de estos pacientes tenían cirrosis.
+e. 0/4 de estos pacientes tenían cirrosis.
+f. Un paciente que logró una carga viral <LIdC al final del tratamiento carecía de datos de NS5A basal y fue excluido del análisis.
+Adultos previamente tratados con cirrosis – SIRIUS, genotipo 1 En el ensayo SIRIUS se incluyó a pacientes con cirrosis compensada en  los  que  había  fracasado  primero  un  tratamiento  con  interferón pegilado  (PEG-IFN)  +  ribavirina  y  después  una  pauta  constituida por  interferón  pegilado  +  ribavirina  +  un  inhibidor  de  la  proteasa
+NS3/4A. La cirrosis se definió mediante biopsia, Fibroscan (>12,5 kPa)
+o FibroTest >0,75 y un índice de relación AST:plaquetas (APRI) >2. En el ensayo (con doble ciego y controlado con placebo) se evaluaron 24 semanas  de  tratamiento  con  ledipasvir/sofosbuvir  (con  un  placebo para la ribavirina) frente a 12 semanas de tratamiento con ledipasvir/ sofosbuvir con ribavirina. Los pacientes en este último grupo de tratamiento recibieron placebo (para ledipasvir/sofosbuvir y ribavirina)
+
+durante las primeras 12 semanas, seguido de tratamiento activo con simple ciego durante las 12 semanas siguientes. Los pacientes se estratificaron según el genotipo del VHC (1a frente a 1b) y la respuesta previa  al  tratamiento  (según  si  se  había  alcanzado  un  ARN  del  VHC
+<LIdC).  Las  características  demográficas  y  basales  estaban  equilibradas en ambos grupos de tratamiento. La mediana de la edad era 56 años (intervalo: 23 a 77); el 74% de los pacientes eran varones, el 97% blancos, el 63% tenían infección por VHC de genotipo 1a y el 94% tenían alelos IL28B no CC (CT o TT). De los 155 pacientes enrolados, 1 paciente interrumpió el tratamiento mientras recibía placebo. De los 154 pacientes restantes, un total de 149 alcanzaron una RVS12 en ambos grupos de tratamiento: el 96% (74/77) de los pacientes del grupo tratado durante 12 semanas con ledipasvir/sofosbuvir con ribavirina y el 97% (75/77) de los pacientes del grupo tratado durante 24 semanas con ledipasvir/sofosbuvir. Los 5 pacientes que no alcanzaron la RVS12 recayeron tras haber presentado respuesta al final del tratamiento (ver la sección Resistencia, En ensayos clínicos más arriba).
+Adultos previamente tratados con fracaso de sofosbuvir + ribavirina ± PEG-IFN La eficacia de ledipasvir/sofosbuvir en los pacientes con fracaso de un tratamiento previo con sofosbuvir + ribavirina ± PEG-IFN está respaldada  por  dos  ensayos  clínicos.  En  el  ensayo  1118,  44  pacientes  con infección  por  el  genotipo  1,  incluyendo  12  pacientes  con  cirrosis,  en los que había fracasado una pauta previa con sofosbuvir + ribavirina +
+PEG-IFN o con sofosbuvir + ribavirina recibieron tratamiento con ledipasvir/sofosbuvir + ribavirina durante 12 semanas; la RVS fue del 100% (44/44). En el ensayo ION-4, se enroló a 13 pacientes coinfectados por VHC/VIH-1 con genotipo 1, incluyendo 1 paciente con cirrosis, en los que había fracasado una pauta con sofosbuvir + ribavirina; la RVS fue del 100% (13/13) tras 12 semanas de tratamiento con ledipasvir/sofosbuvir.
+Adultos coinfectados por VHC/VIH – ION-4 ION-4  fue  un  ensayo  clínico  abierto  en  el  que  se  evaluó  la  seguridad y eficacia de 12 semanas de tratamiento con ledipasvir/sofosbuvir sin ribavirina en pacientes sin ningún tratamiento previo y con tratamiento previo para el VHC con HCC de genotipo 1 o 4 coinfectados por el VIH-1.
+Los pacientes con tratamiento previo habían presentado un fracaso al tratamiento con PEG-IFN + ribavirina ± un inhibidor de la proteasa del VHC o con sofosbuvir + ribavirina ± PEG-IFN. Los pacientes se encontraban en tratamiento con terapia antirretroviral estable para el VIH-1 que incluía emtricitabina/tenofovir disoproxil fumarato, administrados con efavirenz, rilpivirina o raltegravir. La mediana de la edad era 52 años (intervalo: 26 a 72); el 82% de los pacientes eran varones, el 61% blancos, el 34% negros, el 75% tenían infección por VHC de genotipo 1a, el 2% tenían infección por el genotipo 4, el 76% tenían alelos IL28B no CC (CT o TT) y el 20% tenían cirrosis compensada. El 55% de los pacientes habían recibido tratamiento previo.
+Tabla 16. Tasas de respuesta en el ensayo ION-4.
+
+RVS
+
+Resultado para los pacientes sin RVS
+
+Fracaso virológico durante el tratamiento
+
+Recaídab
+
+Otrosc
+
+LDV/SOF
+12 semanas
+(n = 335)
+
+96% (321/335)a
+
+<1% (2/335)
+
+3% (10/333)
+
+<1% (2/335)
+
+Tasas de RVS para subgrupos seleccionados
+
+Pacientes con cirrosis
+
+94% (63/67)
+
+Pacientes previamente tratados con cirrosis
+
+98% (46/47)
+
+a. 8 pacientes con infección por VHC de genotipo 4 fueron enrolados en el ensayo, de los que 8/8 alcanzaron una RVS12.
+b. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+c. Otros incluye a los pacientes que no lograron una RVS y no reunieron los criterios de fracaso virológico (p. ej., perdidos para el seguimiento).
+Adultos coinfectados por el VHC/VIH: ensayo ERADICATE
+ERADICATE  fue  un  ensayo  abierto  para  evaluar  12  semanas  de  tratamiento con ledipasvir/sofosbuvir en 50 pacientes con HCC de genotipo
+1 coinfectados por VIH. Ninguno de los pacientes había recibido tratamiento previo contra el VHC ni padecía cirrosis, el 26% (13/50) de los pacientes no habían recibido ningún tratamiento antirretroviral previo contra  el  VIH  y  el  74%  (37/50)  de  los  pacientes  estaban  recibiendo tratamiento antirretroviral concomitante contra el VIH. En el momento del análisis preliminar 40 pacientes habían alcanzado las 12 semanas después del tratamiento y la RVS12 era del 98% (39/40).
+Pacientes a la espera de un trasplante hepático y después de un trasplante hepático: ensayo SOLAR 1 y SOLAR-2 SOLAR-1  y  SOLAR-2  fueron  dos  ensayos  abiertos  en  los  que  se  evaluaron 12 y 24 semanas de tratamiento con ledipasvir/sofosbuvir en
+
+combinación con ribavirina en pacientes infectados por el VHC de genotipo 1 y 4 que se habían sometido a trasplante hepático y/o con hepatopatía descompensada. Los dos ensayos tenían un diseño idéntico.
+Se inscribió a los pacientes en uno de los siete grupos basándose en el estado de trasplante hepático y la gravedad de la insuficiencia hepatica (ver la Tabla 17). Se excluyó a los pacientes con una puntuación CPT
+>12. En cada grupo, semaleatorizó a los pacientes en una proporción 1:1  para  recibir  ledipasvir/sofosbuvir  con  ribavirina  durante  12  o  24 semanas.  Las  características  demográficas  y  basales  estaban  equilibradas en los grupos de tratamiento. De los 670 pacientes tratados, la mediana de la edad era de 59 años (intervalo: 21 a 81); el 77% de los pacientes eran hombres, el 91% blancos, la media del índice de masa corporal era 28 kg/m2 (intervalo: 18 a 49 kg/m2); el 94% y el 6% presentaban infección por el VHC de genotipos 1 y 4, respectivamente;
+en el 78% de los pacientes fracasó un tratamiento previo para el VHC.
+Entre los pacientes con cirrosis descompensada (antes o después del trasplante), el 64% y el 36% eran de clase B y C de CPT en la selección, respectivamente,  y  el  24%  presentaron  una  puntuación  basal  en  el modelo  de  enfermedad  hepática  terminal  (MELD,  por  sus  siglas  en inglés) superior a 15.
+Tabla  17.  Tasas  de  respuesta  combinadas  (RVS12)  en  el  ensayo
+SOLAR 1 y SOLAR-2
+
+LDV/SOF+RBV
+12 semanasn
+(n = 307)a,b
+
+LDV/SOF+RBV
+24 semanas
+(n = 307)a,b
+
+RVS
+
+RVS
+
+Antes del trasplante
+
+CPT B
+
+CPT C
+
+87% (45/52)
+
+88% (35/40)
+
+92% (46/50)
+
+83% (38/46)
+
+Después del trasplante
+
+Puntuación de
+Metavir F0F3
+
+95% (94/99)
+
+99% (99/100)
+
+CPT Ac
+
+CPT Bc
+
+CPT Cc
+
+HCF
+
+98% (55/56)
+
+89% (41/46)
+
+57% (4/7)
+
+100% (7/7)
+
+96% (51/53)
+
+96% (43/45)
+
+78% (7/9)
+
+100% (4/4)
+
+a. Se excluyó a 12 pacientes trasplantados antes de la semana 12 después del tratamiento con ARN del VHC <LIdC en la última medición previa al trasplante.
+b. Se excluyó a 2 pacientes que no presentaban cirrosis descompensada y que tampoco habían recibido un trasplante hepático porque no cumplían los criterios de inclusión para ninguno de los grupos de tratamiento.
+c. CPT = Child-Pugh-Turcotte. HCF = hepatitis colestásica fibrosante. CPT A = puntuación CPT 5 6 (compensada), CPT B = puntuación CPT 7 9 (descompensada), CPT C = puntuación CPT 10 12 (descompensada).
+Se incluyeron 40 pacientes con HCC de genotipo 4 en los ensayos SOLAR-1 y SOLAR-2; la RVS12 fue del 92% (11/12) y el 100% (10/10) en los pacientes sin cirrosis descompensada después del trasplante, y el 60% (6/10) y 75%
+(6/8) en los pacientes con cirrosis descompensada (antes y después del trasplante) tratados durante 12 o 24 semanas, respectivamente. De los 7 pacientes que no alcanzaron una RVS12, 3 recayeron y todos presentaron cirrosis descompensada y fueron tratados con ledipasvir/sofosbuvir con ribavirina durante 12 semanas. Se analizaron los cambios en las puntuaciones MELD y CPT desde la situación basal hasta la semana 12 después del tratamiento de todos los pacientes con cirrosis descompensada (antes y después del trasplante) que alcanzaron una RVS12 y que tenían datos analíticos disponibles (n = 123) para evaluar el efecto de la RVS12 sobre la función hepática.
+Cambio  en  la  puntuación  MELD:  Entre  aquellos  que  alcanzaron  una RVS12  con  12  semanas  de  tratamiento  con  ledipasvir/sofosbuvir  con ribavirina el 57% (70/123) y el 19% (23/123) presentaron una mejoría o una ausencia de cambios en la puntuación MELD desde la situación basal hasta la semana 12 después del tratamiento, respectivamente; de los 32 pacientes cuya puntuación MELD era ≥15 en la situación basal, el 59% (19/32) tenían una puntuación MELD <15 en la semana 12 después del tratamiento. La mejoría observada en las puntuaciones MELD se debió en gran medida a mejorías en la bilirrubina total.
+Cambio en la puntuación y la clase CPT: Entre aquellos que alcanzaron una RVS12 con 12 semanas de tratamiento con ledipasvir/sofosbuvir con ribavirina el 60% (74/123) y el 34% (42/123) presentaron una mejoría o una ausencia de cambios en las puntuaciones CPT desde la situación basal hasta la semana 12 después del tratamiento, respectivamente; de los 32 pacientes que tenían cirrosis CPT C en la situación basal, el 53%
+(17/32) tenían cirrosis CPT B en la semana 12 después del tratamiento;
+de los 88 pacientes que tenían cirrosis CPT B en la situación basal, el 25% (22/88) tenían cirrosis CPT A en la semana 12 después del tratamiento.
+La mejoría observada en las puntuaciones CPT se debió en gran medida a mejorías en la bilirrubina total y en la albúmina.
+Eficacia clínica y seguridad en el genotipo 2, 3, 4, 5 y 6 (ver también la sección 7.1)
+Ledipasvir/sofosbuvir se ha evaluado para el tratamiento de la infección por genotipos distintos del 1 en pequeños ensayos de fase 2, tal como se resume a continuación. En los ensayos clínicos se incluyeron a pacientes con o sin cirrosis, que no habían recibido tratamiento previo o con fracaso del tratamiento anterior tras el tratamiento con PEG-IFN + ribavirina
++/ un inhibidor de la proteasa del VHC. Para la infección por el genotipo
+2, 4, 5 y 6, el tratamiento consistió en ledipasvir/sofosbuvir sin ribavirina, administrado durante 12 semanas (Tabla 18). Para la infección por el genotipo 3, se administró ledipasvir/sofosbuvir con o sin ribavirina, también durante 12 semanas (Tabla 19).
+Tabla  18.  Tasas  de  respuesta  (RVS12)  con  ledipasvir/sofosbuvir durante 12 semanas en pacientes con infección por VHC de genotipo 2, 4, 5 y 6
+
+Ensayo
+
+GT
+
+n
+
+TPa
+
+RVS12
+
+Recaídab
+
+Ensayo 1468
+(LEPTON)
+
+Ensayo 1119
+
+Ensayo 1119
+
+Ensayo 0122
+(ELECTRON-2)
+
+2
+
+4
+
+5
+
+6
+
+26
+
+44
+
+41
+
+25
+
+19%
+(5/26)
+
+50%
+(22/44)
+
+49%
+(20/41)
+
+0%
+(0/25)
+
+Global
+
+Cirrosis
+
+96% (25/26)
+
+100% (2/2)
+
+0% (0/25)
+
+93% (41/44)
+
+100%
+(10/10)
+
+7% (3/44)
+
+93% (38/41)
+
+89% (8/9)
+
+5% (2/40)
+
+96% (24/25)
+
+100% (2/2)
+
+4% (1/25)
+
+a. TP: Número de pacientes que habían recibido tratamiento previo.
+b. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+Tabla 19. Tasas de respuesta (RVS12) en pacientes con infección por el genotipo 3 (ELECTRON-2)
+
+LDV/SOF+RBV
+12 semanas
+
+LDV/SOF
+12 semanas
+
+RVS
+
+Recaídaa
+
+RVS
+
+Recaídaa
+
+100% (26/26)
+
+0% (0/26)
+
+64% (16/25)
+
+33% (8/24)
+
+100% (20/20)
+
+0% (0/21)
+
+71% (15/21)
+
+25% (5/20)
+
+100% (6/6)
+
+0% (0/5)
+
+25% (1/4)
+
+75% (3/4)
+
+82% (41/50)
+
+16% (8/49)
+
+89% (25/28)
+
+7% (2/27)
+
+73% (16/22)
+
+27% (6/22)
+
+NE
+
+NE
+
+NE
+
+NE
+
+NE
+
+NE
+
+Sin tratamiento previo
+
+Pacientes sin cirrosis
+
+Pacientes con cirrosis
+
+Con tratamiento previo
+
+Pacientes sin cirrosis
+
+Pacientes con cirrosis
+
+NE: No estudiado.
+a. El denominador para la recaída es el número de pacientes con ARN del VHC <LIdC en su última evaluación durante el tratamiento.
+Pacientes con insuficiencia renal grave
+El estudio 0154 fue un estudio clínico abierto para evaluar la seguridad y la eficacia de 12 semanas de tratamiento con ledipasvir/sofosbuvir en 18 pacientes infectados por el VHC de genotipo 1 con insuficiencia renal grave no sometidos a diálisis. En la situación basal, dos pacientes tenían cirrosis y la TFGe media era de 24,9 ml/min (intervalo: 9,0-39,6). Se logró RVS12 en 18/18 pacientes. El estudio 4063 fue un estudio clínico abierto  de  tres  ramas  que  evaluó  8,  12  y  24  semanas  de  tratamiento con  ledipasvir/sofosbuvir  en  un  total  de  95  pacientes  con  genotipo  1
+(72%), 2 (22%), 4 (2%), 5 (1%) o 6 (2%) HCC y NT que requieren diálisis:
+45 pacientes infectados con VHC genotipo 1 sin tratamiento previo y sin cirrosis recibieron ledipasvir/sofosbuvir durante 8 semanas; 31 pacientes con infección por VHC genotipo 1 con tratamiento previo y pacientes sin tratamiento previo o pacientes con infección por genotipo 2, 5 y 6 sin cirrosis  recibieron  ledipasvir/sofosbuvir durante 12 semanas; y 19 pacientes con genotipo 1, 2 y 4 infectados por VHC con cirrosis compensada recibieron ledipasvir/sofosbuvir durante 24 semanas. Del total de 95 pacientes, al inicio del estudio, el 20% de los pacientes tenía cirrosis, el  22%  tenía  experiencia  en  el  tratamiento,  el  21%  había  recibido  un trasplante de riñón, el 92% recibía hemodiálisis y el 8% recibía diálisis peritoneal; la duración media de la diálisis fue de 11.5 años (rango: 0.2 a 43.0 años). Las tasas de RVS para los grupos de tratamiento con ledipasvir/sofosbuvir a las 8, 12 y 24 semanas fueron del 93% (42/45), 100%
+(31/31) y 79% (15/19), respectivamente. De los siete pacientes que no lograron RVS12, ninguno experimentó falla virológica o recayó
+
+Población pediátrica
+La  eficacia  de  ledipasvir/sofosbuvir  en  los  adolescentes  de  12  a  <18 años  de  edad  infectados  por  el  VHC  se  evaluó  en  un  ensayo  clínico abierto de fase 2 en el que participaron 100 pacientes con HCC de genotipo 1 (Estudio 1116). Ochenta de los pacientes (el 80%) no habían recibido ningún tratamiento previo, mientras que 20 pacientes (el 20%)
+sí lo habían recibido. Todos los pacientes del ensayo fueron tratados con ledipasvir/sofosbuvir  durante  12  semanas.  Las  características  demográficas y basales estaban equilibradas entre los pacientes sin ningún tratamiento previo y los pacientes con tratamiento previo. De los 100 pacientes tratados, la mediana de la edad era de 15 años (intervalo: 12 a 17); el 63% eran mujeres; el 90% eran blancos y el 7% eran negros;
+el 2% eran asiáticos, el 13% eran hispanos/latinos; el peso medio era de 61,3 kg (intervalo: 33,0 a 126,0 kg); el 55% tenían concentraciones de ARN del VHC mayores o iguales que 800.000 UI/ml; el 81% presentaban infección por el VHC de genotipo 1a; el 76% tenían alelos IL28B no CC (CT o TT) y el 1% presentaban cirrosis conocida. La mayoría de los pacientes (el 84%) se habían infectado por transmisión vertical. La tasa global de RVS12 fue del 98% (98% [78/80] en pacientes sin ningún tratamiento previo y el 100% [20/20] en pacientes con tratamiento previo).
+Dos de los 100 pacientes (el 2%), ambos sin ningún tratamiento previo, no alcanzaron la RVS12 (por pérdida para el seguimiento). Ninguno de los pacientes presentó un fracaso virológico (ver sección 4 para consultar la información sobre el uso en la población pediátrica).
+9. REACCIONES ADVERSAS
+Resumen del perfil de seguridad en adultos La evaluación de la seguridad de ledipasvir/sofosbuvir se basó principalmente en los datos agrupados de tres ensayos clínicos de fase 3 sin control, en 1952 pacientes que recibieron ledipasvir/sofosbuvir durante
+8, 12 o 24 semanas, incluyendo 872 pacientes que recibieron un tratamiento combinado de ledipasvir/sofosbuvir + ribavirina. El porcentaje de pacientes que suspendieron permanentemente el tratamiento debido a acontecimientos adversos fue del 0%, <1% y 1% para los pacientes que recibieron ledipasvir/sofosbuvir durante 8, 12 y 24 semanas, respectivamente, y de <1%, 0%, y 2% para los pacientes que recibieron el tratamiento combinado de ledipasvir/sofosbuvir + ribavirina durante 8,
+12 y 24 semanas, respectivamente. En los ensayos clínicos, la fatiga y la cefalea fueron más frecuentes en los pacientes tratados con ledipasvir/ sofosbuvir en comparación con placebo. Cuando ledipasvir/sofosbuvir se  estudió  junto  con  ribavirina,  las  reacciones  adversas  más  frecuentes  del  tratamiento  combinado  de  ledipasvir/sofosbuvir  +  ribavirina concordaron con el perfil de seguridad conocido de la ribavirina, sin un aumento de la frecuencia ni de la gravedad de las reacciones adversas previstas.  Se  han  identificado  las  siguientes  reacciones  adversas  con HARVONI®  (Tabla  20).  Las  reacciones  adversas  se  incluyen  a  continuación según el sistema de clasificación de órganos y frecuencia. Las frecuencias se definen del siguiente modo: muy frecuentes (≥1/10), frecuentes (≥1/100 a <1/10), poco frecuentes (≥1/1.000 a <1/100), raras
+(≥1/10.000 a <1/1.000) o muy raras (<1/10.000).
+Tabla 20. Reacciones adversas medicamentosas identificadas con
+HARVONI®
+
+Frecuencia
+
+Reacción adversa medicamentosa
+
+Trastornos del sistema nervioso:
+
+Muy frecuentes
+
+Cefalea
+
+Trastornos de la piel y del tejido subcutáneo:
+
+Frecuentes
+
+No conocida
+
+erupción cutánea
+
+angioedema
+
+Trastornos generales:
+
+Muy frecuentes
+
+Fatiga
+
+Adultos con cirrosis descompensada y/o que están a la espera de un trasplante hepático o después de un trasplante hepático Se evaluó el perfil de seguridad de ledipasvir/sofosbuvir con ribavirina durante 12 o 24 semanas en adultos con hepatopatía descompensada y/o después de un trasplante hepático en dos ensayos abiertos (SOLAR
+1 y SOLAR-2). No se detectaron reacciones adversas medicamentosas nuevas en los pacientes con cirrosis descompensada y/o después de un trasplante hepático que recibieron ledipasvir/sofosbuvir con ribavirina.
+Aunque  se  produjeron  acontecimientos  adversos,  incluidos  acontecimientos adversos graves, con mayor frecuencia en este ensayo que en los ensayos en los que se excluyó a los pacientes descompensados y/o después de un trasplante hepático, los acontecimientos adversos observados fueron los esperados como secuelas clínicas de una hepatopatía avanzada y/o un trasplante hepático o fueron consistentes con el perfil de seguridad conocido de la ribavirina (ver sección 8 para información detallada sobre este estudio). El 39% y el 13% de los pacientes tratados con ledipasvir/sofosbuvir con ribavirina presentaron disminuciones de la hemoglobina a <10 g/dl y <8,5 g/dl, respectivamente, durante el tratamiento. La ribavirina se interrumpió en el 15% de los pacientes. En el
+
+7% de los receptores de trasplante hepático se realizó una modificación de los medicamentos inmunosupresores.
+Pacientes con insuficiencia renal
+En un estudio clínico abierto (Estudio 0154) se administró ledipasvir/ sofosbuvir durante 12 semanas a 18 pacientes con HCC de genotipo 1 e insuficiencia renal grave. En este conjunto limitado de datos sobre la seguridad clínica, la tasa de acontecimientos adversos no aumentó claramente con respecto a lo que se espera en pacientes con insuficiencia renal grave. La seguridad de HARVONI® se evaluó en un estudio no controlado de 12 semanas que incluyó a 95 pacientes con NT que requerían diálisis (Estudio 4063). En este contexto, la exposición al metabolito de sofosbuvir GS-331007 aumentó 20 veces, superando los niveles para los cuales se han observado reacciones adversas en ensayos preclínicos.
+En este conjunto limitado de datos sobre la seguridad clínica, la tasa de acontecimientos adversos y muertes no aumentó claramente con respecto a lo que se espera en pacientes con NT.
+Población pediátrica
+La seguridad y la eficacia de HARVONI® en niños y adolescentes de 12 a <de 18 años se basa en los datos obtenidos en un estudio clínico abierto de fase 2 (Estudio 1116) en el que participaron 100 pacientes con infección por el VHC de genotipo 1 que fueron tratados con ledipasvir/sofosbuvir durante 12 semanas. Las reacciones adversas observadas fueron coherentes  con  las  constatadas  en  los  estudios  clínicos  de  ledipasvir/ sofosbuvir en adultos (ver la tabla 1).
+Descripción de las reacciones adversas seleccionadas Arritmias cardíacas. Se han observado casos de bradicardia severa y bloqueo cardiaco cuando HARVONI® se utiliza con amiodarona, con o sin otros fármacos antiarrítmicos (ver secciones 7.1 y 7.2).
+Trastornos de la piel. Frecuencia no conocida: Síndrome de Stevens-Johnson Notificación de sospechas de reacciones adversas Es importante notificar la sospecha de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+10. SOBREDOSIS
+Las dosis más altas documentadas de ledipasvir y sofosbuvir fueron de 120 mg dos veces al día durante 10 días y una dosis única de 1.200 mg, respectivamente. En estos ensayos con voluntarios sanos, no se observaron efectos adversos con estas dosis y las reacciones adversas fueron similares en frecuencia y gravedad a las notificadas en los grupos de tratamiento con placebo. Se desconocen los efectos de dosis más altas. No se dispone de un antídoto específico para la sobredosis de HARVONI®.
+En caso de sobredosis, se debe vigilar al paciente por si hay evidencia de toxicidad. El tratamiento de la sobredosis de HARVONI® consiste en medidas  generales  de  apoyo,  incluida  la  vigilancia  de  las  constantes vitales, así como la observación del estado clínico del paciente. Es poco probable  que  la  hemodiálisis  produzca  una  eliminación  significativa de ledipasvir, ya que este medicamento se une en gran medida a las proteínas plasmáticas. La hemodiálisis puede eliminar eficazmente el principal metabolito circulante de sofosbuvir, GS-331007, con una tasa de extracción del 53%.
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+CONSERVACIÓN Y ALMACENAMIENTO
+Conservar a temperatura inferior a 30°C.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él se realizará de acuerdo con la normativa local. No utilice este medicamento después de la fecha de vencimiento que aparece en el envase. La fecha de caducidad es el último día del mes que se indica.
+11. PRESENTACIONES
+HARVONI® se presenta en envases conteniendo 28 comprimidos recubiertos.
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción y vigilancia médica y no puede repetirse sin una nueva receta médica”.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A.
+
+Elaborado en: Patheon Inc, Syntex Court, Mississauga, Ontario, Canadá
+
+y/o Gilead Sciences Ireland UC, Carrigtohill, County Cork, Irlanda.
+
+Representado, Comercializado y Distribuido por Gador S.A.
+Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado No 58.113
+
+Fecha de última revisión: 04/2020
+
+AR-DEC19-EU-NOV19
+
+G00179604-04
