@@ -1,0 +1,993 @@
+Venta bajo receta archivada
+Industria Argentina
+
+ELIGLAS®
+ ELIGLUSTAT TARTRATO 100 mg
+Cápsulas duras
+
+COMPOSICIÓN
+Cada cápsula dura de ELIGLAS® contiene:
+Eliglustat Tartrato (como Eliglustat base 84,4 mg) .......100,000 mg
+Excipientes:
+Celulosa microcristalina PH102 .....................................39,667 mg
+Lactosa monohidrato ....................................................86,433 mg
+Hidroxipropilmetilcelulosa E15 ........................................9,520 mg
+Dibehenato de glicerilo ...................................................2,380 mg
+Gelatina ......................................................................59,4865 mg
+Dióxido de titanio ..........................................................1,5031 mg
+Colorante FD&C Azul N°1 ..............................................0,0056 mg
+Colorante FD&C Amarillo N° 6 .......................................0,0045 mg
+Colorante Rojo Allura FD&C N° 40 .................................0,0003 mg
+
+ACCION TERAPEUTICA
+Grupo  farmacoterapéutico:  otros  productos  del  aparato  digestivo
+y del metabolismo. Distintos productos del aparato digestivo y del
+metabolismo
+Código ATC A16AX10.
+
+INDICACIONES
+ELIGLAS®  está  indicado  para  el  tratamiento  a  largo  plazo  de  pa-
+cientes  adultos  con  enfermedad  de  Gaucher  de  tipo  1  (EG1)  que
+son metabolizadores lentos (ML), metabolizadores intermedios (MI)
+o metabolizadores rápidos (MR) del CYP2D6.
+
+PROPIEDADES FARMACOLÓGICAS
+Mecanismo de acción
+Eliglustat es un potente inhibidor específico de la glucosilceramida
+sintasa que actúa como tratamiento reductor de sustrato (TRS) para
+la EG1. El objetivo del TRS es reducir la velocidad de síntesis del
+principal sustrato glucosilceramida (GL-1) para adecuarlo a la velo-
+cidad alterada del catabolismo en los pacientes con EG1 y prevenir
+así la acumulación de glucosilceramida y aliviar las manifestacio-
+nes clínicas.
+Efectos farmacodinámicos
+En los ensayos clínicos en pacientes con EG1 que no habían recibi-
+do tratamiento previo, los niveles de GL-1 en plasma eran elevados
+en la mayoría de los pacientes y descendieron con el tratamiento
+con eliglustat. Además, en un ensayo clínico en pacientes con EG1
+estabilizados con terapia de sustitución enzimática (TSE) (es decir,
+que ya habían alcanzado los objetivos terapéuticos con la TSE antes
+de iniciar el tratamiento con eliglustat), los valores de GL-1 en plas-
+ma eran normales en la mayoría de los pacientes y descendieron
+con el tratamiento con eliglustat.
+Evaluación electrocardiográfica
+No se observaron efectos prolongadores del QTc clínicamente signi-
+ficativos de eliglustat en dosis únicas de hasta 675 mg.
+Según  los  modelos  farmacocinéticos/farmacodinámicos,  se  prevé
+que las concentraciones plasmáticas de eliglustat 11 veces supe-
+riores a la Cmáx prevista en humanos causen incrementos medios
+(límite  superior  del  intervalo  de  confianza  al  95  %)  en  los  inter-
+valos  PR,  QRS  y  QTcF  de  18,8  (20,4),  6,2  (7,1)  y  12,3  (14,2)  ms
+respectivamente.
+Propiedades farmacocinéticas de relevancia clínica
+Absorción
+La mediana  del tiempo  hasta alcanzar  las concentraciones máxi-
+mas en plasma se sitúa entre 1,5 y 6 horas después de la admi-
+nistración,  con  una  biodisponibilidad  oral  baja  (<  5  %)  debido  al
+importante metabolismo de primer paso. Eliglustat es un sustrato
+de la gp-P transportadora de eflujo. El alimento no produce efectos
+clínicamente relevantes en la farmacocinética de eliglustat. Tras la
+administración repetida de 100 mg de eliglustat tartrato dos veces
+
+al día en no ML y una vez al día en ML, el equilibrio dinámico se al-
+canzó en 4 días, con una tasa de acumulación de 3 veces o menos.
+Distribución
+Eliglustat se une moderadamente a las proteínas plasmáticas hu-
+manas (del 76 al 83 %) y se distribuye principalmente en el plasma.
+Tras la administración intravenosa, el volumen de distribución fue
+de 816 l, lo que permite suponer una distribución generalizada en
+los tejidos en humanos. Los estudios preclínicos demostraron una
+distribución  generalizada  de  eliglustat  en  los  tejidos,  incluida  la
+médula ósea.
+Biotransformación
+Eliglustat se metaboliza extensamente con una eliminación elevada,
+sobre todo a través del CYP2D6 y, en menor medida, del CYP3A4.
+Las principales vías metabólicas de eliglustat incluyen la oxidación
+secuencial  del  grupo  octanoil  seguida  de  la  oxidación  del  grupo
+2,3-dihidro-1,4-benzodioxano, o una combinación de las dos vías,
+lo que da lugar a múltiples metabolitos oxidativos.
+Eliminación
+Tras la administración oral, la mayoría de la dosis administrada se
+excreta en la orina (41,8 %) y en las heces (51,4 %), sobre todo en
+forma de metabolitos. Tras la administración intravenosa, la elimi-
+nación corporal total de eliglustat fue de 86 l/h. Tras dosis repetidas
+de 100 mg de eliglustat tartrato dos veces al día, la semivida de
+eliminación de eliglustat es de 4-7 horas aproximadamente en no
+ML y de 9 horas en ML.
+Características en grupos específicos
+Fenotipo del CYP2D6
+El análisis farmacocinético poblacional revela que el fenotipo pre-
+visto del CYP2D6 según el genotipo constituye el factor más impor-
+tante  que  afecta  a  la  variabilidad  farmacocinética.  Los  individuos
+con un fenotipo previsto de metabolizador lento (ML) del CYP2D6
+(aproximadamente entre el 5 y el 10 % de la población) muestran
+concentraciones  más  altas  de  eliglustat  que  los  metabolizadores
+intermedios (MI) o los metabolizadores rápidos (MR) del CYP2D6.
+Sexo, peso corporal, edad y raza
+Según el análisis farmacocinético poblacional, el sexo, el peso cor-
+poral, la edad y la raza tuvieron un impacto limitado o nulo en la
+farmacocinética de eliglustat.
+Insuficiencia hepática
+Tras una dosis única de 100 mg de eliglustat tartrato, la Cmáx y el
+ABC de eliglustat fueron 1,2 y 1,2 veces superiores en los metaboli-
+zadores rápidos (MR) del CYP2D6 con insuficiencia hepática leve, y
+2,8 y 5,2 veces superiores en los metabolizadores rápidos (MR) del
+CYP2D6 con insuficiencia hepática moderada en comparación con
+los metabolizadores rápidos (MR) del CYP2D6 sanos.
+Tras dosis repetidas de 100 mg de eliglustat tartrato dos veces al
+día, se predice que la Cmáx y el ABC0-12 son 2,4 y 2,9 veces superiores
+en metabolizadores rápidos (MR) del CYP2D6 con insuficiencia he-
+pática leve y 6,4 y 8,9 veces superiores en metabolizadores rápidos
+(MR) del CYP2D6 con insuficiencia hepática moderada en compara-
+ción con metabolizadores rápidos (MR) del CYP2D6 sanos.
+Tras dosis repetidas de 100 mg de eliglustat tartrato una vez al día,
+se predice que la Cmáx y el ABC0-24 son 3,1 y 3,2 veces superiores en
+metabolizadores rápidos (MR) del CYP2D6 con insuficiencia hepática
+moderada  en  comparación  con  metabolizadores  rápidos  (MR)  del
+CYP2D6 sanos que reciben eliglustat tartrato 100 mg dos veces al día
+La  exposición  farmacocinética  en  el  estado  estacionario  no  se
+puede predecir en los metabolizadores intermedios (MI) y metabo-
+lizadores  lentos  (ML)  del  CYP2D6  con  insuficiencia  hepática  mo-
+derada y leve debido a que los datos a dosis única son limitados
+o no existen.
+
+El efecto de la insuficiencia hepática grave no se estudió en sujetos
+con cualquier fenotipo del CYP2D6.
+Insuficiencia renal
+Tras una dosis única de 100 mg de eliglustat tartrato, la Cmáx y el
+ABC de eliglustat fueron similares en metabolizadores rápidos (MR)
+del CYP2D6 con insuficiencia renal grave y en metabolizadores rá-
+pidos (MR) del CYP2D6 sanos.
+No se dispone de datos o estos son limitados en pacientes con en-
+fermedad renal terminal y en metabolizadores intermedios (MI) o me-
+tabolizadores lentos (ML) del CYP2D6 con insuficiencia renal grave.
+
+POSOLOGÍA/DOSIFICACIÓN - MODO DE ADMINISTRACIÓN
+El tratamiento con ELIGLAS® debe ser iniciado y supervisado por un
+médico con conocimientos sobre el tratamiento de la enfermedad
+de Gaucher.
+Posología
+La dosis recomendada es de 100 mg de eliglustat tartrato dos veces
+al día en metabolizadores intermedios (MI) y metabolizadores rápidos
+(MR) del CYP2D6.
+La dosis recomendada es de 100 mg de eliglustat tartrato una vez
+al día en metabolizadores lentos (ML) del CYP2D6.
+Dosis omitidas
+Si se omite una dosis, se debe tomar la dosis prescrita en la siguiente
+toma programada; no se debe duplicar la dosis siguiente.
+Poblaciones especiales
+Metabolizadores ultrarrápidos (MUR) y metabolizadores indetermi-
+nados del CYP2D6
+ELIGLAS® no debe utilizarse en pacientes que son metabolizadores
+ultrarrápidos (MUR) o indeterminados del CYP2D6.
+Pacientes pediátricos
+No se ha establecido la seguridad y eficacia de eliglustat tartrato en
+niños y adolescentes menores de 18 años. No se dispone de datos.
+Pacientes de edad avanzada (de 65 años o más)
+Un número limitado de pacientes de 65 años o más participó en los
+ensayos clínicos de eliglustat tartrato. No se detectaron diferencias
+significativas en los perfiles de eficacia y seguridad en los pacientes
+de edad avanzada y los pacientes más jóvenes. Los datos indican
+que no se considera necesario un ajuste de la dosis.
+Pacientes con insuficiencia renal
+En metabolizadores rápidos (MR) del CYP2D6 con insuficiencia renal
+leve, moderada o grave, no se requiere ajuste de la dosis y la dosis
+recomendada es de 100 mg de eliglustat tartrato dos veces al día.
+No se recomienda ELIGLAS® en metabolizadores rápidos (MR) del
+CYP2D6 con enfermedad renal en etapa terminal (ERET).
+No se recomienda ELIGLAS® en metabolizadores intermedios (MI)
+o metabolizadores lentos (ML) del CYP2D6 con insuficiencia renal
+leve, moderada o grave o ERET.
+Pacientes con insuficiencia hepática:
+ELIGLAS®  está  contraindicado  en  metabolizadores  rápidos  (MR)
+del CYP2D6 con insuficiencia hepática grave (Child-Pugh Clase C).
+No se recomienda ELIGLAS® en metabolizadores rápidos (MR) del
+CYP2D6 con insuficiencia hepática moderada (Child-Pugh Clase B).
+En metabolizadores rápidos (MR) del CYP2D6 con insuficiencia he-
+pática leve (Child-Pugh Clase A), no es necesario ajustar la dosis
+y  la  dosis  recomendada  es  de  100  mg  de  eliglustat  tartrato  dos
+veces al día.
+No se recomienda ELIGLAS® en metabolizadores intermedios (MI)
+o metabolizadores lentos (ML) del CYP2D6 con cualquier grado de
+insuficiencia hepática.
+ELIGLAS® está contraindicado en metabolizadores rápidos (MR) del
+CYP2D6 con insuficiencia hepática leve o moderada que toman un
+inhibidor potente o moderado del CYP2D6.
+En metabolizadores rápidos (MR) del CYP2D6 con insuficiencia he-
+pática leve que toman un inhibidor débil del CYP2D6 o un inhibidor
+potente, moderado o débil del CYP3A, se debe considerar una dosis
+de 100 mg de eliglustat tartrato una vez al día.
+Forma de administración
+ELIGLAS® se debe tomar por vía oral. Las cápsulas deben tragarse
+enteras,  preferentemente  con  agua,  sin  aplastarse,  disolverse  ni
+abrirse. Las cápsulas pueden tomarse con o sin comida. Se debe
+evitar el consumo de pomelo o de jugo de pomelo.
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+Pacientes que sean metabolizadores intermedios (MI) o metaboli-
+zadores rápidos (MR) del CYP2D6 y que toman un inhibidor potente
+
+o moderado del CYP2D6 de manera concomitante con un inhibidor
+potente o moderado del CYP3A y pacientes que sean metaboliza-
+dores  lentos  (ML)  del  CYP2D6  y  que  toman  un  inhibidor  potente
+del  CYP3A.  El  uso  de  ELIGLAS®  en  estas  condiciones  da  lugar  a
+importantes  elevaciones  de  las  concentraciones  plasmáticas  de
+eliglustat.
+Debido al aumento significativo de las concentraciones plasmáticas
+de  eliglustat,  ELIGLAS®  está  contraindicado  en  metabolizadores
+rápidos (MR) del CYP2D6 con insuficiencia hepática grave y en me-
+tabolizadores rápidos (MR) del CYP2D6 con insuficiencia hepática
+leve o moderada que toman un inhibidor potente o moderado del
+CYP2D6.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+Inicio del tratamiento: genotipificación del CYP2D6
+Antes del inicio del tratamiento con ELIGLAS®, se debe genotipificar
+el CYP2D6 de los pacientes para determinar sus características de
+metabolización del CYP2D6.
+Pacientes con afecciones cardíacas preexistentes
+El uso de eliglustat en pacientes con afecciones cardíacas preexis-
+tentes no se ha estudiado en ensayos clínicos. Dado que se prevé
+que  eliglustat  cause  aumentos  leves  de  los  intervalos  del  ECG  a
+concentraciones plasmáticas sustancialmente elevadas, el uso de
+ELIGLAS®  se  debe  evitar  en  pacientes  con  enfermedad  cardíaca
+(insuficiencia  cardíaca  congestiva,  infarto  agudo  de  miocardio
+reciente, bradicardia, bloqueo cardíaco, arritmia ventricular) y sín-
+drome de QT largo, así como en combinación con medicamentos
+antiarrítmicos de clase IA (por ejemplo, quinidina) y de clase III (por
+ejemplo, amiodarona, sotalol).
+Pacientes con insuficiencia hepática
+Se dispone de datos limitados en metabolizadores rápidos (MR) del
+CYP2D6 con insuficiencia hepática moderada. No se recomienda el
+uso  de  ELIGLAS®  en  estos  pacientes  (ver  secciones  POSOLOGÍA/
+DOSIFICACIÓN - MODO DE ADMINISTRACIÓN, Propiedades farma-
+cocinéticas de relevancia clínica).
+No se dispone de datos o estos son limitados en metabolizadores
+intermedios  (MI)  o  metabolizadores  lentos  (ML)  del  CYP2D6  con
+cualquier  grado  de  insuficiencia  hepática.  No  se  recomienda  el
+uso  de  ELIGLAS®  en  estos  pacientes  (ver  secciones  POSOLOGÍA/
+DOSIFICACIÓN - MODO DE ADMINISTRACIÓN, Propiedades farma-
+cocinéticas de relevancia clínica).
+El  uso  concomitante  de  ELIGLAS®  con  inhibidores  del  CYP2D6  o
+CYP3A4 en metabolizadores rápidos (MR) del CYP2D6 con insufi-
+ciencia hepática leve puede desembocar en una elevación adicional
+de  las  concentraciones  plasmáticas  de  eliglustat,  cuya  magnitud
+del efecto dependerá de la enzima inhibida y la potencia del inhi-
+bidor. En los metabolizadores rápidos (MR) del CYP2D6 con insufi-
+ciencia hepática leve que toman un inhibidor débil del CYP2D6 o un
+inhibidor potente, moderado o débil del CYP3A, se debe considerar
+una dosis de 100 mg de eliglustat tartrato una vez al día (ver sec-
+ciones  POSOLOGÍA/DOSIFICACIÓN  -  MODO  DE  ADMINISTRACIÓN,
+Propiedades farmacocinéticas de relevancia clínica).
+Pacientes con insuficiencia renal
+No se dispone de datos o estos son limitados en metabolizadores
+rápidos (MR), metabolizadores intermedios (MI) o metabolizadores
+lentos (ML) del CYP2D6 con ERET y en metabolizadores intermedios
+(MI) o metabolizadores lentos (ML) del CYP2D6 con insuficiencia re-
+nal leve, moderada o grave; no se recomienda el uso de ELIGLAS®
+en  estos  pacientes  (ver  secciones  POSOLOGÍA/DOSIFICACIÓN
+-  MODO  DE  ADMINISTRACIÓN,  Propiedades  farmacocinéticas  de
+relevancia clínica).
+Control de la respuesta clínica
+Algunos pacientes sin tratamiento previo mostraron una reducción
+menor  del  20%  del  volumen  del  bazo  (resultados  subóptimos)
+después  de  9  meses  de  tratamiento;  estos  pacientes  deben  ser
+evaluados  para  sucesivas  mejoras  o  considerarse  otra  modalidad
+alternativa de tratamiento.
+Para aquellos pacientes con enfermedad estabilizada que cambien
+a tratamiento con eliglustat desde la terapia de reemplazo enzimá-
+tica, debe evaluarse la progresión de la enfermedad (por ejemplo,
+después de 6 meses y de forma regular posteriormente), para todos
+los aspectos de la enfermedad para evaluar su estabilización. En los
+pacientes individuales con una respuesta subóptima, debe conside-
+rarse la reinstauración de un tratamiento de sustitución enzimática.
+Lactosa
+Los  pacientes  con  problemas  hereditarios  raros  de  intolerancia  a
+
+la galactosa, deficiencia de lactasa Lapp o malabsorción de gluco-
+sa-galactosa no deben tomar este medicamento.
+Interacciones  con  otros  medicamentos  y  otras  formas  de
+interacción
+Eliglustat se metaboliza principalmente a través del CYP2D6 y, en
+menor grado, a través del CYP3A4. La administración concomitante
+de sustancias que afecten a la actividad del CYP2D6 o del CYP3A4
+puede alterar las concentraciones plasmáticas de eliglustat. Eliglus-
+tat es un inhibidor de la gp-P y del CYP2D6 in vitro; la administra-
+ción concomitante de eliglustat con sustancias sustrato de la gp-P
+o del CYP2D6 puede elevar la concentración de estas sustancias.
+El listado de sustancias que se presenta en esta sección no es com-
+pleto; se aconseja al médico que consulte los prospectos de todos
+los medicamentos que le sean prescritos al paciente para evaluar
+potenciales interacciones de eliglustat con otros medicamentos.
+  •  Medicamentos  que  pueden  aumentar  la  exposición  a
+eliglustat
+ELIGLAS®  está  contraindicado  en  los  pacientes  que  sean  meta-
+bolizadores  intermedios  (MI)  o  metabolizadores  rápidos  (MR)  del
+CYP2D6 y que toman un inhibidor potente (por ejemplo, paroxetina,
+fluoxetina, quinidina) o moderado (por ejemplo, duloxetina, terbina-
+fina) del CYP2D6 de manera concomitante con un inhibidor potente
+(por ejemplo, claritromicina, itraconazol) o moderado (por ejemplo,
+eritromicina, fluconazol) del CYP3A, y en pacientes que sean meta-
+bolizadores lentos (ML) del CYP2D6 y que toman un inhibidor po-
+tente del CYP3A. En estas condiciones, las dos vías principales del
+metabolismo de eliglustat están alteradas y se prevén elevaciones
+importantes de las concentraciones plasmáticas del medicamento.
+Inhibidores del CYP2D6
+En metabolizadores intermedios (MI) y metabolizadores rápidos (MR)
+Tras dosis repetidas de 100 mg de eliglustat tartrato dos veces al
+día en no ML, la administración concomitante con dosis repetidas
+una  vez  al  día  de  30  mg  de  paroxetina,  un  potente  inhibidor  del
+CYP2D6, dio lugar a que la Cmáx y el ABC0-12 de eliglustat aumentaran
+7,3 y 8,9 veces, respectivamente. Se debe considerar una dosis de
+eliglustat tartrato 100 mg una vez al día cuando se utilice de forma
+concomitante un inhibidor potente de CYP2D6 en MI y MR.
+Con la administración de 100 mg de eliglustat tartrato dos veces al
+día en no ML, se prevé que el uso concomitante de inhibidores mo-
+derados del CYP2D6 (por ejemplo, duloxetina, terbinafina, moclobe-
+mida, mirabegrón, cinacalcet, dronedarona) aumente la exposición
+a  eliglustat  hasta  en  4  veces  aproximadamente.  Los  inhibidores
+moderados del CYP2D6 deben utilizarse con precaución en MI y MR.
+En metabolizadores rápidos (MR) con insuficiencia hepática leve o
+moderada
+Ver más arriba en esta sección y secciones POSOLOGÍA/DOSIFICACIÓN
+- MODO DE ADMINISTRACIÓN, CONTRAINDICACIONES.
+En metabolizadores rápidos (MR) con insuficiencia hepática grave
+Ver más arriba en esta sección y secciones POSOLOGÍA/DOSIFICACIÓN
+- MODO DE ADMINISTRACIÓN, CONTRAINDICACIONES.
+Inhibidores del CYP3A
+En metabolizadores intermedios (MI) y metabolizadores rápidos (MR)
+Tras dosis repetidas de 100 mg de eliglustat tartrato dos veces al
+día  en  no  ML,  la  administración  concomitante  de  dosis  repetidas
+una vez al día de 400 mg de ketoconazol, un inhibidor potente del
+CYP3A, dio lugar a que la Cmáx y el ABC0-12 de eliglustat aumentaran
+3,8  y  4,3  veces,  respectivamente;  son  de  esperar  efectos  seme-
+jantes en otros inhibidores potentes del CYP3A  (por ejemplo, cla-
+ritromicina, ketoconazol, itraconazol, cobicistat, indinavir, lopinavir,
+ritonavir, saquinavir, telaprevir, tipranavir, posaconazol, voriconazol,
+telitromicina, conivaptán, boceprevir). Los inhibidores potentes del
+CYP3A deben utilizarse con precaución en MI y MR.
+Con la administración de 100 mg de eliglustat tartrato dos veces
+al día en no ML, se prevé que el uso concomitante de inhibidores
+moderados  del  CYP3A  (por  ejemplo,  eritromicina,  ciprofloxacina,
+fluconazol, diltiazem, verapamilo, aprepitant, atazanavir, darunavir,
+fosamprenavir, imatinib, cimetidina) incremente hasta unas 3 veces
+la  exposición  a  eliglustat.  Los  inhibidores  moderados  del  CYP3A
+deben utilizarse con precaución en MI y MR.
+En metabolizadores rápidos (MR) con insuficiencia hepática leve
+Ver más arriba en esta sección y sección POSOLOGÍA/DOSIFICACIÓN
+- MODO DE ADMINISTRACIÓN.
+En metabolizadores rápidos (MR) con insuficiencia hepática mod-
+erada o grave
+Ver más arriba en esta sección y secciones POSOLOGÍA/DOSIFICACIÓN
+
+- MODO DE ADMINISTRACIÓN, CONTRAINDICACIONES.
+En metabolizadores lentos (ML)
+Con la administración de 100 mg de eliglustat tartrato una vez al día
+en ML, se prevé que el uso concomitante de un inhibidor potente del
+CYP3A (por ejemplo: ketoconazol, claritromicina, itraconazol, cobi-
+cistat, indinavir, lopinavir, ritonavir, saquinavir, telaprevir, tipranavir,
+posaconazol, voriconazol, telitromicina, conivaptán, boceprevir) in-
+cremente la Cmáx y el ABC0-24 de eliglustat entre 4,3 y 6,2 veces. Está
+contraindicado el uso de inhibidores potentes del CYP3A en ML.
+Con  la  administración  de  100  mg  de  eliglustat  tartrato  una  vez
+al  día  en  ML,  se  prevé  que  el  uso  concomitante  de  un  inhibidor
+moderado del CYP3A (por ejemplo: eritromicina, ciprofloxacina, flu-
+conazol, diltiazem, verapamilo, aprepitant, atazanavir, darunavir, fo-
+samprenavir, imatinib, cimetidina) incremente la Cmáx y el ABC0-24 de
+eliglustat entre 2,4 y 3,0 veces, respectivamente. No se recomienda
+el uso de un inhibidor moderado del CYP3A con eliglustat en ML.
+Los inhibidores débiles del CYP3A (por ejemplo, amlodipina, cilos-
+tazol, fluvoxamina, goldenseal, isoniazida, ranitidina y ranolazina) se
+deben usar con cautela en ML.
+Inhibidores  del  CYP2D6  usados  simultáneamente  con  inhibidores
+del CYP3A
+En metabolizadores intermedios (MI) y en metabolizadores rápidos
+(MR)
+Con la administración de 100 mg de eliglustat tartrato dos veces
+al día en no ML, se prevé que el uso concomitante de un inhibidor
+potente o moderado de CYP2D6 y un inhibidor potente o moderado
+de CYP3A incremente la Cmáx y el ABC0-12 hasta 17 a 25 veces, res-
+pectivamente. Está contraindicado el uso de un inhibidor potente o
+moderado del CYP2D6 concomitantemente con un inhibidor potente
+o moderado de CYP3A en MI y MR.
+Los productos derivados del pomelo contienen uno o varios compo-
+nentes que inhiben el CYP3A y pueden aumentar las concentraciones
+plasmáticas  de  eliglustat.  Se  debe  evitar  el  consumo  de  pomelo  o
+de jugo de pomelo.
+  • Medicamentos que pueden reducir la exposición a eliglustat
+Inductores potentes del CYP3A
+El uso de ELIGLAS® con inductores potentes del CYP3A reduce de
+manera sustancial la exposición a eliglustat, lo que puede disminuir
+la eficacia terapéutica de este; por lo tanto, no se recomienda su
+administración concomitante.
+Tras dosis repetidas de 127 mg de eliglustat dos veces al día en
+no ML, la administración concomitante una vez al día de dosis re-
+petidas de 600 mg de rifampicina (un inhibidor potente del CYP3A,
+así como de la gp-P transportadora de eflujo) dio lugar a un des-
+censo de cerca del 85 % en la exposición a eliglustat. Tras dosis
+repetidas de eliglustat tartrato 100 mg dos veces al día en ML, la
+administración concomitante de dosis repetidas de rifampicina 600
+mg una vez al día resultó en una reducción aproximada del 95% a
+la exposición con eliglustat. No se recomienda el uso de un inductor
+potente del CYP3A (por ejemplo, rifampicina, carbamazepina, feno-
+barbital,  fenitoína,  rifabutina  y  hierba  de  San  Juan)  con  eliglustat
+en MI, MR y ML.
+  • Medicamentos cuya exposición puede aumentar con eli-
+glustat
+Sustratos de la gp-P
+Tras una dosis única de 0,25 mg de digoxina, un sustrato de la gp-P,
+la  administración  concomitante  de  dosis  de  127  mg  de  eliglustat
+dos veces al día dio lugar a que la Cmáx y el ABCúlt. de digoxina au-
+mentaran 1,7 y 1,5 veces, respectivamente. Pueden ser necesarias
+dosis inferiores de las sustancias que son sustratos de la gp-P (por
+ejemplo, digoxina, colchicina, dabigatrán, fenitoína, pravastatina).
+Sustratos del CYP2D6
+Tras  una  dosis  única  de  50  mg  de  metoprolol,  un  sustrato  del
+CYP2D6,  la  administración  concomitante  de  dosis  repetidas  de
+127 mg de eliglustat dos veces al día dio lugar a que la Cmáx y el
+ABC del metoprolol aumentaran 1,5 y 2,1 veces, respectivamente.
+Pueden ser necesarias dosis inferiores de los medicamentos que
+son sustratos del CYP2D6. Estos incluyen algunos antidepresivos
+(antidepresivos tricíclicos, por ejemplo, nortriptilina, amitriptilina,
+imipramina  y  desipramina),  fenotiazinas,  dextrometorfano  y  ato-
+moxetina.
+Efectos sobre la capacidad para conducir vehículos u operar
+maquinarias
+La influencia de eliglustat sobre la capacidad para conducir y utilizar
+máquinas es nula o insignificante.
+
+Datos preclínicos sobre seguridad
+Toxicidad aguda y toxicidad crónica
+Los principales órganos diana de eliglustat en los estudios toxico-
+lógicos son el aparato digestivo, los órganos linfáticos, el hígado en
+las  ratas  solamente  y,  en  las  ratas  macho  solamente,  el  sistema
+reproductivo. Los efectos de eliglustat en los estudios toxicológicos
+fueron reversibles y no mostraron indicios de toxicidad tardía o re-
+currente. Los márgenes de seguridad para los estudios crónicos en
+ratas y perros se situaron entre 8 y 15 veces utilizando la exposición
+plasmática total y entre 1 y 2 veces utilizando la exposición plasmá-
+tica no ligada (fracción libre).
+Eliglustat no produjo efectos en el SNC ni en la función respiratoria.
+En los estudios preclínicos se observaron efectos cardíacos depen-
+dientes de la dosis: inhibición de los canales iónicos cardíacos hu-
+manos, incluidos el potasio, el sodio y el calcio, a concentraciones ≥
+7 veces la Cmáx humana prevista; efectos mediados por los canales
+de iones de sodio en un estudio electrofisiológico ex vivo en fibras
+de Purkinje de perros (2 veces la Cmáx plasmática no ligada humana
+prevista); y aumentos en los intervalos QRS y PR en estudios de la
+conducción  cardíaca  y  de  telemetría  en  perros  anestesiados,  con
+efectos observados a concentraciones 14 veces la Cmáx plasmáti-
+ca  total  humana  prevista  o  2  veces  la  Cmáx  plasmática  no  ligada
+humana prevista.
+Carcinogénesis, mutagénesis y trastornos de fertilidad
+Eliglustat no fue mutágeno en una batería estándar de pruebas de
+genotoxicidad  y  no  mostró  potencial  cancerígeno  en  bioanálisis
+para toda la vida estándar en ratones y ratas. Las exposiciones en
+los  estudios  de  carcinogenicidad  fueron  aproximadamente  4  y  3
+veces mayores en ratones y ratas, respectivamente, que la exposi-
+ción plasmática total al eliglustat humana prevista, o inferior a 1 vez
+utilizando la exposición plasmática no ligada.
+En ratas macho maduras, no se observaron efectos en los pará-
+metros  del  esperma  a  dosis  no  tóxicas  sistémicamente.  Se  ob-
+servó  inhibición  reversible  de  la  espermatogénesis  en  la  rata  a
+exposiciones 10 veces mayores que la exposición humana previs-
+ta según el ABC, una dosis tóxica sistémicamente. En estudios de
+toxicidad con dosis repetidas en ratas, se detectó degeneración
+epitelial  seminífera  e  hipoplasia  segmentaria  de  los  testículos  a
+exposiciones  10  veces  mayores  que  la  exposición  humana  pre-
+vista según el ABC.
+Toxicidad embriofetal - lactancia
+Se  halló  transferencia  placentaria  de  eliglustat  y  sus  metaboli-
+tos  en  la  rata.  Dos  y  24  horas  después  de  la  dosis,  se  detectó
+el  0,034  %  y  el  0,013  %  de  la  dosis  marcada  respectivamente
+en el tejido fetal.
+A dosis tóxicas para la madre en ratas, los fetos mostraron una
+mayor  incidencia  de  ventrículos  cerebrales  dilatados,  número
+anómalo de costillas o vértebras lumbares y osificación deficiente
+en numerosos huesos. El desarrollo embriofetal de ratas y conejos
+no se vio afectado a exposiciones clínicamente relevantes (según
+el ABC).
+Un estudio de lactancia en ratas puso de manifiesto que el 0,23 % de
+la dosis marcada se transfirió a las crías en las 24 horas posteriores
+a la dosis, lo que indica que eliglustat o los materiales relacionados
+con éste se excretan en la leche.
+Embarazo
+No hay datos o estos son limitados sobre el uso de eliglustat en mu-
+jeres embarazadas. Los estudios en animales no sugieren efectos
+perjudiciales directos ni indirectos en términos de toxicidad para la
+reproducción (ver sección Datos preclínicos sobre seguridad). Como
+medida de precaución, es preferible evitar el uso de ELIGLAS® du-
+rante el embarazo.
+Lactancia
+Se desconoce si eliglustat o sus metabolitos se excretan en la leche
+materna. Los datos farmacodinámicos/toxicológicos disponibles en
+animales muestran que eliglustat se excreta en la leche (ver sección
+Datos preclínicos sobre seguridad). No puede excluirse el riesgo en
+recién nacidos/niños. Se debe decidir si se suspende la lactancia o
+el uso del fármaco teniendo en cuenta la importancia del medica-
+mento para la madre.
+Fertilidad
+Se han observado efectos en los testículos y una inhibición rever-
+sible de la espermatogenia en ratas (ver sección Datos preclínicos
+sobre seguridad). Se desconoce la relevancia de estos resultados
+para los humanos.
+
+Empleo en pediatría
+La  seguridad  y  la  eficacia  de  eliglustat  en  niños  y  adolescentes
+menores de 18 años no han sido establecidas. No se dispone de
+datos a la fecha.
+Empleo en pacientes de edad avanzada (de 65 años o más)
+No se detectaron diferencias significativas en los perfiles de eficacia
+y seguridad en los pacientes de edad avanzada y los pacientes más
+jóvenes.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+La reacción adversa notificada con mayor frecuencia con eliglustat
+es la dispepsia, en aproximadamente el 6 % de los pacientes en
+estudios clínicos.
+El  listado  de  reacciones  adversas  clasificadas  por  aparato  y  por
+frecuencia, se presenta a continuación.
+Se  clasifica  como  frecuente  a  las  que  se  presentan  con  una  fre-
+cuencia mayor al 10%; ocasionales a las que se presentan con una
+frecuencia entre 1 y 10 % y raras a las que se presentan con una
+frecuencia menor al 1 % de los casos.
+Trastornos del sistema nervioso. Ocasionales: Cefalea, mareo, dis-
+geusia.
+Trastornos cardiacos. Ocasionales: Palpitaciones.
+Trastornos  respiratorios,  torácicos  y  mediastínicos.  Ocasionales:
+Irritación de garganta.
+Trastornos  gastrointestinales.  Ocasionales:  Dispepsia,  dolor  abdo-
+minal  superior,  diarrea,  náuseas,  estreñimiento,  dolor  abdominal,
+enfermedad  por  reflujo  gastroesofágico,  distensión  abdominal,
+gastritis, disfagia, vómitos, boca seca, flatulencia.
+Trastornos de la piel y del tejido subcutáneo. Ocasionales: Piel seca,
+urticaria.
+Trastornos musculoesqueléticos y del tejido conjuntivo. Ocasiona-
+les: Artralgia, dolor en las extremidades, dolor de espalda.
+Trastornos generales y alteraciones en el lugar de administración.
+Ocasionales: Fatiga.
+Notificación de Sospecha de Reacciones Adversas
+Es importante notificar la sospecha de reacciones adversas al me-
+dicamento tras su autorización. Ello permite una supervisión conti-
+nuada de la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas
+de  reacciones  adversas  a  través  del  Sistema  Nacional  de  Far-
+macovigilancia  al  siguiente  link:  https://www.argentina.gob.ar/
+anmat/farmacovigilancia/notificanos/eventosadversos  y/o  al
+Departamento  de  Farmacovigilancia  de  GADOR  S.A.  vía  email
+a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273
+(CARE).
+
+SOBREDOSIFICACIÓN
+La concentración plasmática de eliglustat más alta observada hasta
+la fecha se dio en un estudio en fase I de escalada de dosis, de una
+dosis única, en voluntarios sanos. Un participante de este estudio
+recibió una dosis equivalente a aproximadamente 21 veces la dosis
+recomendada para los pacientes con EG1. En el momento de la con-
+centración plasmática máxima (59 veces superior a las condiciones
+terapéuticas normales), el participante experimentó mareo con falta
+de equilibrio, hipotensión, bradicardia, náuseas y vómitos.
+En caso de sobredosis aguda, el paciente debe ser observado cui-
+dadosamente y recibir tratamiento sintomático y de apoyo.
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital
+más cercano o comunicarse con los centros de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez:
+(011) 4962-6666/2247.
+Hospital Alejandro Posadas:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”
+
+CONSERVACIÓN
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+PRESENTACIONES
+Se presenta en envases conteniendo 60 cápsulas duras.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+"Este medicamento debe ser utilizado bajo prescripción y vigilancia
+médica y no debe repetirse sin una nueva receta médica".
+
+INFORMACIÓN PARA EL PACIENTE
+
+COMPOSICIÓN
+Cada cápsula dura de ELIGLAS® contiene:
+Eliglustat Tartrato (como Eliglustat base 84,4 mg) ........100,000 mg
+Excipientes:
+Celulosa microcristalina PH102 ................................... 39,667 mg
+Lactosa monohidrato .................................................. 86,433 mg
+Hidroxipropilmetilcelulosa E15 ...................................... 9,520 mg
+Dibehenato de glicerilo ................................................. 2,380 mg
+Gelatina .................................................................... 59,4865 mg
+Dióxido de titanio ........................................................ 1,5031 mg
+Colorante FD&C Azul N°1 ............................................ 0,0056 mg
+Colorante FD&C Amarillo N° 6 ..................................... 0,0045 mg
+Colorante Rojo Allura FD&C N° 40 ............................... 0,0003 mg
+
+Este  medicamento  está  sujeto  a  seguimiento  adicional,  lo  que
+agilizará la detección de nueva información sobre su seguridad.
+Puede contribuir comunicando los efectos adversos que pudiera
+usted tener.
+- Lea todo el prospecto detenidamente antes de empezar a tomar
+este medicamento, porque contiene información importante para
+usted;  conserve  este  prospecto,  ya  que  puede  tener  que  volver
+a leerlo.
+- Repita la lectura de esta información cada vez que renueve su
+receta.  Puede  haber  información  nueva  (o  alguna  información
+puede haber cambiado).
+- Si tiene alguna duda, consulte a su médico o farmacéutico.
+-  Recuerde  que  su  médico  le  recetó  este  medicamento  sólo  a
+usted. No lo administre (o recomiende) a ninguna otra persona,
+aunque  tenga  los  mismos  síntomas  que  usted,  ya  que  puede
+perjudicarla.
+- Si experimenta efectos adversos, consulte a su médico o farma-
+céutico, incluso si se trata de efectos adversos que no aparecen
+en este prospecto.
+- Esta información no reemplaza el hablar con su médico acerca
+de su enfermedad o el tratamiento.
+- Este medicamento debe ser indicado por su médico y prescripto
+bajo una receta médica.
+
+Contenido del prospecto
+1) ¿Cuál es la información más importante que debo saber sobre
+ELIGLAS®?
+2) ¿Qué es ELIGLAS® y para que se utiliza?
+3) ¿Qué es lo que debo saber antes de tomar ELIGLAS® y durante
+el tratamiento?
+4) ¿Cómo debo tomar ELIGLAS®?
+5) ¿Cuáles son los efectos adversos que puede tener ELIGLAS®?
+6) ¿Cómo debo conservar ELIGLAS®?
+7) Información adicional
+8) Leyendas finales
+
+1) ¿Cuál es la información más importante que debo saber sobre
+ELIGLAS®?
+ELIGLAS® contiene el principio activo eliglustat y se utiliza para
+el tratamiento prolongado de pacientes adultos con enfermedad
+de Gaucher de tipo 1.
+ELIGLAS® está pensado para usarse en pacientes que descom-
+ponen el medicamento a una velocidad normal (lo que se conoce
+como metabolizadores intermedios y metabolizadores rápidos) o
+a velocidad baja (lo que se conoce como metabolizadores lentos).
+Su  médico  determinará  si  ELIGLAS®  es  adecuado  para  usted
+antes  de  que  empiece  a  tomarlo  mediante  un  sencillo  análisis
+de laboratorio.
+Consulte a su médico o farmacéutico antes de empezar a tomar
+ELIGLAS® si:
+
+• está  recibiendo  tratamiento  en  estos  momentos  con  alguno
+de los medicamentos que aparecen en la sección “Otros medi-
+camentos y ELIGLAS®” o está a punto de hacerlo.
+• ha sufrido un infarto de miocardio o insuficiencia cardíaca.
+• tiene una frecuencia cardíaca baja.
+• tiene un ritmo cardíaco irregular o anómalo, incluida una afec-
+ción cardíaca llamada síndrome del intervalo QT largo.
+• tiene otros problemas del corazón.
+• está  tomando  un  medicamento  antiarrítmico  (que  se  utiliza
+
+para  tratar  un  ritmo  cardíaco  irregular)  como  la  quinidina,  la
+amiodarona o el sotalol.
+• es un metabolizador rápido y tiene la función del hígado dis-
+minuida moderadamente.
+• es un metabolizador intermedio o lento y tiene la función del
+hígado disminuida a cualquier nivel.
+• es un metabolizador intermedio o lento y tiene la función del
+riñón disminuida.
+• es un paciente con enfermedad renal en etapa terminal (ERET).
+
+2) ¿Qué es ELIGLAS® y para que se utiliza?
+ELIGLAS® contiene el principio activo eliglustat y se utiliza para
+el tratamiento prolongado de pacientes adultos con enfermedad
+de Gaucher de tipo 1. La enfermedad de Gaucher de tipo 1 es un
+trastorno  raro  hereditario  en  el  cual  el  cuerpo  no  descompone
+correctamente una sustancia llamada glucosilceramida. En con-
+secuencia, la glucosilceramida se acumula en el bazo, el hígado y
+los huesos. Esta acumulación impide el correcto funcionamiento
+de estos órganos. ELIGLAS® reduce la producción de glucosilce-
+ramida e impide así su acumulación. A su vez, esto ayuda a los
+órganos afectados a funcionar mejor.
+Hay diferencias entre las personas en la velocidad en que el cuer-
+po descompone este medicamento. Por lo tanto, la cantidad de
+medicamento en la sangre puede diferir de un paciente a otro, lo
+que puede afectar en cómo un paciente responde al tratamiento.
+ELIGLAS® está pensado para usarse en pacientes que descom-
+ponen el medicamento a una velocidad normal (lo que se conoce
+como metabolizadores intermedios y metabolizadores rápidos) o
+a velocidad baja (lo que se conoce como metabolizadores lentos).
+Su  médico  determinará  si  ELIGLAS®  es  adecuado  para  usted
+antes  de  que  empiece  a  tomarlo  mediante  un  sencillo  análisis
+de laboratorio.
+La enfermedad de Gaucher de tipo 1 es una afección que dura
+toda la vida, por lo que deberá seguir tomando este medicamento
+según  las  instrucciones  de  su  médico  para  obtener  el  máximo
+beneficio del tratamiento.
+
+3) ¿Qué es lo que debo saber antes de tomar ELIGLAS® y durante
+el tratamiento?
+¿Quiénes no deben tomar/usar ELIGLAS®?
+No tome ELIGLAS® si:
+
+• es alérgico al eliglustat o a alguno de los demás componentes
+de este medicamento.
+• es un metabolizador intermedio o rápido y usa medicamentos
+llamados inhibidores potentes o moderados del CYP2D6 (como
+por ejemplo la quinidina y la terbinafina) usados en combina-
+ción  con  inhibidores  potentes  o  moderados  del  CYP3A  (como
+por  ejemplo  la  eritromicina  y  el  itraconazol).  La  combinación
+de  estos  medicamentos  interferirá  en  la  capacidad  de  su  or-
+ganismo para descomponer ELIGLAS® y puede producir niveles
+más altos del principio activo en la sangre (ver la sección “Otros
+medicamentos y ELIGLAS®” para obtener una lista ampliada de
+medicamentos).
+• es  un  metabolizador  lento  y  usa  medicamentos  conocidos
+como inhibidores potentes del CYP3A (por ejemplo: itraconazol).
+Los medicamentos de este tipo interferirán con la habilidad de
+su cuerpo para metabolizar ELIGLAS® y esto puede resultar en
+mayores niveles de sustancia activa en su sangre (ver la sec-
+ción “Otros medicamentos y ELIGLAS®” para una lista ampliada
+de medicamentos).
+• es un metabolizador rápido y tiene la función del hígado dis-
+minuida gravemente.
+• es  un  metabolizador  rápido  y  tiene  la  función  del  hígado
+disminuida leve o moderadamente mientras toma un inhibidor
+potente o moderado del CYP2D6.
+
+- ¿Qué debo informar a mi médico antes de usar ELIGLAS®?
+Antes de usar ELIGLAS®, dígale a su médico si:
+
+• está  recibiendo  tratamiento  en  estos  momentos  con  alguno
+de los medicamentos que aparecen en la sección “Otros medi-
+camentos y ELIGLAS®” o está a punto de hacerlo.
+• ha sufrido un infarto de miocardio o insuficiencia cardíaca.
+• tiene una frecuencia cardíaca baja.
+
+• tiene un ritmo cardíaco irregular o anómalo, incluida una afec-
+ción cardíaca llamada síndrome del intervalo QT largo.
+• tiene otros problemas del corazón.
+• está  tomando  un  medicamento  antiarrítmico  (que  se  utiliza
+para  tratar  un  ritmo  cardíaco  irregular)  como  la  quinidina,  la
+amiodarona o el sotalol.
+• es un metabolizador rápido y tiene la función del hígado dis-
+minuida moderadamente.
+• es un metabolizador intermedio o lento y tiene la función del
+hígado disminuida a cualquier nivel.
+• es un metabolizador intermedio o lento y tiene la función del
+riñón disminuida.
+• es un paciente con enfermedad renal en etapa terminal (ERET).
+• está embarazada, cree que podría estar embarazada o tiene
+intención de quedarse embarazada. Su médico le dirá si puede
+tomar este medicamento durante el embarazo.
+• está amamantando. Se ha demostrado que el principio activo
+de este medicamento pasa a la leche materna en cantidades muy
+pequeñas en animales. No se recomienda la lactancia durante el
+tratamiento con este medicamento.
+
+- ¿Puedo tomar ELIGLAS® con otros medicamentos?
+Informe  a  su  médico  acerca  de  todos  los  medicamentos  que
+toma, ha tomado recientemente o pudiera tener que tomar. Ello
+incluye medicamentos bajo receta, medicamentos de venta libre
+y suplementos a base de hierbas.
+  Otros medicamentos y ELIGLAS®
+  - Medicamentos que no deben tomarse combinados entre sí y
+con ELIGLAS®
+ELIGLAS®  no  debe  utilizarse  con  determinado  tipo  de  medica-
+mentos.  Estos  medicamentos  pueden  interferir  en  la  capacidad
+del  organismo  para  descomponer  ELIGLAS®,  lo  que  puede  dar
+lugar a niveles más altos de ELIGLAS® en la sangre. Estos me-
+dicamentos se conocen como inhibidores potentes o moderados
+del CYP2D6 e inhibidores potentes o moderados del CYP3A. Hay
+muchos  medicamentos  en  estas  categorías  y  dependiendo  de
+cómo su cuerpo metabolice ELIGLAS®, los efectos pueden variar
+de  una  persona  a  otra.  Consulte  a  su  médico  acerca  de  estos
+medicamentos antes de empezar a tomar ELIGLAS®. Su médico
+determinará qué medicamentos puede utilizar en base a lo rápido
+que su cuerpo metabolice el eliglustat.
+
+-  Medicamentos que pueden aumentar el nivel de ELIGLAS® en
+la sangre:
+• paroxetina,  fluoxetina,  fluvoxamina,  duloxetina,  bupropión,
+moclobemida - antidepresivos (usados para tratar la depresión)
+• dronedarona, quinidina, verapamilo - antiarrítmicos (usados
+para tratar el latido cardíaco irregular)
+• ciprofloxacina, claritromicina, eritromicina, telitromicina - an-
+tibióticos (usados para tratar las infecciones)
+• terbinafina, itraconazol, fluconazol, posaconazol, voriconazol -
+antimicóticos (usados para tratar las infecciones por hongos)
+• mirabegrón - usado para tratar la vejiga hiperactiva
+• cinacalcet - calcimimético (usado en algunos pacientes con
+diálisis y en determinados cánceres)
+• atazanavir,  darunavir,  fosamprenavir,  indinavir,  lopinavir,  ri-
+tonavir, saquinavir, tipranavir - antirretrovirales (usados para
+tratar la infección por el VIH)
+• cobicistat - utilizado para mejorar los efectos de los antirretro-
+virales (utilizados para tratar VIH)
+• aprepitant - antiemético (usado para reducir los vómitos)
+• diltiazem  -  antihipertensor  (usado  para  aumentar  el  flujo
+sanguíneo y reducir la frecuencia cardíaca)
+• conivaptán - diurético (usado para elevar los niveles bajos de
+sodio en la sangre)
+•  boceprevir,  telaprevir  –  antivirales  (usados  para  tratar  la
+Hepatitis C)
+• imatinib – anticancerígeno (usado para tratar el cáncer)
+• amlodipina, ranolazina – usados para tratar la angina de pecho
+• cilostazol – usado para tratar dolores tipo calambres en las
+piernas al caminar, causado por insuficiente suministro sanguí-
+neo en las piernas
+• isoniazida – usado para tratar tuberculosis
+• cimetidina, ranitidina – antiácidos (usados para tratar la indi-
+gestión)
+• goldenseal – (también conocido como Hydrastis canadensis),
+
+un medicamento a base de plantas obtenido sin receta médica,
+utilizado para facilitar la digestión.
+-  Medicamentos que pueden reducir el nivel de ELIGLAS® en la
+sangre:
+• rifampicina, rifabutina - antibióticos (usados para tratar las
+infecciones)
+• carbamazepina,  fenobarbital,  fenitoína  -  antiepilépticos
+(usados para tratar la epilepsia y las convulsiones)
+• Hierba de San Juan (también llamada Hypericum perforatum)
+-  un medicamento a base de plantas adquirido sin receta médica
+que se usa para tratar la depresión y otros trastornos.
+-  ELIGLAS® puede aumentar el nivel de los tipos siguientes de
+medicamentos en la sangre:
+• dabigatrán - anticoagulante (usado para diluir la sangre)
+• fenitoína - antiepiléptico (usado para tratar la epilepsia y las
+convulsiones)
+• nortriptilina, amitriptilina, imipramina, desipramina - antide-
+presivos (usados para tratar la depresión)
+• fenotiazinas - antipsicóticos (usados para tratar la esquizo-
+frenia y la psicosis)
+• digoxina - usado para tratar la insuficiencia cardíaca y la fibri-
+lación auricular
+• colchicina - usado para tratar la gota
+• metoprolol - usado para reducir la presión arterial y/o la fre-
+cuencia cardíaca
+• dextrometorfano - antitusivo
+• atomoxetina  -  usado  para  tratar  el  trastorno  por  déficit  de
+atención e hiperactividad (TDAH)
+• pravastatina - usado para reducir el colesterol y prevenir la
+enfermedad cardíaca.
+
+- Toma de ELIGLAS® con alimentos y bebidas
+Evite el consumo de pomelo o jugo de pomelo, porque puede au-
+mentar el nivel de ELIGLAS® en la sangre.
+
+- Uso en niños y adolescentes
+Eliglustat no se ha probado en niños ni adolescentes menores de
+18 años. No dé ELIGLAS® a niños ni adolescentes.
+
+4) ¿Cómo debo tomar ELIGLAS®?
+La vía de administración de ELIGLAS® es oral (por boca).
+Siga exactamente las instrucciones de administración de ELIGLAS®
+indicadas por su médico; tómelo a las horas del día que correspon-
+dan respetando la dosis y duración del tratamiento. No cambie sus
+dosis como así tampoco suspenda la administración de ELIGLAS®
+sin consultar primero con su médico. En caso de duda, consulte de
+nuevo a su médico.
+Si  es  usted  metabolizador  intermedio  o  metabolizador  rápido:
+Trague una cápsula de 100 mg entera dos veces al día con agua.
+Puede tomarse con o sin comida. Tome una cápsula por la mañana
+y otra por la noche.
+Si es usted metabolizador lento: Trague una cápsula de 100 mg
+entera una vez al día con agua. Puede tomarse con o sin comida.
+Tome una cápsula al mismo tiempo cada día.
+No abra, machaque, disuelva ni mastique la cápsula antes de tra-
+garla. Si no puede tragar la cápsula entera, informe a su médico.
+Siga tomando ELIGLAS® todos los días mientras el médico no le
+indique lo contrario.
+
+- ¿Qué debo hacer en caso de sobredosis?
+Si  usted  ha  tomado  más  cápsulas  de  ELIGLAS®  de  las  que  le
+indicaron, llame a su médico o a un Centro de Toxicología a
+la brevedad:
+HOSPITAL DE PEDIATRIA RICARDO GUTIERREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros Centros de Intoxicaciones.
+Puede sufrir mareos con pérdida del equilibrio, frecuencia cardíaca
+baja, náuseas, vómitos y aturdimiento.
+
+- ¿Qué debo hacer si dejo de tomar una dosis?
+Si olvidó tomar ELIGLAS®, tome la cápsula siguiente a la hora habi-
+tual. No tome una dosis doble para compensar las dosis olvidadas.
+Siempre consulte a su médico.
+
+- ¿Qué debo hacer si interrumpo el tratamiento con ELIGLAS®?
+No  interrumpa  el  tratamiento  con  ELIGLAS®  sin  informar  a  su
+
+médico. Si tiene cualquier otra duda sobre el uso de este medica-
+mento, pregunte a su médico.
+
+5) ¿Cuáles son los efectos adversos que puede tener ELIGLAS®?
+Al igual que todos los medicamentos, ELIGLAS® puede producir
+efectos adversos, aunque no todas las personas los sufran.
+Ocasionales (pueden afectar hasta 1 de cada 10 personas):
+
+• Dolor de cabeza
+• Mareo
+• Cambio en el gusto (disgeusia)
+• Palpitaciones
+• Irritación de la garganta
+• Ardor de estómago (dispepsia)
+• Náuseas
+• Diarrea
+• Estreñimiento
+• Dolor abdominal
+• Dolor de estómago (dolor abdominal superior)
+•  Enfermedad  por  reflujo  ácido  (enfermedad  por  reflujo  gas-
+troesofágico)
+• Hinchazón (distensión abdominal)
+• Inflamación del estómago (gastritis)
+• Dificultad para tragar (disfagia)
+• Vómitos
+• Boca seca
+• Gases (flatulencia)
+• Piel seca
+• Ronchas (urticaria)
+• Dolor de las articulaciones (artralgia)
+• Dolor en brazos, piernas o espalda
+• Cansancio (fatiga)
+
+Estos no son todos los efectos adversos de ELIGLAS®. Pregunte a
+su médico para más información.
+
+Comunicación de efectos no deseados
+Si  experimenta  alguno  de  estos  efectos  adversos,  consulte
+a su médico, incluso si se trata de efectos adversos que no
+aparecen en este prospecto. También puede contactarse con
+
+el Departamento de Farmacovigilancia de GADOR SA, vía mail
+a  farmacovigilancia@gador.com  o  telefónicamente  al  0800-
+220-2273 (CARE).
+“Ante cualquier inconveniente con el producto el paciente puede
+llenar  la  ficha  que  está  en  la  Página Web  de  la ANMAT:  https://
+www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/pa-
+cientes, o llamar a ANMAT responde 0800-333-1234”
+Mediante la comunicación de efectos no deseados, usted puede
+contribuir a conocer más acerca seguridad de este medicamento.
+
+6) ¿Cómo debo conservar ELIGLAS®?
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+7) Información adicional
+- Conducción y uso de máquinas
+La  influencia  de  ELIGLAS®  sobre  la  capacidad  para  conducir  y
+utilizar máquinas es insignificante o nula.
+
+- Contenido de lactosa
+ELIGLAS® contiene lactosa Si su médico le ha indicado que padece
+una intolerancia a ciertos azúcares, consulte con él antes de tomar
+este medicamento.
+
+Este folleto resume la información más importante de ELIGLAS®,
+para  mayor  información  y  ante  cualquier  duda  CONSULTE  CON
+SU MÉDICO.
+No use este medicamento si el envase está dañado.
+Ud. puede tomar ELIGLAS® hasta el último día del mes indicado en
+el envase. No tome ELIGLAS® luego de la fecha de vencimiento.
+
+-Presentaciones
+Se presenta en envases conteniendo 60 cápsulas duras.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+"Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin nueva receta
+médica".
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com.ar
+o solicítela por correo electrónico: info@gador.com.ar
+
+GADOR S.A.
+Gador S.A. Darwin 429 - C1414CUI - C.A.B.A. Tel: 4858-9000.
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Ciencias Farmacéuticas.
+E.M.A.M.S. Certificado N° 59.430
+Fecha de última revisión: 04/2021
+
+G00215800-00

@@ -1,0 +1,778 @@
+REVIXIL® 20
+PLERIXAFOR 20 mg/ml
+
+Solución Inyectable.
+Venta bajo receta médica. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada mililitro de solución inyectable de REVIXIL® 20 contiene:
+Plerixafor .........................................................................................20 mg
+Excipientes:
+Cloruro de sodio ....................................................................... 4,917 mg
+Ácido clorhídrico concentrado .................................................. 0,013 ml
+Agua para inyección c.s.p. ................................................................ 1 ml
+
+ACCIÓN TERAPÉUTICA
+
+Movilizador de células madre hematopoyéticas; otros inmunoestimu-
+lantes. Código ATC: L03AX16
+
+INDICACIONES
+
+REVIXIL®  20  (plerixafor)  está  indicado  en  combinación  con  el  factor
+estimulante de granulocitos (G-CSF), en pacientes adultos con linfo-
+ma no Hodgkin y mieloma múltiple, para movilizar las células madre
+hematopoyéticas  a  sangre  periférica  para  su  recolección  y  posterior
+trasplante autólogo.
+
+ACCIÓN FARMACOLÓGICA
+
+El mecanismo de acción de plerixafor es la inhibición del receptor de
+quimiocina  CXCR4,  bloqueando  de  esta  forma  la  unión  del  ligando
+análogo,  el  factor-1α  derivado  de  las  células  estromales  (SDF-1α).
+Este receptor y su ligando cumplen una importante función en la circu-
+lación y alojamiento de las células madre hematopoyéticas en el com-
+partimiento medular. El CXCR4 puede ayudar a fijar las células madre
+a la matriz medular, ya sea a través del ligando SDF-1α o mediante la
+inducción de otras moléculas de adhesión. Plerixafor produce leuco-
+citosis y aumento de las células madre hematopoyéticas circulantes.
+Las células CD34+ movilizadas pueden injertarse con capacidad para
+repoblar hasta un año posterior al inicio de tratamiento con plerixafor.
+
+El pico de movilización de células CD34+, que se ha demostrado en
+estudios de farmacodinamia con plerixafor, ocurre entre las 6 y 9 horas
+luego de su administración. Este pico se observa entre las 10 y 14 hs en
+la administración conjunta de plerixafor con G-CSF.
+
+FARMACOCINÉTICA
+
+Plerixafor  presenta  una  cinética  lineal  para  dosis  entre  el  rango  de
+0,04 mg/kg y 0,24 mg/kg. Las evaluaciones en sujetos sanos que re-
+cibieron plerixafor y en pacientes con linfoma no Hodgkin y mieloma
+múltiple  a  los  que  se  les  administró  plerixafor  en  combinación  con
+G-CSF, presentaron parámetros farmacocinéticos similares. La poso-
+logía ajustada por mg/kg produce un aumento en el área bajo la curva
+vs. tiempo (AUC0-24 hs) a medida que aumenta el peso corporal.
+
+Luego de la administración de una dosis subcutánea, las concentra-
+ciones  plasmáticas  máximas  se  consiguen  a  los  30-60  minutos.  Su
+distribución aparente es mayoritaria en el espacio extravascular, aun-
+que no exclusiva. Se liga a las proteínas plasmáticas hasta en un 58%.
+Ensayos  in  vitro  demuestran  que  el  plerixafor  no  es  metabolizado  y
+no inhibe las enzimas del citocromo P450, por lo tanto es improbable
+que  plerixafor  presente  interacciones  farmacológicas  dependientes
+
+de este citocromo. Se elimina por vía urinaria. Se excreta como droga
+original en un 70%, en sujetos sanos con función renal normal, duran-
+te las primeras 24 horas.
+
+La depuración de plerixafor se encuentra reducida en la insuficiencia
+renal y se correlaciona positivamente con el clearance de creatinina
+(CLCR). En pacientes con insuficiencia renal moderada (CLCR 31-50 mL/
+min) a severa (CLCR <31 mL/min) se ha notado un incremento sustan-
+cial  en  la  (AUC0-24  hs),  comparada  a  pacientes  con  CLCR  >50  mL/min.
+Esto  avala  la  disminución  de  un  tercio  de  la  dosis,  en  los  pacientes
+que presentan insuficiencia renal moderada a severa. La insuficiencia
+renal no incide en la Cmáx.
+
+No se ha evaluado el efecto de la coadministración de plerixafor con
+las drogas eliminadas a través del riñón o que afectan la función de
+éste.
+
+No se han observado diferencias raciales, de género y edad en los pa-
+rámetros farmacocinéticos.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Cada frasco ampolla de REVIXIL® 20 deberá ser inspeccionado visual-
+mente y no deberá utilizarse en caso de presentar material particulado
+o decolorado. Cada frasco ampolla está destinado para un uso único,
+debiendo desecharse el resto del fármaco no utilizado. Debe emplear-
+se una técnica aséptica cuando se transfiera  el  contenido del  frasco
+ampolla a una jeringa apropiada para la administración subcutánea.
+
+El tratamiento con REVIXIL® 20 podrá iniciarse una vez que el paciente
+haya recibido una dosis diaria durante 4 días de G-CSF. REVIXIL® 20
+se administra de 6 a 11 horas antes del inicio de cada aféresis, y por
+un período de hasta 4 días consecutivos. Plerixafor se emplea común-
+mente durante 2 a 4 días consecutivos, y se ha utilizado por hasta 7
+días consecutivos en el contexto de estudios clínicos.
+
+REVIXIL® 20 se administra por vía subcutánea. El cálculo del volumen
+a administrar de REVIXIL® 20 se basa en el peso corporal, debiendo
+emplearse el peso corporal actual del paciente.
+
+La dosis recomendada de REVIXIL® 20 es
+
+• Dosis fija de 20 mg o 0,24 mg/kg de peso corporal, en pacientes que
+
+pesan 83 kg o menos.
+
+• 0,24 mg/kg de peso corporal, en pacientes que pesan más de 83 kg.
+
+Cada frasco ampolla de REVIXIL® 20 contiene 1,2 mL de solución con
+20 mg de plerixafor/mL, por lo tanto el volumen a administrar surge
+de la siguiente fórmula:
+
+0,012 x peso corporal actual (en kg)
+
+del paciente = volumen a administrar (en mL)
+
+La dosis de plerixafor no debe superar los 40 mg/día, ya que el AUC0-24
+hs de la droga se incrementa con el aumento de peso corporal.
+
+Para calcular la dosis de plerixafor se debe utilizar el peso del paciente me-
+dido en la semana previa a la primera administración del medicamento.
+
+Medicamentos concomitantes
+
+Efectos Hematológicos
+
+El G-CSF se administra en dosis matutinas de 10 microgramos/kg en
+los 4 días previos al comienzo de la dosis vespertina de REVIXIL® 20 y
+cada mañana antes de la aféresis.
+
+Insuficiencia Renal
+
+Se deberá reducir la dosis de REVIXIL® 20 en un tercio, de acuerdo a la ca-
+tegoría establecida en función del peso corporal, en los pacientes con in-
+suficiencia renal moderada y severa (CLCR ≤50 mL/min), como se mues-
+tra en la Tabla 1. La dosis no debe exceder los 27 mg/día si el CLCR ≤50
+mL/min, ya que la posología ajustada en mg/kg resulta en una AUC0-24 hs
+incrementada de plerixafor con el incremento del peso corporal.
+
+Tabla  1.  Dosis  recomendada  de  REVIXIL®  20  en  pacientes  con
+insuficiencia renal
+
+Leucocitosis
+
+Se deberá monitorear el recuento de glóbulos blancos durante el tra-
+tamiento con REVIXIL® 20, ya que el tratamiento conjunto con G-CSF
+incrementa los niveles de leucocitos circulantes y las poblaciones de
+células madre hematopoyéticas. Evaluar clínicamente, al administrar
+REVIXIL® 20, a los pacientes con un recuento de neutrófilos en sangre
+periférica superior a 50000 células/mcL.
+
+Trombocitopenia
+
+La trombocitopenia es una complicación conocida de la aféresis y se
+ha observado en pacientes que recibieron plerixafor. Se deberá con-
+trolar el recuento plaquetario en los pacientes bajo tratamiento con
+REVIXIL® 20 que posteriormente sean sometidos a la aféresis.
+
+Dosis
+
+Posible movilización de células tumorales
+
+Depuración
+de creatinina
+estimada
+ (ml/min)
+
+>50
+
+≤50
+
+Peso corporal
+≤ 83 kg
+
+Peso corporal >83 kg y
+<160 kg
+
+20 mg o 0,24 mg/kg
+una vez al día
+
+13 mg o 0,16 mg/kg
+una vez al día
+
+0,24 mg/kg
+una vez al día
+(no exceder los 40
+mg/día)
+
+0,16 mg/kg
+una vez al día
+ (no exceder los 27
+mg/día)
+
+No hay información disponible para establecer una recomendación de
+dosis en pacientes en hemodiálisis.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad conocida al principio activo o a los componentes de
+REVIXIL® 20.
+
+La administración conjunta de REVIXIL® 20 con G-CSF puede producir
+la liberación de células tumorales desde la médula ósea y la subse-
+cuente recolección en el producto de la aféresis. No ha sido estudiado
+aún el efecto potencial de la reinfusión de estas células.
+
+Esplenomegalia y posible ruptura esplénica
+
+Se ha observado en ratas un aumento del peso del bazo junto a he-
+matopoyesis  extramedular,  luego  de  la  administración  prolongada
+de plerixafor (hasta 4 semanas) con dosis 4 veces superiores a la re-
+comendada en seres humanos. Este efecto del plerixafor no ha sido
+evaluado  en  estudios  clínicos.  Se  deberá  controlar  la  integridad  del
+bazo en pacientes que reciben tratamiento conjunto con REVIXIL® 20
+y G-CSF y que presenten dolor en hipocondrio izquierdo y/o escapular
+o en los hombros.
+
+Reacciones vasovagales
+
+Luego de la administración subcutánea de plerixafor, pueden ocurrir
+reacciones  vasovagales,  hipotensión  ortostática  y/o  síncope,  por  lo
+que se deben tomar las precauciones apropiadas.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Shock anafiláctico y reacciones de hipersensibilidad
+
+Toxicidad embriofetal
+
+Se ha notificado la aparición de reacciones alérgicas de leve a moderada
+intensidad dentro de los 30 minutos de la administración de plerixafor,
+en menos del 1% de los pacientes tratados en estudios clínicos.
+
+Plerixafor podría asociarse con reacciones sistémicas relacionadas a la
+inyección  subcutánea,  como  urticaria,  edema  periorbitario,  disnea  o
+hipoxia; los síntomas han respondido al tratamiento (por ejemplo, anti-
+histamínicos, corticoesteroides, hidratación u oxígeno suplementario).
+
+Se  ha  informado  la  ocurrencia  de  reacciones  de  hipersensibilidad
+graves, incluyendo aquellas de tipo anafiláctico con riesgo de muerte
+e hipotensión clínicamente significativa y shock, en pacientes que re-
+cibían plerixafor.
+Se debe controlar a los pacientes para detectar la aparición de signos
+y síntomas de hipersensibilidad durante y luego de la administración
+de REVIXIL® 20, por al menos 30 minutos y hasta la estabilidad clínica,
+posteriormente a cada administración.
+
+REVIXIL® 20 solo debe ser administrado cuando se disponga en forma
+inmediata de personal y recursos terapéuticos para el tratamiento de
+reacciones anafilácticas u otras reacciones de hipersensibilidad.
+
+Plerixafor puede causar daño fetal si es administrado a mujeres em-
+barazadas.
+
+Plerixafor es teratogénico en animales.
+
+Se deberá recomendar a mujeres en edad reproductiva evitar el emba-
+razo durante el tratamiento con REVIXIL® 20.
+
+Si REVIXIL® 20 se empleara durante el embarazo, o si la paciente que-
+dara embarazada mientras utiliza REVIXIL® 20, se debe informar a la
+paciente de los riesgos potenciales para el feto.
+
+Interacciones farmacológicas
+
+Plerixafor no es sustrato, inhibidor o inductor de las isoenzimas del
+citocromo P450 en estudios in vitro, por lo que es poco probable que
+ocurran  interacciones  farmacológicas in  vivo  dependientes  de  estas
+enzimas.
+
+Plerixafor no actuó como sustrato ni inhibidor de la glucoproteína-P
+en estudios in vitro.
+
+Movilización de células tumorales en pacientes con leucemia
+
+Efectos sobre la capacidad para conducir o utilizar maquinarias
+
+REVIXIL® 20 podría causar también la movilización de células leucé-
+micas y contaminar de esta manera el producto de la aféresis. Por este
+motivo REVIXIL® 20 no ha sido concebido para movilizar y recolectar
+células madre hematopoyéticas en pacientes con leucemia.
+
+REVIXIL® 20 puede afectar la capacidad para conducir o utilizar ma-
+quinarias. Algunos pacientes han experimentado mareos, fatiga o re-
+acciones vasovagales; se recomienda precaución al conducir u operar
+maquinarias.
+
+Carcinogénesis, Mutagénesis, Compromiso de la fertilidad
+
+REACCIONES ADVERSAS
+
+Plerixafor no ha sido estudiado en carcinogenicidad.
+
+Plerixafor no presentó genotoxicidad en los estudios de Ames, de abe-
+rración cromosómica en células de ovario de hámster chino, ni en la
+prueba in vivo de micronúcleos de médula ósea en rata.
+
+No se han realizado estudios toxicológicos reproductivos. No se obser-
+varon signos de toxicidad en los órganos reproductores masculinos o
+femeninos, en los estudios de toxicidad de dosis repetida de 28 días
+en ratas.
+
+No se conocen los efectos del plerixafor sobre la fertilidad masculina
+y femenina.
+
+Las reacciones adversas se enumeran a continuación según la frecuen-
+cia y el sistema de clasificación de órganos. Las frecuencias se definen
+según el siguiente criterio: muy frecuentes (≥ 1/10); frecuentes (de
+≥ 1/100 a < 1/10); poco frecuentes (de ≥ 1/1.000 a < 1/100); raras
+(de ≥ 1/10.000 a < 1/1.000); muy raras (< 1/10.000); frecuencia no
+conocida (no puede estimarse a partir de los datos disponibles).
+
+Trastornos generales y alteraciones en el lugar de administración.
+
+Muy  frecuentes:  reacciones  en  el  sitio  de  inyección  (incluyendo  eri-
+tema,  hematoma,  hemorragia,  induración,  inflamación,  irritación,
+dolor,  parestesia,  prurito,  erupción,  hinchazón  y  urticaria),  fatiga.
+Frecuentes: malestar.
+
+Embarazo
+
+Embarazo Categoría D
+
+Plerixafor demostró toxicidad embrio-fetal en ratas, incluyendo muer-
+te  fetal,  aumento  en  las  pérdidas  embrionarias  post-implantación,
+disminución del peso fetal, anoftalmia, acortamiento digital, defectos
+en el septo interventricular cardíaco, aorta en anillo, hidrocefalia, dila-
+tación de ventrículos olfatorios y retraso en el desarrollo esquelético.
+La toxicidad embriofetal ocurrió con una dosis aproximada 10 veces
+superior a la recomendada en seres humanos.
+
+No  hay  estudios  adecuados  y  controlados  en  mujeres  embarazadas
+utilizando  plerixafor;  en  base  al  mecanismo  farmacodinámico  de
+acción, se sugiere que plerixafor puede causar malformaciones con-
+génitas si se administra durante el embarazo.
+
+Trastornos hematológicos.
+
+Frecuentes: hiperleucocitosis. Frecuencia no determinada: plaquetopenia.
+
+Trastornos gastrointestinales.
+
+Muy  frecuentes:  náuseas,  vómitos,  diarrea.  Frecuentes:  flatulencia,
+dolor  abdominal,  molestias  estomacales,  distensión  abdominal,  es-
+treñimiento, dispepsia, hipoestesia oral, sequedad en la boca.
+
+Trastornos del sistema nervioso.
+
+Muy frecuentes: cefaleas, mareos.
+
+Trastornos psiquiátricos.
+
+Frecuentes: insomnio. Poco frecuentes: sueños anormales, pesadillas.
+
+Plerixafor  puede  ocasionar  daño  fetal  cuando  es  administrado  en
+mujeres embarazadas, por lo que a mujeres en edad reproductiva se
+les deberá recomendar evitar el embarazo durante el tratamiento con
+REVIXIL® 20, utilizando un método anticonceptivo efectivo.
+
+Trastornos de la piel y del tejido subcutáneo.
+
+Frecuentes: eritema, hiperhidrosis.
+
+Durante el embarazo, REVIXIL® 20 debe utilizarse sólo en caso de que
+el beneficio potencial para la madre justifique el riesgo potencial para
+el feto.
+
+Si REVIXIL® 20 se empleara durante el embarazo, o si la paciente que-
+dara embarazada mientras utiliza REVIXIL® 20, se debe informar a la
+paciente de los riesgos potenciales para el feto.
+
+Lactancia
+
+No se conoce aún si plerixafor se excreta por la leche humana. Dado
+que muchos medicamentos pueden excretarse por esta vía y debido al
+potencial riesgo de reacciones adversas serias a REVIXIL® 20 en lactan-
+tes, el médico tratante deberá decidir si es conveniente discontinuar la
+lactancia o el fármaco, teniendo en consideración la importancia de
+este último para la madre.
+
+Empleo en pediatría
+
+No se han establecido aún la seguridad y la eficacia de plerixafor en
+la población pediátrica.
+
+Empleo en geriatría
+
+No se han observado diferencias en la seguridad y efectividad de la
+droga entre pacientes jóvenes y pacientes de 65 años o más.
+
+No  es  necesario  modificar  la  dosis  en  adultos  mayores  con  función
+renal normal, aunque se deberá proceder con cautela al seleccionar la
+dosis ya que en estos pacientes de edad avanzada puede observarse
+una disminución de la función renal.
+
+Se recomienda ajustar la dosis de REVIXIL® 20 cuando el CLCR sea ≤50
+mL/min.
+
+Trastornos musculoesqueléticos y del tejido conjuntivo.
+
+Muy frecuentes: artralgias. Frecuentes: dolor musculoesquelético.
+
+Trastornos del sistema inmunológico.
+
+Poco  frecuentes:  reacciones  alérgicas  (incluyendo  urticaria,  inflama-
+ción periorbital, disnea o hipoxia) –efectos generalmente leves o mo-
+derados, apareciendo aproximadamente en los 30 minutos siguientes
+a la administración de plerixafor-, reacciones anafilácticas (incluyendo
+shock anafiláctico).
+
+Descripción de reacciones adversas seleccionadas
+
+Infarto de miocardio
+
+En estudios clínicos con plerixafor, 7 de los 679 pacientes oncológi-
+cos  sufrieron  infartos  de  miocardio  después  de  la  movilización  de
+células  madre  hematopoyéticas  con  plerixafor  y  G-CSF.  Todos  los
+acontecimientos se produjeron al menos 14 días después de la última
+administración de plerixafor. Además, en el programa de uso compa-
+sivo, dos pacientes oncológicos de sexo femenino sufrieron infarto de
+miocardio tras la movilización de células madres hematopoyéticas con
+plerixafor y G-CSF. Una de estas reacciones se produjo 4 días después
+de la última administración de plerixafor. La falta de relación temporal
+en 8 de los 9 pacientes junto con el perfil de riesgo de los pacientes
+con infarto de miocardio, no sugiere que plerixafor produzca un ries-
+go independiente de infarto de miocardio en pacientes que también
+reciben G-CSF.
+
+Hiperleucocitosis
+
+En los estudios en fase III se observaron recuentos de leucocitos de
+100 x 109 /l o superior, el día anterior o cualquiera de los días de afére-
+sis, en el 7% de los pacientes que recibieron plerixafor y en el 1% de los
+
+pacientes que recibieron placebo. No se observaron complicaciones ni
+síntomas clínicos de leucostasis.
+
+cha de reacciones adversas asociadas al uso de REVIXIL® 20 a farmaco-
+vigilancia@gador.com.
+
+Reacciones vasovagales
+
+En estudios clínicos con plerixafor en pacientes oncológicos y volun-
+tarios sanos, menos del 1% de los sujetos experimentaron reacciones
+vasovagales (hipotensión ortostática y/o síncope) tras la administra-
+ción subcutánea de la dosis de plerixafor ≤ 0,24 mg/kg. La mayoría
+de estas reacciones se produjeron en el lapso de 1 hora tras la admi-
+nistración de plerixafor.
+
+Trastornos gastrointestinales
+
+En  los  estudios  clínicos  con  plerixafor  en  pacientes  oncológicos,  se
+han descrito en raras ocasiones reacciones gastrointestinales severas,
+como diarrea, náuseas, vómitos y dolor abdominal.
+
+Parestesia
+
+La  parestesia  se  observa  frecuentemente  en  pacientes  oncológicos
+sometidos a trasplante autólogo tras intervenciones múltiples relacio-
+nadas con la enfermedad. En los estudios en fase III controlados con
+placebo, la incidencia de parestesia fue del 20,6% y del 21,2% en los
+grupos de plerixafor y placebo, respectivamente.
+
+SOBREDOSIFICACIÓN
+
+La frecuencia de reacciones vasovagales, hipotensión ortostática y/o sin-
+cope y trastornos gastrointestinales puede aumentar si se supera la dosis
+subcutánea de 0,24 mg/kg, siendo la información al respecto limitada.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONDICIONES DE CONSERVACION Y ALMACENAMIENTO
+
+Conservar en su envase original a temperatura no mayor a 30oC.
+
+PRESENTACIONES
+
+Pacientes de edad avanzada
+
+Envases con 1 frasco ampolla conteniendo 1,2 ml de solución inyectable.
+
+En  los  dos  estudios  clínicos  controlados  con  placebo  de  plerixafor,
+el 24% de los pacientes tenía 65 años o más. No se observaron dife-
+rencias destacables en la incidencia de reacciones adversas en estos
+pacientes  de  edad  avanzada  cuando  se  comparaban  con  pacientes
+más jóvenes.
+
+Comunicación de reacciones adversas
+
+Es  importante  notificar  sospechas  de  reacciones  adversas  al  medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+la relación beneficio/riesgo del medicamento.
+
+Se invita a los profesionales sanitarios a notificar la aparición o la sospe-
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica.”
+
+En concordancia con los programas estratégicos de seguridad imple-
+mentados  internacionalmente,  tendientes  a  minimizar  los  riesgos
+potenciales  de  un  medicamento  preservando  sus  beneficios  tera-
+péuticos, GADOR SA ha desarrollado un Plan de Gestión de Riesgos
+para REVIXIL® 20 (Plerixafor), refrendado por ANMAT. Dicho plan tiene
+como objetivo identificar, caracterizar, prevenir o minimizar los ries-
+gos relacionados con el uso de REVIXIL® 20 (Plerixafor), y comunicar
+esos riesgos a los profesionales de la salud.
+
+Información para el paciente
+
+REVIXIL® 20 está sujeto a un plan de seguimento adicional, que inclu-
+ye medidas tendientes a agilizar la detección y la difusión de nueva in-
+formación sobre su seguridad. Usted puede contribuir comunicando
+los efectos adversos que pudiera tener. En este prospecto encontrará
+los datos para la comunicación de cualquier inconveniente que tuviera
+con el producto.
+
+- Este medicamento se le ha recetado a usted, y no debe dárselo a
+otras personas, aunque tengan los mismos síntomas, ya que podría
+perjudicarlas.
+
+-  Informe  a  su  médico  cualquier  síntoma  inusual  que  experimente
+durante el tratamiento con REVIXIL® 20.
+
+Lea todo el prospecto detenidamente antes de empezar a usar este
+medicamento, porque contiene información importante para usted.
+Esta información no reemplaza a hablar con su médico sobre su esta-
+do de salud o su tratamiento.
+
+-  Conserve  esta  información,  ya  que  podría  necesitar  consultarla
+nuevamente.
+
+- Si tiene alguna duda, CONSULTE A SU MÉDICO.
+
+1. ¿Qué es REVIXIL® 20 y para qué se utiliza?
+
+REVIXIL® 20 contiene el principio activo plerixafor, que bloquea una
+proteína de la superficie de células madre de la sangre (hematopoyé-
+ticas). Esta proteína “fija” las células madre de la sangre a la médula
+ósea. El plerixafor mejora la liberación de las células madre al torren-
+te circulatorio (movilización). Las células madre se pueden recolectar
+con un aparato que separa los componentes de la sangre (máquina
+
+de aféresis), y posteriormente pueden ser congeladas y almacenadas
+hasta su trasplante.
+
+3. ¿Cómo debo usar REVIXIL® 20?
+
+REVIXIL®  20  se  emplea  para  liberar  hacia  la  circulación  las  células
+madres hematopoyéticas del propio paciente, que será sometido a un
+“autotrasplante”, para el tratamiento de un tipo de cáncer de los glóbu-
+los blancos (linfoma no Hodgkin) o un cáncer que afecta a las células
+productoras de anticuerpos o células plasmáticas (mieloma múltiple).
+
+La  movilización  comenzará  administrándole  primero  otro  medica-
+mento  llamado  G-CSF  (factor  estimulante  de  colonias  de  granulo-
+citos). El G-CSF ayudará a REVIXIL® 20 a funcionar apropiadamente
+en su organismo.
+
+Su médico o un enfermero le inyectarán su medicamento.
+
+2. ¿Qué necesito saber antes de empezar a usar REVIXIL® 20?
+
+Si desea más información acerca de G-CSF, pregunte a su médico y
+lea el correspondiente prospecto.
+
+No use REVIXIL® 20
+
+si es alérgico a plerixafor o a cualquiera de los demás componentes
+de este medicamento.
+
+Advertencias y precauciones
+
+¿Cuánto REVIXIL® 20 se administra?
+
+La dosis recomendada es de 0,24 mg/kg de peso/día. Su dosis de-
+penderá de su peso corporal. Si tiene problemas de riñón moderados
+o graves, su médico reducirá la dosis.
+
+Consulte a su médico antes de empezar a usar REVIXIL® 20
+
+¿Cómo se administra REVIXIL® 20?
+
+Informe a su médico
+
+REVIXIL® 20 se administra mediante inyección subcutánea (bajo la piel).
+
+Si tiene problemas de riñón. Su médico puede ajustarle la dosis.
+Si tiene un número alto de glóbulos blancos.
+Si tiene un número bajo de plaquetas.
+Si tiene o ha tenido cualquier problema del corazón,
+Si tiene antecedentes de sensación de desmayo o de mareo estando de
+pie o sentado o se ha desmayado anteriormente tras las inyecciones.
+si es menor de 18 años. No se han estudiado los efectos del plerixafor
+sobre niños y adolescentes.
+
+Su médico puede realizarle análisis de sangre periódicamente para
+controlar el número de células de la sangre.
+
+No se recomienda el uso de REVIXIL® 20 para la movilización de células
+madre si tiene leucemia (un cáncer de la sangre o de médula ósea).
+
+Consulte la sección “Posibles efectos adversos de REVIXIL® 20”
+
+Uso de REVIXIL® 20 con otros medicamentos
+
+Informe a su médico o farmacéutico si está tomando, ha tomado re-
+cientemente o podría tener que tomar cualquier otro medicamento.
+REVIXIL®  20  se  emplea  conjuntamente  con  G-CSF  (factor  estimu-
+lante de colonias de granulocitos) (ver la sección ¿Cómo debo usar
+REVIXIL® 20?)
+
+Embarazo y lactancia
+
+No debe utilizar REVIXIL® 20 si está embarazada, puesto que no se
+dispone de datos de los efectos del plerixafor en mujeres embara-
+zadas.
+
+Es importante que informe a su médico si está embarazada, cree que
+podría estarlo o tiene intención de quedarse embarazada.
+
+¿Cuándo se administra REVIXIL® 20 por primera vez?
+
+Recibirá la primera dosis entre 6 y 11 horas antes de la aféresis (reco-
+lección de las células madre de su sangre), luego de haber recibido
+una dosis diaria durante 4 días de G-CSF.
+
+¿Cuánto durará la administración de REVIXIL® 20?
+
+En general, el tratamiento dura hasta 4 días consecutivos, hasta que
+se  hayan  recolectado  suficientes  células  madre  para  su  trasplante.
+En  algunos  casos,  no  es  posible  obtener  un  número  suficiente  de
+células madres, por lo que puede ser necesario interrumpir el intento
+de recolección.
+
+Si se le administra más REVIXIL® 20 del que se debe
+
+Si  se  le  administra  más  REVIXIL®  20  del  que  se  debe,  deberá  per-
+manecer bajo rigurosa observación y control por su médico tratante.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+4. Posibles efectos adversos de REVIXIL® 20
+
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede
+producir efectos adversos, aunque no todas las personas los sufran.
+
+Se  recomienda  el  uso  de  métodos  anticonceptivos  si  está  en  edad
+fértil.
+
+Informe a su médico inmediatamente si
+
+No debe dar el pecho si está usando REVIXIL® 20 ya que se desconoce
+si el plerixafor pasa a la leche materna.
+
+Conducción y uso de máquinas
+
+luego de recibir REVIXIL® 20 presenta erupción cutánea, hinchazón
+alrededor de los ojos, dificultad para respirar, sensación de mareo
+estando de pie o sentado, sensación de desmayo o se desmaya siente
+dolor  en  la  parte  superior  izquierda  del  abdomen  o  en  su  hombro
+izquierdo.
+
+REVIXIL® 20 puede causar mareos y fatiga. Por tanto, debe evitar con-
+ducir si se siente mareado, cansado o no se siente bien.
+
+Efectos  adversos  frecuentes  (pueden  afectar  a  más  de  10  de  cada
+100 personas)
+
+Diarrea, náuseas, vómitos.
+Enrojecimiento o irritación en el lugar de inyección.
+Dolor de cabeza.
+Mareos, sensación de cansancio.
+Dolor en las articulaciones.
+
+Efectos adversos ocasionales (pueden afectar a más de 1 de cada 100
+personas pero a menos de 10 de cada 100)
+
+Sensación de malestar.
+Dificultad para dormir.
+Flatulencia, estreñimiento, indigestión, vómitos.
+Síntomas estomacales como dolor, hinchazón o molestias.
+Sequedad de boca, entumecimiento alrededor de la boca.
+Sudoración, enrojecimiento de la piel.
+Dolor muscular y de huesos.
+
+Efectos  adversos  raros  (pueden  afectar  a  menos  de  1  de  cada  100
+personas)
+
+Reacciones  alérgicas  como  erupción  cutánea,  hinchazón  alrededor
+de los ojos, dificultad para respirar.
+Reacciones anafilácticas, incluyendo shock anafiláctico.
+Sueños alterados, pesadillas.
+Desmayos, disminución de la presión arterial.
+Puede tener también un aumento del número de las células blancas
+de la sangre (leucocitos) o disminución de las plaquetas en sus aná-
+lisis de laboratorio.
+
+“Ante cualquier inconveniente con el producto usted puede llenar la
+ficha que está en la Página Web de la ANMAT:
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp, o llamar a
+ANMAT responde al 0800-333-1234”
+
+Mediante la comunicación de efectos no deseados usted puede con-
+tribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este
+medicamento.
+
+5. Recordatorio
+
+“Este medicamento ha sido prescripto sólo para su problema médico
+actual. No lo recomiende a otras personas”.
+
+6. Conservación de REVIXIL® 20
+
+Conservar a temperatura no mayor a 30oC.
+7. Contenido del envase e información adicional
+
+Composición de REVIXIL® 20
+
+El principio activo es plerixafor. Cada ml de solución inyectable con-
+tiene 20 mg de plerixafor. Cada vial contiene 24 mg de plerixafor en
+1,2 ml de solución inyectable. Los demás componentes son cloruro
+de sodio, ácido clorhídrico (concentrado), agua para inyección.
+
+Comunicación de efectos adversos
+
+8. Presentaciones
+
+Si experimenta cualquier tipo de efecto no deseado, consulte a su
+médico, incluso si se trata de posibles efectos adversos que no apare-
+cen en este prospecto. También puede comunicarse al Departamen-
+to de Farmacovigilancia GADOR S.A, teléfono +54 (11) 4858-9000 o
+a farmacovigilancia@gador.com.ar.
+
+Caja por 1 frasco ampolla de 1,2 ml de solución inyectable + inserto.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo
+prescripción y vigilancia médica y no puede repetirse sin una
+nueva receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestros sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429 - C1414CUI - C.A.B.A. Tel: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado No56.924. Elaborado por MR Pharma, prov. Bs.As, Argentina.
+
+Importado y distribuido por Laboratorio Gador S.A. Quito-Ecuador.
+
+Fecha De última revisión: 11/2015
+
+G00230200-00

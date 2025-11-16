@@ -1,0 +1,1862 @@
+CARBAMAZEPINA DENVER FARMA
+CARBAMAZEPINA 200 mg
+Comprimidos
+
+Industria Argentina                                                                                                                Venta Bajo Receta
+
+COMPOSICIÓN
+Cada comprimido de CARBAMAZEPINA DENVER FARMA contiene:
+Carbamazepina 200 mg
+Excipientes: Celulosa microcristalina; Almidón glicolato de sodio; Estearato de magnesio.
+
+ACCION TERAPEUTICA
+Código ATC: N03AF01
+Anticonvulsivante y antiepiléptico.
+
+INDICACIONES
+Epilepsia
+- Crisis epilépticas parciales complejas o simples, con generalización secundaria o sin ella.
+- Crisis epilépticas tónico-clónicas generalizadas.
+CARBAMAZEPINA DENVER FARMA es adecuado tanto en monoterapia como en politerapia antiepiléptica.
+- Manía y tratamiento profiláctico de la enfermedad maniaco depresiva: en pacientes que no respondieron a
+la terapia de litio o que presentan contraindicaciones a las drogas antimaníacas convencionales
+-  Neuralgia  clásica  del  trigémino  y  neuralgia  del  trigémino  debida  a  esclerosis  múltiple  (típica  o  atípica).
+Neuralgia glosofaríngea idiopática.
+En  general,  la  Carbamazepina  no  actúa  en  el  pequeño  mal  (ausencias)  y  convulsiones  mioclónicas;  en
+algunos casos se ha informado una ocasional exacerbación de la crisis en pacientes afectados por formas
+de ausencia atípica.
+
+CARACTERISTICAS FARMACOLOGICAS
+Propiedades Farmacodinámicas
+Como agente antiepiléptico su espectro de actividad abarca: crisis parciales (simples y complejas) con o sin
+generalización  secundaria,  convulsiones  tónico-clónicas  generalizadas,  así  como  combinaciones  de  estos
+tipos de ataques.
+El mecanismo de acción de la carbamazepina, la sustancia activa de CARBAMAZEPINA DENVER FARMA,
+sólo ha sido parcialmente dilucidado. La carbamazepina estabiliza las membranas nerviosas hiperexcitadas,
+inhibe las descargas neuronales repetitivas y reduce la propagación sináptica de los impulsos excitatorios.
+Resulta razonable que la prevención del disparo repetido de potenciales de acción dependientes de sodio
+en  neuronas  despolarizadas  a  través  del  bloque  de  los  canales  de  sodio  dependientes  del  voltaje,  pueda
+ser su mecanismo de acción principal.
+Mientras  que  la  reducción  de  la  liberación  de  glutamato  y  la  estabilización  de  las  membranas  neuronales
+puede ser responsable de los efectos antiepilépticos, el efecto depresor sobre el recambio de dopamina y la
+noradrenalina podrían ser responsables de las propiedades antimaníacas de carbamazepina.
+Propiedades Farmacocinéticas
+Absorción
+La  carbamazepina  en  comprimidos  se  absorbe  casi  por  completo,  pero  de  forma  relativamente  lenta.  Los
+comprimidos  convencionales  producen  concentraciones  plasmáticas  máximas  medias  de  la  sustancia
+inalterada  dentro  de  las  12  horas  tras  una  dosis  única.  Después  de  una  dosis  oral  única  de  400  mg  de
+Carbamazepina  (comprimidos)  la  concentración  plasmática  media  de  los  picos  de  Carbamazepina
+inalterada es de aproximadamente 4.5 μg/ml.
+La biodisponibilidad de Carbamazepina en varias formulaciones orales se ha demostrado que oscila entre
+85-100%.
+La ingestión de alimentos no tiene influencia significativa en la tasa y grado de absorción, con independen-
+cia de la forma de dosificación de carbamazepina.
+Las  concentraciones  plasmáticas  en  estado  de  equilibrio  de  carbamazepina  se  alcanzan  en  alrededor  de
+1-2 semanas, dependiendo individualmente de la autoinducción de la Carbamazepina y la hetero-inducción
+por otros fármacos inductores de enzimas, así como del estado pre-tratamiento, la dosis y la duración del
+tratamiento.
+Diferentes  preparaciones  de  la  carbamazepina  pueden  variar  en  la  biodisponibilidad;  para  evitar  una
+reducción  del  efecto  terapéutico,  riesgo  de  convulsiones  intermitentes  o  efectos  secundarios  excesivos,
+puede ser prudente evitar el cambio de la formulación.
+Distribución
+La Carbamazepina se une a proteínas séricas, en un 70 a 80%. La concentración de la sustancia inalterada
+en  el  líquido  cefalorraquídeo  y  la  saliva  refleja  la  porción  que  no  se  une  a  las  proteínas  en  el  plasma
+(20-30%).  Se  encontró  que  las  concentraciones  en  la  leche  materna  son  equivalentes  a  25-60%  de  los
+niveles plasmáticos correspondientes.
+Carbamazepina atraviesa la barrera placentaria. Suponiendo una absorción completa de la Carbamazepina,
+el volumen aparente de distribución es de 0,8 a 1,9 l / kg.
+Biotransformación
+La Carbamazepina se metaboliza en el hígado, en donde la vía de biotransformación del epóxido es la más
+importante, produciendo el 10,11 transdiol-derivado l y su glucurónido, como los principales metabolitos.
+La isoforma 3A4 del citocromo P450 ha sido identificada como la principal responsable de la formación de
+Carbamazepina  10,11-epóxido  a  partir  de  Carbamazepina.  La  enzima  epóxido  hidrolasa  microsomal
+humana  ha  sido  identificada  como  la  responsable  de  la  formación  del  derivado  10,11-transdiol  a  partir  de
+Carbamazepina-10,11  epóxido.  El  derivado  9-hidroxi-metil-10-carbamoil  acridano  es  un  metabolito  de
+menor  importancia,  relacionado  con  esta  vía.  Después  de  una  dosis  oral  única  de  Carbamazepina,
+alrededor del 30% aparece en la orina como productos finales de la vía epóxido.
+Otras vías de biotransformación importantes para Carbamazepina conducen a varios compuestos monohi-
+droxilados, así como a la N-glucurónido de Carbamazepina producido por la UGT2B7.
+
+Eliminación
+La  vida  media  de  eliminación  de  Carbamazepina  inalterada  promedia  las  36  horas  después  de  una  dosis
+única por vía oral, mientras que después de la administración repetida se observa un promedio de sólo 16 a
+24  horas  (autoinducción  del  sistema  de  monooxigenasa  hepático),  dependiendo  de  la  duración  del
+tratamiento. En pacientes que reciben tratamiento concomitante con otros fármacos inductores de enzimas
+(por  ejemplo,  fenitoína,  fenobarbital),  se  han  encontrado  valores  de  vida  media  que  promedian  las  9  a  10
+horas.
+La vida media de la eliminación del metabolito 10, 11-epóxido en el plasma es de aproximadamente 6 horas
+después de dosis orales únicas del propio epóxido.
+Tras la administración de una dosis oral única de 400 mg de Carbamazepina, el 72% se excreta en la orina
+y 28% en las heces. En la orina, aproximadamente el 2% de la dosis se recupera como fármaco inalterado y
+aproximadamente 1% como el metabolito farmacológicamente activo 10, 11-epóxido.
+Características en los pacientes
+Las  concentraciones  plasmáticas  de  Carbamazepina  en  estado  estacionario  considerado  como  "rango
+terapéutico"  varían  considerablemente  entre  los  individuos.  Se  ha  reportado  que  en  la  mayoría  de  los
+pacientes se encuentra en un rango entre 4-12 μg/ml correspondiente al 17-50 μmol/l. Las concentraciones
+de  10,  11-epóxido  Carbamazepina  (metabolito  farmacológicamente  activo)  representan:  aproximadamente
+el 30 % de los niveles de Carbamazepina.
+Debido a una mayor eliminación Carbamazepina, los niños pueden requerir dosis más altas de Carbamaze-
+pina (en mg/kg) que los adultos para mantener concentraciones terapéuticas.
+No  hay  ningún  indicio  de  la  alteración  de  la  farmacocinética  de  Carbamazepina  en  pacientes  de  edad
+avanzada en comparación con los adultos jóvenes.
+No  hay  datos  disponibles  sobre  la  farmacocinética  de  la  Carbamazepina  en  pacientes  con  insuficiencia
+hepática o renal.
+
+POSOLOGÍA Y MODO DE ADMINISTRACION
+El monitoreo de los niveles plasmáticos incrementa la eficacia y seguridad de uso de los anticonvulsivantes.
+Se aconseja iniciar el tratamiento con una dosis baja seguida de un incremento gradual de la misma. Tan
+pronto  como  se  alcanza  el  control,  la  dosis  puede  ser  gradualmente  disminuida  hasta  alcanzar  la  mínima
+efectiva.
+CARBAMAZEPINA DENVER FARMA se administra por vía oral, por lo general en dos o tres dosis divididas.
+CARBAMAZEPINA DENVER FARMA se puede tomar durante, después o entre las comidas, con un poco
+de líquido, por ejemplo, un vaso de agua.
+Antes de decidirse a iniciar el tratamiento, los pacientes de origen chino Han y tailandés deben en lo posible
+ser examinados para detectar HLA-B * 1502, ya que este alelo predice fuertemente el riesgo de síndrome
+de  Stevens-Johnson  grave  asociado  con  la  Carbamazepina  (ver  información  sobre  testeos  genéticos  y
+reacciones cutáneas en Advertencias y Precauciones).
+Epilepsia:
+Adultos:  Se  aconseja  que  en  todas  las  formulaciones  de  Carbamazepina,  se  utilice  un  esquema  de
+dosificación  de  incremento  gradual  que  debe  estar  ajustado  a  las  necesidades  de  cada  paciente.  Para
+establecer  la  dosis  óptima,  resulta  útil  monitorear  las  concentraciones  plasmáticas  de  Carbamazepina
+(véase Farmacocinética, Precauciones e Interacciones).
+CARBAMAZEPINA  DENVER  FARMA  debe  tomarse  en  varias  dosis  divididas,  aunque  inicialmente  se
+recomienda 100-200 mg una o dos veces al día. Esto puede ser seguido por un incremento gradual hasta
+que se obtenga la mejor respuesta, a menudo 800 a 1200 mg al día. En algunos casos, puede ser necesaria
+una dosis de 1600 mg o incluso 2000 mg diarios.
+Pacientes  de  edad  avanzada:  Debido  al  potencial  de  interacciones  farmacológicas,  la  dosis  de  CARBA-
+MAZEPINA DENVER FARMA debe ser seleccionada con precaución en pacientes de edad avanzada.
+Pacientes  pediátricos:  Se  recomienda  que  con  todas  las  formulaciones  de  carbamazepina,  se  utilice  un
+esquema de dosificación de incremento gradual, que además debería estar ajustado a las necesidades de
+cada  paciente.  Puede  ser  útil  monitorear  las  concentraciones  plasmáticas  de  Carbamazepina  para
+establecer la dosis óptima (véase Farmacocinética, Precauciones e Interacciones).
+Dosis usual: 10-20 mg/kg peso corporal por día tomados en varias dosis divididas.
+Los  comprimidos  de  CARBAMAZEPINA  DENVER  FARMA  no  son  recomendables  para  niños  muy
+pequeños.
+5-10 años: 2-3 comprimidos de 200 mg por día, que deben tomarse en dosis divididas.
+10-15 años: 3-5 comprimidos de 200 mg por día, que se deben tomar en varias dosis divididas.
+Siempre  que  sea  posible,  los  agentes  antiepilépticos  deben  prescribirse  en  monoterapia,  pero  si  se
+utilizaran en politerapia se recomienda el mismo patrón de incremento de dosis.
+Cuando  CARBAMAZEPINA  DENVER  FARMA  se  añade  a  la  terapia  antiepiléptica  existente,  esto  debe
+hacerse  en  forma  gradual,  manteniendo  o,  en  su  caso,  adaptando  la  dosis  de  los  otros  antiepilépticos
+(véase Interacción con otros medicamentos y otras formas de interacción).
+Neuralgia del trigémino:
+Aumentar progresivamente la dosis inicial de 200-400 mg al día (100 mg dos veces al día en pacientes de
+edad  avanzada)  hasta  que  se  obtenga  el  alivio  del  dolor  (normalmente  a  200  mg  3-4  veces  al  día).  En  la
+mayoría de los pacientes una dosis de 200 mg, 3 ó 4 veces al día es suficiente para mantener un estado
+libre  de  dolor.  En  algunos  casos,  pueden  ser  necesarias  dosis  diarias  de  1600  mg  de  CARBAMAZEPINA
+DENVER  FARMA  Sin  embargo,  una  vez  que  el  dolor  está  en  remisión,  la  dosis  debe  reducirse  gradual-
+mente al nivel de mantenimiento más bajo posible.
+Profilaxis de psicosis maníaco depresiva en pacientes que no responden a la terapia con litio:
+Dosis  inicial  de  400  mg  al  día,  en  dosis  divididas,  aumentando  gradualmente  hasta  que  se  controlan  los
+síntomas  o  se  alcanza  un  total  de  1600  mg  al  día,  administrados  en  dosis  divididas.  El  rango  de  dosis
+habitual es de 400-600 mg al día, administrados en dosis divididas.
+
+CONTRAINDICACIONES
+Hipersensibilidad  conocida  a  Carbamazepina  o  fármacos  estructuralmente  relacionados  (por  ejemplo,
+antidepresivos tricíclicos) o a cualquier otro componente de la formulación.
+Se  contraindica  en  los  pacientes  con  bloqueo  auriculoventricular,  con  antecedentes  de  depresión  de  la
+médula  ósea  o  de  porfirias  hepáticas  (por  ejemplo,  la  porfiria  aguda  intermitente,  porfiria  variegata,  la
+
+porfiria cutánea tardía).
+No se recomienda el uso de CARBAMAZEPINA DENVER FARMA, en combinación con inhibidores de la
+monoaminooxidasa (IMAO) (ver Interacción con otros medicamentos y otras formas de interacción).
+
+ADVERTENCIAS Y PRECAUCIONES
+Advertencias
+-Mujeres  en  edad  fértil:  Carbamazepina  puede  causar  daño  fetal  cuando  se  administra  a  una  mujer
+embarazada.  La  exposición  prenatal  a  la  misma  puede  incrementar  los  riesgos  de  malformaciones
+congénitas mayores y otros resultados adversos en el desarrollo.
+La  Carbamazepina  no  debería  ser  usada  en  mujeres  en  edad  fértil  a  menos  que  se  juzgue  que  el
+beneficio supera los riesgos luego de una consideración cuidadosa de las opciones terapéuticas alternativas.
+Las mujeres en edad fértil deberían estar completamente informadas sobre el riesgo potencial del feto si
+ellas la reciben durante el embarazo.
+Antes de iniciar el tratamiento con Carbamazepina en una mujer en edad fértil, debería considerarse un
+test de embarazo.
+Las mujeres en edad fértil deberían utilizar una anticoncepción efectiva durante el tratamiento y por dos
+semanas después de suspender el mismo. Debido a una inducción enzimática, la Carbamazepina puede
+resultar  en  una  falla  del  efecto  terapéutico  de  los  anticonceptivos  hormonales;  por  lo  tanto,  se  debería
+asesorar con respecto al uso de otros métodos anticonceptivos.
+Debería  aconsejarse  con  respecto  a  la  necesidad  de  solicitar  una  consulta  a  su  médico  tan  pronto  ella
+planifique un embarazo para discutir el cambio a un tratamiento alternativo previamente a la concepción y
+antes de discontinuar la anticoncepción.
+Debería  aconsejarse  que  contacte  con  su  médico  si  ella  se  embaraza  o  piense  que  pueda  estar
+embarazada mientras recibe este medicamento.
+-  La  agranulocitosis  y  la  anemia  aplásica  se  han  asociado  con  el  empleo  de  Carbamazepina.  Sin
+embargo, debido a la muy baja incidencia de estas condiciones, la magnitud de este riesgo, resulta difícil
+de  estimar.  El  riesgo  total  de  la  población,  en  general  no  tratada  se  ha  estimado  en  4,7  personas  por
+millón por año para la agranulocitosis y 2,0 personas por millón por año para la anemia aplásica. Datos
+basados  en  estudios  poblacionales  casos-control  demuestran  que  el  riesgo  de  desarrollo  de  estas
+reacciones con Carbamazepina es 5 a 8 veces mayor que la población en general.
+Ocasionalmente a frecuentemente se produce disminución del recuento de plaquetas o glóbulos blancos
+sanguíneos  en  asociación  con  el  uso  de  carbamazepina.  Sin  embargo,  los  recuentos  sanguíneos
+pre-tratamiento  completos,  incluyendo  las  plaquetas  y,  posiblemente,  reticulocitos  y  hierro  sérico,
+deberían ser monitoreados al inicio del tratamiento, y posteriormente de forma periódica.
+Los pacientes y sus familiares deben ser advertidos de los primeros signos y síntomas tóxicos indicativos
+de un posible problema hematológico, así como síntomas de reacciones dermatológicas o hepáticas. Si
+aparecen reacciones tales como fiebre, dolor de garganta, sarpullido, úlceras en la boca, moretones con
+facilidad, petequias o hemorragias purpúricas, el paciente debe consultar a su médico de inmediato.
+Si  el  recuento  de  glóbulos  blancos  o  de  plaquetas  es  definitivamente  bajo  o  disminuye  durante  el
+tratamiento,  el  recuento  sanguíneo  completo  y  el  estado  general  del  paciente  se  deben  controlar
+cuidadosamente  (ver  Reacciones  adversas).  Sin  embargo,  el  tratamiento  con  CARBAMAZEPINA
+DENVER FARMA se debe suspender si el paciente desarrolla leucopenia, que es grave y progresiva, o
+acompañada  de  manifestaciones  clínicas,  por  ejemplo,  fiebre  o  dolor  de  garganta.  CARBAMAZEPINA
+DENVER  FARMAtambién  debe  interrumpirse  si  aparece  alguna  evidencia  de  depresión  significativa  de
+médula ósea.
+- Pruebas de función hepática: También se deben realizar antes de iniciar el tratamiento y posteriormente
+de  forma  periódica,  especialmente  en  pacientes  con  antecedentes  de  enfermedad  hepática  y  en
+pacientes  de  edad  avanzada.  El  medicamento  debe  ser  retirado  de  inmediato  en  casos  de  disfunción
+hepática agravada o enfermedad hepática aguda.
+Algunas  de  las  pruebas  de  función  hepática  pueden  encontrarse  alteradas  en  los  pacientes  que
+recibieron Carbamazepina, en particular la gamma glutamil transferasa. Esto es probablemente debido a
+la  inducción  de  enzimas  hepáticas.  La  inducción  enzimática  también  puede  producir  elevaciones
+modestas de la fosfatasa alcalina. Estas mejoras de la capacidad de metabolización hepática no son una
+indicación para la suspensión de la carbamazepina.
+Reacciones  hepáticas  graves  debida  a  la  Carbamazepina  son  muy  raras.  El  desarrollo  de  los  signos  y
+síntomas  de  disfunción  hepática  o  enfermedad  hepática  activa  se  debe  evaluar  con  urgencia  y  el
+tratamiento  con  CARBAMAZEPINA  DENVER  FARMA  suspendido  a  la  espera  del  resultado  de  la
+evaluación.
+-  Hipotiroidismo:  el  uso  de  Carbamazepina  puede  reducir  las  concentraciones  séricas  de  hormona
+tiroideas a través de la inducción de enzimas requiriendo un aumento de la dosis en la terapia sustitutiva
+de la hormona tiroidea en pacientes con hipotiroidismo. Se recomienda controlar la función tiroidea para
+ajustar la dosis de la terapia sustitutiva de la hormona tiroidea.
+- Efectos psiquiátricos: deberá tenerse en cuenta la activación de una psicosis latente y en pacientes de
+edad avanzada la aparición de estados de confusión o agitación.
+-Hiperamonemia:  niveles  elevados  de  amoniaco  en  sangre  (hiperamonemia).  Los  síntomas  de  la
+hiperamonemia pueden incluir irritabilidad, confusión, vómitos, pérdida de apetito y somnolencia
+- Ideación y comportamiento suicida: se han reportado en pacientes tratados con fármacos antiepilépticos
+en  varias  indicaciones.  Un  meta-análisis  de  ensayos  controlados  con  placebo,  aleatorizados,  con
+fármacos  antiepilépticos,  ha  mostrado  un  pequeño  aumento  del  riesgo  de  ideación  y  comportamiento
+suicida. El mecanismo de este riesgo no se conoce y los datos disponibles no excluyen la posibilidad de
+un mayor riesgo para la Carbamazepina.
+Por  lo  tanto,  los  pacientes  deben  ser  monitoreados  para  detectar  signos  de  pensamientos  y  comporta-
+mientos suicidas y se debe considerar el tratamiento adecuado. Los pacientes (y los cuidadores de los
+pacientes) deben ser advertidos de buscar consejo médico si aparecen signos de ideación o comporta-
+miento suicida.
+-  Reacciones  dermatológicas  graves,  incluyendo  necrólisis  epidérmica  tóxica  (NET:  también  conocido
+como  síndrome  de  Lyell)  y  síndrome  de  Stevens-Johnson  (SSJ)  se  han  informado  muy  raramente  con
+Carbamazepina.  Los  pacientes  con  reacciones  dermatológicas  graves  pueden  requerir  hospitalización,
+
+ya que estas condiciones pueden amenazar la vida y puede ser fatales. La mayoría de los casos de SSJ /
+NET aparecen en los primeros meses de tratamiento con Carbamazepina. Si aparecen signos y síntomas
+sugestivos de reacciones graves en la piel (por ejemplo, síndrome de SSJ / TEN de Lyell), la terapia con
+CARBAMAZEPINA DENVER FARMA debe ser suspendida de una vez y debe considerarse un tratamiento
+alternativo.
+- Reacciones cutáneas: Reacciones cutáneas graves, y a veces fatales, incluyendo necrólisis epidérmica
+tóxica  (NET)  y  el  síndrome  de  Stevens-Johnson  (SSJ)  se  notificaron  durante  el  tratamiento  con
+Carbamazepina. Estas reacciones se estima que se producen en 1-6 de cada 10.000 nuevos usuarios en
+países  con  poblaciones  mayormente  caucásicas,  pero  el  riesgo  en  algunos  países  de  Asia  se  estima
+alrededor de 10 veces mayor.
+Existe una evidencia creciente del papel de los diferentes alelos HLA en la predisposición de los pacientes
+a  padecer  reacciones  adversas  mediadas  inmunológicamente  (véase  Posología  y  Modo  de  adminis-
+tración).
+HLA-B * 1502 alelo – Chinos Han, Tailandia y otras poblaciones asiáticas:
+La  presencia  de  HLA-B  *  1502  en  individuos  de  origen  chino  Han  y  tailandés  ha  demostrado  estar
+fuertemente  asociada  con  el  riesgo  de  desarrollar  el  síndrome  de  Stevens-Johnson  (SSJ)  cuando  son
+tratados con Carbamazepina. La prevalencia de ser portador de alelos HLA-B * 1502 es de aproximada-
+mente 10% en poblaciones de chinos Han y tailandés. Siempre que sea posible, en estas personas debe
+evaluarse  este  alelo  antes  de  comenzar  el  tratamiento  con  Carbamazepina  (ver  Posología  y  Modo  de
+administración).  Si  la  evaluación  en  estos  pacientes  resultara  positiva,  la  Carbamazepina  no  debería
+usarse  a  menos  que  no  haya  otra  opción  terapéutica.  Los  pacientes  evaluados  que  son  negativos  para
+HLA-B  *1502,  presentan  un  bajo  riesgo  de  SJS,  aunque  muy  rara  vez,  pueden  todavía  producirse  estas
+reacciones.
+Hay  algunos  datos  que  sugieren  un  aumento  del  riesgo  de  sufrir  SSJ  /  TEN  graves  asociados  con
+Carbamazepina en otras poblaciones asiáticas. Debido a la prevalencia de este alelo en otras poblaciones
+de Asia (por ejemplo, por encima del 15% en Filipinas y Malasia), se puede considerar realizar las pruebas
+genéticas para la presencia de HLA-B * 1502, en las poblaciones de riesgo.
+La  prevalencia  de  los  alelos  HLA-B  *  1502  es  insignificante  en,  por  ejemplo,  la  descendencia  europea,
+muestras, de la población hispana o africana y en japoneses y coreanos (<1%).
+HLA-A * 3101 alelo - descendientes de europeos y las poblaciones japonesas:
+Hay  algunos  datos  que  sugieren  que  el  HLA-A  *  3101  se  asocia  con  un  mayor  riesgo  de  reacciones
+cutáneas adversas, inducidas por medicamentos como la carbamazepina, incluyendo SSJ, TEN, erupción
+cutánea con eosinofilia (DRESS), o la menos severa pustulosis exantemática generalizada aguda (PEGA)
+y la erupción cutánea maculopapular (ver Reacciones Adversas) en personas de descendencia europea y
+japonesa.
+La  frecuencia  del  alelo  HLA-A  *  3101  varía  ampliamente  entre  las  poblaciones  étnicas.  El  alelo  HLA-A  *
+3101  tiene  una  prevalencia  de  2  a  5%  en  las  poblaciones  europeas  y  aproximadamente  10%  en  la
+población japonesa.
+La  presencia  del  alelo  HLA-A  *  3101  puede  aumentar  el  riesgo  de  reacciones  cutáneas  inducidas  por
+Carbamazepina  (en  su  mayoría  menos  grave)  desde  el  5%  en  la  población  general  al  26%  entre  los
+sujetos con ascendencia del norte de Europa, mientras que su ausencia puede reducir el riesgo del 5% al 3,8%.
+No  hay  datos  suficientes,  que  apoyen  la  recomendación  de  evaluación  de  HLA-A  *  3101,  antes  de
+comenzar el tratamiento con carbamazepina.
+En los pacientes de ascendencia europea o de origen japonés que son positivos para alelo HLA-A * 3101,
+el uso de la Carbamazepina puede ser considerado, si se considera que los beneficios son mayores que
+los  riesgos.  También  se  pueden  producir  reacciones  cutáneas  leves,  por  ejemplo,  exantema  macular  o
+maculopapular aislados, y son en su mayoría transitorias y no peligrosas. Por lo general desaparecen en
+unos  pocos  días  o  semanas,  ya  sea  durante  el  curso  continuo  del  tratamiento  o  después  de  una
+disminución  en  la  dosis.  Sin  embargo,  debido  a  que  pueden  ser  difíciles  de  diferenciar  los  signos
+tempranos  de  reacciones  cutáneas  más  graves  que  los  de  las  reacciones  transitorias  leves,  el  paciente
+debe mantenerse bajo estrecha vigilancia teniendo en consideración la inmediata suspensión de la droga
+ya que la reacción puede empeorar con el uso continuo.
+No se ha encontrado que el alelo HLA-B * 1502 pueda predecir el riesgo de reacciones cutáneas adversas
+menos graves con Carbamazepina, tales como el síndrome de hipersensibilidad por anticonvulsivantes o
+exantema no grave (erupción maculopapular).
+-  Hipersensibilidad:  la  Carbamazepina  puede  desencadenar  reacciones  de  hipersensibilidad,  incluyendo
+erupción  farmacológica  con  Eosinofilia  y  Síntomas  Sistémicos  (DRESS),  reacciones  de  hipersensibilidad
+multiorgánica retardada, con fiebre, erupción, vasculitis, linfadenopatía, pseudolinfoma, artralgia, leucope-
+nia, eosinofilia, hepatoesplenomegalia, pruebas de la función hepática anormales y síndrome de fuga del
+conducto biliar (destrucción y desaparición de los conductos biliares intrahepáticos) que pueden aparecer
+en  varias  combinaciones.  Pueden  verse  afectados  otros  órganos  (p.ej.  pulmones,  riñones,  páncreas,
+miocardio, colon).
+En  general,  si  se  presentan  signos  y  síntomas  sugestivos  de  reacciones  de  hipersensibilidad,  CARBA-
+MAZEPINA DENVER FARMA debe ser retirado inmediatamente.
+Los pacientes que han demostrado reacción de hipersensibilidad a Carbamazepina deben ser informados
+de que el 25-30% de ellos pueden presentar reacciones de hipersensibilidad con oxacarbazepina.
+Hipersensibilidad cruzada puede ocurrir entre la carbamazepina, fenitoína, primidona y fenobarbital.
+CARBAMAZEPINA  DENVER  FARMA  debe  utilizarse  con  precaución  en  pacientes  con  crisis  mixtas  que
+incluyen  ausencias,  ya  sean  típicas  o  atípicas.  En  todas  estas  condiciones,  la  Carbamazepina  puede
+exacerbar  las  convulsiones.  En  caso  de  agravamiento  de  las  convulsiones,  CARBAMAZEPINA  DENVER
+FARMA debe interrumpirse.
+La suspensión brusca de CARBAMAZEPINA DENVER FARMA puede precipitar convulsiones.
+Si el tratamiento con CARBAMAZEPINA DENVER FARMA debiera interrumpirse bruscamente, el cambio a
+otro fármaco antiepiléptico, es necesario que se efectúe bajo la cobertura de un medicamento adecuado
+(por ejemplo, diazepam iv, rectal, o fenitoína iv).
+-  Hiponatremia:  se  sabe  que  la  Carbamazepina  provoca  hiponatremia.  En  pacientes  con  enfermedades
+renales preexistentes asociadas con niveles bajos de sodio o en pacientes tratados de forma concomitante
+
+con medicamentos reductores de sodio (por ejemplo, diuréticos, medicamentos asociados con una secreción
+inadecuada  de  hormona  antidiurética),  se  deben  medir  los  niveles  séricos  de  sodio  antes  de  iniciar  el
+tratamiento  con  Carbamazepina.  Posteriormente,  los  niveles  séricos  de  sodio  deben  medirse  luego  de
+aproximadamente 2 semanas y luego a intervalos mensuales durante los primeros 3 meses de la terapia, o
+según  la  necesidad  clínica.  Estos  factores  de  riesgo  pueden  aplicarse  especialmente  a  pacientes  de  edad
+avanzada.  Si  se  observa  hiponatremia,  la  restricción  de  agua  es  una  contramedida  importante  si  esta
+clínicamente indicada
+- Carbamazepina y preparaciones de estrógenos y / o progestágenos
+Debido a la inducción de enzimas hepáticas, la Carbamazepina puede causar el fracaso del efecto terapéuti-
+co  de  los  productos  conteniendo  estrógenos  y  /  o  progestógenos.  Esto  puede  resultar  en  el  fracaso  de  la
+anticoncepción, la recurrencia de los síntomas o el sangrado inesperado.
+Los pacientes que toman CARBAMAZEPINA DENVER FARMA y que requieren la anticoncepción hormonal
+deben recibir una preparación que contenga no menos de 50 microgramos de estrógeno o se debe consider-
+ar  el  uso  de  algún  método  no  hormonal  de  anticoncepción  alternativo. Aunque  las  correlaciones  entre  las
+dosis  y  los  niveles  plasmáticos  de  carbamazepina,  y  entre  los  niveles  plasmáticos  y  la  eficacia  clínica  o
+tolerabilidad son algo imprecisos, el seguimiento de los niveles plasmáticos  puede ser útil en las siguientes
+condiciones:  dramático  aumento  de  la  frecuencia  de  las  convulsiones  /  verificación  de  la  aceptabilidad  del
+paciente;  durante  el  embarazo;  en  el  tratamiento  de  niños  y  adolescentes,  cuando  exista  sospecha  de
+trastornos de absorción, ante la sospecha de toxicidad cuando se utiliza más de un fármaco (ver Interacción
+con otros medicamentos y otras formas de interacción).
+-Control  de  los  niveles  plasmáticos:  El  control  de  los  niveles  en  sangre  de  los  anticonvulsivantes  ha
+aumentado  la  eficacia  y  seguridad.  El  monitoreo  de  los  niveles  de  Carbamazepina  en  sangre  puede  ser
+particularmente  útil  en  casos  de  aumento  brusco  de  la  frecuencia  de  las  crisis  y  para  verificación  del
+cumplimiento  de  la  medicación  por  el  paciente;  durante  el  embarazo,  en  el  tratamiento  de  niños  y
+adolescentes, cuando se sospeche de trastornos de absorción, en caso de sospecha de toxicidad al tomar
+más  de  un  medicamento.  Los  niveles  plasmáticos  de  Carbamazepina  son  variables  y  pueden  oscilar  entre
+0,5 y 25 mcg / ml sin relación aparente con la ingesta diaria del fármaco. Los niveles habituales en adultos
+están  entre  4  y  12  mcg  /  ml.  En  politerapia  la  concentración  de  Carbamazepina  y  demás  medicamentos
+concomitantes  pueden  aumentar  o  disminuir  durante  la  terapia  y  los  efectos  de  los  medicamentos  pueden
+verse  alterados  (Ver  Interacciones  medicamentosas).  Debido  a  que  Carbamazepina  induce  su  propio
+metabolismo, la vida media también es variable. La autoinducción se completa después de 3 a 5 semanas
+de un régimen de dosificación fijo.
+
+PRECAUCIONES
+CARBAMAZEPINA  DENVER  FARMA  debe  ser  prescrito  sólo  después  de  una  crítica  evaluación  de  los
+beneficios  y  riesgos  potenciales  y  bajo  estrecha  vigilancia  en  pacientes  con  historia  de  daño  cardiaco,
+hepático  o  renal,  reacciones  hematológicas  adversas  a  otros  medicamentos,  o  cursos  interrumpidos  de  la
+terapia con Carbamazepina.
+Se  recomiendan  realizar  análisis  de  orina  completa  y  determinaciones  de  urea  plasmática  tanto  al  inicio  y
+periódicamente durante el tratamiento.
+La Carbamazepina ha mostrado una actividad anticolinérgica leve, por lo que se debe advertir y avisar a los
+pacientes con aumento de la presión intraocular, del posible riesgo que esto implica.
+Se  debe  tener  en  cuenta  la  posibilidad  de  la  activación  de  una  psicosis  latente  y,  en  pacientes  de  edad
+avanzada, la posibilidad de cuadros de confusión o agitación.
+El tratamiento con Carbamazepina se ha asociado con ataxia, mareo, somnolencia, hipotensión, confusión y
+sedación que puede producir caídas, fracturas y otras lesiones. Evaluar el riesgo de caídas, fracturas y otras
+lesiones en pacientes bajo tratamiento crónico.
+
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCION
+El Citocromo P4503A4 (CYP 3A4) es el principal sistema enzimático que cataliza la formación del metabolito
+activo 10, 11-epóxido Carbamazepina. La administración conjunta de inhibidores de CYP3A4 puede resultar
+en  aumento  de  las  concentraciones  plasmáticas  de  Carbamazepina  que  pudieran  inducir  reacciones
+adversas.  La  co-administración  de  inductores  CYP3A4  podría  aumentar  la  tasa  de  metabolismo  de
+Carbamazepina,  lo  que  conduce  a  disminuciones  potenciales  en  el  nivel  sérico  de  carbamazepina  y  del
+efecto terapéutico.
+Del  mismo  modo,  la  interrupción  de  un  inductor  de  CYP3A4  puede  disminuir  la  tasa  de  metabolismo  de  la
+Carbamazepina, conduciendo a un aumento en los niveles plasmáticos de carbamazepina.
+La Carbamazepina es un potente inductor de CYP3A4 y otros sistemas enzimáticos fase I y II en el hígado, y
+por lo tanto puede reducir las concentraciones plasmáticas de medicamentos concomitantes metabolizados
+principalmente por el CYP3A4 por inducción de su metabolismo.
+La epóxido-hidrolasa microsomal humana ha sido identificada como la enzima responsable de la formación
+del  derivado  10,11-transdiol  a  partir  de  -10,11-epóxido  carbamazepina.  La  administración  conjunta  de
+inhibidores  de  la  epóxido-hidrolasa  microsomal  humana  puede  dar  como  resultado  un  aumento  de  las
+concentraciones plasmáticas de 10,11-epóxido Carbamazepina.
+Agentes que pueden aumentar los niveles plasmáticos de Carbamazepina:
+Isoniazida,  verapamilo,  diltiazem,  ritonavir,  dextropropoxifeno,
+fluvoxamina,  paroxetina,
+posiblemente cimetidina, omeprazol, acetazolamida, danazol, nicotinamida (en adultos, sólo en dosis altas),
+trazodona,  vigabatrina,  antibióticos  macrólidos  (por  ejemplo,  eritromicina,  claritromicina),  azoles  (por
+ejemplo,  itraconazol,  ketoconazol,  fluconazol,  voriconazol),  loratadina,  olanzapina,  zumo  de  pomelo,
+inhibidores de la proteasa para el tratamiento del virus de la inmunodeficiencia humana (VIH) (por ejemplo,
+ritonavir).
+Dado que los niveles elevados de carbamazepina en plasma, pueden dar lugar a reacciones adversas (por
+ejemplo,  mareos,  somnolencia,  ataxia,  diplopía),  la  dosis  de  CARBAMAZEPINA  DENVER  FARMA  debe
+ajustarse en consecuencia y / o monitorear los niveles plasmáticos.
+Agentes  que  pueden  aumentar  los  niveles  plasmáticos  del  metabolito  activo-10  ,11-epóxido
+carbamazepina:
+Considerando que los niveles plasmáticos de 10 ,11-epóxido carbamazepina pueden dar lugar a reacciones
+adversas  (por  ejemplo,  mareos,  somnolencia,  ataxia,  diplopía),  la  dosis  de  CARBAMAZEPINA  DENVER
+
+fluoxetina,
+
+FARMA  debe  ajustarse  en  consecuencia  y  /  o  mensurar  sus  niveles  plasmáticos  cuando  se  utiliza  de  forma
+
+concomitante  con  las  sustancias  que  se  describen  a  continuación:  quetiapina,  progabide,  ácido  valproico,
+
+valnoctamida, primidona, brivaracetam y valpromida.
+
+Agentes que pueden disminuir los niveles plasmáticos de Carbamazepina:
+
+Fenobarbital,  fenitoína  y  fosfenitoína,  primidona  o  teofilina,  aminofilina,  rifampicina,  cisplatino  o  doxorrubicina  y,
+
+aunque los datos son en parte contradictorios, posiblemente también oxcarbazepina o clonazepam. La mefloqui-
+
+na  puede  antagonizar  el  efecto  antiepiléptico  de  la  Carbamazepina.  La  dosis  de  CARBAMAZEPINA  DENVER
+
+FARMA en consecuencia, debe ser ajustada.
+
+Se ha reportado que la isotretinoína puede alterar la biodisponibilidad y / o el aclaramiento de la Carbamazepina y
+
+10,11-epóxido carbamazepina; las concentraciones plasmáticas de Carbamazepina deben ser controladas.
+
+Los  niveles  séricos  de  Carbamazepina  pueden  reducirse  por  el  uso  concomitante  de  medicamentos  a  base  de
+
+hierbas de San Juan (Hypericum perforatum).
+
+Efecto de CARBAMAZEPINA DENVER FARMA sobre los niveles plasmáticos de agentes concomitantes:
+
+La  Carbamazepina  puede  disminuir  el  nivel  en  plasma,  y  disminuir  o  incluso  suprimir  la  actividad  de  ciertos
+
+medicamentos. La dosificación de las drogas que se mencionan a continuación pueden tener que ajustarse a los
+
+requerimientos clínicos: levotiroxina, clobazam, clonazepam, etosuximida, primidona, ácido valproico, alprazolam,
+
+corticosteroides (por ejemplo, prednisona, dexametasona), ciclosporina, tacrolimus, sirolimus, digoxina, doxicicli-
+
+na,  derivados  de  dihidropiridina  ,  por  ejemplo,  felodipina  y  isradipina,  indinavir,  saquinavir,  ritonavir,  haloperidol,
+
+imipramina,  buprenorfina,  metadona,  paracetamol,  tramadol,  los  productos  que  contienen  estrógenos  y  /o
+
+progestágenos  (métodos  anticonceptivos  alternativos  deberían  ser  considerados,  véase  Advertencias  y
+
+precauciones),  gestrinona,  tibolona,  toremifeno,  teofilina,  anticoagulantes  orales  (warfarina  y  acenocumarol),
+
+lamotrigina,  tiagabina,  topiramato,  bupropión,  citalopram,  mianserina,  sertralina,  trazodona,  antidepresivos
+
+tricíclicos (por ejemplo imipramina, amitriptilina, nortriptilina, clomipramina), clozapina, oxcarbazapine, olanzapina,
+
+quetiapina,  aripiprazol,  paliperidona,  itraconazol,  imatinib,  ciclofosfamida,  lapatinib,  temsirolimus,  risperidona,
+
+aprepitant, albendazol y tadalafil.
+
+Se ha reportado que los niveles de fenitoína en plasma pueden ser tanto aumentados como disminuidos por la
+
+Carbamazepina, y ha habido informes, poco frecuentes, de un aumento en plasma de mefenitoína.
+
+Debido  a  una  inducción  enzimática,  la  Carbamazepina  puede  resultar  en  una  falla  del  efecto  terapéutico  de  los
+
+anticonceptivos hormonales; por lo tanto, se debería asesorar con respecto al uso de otros métodos anticonceptivos.
+
+Combinaciones que requieren una consideración especial:
+
+Se ha informado que el uso concomitante de Carbamazepina y levetiracetam aumenta la toxicidad inducida por
+
+Carbamazepina.
+
+inducida por la isoniazida.
+
+Se  ha  informado  que  el  uso  concomitante  de  Carbamazepina  e  isoniazida  puede  aumentar  la  hepatotoxicidad
+
+La combinación de litio y Carbamazepina puede causar una mayor neurotoxicidad a pesar de que las concentra-
+
+ciones  plasmáticas  de  litio  estén  dentro  del  intervalo  terapéutico.  El  uso  combinado  de  carbamazepina  con
+
+metoclopramida  o  tranquilizantes  mayores,  por  ejemplo,  haloperidol,  tioridazina,  también  puede  resultar  en  un
+
+aumento en los efectos secundarios neurológicos.
+
+Debido  a  que  Carbamazepina  está  estructuralmente  relacionada  con  los  antidepresivos  tricíclicos,  no  se
+
+recomienda el uso de CARBAMAZEPINA DENVER FARMA en combinación con inhibidores de la monoaminooxi-
+
+dasa (IMAO). Antes de administrar CARBAMAZEPINA DENVER FARMA se debe interrumpir el IMAO durante un
+
+mínimo de 2 semanas o más tiempo si la situación clínica lo permite.
+
+La administración concomitante de Carbamazepina y algunos diuréticos (hidroclorotiazida, furosemida) puede dar
+
+lugar a hiponatremia sintomática.
+
+La Carbamazepina puede antagonizar los efectos de los relajantes musculares no despolarizantes (p.ej. pancuro-
+
+nio). Su dosis debe ser elevada y los pacientes monitoreados cuidadosamente debido a que la recuperación del
+
+bloqueo neuromuscular puede que sea más rápida de lo esperado.
+
+Carbamazepina,  al  igual  que  otras  drogas  psicoactivas,  puede  reducir  la  tolerancia  al  alcohol.  Por  tanto,  es
+
+aconsejable que el paciente se abstenga de tomar alcohol.
+
+Embarazo y lactancia
+
+Embarazo
+
+antiepiléptico.
+
+Riesgos relacionados a medicamentos antiepilépticos en general
+
+A  todas  las  mujeres  en  edad  fértil  que  reciben  medicación  antiepiléptica  y  especialmente  a  las  mujeres  que
+
+planean un embarazo y/o a las mujeres embarazadas, debería brindárseles asesoramiento médico especializado
+
+con respecto a los riesgos potenciales para el feto causados tanto por las convulsiones como por el tratamiento
+
+Se debe evitar la suspensión abrupta de la terapia con medicamentos antiepilépticos (MAE), ya que esto puede
+
+ocasionar convulsiones que podrían tener consecuencias graves para la mujer y el niño no nacido.
+
+Durante el embarazo es preferible la monoterapia para tratar la epilepsia siempre que sea posible debido a que la
+
+terapia con múltiples MAE podría estar asociada con un mayor riesgo de malformaciones congénitas que con la
+
+monoterapia, dependiendo de los MAE asociados.
+
+Riesgos relacionados a la Carbamazepina
+
+Carbamazepina atraviesa la placenta en humanos. La exposición prenatal a la Carbamazepina puede incremen-
+
+tar  los  riesgos  de  malformaciones  congénitas  y  otros  resultados  adversos  en  el  desarrollo.  En  humanos,  la
+
+exposición a este fármaco durante el embarazo se asocia con un incremento de la frecuencia de malformaciones
+
+congénitas mayores en 2 a 3 veces más que los de la población general; en esta última la frecuencia es de 2-3 %.
+
+Se  han  informado  malformaciones  como  defectos  del  tubo  neural  (espina  bífida),  defectos  craneofaciales  como
+
+labio leporino / paladar hendido, malformaciones cardiovasculares, hipospadias, hipoplasia de los dedos y otras
+
+anomalías que involucran varios sistemas corporales en la descendencia de mujeres que recibieron Carbamaze-
+
+pina  durante  el  embarazo.  Se  recomienda  una  vigilancia  prenatal  especializada  para  estas  malformaciones.  Se
+
+han notificado trastornos del neurodesarrollo en niños nacidos de mujeres con epilepsia que durante el embarazo
+
+utilizaron  este  medicamento  solo  o  en  combinación  con  otros  MAE.  Los  estudios  relacionados  con  el  riesgo  de
+
+trastornos del neurodesarrollo en niños expuestos a Carbamazepina durante el embarazo son contradictorios y no
+
+se puede excluir un riesgo.
+
+La Carbamazepina no debería utilizarse durante el embarazo a menos que se juzgue que el beneficio supera los
+
+riesgos luego de una cuidadosa consideración de las opciones de tratamientos adecuados alternativos. La mujer
+
+debe estar completamente informada y comprender los riesgos de recibir este fármaco durante el embarazo.
+
+La evidencia sugiere que el riesgo de malformación con Carbamazepina puede ser dosis-dependiente. En caso
+
+que luego de una evaluación cuidadosa de los riesgos y beneficios no se encuentre disponible otra opción
+
+de  tratamiento  alternativo  y  continúe  la  terapia  con  Carbamazepina  se  recomienda  utilizar  la  menor  dosis
+
+efectiva y monitorear las concentraciones plasmáticas. Éstas últimas podrían mantenerse en el límite inferior
+
+del rango terapéutico de 4 a 12 microgramos/mL siempre que se mantenga el control de las convulsiones.
+
+Se ha notificado que algunos medicamentos antiepilépticos, como la Carbamazepina, pueden disminuir las
+
+concentraciones  séricas  de  folato.  Este  déficit  puede  contribuir  al  incremento  de  incidencia  de  malforma-
+
+ciones congénitas en la descendencia. Se recomienda la suplementación con Ácido fólico antes y durante el
+
+embarazo. Con el objetivo de prevenir trastornos hemorrágicos en la descendencia, también se ha recomen-
+
+dado administrar vitamina K1 a la madre durante las últimas semanas, así como al neonato.
+
+Si una mujer se encuentra planificando un embarazo, se deben hacer todos los esfuerzos para cambiar a un
+
+tratamiento alternativo apropiado previamente a la concepción y antes de discontinuar la anticoncepción. En
+
+caso que una mujer quede embarazada mientras recibe Carbamazepina, debe ser derivada a un especialis-
+
+ta para reevaluar el tratamiento con este medicamento y considerar opciones de tratamiento alternativas.
+
+Mujeres en edad fértil
+
+La Carbamazepina no debería utilizarse en mujeres en edad fértil a menos que se juzgue que el beneficio
+
+supera  los  riesgos  luego  de  una  cuidadosa  consideración  de  las  opciones  de  tratamientos  adecuados
+
+alternativos.  La  mujer  debe  estar  completamente  informada  y  comprender  los  riesgos  de  recibir  este
+
+medicamento durante el embarazo y por lo tanto la importancia de planificar cualquier embarazo. Antes de
+
+iniciar un tratamiento con Carbamazepina en una mujer en edad fértil debería considerarse realizar un test
+
+de embarazo.
+
+Las  mujeres  en  edad  fértil  deberían  utilizar  una  anticoncepción  efectiva  durante  el  tratamiento  y  por  dos
+
+semanas  después  de  suspender  el  mismo.  Debido  a  una  inducción  enzimática,  la  Carbamazepina  puede
+
+resultar  en  una  falla  del  efecto  terapéutico  de  los  anticonceptivos  hormonales;  por  lo  tanto,  se  debería
+
+asesorar  con  respecto  al  uso  de  otros  métodos  anticonceptivos.  Debería  utilizarse  al  menos  un  método
+
+efectivo  de  anticoncepción  o  dos  formas  de  anticoncepción  complementarias  incluyendo  un  método  de
+
+barrera.  Cuando  se  elija  un  método  anticonceptivo,  deberían  evaluarse  las  circunstancias  individuales  en
+
+cada caso, involucrando a la paciente en la discusión.
+
+Las drogas antiepilépticas no deberían ser discontinuadas abruptamente en las pacientes en las que dichos
+
+fármacos son administrados para prevenir convulsiones mayores debido a la fuerte posibilidad de precipitar
+
+un “status epiléptico” con hipoxia y riesgo de vida.
+
+Uso durante la lactancia:
+
+Carbamazepina  pasa  a  la  leche  materna  (aproximadamente  25-60%  de  las  concentraciones  plasmáticas).
+
+Los beneficios de la lactancia materna deben sopesarse frente a la posibilidad remota de que se produzcan
+
+efectos  adversos  en  el  lactante.  Las  madres  que  toman  Carbamazepina  pueden  amamantar  a  sus  hijos,
+
+siempre que el bebé sea observado por posibles reacciones adversas (por ejemplo, somnolencia excesiva,
+
+la reacción alérgica en la piel).
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+
+La capacidad del paciente para reaccionar podría verse afectada por los mareos y la somnolencia causada
+
+por  Carbamazepina  Denver  Farma,  especialmente  al  inicio  del  tratamiento  o  en  relación  con  ajustes  de
+
+dosis, por lo que los pacientes deben tener cuidado al conducir un vehículo o manejar maquinaria.
+
+REACCIONES ADVERSAS
+
+Particularmente  en  el  inicio  del  tratamiento  con  CARBAMAZEPINA  DENVER  FARMA,  si  la  dosis  inicial  es
+
+demasiado  alta,  o  en  el  tratamiento  de  pacientes  de  edad  avanzada,  ciertos  tipos  de  reacciones  adversas
+
+pueden  aparecer  muy  frecuentemente  o  comúnmente,  por  ejemplo,  reacciones  adversas  sobre  el  SNC
+
+(mareos,  cefaleas,  ataxia,  somnolencia,  fatiga,  diplopía);  trastornos  gastrointestinales  (náuseas,  vómitos),
+
+así como las reacciones alérgicas en la piel.
+
+Las  reacciones  adversas  relacionadas  con  la  dosis  desaparecen  en  unos  pocos  días,  ya  sea  espontánea-
+
+mente o después de una reducción transitoria de la dosificación. La aparición de reacciones adversas en el
+
+SNC  puede  ser  manifestación  de  una  sobredosis  relativa  o  de  una  variación  significativa  en  los  niveles
+
+plasmáticos. En tales casos, es aconsejable monitorear los niveles plasmáticos y dividir la dosificación diaria
+
+en dosis fraccionales más pequeñas (por ejemplo 3-4).
+
+Las  reacciones  adversas  se  listan  por  frecuencias,  la  más  frecuente  primero,  utilizando  la  siguiente
+
+convención: muy frecuentes (≥ 1/10), frecuentes (≥ 1/100, <1/10), poco frecuentes (≥ 1/1000, <1 /100), raras
+
+(≥ 1/10,000, <1/1,000), muy raras (<1/10,000), incluyendo casos aislados.
+
+CARBAMAZEPINA DENVER FARMA
+
+CARBAMAZEPINA 200 mg
+
+Comprimidos
+
+Industria Argentina                                                                                                                Venta Bajo Receta
+
+horas.
+
+COMPOSICIÓN
+
+Cada comprimido de CARBAMAZEPINA DENVER FARMA contiene:
+
+Carbamazepina 200 mg
+
+Excipientes: Celulosa microcristalina; Almidón glicolato de sodio; Estearato de magnesio.
+
+ACCION TERAPEUTICA
+
+Código ATC: N03AF01
+
+Anticonvulsivante y antiepiléptico.
+
+INDICACIONES
+
+Epilepsia
+
+- Crisis epilépticas parciales complejas o simples, con generalización secundaria o sin ella.
+
+- Crisis epilépticas tónico-clónicas generalizadas.
+
+CARBAMAZEPINA DENVER FARMA es adecuado tanto en monoterapia como en politerapia antiepiléptica.
+
+- Manía y tratamiento profiláctico de la enfermedad maniaco depresiva: en pacientes que no respondieron a
+
+la terapia de litio o que presentan contraindicaciones a las drogas antimaníacas convencionales
+
+-  Neuralgia  clásica  del  trigémino  y  neuralgia  del  trigémino  debida  a  esclerosis  múltiple  (típica  o  atípica).
+
+Neuralgia glosofaríngea idiopática.
+
+En  general,  la  Carbamazepina  no  actúa  en  el  pequeño  mal  (ausencias)  y  convulsiones  mioclónicas;  en
+
+algunos casos se ha informado una ocasional exacerbación de la crisis en pacientes afectados por formas
+
+de ausencia atípica.
+
+CARACTERISTICAS FARMACOLOGICAS
+
+Propiedades Farmacodinámicas
+
+Como agente antiepiléptico su espectro de actividad abarca: crisis parciales (simples y complejas) con o sin
+
+generalización  secundaria,  convulsiones  tónico-clónicas  generalizadas,  así  como  combinaciones  de  estos
+
+tipos de ataques.
+
+El mecanismo de acción de la carbamazepina, la sustancia activa de CARBAMAZEPINA DENVER FARMA,
+
+sólo ha sido parcialmente dilucidado. La carbamazepina estabiliza las membranas nerviosas hiperexcitadas,
+
+inhibe las descargas neuronales repetitivas y reduce la propagación sináptica de los impulsos excitatorios.
+
+Resulta razonable que la prevención del disparo repetido de potenciales de acción dependientes de sodio
+
+en  neuronas  despolarizadas  a  través  del  bloque  de  los  canales  de  sodio  dependientes  del  voltaje,  pueda
+
+ser su mecanismo de acción principal.
+
+Mientras  que  la  reducción  de  la  liberación  de  glutamato  y  la  estabilización  de  las  membranas  neuronales
+
+puede ser responsable de los efectos antiepilépticos, el efecto depresor sobre el recambio de dopamina y la
+
+noradrenalina podrían ser responsables de las propiedades antimaníacas de carbamazepina.
+
+Propiedades Farmacocinéticas
+
+Absorción
+
+La  carbamazepina  en  comprimidos  se  absorbe  casi  por  completo,  pero  de  forma  relativamente  lenta.  Los
+
+comprimidos  convencionales  producen  concentraciones  plasmáticas  máximas  medias  de  la  sustancia
+
+inalterada  dentro  de  las  12  horas  tras  una  dosis  única.  Después  de  una  dosis  oral  única  de  400  mg  de
+
+Carbamazepina  (comprimidos)  la  concentración  plasmática  media  de  los  picos  de  Carbamazepina
+
+inalterada es de aproximadamente 4.5 μg/ml.
+
+La biodisponibilidad de Carbamazepina en varias formulaciones orales se ha demostrado que oscila entre
+
+Eliminación
+
+La  vida  media  de  eliminación  de  Carbamazepina  inalterada  promedia  las  36  horas  después  de  una  dosis
+
+única por vía oral, mientras que después de la administración repetida se observa un promedio de sólo 16 a
+
+24  horas  (autoinducción  del  sistema  de  monooxigenasa  hepático),  dependiendo  de  la  duración  del
+
+tratamiento. En pacientes que reciben tratamiento concomitante con otros fármacos inductores de enzimas
+
+(por  ejemplo,  fenitoína,  fenobarbital),  se  han  encontrado  valores  de  vida  media  que  promedian  las  9  a  10
+
+La vida media de la eliminación del metabolito 10, 11-epóxido en el plasma es de aproximadamente 6 horas
+
+después de dosis orales únicas del propio epóxido.
+
+Tras la administración de una dosis oral única de 400 mg de Carbamazepina, el 72% se excreta en la orina
+
+y 28% en las heces. En la orina, aproximadamente el 2% de la dosis se recupera como fármaco inalterado y
+
+aproximadamente 1% como el metabolito farmacológicamente activo 10, 11-epóxido.
+
+Características en los pacientes
+
+Las  concentraciones  plasmáticas  de  Carbamazepina  en  estado  estacionario  considerado  como  "rango
+
+terapéutico"  varían  considerablemente  entre  los  individuos.  Se  ha  reportado  que  en  la  mayoría  de  los
+
+pacientes se encuentra en un rango entre 4-12 μg/ml correspondiente al 17-50 μmol/l. Las concentraciones
+
+de  10,  11-epóxido  Carbamazepina  (metabolito  farmacológicamente  activo)  representan:  aproximadamente
+
+el 30 % de los niveles de Carbamazepina.
+
+Debido a una mayor eliminación Carbamazepina, los niños pueden requerir dosis más altas de Carbamaze-
+
+pina (en mg/kg) que los adultos para mantener concentraciones terapéuticas.
+
+No  hay  ningún  indicio  de  la  alteración  de  la  farmacocinética  de  Carbamazepina  en  pacientes  de  edad
+
+avanzada en comparación con los adultos jóvenes.
+
+No  hay  datos  disponibles  sobre  la  farmacocinética  de  la  Carbamazepina  en  pacientes  con  insuficiencia
+
+hepática o renal.
+
+POSOLOGÍA Y MODO DE ADMINISTRACION
+
+El monitoreo de los niveles plasmáticos incrementa la eficacia y seguridad de uso de los anticonvulsivantes.
+
+Se aconseja iniciar el tratamiento con una dosis baja seguida de un incremento gradual de la misma. Tan
+
+pronto  como  se  alcanza  el  control,  la  dosis  puede  ser  gradualmente  disminuida  hasta  alcanzar  la  mínima
+
+efectiva.
+
+CARBAMAZEPINA DENVER FARMA se administra por vía oral, por lo general en dos o tres dosis divididas.
+
+CARBAMAZEPINA DENVER FARMA se puede tomar durante, después o entre las comidas, con un poco
+
+de líquido, por ejemplo, un vaso de agua.
+
+Antes de decidirse a iniciar el tratamiento, los pacientes de origen chino Han y tailandés deben en lo posible
+
+ser examinados para detectar HLA-B * 1502, ya que este alelo predice fuertemente el riesgo de síndrome
+
+de  Stevens-Johnson  grave  asociado  con  la  Carbamazepina  (ver  información  sobre  testeos  genéticos  y
+
+reacciones cutáneas en Advertencias y Precauciones).
+
+Epilepsia:
+
+Adultos:  Se  aconseja  que  en  todas  las  formulaciones  de  Carbamazepina,  se  utilice  un  esquema  de
+
+dosificación  de  incremento  gradual  que  debe  estar  ajustado  a  las  necesidades  de  cada  paciente.  Para
+
+establecer  la  dosis  óptima,  resulta  útil  monitorear  las  concentraciones  plasmáticas  de  Carbamazepina
+
+(véase Farmacocinética, Precauciones e Interacciones).
+
+CARBAMAZEPINA  DENVER  FARMA  debe  tomarse  en  varias  dosis  divididas,  aunque  inicialmente  se
+
+recomienda 100-200 mg una o dos veces al día. Esto puede ser seguido por un incremento gradual hasta
+
+que se obtenga la mejor respuesta, a menudo 800 a 1200 mg al día. En algunos casos, puede ser necesaria
+
+una dosis de 1600 mg o incluso 2000 mg diarios.
+
+Pacientes  de  edad  avanzada:  Debido  al  potencial  de  interacciones  farmacológicas,  la  dosis  de  CARBA-
+
+MAZEPINA DENVER FARMA debe ser seleccionada con precaución en pacientes de edad avanzada.
+
+Pacientes  pediátricos:  Se  recomienda  que  con  todas  las  formulaciones  de  carbamazepina,  se  utilice  un
+
+esquema de dosificación de incremento gradual, que además debería estar ajustado a las necesidades de
+
+cada  paciente.  Puede  ser  útil  monitorear  las  concentraciones  plasmáticas  de  Carbamazepina  para
+
+establecer la dosis óptima (véase Farmacocinética, Precauciones e Interacciones).
+
+Dosis usual: 10-20 mg/kg peso corporal por día tomados en varias dosis divididas.
+
+porfiria cutánea tardía).
+
+No se recomienda el uso de CARBAMAZEPINA DENVER FARMA, en combinación con inhibidores de la
+
+monoaminooxidasa (IMAO) (ver Interacción con otros medicamentos y otras formas de interacción).
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Advertencias
+
+-Mujeres  en  edad  fértil:  Carbamazepina  puede  causar  daño  fetal  cuando  se  administra  a  una  mujer
+
+embarazada.  La  exposición  prenatal  a  la  misma  puede  incrementar  los  riesgos  de  malformaciones
+
+congénitas mayores y otros resultados adversos en el desarrollo.
+
+La  Carbamazepina  no  debería  ser  usada  en  mujeres  en  edad  fértil  a  menos  que  se  juzgue  que  el
+
+beneficio supera los riesgos luego de una consideración cuidadosa de las opciones terapéuticas alternativas.
+
+Las mujeres en edad fértil deberían estar completamente informadas sobre el riesgo potencial del feto si
+
+Antes de iniciar el tratamiento con Carbamazepina en una mujer en edad fértil, debería considerarse un
+
+tración).
+
+ellas la reciben durante el embarazo.
+
+test de embarazo.
+
+Las mujeres en edad fértil deberían utilizar una anticoncepción efectiva durante el tratamiento y por dos
+
+semanas después de suspender el mismo. Debido a una inducción enzimática, la Carbamazepina puede
+
+resultar  en  una  falla  del  efecto  terapéutico  de  los  anticonceptivos  hormonales;  por  lo  tanto,  se  debería
+
+asesorar con respecto al uso de otros métodos anticonceptivos.
+
+Debería  aconsejarse  con  respecto  a  la  necesidad  de  solicitar  una  consulta  a  su  médico  tan  pronto  ella
+
+planifique un embarazo para discutir el cambio a un tratamiento alternativo previamente a la concepción y
+
+antes de discontinuar la anticoncepción.
+
+embarazada mientras recibe este medicamento.
+
+Debería  aconsejarse  que  contacte  con  su  médico  si  ella  se  embaraza  o  piense  que  pueda  estar
+
+-  La  agranulocitosis  y  la  anemia  aplásica  se  han  asociado  con  el  empleo  de  Carbamazepina.  Sin
+
+embargo, debido a la muy baja incidencia de estas condiciones, la magnitud de este riesgo, resulta difícil
+
+de  estimar.  El  riesgo  total  de  la  población,  en  general  no  tratada  se  ha  estimado  en  4,7  personas  por
+
+millón por año para la agranulocitosis y 2,0 personas por millón por año para la anemia aplásica. Datos
+
+basados  en  estudios  poblacionales  casos-control  demuestran  que  el  riesgo  de  desarrollo  de  estas
+
+reacciones con Carbamazepina es 5 a 8 veces mayor que la población en general.
+
+Ocasionalmente a frecuentemente se produce disminución del recuento de plaquetas o glóbulos blancos
+
+sanguíneos  en  asociación  con  el  uso  de  carbamazepina.  Sin  embargo,  los  recuentos  sanguíneos
+
+pre-tratamiento  completos,  incluyendo  las  plaquetas  y,  posiblemente,  reticulocitos  y  hierro  sérico,
+
+deberían ser monitoreados al inicio del tratamiento, y posteriormente de forma periódica.
+
+Los pacientes y sus familiares deben ser advertidos de los primeros signos y síntomas tóxicos indicativos
+
+de un posible problema hematológico, así como síntomas de reacciones dermatológicas o hepáticas. Si
+
+aparecen reacciones tales como fiebre, dolor de garganta, sarpullido, úlceras en la boca, moretones con
+
+facilidad, petequias o hemorragias purpúricas, el paciente debe consultar a su médico de inmediato.
+
+Si  el  recuento  de  glóbulos  blancos  o  de  plaquetas  es  definitivamente  bajo  o  disminuye  durante  el
+
+tratamiento,  el  recuento  sanguíneo  completo  y  el  estado  general  del  paciente  se  deben  controlar
+
+cuidadosamente  (ver  Reacciones  adversas).  Sin  embargo,  el  tratamiento  con  CARBAMAZEPINA
+
+DENVER FARMA se debe suspender si el paciente desarrolla leucopenia, que es grave y progresiva, o
+
+acompañada  de  manifestaciones  clínicas,  por  ejemplo,  fiebre  o  dolor  de  garganta.  CARBAMAZEPINA
+
+DENVER  FARMAtambién  debe  interrumpirse  si  aparece  alguna  evidencia  de  depresión  significativa  de
+
+médula ósea.
+
+- Pruebas de función hepática: También se deben realizar antes de iniciar el tratamiento y posteriormente
+
+de  forma  periódica,  especialmente  en  pacientes  con  antecedentes  de  enfermedad  hepática  y  en
+
+pacientes  de  edad  avanzada.  El  medicamento  debe  ser  retirado  de  inmediato  en  casos  de  disfunción
+
+hepática agravada o enfermedad hepática aguda.
+
+Algunas  de  las  pruebas  de  función  hepática  pueden  encontrarse  alteradas  en  los  pacientes  que
+
+recibieron Carbamazepina, en particular la gamma glutamil transferasa. Esto es probablemente debido a
+
+la  inducción  de  enzimas  hepáticas.  La  inducción  enzimática  también  puede  producir  elevaciones
+
+modestas de la fosfatasa alcalina. Estas mejoras de la capacidad de metabolización hepática no son una
+
+Reacciones  hepáticas  graves  debida  a  la  Carbamazepina  son  muy  raras.  El  desarrollo  de  los  signos  y
+
+síntomas  de  disfunción  hepática  o  enfermedad  hepática  activa  se  debe  evaluar  con  urgencia  y  el
+
+tratamiento  con  CARBAMAZEPINA  DENVER  FARMA  suspendido  a  la  espera  del  resultado  de  la
+
+ya que estas condiciones pueden amenazar la vida y puede ser fatales. La mayoría de los casos de SSJ /
+
+con medicamentos reductores de sodio (por ejemplo, diuréticos, medicamentos asociados con una secreción
+
+NET aparecen en los primeros meses de tratamiento con Carbamazepina. Si aparecen signos y síntomas
+
+inadecuada  de  hormona  antidiurética),  se  deben  medir  los  niveles  séricos  de  sodio  antes  de  iniciar  el
+
+sugestivos de reacciones graves en la piel (por ejemplo, síndrome de SSJ / TEN de Lyell), la terapia con
+
+tratamiento  con  Carbamazepina.  Posteriormente,  los  niveles  séricos  de  sodio  deben  medirse  luego  de
+
+CARBAMAZEPINA DENVER FARMA debe ser suspendida de una vez y debe considerarse un tratamiento
+
+aproximadamente 2 semanas y luego a intervalos mensuales durante los primeros 3 meses de la terapia, o
+
+alternativo.
+
+según  la  necesidad  clínica.  Estos  factores  de  riesgo  pueden  aplicarse  especialmente  a  pacientes  de  edad
+
+- Reacciones cutáneas: Reacciones cutáneas graves, y a veces fatales, incluyendo necrólisis epidérmica
+
+avanzada.  Si  se  observa  hiponatremia,  la  restricción  de  agua  es  una  contramedida  importante  si  esta
+
+tóxica  (NET)  y  el  síndrome  de  Stevens-Johnson  (SSJ)  se  notificaron  durante  el  tratamiento  con
+
+clínicamente indicada
+
+Carbamazepina. Estas reacciones se estima que se producen en 1-6 de cada 10.000 nuevos usuarios en
+
+- Carbamazepina y preparaciones de estrógenos y / o progestágenos
+
+países  con  poblaciones  mayormente  caucásicas,  pero  el  riesgo  en  algunos  países  de  Asia  se  estima
+
+Debido a la inducción de enzimas hepáticas, la Carbamazepina puede causar el fracaso del efecto terapéuti-
+
+alrededor de 10 veces mayor.
+
+co  de  los  productos  conteniendo  estrógenos  y  /  o  progestógenos.  Esto  puede  resultar  en  el  fracaso  de  la
+
+Existe una evidencia creciente del papel de los diferentes alelos HLA en la predisposición de los pacientes
+
+anticoncepción, la recurrencia de los síntomas o el sangrado inesperado.
+
+a  padecer  reacciones  adversas  mediadas  inmunológicamente  (véase  Posología  y  Modo  de  adminis-
+
+Los pacientes que toman CARBAMAZEPINA DENVER FARMA y que requieren la anticoncepción hormonal
+
+HLA-B * 1502 alelo – Chinos Han, Tailandia y otras poblaciones asiáticas:
+
+deben recibir una preparación que contenga no menos de 50 microgramos de estrógeno o se debe consider-
+
+ar  el  uso  de  algún  método  no  hormonal  de  anticoncepción  alternativo. Aunque  las  correlaciones  entre  las
+
+La  presencia  de  HLA-B  *  1502  en  individuos  de  origen  chino  Han  y  tailandés  ha  demostrado  estar
+
+dosis  y  los  niveles  plasmáticos  de  carbamazepina,  y  entre  los  niveles  plasmáticos  y  la  eficacia  clínica  o
+
+fuertemente  asociada  con  el  riesgo  de  desarrollar  el  síndrome  de  Stevens-Johnson  (SSJ)  cuando  son
+
+tolerabilidad son algo imprecisos, el seguimiento de los niveles plasmáticos  puede ser útil en las siguientes
+
+tratados con Carbamazepina. La prevalencia de ser portador de alelos HLA-B * 1502 es de aproximada-
+
+condiciones:  dramático  aumento  de  la  frecuencia  de  las  convulsiones  /  verificación  de  la  aceptabilidad  del
+
+mente 10% en poblaciones de chinos Han y tailandés. Siempre que sea posible, en estas personas debe
+
+paciente;  durante  el  embarazo;  en  el  tratamiento  de  niños  y  adolescentes,  cuando  exista  sospecha  de
+
+evaluarse  este  alelo  antes  de  comenzar  el  tratamiento  con  Carbamazepina  (ver  Posología  y  Modo  de
+
+trastornos de absorción, ante la sospecha de toxicidad cuando se utiliza más de un fármaco (ver Interacción
+
+administración).  Si  la  evaluación  en  estos  pacientes  resultara  positiva,  la  Carbamazepina  no  debería
+
+con otros medicamentos y otras formas de interacción).
+
+usarse  a  menos  que  no  haya  otra  opción  terapéutica.  Los  pacientes  evaluados  que  son  negativos  para
+
+-Control  de  los  niveles  plasmáticos:  El  control  de  los  niveles  en  sangre  de  los  anticonvulsivantes  ha
+
+HLA-B  *1502,  presentan  un  bajo  riesgo  de  SJS,  aunque  muy  rara  vez,  pueden  todavía  producirse  estas
+
+aumentado  la  eficacia  y  seguridad.  El  monitoreo  de  los  niveles  de  Carbamazepina  en  sangre  puede  ser
+
+reacciones.
+
+particularmente  útil  en  casos  de  aumento  brusco  de  la  frecuencia  de  las  crisis  y  para  verificación  del
+
+Hay  algunos  datos  que  sugieren  un  aumento  del  riesgo  de  sufrir  SSJ  /  TEN  graves  asociados  con
+
+cumplimiento  de  la  medicación  por  el  paciente;  durante  el  embarazo,  en  el  tratamiento  de  niños  y
+
+Carbamazepina en otras poblaciones asiáticas. Debido a la prevalencia de este alelo en otras poblaciones
+
+adolescentes, cuando se sospeche de trastornos de absorción, en caso de sospecha de toxicidad al tomar
+
+de Asia (por ejemplo, por encima del 15% en Filipinas y Malasia), se puede considerar realizar las pruebas
+
+más  de  un  medicamento.  Los  niveles  plasmáticos  de  Carbamazepina  son  variables  y  pueden  oscilar  entre
+
+genéticas para la presencia de HLA-B * 1502, en las poblaciones de riesgo.
+
+0,5 y 25 mcg / ml sin relación aparente con la ingesta diaria del fármaco. Los niveles habituales en adultos
+
+La  prevalencia  de  los  alelos  HLA-B  *  1502  es  insignificante  en,  por  ejemplo,  la  descendencia  europea,
+
+están  entre  4  y  12  mcg  /  ml.  En  politerapia  la  concentración  de  Carbamazepina  y  demás  medicamentos
+
+muestras, de la población hispana o africana y en japoneses y coreanos (<1%).
+
+HLA-A * 3101 alelo - descendientes de europeos y las poblaciones japonesas:
+
+concomitantes  pueden  aumentar  o  disminuir  durante  la  terapia  y  los  efectos  de  los  medicamentos  pueden
+
+verse  alterados  (Ver  Interacciones  medicamentosas).  Debido  a  que  Carbamazepina  induce  su  propio
+
+Hay  algunos  datos  que  sugieren  que  el  HLA-A  *  3101  se  asocia  con  un  mayor  riesgo  de  reacciones
+
+metabolismo, la vida media también es variable. La autoinducción se completa después de 3 a 5 semanas
+
+cutáneas adversas, inducidas por medicamentos como la carbamazepina, incluyendo SSJ, TEN, erupción
+
+de un régimen de dosificación fijo.
+
+cutánea con eosinofilia (DRESS), o la menos severa pustulosis exantemática generalizada aguda (PEGA)
+
+y la erupción cutánea maculopapular (ver Reacciones Adversas) en personas de descendencia europea y
+
+PRECAUCIONES
+
+japonesa.
+
+población japonesa.
+
+La  frecuencia  del  alelo  HLA-A  *  3101  varía  ampliamente  entre  las  poblaciones  étnicas.  El  alelo  HLA-A  *
+
+3101  tiene  una  prevalencia  de  2  a  5%  en  las  poblaciones  europeas  y  aproximadamente  10%  en  la
+
+La  presencia  del  alelo  HLA-A  *  3101  puede  aumentar  el  riesgo  de  reacciones  cutáneas  inducidas  por
+
+Carbamazepina  (en  su  mayoría  menos  grave)  desde  el  5%  en  la  población  general  al  26%  entre  los
+
+sujetos con ascendencia del norte de Europa, mientras que su ausencia puede reducir el riesgo del 5% al 3,8%.
+
+No  hay  datos  suficientes,  que  apoyen  la  recomendación  de  evaluación  de  HLA-A  *  3101,  antes  de
+
+comenzar el tratamiento con carbamazepina.
+
+En los pacientes de ascendencia europea o de origen japonés que son positivos para alelo HLA-A * 3101,
+
+el uso de la Carbamazepina puede ser considerado, si se considera que los beneficios son mayores que
+
+los  riesgos.  También  se  pueden  producir  reacciones  cutáneas  leves,  por  ejemplo,  exantema  macular  o
+
+maculopapular aislados, y son en su mayoría transitorias y no peligrosas. Por lo general desaparecen en
+
+unos  pocos  días  o  semanas,  ya  sea  durante  el  curso  continuo  del  tratamiento  o  después  de  una
+
+disminución  en  la  dosis.  Sin  embargo,  debido  a  que  pueden  ser  difíciles  de  diferenciar  los  signos
+
+tempranos  de  reacciones  cutáneas  más  graves  que  los  de  las  reacciones  transitorias  leves,  el  paciente
+
+debe mantenerse bajo estrecha vigilancia teniendo en consideración la inmediata suspensión de la droga
+
+ya que la reacción puede empeorar con el uso continuo.
+
+CARBAMAZEPINA  DENVER  FARMA  debe  ser  prescrito  sólo  después  de  una  crítica  evaluación  de  los
+
+beneficios  y  riesgos  potenciales  y  bajo  estrecha  vigilancia  en  pacientes  con  historia  de  daño  cardiaco,
+
+hepático  o  renal,  reacciones  hematológicas  adversas  a  otros  medicamentos,  o  cursos  interrumpidos  de  la
+
+terapia con Carbamazepina.
+
+periódicamente durante el tratamiento.
+
+Se  recomiendan  realizar  análisis  de  orina  completa  y  determinaciones  de  urea  plasmática  tanto  al  inicio  y
+
+La Carbamazepina ha mostrado una actividad anticolinérgica leve, por lo que se debe advertir y avisar a los
+
+pacientes con aumento de la presión intraocular, del posible riesgo que esto implica.
+
+Se  debe  tener  en  cuenta  la  posibilidad  de  la  activación  de  una  psicosis  latente  y,  en  pacientes  de  edad
+
+avanzada, la posibilidad de cuadros de confusión o agitación.
+
+El tratamiento con Carbamazepina se ha asociado con ataxia, mareo, somnolencia, hipotensión, confusión y
+
+sedación que puede producir caídas, fracturas y otras lesiones. Evaluar el riesgo de caídas, fracturas y otras
+
+lesiones en pacientes bajo tratamiento crónico.
+
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCION
+
+El Citocromo P4503A4 (CYP 3A4) es el principal sistema enzimático que cataliza la formación del metabolito
+
+activo 10, 11-epóxido Carbamazepina. La administración conjunta de inhibidores de CYP3A4 puede resultar
+
+en  aumento  de  las  concentraciones  plasmáticas  de  Carbamazepina  que  pudieran  inducir  reacciones
+
+adversas.  La  co-administración  de  inductores  CYP3A4  podría  aumentar  la  tasa  de  metabolismo  de
+
+Carbamazepina,  lo  que  conduce  a  disminuciones  potenciales  en  el  nivel  sérico  de  carbamazepina  y  del
+
+Del  mismo  modo,  la  interrupción  de  un  inductor  de  CYP3A4  puede  disminuir  la  tasa  de  metabolismo  de  la
+
+Carbamazepina, conduciendo a un aumento en los niveles plasmáticos de carbamazepina.
+
+La Carbamazepina es un potente inductor de CYP3A4 y otros sistemas enzimáticos fase I y II en el hígado, y
+
+por lo tanto puede reducir las concentraciones plasmáticas de medicamentos concomitantes metabolizados
+
+principalmente por el CYP3A4 por inducción de su metabolismo.
+
+La epóxido-hidrolasa microsomal humana ha sido identificada como la enzima responsable de la formación
+
+del  derivado  10,11-transdiol  a  partir  de  -10,11-epóxido  carbamazepina.  La  administración  conjunta  de
+
+inhibidores  de  la  epóxido-hidrolasa  microsomal  humana  puede  dar  como  resultado  un  aumento  de  las
+
+concentraciones plasmáticas de 10,11-epóxido Carbamazepina.
+
+Agentes que pueden aumentar los niveles plasmáticos de Carbamazepina:
+
+Isoniazida,  verapamilo,  diltiazem,  ritonavir,  dextropropoxifeno,
+
+fluoxetina,
+
+fluvoxamina,  paroxetina,
+
+posiblemente cimetidina, omeprazol, acetazolamida, danazol, nicotinamida (en adultos, sólo en dosis altas),
+
+trazodona,  vigabatrina,  antibióticos  macrólidos  (por  ejemplo,  eritromicina,  claritromicina),  azoles  (por
+
+ejemplo,  itraconazol,  ketoconazol,  fluconazol,  voriconazol),  loratadina,  olanzapina,  zumo  de  pomelo,
+
+inhibidores de la proteasa para el tratamiento del virus de la inmunodeficiencia humana (VIH) (por ejemplo,
+
+ritonavir).
+
+Dado que los niveles elevados de carbamazepina en plasma, pueden dar lugar a reacciones adversas (por
+
+ejemplo,  mareos,  somnolencia,  ataxia,  diplopía),  la  dosis  de  CARBAMAZEPINA  DENVER  FARMA  debe
+
+FARMA  debe  ajustarse  en  consecuencia  y  /  o  mensurar  sus  niveles  plasmáticos  cuando  se  utiliza  de  forma
+concomitante  con  las  sustancias  que  se  describen  a  continuación:  quetiapina,  progabide,  ácido  valproico,
+valnoctamida, primidona, brivaracetam y valpromida.
+Agentes que pueden disminuir los niveles plasmáticos de Carbamazepina:
+Fenobarbital,  fenitoína  y  fosfenitoína,  primidona  o  teofilina,  aminofilina,  rifampicina,  cisplatino  o  doxorrubicina  y,
+aunque los datos son en parte contradictorios, posiblemente también oxcarbazepina o clonazepam. La mefloqui-
+na  puede  antagonizar  el  efecto  antiepiléptico  de  la  Carbamazepina.  La  dosis  de  CARBAMAZEPINA  DENVER
+FARMA en consecuencia, debe ser ajustada.
+Se ha reportado que la isotretinoína puede alterar la biodisponibilidad y / o el aclaramiento de la Carbamazepina y
+10,11-epóxido carbamazepina; las concentraciones plasmáticas de Carbamazepina deben ser controladas.
+Los  niveles  séricos  de  Carbamazepina  pueden  reducirse  por  el  uso  concomitante  de  medicamentos  a  base  de
+hierbas de San Juan (Hypericum perforatum).
+Efecto de CARBAMAZEPINA DENVER FARMA sobre los niveles plasmáticos de agentes concomitantes:
+La  Carbamazepina  puede  disminuir  el  nivel  en  plasma,  y  disminuir  o  incluso  suprimir  la  actividad  de  ciertos
+medicamentos. La dosificación de las drogas que se mencionan a continuación pueden tener que ajustarse a los
+requerimientos clínicos: levotiroxina, clobazam, clonazepam, etosuximida, primidona, ácido valproico, alprazolam,
+corticosteroides (por ejemplo, prednisona, dexametasona), ciclosporina, tacrolimus, sirolimus, digoxina, doxicicli-
+na,  derivados  de  dihidropiridina  ,  por  ejemplo,  felodipina  y  isradipina,  indinavir,  saquinavir,  ritonavir,  haloperidol,
+imipramina,  buprenorfina,  metadona,  paracetamol,  tramadol,  los  productos  que  contienen  estrógenos  y  /o
+progestágenos  (métodos  anticonceptivos  alternativos  deberían  ser  considerados,  véase  Advertencias  y
+precauciones),  gestrinona,  tibolona,  toremifeno,  teofilina,  anticoagulantes  orales  (warfarina  y  acenocumarol),
+lamotrigina,  tiagabina,  topiramato,  bupropión,  citalopram,  mianserina,  sertralina,  trazodona,  antidepresivos
+tricíclicos (por ejemplo imipramina, amitriptilina, nortriptilina, clomipramina), clozapina, oxcarbazapine, olanzapina,
+quetiapina,  aripiprazol,  paliperidona,  itraconazol,  imatinib,  ciclofosfamida,  lapatinib,  temsirolimus,  risperidona,
+aprepitant, albendazol y tadalafil.
+Se ha reportado que los niveles de fenitoína en plasma pueden ser tanto aumentados como disminuidos por la
+Carbamazepina, y ha habido informes, poco frecuentes, de un aumento en plasma de mefenitoína.
+Debido  a  una  inducción  enzimática,  la  Carbamazepina  puede  resultar  en  una  falla  del  efecto  terapéutico  de  los
+anticonceptivos hormonales; por lo tanto, se debería asesorar con respecto al uso de otros métodos anticonceptivos.
+Combinaciones que requieren una consideración especial:
+Se ha informado que el uso concomitante de Carbamazepina y levetiracetam aumenta la toxicidad inducida por
+Carbamazepina.
+Se  ha  informado  que  el  uso  concomitante  de  Carbamazepina  e  isoniazida  puede  aumentar  la  hepatotoxicidad
+inducida por la isoniazida.
+La combinación de litio y Carbamazepina puede causar una mayor neurotoxicidad a pesar de que las concentra-
+ciones  plasmáticas  de  litio  estén  dentro  del  intervalo  terapéutico.  El  uso  combinado  de  carbamazepina  con
+metoclopramida  o  tranquilizantes  mayores,  por  ejemplo,  haloperidol,  tioridazina,  también  puede  resultar  en  un
+aumento en los efectos secundarios neurológicos.
+Debido  a  que  Carbamazepina  está  estructuralmente  relacionada  con  los  antidepresivos  tricíclicos,  no  se
+recomienda el uso de CARBAMAZEPINA DENVER FARMA en combinación con inhibidores de la monoaminooxi-
+dasa (IMAO). Antes de administrar CARBAMAZEPINA DENVER FARMA se debe interrumpir el IMAO durante un
+mínimo de 2 semanas o más tiempo si la situación clínica lo permite.
+La administración concomitante de Carbamazepina y algunos diuréticos (hidroclorotiazida, furosemida) puede dar
+lugar a hiponatremia sintomática.
+La Carbamazepina puede antagonizar los efectos de los relajantes musculares no despolarizantes (p.ej. pancuro-
+nio). Su dosis debe ser elevada y los pacientes monitoreados cuidadosamente debido a que la recuperación del
+bloqueo neuromuscular puede que sea más rápida de lo esperado.
+Carbamazepina,  al  igual  que  otras  drogas  psicoactivas,  puede  reducir  la  tolerancia  al  alcohol.  Por  tanto,  es
+aconsejable que el paciente se abstenga de tomar alcohol.
+Embarazo y lactancia
+Embarazo
+Riesgos relacionados a medicamentos antiepilépticos en general
+A  todas  las  mujeres  en  edad  fértil  que  reciben  medicación  antiepiléptica  y  especialmente  a  las  mujeres  que
+planean un embarazo y/o a las mujeres embarazadas, debería brindárseles asesoramiento médico especializado
+con respecto a los riesgos potenciales para el feto causados tanto por las convulsiones como por el tratamiento
+antiepiléptico.
+Se debe evitar la suspensión abrupta de la terapia con medicamentos antiepilépticos (MAE), ya que esto puede
+ocasionar convulsiones que podrían tener consecuencias graves para la mujer y el niño no nacido.
+Durante el embarazo es preferible la monoterapia para tratar la epilepsia siempre que sea posible debido a que la
+terapia con múltiples MAE podría estar asociada con un mayor riesgo de malformaciones congénitas que con la
+monoterapia, dependiendo de los MAE asociados.
+Riesgos relacionados a la Carbamazepina
+Carbamazepina atraviesa la placenta en humanos. La exposición prenatal a la Carbamazepina puede incremen-
+tar  los  riesgos  de  malformaciones  congénitas  y  otros  resultados  adversos  en  el  desarrollo.  En  humanos,  la
+exposición a este fármaco durante el embarazo se asocia con un incremento de la frecuencia de malformaciones
+congénitas mayores en 2 a 3 veces más que los de la población general; en esta última la frecuencia es de 2-3 %.
+Se  han  informado  malformaciones  como  defectos  del  tubo  neural  (espina  bífida),  defectos  craneofaciales  como
+labio leporino / paladar hendido, malformaciones cardiovasculares, hipospadias, hipoplasia de los dedos y otras
+anomalías que involucran varios sistemas corporales en la descendencia de mujeres que recibieron Carbamaze-
+pina  durante  el  embarazo.  Se  recomienda  una  vigilancia  prenatal  especializada  para  estas  malformaciones.  Se
+han notificado trastornos del neurodesarrollo en niños nacidos de mujeres con epilepsia que durante el embarazo
+utilizaron  este  medicamento  solo  o  en  combinación  con  otros  MAE.  Los  estudios  relacionados  con  el  riesgo  de
+trastornos del neurodesarrollo en niños expuestos a Carbamazepina durante el embarazo son contradictorios y no
+se puede excluir un riesgo.
+La Carbamazepina no debería utilizarse durante el embarazo a menos que se juzgue que el beneficio supera los
+riesgos luego de una cuidadosa consideración de las opciones de tratamientos adecuados alternativos. La mujer
+debe estar completamente informada y comprender los riesgos de recibir este fármaco durante el embarazo.
+La evidencia sugiere que el riesgo de malformación con Carbamazepina puede ser dosis-dependiente. En caso
+
+85-100%.
+
+tratamiento.
+
+Distribución
+
+La ingestión de alimentos no tiene influencia significativa en la tasa y grado de absorción, con independen-
+
+cia de la forma de dosificación de carbamazepina.
+
+Las  concentraciones  plasmáticas  en  estado  de  equilibrio  de  carbamazepina  se  alcanzan  en  alrededor  de
+
+1-2 semanas, dependiendo individualmente de la autoinducción de la Carbamazepina y la hetero-inducción
+
+por otros fármacos inductores de enzimas, así como del estado pre-tratamiento, la dosis y la duración del
+
+pequeños.
+
+Diferentes  preparaciones  de  la  carbamazepina  pueden  variar  en  la  biodisponibilidad;  para  evitar  una
+
+reducción  del  efecto  terapéutico,  riesgo  de  convulsiones  intermitentes  o  efectos  secundarios  excesivos,
+
+puede ser prudente evitar el cambio de la formulación.
+
+La Carbamazepina se une a proteínas séricas, en un 70 a 80%. La concentración de la sustancia inalterada
+
+en  el  líquido  cefalorraquídeo  y  la  saliva  refleja  la  porción  que  no  se  une  a  las  proteínas  en  el  plasma
+
+(20-30%).  Se  encontró  que  las  concentraciones  en  la  leche  materna  son  equivalentes  a  25-60%  de  los
+
+niveles plasmáticos correspondientes.
+
+Carbamazepina atraviesa la barrera placentaria. Suponiendo una absorción completa de la Carbamazepina,
+
+el volumen aparente de distribución es de 0,8 a 1,9 l / kg.
+
+Biotransformación
+
+La Carbamazepina se metaboliza en el hígado, en donde la vía de biotransformación del epóxido es la más
+
+importante, produciendo el 10,11 transdiol-derivado l y su glucurónido, como los principales metabolitos.
+
+La isoforma 3A4 del citocromo P450 ha sido identificada como la principal responsable de la formación de
+
+Carbamazepina  10,11-epóxido  a  partir  de  Carbamazepina.  La  enzima  epóxido  hidrolasa  microsomal
+
+humana  ha  sido  identificada  como  la  responsable  de  la  formación  del  derivado  10,11-transdiol  a  partir  de
+
+Carbamazepina-10,11  epóxido.  El  derivado  9-hidroxi-metil-10-carbamoil  acridano  es  un  metabolito  de
+
+menor  importancia,  relacionado  con  esta  vía.  Después  de  una  dosis  oral  única  de  Carbamazepina,
+
+alrededor del 30% aparece en la orina como productos finales de la vía epóxido.
+
+Otras vías de biotransformación importantes para Carbamazepina conducen a varios compuestos monohi-
+
+droxilados, así como a la N-glucurónido de Carbamazepina producido por la UGT2B7.
+
+Los  comprimidos  de  CARBAMAZEPINA  DENVER  FARMA  no  son  recomendables  para  niños  muy
+
+indicación para la suspensión de la carbamazepina.
+
+5-10 años: 2-3 comprimidos de 200 mg por día, que deben tomarse en dosis divididas.
+
+10-15 años: 3-5 comprimidos de 200 mg por día, que se deben tomar en varias dosis divididas.
+
+Siempre  que  sea  posible,  los  agentes  antiepilépticos  deben  prescribirse  en  monoterapia,  pero  si  se
+
+evaluación.
+
+utilizaran en politerapia se recomienda el mismo patrón de incremento de dosis.
+
+Cuando  CARBAMAZEPINA  DENVER  FARMA  se  añade  a  la  terapia  antiepiléptica  existente,  esto  debe
+
+hacerse  en  forma  gradual,  manteniendo  o,  en  su  caso,  adaptando  la  dosis  de  los  otros  antiepilépticos
+
+(véase Interacción con otros medicamentos y otras formas de interacción).
+
+Neuralgia del trigémino:
+
+Aumentar progresivamente la dosis inicial de 200-400 mg al día (100 mg dos veces al día en pacientes de
+
+edad  avanzada)  hasta  que  se  obtenga  el  alivio  del  dolor  (normalmente  a  200  mg  3-4  veces  al  día).  En  la
+
+mayoría de los pacientes una dosis de 200 mg, 3 ó 4 veces al día es suficiente para mantener un estado
+
+libre  de  dolor.  En  algunos  casos,  pueden  ser  necesarias  dosis  diarias  de  1600  mg  de  CARBAMAZEPINA
+
+DENVER  FARMA  Sin  embargo,  una  vez  que  el  dolor  está  en  remisión,  la  dosis  debe  reducirse  gradual-
+
+mente al nivel de mantenimiento más bajo posible.
+
+Profilaxis de psicosis maníaco depresiva en pacientes que no responden a la terapia con litio:
+
+Dosis  inicial  de  400  mg  al  día,  en  dosis  divididas,  aumentando  gradualmente  hasta  que  se  controlan  los
+
+síntomas  o  se  alcanza  un  total  de  1600  mg  al  día,  administrados  en  dosis  divididas.  El  rango  de  dosis
+
+habitual es de 400-600 mg al día, administrados en dosis divididas.
+
+No se ha encontrado que el alelo HLA-B * 1502 pueda predecir el riesgo de reacciones cutáneas adversas
+
+menos graves con Carbamazepina, tales como el síndrome de hipersensibilidad por anticonvulsivantes o
+
+efecto terapéutico.
+
+exantema no grave (erupción maculopapular).
+
+-  Hipersensibilidad:  la  Carbamazepina  puede  desencadenar  reacciones  de  hipersensibilidad,  incluyendo
+
+erupción  farmacológica  con  Eosinofilia  y  Síntomas  Sistémicos  (DRESS),  reacciones  de  hipersensibilidad
+
+multiorgánica retardada, con fiebre, erupción, vasculitis, linfadenopatía, pseudolinfoma, artralgia, leucope-
+
+nia, eosinofilia, hepatoesplenomegalia, pruebas de la función hepática anormales y síndrome de fuga del
+
+conducto biliar (destrucción y desaparición de los conductos biliares intrahepáticos) que pueden aparecer
+
+en  varias  combinaciones.  Pueden  verse  afectados  otros  órganos  (p.ej.  pulmones,  riñones,  páncreas,
+
+-  Hipotiroidismo:  el  uso  de  Carbamazepina  puede  reducir  las  concentraciones  séricas  de  hormona
+
+tiroideas a través de la inducción de enzimas requiriendo un aumento de la dosis en la terapia sustitutiva
+
+de la hormona tiroidea en pacientes con hipotiroidismo. Se recomienda controlar la función tiroidea para
+
+ajustar la dosis de la terapia sustitutiva de la hormona tiroidea.
+
+- Efectos psiquiátricos: deberá tenerse en cuenta la activación de una psicosis latente y en pacientes de
+
+miocardio, colon).
+
+edad avanzada la aparición de estados de confusión o agitación.
+
+-Hiperamonemia:  niveles  elevados  de  amoniaco  en  sangre  (hiperamonemia).  Los  síntomas  de  la
+
+hiperamonemia pueden incluir irritabilidad, confusión, vómitos, pérdida de apetito y somnolencia
+
+- Ideación y comportamiento suicida: se han reportado en pacientes tratados con fármacos antiepilépticos
+
+en  varias  indicaciones.  Un  meta-análisis  de  ensayos  controlados  con  placebo,  aleatorizados,  con
+
+fármacos  antiepilépticos,  ha  mostrado  un  pequeño  aumento  del  riesgo  de  ideación  y  comportamiento
+
+suicida. El mecanismo de este riesgo no se conoce y los datos disponibles no excluyen la posibilidad de
+
+un mayor riesgo para la Carbamazepina.
+
+En  general,  si  se  presentan  signos  y  síntomas  sugestivos  de  reacciones  de  hipersensibilidad,  CARBA-
+
+MAZEPINA DENVER FARMA debe ser retirado inmediatamente.
+
+Los pacientes que han demostrado reacción de hipersensibilidad a Carbamazepina deben ser informados
+
+de que el 25-30% de ellos pueden presentar reacciones de hipersensibilidad con oxacarbazepina.
+
+Hipersensibilidad cruzada puede ocurrir entre la carbamazepina, fenitoína, primidona y fenobarbital.
+
+CARBAMAZEPINA  DENVER  FARMA  debe  utilizarse  con  precaución  en  pacientes  con  crisis  mixtas  que
+
+incluyen  ausencias,  ya  sean  típicas  o  atípicas.  En  todas  estas  condiciones,  la  Carbamazepina  puede
+
+exacerbar  las  convulsiones.  En  caso  de  agravamiento  de  las  convulsiones,  CARBAMAZEPINA  DENVER
+
+Por  lo  tanto,  los  pacientes  deben  ser  monitoreados  para  detectar  signos  de  pensamientos  y  comporta-
+
+FARMA debe interrumpirse.
+
+mientos suicidas y se debe considerar el tratamiento adecuado. Los pacientes (y los cuidadores de los
+
+La suspensión brusca de CARBAMAZEPINA DENVER FARMA puede precipitar convulsiones.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad  conocida  a  Carbamazepina  o  fármacos  estructuralmente  relacionados  (por  ejemplo,
+
+miento suicida.
+
+antidepresivos tricíclicos) o a cualquier otro componente de la formulación.
+
+Se  contraindica  en  los  pacientes  con  bloqueo  auriculoventricular,  con  antecedentes  de  depresión  de  la
+
+médula  ósea  o  de  porfirias  hepáticas  (por  ejemplo,  la  porfiria  aguda  intermitente,  porfiria  variegata,  la
+
+-  Reacciones  dermatológicas  graves,  incluyendo  necrólisis  epidérmica  tóxica  (NET:  también  conocido
+
+como  síndrome  de  Lyell)  y  síndrome  de  Stevens-Johnson  (SSJ)  se  han  informado  muy  raramente  con
+
+Carbamazepina.  Los  pacientes  con  reacciones  dermatológicas  graves  pueden  requerir  hospitalización,
+
+otro fármaco antiepiléptico, es necesario que se efectúe bajo la cobertura de un medicamento adecuado
+
+Agentes  que  pueden  aumentar  los  niveles  plasmáticos  del  metabolito  activo-10  ,11-epóxido
+
+(por ejemplo, diazepam iv, rectal, o fenitoína iv).
+
+carbamazepina:
+
+-  Hiponatremia:  se  sabe  que  la  Carbamazepina  provoca  hiponatremia.  En  pacientes  con  enfermedades
+
+renales preexistentes asociadas con niveles bajos de sodio o en pacientes tratados de forma concomitante
+
+Considerando que los niveles plasmáticos de 10 ,11-epóxido carbamazepina pueden dar lugar a reacciones
+
+adversas  (por  ejemplo,  mareos,  somnolencia,  ataxia,  diplopía),  la  dosis  de  CARBAMAZEPINA  DENVER
+
+pacientes) deben ser advertidos de buscar consejo médico si aparecen signos de ideación o comporta-
+
+Si el tratamiento con CARBAMAZEPINA DENVER FARMA debiera interrumpirse bruscamente, el cambio a
+
+ajustarse en consecuencia y / o monitorear los niveles plasmáticos.
+
+que luego de una evaluación cuidadosa de los riesgos y beneficios no se encuentre disponible otra opción
+de  tratamiento  alternativo  y  continúe  la  terapia  con  Carbamazepina  se  recomienda  utilizar  la  menor  dosis
+efectiva y monitorear las concentraciones plasmáticas. Éstas últimas podrían mantenerse en el límite inferior
+del rango terapéutico de 4 a 12 microgramos/mL siempre que se mantenga el control de las convulsiones.
+Se ha notificado que algunos medicamentos antiepilépticos, como la Carbamazepina, pueden disminuir las
+concentraciones  séricas  de  folato.  Este  déficit  puede  contribuir  al  incremento  de  incidencia  de  malforma-
+ciones congénitas en la descendencia. Se recomienda la suplementación con Ácido fólico antes y durante el
+embarazo. Con el objetivo de prevenir trastornos hemorrágicos en la descendencia, también se ha recomen-
+dado administrar vitamina K1 a la madre durante las últimas semanas, así como al neonato.
+Si una mujer se encuentra planificando un embarazo, se deben hacer todos los esfuerzos para cambiar a un
+tratamiento alternativo apropiado previamente a la concepción y antes de discontinuar la anticoncepción. En
+caso que una mujer quede embarazada mientras recibe Carbamazepina, debe ser derivada a un especialis-
+ta para reevaluar el tratamiento con este medicamento y considerar opciones de tratamiento alternativas.
+Mujeres en edad fértil
+La Carbamazepina no debería utilizarse en mujeres en edad fértil a menos que se juzgue que el beneficio
+supera  los  riesgos  luego  de  una  cuidadosa  consideración  de  las  opciones  de  tratamientos  adecuados
+alternativos.  La  mujer  debe  estar  completamente  informada  y  comprender  los  riesgos  de  recibir  este
+medicamento durante el embarazo y por lo tanto la importancia de planificar cualquier embarazo. Antes de
+iniciar un tratamiento con Carbamazepina en una mujer en edad fértil debería considerarse realizar un test
+de embarazo.
+Las  mujeres  en  edad  fértil  deberían  utilizar  una  anticoncepción  efectiva  durante  el  tratamiento  y  por  dos
+semanas  después  de  suspender  el  mismo.  Debido  a  una  inducción  enzimática,  la  Carbamazepina  puede
+resultar  en  una  falla  del  efecto  terapéutico  de  los  anticonceptivos  hormonales;  por  lo  tanto,  se  debería
+asesorar  con  respecto  al  uso  de  otros  métodos  anticonceptivos.  Debería  utilizarse  al  menos  un  método
+efectivo  de  anticoncepción  o  dos  formas  de  anticoncepción  complementarias  incluyendo  un  método  de
+barrera.  Cuando  se  elija  un  método  anticonceptivo,  deberían  evaluarse  las  circunstancias  individuales  en
+cada caso, involucrando a la paciente en la discusión.
+Las drogas antiepilépticas no deberían ser discontinuadas abruptamente en las pacientes en las que dichos
+fármacos son administrados para prevenir convulsiones mayores debido a la fuerte posibilidad de precipitar
+un “status epiléptico” con hipoxia y riesgo de vida.
+Uso durante la lactancia:
+Carbamazepina  pasa  a  la  leche  materna  (aproximadamente  25-60%  de  las  concentraciones  plasmáticas).
+Los beneficios de la lactancia materna deben sopesarse frente a la posibilidad remota de que se produzcan
+efectos  adversos  en  el  lactante.  Las  madres  que  toman  Carbamazepina  pueden  amamantar  a  sus  hijos,
+siempre que el bebé sea observado por posibles reacciones adversas (por ejemplo, somnolencia excesiva,
+la reacción alérgica en la piel).
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La capacidad del paciente para reaccionar podría verse afectada por los mareos y la somnolencia causada
+por  Carbamazepina  Denver  Farma,  especialmente  al  inicio  del  tratamiento  o  en  relación  con  ajustes  de
+dosis, por lo que los pacientes deben tener cuidado al conducir un vehículo o manejar maquinaria.
+
+REACCIONES ADVERSAS
+Particularmente  en  el  inicio  del  tratamiento  con  CARBAMAZEPINA  DENVER  FARMA,  si  la  dosis  inicial  es
+demasiado  alta,  o  en  el  tratamiento  de  pacientes  de  edad  avanzada,  ciertos  tipos  de  reacciones  adversas
+pueden  aparecer  muy  frecuentemente  o  comúnmente,  por  ejemplo,  reacciones  adversas  sobre  el  SNC
+(mareos,  cefaleas,  ataxia,  somnolencia,  fatiga,  diplopía);  trastornos  gastrointestinales  (náuseas,  vómitos),
+así como las reacciones alérgicas en la piel.
+Las  reacciones  adversas  relacionadas  con  la  dosis  desaparecen  en  unos  pocos  días,  ya  sea  espontánea-
+mente o después de una reducción transitoria de la dosificación. La aparición de reacciones adversas en el
+SNC  puede  ser  manifestación  de  una  sobredosis  relativa  o  de  una  variación  significativa  en  los  niveles
+plasmáticos. En tales casos, es aconsejable monitorear los niveles plasmáticos y dividir la dosificación diaria
+en dosis fraccionales más pequeñas (por ejemplo 3-4).
+Las  reacciones  adversas  se  listan  por  frecuencias,  la  más  frecuente  primero,  utilizando  la  siguiente
+convención: muy frecuentes (≥ 1/10), frecuentes (≥ 1/100, <1/10), poco frecuentes (≥ 1/1000, <1 /100), raras
+(≥ 1/10,000, <1/1,000), muy raras (<1/10,000), incluyendo casos aislados.
+
+Trastornos de la sangre y del sistema linfático
+Muy frecuente:
+Frecuente
+Rara
+Muy rara
+
+Leucopenia
+Trombocitopenia, eosinofilia.
+Leucocitosis, linfadenopatía, la deficiencia de ácido fólico.
+Agranulocitosis,  anemia  aplásica,  pancitopenia,  aplasia  pura  de  glóbulos  rojos,
+anemia  megaloblástica,  porfiria  aguda  intermitente,  porfiria  variegata,    porfiria
+cutánea tardía, anemia reticulocitosis y posiblemente anemia hemolítica.
+Depresión de la médula ósea
+
+Desconocida
+Trastornos del sistema inmunológico
+Rara
+
+linfoma,  artralgia,
+
+linfadenopatía,  seudo
+
+Un trastorno de hipersensibilidad multiorgánica retardada con fiebre, erupciones
+leucopenia,
+cutáneas,  vasculitis,
+eosinofilia,  hepatoesplenomegalia,  anomalías  en
+las  pruebas  de  función
+hepática y síndrome del conducto biliar evanescente (destrucción y desaparición
+de  los  conductos  biliares  intrahepáticos)  que  se  producen  en  diversas
+combinaciones.  Otros  órganos  también  pueden  verse  afectados  (por  ejemplo,
+hígado, pulmones, los riñones, el páncreas, el miocardio, el colon).
+Meningitis  aséptica,  con  mioclonías  y  eosinofilia  periférica,
+anafilácticas, edema angioneurótico.
+Farmacológica con Eosinofilia y Síntomas Sistémicos (DRESS)
+
+reacciones
+
+ Muy raras
+
+Desconocida
+
+Trastornos endocrinos
+ Frecuentes
+
+Muy raras
+
+Efecto  similar  al  de  la  hormona  antidiurética  (ADH)  con  edema,  retención  de
+líquidos, aumento de peso, hiponatremia y osmolaridad sanguínea disminuida ,
+lo que en casos raros condujo a intoxicación acuosa  acompañada de  letargia,
+vómitos, cefaleas,  confusión, trastornos neurológicos.
+Incremento de la prolactina en la sangre  con o sin síntomas clínicos, tales como
+galactorrea,  ginecomastia,  pruebas  anormales  de
+tiroidea;
+disminución de L-tiroxina (tiroxina libre, tiroxina, triyodotironina) y el aumento de
+la  hormona  estimulante  de
+lo  general  sin
+manifestaciones  clínicas,  trastornos  del  metabolismo  óseo  (disminución  del
+calcio en plasma y del 25-hidroxi-colecalciferol), lo que conduce a  osteomalacia
+/  osteoporosis,    aumento  de  colesterol  en  la  sangre,  incluyendo  el  colesterol
+HDL y los triglicéridos.
+
+tiroides  en  sangre,  por
+
+función
+
+la
+
+la
+
+Infecciones o infestaciones
+Desconocida
+Trastornos psiquiátricos
+ Rara
+
+Muy raras
+Trastornos del sistema nervioso
+Muy frecuentes
+Frecuentes
+Poco frecuentes
+
+Rara
+
+Muy raras
+Desconocida
+Trastornos oculares
+Muy raras
+ Trastornos del oído y del laberinto
+Muy raras
+
+Reactivación de la infección por el virus del herpes humano
+
+Alucinaciones (visuales o auditivas), depresión, anorexia, inquietud, agresividad,
+agitación, estado de confusión.
+Activación de la psicosis.
+
+Mareos, ataxia, somnolencia, fatiga.
+Cefaleas, diplopía, trastornos de la acomodación (por ejemplo, visión borrosa).
+Movimientos  involuntarios  anormales  (por  ejemplo,  temblor,  asterixis,  distonía,
+tics), nistagmo.
+Discinesia orofacial, trastornos del movimiento de los ojos, trastornos del habla
+(por  ejemplo,  disartria  o  dificultad  en
+las  palabras),
+coreoatetosis, neuropatía periférica, parestesia, debilidad muscular y paresias
+Alteraciones del gusto, el síndrome neuroléptico maligno.
+Sedación, deterioro de la memoria
+
+la  articulación  de
+
+Opacidades lenticulares, conjuntivitis, aumento de la presión intraocular.
+
+Trastornos auditivos, por ejemplo, tinnitus, hiperacusia, hipoacusia, el cambio en
+la percepción del tono.
+
+Trastornos cardíacos
+Rara
+
+Muy raras
+
+Trastornos Vasculares
+Rara
+Muy raras
+
+Trastornos de la conducción cardiaca, hipertensión o hipotensión.
+
+Bradicardia,  arritmia,  bloqueo  auriculoventricular  con  síncope,  colapso
+circulatorio,  insuficiencia  cardíaca  congestiva,  la  agravación  de  la  enfermedad
+coronaria, tromboflebitis, tromboembolismo (por ejemplo, embolia pulmonar).
+
+Hipertensión o hipotensión.
+Colapso  circulatorio,  embolismo
+tromboflebitis.
+
+(por  ejemplo  embolismo  pulmonar),
+
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raras
+
+Hipersensibilidad  pulmonar  caracterizada  por  ejemplo,  por  fiebre,  disnea,
+neumonitis o neumonía.
+
+Trastornos gastrointestinales
+Muy frecuentes
+Frecuentes
+
+Náuseas, vómitos.
+Sequedad en la boca, con supositorios puede ocurrir irritación rectal.
+
+Poco frecuentes
+Rara
+Muy raras
+Desconocida
+ Trastornos hepatobiliares
+Muy frecuentes
+
+Diarrea, estreñimiento.
+Dolor abdominal
+Glositis, estomatitis, pancreatitis.
+Colitis
+
+ Frecuentes
+Poco frecuentes
+Rara
+
+Muy raras
+Piel y del tejido subcutáneo
+Muy frecuentes
+Poco frecuentes
+Rara
+Muy raras
+
+El  aumento  de  gamma-GT  (debido  a  la  inducción  de  enzimas  hepáticas),
+generalmente no es clínicamente relevante.
+Aumento de la fosfatasa alcalina en sangre.
+El aumento de las transaminasas.
+Hepatitis  colestásica  de  tipo  parenquimatosa  (hepatocelular)  o  de  tipo  mixto,
+síndrome del conducto biliar evanescente, ictericia.
+Hepatitis granulomatosa. Insuficiencia hepática.
+
+Dermatitis  alérgica,  urticaria que puede ser severa.
+Dermatitis exfoliativa y eritrodermia.
+El lupus eritematoso sistémico, prurito.
+Síndrome  de  Stevens-Johnson  *,  necrólisis  epidérmica  tóxica,  reacciones  de
+fotosensibilidad,  eritema  multiforme  y  nodoso,  alteraciones  en  la  pigmentación
+de la piel, púrpura, acné, hiperhidrosis, pérdida de cabello, hirsutismo.
+
+ Tejidos y los trastornos óseos musculoesqueléticos
+Muy raras
+Desconocida
+Trastornos renales y urinarios
+Muy raras
+
+Artralgia, dolor y debilidad muscular, espasmos musculares.
+Fracturas
+
+Nefritis  intersticial,  insuficiencia  renal,  alteraciones  de  la  función    renal  (por
+ejemplo,  albuminuria,  hematuria,  oliguria  y  aumento  de  urea  en  sangre  /
+azotemia),  alteraciones  de  la  frecuencia  urinaria,  retención  urinaria,  trastornos
+sexuales / impotencia.
+
+Se  recomienda  la  hemoperfusión  con  carbón.  Se  ha  reportado  que  no  resultan  efectivas  la  diuresis  forzada,
+hemodiálisis, o diálisis peritoneal.
+La recaída y el agravamiento de la sintomatología en el 2o y 3er día después de una sobredosis, debido a la
+absorción retardada, deben ser anticipados.
+
+Ante la eventualidad de una sobredosificación concurrir al Hospital más cercano o comunicarse a los Centros
+de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/4962-2247
+Hospital A. Posadas (011) 4658-7777/4654-6648.
+
+Sistema reproductivo
+Muy raras
+
+La espermatogénesis anormal (con disminución del número de espermatozoides
+y / o motilidad).Disfunción sexual / disfunción eréctil.
+
+CONSERVACION
+Conservar a temperatura ambiente menor a 30oC.
+
+Trastornos del  metabolismo y nutrición
+Frecuencia
+desconocida
+Investigaciones
+Muy raras
+
+Hipogammaglobulinemia.
+
+Hiponatremia, Hiperamonemia
+
+PRESENTACION
+Envases con 30, 60 y 1000 comprimidos, siendo los dos últimos para uso exclusivo de hospitales.
+
+“MANTENER FUERA DEL ALCANCE DEL LOS NIÑOS”
+
+*  En  algunos  países  asiáticos  también  reporta  como  rara.  Ver  también  sección  4.4  Advertencias  y
+precauciones especiales de empleo.
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+Certificado No 42.900
+
+DENVER FARMA S.A.
+Mozart S/N, Centro Industrial Garín, Escobar, Provincia de Buenos Aires.
+Director Técnico: José Luis Tombazzi – Farmacéutico
+Fecha de la última revisión: Agosto 2023
+
+                                                                                                                                                                 RV 08/23
+
+Se han notificado casos de disminución de la densidad mineral ósea, osteopenia, osteoporosis y fracturas en
+los  pacientes  en  tratamiento  a  largo  plazo  con  Carbamazepina.  El  mecanismo  por  el  cual  Carbamazepina
+afecta el metabolismo óseo no ha sido identificado.
+Las siguientes reacciones adversas se han derivado de la experiencia post-comercialización con Carbama-
+zepina  a  través  de  informes  de  casos  espontáneos  y  los  casos  de  la  literatura.  Debido  a  que  estas
+reacciones  se  informaron  voluntariamente  por  una  población  de  tamaño  incierto,  no  es  posible  estimar  de
+manera fiable su frecuencia y, por lo tanto, no se clasifica por que no se conoce. Las reacciones adversas se
+enumeran  según  la  clasificación  por  órganos  y  sistemas  de  MedDRA.  Dentro  de  cada  clase  de  órganos  y
+sistemas, los efectos adversos se presentan en orden decreciente de gravedad.
+Trastornos del sistema inmunológico.
+Erupción cutánea con eosinofilia y síntomas sistémicos (DRESS).
+Trastornos de piel y del tejido subcutáneo.
+Pustulosis exantemática generalizada aguda (PEGA).
+Cada vez hay más evidencia sobre la asociación de los marcadores genéticos y la aparición de reacciones
+adversas cutáneas tales como SSJ, TEN, DRESS, PEGA y erupción maculopapular. En pacientes japoneses
+y europeos se han reportado estas reacciones asociadas con el uso de la carbamazepina y la presencia de
+los alelos HLA-A * 3101. Otro marcador, HLA-B * 1502, ha demostrado estar asociado con SSJ y TEN entre
+individuos  de  origen  chino  Han,  tailandés  y  otra  ascendencia  asiática  (ver  Posología  y  Advertencias  y
+precauciones para más información).
+
+Ante cualquier inconveniente con el producto Usted puede:
+-comunicarse al 4756-5436 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+-llenar la ficha que está en la Página Web de la ANMAT:
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234.
+
+SOBREDOSIS
+Signos y síntomas
+Los signos y síntomas de sobredosis incluyen al SNC, cardiovascular y respiratorio.
+SNC:  depresión  del  SNC,  desorientación,  somnolencia,  agitación,  alucinaciones,  coma,  visión  borrosa,
+dificultad para hablar, disartria, nistagmo, ataxia, discinesia, inicialmente hiperreflexia, después hiporreflexia,
+convulsiones, trastornos psicomotores, mioclonías, hipotermia, midriasis.
+Sistema respiratorio: depresión respiratoria, edema pulmonar.
+Sistema  cardiovascular:  taquicardia,  hipotensión  y,  a  veces  hipertensión,  trastornos  de  la  conducción,  con
+ensanchamiento del complejo QRS; síncope asociado a paro cardíaco.
+Aparato digestivo: vómitos, retraso del vaciamiento gástrico, disminución de la motilidad intestinal.
+Función  renal:  retención  de  orina,  oliguria  o  anuria,  retención  de  líquidos,  intoxicación  acuosa  debido  al
+efecto de la Carbamazepina como ADH.
+Hallazgos  de  laboratorio:  hiponatremia,  acidosis  metabólica,  posiblemente  hiperglucemia,  aumento  de  la
+creatina fosfoquinasa muscular.
+Tratamiento
+No existe un antídoto específico.
+El  manejo  inicial  debería  estar  guiado  por  la  condición  clínica  del  paciente  y  la  admisión  hospitalaria.    Se
+debe realizar la medición del nivel plasmático para confirmar la intoxicación con carbamazepina y determinar
+el grado de sobredosis.
+Evacuación del estómago, lavado gástrico y administración de carbón activado: El retraso en la evacuación
+del estómago puede resultar en una absorción tardía conduciendo, a una recaída durante la recuperación de
+la  intoxicación.  Se  aconseja  la  atención  médica  en  una  unidad  de  cuidados  intensivos  con  monitorización
+cardíaca y corrección cuidadosa del desequilibrio electrolítico.
+Recomendaciones especiales
+Hipotensión: administrar dopamina o dobutamina iv.
+Alteraciones del ritmo cardiaco: Se tratarán de forma individual.
+Convulsiones: Administrar  una  benzodiazepina  (por  ejemplo,  diazepam)  u  otro  antiepiléptico,  por  ejemplo,
+fenobarbital (con precaución debido al aumento de la depresión respiratoria) o paraldehído.
+Hiponatremia  (intoxicación  acuosa):  Restricción  de  líquidos,  lenta  y  cuidadosa  infusión  endovenosa  de  una
+solución acuosa de NaCl 0,9%. Estas medidas pueden ser útiles en la prevención de daño cerebral.

@@ -1,0 +1,638 @@
+Administrar con precaución en pacientes con historia de condiciones alérgicas.
+Evitar la administración concomitante con otros AINE incluyendo inhibidores selectivos de la COX2.
+Como con todos los AINE en cualquier momento del tratamiento, se han descrito hemorragias gastrointestina-
+les, úlceras o perforaciones, con o sin síntomas de previo aviso o antecedentes de acontecimientos gastrointes-
+tinales  graves.  Deberá  suspenderse  el  tratamiento  ante  cualquiera  de  estos  síntomas.  En  los  pacientes  con
+historia de úlcera péptica, gastritis o esofagitis, sobre todo con hemorragia o perforación y en ancianos, dosis
+elevadas de AINE aumentan los riesgos de repetir estas afecciones.
+Uso en ancianos: iniciar el tratamiento con la dosis más baja posible.
+Los  pacientes  ancianos  están  más  predispuestos  a  sufrir  hemorragias  y  perforaciones  gastrointestinales
+alteraciones de la función renal, cardiovascular o hepática.
+En los pacientes que requieren el uso concomitante de ácido acetilsalicílico o de otros fármacos que puedan
+incrementar el riesgo gastrointestinal deberá considerarse la terapia combinada con agentes inhibidores de la
+secreción ácida gástrica.
+Los pacientes con historia de toxicidad gastrointestinal, en especial los ancianos, deberán comunicar cualquier
+síntoma abdominal inusual (especialmente hemorragia gastrointestinal) sobretodo en las etapas iniciales del
+tratamiento.
+Emplear con precaución con los pacientes que reciben medicaciones concomitantes que puedan incrementar
+el  riesgo  de  úlcera  o  hemorragia,  tales  como  corticosteroides  orales,  anticoagulantes  tipo  dicumarínico,
+inhibidores selectivos de la recaptación de serotonina o agentes antiagregantes como el ácido acetilsalicílico.
+Todos los AINE no selectivos pueden inhibir la agregación plaquetaria,  por lo tanto, no se recomienda el uso
+de dexketoprofeno trometamol en pacientes que reciban terapias anticoagulantes.
+Como  todos  los  AINE  puede  elevar  los  niveles  plasmáticos  de  nitrógeno  ureico  y  de  creatinina  y  puede
+asociarse a efectos indeseables del sistema renal que pueden dar lugar a nefritis glomerular, nefritis intersticial,
+necrosis papilar renal, síndrome nefrótico e insuficiencia renal aguda.
+Como todo AINE, puede producir pequeñas elevaciones transitorias de alguno de los parámetros hepáticos, y
+también  incrementos  significativos  de  la  SGOT  y  SGTP.  En  caso  de  un  incremento  relevante  de  estos
+parámetros deberá suspenderse el tratamiento.
+Se recomienda administrar con precaución en pacientes con trastornos hematopoyéticos, lupus eritematoso
+sistémico o enfermedad mixta del tejido conectivo.
+Debe administrarse con precaución en pacientes con alteraciones de las funciones hepáticas y/o renales, así
+como en pacientes con historia de hipertensión y/o fallo cardíaco. Así como en pacientes que reciban diuréticos
+o aquellos que puedan desarrollar hipovolemia ya que existe un riesgo aumentado de nefrotoxicidad.
+Datos procedentes de ensayos clínicos y de estudios epidemiológicos sugieren que el empleo de algunos AINE
+(especialmente en dosis altas y en tratamientos de larga duración) se puede asociar con un pequeño aumento
+del riesgo de acontecimientos aterotrombóticos (como infarto de miocardio o ictus). (Valorar riesgo/beneficio
+del tratamiento)
+Muy  raramente,  y  asociadas  al  uso  de  AINE,  se  han  comunicado  reacciones  cutáneas  graves  que  incluyen
+dermatitis exfoliativa, síndrome de Stevens-Johnson y necrólisis epidérmica tóxica.
+Como  todo  AINE,  el  uso  de  dexketoprofeno  trometamol  puede  disminuir  la  fertilidad  femenina  y  no  se
+recomienda su uso en mujeres que deseen quedarse embarazadas.
+Interacciones  medicamentosas:  las  siguientes  interacciones  son  aplicables  a  los  antiinflamatorios  no
+esteroideos (AINE) en general:
+Asociaciones no recomendadas
+Otros AINE, incluyendo elevadas dosis de salicilatos (≥ 3 g/día).
+Anticoagulantes: serían necesarios un estricto control clínico y la monitorización analítica del paciente.
+Corticosteroides: riesgo aumentado de ulceración gastrointestinal o hemorragia.
+Litio (descripto con varios AINE): aumento de los niveles del litio en sangre.
+Metotrexato: (dosis de 15 mg/semana o más) los AINE aumentan la toxicidad  hematológica del metotrexato,
+por disminución de su aclaramiento renal.
+Hidantoínas y sulfonamidas: los efectos tóxicos de estas sustancias pueden verse incrementados.
+Asociaciones que requieren precaución
+Diuréticos, inhibidores de la enzima de conversión de la angiotensina (IECA) y antagonistas de los receptores de
+la angiotensina II (ARA II): el dexketoprofeno puede reducir el efecto de los diuréticos y de los antihipertensivos.
+Si  se  combina  dexketoprofeno  y  un  diurético,  deberá  asegurarse  que  el  paciente  esté  hidratado  de  forma
+adecuada y deberá monitorizarse la función renal al iniciarse el tratamiento.
+Metotrexato (dosis menores a 15 mg/semana): durante las primeras semanas de la terapia conjunta el recuento
+hematológico debe ser cuidadosamente monitorizado. Se incrementará la vigilancia incluso en presencia de
+función renal levemente alterada, así como en ancianos.
+Pentoxifilina: aumento del riesgo de hemorragia.
+Zidovudina: riesgo aumentado de toxicidad hematológica debido a la acción sobre los reticulocitos.
+Sulfonilureas: los AINE pueden aumentar el efecto hipoglicemiante de las sulfonilureas por desplazamiento de
+los puntos de fijación a proteínas plasmáticas.
+Embarazo y lactancia: contraindicado.
+Embarazo:  la  inhibición  de  la  síntesis  de  prostaglandinas  puede  afectar  la  forma  adversa  al  embarazo  y/o
+desarrollo embio-fetal.
+No se deberá administrar dexketoprofeno trometamol durante el primer y segundo trimestre de embarazo a
+menos que sea absolutamente necesario.
+Durante  el  tercer  trimestre  de  embarazo,  todos  los  inhibidores  de  la  síntesis  de  prostaglandinas  pueden
+provocar toxicidad fetal o en la madre y el recién nacido
+Lactancia: se desconoce si el dexketoprofeno se excreta en la leche materna.
+Uso pediátrico: no hay experiencia del uso de dexketoprofeno en pediatría.
+
+Reacciones adversas: las reacciones adversas se tabulan a continuación, clasificados por órganos y sistemas
+y ordenados según frecuencia:
+
+2
+
+Las  reacciones  adversas  que  se  observan  con  mayor  frecuencia  son  de  naturaleza  gastrointestinal.  Tras  la
+administración, se han comunicado casos de náuseas, vómitos, diarrea, flatulencia, estreñimiento, dispepsia,
+dolor  abdominal,  melenas,  hematemesis,  estomatitis  ulcerativa,  exacerbación  de  colitis  y  enfermedad  de
+Crohn.  Con  menor  frecuencia,  también  se  ha  observado  gastritis.  Pueden  aparecer  úlceras  pépticas,
+perforaciones o hemorragias gastrointestinales, especialmente en ancianos.
+
+Sobredosificación
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o  comunicarse  con  los
+Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+Presentación:   envases con 20 y 40 comprimidos recubiertos.
+Fecha de última revisión: octubre de 2014
+
+Forma de conservación
+- Conservar a temperatura entre 15 y 30 °C, proteger de la luz.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N°57.558
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+INFORMACION PARA EL PACIENTE
+- CONSULTE A SU MÉDICO -
+
+Lea esta información para el paciente antes de comenzar a tomar ALGICUR y cada vez que repita la receta ya
+que puede haber nueva información. Esta información no reemplaza a su conversación con el médico sobre su
+enfermedad o su tratamiento.
+
+¿Qué es ALGICUR y para qué se usa?
+ALGICUR  es  un  analgésico  perteneciente  al  grupo  de  medicamentos  denominados  antiinflamatorios  no
+esteroideos  (AINE).  Se  utiliza  para  tratar  el  dolor  de  intensidad  leve  o  moderada,  tal  como  dolor  de  tipo
+muscular o de las articulaciones, dolor menstrual (dismenorrea), dolor dental.
+
+Antes de usar ALGICUR
+No tome ALGICUR si
+- Si es alérgico (hipersensible) a dexketoprofeno trometamol o a cualquiera de sus otros componentes;
+- Si tiene asma o ha sufrido ataques de asma, rinitis alérgica aguda (un período corto de inflamación de la
+mucosa  de  la  nariz),  pólipos  nasales  (formaciones  carnosas  en  el  interior  de  la  nariz  debido  a  la  alergia),
+urticaria  (erupción  en  la  piel),  angioedema  (hinchazón  de  la  cara,  ojos,  labios  o  lengua,  o  dificultad  para
+respirar) o sibilancias en el pecho tras haber tomado ácido acetilsalicílico (aspirina) u otros antiinflamatorios no
+esteroideos;
+- Si tiene o ha tenido en el pasado úlcera péptica, hemorragia de estómago, de intestino o perforación o si tiene
+problemas digestivos crónicos (por ejemplo, indigestión, ardor de estómago);
+- Si tiene enfermedad inflamatoria crónica del intestino (enfermedad de Crohn o colitis ulcerosa);
+- Si tiene insuficiencia cardíaca grave, insuficiencia renal moderada a grave o insuficiencia hepática grave;
+- Si tiene trastornos hemorrágicos o trastornos de la coagulación de la sangre;
+- Si está embarazada o dando el pecho;
+- Si es menor de 18 años.
+
+Tenga especial cuidado con ALGICUR
+- Si es alérgico o ha tenido problemas de alergia en el pasado;
+-  Si  tiene  enfermedades  del  riñón,  del  hígado  o  del  corazón  (hipertensión  y/o  insuficiencia  cardiaca),  o
+retención de líquidos o ha sufrido alguna de estas enfermedades en el pasado;
+-  Si  está  tomando  diuréticos  o  tiene  una  hidratación  insuficiente  o  una  pérdida  excesiva  de  líquidos  (por
+ejemplo, por orinar en exceso, diarrea o vómitos);
+- Si tiene problemas cardiacos, antecedentes de ataques cerebrales, o piensa que podría tener riesgo de sufrir
+estos trastornos (por ejemplo, tiene la tensión arterial alta, sufre diabetes, tiene aumentado el colesterol, o es
+fumador);  debe  consultar  este  tratamiento  con  su  médico.  Los  medicamentos  como  ALGICUR  se  pueden
+asociar con un pequeño aumento del riesgo de sufrir ataques cardiacos ("infartos de miocardio") o cerebrales
+("accidente  cerebrovascular").  Este  riesgo  es  más  probable  que  ocurra  cuando  se  emplean  dosis  altas  y
+tratamientos prolongados. No exceda la dosis ni la duración del tratamiento recomendados;
+- Si es anciano puede sufrir una mayor incidencia de efectos adversos. Si estos ocurren, consulte a su médico
+inmediatamente;
+
+4
+
+En  general  se  recomienda  1  comprimido  (25  mg  de  dexketoprofeno)  cada  8  horas,  sin  sobrepasar  los  3
+comprimidos al día (75 mg).
+Si usted es anciano o sufre alguna enfermedad del riñón o del hígado se recomienda iniciar la terapia con un
+máximo de 2 comprimidos al día (50 mg).
+En  los  pacientes  ancianos  esta  dosis  inicial  puede  incrementarse  posteriormente  de  acuerdo  con  la  dosis
+recomendada general (75 mg de dexketoprofeno) si ALGICUR ha sido bien tolerado.
+Si su dolor es intenso y necesita un alivio rápido tome los comprimidos con el estómago vacío (por lo menos
+30 minutos antes de la comida) ya que se absorberán más fácilmente.
+
+Si olvidó tomar ALGICUR
+No tome una dosis doble para compensar las dosis olvidadas. Tome la siguiente dosis cuando proceda.
+Si tiene dudas sobre el uso de este medicamento, consulte a su médico o farmacéutico.
+
+Efectos indeseables (adversos)
+Al  igual  que  todos  los  medicamentos,  ALGICUR  puede  producir  efectos  adversos,  aunque  no  todas  las
+personas los sufran.
+Las reacciones adversas que se observaron con más frecuencia son de naturaleza gastrointestinal: náuseas,
+vómitos, diarrea, flatulencia, estreñimiento, dolor abdominal.
+Los  posibles  efectos  adversos  se  detallan  a  continuación  de  acuerdo  con  su  frecuencia.  La  siguiente  tabla
+indica cuántos pacientes pueden presentar estos efectos adversos:
+Frecuentes: Más de una de cada 100 personas y menos de una de cada 10
+Poco frecuentes: Más de una de cada 1.000 personas y menos de una de cada 100
+Raros: Más de una de cada 10.00 personas y menos de una de cada 1.000
+Muy raros: Menos de una de cada 10.000 personas, incluyendo los casos aislados
+
+Efectos adversos frecuentes
+Náuseas y/o vómitos, dolor de estómago, diarrea, trastornos digestivos (dispepsia).
+
+Efectos adversos poco frecuentes
+Sensación  rotatoria  (vértigo),  mareos,  somnolencia,  trastornos  del  sueño,  nerviosismo,  dolor  de  cabeza,
+palpitaciones, sofocos, problemas de estómago, estreñimiento, sequedad de boca, flatulencia, erupción en la
+piel, fatiga, dolor, sensación febril y escalofríos, malestar general.
+
+Efectos adversos raros
+Úlcera péptica, perforación de úlcera péptica o sangrado (que puede manifestarse con vómitos de sangre o
+deposiciones negras), desmayo, tensión arterial elevada, respiración lenta, retención de líquidos e hinchazón
+periférica  (por  ejemplo,  hinchazón  de  tobillos),  edema  de  laringe,  pérdida  de  apetito  (anorexia),  sensación
+anormal,  erupción  pruriginosa,  acné,  aumento  de  la  sudoración,  dolor  lumbar,  emisión  frecuente  de  orina,
+alteraciones  menstruales,  alteraciones  prostáticas,  pruebas  de  función  hepática  anormales  (análisis  de
+sangre), daño de las células hepáticas (hepatitis), insuficiencia renal aguda.
+
+Muy raros
+Reacción  anafiláctica  (reacción  de  hipersensibilidad  que  también  puede  llevar  al  colapso),  úlceras  en  piel,
+boca,  ojos  y  zonas  genitales  (síndrome  de  Stevens  Johnson  y  síndrome  de  Lyell),  hinchazón  de  la  cara  o
+hinchazón de los labios y la garganta (angioedema), dificultad en la respiración debido al estrechamiento de
+las vías respiratorias (broncoespasmo), falta de aire, taquicardia, tensión arterial baja, inflamación de páncreas,
+, visión borrosa, zumbidos en los oídos (tinnitus), piel sensible, sensibilidad a la luz, picor, problemas de riñón.
+Disminución  del  número  de  glóbulos  blancos  (neutropenia),  disminución  del  número  de  plaquetas
+(trombocitopenia).
+Informe  a  su  médico  inmediatamente  si  nota  algún  efecto  adverso  de  tipo  gastrointestinal  al  inicio  del
+tratamiento (por ejemplo, dolor o ardor de estómago o sangrado), si previamente ha sufrido alguno de estos
+efectos  adversos  debido  a  un  tratamiento  prolongado  con  antiinflamatorios,  y  especialmente  si  usted  es
+anciano.
+Deje de tomar inmediatamente ALGICUR si nota la aparición de una erupción en la piel o alguna lesión dentro
+de la boca o en los genitales, o cualquier otro signo de alergia.
+Durante el tratamiento con antinflamatorios no esteroideos, se han notificado casos de retención de líquidos e
+hinchazón (especialmente en tobillos y piernas), aumento de la presión sanguínea e insuficiencia cardiaca.
+Los medicamentos como ALGICUR pueden asociarse con un pequeño aumento de riesgo de sufrir un ataque
+cardiaco ("infarto de miocardio") o ataque cerebral ("accidente cerebrovascular").
+En pacientes con trastornos del sistema inmune que afectan al tejido conectivo (lupus eritematoso sistémico o
+enfermedad mixta del tejido conectivo), los medicamentos antiinflamatorios pueden raramente causar fiebre,
+dolor de cabeza y rigidez de nuca.
+Si  alguno  de  estos  efectos  adversos  empeora,  o  padece  algún  efecto  adverso  que  no  aparece  en  este
+prospecto, comuníqueselo a su médico o farmacéutico.
+
+¿Cómo conservar ALGICUR?
+- Conservar a temperatura entre 15 y 30°C, proteger de la luz.
+- Mantener alejado del alcance de los niños.
+
+Presentación: envases con 20 y 40 comprimidos recubiertos,
+
+Si toma más ALGICUR del que debiera
+Si ha tomado demasiado medicamento, informe inmediatamente a su médico o farmacéutico o vaya al servicio
+
+ALGICUR®
+DEXKETOPROFENO
+TROMETAMOL
+
+Industria Argentina - Venta Bajo Receta
+
+COMPRIMIDOS RECUBIERTOS
+
+Fórmula
+Cada comprimido recubierto contiene:
+Núcleo: Dexketoprofeno Trometamol 36,9 mg (equivalente a 25,0 mg de Dexketoprofeno Base). Excipientes:
+almidón de maíz 40,0 mg, celulosa microcristalina 94,1 mg, almidón glicolato sódico 20,0 mg, hidroxipropilcelu-
+losa 3,0 mg, talco 6,0 mg.
+Cubierta: dióxido de titanio 1,30 mg, talco 1,25 mg, hidroxipropilmetilcelulosa E15 1,50 mg, polietilenglicol 6000
+0,70 mg, povidona K-30 0,25 mg.
+
+Acción Terapéutica
+Analgésico. Antiinflamatorio no esteroideo.
+Código ATC: M01AE17.
+
+Indicaciones
+Dolor de intensidad leve o moderada de distinta etiología (dismenorrea, odontalgia, intervenciones quirúrgicas,
+traumatismos, esguinces y en el dolor asociado a procesos inflamatorios).
+
+Acción Farmacológica
+El dexketoprofeno trometamol es la sal de trometamina del ácido S-(+)-2-(3-benzolifen) propiónico, un fármaco
+analgésico,  antiinflamatorio  y  antipirético  perteneciente  a  la  familia  de  los  antiinflamatorios  no  esteroides
+(M01AE).
+El mecanismo de acción de los antiinflamatorios no esteroides se relaciona con la disminución de la síntesis de
+prostaglandinas  mediante  la  inhibición  de  la  vía  de  la  ciclooxigenasa.  Se  inhibe  la  transformación  del  ácido
+araquidónico en endoperóxidos cíclicos, las PGG2 y PGH2, que dan lugar a las prostaglandinas PGE1, PGE2,
+PGF2α y PGD2, así como a la prostaciclina PGI2 y a los tromboxanos (TxA2 y TxB2). El dexketoprofeno es un
+inhibidor de las actividades COX-1 y  COX-2.
+El inicio de la analgesia se observa a los 30 minutos post-administración, persiste de 4 a 6 horas.
+
+Farmacocinética
+Luego de la administración oral la Cmax se alcanza a los 30 minutos (rango de 15 a 60 min); la semivida de
+distribución  y  de  eliminación  es  de  0,35  y  1,65  horas,  respectivamente.    Dexketoprofeno  tiene  una  elevada
+unión  a  proteínas  plasmáticas  (99%).  La  principal  vía  de  eliminación  es  la  glucurono  conjugación  hepática
+seguida de excreción renal.
+Tras  la  administración  de  dexketoprofeno  trometamol,  en  orina  sólo  se  obtiene  en  enantiómero  S  (+),
+demostrando que no se produce conversión al enantiómero R (-) en humanos.
+La administración a dosis múltiple no produce acumulación del fármaco.
+El AUC no se modifica cuando se administra conjuntamente con alimentos; sin embargo la Cmax se reduce y
+su velocidad de absorción se retrasa (incremento de tmax).
+
+Posología y Modo de administración
+Población general (adultos)
+La dosis recomendada es de 1 comprimido cada 8 horas. La dosis total diaria no debe sobrepasar los 75 mg (3
+comprimidos).
+ALGICUR no está destinado para su uso a largo plazo; el tratamiento debe limitarse al período sintomático.
+La administración conjunta con alimentos retrasa la velocidad de absorción del fármaco, por lo que en caso de
+dolor agudo se recomienda la administración como mínimo 30 minutos antes de las comidas.
+Ancianos: en pacientes ancianos se recomienda una dosis inicial total diaria de 50 mg, la que puede incremen-
+tarse hasta la recomendada para la población general, una vez comprobada la buena tolerabilidad.
+Disfunción hepática leve o moderada: deben emplearse dosis iniciales reducidas (dosis diaria total 50 mg) y
+controlarse cuidadosamente. No utilizar en pacientes con disfunción hepática severa.
+Niños y adolescentes: la seguridad y eficacia del  dexketoprofeno no han sido establecidas; no debe emplearse
+en niños ni adolescentes.
+
+Contraindicaciones
+Hipersensibilidad al dexketoprofeno, o a cualquiera de los excipientes del producto.
+Pacientes  en  los  cuales  sustancias  con  acción  similar  (p.  ej.  ácido  acetilsalicílico,  u  otros  AINE)  precipitan
+ataques de asma, broncoespasmo, rinitis aguda, o causan pólipos nasales, urticaria o edema angioneurótico.
+Pacientes  con  antecedentes  de  hemorragia  gastrointestinal  o  perforación  relacionados  con  tratamientos
+anteriores  con  AINE.  Úlcera  péptica/hemorragia  gastrointestinal  activa  o  recidivante  (dos  o  más  episodios
+diferentes de ulceración o hemorragia comprobados), otras hemorragias activas u otros trastornos hemorrági-
+cos. Pacientes con la enfermedad de Crohn o colitis ulcerosa.
+Pacientes  con  historia  de  asma  bronquial,  insuficiencia  cardíaca  grave,  disfunción  renal  moderada  a  grave,
+disfunción hepática grave, pacientes con diátesis hemorrágica y otros trastornos de la coagulación.
+Embarazo o lactancia.
+
+Precauciones y Advertencias
+La seguridad de uso en niños y adolescentes no ha sido establecida.
+
+1
+
+Ó rg a n o /
+S is te m a
+
+Trastornos de la
+sangre y del sis-
+tema linfático
+Trastornos del
+sistema inmuno-
+lógico
+
+Trastornos del
+metabolismo y de la
+nutrición
+Trastornos
+psiquiátricos
+Trastornos del
+sistema nervioso
+Trastornos oculares
+Trastornos del oído
+y del laberinto
+Trastornos car-
+díacos
+Trastornos vas-
+culares
+Trastornos respi-
+ratorios,  torácicos y
+mediastínicos
+Trastornos gas-
+trointestinales
+
+----
+
+----
+
+----
+
+----
+
+----
+
+----
+----
+
+----
+
+----
+
+----
+
+F re c u e n te s
+(1  - 1 0 % )
+
+P o c o  fre c ue n te s
+(0 .1  – 1 % )
+
+R a ra s
+(0 .0 1  – 0 .1 % )
+
+----
+
+----
+
+----
+
+----
+
+----
+
+Anorexia
+
+M u y ra ra s / C a s o s
+a is la do s
+(<  0 .0 1 % )
+
+Neutropenia
+trombocitopenia
+
+Reacción anafi-
+láctica, incluyendo
+shock
+anafiláctico
+----
+
+Insomnio,
+ansiedad
+Cefalea, mareo,
+somnolencia
+----
+Vértigo
+
+----
+
+Parestesia,
+síncope
+----
+----
+
+----
+
+----
+
+Visión borrosa
+Tinnitus
+
+Palpitaciones
+
+----
+
+Taquicardia
+
+Sofocos
+
+hipertensión
+
+Hipotensión
+
+----
+
+Bradipnea
+
+Náuseas y/o vó-
+mitos, dolor
+abdominal,
+diarrea, dispepsia.
+
+Gastritis,
+estreñimiento,
+sequedad de
+boca, flatulencia.
+
+Trastornos
+hepatobiliares
+Trastornos de la piel
+y del tejido
+subcutáneo
+
+----
+
+----
+
+Trastornos mus-
+culoesqueléticos y
+del tejido conjuntivo
+Trastornos rena-
+les y urinarios
+Trastornos del
+aparato reproductor
+y de la mama
+
+Trastornos gene-
+rales y alteraciones
+en el lugar de
+administración
+Exploraciones
+complementarias
+
+----
+
+----
+
+----
+
+----
+
+----
+
+3
+
+----
+
+Rash
+
+----
+
+----
+
+----
+
+Fatiga, dolor,
+astenia, escalo-
+fríos, malestar
+general.
+----
+
+Broncoespasmo,
+disnea
+
+Pancreatitis
+
+Daño hepatocelular
+
+Síndrome de Steven
+Johnson, necrolisis
+epidérmica tóxica
+(síndrome de Lyell),
+edema
+angioneurótico,
+edema facial,
+reacciones de
+fotosensibilidad,
+prurito
+----
+
+Nefritis o síndrome
+nefrótico
+----
+
+----
+
+Úlcera péptica,
+úlcera péptica con
+hemorragia o
+úlcera péptica con
+perforación.
+
+Urticaria, acné,
+sudoración
+incrementada
+
+Dolor lumbar
+
+Poliuria
+
+Alteraciones
+menstruales,
+alteraciones
+prostáticas
+Edema periférico
+
+Analítica hepática
+anormal
+
+----
+
+- Si es una mujer con problemas de fertilidad ALGICUR puede disminuir su fertilidad por lo que no debe tomarlo
+si está planificando quedarse embarazada o si se está sometiendo a estudios de fertilidad;
+- Si sufre un trastorno en la producción de sangre y células sanguíneas;
+-  Si  tiene  lupus  eritematoso  sistémico  o  enfermedad  mixta  del  tejido  conectivo  (enfermedades  del  sistema
+inmunitario que afectan al tejido conectivo);
+- Si sufre o ha sufrido en el pasado enfermedad inflamatoria crónica del intestino (colitis ulcerosa, enfermedad
+de Crohn);
+- Si sufre o ha sufrido en el pasado trastornos estomacales o intestinales;
+-  Si  está  tomando  otros  medicamentos  que  aumentan  el  riesgo  de  úlcera  péptica  o  sangrado,  por  ejemplo,
+corticosteroides  orales,  algunos  antidepresivos  (del  tipo  ISRR,  Inhibidores  Selectivos  de  la  Recaptación  de
+Serotonina),  agentes  que  previenen  la  formación  de  coágulos  como  el  ácido  acetilsalicílico  (aspirina)  o
+anticoagulantes tipo warfarina.
+
+Toma simultánea de otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente otros medicamentos, incluso
+los  adquiridos  sin  receta.  Hay  algunos  medicamentos  que  no  deben  tomarse  conjuntamente  y  otros
+medicamentos que pueden necesitar un cambio de dosis si se toman conjuntamente.
+Informe siempre a su médico, dentista o farmacéutico si, además de ALGICUR, está tomando alguno de los
+medicamentos siguientes:
+
+Asociaciones no recomendadas:
+- Ácido acetilsalicílico (aspirina), corticosteroides y otros antiinflamatorios;
+- Warfarina,, heparina y otros medicamentos utilizados para prevenir la formación de coágulos;
+- Litio, utilizado para tratar algunas alteraciones del estado de ánimo;
+- Metotrexato, utilizado para la artritis reumatoide y el cáncer;
+- Hidantoínas y fenitoína, utilizados para la epilepsia;
+- Sulfametoxazol, utilizado para las infecciones bacterianas;
+Asociaciones que requieren precaución:
+-  Inhibidores  de  la  ECA,  diuréticos,  betabloqueantes  y  antagonistas  de  la  angiotensina  II,  utilizados  para  el
+control de la tensión arterial elevada y trastornos cardiacos;
+- Pentoxifilina y oxpentifilina, utilizados para tratar úlceras venosas crónicas;
+- Zidovudina, utilizada para tratar infecciones virales;
+- Antibióticos aminoglucósidos, usados para el tratamiento de infecciones bacterianas
+- Clorpropamida y glibenclamida, utilizados para la diabetes;
+Asociaciones a tener en cuenta:
+- Quinolonas (por ejemplo, ciprofloxacina, levofloxacina) utilizados para infecciones bacterianas;
+-  Ciclosporina  o  tacrolimus,  utilizados  para  tratar  enfermedades  del  sistema  inmunitario  y  en  trasplantes  de
+órganos;
+- Estreptoquinasa y otros medicamentos trombolíticos y fibrinolíticos; es decir, medicamentos utilizados para
+deshacer coágulos;
+- Probenecid, utilizado para la gota;
+- Digoxina, utilizado en el tratamiento de la insuficiencia cardiaca crónica;
+- Mifepristona, utilizado como abortivo (para la interrupción del embarazo);
+- Antidepresivos del tipo Inhibidores Selectivos de la Recaptación de Serotonina (ISRSs);
+- Antiagregantes plaquetarios utilizados para reducir la agregación plaquetaria y la formación de coágulos.
+Si tiene cualquier duda sobre la toma de otros medicamentos con ALGICUR, consulte a su médico o farmacéu-
+tico.
+
+Toma conjunta de ALGICUR con alimentos y bebidas
+Tome los comprimidos con una cantidad de agua adecuada. Tome los comprimidos con comida, ya que esto
+ayuda a disminuir el riesgo de sufrir efectos adversos en el estómago o intestino. Sin embargo, en caso de dolor
+agudo, tome los comprimidos con el estómago vacío; es decir, por lo menos 30 minutos antes de las comidas,
+ya que esto facilita que el medicamento actúe un poco más rápidamente.
+
+Embarazo y lactancia
+No tome ALGICUR durante el embarazo ni durante la lactancia.
+Consulte a su médico o farmacéutico antes de utilizar cualquier medicamento.
+- informe a su médico si está embarazada o si está planificando quedarse embarazada, ya que ALGICUR puede
+no ser adecuado para usted.
+- no tome ALGICUR si está dando el pecho. Solicite consejo a su médico.
+
+Uso en niños y adolescentes
+No tome ALGICUR si es menor de 18 años.
+Efectos sobre la capacidad de conducción y uso de máquinas
+ALGICUR  puede  afectar  ligeramente  su  habilidad  para  conducir  y  para  usar  máquinas,dado  que  puede
+provocar somnolencia o vértigo como efectos adversos al tratamiento. Si nota estos efectos, no utilice máquinas
+ni conduzca hasta que estos síntomas desaparezcan. Solicite consejo a su médico.
+
+¿Cómo tomar ALGICUR?
+Siga  exactamente  las  instrucciones  de  administración  de  ALGICUR  indicadas  por  su  médico.  Consulte  a  su
+médico o farmacéutico si tiene dudas.
+La  dosis  de  ALGICUR  que  necesite  puede  variar,  dependiendo  del  tipo,  intensidad  y  duración  del  dolor.  Su
+médico le indicará cuántos comprimidos debe tomar al día y durante cuánto tiempo.
+
+5
+
+de  urgencias  de  su  hospital  más  cercano.  Por  favor,  recuerde  llevar  siempre  con  usted  el  estuche  de  la
+medicación o este prospecto.
+En caso de sobredosis, contacte inmediatamente con su médico o farmacéutico.
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o  comunicarse  con  los
+Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No
+lo recomiende a otras personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha
+que está en la Página Web de la ANMAT
+http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde
+0800-333-1234”
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 57.558
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+7
+
+E-2415-01 / D2737 / ACT.: 01/2015
+
+6
+
+8

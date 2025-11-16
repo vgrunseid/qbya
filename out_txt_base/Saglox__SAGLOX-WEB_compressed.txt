@@ -1,0 +1,940 @@
+SAGLOX® 10
+EMPAGLIFLOZINA 10 mg
+
+SAGLOX® 25
+EMPAGLIFLOZINA 25 mg
+
+Venta Bajo Receta
+
+COMPRIMIDOS
+RECUBIERTOS
+
+COMPRIMIDOS
+RECUBIERTOS
+
+    Industria Argentina
+
+FÓRMULAS
+SAGLOX 10
+Cada comprimido recubierto contiene:
+Empagliflozina 10,000 mg. Excipientes: lactosa monohidrato 50,500 mg, celulosa
+microcristalina 25,000 mg, croscarmelosa sódica 6,000 mg, hidroxipropilcelulosa
+1,500 mg, crospovidona 6,000 mg, dióxido de silicio coloidal 0,500 mg, estearato
+de magnesio 0,500 mg, opadry II blanco 2,940 mg (alcohol polivinílico parcialmente
+hidrolizado 1,1760 mg, dióxido de titanio 0,7350 mg, polietilenglicol 3000 0,5939
+mg, talco 0,4351 mg), óxido de hierro amarillo 0,060 mg.
+
+SAGLOX 25
+Cada comprimido recubierto contiene:
+Empagliflozina 25,000 mg. Excipientes: lactosa monohidrato 126,250 mg, celulosa
+microcristalina 62,500 mg, croscarmelosa sódica 15,000 mg, hidroxipropilcelulosa
+3,750 mg, crospovidona 15,000 mg, dióxido de silicio coloidal 1,250 mg, estearato
+de magnesio 1,250 mg, opadry II blanco 7,350 mg (alcohol polivinílico parcialmente
+hidrolizado 2,9400 mg, dióxido de titanio 1,8375 mg, polietilenglicol 3000 1,4847 mg,
+talco 1,0878 mg), óxido de hierro amarillo 0,150 mg.
+
+ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: Fármacos usados en la diabetes, Inhibidores del
+cotransportador de sodioglucosa de tipo 2 (SGLT2).
+Código ATC: A10BK03
+
+INDICACIONES
+Diabetes mellitus tipo 2
+SAGLOX está indicado en adultos y niños a partir de 10 años de edad para el
+tratamiento de la diabetes mellitus tipo 2 no suficientemente controlada asociado
+a dieta y ejercicio
+- en monoterapia cuando metformina no se considera apropiada debido a intoleran-
+
+cia.
+
+- añadido a otros medicamentos para el tratamiento de la diabetes.
+Insuficiencia cardíaca
+SAGLOX está indicado en adultos para el tratamiento de la insuficiencia cardíaca
+crónica sintomática.
+Enfermedad renal crónica
+Saglox está indicado en adultos para el tratamiento de la enfermedad renal crónica.
+
+ACCIÓN FARMACOLÓGICA
+Propiedades farmacodinámicas
+
+Mecanismo de acción
+Empagliflozina es un inhibidor competitivo reversible y selectivo altamente potente
+(IC50 de 1,3 nmol) del cotransportador de sodio-glucosa tipo 2 (SGLT2). Empagliflozi-
+na no inhibe otros transportadores de glucosa importantes para el transporte de
+glucosa a los tejidos periféricos y es 5 000 veces más selectivo para el SGLT2 que
+para el SGLT1, el transportador más importante responsable de la absorción de
+glucosa en el intestino. El SGLT2 se encuentra altamente expresado en el riñón,
+mientras que la expresión en otros tejidos es inexistente o muy baja. Es responsable,
+como transportador predominante, de la reabsorción de glucosa tras la filtración
+glomerular para devolverla a la circulación. En los pacientes con diabetes tipo 2 e
+hiperglucemia, se filtra y reabsorbe una mayor cantidad de glucosa.
+Empagliflozina mejora el control glucémico en pacientes con diabetes tipo 2 al
+reducir la reabsorción renal de glucosa. La cantidad de glucosa eliminada por
+el riñón mediante este mecanismo glucurético depende de la concentración de
+glucosa en sangre y de la TFG. La inhibición del SLGT2 en pacientes con diabetes
+tipo 2 e hiperglucemia conduce a un exceso de excreción de glucosa por la orina.
+Además, el inicio de la administración de empagliflozina aumenta la excreción de
+sodio, que da lugar a diuresis osmótica y a un volumen intravascular reducido.
+En pacientes con diabetes tipo 2, la excreción de glucosa por la orina aumentó inme-
+diatamente después de la primera dosis de empagliflozina y se mantuvo continua
+durante el intervalo de administración de 24 horas. El aumento en la eliminación de
+glucosa por la orina se mantuvo al final del periodo de tratamiento de 4 semanas, con
+un promedio de aproximadamente 78 g/día. El aumento en la eliminación de glucosa
+por la orina dio lugar a una reducción inmediata de los niveles de glucosa plasmática
+en pacientes con diabetes tipo 2.
+Empagliflozina mejora los niveles de glucosa en plasma, tanto en ayunas como
+posprandiales. El mecanismo de acción de empagliflozina es independiente de la
+función de las células beta y de la vía de la insulina, y esto contribuye a un bajo
+riesgo de hipoglucemia. Se observó una mejora de los marcadores indirectos de la
+función de las células beta, incluido el Modelo Homeostático β para la evaluación de
+la resistencia a la insulina (HOMA-β). Además, la excreción de glucosa por la orina
+desencadena una pérdida de calorías, que se asocia a una pérdida de grasa corporal
+y a una reducción de peso corporal. La glucosuria observada con empagliflozina se
+ve acompañada por una diuresis, que puede contribuir a la reducción sostenida y
+moderada de la presión arterial.
+Empagliflozina también reduce la reabsorción de sodio y aumenta la llegada de sodio
+al túbulo distal.
+Esto puede influir en diversas funciones fisiológicas tales como, pero no exclusiva-
+mente, las siguientes: aumento de la retroalimentación tubuloglomerular y reducción
+de la presión intraglomerular, reducción de la precarga y la poscarga cardíacas,
+disminución de la actividad simpática y reducción de la tensión parietal del ventrículo
+izquierdo manifestada por valores inferiores de NT-proBNP que pueden tener efectos
+beneficiosos sobre la remodelación cardíaca, las presiones de llenado y la función
+diastólica, así como sobre la preservación de la estructura y la función renales.
+Otros efectos tales como un aumento del hematocrito y una reducción del peso
+corporal y de la presión arterial también pueden contribuir a los efectos beneficiosos
+cardíacos y renales.
+
+FARMACOCINÉTICA
+
+Absorción
+La farmacocinética de empagliflozina se ha caracterizado extensivamente en
+voluntarios sanos y en pacientes con diabetes tipo 2. Tras la administración oral,
+empagliflozina se absorbió rápidamente, alcanzándose concentraciones plasmáticas
+máximas a una mediana de tmax de 1,5 horas después de la dosis. Después, las
+
+concentraciones plasmáticas disminuyeron de forma bifásica con una fase de
+distribución rápida y una fase terminal relativamente lenta. La AUC plasmática
+media en estado estacionario y la Cmax fueron de 1 870 nmol.h/l y 259 nmol/l con
+empagliflozina 10 mg y de 4 740 nmol.h/l y 687 nmol/l con empagliflozina 25 mg una
+vez al día. La exposición sistémica de empagliflozina aumentó de forma proporcional
+a la dosis. Los parámetros farmacocinéticos de dosis única y de estado estacionario
+de empagliflozina fueron similares, lo que sugiere una farmacocinética lineal respecto
+al tiempo. No hubo diferencias clínicamente relevantes en la farmacocinética de
+empagliflozina entre los voluntarios sanos y los pacientes con diabetes tipo 2.
+La administración de empagliflozina 25 mg después de la ingesta de una comida rica
+en grasas y alta en calorías dio lugar a una exposición ligeramente inferior; la AUC
+disminuyó en aproximadamente el 16% y la Cmax disminuyó en aproximadamente un
+37 % en comparación con las condiciones de ayunas. El efecto observado de los
+alimentos sobre la farmacocinética de empagliflozina no se consideró clínicamente
+relevante, por lo que empagliflozina puede administrarse con o sin alimentos.
+Distribución
+En base al análisis farmacocinético poblacional, se calculó que el volumen de
+distribución aparente en estado estacionario era de 73,8 litros. Después de la
+administración de una solución oral de [14C]-empagliflozina a voluntarios sanos,
+la distribución de los glóbulos rojos fue de aproximadamente un 37% y la unión a
+proteínas plasmáticas del 86%.
+Biotransformación
+No se detectaron metabolitos importantes de empagliflozina en el plasma humano
+y los metabolitos más abundantes fueron tres conjugados glucurónidos (2-, 3- y
+6-O glucurónido). La exposición sistémica de cada metabolito fue inferior al 10%
+del material total relacionado con el fármaco. Los estudios in vitro sugirieron que la
+principal vía metabólica de empagliflozina en humanos es la glucuronidación por las
+uridina 5'-difosfo-glucuronosiltransferasas UGT2B7, UGT1A3, UGT1A8 y UGT1A9.
+Eliminación
+En base al análisis farmacocinético poblacional, se calculó que la semivida de elimi-
+nación terminal aparente de empagliflozina era de 12,4 horas y que el aclaramiento
+oral aparente era de 10,6 l/hora.
+Las variabilidades interindividual y residual para el aclaramiento oral de empagliflozina
+fueron del 39,1% y del 35,8%, respectivamente. Con una pauta posológica de una vez
+al día, las concentraciones plasmáticas de empagliflozina en estado estacionario se
+alcanzaron en la quinta dosis.
+Acorde con la semivida, en el estado estacionario se observó una acumulación
+de hasta el 22% con respecto al AUC plasmática. Tras la administración de una
+solución oral de [14C]-empagliflozina a voluntarios sanos, aproximadamente el 96%
+de la radioactividad relacionada con el fármaco se eliminó por las heces (41%) o
+la orina (54%). La mayor parte de la radioactividad relacionada con el fármaco que
+se recuperó en las heces fue el fármaco original sin cambios y aproximadamente la
+mitad
+de la radioactividad relacionada con el fármaco excretado por la orina fue el fármaco
+original sin cambios.
+Poblaciones especiales
+Insuficiencia renal
+En pacientes con insuficiencia renal leve, moderada o grave (TFGe <30 - <90
+ml/min/1,73 m2) y pacientes con fallo renal/enfermedad renal terminal (ERT), el
+AUC de empagliflozina aumentó en aproximadamente el 18%, 20%, 66% y 48%
+respectivamente en comparación con los sujetos con una función renal normal. Los
+niveles plasmáticos máximos de empagliflozina fueron similares en los sujetos con
+insuficiencia renal moderada y fallo renal/ERT en comparación con los pacientes
+con una función renal normal. Los niveles plasmáticos máximos de empagliflozina
+fueron aproximadamente un 20% más altos en los sujetos con insuficiencia renal
+leve y grave en comparación con los sujetos con una función renal normal. El
+análisis farmacocinético poblacional demostró que el aclaramiento oral aparente de
+empagliflozina disminuía con un descenso en la TFGe, dando lugar a un aumento
+en la exposición al fármaco.
+Insuficiencia hepática
+En sujetos con insuficiencia hepática leve, moderada y grave según la clasificación
+Child-Pugh, el AUC de empagliflozina aumentó en aproximadamente el 23%, 47%,
+y 75% y la Cmax aumentó en el 4%, 23% y 48% respectivamente en comparación con
+los sujetos con función hepática normal.
+Índice de masa corporal
+El índice de masa corporal no tuvo ningún efecto clínicamente relevante sobre la
+farmacocinética de empagliflozina según un análisis farmacocinético poblacional. En
+este análisis, se estimó que el AUC era un 5,82%, 10,4% y 17,3% inferior en sujetos
+con un IMC de 30, 35 y 45 kg/m2 respectivamente, en comparación con sujetos con
+un índice de masa corporal de 25 kg/m2.
+Sexo
+El sexo no tuvo ningún efecto clínicamente relevante sobre la farmacocinética de
+empagliflozina según un análisis farmacocinético poblacional.
+Raza
+En el análisis farmacocinético poblacional, se estimó que el AUC era un 13,5% más
+alta en asiáticos con un índice de masa corporal de 25 kg/m2 en comparación con
+los no asiáticos con un índice de masa corporal de 25 kg/m2.
+Pacientes de edad avanzada
+La edad no tuvo ningún efecto clínicamente relevante sobre la farmacocinética de
+empagliflozina según un análisis farmacocinético poblacional.
+Población pediátrica
+Un estudio pediátrico de fase I examinó la farmacocinética y la farmacodinámica
+de empagliflozina (5 mg, 10 mg y 25 mg) en niños y adolescentes de ≥10 a <18
+años de edad con diabetes mellitus tipo 2. Las respuestas farmacocinéticas y
+farmacodinámicas observadas concordaban con las obtenidas en sujetos adultos.
+Un estudio pediátrico de fase III examinó la farmacocinética y la farmacodinámica
+(cambio de la HbA1c desde el momento inicial) de empagliflozina 10 mg con un
+posible aumento de dosis a 25 mg en niños y adolescentes de 10 a 17 años de
+edad con diabetes mellitus tipo 2. La relación exposición-respuesta observada fue
+en conjunto comparable en adultos y en niños y adolescentes. La administración
+oral de empagliflozina dio lugar a una exposición dentro del intervalo observado en
+pacientes adultos.
+La media geométrica de las concentraciones mínimas y la media geométrica de
+las concentraciones observadas 1,5 horas después de la administración en estado
+estacionario fueron de 26,6 nmol/l y 308 nmol/l con empagliflozina 10 mg una vez
+al día y de 67,0 nmol/l y 525 nmol/l con empagliflozina 25 mg una vez al día.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Diabetes mellitus tipo 2
+La dosis inicial recomendada es de 10 mg de empagliflozina una vez al día, tanto en
+monoterapia como en tratamiento adicional en combinación con otros medicamentos
+para el tratamiento de la diabetes. En los pacientes que toleran empagliflozina 10
+mg una vez al día que tengan una TFGe ≥60 ml/min/1,73 m2 y necesiten un control
+glucémico más estricto, la dosis se puede aumentar a 25 mg una vez al día. La dosis
+máxima diaria es de 25 mg.
+Insuficiencia cardíaca
+La dosis recomendada es 10 mg de empagliflozina una vez al día.
+Enfermedad renal crónica
+La dosis recomendada es 10 mg de empagliflozina una vez al día.
+
+1
+
+2
+
+Todas las indicaciones
+Cuando empagliflozina se utiliza en combinación con una sulfonilurea o con insulina,
+puede considerarse una dosis más baja de sulfonilurea o de insulina para reducir el
+riesgo de hipoglucemia.
+Si se olvida tomar una dosis, esta se debe tomar en cuanto se acuerde el paciente;
+sin embargo, no se debe tomar una dosis doble el mismo día.
+Poblaciones especiales
+Insuficiencia renal
+Debido a que la experiencia es limitada, no se recomienda iniciar el tratamiento con
+empagliflozina en pacientes con una TFGe < 20 ml/min/1,73 m2.
+En pacientes con una TFG < 60 ml/min/1,73 m2, la dosis diaria de empagliflozina es
+10 mg.
+En pacientes con diabetes mellitus tipo 2, la eficacia hipoglucemiante de empagliflozi-
+na es menor en pacientes con una TFGe < 45 ml/min/1,73 m2 y probablemente esté
+ausente en pacientes con una TFGe < 30 ml/min/1,73 m2. Por consiguiente, si la
+TFGe desciende por debajo de 45 ml/min/1,73 m2, se debe considerar un tratamiento
+hipoglucemiante adicional en caso necesario.
+Insuficiencia hepática
+No se precisa un ajuste de dosis en pacientes con insuficiencia hepática. La
+exposición a empagliflozina aumenta en pacientes con insuficiencia hepática grave.
+La experiencia terapéutica en pacientes con insuficiencia hepática grave es limitada
+y, por lo tanto, no se recomienda su uso en esta población.
+Pacientes de edad avanzada
+No se recomienda un ajuste de dosis en función de la edad. En pacientes de 75
+años de edad o mayores debe tenerse en cuenta que existe un mayor riesgo de
+hipovolemia.
+Población pediátrica
+La dosis inicial recomendada es 10 mg de empagliflozina una vez al día. En pacientes
+que toleren 10 mg de empagliflozina una vez al día y requieran un control glucémico
+adicional, la dosis se puede aumentar a 25 mg una vez al día (ver las secciones 5.1 y
+5.2). No se dispone de datos en niños con una TFGe <60 ml/min/1,73 m2 ni en niños
+menores de 10 años de edad.
+No se ha establecido la seguridad y eficacia de empagliflozina para el tratamiento
+de la insuficiencia cardíaca ni para el tratamiento de la enfermedad renal crónica en
+niños menores de 18 años de edad.
+No se dispone de datos.
+
+Forma de administración
+Los comprimidos pueden tomarse con o sin alimentos y deben tragarse enteros con
+agua.
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+
+ADVERTENCIAS Y PRECAUCIONES
+Generales
+Empagliflozina no se debe usar en pacientes con diabetes mellitus tipo 1.
+Cetoacidosis
+Se han notificado casos de cetoacidosis, incluidos casos potencialmente mortales
+y con desenlace mortal, en pacientes con diabetes mellitus tratados con inhibidores
+del SGLT2, incluida empagliflozina. En algunos de estos casos, la presentación del
+cuadro clínico fue atípico, con un ascenso moderado en los valores de glucosa en
+sangre, por debajo de 14 mmol/l (250 mg/dl). Se desconoce si la cetoacidosis puede
+ocurrir con mayor probabilidad con dosis mayores de empagliflozina. Aunque es
+menos probable que se produzcan casos de cetoacidosis en pacientes sin diabetes
+mellitus, también se han notificado casos en estos pacientes.
+El riesgo de cetoacidosis se debe considerar en caso de síntomas inespecíficos
+como náuseas, vómitos, anorexia, dolor abdominal, sed excesiva, dificultad para
+respirar, confusión, fatiga o somnolencia inusuales. Se debe evaluar a los pacientes
+de forma inmediata para detectar la cetoacidosis en caso que aparezcan estos
+síntomas, independientemente del nivel de glucosa en sangre.
+En pacientes en los que se sospeche o diagnostique cetoacidosis, el tratamiento con
+empagliflozina se debe suspender inmediatamente.
+Se debe interrumpir el tratamiento en pacientes que están hospitalizados por un
+procedimiento quirúrgico mayor o enfermedades agudas graves. Se recomienda
+controlar las cetonas en estos pacientes. Se prefiere la determinación de los niveles
+de cuerpos cetónicos en sangre a la determinación en orina. El tratamiento con
+empagliflozina se puede reanudar cuando los valores de cuerpos cetónicos sean
+normales y el estado del paciente se haya estabilizado.
+Antes de iniciar empagliflozina, se deben considerar los antecedentes del paciente
+que puedan predisponer a cetoacidosis.
+Los pacientes que pueden tener un riesgo mayor de cetoacidosis son aquellos
+pacientes con una baja reserva de células beta funcionales (p. ej., pacientes con
+diabetes tipo 2 con péptido C bajo o con diabetes autoinmune latente del adulto
+(LADA) o pacientes con antecedentes de pancreatitis), pacientes con trastornos
+que den lugar a una ingesta restringida de alimentos o a una deshidratación
+grave, pacientes cuyas dosis de insulina estén reducidas y pacientes con mayores
+necesidades de insulina debido a una enfermedad médica aguda, cirugía o abuso
+de alcohol. Los inhibidores del SGLT2 se deben usar con precaución en estos
+pacientes.
+No se recomienda reiniciar el tratamiento con un inhibidor del SGLT2 en pacientes
+con cetoacidosis previa mientras estaban en tratamiento con un inhibidor del SGLT2,
+a menos que se haya identificado y resuelto claramente otro factor desencadenante.
+Saglox no se debe utilizar en pacientes con diabetes tipo 1. Los datos de un
+programa de ensayos clínicos en pacientes con diabetes tipo 1 mostraron un
+aumento de la incidencia de cetoacidosis con una frecuencia frecuente en pacientes
+tratados con 10 mg y 25 mg de empagliflozina como tratamiento complementario de
+insulina en comparación con un placebo.
+
+Insuficiencia renal
+Debido a que la experiencia es limitada, no se recomienda iniciar el tratamiento con
+empagliflozina en pacientes con una TFGe < 20 ml/min/1,73 m2.
+En pacientes con una TFG < 60 ml/min/1,73 m2, la dosis diaria de empagliflozina es
+10 mg.
+La eficacia hipoglucemiante de empagliflozina depende de la función renal y es
+menor en pacientes con una TFGe < 45 ml/min/1,73 m2 y probablemente esté
+ausente en pacientes con una TFGe< 30 ml/min/1,73 m2.
+
+Monitorización de la función renal
+Se recomienda evaluar la función renal tal como se indica a continuación:
+- Antes de iniciar el tratamiento con empagliflozina y periódicamente durante el
+
+tratamiento, al menos una vez al año.
+
+- Antes de iniciar el tratamiento con cualquier medicamento concomitante que pueda
+
+tener un impacto negativo en la función renal.
+
+Riesgo de hipovolemia
+En base al modo de acción de los inhibidores del SGLT2, la diuresis osmótica
+que acompaña a la glucosuria puede provocar una disminución moderada de la
+presión arterial. Por lo tanto, se debe tener precaución en los pacientes para los
+que una caída de la presión arterial inducida por empagliflozina pudiera suponer un
+
+3
+
+riesgo, tales como pacientes con enfermedad cardiovascular conocida, pacientes
+en tratamiento antihipertensivo con antecedentes de hipotensión o pacientes de 75
+años de edad o mayores.
+En caso de enfermedades que puedan conducir a una pérdida de líquidos (por ejem-
+plo, una enfermedad gastrointestinal), se recomienda una estrecha monitorización de
+la volemia (por ejemplo, exploración física, medición de la presión arterial, pruebas
+de laboratorio, incluyendo el hematocrito) y de los electrolitos en el caso de pacientes
+que reciben empagliflozina. Se debe valorar la interrupción temporal del tratamiento
+con empagliflozina hasta que se corrija la pérdida de líquidos.
+
+Pacientes de edad avanzada
+El efecto de empagliflozina en la eliminación de glucosa por la orina se asocia a la
+diuresis osmótica, lo que podría afectar al estado de hidratación. Los pacientes de
+75 años de edad o mayores pueden presentar un mayor riesgo de hipovolemia. Un
+mayor número de estos pacientes tuvieron reacciones adversas relacionadas con
+la hipovolemia en comparación con los tratados con placebo. Por tanto, se debe
+prestar especial atención a la ingesta de líquidos en caso de que se administre
+de forma conjunta con medicamentos que puedan producir hipovolemia (p. ej.,
+diuréticos, inhibidores de la ECA).
+
+Infecciones complicadas del tracto urinario
+Se han notificado casos de infecciones complicadas del tracto urinario incluyendo
+pielonefritis y urosepsis en pacientes tratados con empagliflozina. En el caso
+de pacientes con infecciones complicadas del tracto urinario, debe valorarse la
+interrupción temporal del tratamiento con empagliflozina.
+
+Fascitis necrosante del perineo (gangrena de Fournier)
+Se han notificado casos de fascitis necrosante del perineo (también conocida
+como gangrena de Fournier) en pacientes de ambos sexos con diabetes mellitus
+tratados con inhibidores del SGLT2. Se trata de un acontecimiento raro pero grave
+y potencialmente mortal que requiere intervención quirúrgica urgente y tratamiento
+antibiótico.
+Se indicará a los pacientes que acudan al médico si presentan una combinación
+de síntomas como dolor, dolor a la palpación, eritema o inflamación en la región
+genital o perineal, con fiebre o malestar general. Tenga en cuenta que la infección
+urogenital o el absceso perineal pueden preceder a la fascitis necrosante. Si
+se sospecha gangrena de Fournier, se debe interrumpir Saglox e instaurar un
+tratamiento inmediato (incluidos antibióticos y desbridamiento quirúrgico).
+
+Amputaciones de miembros inferiores
+Se ha observado un incremento en los casos de amputación de miembros inferiores
+(principalmente de los dedos de los pies) en ensayos clínicos a largo plazo con otro
+inhibidor de SGLT2. Se desconoce si esto constituye un efecto de clase. Al igual que
+para todos los pacientes diabéticos, es importante aconsejar a los pacientes acerca
+del cuidado rutinario preventivo de los pies.
+
+Lesión hepática
+Se han notificado casos de lesión hepática con el uso de empagliflozina en ensayos
+clínicos. No se ha establecido una relación causal entre empagliflozina y la lesión
+hepática.
+
+Aumento del hematocrito
+Se ha observado un aumento del hematocrito con el tratamiento con empagliflozina.
+
+Enfermedad renal crónica
+Los pacientes con albuminuria pueden beneficiarse más del tratamiento con
+empagliflozina.
+
+Enfermedad infiltrativa o miocardiopatía de Takotsubo
+No se ha estudiado específicamente a pacientes con enfermedad infiltrativa o con
+miocardiopatía de Takotsubo. Por consiguiente, no se ha establecido la eficacia en
+estos pacientes.
+
+Análisis de orina
+Debido a su mecanismo de acción, los pacientes que están tomando Saglox
+presentarán un resultado positivo para la glucosa en la orina.
+
+Interferencia con la prueba del 1,5-anhidroglucitol (1,5-AG)
+No se recomienda la monitorización del control de la glucemia con la prueba del
+1,5-AG, ya que las mediciones de 1,5-AG no son fiables para valorar el control de
+la glucemia en pacientes que toman inhibidores del SGLT2. Se recomienda el uso
+de métodos alternativos para la monitorización del control de la glucemia.
+
+Lactosa
+Los comprimidos contienen lactosa. Los pacientes con intolerancia hereditaria
+a galactosa, deficiencia total de lactasa o problemas de absorción de glucosa o
+galactosa no deben tomar este medicamento.
+
+Sodio
+Cada comprimido contiene menos de 1 mmol de sodio (23 mg); esto es, esencial-
+mente “exento de sodio”
+
+Interacciones medicamentosas y otras formas de interacción
+
+Interacciones farmacodinámicas
+Diuréticos
+Empagliflozina puede aumentar el efecto diurético de las tiazidas y de los diuréticos
+del asa y puede aumentar el riesgo de deshidratación e hipotensión.
+Insulina y secretagogos de insulina
+La insulina y los secretagogos de insulina, como las sulfonilureas, pueden aumentar
+el riesgo de hipoglucemia. Por lo tanto, puede necesitarse una dosis más baja de
+insulina o de un secretagogo de insulina para disminuir el riesgo de hipoglucemia
+cuando éstos se usan en combinación con empagliflozina.
+
+Interacciones farmacocinéticas
+Efectos de otros medicamentos sobre empagliflozina
+Los datos in vitro sugieren que la principal vía metabólica de empagliflozina en
+humanos es la glucuronidación por las uridina 5'-difosfoglucuronosiltransferasas
+UGT1A3, UGT1A8, UGT1A9 y UGT2B7. Empagliflozina es un sustrato de los
+transportadores de captación humanos OAT3, OATP1B1, y OATP1B3, pero no
+de OAT1 y OCT2. Empagliflozina es un sustrato de la glicoproteínaP (gp-P) y la
+proteína de resistencia al cáncer de mama (BCRP).
+La administración conjunta de empagliflozina con probenecid, un inhibidor de las
+enzimas UGT y del OAT3, dio lugar a un aumento del 26% en las concentraciones
+plasmáticas máximas (Cmax) de empagliflozina y a un aumento del 53% en el área
+bajo la curva concentración-tiempo (AUC). Estos cambios no se consideraron
+clínicamente significativos.
+No se ha estudiado el efecto de la inducción de la UGT (p. ej., inducción por
+rifampicina o por fenitoína) sobre empagliflozina. No se recomienda el tratamiento
+concomitante con inductores de las enzimas UGT debido al riesgo potencial de que
+
+4
+
+disminuya la eficacia. Si se debe administrar de forma concomitante un inductor de
+estas enzimas UGT, se recomienda vigilar el control de la glucemia para determinar
+que la respuesta a Saglox es adecuada.
+Un estudio de interacción con gemfibrozilo, un inhibidor in vitro de los transportado-
+res OAT3 y OATP1B1/1B3, mostró que la Cmax de empagliflozina aumentaba en un
+15% y el AUC aumentaba en un 59% después de la administración conjunta. Estos
+cambios no se consideraron clínicamente significativos.
+La inhibición de los transportadores OATP1B1/1B3 mediante la administración
+conjunta de rifampicina dio lugar a un aumento del 75% en la Cmax y un aumento del
+35% en el AUC de empagliflozina. Estos cambios no se consideraron clínicamente
+significativos.
+La exposición a empagliflozina fue similar con y sin la administración conjunta de
+verapamilo, un inhibidor de la gp-P, lo que indica que la inhibición de la gp-P no
+tiene un efecto clínicamente relevante sobre empagliflozina.
+Los estudios de interacciones sugieren que la farmacocinética de empagliflozina no
+se vio influida por la administración conjunta de metformina, glimepirida, pioglitazona,
+sitagliptina, linagliptina, warfarina, verapamilo, ramipril, simvastatina, torasemida e
+hidroclorotiazida.
+
+Enfermedad renal crónica
+El estudio EMPA-KIDNEY incluyó a pacientes con enfermedad renal crónica (N = 6
+609) tratados con 10 mg de empagliflozina o con un placebo. Aproximadamente el
+44% de los pacientes tenía diabetes mellitus tipo 2. Los acontecimientos adversos
+más frecuentes en el estudio EMPA-KIDNEY fueron gota (7,0% con empagliflozina
+frente a 8,0% con placebo) y fracaso renal agudo (2,8% con empagliflozina frente a
+3,5% con placebo), que se notificaron con mayor frecuencia en los pacientes tratados
+con el placebo.
+El perfil de seguridad global de empagliflozina fue generalmente homogéneo en las
+indicaciones estudiadas.
+Tabla de reacciones adversas
+En la tabla siguiente (Tabla 1) se presentan las reacciones adversas notificadas en
+pacientes que recibieron empagliflozina en estudios controlados con placebo, según
+la clasificación por órganos y sistemas y los términos preferentes de MedDRA.
+Las reacciones adversas se incluyen según la frecuencia absoluta. Las frecuencias se
+definen como muy frecuentes (≥1/10), frecuentes (≥1/100 a <1/10), poco frecuentes
+(≥1/1 000 a <1/100), raras (≥1/10 000 a <1/1 000), muy raras (<1/10 000) y frecuen-
+cia no conocida (no puede estimarse a partir de los datos disponibles).
+
+Efectos de empagliflozina sobre otros medicamentos
+Empagliflozina puede aumentar la excreción renal de litio y reducir así los niveles
+sanguíneos de litio.
+Se debe monitorizar la concentración sérica de litio con mayor frecuencia después del
+inicio del tratamiento y de los cambios de dosis de empagliflozina. Derive al paciente
+al médico que le prescribió litio para que le monitorice la concentración sérica de litio.
+En base a los estudios in vitro, empagliflozina no inhibe, inactiva ni induce las
+isoformas del CYP450.
+Empagliflozina no inhibe la UGT1A1, la UGT1A3, la UGT1A8, la UGT1A9 ni la UGT2B7.
+Por lo tanto, se considera improbable que se produzcan interacciones farmacológicas
+que impliquen a las principales isoformas del CYP450 y de la UGT con empagliflozina
+y a los sustratos de estas enzimas administrados de forma conjunta.
+Empagliflozina no inhibe la gp-P a dosis terapéuticas. En base a los estudios in vitro,
+se considera improbable que empagliflozina provoque interacciones con principios
+activos que sean sustratos de la gp-P. La administración conjunta de digoxina, un
+sustrato de la gp-P, con empagliflozina dio lugar a un aumento del 6% en el AUC y
+un aumento del 14% en la Cmax de la digoxina. Estos cambios no se consideraron
+clínicamente significativos.
+Empagliflozina no inhibe in vitro a los transportadores de captación humanos, tales
+como OAT3, OATP1B1 y OATP1B3 a concentraciones plasmáticas clínicamente
+relevantes y, como tales, las interacciones farmacológicas con sustratos de estos
+transportadores de captación se consideran improbables.
+Los estudios de interacciones realizados en voluntarios sanos sugieren que empagli-
+flozina no tuvo ningún efecto clínicamente relevante sobre la farmacocinética de
+metformina, glimepirida, pioglitazona, sitagliptina, linagliptina, simvastatina, warfarina,
+ramipril, digoxina, diuréticos y anticonceptivos orales.
+
+Población pediátrica
+Los estudios de interacciones se han realizado solo en adultos.
+
+Fertilidad, embarazo y lactancia
+
+Embarazo
+No hay datos sobre el uso de empagliflozina en mujeres embarazadas. Los estudios
+realizados en animales muestran que empagliflozina atraviesa la placenta durante
+la última fase de la gestación en un grado muy limitado, pero no indican efectos
+perjudiciales directos ni indirectos en lo que respecta al desarrollo embrionario
+temprano. No obstante, los estudios realizados en animales han mostrado efectos
+adversos en el desarrollo posnatal. Como medida de precaución, es preferible
+evitar el uso de Saglox durante el embarazo.
+
+Lactancia
+No se dispone de datos en humanos sobre la excreción de empagliflozina en la
+leche materna. Los datos toxicológicos disponibles en animales han mostrado que
+empagliflozina se excreta en la leche.
+No se puede excluir el riesgo para los recién nacidos o los lactantes. SAGLOX no
+debe utilizarse durante la lactancia.
+
+Fertilidad
+No se han realizado estudios sobre el efecto de SAGLOX en la fertilidad humana.
+Los estudios realizados en animales no sugieren efectos perjudiciales directos o
+indirectos sobre la fertilidad.
+
+Uso en Pediatría
+SAGLOX se puede utilizar en niños de 10 años de edad o mayores para el tratamiento
+de la diabetes tipo 2. No se dispone de datos en niños menores de 10 años de edad.
+SAGLOX no está recomendado en niños y adolescentes menores de 18 años de
+edad para el tratamiento de la insuficiencia cardíaca o para el tratamiento de la
+enfermedad renal crónica debido a que no se ha estudiado en estos pacientes.
+
+Efectos sobre la capacidad para conducir vehículos y operar maquinaria
+La influencia de Saglox sobre la capacidad para conducir y utilizar máquinas es
+pequeña. Se debe advertir a los pacientes que tomen las debidas precauciones
+para evitar una hipoglucemia mientras conducen y utilizan máquinas, sobre todo
+cuando Saglox se use en combinación con una sulfonilurea y/o con insulina.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+
+Diabetes mellitus tipo 2
+Se incluyeron un total de 15 582 pacientes con diabetes tipo 2 en ensayos clínicos
+para evaluar la seguridad de empagliflozina, de los cuales, 10 004 pacientes recibi-
+eron empagliflozina , ya sea como monoterapia o en combinación con metformina,
+una sulfonilurea, pioglitazona, inhibidores de la DPP-4 o insulina.
+En 6 ensayos controlados con placebo de 18 a 24 semanas de duración, se
+incluyeron 3 534 pacientes, de los cuales, 1 183 se trataron con placebo y 2 351
+con empagliflozina. La incidencia global de reacciones adversas en pacientes
+tratados con empagliflozina fue similar a la de los tratados con placebo. La
+reacción adversa notificada con más frecuencia fue la hipoglucemia cuando se usó
+con una sulfonilurea o con insulina (ver la descripción de las reacciones adversas
+seleccionadas).
+
+Insuficiencia cardíaca
+Los estudios EMPEROR incluyeron a pacientes con insuficiencia cardíaca y fracción
+de eyección reducida (N = 3 726) o fracción de eyección preservada (N = 5 985)
+tratados con 10 mg de empagliflozina o con un placebo. Aproximadamente la mitad
+de los pacientes tenía diabetes mellitus tipo 2. La reacción adversa más frecuente de
+los estudios EMPEROR-Reduced y EMPEROR-Preserved agrupados fue hipovolemia
+(empagliflozina 10 mg: 11,4%; placebo: 9,7%).
+
+Tabla 1: Tabla de reacciones adversas (MedDRA) procedentes de los ensayos
+controlados con placebo y de la experiencia poscomercialización.
+
+Muy
+frecuentes
+
+Frecuentes
+
+Poco
+frecuentes
+
+Raras
+
+Muy raras
+
+Clasificación
+por Órganos y
+Sistemas
+Infecciones e
+infestaciones
+
+Fascitis
+necrosante
+del perineo
+(gangrena
+de
+Fournier)*
+
+Moniliasis
+vaginal,
+vulvovaginitis,
+balanitis y
+otras
+infecciones
+genitalesa.
+Infección del
+tracto urinario
+incluyendo
+pielonefritis
+y urosepsis)a
+Sed
+
+Cetoacidosis*
+
+Estreñimiento
+
+Prurito
+(generalizado)
+Exantema
+
+Urticaria
+Angioedema
+
+Aumento de la
+miccióna
+
+Disuria
+
+Nefritis
+tubulointersticial
+
+Aumento de
+los lípidos en
+sueroa
+
+Aumento de la
+creatinina en
+sangre/disminu-
+ción de la tasa
+de filtración
+glomerulara
+Aumento del
+hematocritoa
+
+Hipoglucemia
+(cuando se
+usa con una
+sulfonilurea o
+con insulina)a
+
+Hipovolemiaa
+
+Trastornos del
+metabolismo y
+de la nutrición
+
+Trastornos
+gastrointestinales
+Trastornos de la
+piel y del tejido
+subcutáneo
+Trastornos
+vasculares
+Trastornos
+renales y
+urinarios
+Exploraciones
+complementarias
+
+a ver las subsecciones siguientes para obtener información adicional
+* ver advertencias y precauciones
+
+Descripción de reacciones adversas seleccionadas
+Hipoglucemia
+La frecuencia de hipoglucemia dependió del tratamiento de base utilizado en los
+estudios y fue similar para empagliflozina y placebo en monoterapia, tratamiento de
+adición a metformina, tratamiento de adición a pioglitazona con o sin metformina,
+como tratamiento de adición a linagliptina y metformina y como asociado al
+tratamiento de referencia para la combinación de empagliflozina con metformina
+en pacientes sin tratamiento previo en comparación con aquellos tratados con em-
+pagliflozina y metformina como componentes individuales. Se observó un aumento
+de la frecuencia cuando se administró como tratamiento de adición a metformina
+y una sulfonilurea (empagliflozina 10 mg: 16,1%, empagliflozina 25 mg: 11,5%,
+placebo: 8,4%), como tratamiento de adición a insulina basal con o sin metformina
+y con o sin sulfonilurea (empagliflozina 10 mg: 19,5%, empagliflozina 25 mg: 28,4%,
+placebo: 20,6% durante las 18 primeras semanas de tratamiento cuando insulina no
+pudo ajustarse; empagliflozina 10 mg y 25 mg: 36,1%, placebo 35,3% a lo largo del
+ensayo de 78 semanas), y como tratamiento de adición a insulina en inyecciones
+diarias múltiples con o sin metformina (empagliflozina 10 mg; 39,8%, empagliflozina
+25 mg: 41,3%, placebo: 37,2% durante el tratamiento inicial de 18 semanas cuando
+no se pudo ajustar insulina; empagliflozina 10 mg: 51,1%, empagliflozina 25 mg:
+57,7%, placebo: 58% durante el ensayo de 52 semanas).
+En los estudios de insuficiencia cardíaca EMPEROR, se observó una frecuencia
+similar de hipoglucemia cuando se utilizó como tratamiento de adición a una
+sulfonilurea o a insulina (empagliflozina 10 mg: 6,5%; placebo: 6,7%).
+
+Hipoglucemia grave (acontecimientos que requieran asistencia)
+No se observó ningún aumento en la hipoglucemia grave con el uso de empagliflozi-
+na en comparación con el placebo en monoterapia, tratamiento de adición a
+metformina, tratamiento de adición a metformina y una sulfonilurea, tratamiento de
+adición a pioglitazona con o sin metformina, tratamiento de adición a linagliptina y
+metformina, asociado al tratamiento de referencia y para la combinación de empagli-
+flozina con metformina en pacientes sin tratamiento previo en comparación con
+aquellos tratados con empagliflozina y metformina como componentes individuales.
+Se observó un aumento de la frecuencia cuando se administró como tratamiento
+de adición a insulina basal con o sin metformina y con o sin una sulfonilurea
+(empagliflozina 10 mg: 0%, empagliflozina 25 mg: 1,3%, placebo: 0% durante las 18
+primeras semanas de tratamiento cuando insulina no pudo ajustarse; empagliflozina
+10 mg: 0%, empagliflozina 25 mg: 1,3%, placebo 0% a lo largo del ensayo de 78
+semanas) y tratamiento de adición a insulina en inyecciones diarias múltiples con o
+sin metformina (empagliflozina 10 mg: 0,5%, empagliflozina 25 mg: 0,5%, placebo:
+0,5% durante el tratamiento inicial de 18 semanas cuando no se pudo ajustar
+insulina; empagliflozina 10 mg: 1,6%, empagliflozina 25 mg: 0,5%, placebo: 1,6%
+durante el ensayo de 52 semanas).
+En los estudios de insuficiencia cardíaca EMPEROR, se observó hipoglucemia
+grave con frecuencias similares en los pacientes con diabetes mellitus tratados con
+empagliflozina y con placebo como tratamiento de adición a una sulfonilurea o a
+insulina (empagliflozina 10 mg: 2,2%; placebo: 1,9%).
+
+Moniliasis vaginal, vulvovaginitis, balanitis y otras infecciones genitales
+La moniliasis vaginal, la vulvovaginitis, la balanitis y otras infecciones genitales
+se notificaron con más frecuencia en los pacientes tratados con empagliflozina
+(empagliflozina 10 mg: 4,0%, empagliflozina 25 mg: 3,9%) en comparación con
+placebo (1,0%). Estas infecciones se notificaron con más frecuencia en mujeres
+
+5
+
+6
+
+tratadas con empagliflozina en comparación con placebo, y la diferencia en cuanto
+a frecuencia fue menos pronunciada en el caso de los hombres. Las infecciones
+del tracto genital fueron de intensidad leve a moderada.
+En los estudios de insuficiencia cardíaca EMPEROR, la frecuencia de estas
+infecciones fue más pronunciada en los pacientes con diabetes mellitus (empagli-
+flozina 10 mg: 2,3%; placebo: 0,8%) que en los pacientes sin diabetes mellitus
+(empagliflozina 10 mg: 1,7%; placebo: 0,7%) cuando recibieron tratamiento con
+empagliflozina en comparación con el placebo.
+
+Aumento de la micción
+El aumento de la micción (incluyendo los términos predefinidos polaquiuria,
+poliuria y nocturia) se observó con mayor frecuencia en los pacientes tratados
+con empagliflozina (empagliflozina 10 mg: 3,5%, empagliflozina 25 mg: 3,3%) en
+comparación con placebo (1,4%). El aumento de la micción fue principalmente de
+intensidad leve a moderada. La frecuencia notificada de nocturia fue similar para
+placebo y para empagliflozina (<1%).
+En los estudios de insuficiencia cardíaca EMPEROR, se observó un aumento de la
+micción con frecuencias similares en los pacientes tratados con empagliflozina y
+con placebo (empagliflozina 10 mg: 0,9%; placebo 0,5%).
+
+Infecciones del tracto urinario
+La frecuencia global de infecciones del tracto urinario notificadas como reacciones
+adversas fue similar en los pacientes tratados con empagliflozina 25 mg y con
+placebo (7,0% y 7,2%) y mayor con empagliflozina 10 mg (8,8%). De manera similar
+al placebo, las infecciones del tracto urinario se notificaron con más frecuencia para
+empagliflozina en pacientes con antecedentes de infecciones crónicas o recurrentes
+del tracto urinario. La intensidad (leve, moderada, grave) de las infecciones del
+tracto urinario fue similar en pacientes tratados con empagliflozina y con placebo.
+Las infecciones del tracto urinario se notificaron con más frecuencia en las mujeres
+tratadas con empagliflozina en comparación con placebo; no hubo diferencia en el
+caso de los hombres.
+
+Hipovolemia
+La frecuencia global de hipovolemia (incluyendo los términos predefinidos
+disminución (ambulatoria) de la presión arterial, disminución de la presión arterial
+sistólica, deshidratación, hipotensión, hipovolemia, hipotensión ortostática y
+síncope) fue similar en los pacientes tratados con empagliflozina (empagliflozina
+10 mg: 0,6%, empagliflozina 25 mg: 0,4%) y con placebo (0,3%).
+La frecuencia de acontecimientos de hipovolemia fue mayor en los pacientes de 75
+años de edad o mayores, tratados con empagliflozina 10 mg (2,3%) o empagliflozina
+25 mg (4,3%) en comparación con placebo (2,1%).
+
+Aumento de la creatinina en sangre/Disminución de la tasa de filtración glomerular
+La frecuencia general de pacientes con aumento de la creatinina en sangre y
+disminución de la tasa de filtración glomerular fue similar entre empaglifozina
+y placebo (aumento de la creatinina en sangre: empagliflozina 10 mg 0,6%,
+empagliflozina 25 mg 0,1%, placebo 0,5%; disminución de tasa de la filtración
+glomerular: empagliflozina 10 mg 0,1%, empagliflozina 25 mg 0%, placebo 0,3%).
+Por lo general, los aumentos iniciales en la creatinina y las disminuciones iniciales en
+la tasa de filtración glomerular estimada en los pacientes tratados con empaglifozina
+fueron transitorios durante el tratamiento continuo o reversibles tras la suspensión del
+tratamiento con el medicamento.
+De manera uniforme, en el ensayo EMPA-REG OUTCOME, los pacientes tratados con
+empagliflozina experimentaron un descenso inicial de la TFGe (media: 3 ml/min/1,73
+m2).
+Posteriormente, la TFGe se mantuvo durante la continuación del tratamiento. La TFGe
+media recuperó el nivel basal tras la suspensión del tratamiento, lo cual indica que en
+estos cambios de la función renal podrían estar implicados cambios hemodinámicos
+agudos. Este fenómeno también se observó en los estudios de insuficiencia cardíaca
+EMPEROR y en el estudio EMPA-KIDNEY.
+
+Aumento de los lípidos séricos
+Los aumentos porcentuales medios con respecto al valor inicial para empagliflozina
+10 mg y 25 mg en comparación con placebo, respectivamente, fueron: colesterol
+total, 4,9% y 5,7% frente a 3,5%; colesterol-HDL, 3,3% y 3,6% frente a 0,4%; colester-
+ol-LDL, 9,5% y 10,0 % frente a 7,5%; triglicéridos, 9,2% y 9,9% frente a 10,5%.
+
+Aumento del hematocrito
+Los cambios medios del hematocrito con respecto al valor inicial fueron del 3,4%
+y 3,6% para empagliflozina 10 mg y 25 mg, respectivamente, en comparación con
+el 0,1% para el placebo. En el estudio EMPA-REG Outcome, el hematocrito retornó
+hacia los valores iniciales después de un periodo de seguimiento de 30 días tras la
+interrupción del tratamiento.
+
+Empagliflozina no es genotóxica.
+En un estudio de carcinogenicidad de 2 años de duración, empagliflozina no
+aumentó la incidencia de tumores en ratas hembra hasta la dosis máxima de
+700 mg/kg/día, lo que corresponde a aproximadamente 72 veces la exposición
+clínica máxima del AUC a empagliflozina. En las ratas macho, a las dosis más
+altas se observaron lesiones proliferativas vasculares benignas relacionadas con
+el tratamiento (hemangiomas) del ganglio linfático mesentérico, pero no a la dosis
+de 300 mg/kg/día, lo que corresponde a aproximadamente 26 veces la exposición
+clínica máxima a empagliflozina. Se observaron tumores celulares intersticiales en
+los testículos con una mayor incidencia en ratas a 300 mg/kg/día o más, pero no
+a 100 mg/kg/día, lo que corresponde a aproximadamente 18 veces la exposición
+clínica máxima a empagliflozina. Ambos tumores son frecuentes en ratas, pero es
+improbable que sean relevantes en los humanos.
+Empagliflozina no aumentó la incidencia de tumores en ratones hembra a dosis
+de hasta 1 000 mg/kg/día, lo que corresponde a aproximadamente 62 veces la
+exposición clínica máxima a empagliflozina. Empagliflozina indujo tumores renales
+en ratones macho a dosis de 1 000 mg/kg/día, pero no a la dosis de 300 mg/kg/día,
+lo que corresponde a aproximadamente 11 veces la exposición clínica máxima a
+empagliflozina. El modo de acción de estos tumores depende de la predisposición
+natural del ratón macho a presentar una patología renal y una vía metabólica que
+no refleja la de los humanos. Los tumores renales de los ratones macho no se
+consideran relevantes para los humanos.
+A exposiciones suficientemente superiores a la exposición en humanos después
+de dosis terapéuticas, empagliflozina no tuvo efectos adversos sobre la fertilidad o
+el desarrollo embrionario temprano. La administración de empagliflozina durante el
+periodo de organogénesis no fue teratogénica. Solo a dosis tóxicas para la madre,
+empagliflozina también provocó que los huesos de las extremidades de la rata se
+doblasen, así como un aumento de la muerte embriofetal en el conejo.
+En estudios de la toxicidad prenatal y posnatal en ratas, se observó una reducción
+en el aumento de peso de la descendencia a exposiciones maternas de aproximada-
+mente 4 veces la exposición clínica máxima a empagliflozina. Dicho efecto no se
+observó a la exposición sistémica igual a la máxima exposición clínica a empagliflozi-
+na. La relevancia de este hallazgo para los humanos no está clara.
+En un estudio de toxicidad juvenil en ratas, cuando se administró empagliflozina
+desde el día 21 posnatal hasta el día 90 posnatal, se observó una dilatación pélvica
+y de los túbulos renales, no adversa y de mínima a leve, en ratas jóvenes solo a 100
+mg/kg/día, lo que se aproxima a 11 veces la dosis clínica máxima de 25 mg. Estos
+hallazgos no estaban presentes tras un periodo de recuperación de 13 semanas sin
+fármaco.
+
+SOBREDOSIFICACIÓN
+Síntomas
+En ensayos clínicos controlados, dosis únicas de hasta 800 mg de empagliflozina
+en voluntarios sanos y dosis múltiples diarias de hasta 100 mg de empagliflozina
+en pacientes con diabetes tipo 2 no mostraron toxicidad. Empagliflozina aumentó
+la excreción de glucosa por la orina, lo que provocó un aumento en el volumen de
+orina. El aumento observado en el volumen de orina no fue dependiente de la dosis
+y no es clínicamente significativo. No hay experiencia con dosis superiores a 800
+mg en humanos.
+
+Tratamiento
+En caso de sobredosis, debe iniciarse un tratamiento adecuado al estado clínico del
+paciente. No se ha estudiado la eliminación de empagliflozina mediante hemodiálisis.
+
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o
+comunicarse con los Centros de Toxicología.
+
+- Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+- Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+- Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Esta especialidad medicinal está libre de gluten.
+
+PRESENTACIÓN
+Envases con 30 comprimidos recubiertos.
+
+Fecha de última revisión: mayo de 2024.
+
+FORMA DE CONSERVACIÓN
+- Conservar en lugar seco, desde 15 °C hasta 25 °C.
+- Mantener alejado del alcance de los niños.
+
+Población pediátrica
+En el ensayo DINAMO se trataron 157 niños de 10 años de edad o mayores con
+diabetes tipo 2, de los cuales 52 pacientes recibieron empagliflozina, 52 recibieron
+linagliptina y 53 recibieron placebo.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+Especialidad Medicinal autorizada por el Ministerio de Salud de la Nación.
+Certificado N° 60.144
+
+Durante la fase controlada con placebo, la reacción adversa más frecuente fue
+la hipoglucemia, con tasas globales más altas en los pacientes tratados con
+empagliflozina agrupados que en los tratados con placebo (empagliflozina 10 mg
+y 25 mg, datos agrupados: 23,1%; placebo: 9,4%). Ninguna de estas reacciones
+fue grave ni precisó asistencia.
+En general, el perfil de seguridad en niños fue similar al perfil de seguridad observado
+en adultos con diabetes mellitus tipo 2.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar sospechas de reacciones adversas al medicamento tras su
+autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo
+del medicamento.
+
+Datos preclínicos sobre seguridad
+Los datos de los estudios preclínicos no muestran riesgos especiales para los
+seres humanos según los estudios convencionales de farmacología de seguridad,
+genotoxicidad, fertilidad y desarrollo embrionario temprano.
+En estudios de toxicidad a largo plazo con roedores y perros, se observaron
+signos de toxicidad a exposiciones iguales o superiores a 10 veces la dosis clínica
+de empagliflozina. La mayor parte de las toxicidades fueron compatibles con
+la farmacología secundaria relacionada con pérdida de glucosa por la orina y
+desequilibrios electrolíticos, incluida la disminución del peso y la grasa corporales,
+aumento del consumo de alimentos, diarrea, deshidratación, disminución de los
+niveles de glucosa sérica y aumentos en otros parámetros séricos que reflejan el
+aumento del metabolismo de las proteínas y la gluconeogénesis, cambios urinarios
+como la poliuria y la glucosuria y cambios microscópicos, incluida la mineralización
+en el riñón y en algunos tejidos blandos y vasculares. Las evidencias microscópicas
+de los efectos de una farmacología exagerada en el riñón que se observaron en
+algunas especies incluyeron dilatación tubular y mineralización tubular y pélvica a
+aproximadamente 4 veces la exposición del AUC clínica de empagliflozina asociada
+a la dosis de 25 mg.
+
+7
+
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires, Argentina
+
+E-6769-01 / D7109 / Act.: 04/2024
+
+8

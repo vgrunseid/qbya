@@ -1,0 +1,2086 @@
+ARKUS®
+CABOZANTINIB 20 - 40 - 60 mg
+
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de ARKUS® 20 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 25,34 mg) ............. 20 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ......................................... 30,88 mg
+Lactosa monohidrato ............................................................... 15,54 mg
+Croscaramelosa sódica ................................................................ 4,8 mg
+Hidroxipropilcelulosa (EXF) ......................................................... 2,4 mg
+Dióxido de silicio coloidal .......................................................... 0,24 mg
+Estearato de magnesio vegetal ................................................... 0,8 mg
+Laca alumínica de azul de indigotina (CI 73015) ..................... 0,001 mg
+Laca alumínica de amarillo de quinoleína (CI 47005) ............... 0,02 mg
+Hidroxipropilmetilcelulosa1) .................................................... 1,877 mg
+Triacetina1) ............................................................................... 0,387 mg
+Dióxido de titanio1) ................................................................... 0,715 mg
+1) Componentes que corresponden a 2,979 mg de Aquarius prime BAT218006 White.
+
+Cada comprimido recubierto de ARKUS® 40 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 50,68 mg) ............. 40 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ......................................... 61,76 mg
+Lactosa monohidrato ............................................................... 31,08 mg
+Croscaramelosa sódica ................................................................ 9,6 mg
+Hidroxipropilcelulosa (EXF) ......................................................... 4,8 mg
+Dióxido de silicio coloidal .......................................................... 0,48 mg
+Estearato de magnesio vegetal ................................................... 1,6 mg
+Óxido de hierro negro (CI N°77499) ....................................... 0,043 mg
+Hidroxipropilmetilcelulosa1) .................................................... 3,753 mg
+Triacetina1) ................................................................................ 0,774 mg
+Dióxido de titanio1) .................................................................. 1,430 mg
+1) Componentes que corresponden a 5,957 mg de Aquarius prime BAT218006 White.
+
+Cada comprimido recubierto de ARKUS® 60 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 76,02 mg) ............. 60 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ......................................... 92,64 mg
+Lactosa monohidrato .............................................................. 46,62 mg
+Croscaramelosa sódica .............................................................. 14,4 mg
+Hidroxipropilcelulosa (EXF) ......................................................... 7,2 mg
+Dióxido de silicio coloidal .......................................................... 0,72 mg
+Estearato de magnesio vegetal .................................................... 2,4 mg
+Óxido de hierro amarillo (CI No77492) ..................................... 0,165 mg
+Hidroxipropilmetilcelulosa1) .................................................... 5,566mg
+Triacetina1) ................................................................................ 1,149 mg
+Dióxido de titanio1) ................................................................... 2,120 mg
+1) Componentes que corresponden a 8,835 mg de Aquarius prime BAT218006 White.
+
+ACCIÓN TERAPÉUTICA
+
+Agente antineoplásico, inhibidor directo de la proteína-kinasa.
+
+Código ATC: L01XE26.
+
+INDICACIONES
+
+Carcinoma de células renales (CCR)
+ARKUS®  está  indicado  para  el  tratamiento  del  carcinoma  de  células
+renales (CCR) avanzado en adultos.
+ARKUS®  en  combinación  con  nivolumab,  está  indicado  para  el  trata-
+miento de primera línea de pacientes con CCR avanzado.
+
+Carcinoma hepatocelular (CHC)
+ARKUS® está indicado como monoterapia para el tratamiento del car-
+cinoma hepatocelular (CHC) en adultos que han sido tratados previa-
+mente con sorafenib.
+
+Carcinoma diferenciado de tiroides (CDT)
+ARKUS® está indicado para el tratamiento de pacientes adultos y pediá-
+tricos de 12 y más años de edad con carcinoma diferenciado de tiroides
+(CDT) localmente avanzado o metastásico que progresó después de un
+tratamiento anterior dirigido al VEGFR y que son refractarios al yodo
+radiactivo o no son elegibles.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+Cabozantinib  es  una  molécula  pequeña  que  inhibe  múltiples  recep-
+tores  tirosina  kinasa  (RTK)  implicados  en  el  crecimiento  tumoral  y  la
+angiogénesis, la remodelación ósea patológica, la farmacorresistencia
+y la progresión metastásica del cáncer. Se ha evaluado la actividad in-
+hibitoria de cabozantinib con una serie de kinasas y se ha identificado
+como inhibidor de receptores de MET (proteína receptora del factor de
+crecimiento  de  hepatocitos)  y  VEGF  (factor  de  crecimiento  endotelial
+vascular). Asimismo, cabozantinib inhibe otras tirosina-kinasas, como
+el receptor GAS6 (AXL), RET, ROS1, TYRO3, MER, el receptor del factor
+de células madre (KIT), TRKB, la tirosina kinasa 3 tipo Fms (FLT3), y TIE-2.
+
+Efectos farmacodinámicos
+Cabozantinib demostró inhibir el crecimiento tumoral relacionado con
+la  dosis,  regresión  tumoral  y/o  inhibición  de  metástasis  en  una  gran
+variedad de modelos de tumores preclínicos.
+
+Electrofisiología cardíaca
+En un estudio clínico controlado de cabozantinib en pacientes con cán-
+cer medular de tiroides se observó un incremento, con respecto al valor
+inicial, del intervalo QT (usando la corrección de Fridericia, QTcF) de 10 –
+15 ms en el Día 29 (pero no en el Día 1) después del comienzo del trata-
+miento con cabozantinib (a una dosis de 140 mg diarios). Este efecto no
+se asoció con cambios en la morfología de las formas de onda cardíacas
+ni con nuevos ritmos. Ningún sujeto tratado con cabozantinib presentó
+un QTcF >500 ms confirmado, ni tampoco lo hizo ningún sujeto tratado
+con cabozantinib en los estudios en CCR o CHC (a una dosis de 60 mg).
+
+Farmacocinética
+
+Absorción
+Tras la administración oral de cabozantinib, las concentraciones plas-
+máticas máximas de cabozantinib se alcanzan entre 3 y 4 horas después
+de dicha administración. Los perfiles de concentración plasmática con
+respecto al tiempo muestran un segundo pico de absorción máxima
+aproximadamente 24 horas después de la administración, lo que sugie-
+re que cabozantinib puede verse sujeto a recirculación enterohepática.
+La administración diaria repetida de 140 mg de cabozantinib durante
+19  días  dio  como  resultado  una  acumulación  media  de  cabozantinib
+(basada en el ABC) aproximadamente 4 a 5 veces superior a la admi-
+nistración de una dosis única. El estado estacionario se alcanza apro-
+ximadamente el día 15.
+Una comida con alto contenido graso incrementó moderadamente los
+valores de Cmáx y ABC (41% y 57%, respectivamente) en comparación a
+las condiciones de ayuno en voluntarios sanos a los que se administró
+una dosis única de 140 mg de cabozantinib oral. No se dispone de infor-
+mación sobre el efecto exacto de los alimentos cuando se ingieren una
+hora después de la administración de cabozantinib.
+
+No  pudo  demostrarse  que  hubiera  bioequivalencia  entre  las  formu-
+laciones en cápsulas y comprimidos de cabozantinib tras la adminis-
+tración de una dosis única de 140 mg a sujetos sanos. Se observó un
+aumento  del  19%  en  la  Cmáx  de  la  formulación  en  comprimidos  en
+comparación con la formulación en cápsulas. Se observó una diferencia
+de menos del 10% en la AUC entre las formulaciones de cabozantinib
+comprimido y de cápsula.
+
+Distribución
+Cabozantinib  presenta  una  elevada  unión  a  proteínas  en  el  plasma
+humano in vitro (≥ 99,7%). En base a un modelo farmacocinético (PK)
+poblacional, el volumen de distribución del compartimento central se
+estimó en 212 L.
+
+Biotransformación
+Cabozantinib se metabolizó in vivo, detectándose cuatro metabolitos
+presentes en el plasma a exposiciones (ABC) superiores al 10% de la
+molécula  original:  XL184-N-óxido,  producto  de  degradación  XL184
+amida, XL184 monohidroxisulfato, y sulfato de producto de degrada-
+ción 6-desmetil amida. Dos metabolitos no conjugados (XL184-N-óxi-
+do y producto de degradación XL184 amida), que poseen <1% de la po-
+tencia de inhibición de la kinasa en la diana del cabozantinib original,
+representan cada uno de ellos <10% de la exposición plasmática total
+relacionada con el fármaco.
+Cabozantinib es un sustrato de CYP3A4 in vitro; puesto que un anti-
+cuerpo neutralizador de CYP3A4 inhibió la formación del metabolito
+XL184-N-óxido en >80% en una incubación con microsomas de hígado
+humano (HLM) catalizada por NADPH. Por contra, los anticuerpos neu-
+tralizadores de CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6
+y CYP2E1 no tuvieron efecto alguno en la formación de metabolitos de
+cabozantinib. Un anticuerpo neutralizador de CYP2C9 demostró tener
+un efecto mínimo sobre la formación de metabolitos de cabozantinib
+(es decir, una reducción <20%).
+
+Eliminación
+De acuerdo a un análisis farmacocinético poblacional de cabozantinib,
+la  semivida  plasmática  terminal  es  de  aproximadamente  110  horas.
+Se  calculó  que  el  aclaramiento  medio  en  estado  estacionario  era  de
+2,48 l/h. En un período de recogida de 48 días tras una sola dosis de
+cabozantinib-14C en voluntarios sanos, se recuperó aproximadamente
+el 81% del total de radiactividad administrada, siendo el 54% en heces
+y el 27% en orina.
+
+Poblaciones especiales
+
+Insuficiencia renal
+Los resultados de un estudio en pacientes con insuficiencia renal indi-
+can que los cocientes de la media geométrica de mínimos cuadrados
+para cabozantinib en plasma, Cmáx y ABC0-inf, fueron un 19% y un 30%
+más elevados para sujetos con insuficiencia renal leve, y un 2% y un
+6-7% más elevados para sujetos con insuficiencia renal moderada en
+comparación con sujetos con un funcionamiento renal normal. No se
+han estudiado pacientes con insuficiencia renal grave.
+
+Insuficiencia hepática
+En base a un análisis farmacocinético de población integrado en sujetos
+sanos y pacientes con cáncer (incluido CHC), no se observó diferencia clí-
+nicamente significativa en la exposición plasmática media de cabozanti-
+nib entre los sujetos con función hepática normal e insuficiencia hepática
+leve. Existen datos limitados en pacientes con insuficiencia hepática mo-
+derada. No se han estudiado pacientes con insuficiencia hepática grave.
+
+Dosis recomendada
+ARKUS® 40 mg una vez al día sin
+alimentos
+
+Nivolumab 240 mg cada 2
+semanas (infusión intravenosa
+de 30 minutos) o 480 mg cada 4
+semanas (infusión intravenosa de
+30 minutos)
+
+Duración del tratamiento
+Hasta la progresión de la enfer-
+medad o el desarrollo de toxicidad
+intolerable
+Hasta la progresión de la enfer-
+medad o el desarrollo de toxicidad
+intolerable durante un período de
+hasta 2 años
+
+Para  el  cáncer  diferenciado  de  tiroides  la  dosis  recomendada  de
+ARKUS®  como  agente  único  para  pacientes  adultos  y  pediátricos  de
+12 y más años de edad con área de superficie corporal (ASC) superior
+o igual a 1,2 m2 es de 60 mg una vez al día hasta la progresión de la
+enfermedad o el desarrollo de toxicidad intolerable administrada según
+las indicaciones impartidas. La dosis recomendada en pacientes pediá-
+tricos de 12 y más años de edad con ASC inferior a 1,2 m2 es de 40 mg
+una vez al día hasta la progresión de la enfermedad o el desarrollo de
+toxicidad intolerable.
+
+Modificaciones de la dosis ante reacciones adversas
+El manejo de los efectos no deseados de la medicación puede requerir
+la interrupción temporal y/o la reducción de la dosis del tratamiento con
+ARKUS® (ver la Tabla 1).
+Cuando sea necesario reducir la dosis en pacientes adultos y pediátricos
+con ASC superior o igual a 1,2 m2 que reciben ARKUS® 60 mg diarios
+se recomienda hacerlo a 40 mg diarios, y después a 20 mg diarios. En
+pacientes pediátricos con ASC inferior a 1,2 m2 que reciben 40 mg de
+ARKUS® se recomienda reducir la dosis a 20 mg de cabozantinib diarios,
+y  posteriormente  a  20  mg  en  días  alternos.Cuando  se  administra  en
+combinación con nivolumab, se recomienda reducir la dosis a 20 mg de
+cabozantinib diarios, y posteriormente a 20 mg en días alternos (para la
+modificación del tratamiento recomendada para nivolumab, consulte el
+prospecto de nivolumab)
+Se  recomienda  la  interrupción  de  la  administración  para  tratar  toxi-
+cidades de grado 3 o superior, o toxicidades intolerables de grado 2.
+Se recomienda reducir la dosis en caso de eventos que, de persistir,
+podrían tornarse graves o intolerables.
+
+Tabla  1.  Modificaciones  recomendadas  de  la  dosis  de  ARKUS®
+según las reacciones adversas
+
+Reacción adversa e
+intensidad
+
+Reacciones adversas
+de grado 1 y de grado
+2 que sean tolerables
+y se puedan manejar
+fácilmente
+
+Reacciones adversas de
+grado 2 que sean intole-
+rables y que no se puedan
+tratar con una reducción
+de la dosis o medidas
+terapéuticas de apoyo
+
+Reacciones adversas de
+grado 3 (a excepción de
+anomalías de laboratorio
+sin relevancia clínica)
+
+Modificación del tratamiento
+
+Habitualmente no se precisa ningún ajuste
+de la dosis.
+Considerar complementar con medidas
+terapéuticas de apoyo según esté clínica-
+mente indicado.
+
+Interrumpir el tratamiento hasta que la
+reacción adversa se resuelva o se considere
+de grado ≤1.
+Complementar con medidas terapéuticas de
+apoyo según esté clínicamente indicado.
+Considerar reiniciar el tratamiento con una
+dosis reducida.
+
+Interrumpir el tratamiento hasta que la
+reacción adversa se resuelva o se considere
+de grado ≤1.
+Complementar con medidas terapéuticas de
+apoyo según esté clínicamente indicado.
+Reiniciar el tratamiento con una dosis
+reducida.
+
+Interrumpir el tratamiento.
+Instaurar medidas terapéuticas adecuadas.
+Si la reacción adversa se resuelve hasta
+considerarse de grado ≤1, reiniciar el
+tratamiento con una dosis reducida.
+Si la reacción adversa no se resuelve,
+interrumpir permanentemente la adminis-
+tración de ARKUS®.
+
+Raza
+En un análisis farmacocinético poblacional no se identificó ninguna di-
+ferencia clínicamente relevante en la farmacocinética de cabozantinib
+basada en la raza.
+
+Reacciones adversas de
+grado 4 (a excepción de
+anomalías de laboratorio
+sin relevancia clínica)
+
+POSOLOGÍA - MODO DE ADMINISTRACIÓN
+
+El  tratamiento  con  ARKUS®  debe  indicarse  y  ser  supervisado  por  un
+médico con experiencia en la administración de medicamentos anti-
+neoplásicos.
+
+Posología
+ARKUS®  (cabozantinib)  comprimidos  no  se  debe  utilizar  de  manera
+intercambiable con las cápsulas de cabozantinib.
+Para el CCR y CHC, la dosis recomendada de ARKUS® como agente úni-
+co es de 60 mg una vez al día. El tratamiento se mantendrá hasta que el
+paciente deje de beneficiarse clínicamente con el uso de la medicación
+o hasta que se produzcan niveles de toxicidad intolerable.
+La dosis recomendada de ARKUS® en combinación con nivolumab para
+CCR, se presenta en la siguiente tabla:
+
+Elevación de las enzimas hepáticas para pacientes con CCR tratados
+con ARKUS®en combinación con nivolumab
+
+ALT o AST >3 veces el LSN
+pero ≤10 veces el LSN sin
+bilirrubina total simultá-
+nea ≥2 veces el LSN
+
+Interrumpir ARKUS® y nivolumab hasta que
+estas reacciones adversas se hayan resuelto
+a Grado ≤1.
+Se puede valorar la terapia con corticosteroi-
+des si se sospecha de reacción inmuno-rela-
+cionada (consultar prospecto de nivolumab).
+Después de la recuperación se puede
+valorar reiniciar con un único medicamento
+o secuencialmente con ambos medicamen-
+tos. Si se reinicia con nivolumab, consultar
+prospecto de nivolumab.
+
+ALT o AST >10 veces el LSN
+o >3 veces el LSN con bili-
+rrubina total simultánea
+≥2 veces el LSN
+
+Discontinuar de forma permanente  ARKUS®
+y nivolumab.
+Se puede valorar la terapia con corti-
+costeroides si se sospecha de reacción
+inmuno-relacionada (consultar prospecto
+de nivolumab.
+
+La clasificación de los grados de toxicidad está de conformidad con los criterios de
+terminología del National Cancer Institute Common Terminology Criteria for Adverse
+Events Versión 4.0 (NCI-CTCAE v4).
+
+Medicamentos concomitantes
+Se deben usar con precaución los medicamentos concomitantes que
+sean  inhibidores  potentes  de  CYP3A4.  Se  debe  evitar  el  uso  crónico
+concomitante de inductores potentes de CYP3A4.
+Se debe valorar la selección de un medicamento concomitante alternati-
+vo cuyo potencial de inducción o inhibición de CYP3A4 sea bajo o nulo.
+
+Dosis omitidas
+Si un paciente olvida tomar una dosis, no debe tomar esa dosis olvidada
+si faltan menos de 12 horas antes de la siguiente dosis.
+
+Poblaciones especiales
+
+Pacientes de edad avanzada
+No se recomienda un ajuste específico de la dosis de ARKUS® en pacien-
+tes de edad avanzada (≥65 años).
+
+Raza
+No es necesario ajustar la dosis en función de la etnia.
+
+Pacientes con insuficiencia renal
+ARKUS® se debe utilizar con precaución en pacientes con insuficiencia
+renal leve o moderada.
+ARKUS®  no  está  recomendado  en  pacientes  con  insuficiencia  renal
+grave, ya que no se han establecido la seguridad y la eficacia de cabo-
+zantinib en esta población.
+
+Pacientes con insuficiencia hepática
+En pacientes con insuficiencia hepática leve, no se requiere ajuste de
+dosis. Se ha observado una mayor exposición a cabozantinib en pacien-
+tes con disfunción hepática moderada (Child-Pugh B). Reducir la dosis
+de ARKUS® en pacientes con disfunción hepática moderada, de 60 mg
+a 40 mg diarios o de 40 mg a 20 mg diarios (para pacientes pediátricos
+con ASC inferior a 1,2 m2). No existe experiencia clínica en pacientes con
+insuficiencia hepática grave (Child-Pugh C), por lo que cabozantinib no
+está recomendado en estos pacientes.
+
+Pacientes con insuficiencia cardíaca
+Los datos disponibles en pacientes con insuficiencia cardíaca son limita-
+dos. No es posible hacer recomendaciones específicas de dosificación.
+
+Población pediátrica
+No se ha establecido la seguridad y eficacia de cabozantinib en pacien-
+tes pediátricos de menos de 12 años.
+
+Modo de administración
+ARKUS®  se  administra  por  vía  oral.  Los  comprimidos  se  deben  tragar
+enteros y sin triturar. No administrar ARKUS® con alimentos; se deben
+dar instrucciones a los pacientes para que no ingieran ningún alimento
+durante al menos dos horas antes y una hora después de tomar ARKUS®.
+
+CONTRAINDICACIONES
+
+ARKUS® está contraindicado en pacientes con hipersensibilidad al prin-
+cipio activo o a alguno de sus excipientes.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+
+Dado que la mayoría de las reacciones adversas pueden manifestarse
+en las fases iniciales del tratamiento con ARKUS®, el médico debe eva-
+luar al paciente cuidadosamente durante las primeras ocho semanas
+de la terapia para determinar si se justifica la modificación de la dosis.
+Entre las reacciones que se manifiestan generalmente de forma precoz
+se incluyen: hipocalcemia, hipopotasemia, trombocitopenia, hiperten-
+sión,  síndrome  de  eritrodisestesia  palmo-plantar  (EPP),  proteinuria  y
+alteraciones gastrointestinales (dolor abdominal, inflamación de mu-
+cosas, estreñimiento, diarrea, vómitos).
+El manejo de las sospechas de reacciones adversas puede requerir
+de forma temporal la interrupción o reducción de la dosis de la
+terapia con cabozantinib
+En el carcinoma de células renales después del tratamiento con una te-
+
+rapia previa dirigida al factor de crecimiento endotelial vascular (VEGF),
+las reducciones y las interrupciones de la dosis a consecuencia de even-
+tos adversos se produjeron en el 59,8% y el 70%, respectivamente, de
+los pacientes con carcinoma de células renales que ya habían recibido
+tratamiento  con  una  terapia  previa  dirigida  al  factor  de  crecimiento
+endotelial vascular (VEGF) y tratados con cabozantinib en estudios clíni-
+cos. En el 19,3% de los pacientes fueron requeridas dos reducciones de
+la dosis. La mediana de tiempo hasta la primera reducción de la dosis
+fue de 55 días, y de 38 días hasta la primera interrupción de dosis.
+En el carcinoma de células renales sin tratamiento previo, las reduccio-
+nes de dosis y las interrupciones de dosis se produjeron en un 46% y
+un 73%, respectivamente, de los pacientes tratados con cabozantinib
+en ensayos clínicos.
+Cuando cabozantinib se administra en combinación con nivolumab en
+el carcinoma de células renales avanzado de primera línea, la reducción
+de la dosis y la interrupción de la dosis de cabozantinib a consecuencia
+de un AA se produjo en un 54,1% y un 73,4% de pacientes en el ensayo
+clínico. Se precisaron dos reducciones de dosis en el 9,4% de pacientes.
+La mediana de tiempo hasta la primera reducción de dosis fue de 106
+días, y hasta la primera interrupción de dosis fue de 68 días.
+En el carcinoma hepatocelular después de una terapia sistémica previa,
+se produjeron reducciones de dosis e interrupciones de la dosis en el
+62%  y  el  84%,  respectivamente,  de  los  pacientes  tratados  con  cabo-
+zantinib en estudios clínicos. Se requirieron dos reducciones de dosis
+en el 33% de los pacientes. La mediana del tiempo hasta la primera
+reducción de la dosis fue de 38 días, y hasta la primera interrupción
+de la dosis fue de 28 días. Se recomienda un control más estrecho en
+pacientes con insuficiencia hepática leve o moderada.
+En el carcinoma diferenciado de tiroides, se produjeron reducciones e
+interrupciones de dosis en el 56% y el 72%, respectivamente, de los
+pacientes tratados con cabozantinib en el ensayo clínico. El 22% de los
+pacientes necesitaron dos reducciones de dosis. La mediana de tiempo
+hasta la primera reducción de dosis fue de 57 días y hasta la primera
+interrupción de dosis fue de 30 días.
+
+Efectos hepáticos
+En pacientes tratados con cabozantinib, con frecuencia se han observado
+anomalías en las pruebas de la función hepática (aumentos en alanina
+aminotransferasa [ALT], aspartato aminotransferasa [AST] y bilirrubina).
+Se recomienda realizar pruebas de función hepática (ALT, AST y bilirrubi-
+na) antes de iniciar el tratamiento con ARKUS® y vigilar de cerca durante
+el tratamiento. Para los pacientes con empeoramiento de las pruebas de
+función hepática que se considera relacionado con el tratamiento con
+cabozantinib (cuando no hay una causa alternativa evidente), se deben
+seguir las pautas de modificación de dosis de la Tabla 1.
+Cuando cabozantinib se administra en combinación con nivolumab, se
+ha notificado mayor frecuencia de elevaciones de ALT y AST de grado 3
+y 4 relacionados con la monoterapia con cabozantinib en pacientes con
+CCR avanzado. Deben controlarse las enzimas hepáticas antes del inicio
+del tratamiento y periódicamente a lo largo del mismo. Se deben seguir
+las guías de manejo clínico para ambos medicamentos
+Cabozantinib se elimina principalmente por vía hepática. Se recomien-
+da una supervisión más estrecha de la seguridad global en pacientes
+con insuficiencia hepática leve o moderada. Un mayor porcentaje rela-
+tivo de pacientes con insuficiencia hepática moderada (Child-Pugh B)
+desarrolló encefalopatía hepática con el tratamiento con cabozantinib.
+No  se  recomienda  el  uso  de  ARKUS®  en  pacientes  con  insuficiencia
+hepática grave (Child-Pugh C) ya que cabozantinib no se ha estudiado
+en esta población y la exposición puede aumentar en estos pacientes.
+
+Encefalopatía hepática
+En estudios clínicos en pacientes con CHC la encefalopatía hepática se
+notificó con mayor frecuencia en el grupo de cabozantinib que en el de
+placebo. Cabozantinib se ha asociado con diarrea, vómitos, apetito dis-
+minuido  y  anomalías  electrolíticas.  En  pacientes  con  CHC  con  hígado
+comprometido, estos efectos no hepáticos pueden ser factores desenca-
+denantes del desarrollo de encefalopatía hepática. Se debe controlar a
+los pacientes para detectar signos y síntomas de encefalopatía hepática.
+
+Perforaciones y fístulas
+Se  han  observado  perforaciones  y  fístulas  gastrointestinales  graves,
+en  ocasiones  mortales,  en  pacientes  tratados  con  cabozantinib.  Los
+pacientes con enfermedad inflamatoria intestinal (por ejemplo, enfer-
+medad de Crohn, colitis ulcerosa, peritonitis, diverticulitis o apendici-
+tis), infiltración tumoral en el tracto gastrointestinal, o complicaciones
+de  intervenciones  gastrointestinales  anteriores  (especialmente  si
+están  asociadas  con  el  retraso  de  la  cicatrización  o  una  cicatrización
+incompleta) deben ser evaluados cuidadosamente antes de iniciar el
+tratamiento  con  ARKUS®,  y  deben  ser  monitorizados  estrechamente
+con posterioridad para detectar la aparición de síntomas compatibles
+con la presencia de perforaciones y fístulas, incluidos abscesos y sepsis.
+La ocurrencia de diarrea persistente o recurrente durante el tratamiento
+puede suponer un factor de riesgo para el desarrollo de fístula anal. La
+
+administración de ARKUS® debe interrumpirse en pacientes que sufran
+una perforación o fístula gastrointestinal que no pueda ser tratada de
+forma adecuada.
+
+Trastornos gastrointestinales (GI)
+Diarrea,  náuseas/vómitos,  apetito  disminuido  y  estomatitis/dolor
+oral fueron algunas de las reacciones adversas gastrointestinales no-
+tificadas con mayor frecuencia. Se debe implementar un tratamiento
+médico inmediato, que incluya tratamiento de apoyo con antieméticos,
+antidiarreicos  o  antiácidos,  para  prevenir  la  deshidratación,  los  des-
+equilibrios  electrolíticos  y  la  pérdida  de  peso.  En  caso  de  reacciones
+adversas GI significativas persistentes o recurrentes se debe considerar
+la interrupción o reducción de la dosis, o la interrupción permanente de
+cabozantinib (ver Tabla 1).
+
+Acontecimientos tromboembólicos
+Se han observado episodios de tromboembolismo venoso, incluido em-
+bolismo pulmonar y tromboembolismo arterial, en algunos casos letales,
+con cabozantinib. Se observó trombosis de la vena porta con cabozan-
+tinib, incluyendo un episodio mortal, en estudios clínicos en pacientes
+con CHC; los pacientes con antecedentes de invasión de la vena porta
+parecían estar en mayor riesgo de desarrollar trombosis de dicha vena.
+ARKUS® se debe utilizar con precaución en pacientes con riesgo o con
+antecedentes  de  este  tipo  de  acontecimientos.  ARKUS®  se  debe  in-
+terrumpir  en  pacientes  que  desarrollen  infarto  de  miocardio  agudo  o
+cualquier otra complicación tromboembólica clínicamente significativa.
+
+Hemorragia
+Se han observado casos de hemorragia grave, algunas veces mortales,
+con la utilización de cabozantinib.
+Los pacientes que presenten antecedentes de sangrado clínicamente
+significativo  antes  del  inicio  del  tratamiento  se  deben  evaluar  cuida-
+dosamente antes de comenzar el tratamiento con ARKUS®. No se debe
+administrar ARKUS® a pacientes que presenten o estén en riesgo de
+sufrir una hemorragia de consideración.
+En estudios clínicos en pacientes con CHC se notificaron acontecimien-
+tos hemorrágicos letales, con una mayor incidencia con cabozantinib
+que con placebo. Los factores de riesgo que predisponen a la hemorra-
+gia grave en la población con CHC avanzado pueden incluir la invasión
+tumoral de los vasos sanguíneos principales y la presencia de cirrosis
+hepática subyacente que provoca varices esofágicas, hipertensión por-
+tal y trombocitopenia. En estos estudios se excluyeron a los pacientes
+con tratamiento concomitante anticoagulante o antiagregantes plaque-
+tarios, los sujetos con várices no tratadas o tratadas de forma incomple-
+ta, várices con sangrado o alto riesgo de sangrado.
+El estudio de cabozantinib en combinación con nivolumab en primera
+línea en CCR avanzado excluyó pacientes con anticoagulantes a dosis
+terapéuticas
+
+Aneurismas y disecciones arteriales
+El uso de inhibidores de la vía VEGF en pacientes con o sin hipertensión
+puede promover la formación de aneurismas y/o disecciones arteriales.
+Antes de iniciar el tratamiento con ARKUS®, este riesgo se debe evaluar
+de  forma  cuidadosa  en  pacientes  con  factores  predisponentes  como
+hipertensión o antecedentes de aneurisma.
+
+Trombocitopenia
+En estudios clínicos en pacientes con CHC y CDT se notificó tromboci-
+topenia y disminución de plaquetas. Durante el tratamiento con cabo-
+zantinib se deben controlar los niveles de plaquetas y la dosis se debe
+modificar en función de la gravedad de la trombocitopenia (ver Tabla 1).
+
+Complicaciones en la cicatrización
+Se han observado complicaciones de cicatrización con la utilización de
+cabozantinib.
+De  ser  posible,  el  tratamiento  con  ARKUS®  se  debe  interrumpir  como
+mínimo 28 días antes de la fecha de intervenciones quirúrgicas programa-
+das, incluida la cirugía dental. La decisión de reiniciar el tratamiento con
+ARKUS® después de la intervención se debe basar en la evaluación clínica y
+la expectativa de lograrse una cicatrización adecuada de la herida. La admi-
+nistración de ARKUS® se debe interrumpir en pacientes con complicacio-
+nes en la cicatrización de las heridas que requieran intervención médica.
+
+Osteonecrosis
+Se  han  observado  casos  de  osteonecrosis  mandibular  (ONM)  con  la
+utilización de cabozantinib. Antes de iniciar el tratamiento con cabo-
+zantinib, se debe realizar un examen oral, que debe repetirse periódi-
+camente durante el tratamiento. Se deben proporcionar instrucciones
+sobre  higiene  oral  a  los  pacientes.  Si  es  posible,  el  tratamiento  con
+cabozantinib debe suspenderse como mínimo 28 días antes de la fecha
+programada  para  procedimientos  odontológicos  invasivos  o  cirugía
+odontológica. Se debe proceder con precaución en el caso de pacientes
+que reciban agentes asociados con la osteonecrosis mandibular, como
+
+los bisfosfonatos. La administración de cabozantinib se debe interrum-
+pir en pacientes que experimenten ONM.
+
+Hipertensión
+Se han observado casos de hipertensión, incluyendo crisis hipertensiva
+con la utilización de cabozantinib.
+La tensión arterial debe estar bien controlada antes de iniciar el trata-
+miento con ARKUS®. Durante el tratamiento con ARKUS®, todos los pa-
+cientes deben monitorizarse para detectar la aparición de hipertensión,
+que se tratará si es necesario con tratamiento antihipertensivo están-
+dar. La dosis de ARKUS® se debe reducir en caso de hipertensión per-
+sistente pese al uso de antihipertensivos. La administración de ARKUS®
+se debe interrumpir en caso de hipertensión grave y persistente pese al
+uso de tratamiento antihipertensivo y reducción de la dosis. La adminis-
+tración de ARKUS® se debe interrumpir en caso de crisis hipertensiva.
+
+Síndrome de eritrodisestesia palmo-plantar (SEPP)
+Se han observado casos de síndrome de eritrodisestesia palmo-plantar
+con la utilización de cabozantinib.
+Si el SEPP es grave, se debe considerar la interrupción del tratamiento
+con ARKUS®. El tratamiento con ARKUS® debe reanudarse a una dosis
+más baja una vez que el SEPP se ha resuelto hasta grado 1.
+
+Proteinuria
+Se han observado casos de proteinuria con la utilización de cabozantinib.
+Los niveles de proteína en la orina se deben monitorizar con regularidad
+durante el tratamiento con ARKUS®. La administración de ARKUS® se
+debe interrumpir en pacientes que desarrollen síndrome nefrótico.
+
+Síndrome de leucoencefalopatía posterior reversible
+Se han observado casos de síndrome de leucoencefalopatía posterior
+reversible (SLPR), también conocido como síndrome de encefalopatía
+posterior  reversible  (SEPR),  con  la  utilización  de  cabozantinib.  Este
+síndrome se debe considerar en cualquier paciente que presente múl-
+tiples  síntomas,  incluidos  convulsiones,  cefalea,  trastornos  visuales,
+confusión o función mental alterada.
+El tratamiento con ARKUS® se debe interrumpir en pacientes con SLPR.
+
+Prolongación del intervalo QT
+ARKUS® se debe utilizar con precaución en pacientes con antecedentes
+de prolongación del intervalo QT, pacientes que estén tomando medi-
+camentos antiarrítmicos, o pacientes con enfermedad cardíaca preexis-
+tente relevante, bradicardia, o trastornos electrolíticos.
+Durante el tratamiento con ARKUS®, se debe considerar la monitoriza-
+ción periódica con ECG y determinación de electrolitos séricos (calcio,
+potasio y magnesio).
+
+Alteración tiroidea
+En todos los pacientes se recomienda la medición inicial en laboratorio
+de  la  función  tiroidea.  Los  pacientes  con  hipotiroidismo  o  hipertiroi-
+dismo preexistente se deben tratar según la práctica clínica estándar
+antes del inicio del tratamiento con cabozantinib. Todos los pacientes
+se deben vigilar estrechamente para detectar signos y síntomas de al-
+teración tiroidea durante el tratamiento con cabozantinib. La función
+tiroidea se debe controlar periódicamente durante el tratamiento con
+cabozantinib. Los pacientes que desarrollan alteración tiroidea deben
+tratarse según práctica clínica estándar
+
+Anomalías en las pruebas bioquímicas de laboratorio
+Cabozantinib se ha asociado con una mayor incidencia de anomalías
+electrolíticas (que incluyen hipo e hiperpotasemia, hipomagnesemia,
+hipocalcemia,  hiponatremia).  Se  ha  observado  hipocalcemia  con
+cabozantinib  con  mayor  frecuencia  y/o  mayor  gravedad  (incluyendo
+grados 3 y 4) en pacientes con cáncer de tiroides en comparación con
+pacientes con otros cánceres. Se recomienda controlar los parámetros
+bioquímicos durante el tratamiento con cabozantinib y, si es necesario,
+instaurar la terapia restitutiva adecuada de acuerdo con la práctica clíni-
+ca habitual. Los casos de encefalopatía hepática en pacientes con CHC
+se pueden atribuir al desarrollo de alteraciones electrolíticas. Se debe
+considerar la interrupción o reducción de dosis o la interrupción per-
+manente de ARKUS® en caso de anomalías significativas persistentes
+o recurrentes (ver Tabla 1).
+
+Advertencias sobre excipientes
+Este medicamento contiene lactosa. Los pacientes con intolerancia he-
+reditaria a galactosa, insuficiencia de lactasa de Lapp o problemas de
+absorción de glucosa o galactosa no deben tomar este medicamento.
+
+Interacción con otros medicamentos y otras formas de interacción
+
+Efectos de otros medicamentos sobre cabozantinib
+Inhibidores e inductores de CYP3A4
+Cabozantinib es un sustrato de CYP3A4. La administración de ketoco-
+
+nazol –un inhibidor potente de CYP3A4– a voluntarios sanos redujo el
+aclaramiento  de  cabozantinib  e  incrementó  la  exposición  plasmática
+(ABC) de dosis únicas de cabozantinib. Por consiguiente, la administra-
+ción conjunta de inhibidores potentes de CYP3A4 (por ejemplo, ritona-
+vir, itraconazol, eritromicina, claritromicina, jugo de pomelo) y ARKUS®
+debe hacerse con precaución.
+La administración de rifampicina –un inductor potente de CYP3A4– a
+voluntarios sanos incrementó el aclaramiento de cabozantinib y redujo
+la  exposición  plasmática  (ABC)  de  dosis  únicas  de  cabozantinib.  Por
+consiguiente, se debe evitar la administración conjunta crónica de in-
+ductores potentes de CYP3A4 (por ejemplo, fenitoína, carbamazepina,
+rifampicina, fenobarbital o remedios naturales conteniendo hierba de
+San Juan [Hypericum perforatum]) con ARKUS®.
+
+Agentes modificadores del pH gástrico
+La administración conjunta del inhibidor de la bomba de protones (IBP)
+esomeprazol con una dosis única de cabozantinib a voluntarios sanos
+no provocó ningún efecto clínicamente significativo sobre la exposición
+plasmática (ABC) de cabozantinib.
+No está indicado el ajuste de la dosis al administrar en forma conjunta
+agentes modificadores del pH gástrico (como IBPs, antagonistas de los
+receptores H2, y antiácidos) con ARKUS®.
+
+Inhibidores de MRP2
+Los datos de estudios in vitro demuestran que cabozantinib es un sus-
+trato de MRP2. Por lo tanto, la administración de inhibidores de MRP2
+puede  provocar  elevaciones  de  las  concentraciones  plasmáticas  de
+cabozantinib.
+Se debe tener precaución con la administración concomitante de inhibi-
+dores de MRP2 (como ciclosporina, efavirenz o emtricitabina) y ARKUS®.
+
+Quelantes de las sales biliares
+Los quelantes de las sales biliares, como la colestiramina y el colese-
+velam, pueden interactuar con cabozantinib y afectar a la absorción (o
+reabsorción), ocasionando una reducción potencial de la exposición. Se
+desconoce la importancia clínica de estas interacciones potenciales.
+
+Efectos de cabozantinib sobre otros medicamentos
+Anticonceptivos esteroides
+No se ha investigado el efecto de cabozantinib sobre la farmacocinética
+de los esteroides anticonceptivos.
+Dado que no puede garantizarse que no se produzcan cambios sobre el
+efecto anticonceptivo, se recomienda que las pacientes que emplean
+ARKUS® utilicen un método anticonceptivo adicional, como un método
+de barrera.
+
+Warfarina
+A causa de la elevada unión a proteínas plasmáticas de cabozantinib, es
+posible que se produzca interacción con warfarina por desplazamiento
+de las proteínas plasmáticas. En caso de que se suministre dicha combi-
+nación, se deben monitorizar los valores de RIN.
+
+Sustratos de la glucoproteína P
+Cabozantinib  fue  inhibidor,  pero  no  sustrato,  de  las  actividades  de
+transporte de la glucoproteína P (Pgp) en un sistema de ensayo bidirec-
+cional con células MDCK-MDR1. Por consiguiente, cabozantinib puede
+tener el potencial de incrementar las concentraciones plasmáticas de
+sustratos de la Pgp administrados de forma conjunta.
+Se  debe  prevenir  a  los  pacientes  acerca  del  uso  de  sustratos  de  la
+Pgp  (por  ejemplo,  fexofenadina,  aliskireno,  ambrisentán,  dabigatrán
+etexilato, digoxina, colchicina, maraviroc, posaconazol, ranolazina, sa-
+xagliptina, sitagliptina, talinolol, tolvaptán) mientras reciban ARKUS®.
+
+Carcinogénesis, mutagénesis y trastornos de la fertilidad y de la
+reproducción
+En  estudios  de  toxicidad  de  hasta  seis  meses  de  duración  con  dosis
+repetidas  en  la  rata  y  en  el  perro,  los  órganos  diana  de  la  toxicidad
+fueron: el tracto gastrointestinal, la médula ósea, los tejidos linfoides,
+el riñón y los tejidos suprarrenales y del aparato reproductor. El nivel
+sin efecto adverso observable (NOAEL) de estos hallazgos se situó por
+debajo de los niveles de exposición clínica en el ser humano a la dosis
+terapéutica prevista.
+En  una  serie  de  pruebas  de  genotoxicidad,  cabozantinib  no  mostró
+potencial mutagénico ni clastogénico.
+El  potencial  carcinogénico  de  cabozantinib  se  ha  evaluado  en  dos
+especies:  ratones  transgénicos  rasH2  y  ratas  Sprague-Dawley.  En  un
+estudio de 2 años de potencial carcinogénico de la rata, los hallazgos
+neoplásicos relacionados con cabozantinib consistieron en un aumento
+de la incidencia de feocromocitoma benigno, solo o en combinación
+con feocromocitoma maligno/feocromocitoma maligno complejo de la
+médula suprarrenal en ambos sexos con exposiciones muy por debajo
+de la exposición prevista en seres humanos. Se desconoce la relevancia
+clínica  de  las  lesiones  neoplásicas  observadas  en  ratas,  pero  es  pro-
+
+bable que sea baja. Cabozantinib no fue cancerígeno en modelos de
+ratón a una exposición ligeramente superior a la exposición terapéutica
+propuesta en humanos.
+Los estudios de fertilidad en ratas han mostrado una reducción de la
+fertilidad en machos y hembras. Asimismo, se ha observado hipoesper-
+matogénesis en el perro por debajo de los niveles de exposición clínica
+en el ser humano a la dosis terapéutica prevista.
+ Se han realizado estudios de desarrollo embriofetal en ratas y conejos.
+En  la  rata,  cabozantinib  provocó  pérdidas  post-implantación,  edema
+fetal, paladar hendido/labio leporino, aplasia cutánea y cola deforme o
+rudimentaria. En el conejo, cabozantinib provocó cambios en los tejidos
+blandos del feto (reducción del tamaño del bazo, lóbulo medio del pul-
+món de tamaño reducido o ausente) y un incremento de la incidencia
+fetal de malformaciones totales. Los NOAEL de los resultados de toxi-
+cidad embriofetal y teratogénica se situaron por debajo de los niveles
+de exposición clínica en el ser humano a la dosis terapéutica prevista.
+Las  ratas  jóvenes  (comparables  a  una  población  pediátrica  >2  años
+de edad) que recibieron cabozantinib presentaron un aumento de los
+valores  de  leucocitos,  una  disminución  de  la  hematopoyesis,  sistema
+reproductor femenino puberal/inmaduro (sin retraso de la abertura va-
+ginal), anomalías dentales, disminución de la densidad y del contenido
+mineral óseo, pigmentación hepática e hiperplasia nodular linfoide. Las
+manifestaciones en el útero/los ovarios y la disminución de la hemato-
+poyesis fueron aparentemente pasajeras, mientras que los efectos sobre
+los parámetros óseos y la pigmentación hepática se mantuvieron. Las ra-
+tas jóvenes (que se correlacionan con una población pediátrica <2 años
+de edad) mostraron hallazgos relacionados con el tratamiento similares.
+Sin embargo, fueron aparentemente más sensibles a la toxicidad rela-
+cionada con cabozantinib a niveles de dosis comparables.
+
+Mujeres en edad fértil/anticoncepción en hombres y mujeres
+Se debe aconsejar a las mujeres en edad fértil que eviten quedarse em-
+barazadas durante el tratamiento con ARKUS®. Igualmente, las parejas
+de sexo femenino de pacientes varones que reciban ARKUS® también
+deben evitar quedarse embarazadas. Tanto los pacientes de ambos sexos
+como sus parejas deben usar métodos anticonceptivos eficaces durante
+el tratamiento y, como mínimo, hasta cuatro meses después de comple-
+tar el tratamiento con ARKUS®. Dado que los anticonceptivos orales po-
+siblemente no pueden considerarse “métodos anticonceptivos eficaces”,
+deben utilizarse junto con otro método, como un método de barrera.
+
+Embarazo
+No existen estudios de administración de cabozantinib a mujeres embara-
+zadas. Los estudios en animales han demostrado la existencia de efectos
+embriofetales y teratogénicos. Se desconoce el riesgo en seres humanos.
+No se debe utilizar ARKUS® durante el embarazo a menos que la situa-
+ción clínica de la paciente requiera indefectiblemente el tratamiento
+con cabozantinib.
+
+Lactancia
+Se desconoce si cabozantinib y/o cualquiera de sus metabolitos se ex-
+cretan en la leche materna.
+Debido al riesgo potencial para el lactante, las madres deben interrum-
+pir la lactancia durante el tratamiento con  ARKUS® y, como mínimo,
+hasta cuatro meses después de completado el mismo.
+
+Fertilidad
+No se dispone de datos sobre la fertilidad humana. Basándose en datos
+de seguridad preclínicos, el tratamiento con cabozantinib puede afec-
+tar a la fertilidad de ambos sexos.
+Se debe aconsejar a los pacientes mujeres y varones que se asesoren
+y consideren la adopción de medidas de preservación de la fertilidad
+antes de iniciar el tratamiento con ARKUS®.
+
+Empleo en pediatría
+Se ha establecido la seguridad y eficacia de cabozantinib para el trata-
+miento del cáncer diferenciado de tiroides (CDT) en pacientes pediátri-
+cos de 12 y más años de edad.
+El empleo de cabozantinib en pacientes pediátricos con CDT a partir de
+los 12 años está respaldado por datos derivados de estudios adecuados
+y bien controlados de en adultos con datos farmacocinéticos poblacio-
+nales  adicionales  que  demuestran  que  la  exposición  a  cabozantinib
+está dentro del mismo rango en adultos y pacientes pediátricos de 12 y
+más años de edad en las dosis recomendadas.
+No se ha establecido la seguridad y eficacia de cabozantinib en pacien-
+tes pediátricos de menos de 12 años.
+
+Empleo en geriatría
+No se observaron diferencias globales en la seguridad o eficacia entre
+pacientes de 65 o más años y pacientes más jóvenes.
+No se informaron diferencias globales en la seguridad entre pacientes
+de edad avanzada y pacientes más jóvenes tratados con cabozantinib
+y nivolumab.
+
+Pacientes con disfunción hepática
+Se  ha  observado  una  mayor  exposición  a  cabozantinib  en  pacientes
+con disfunción hepática moderada (Child-Pugh B). Reducir la dosis de
+cabozantinib en estos pacientes. Evitar el empleo en pacientes con dis-
+función hepática severa (Child-Pugh C), dado que no se ha estudiado
+en esta población.
+
+Pacientes con disfunción renal
+No se recomienda ajustar la dosis en pacientes con disfunción renal leve
+o moderada. No existen datos en pacientes con disfunción renal severa.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de cabozantinib sobre la capacidad para conducir y utilizar
+máquinas es pequeña. Con el tratamiento con cabozantinib se han re-
+portado reacciones adversas como fatiga y debilidad.
+Se debe recomendar precaución al conducir o utilizar máquinas duran-
+te el tratamiento con ARKUS®.
+
+REACCIONES ADVERSAS
+
+Cabozantinib como monoterapia
+
+Resumen del perfil de seguridad
+Las reacciones adversas graves más frecuentes asociadas con cabozan-
+tinib en la población con CCR (incidencia ≥1%) son: dolor abdominal,
+embolismo,  diarrea,  vómitos,  hipertensión,  deshidratación,  hipona-
+tremia, náuseas, apetito disminuido, embolismo pulmonar, trombosis
+venosa profunda, fatiga, astenia, mareos, hipomagnesemia, síndrome
+de eritrodisestesia plamoplantar (SEPP).
+Las reacciones adversas más frecuentes de cualquier grado (experimen-
+tadas  al  menos  por  el  25%  de  pacientes)  incluyen:  diarrea,  náuseas,
+hipertensión, fatiga, AST elevada, náuseas, vómitos, disminución del
+apetito, síndrome de eritrodisestesia palmoplantar (SEPP), disgeusia,
+disminución de peso, estreñimiento. Se observó mayor frecuencia de
+hipertensión en la población con CCR sin tratamiento previo (67%) com-
+parado con los pacientes con CCR después del tratamiento previo con
+una terapia dirigida al VEGF (37%).
+Las reacciones adversas graves más frecuentes en la población de CHC
+(incidencia  ≥1%)  son  encefalopatía  hepática,  SEPP,  astenia,  fatiga,
+dolor abdominal, vomitos, diarrea, hiponatremia y trombocitopenia.
+Las  reacciones  adversas  más  frecuentes  de  cualquier  grado  (experi-
+mentadas  por  al  menos  el  25%  de  los  pacientes)  en  la  población  de
+pacientes con CHC incluyeron diarrea, SEPP, fatiga, apetito disminuido,
+hipertensión y náuseas y vómitos.
+Las reacciones adversas graves más frecuentes en la población DTC (con
+una incidencia de ≥1%) son diarrea, embolia pulmonar, disnea, trom-
+bosis venosa profunda, hipertensión e hipocalcemia.
+Las  reacciones  adversas  más  frecuentes  de  cualquier  grado  (experi-
+mentadas por al menos el 25% de los pacientes) en la población DTC
+incluyeron diarrea, SEPP, hipertensión y fatiga.
+
+Tabla de reacciones adversas
+Las reacciones adversas notificadas en el conjunto de datos agrupados
+para  los  pacientes  tratados  con  cabozantinib  como  monoterapia  en
+CCR, CHC y CDT (n=1043) o notificadas con el uso de cabozantinib tras
+su comercialización se listan en la Tabla 2. Las reacciones adversas se
+listan según la clasificación por órganos y sistemas de MedDRA y por
+frecuencias. Las frecuencias se basan en todos los grados y su definición
+es la siguiente: muy frecuentes (≥1/10); frecuentes (≥1/100 a <1/10);
+poco frecuentes (≥1/1.000 a <1/100); frecuencia no conocida (no pue-
+de estimarse a partir de los datos disponibles). Dentro de cada grupo de
+frecuencias, las reacciones adversas se presentan en orden decreciente
+de gravedad.
+
+(Ver tabla 2).
+
+Cabozantinib en combinación con nivolumab en CCR avanzado
+en primera línea
+Resumen del perfil de seguridad
+Cuando  se  administra  cabozantinib  en  combinación  con  nivolumab,
+consultar  el  prospecto  de  nivolumab  antes  de  iniciar  el  tratamiento.
+Para información adicional sobre el perfil de seguridad de nivolumab
+en monoterapia, consultar el prospecto de nivolumab.
+En  los  datos  agrupados  de  cabozantinib  40  mg  diarios  en  combina-
+ción con nivolumab 240 mg cada dos semanas en CCR (n=320), con
+un seguimiento mínimo de 16 meses, las reacciones adversas graves
+más frecuentes (incidencia ≥1%) son diarrea, neumonitis, embolismo
+pulmonar, neumonía, hiponatremia, fiebre, insuficiencia suprarrenal,
+vómitos, deshidratación.
+Las  reacciones  adversas  más  frecuentes  (≥25%)  son  diarrea,  fatiga,
+síndrome de eritrodisestesia palmo-plantar, estomatitis, dolor muscu-
+loesquelético, hipertensión, erupción, hipotiroidismo, disminución del
+
+apetito, náuseas, dolor abdominal. La mayoría de reacciones adversas
+fueron leves y moderadas (Grados 1 o 2).
+
+Tabla de reacciones adversas
+Las reacciones adversas identificadas en el estudio clínico de cabozan-
+tinib en combinación con nivolumab se listan en la Tabla 3, según la
+clasificación por órganos y sistemas de MedDRA y por frecuencias.
+Las frecuencias se basan en todos los grados y su definición es la siguien-
+te: muy frecuentes (≥1/10); frecuentes (≥1/100 a <1/10); poco frecuen-
+tes (≥1/1.000 a <1/100); frecuencia no conocida (no puede estimarse a
+partir de los datos disponibles). Dentro de cada intervalo de frecuencias,
+las reacciones adversas se presentan en orden decreciente de gravedad.
+
+(Ver tabla 3).
+
+Descripción de reacciones adversas seleccionadas, en base a re-
+sultados de estudios clínicos con cabozantinib en pacientes con
+CCR ,CHC y CDT
+
+Perforación gastrointestinal (GI)
+Se notificaron perforaciones GI en un 0,9% de los pacientes con CCR
+tratados con cabozantinib después del tratamiento con una terapia di-
+rigida al VEGF. Los acontecimientos fueron de grado 2 o 3. La mediana
+del tiempo de aparición de las perforaciones GI fue de 10,0 semanas.
+En el estudio de CCR sin tratamiento previo se notificaron perforaciones
+GI en un 2,6% de los pacientes tratados con cabozantinib. Los aconteci-
+mientos fueron de grado 4 y 5.
+En el estudio de CHC se notificaron perforaciones GI en el 0,9% de los
+pacientes tratados con cabozantinib. Todos los acontecimientos fueron
+de grado 3 o 4. La mediana de tiempo hasta el inicio fue de 5,9 semanas.
+En  el  estudio  de  CDT,  se  notificó  una  perforación  gastrointestinal  de
+grado 4 en un paciente (0,8%) de los tratados con cabozantinib, que se
+produjo tras 14 semanas de tratamiento.
+En combinación con nivolumab en el tratamiento del CCR avanzado en
+primera línea la incidencia de perforación GI fue de 1,3% de pacientes tra-
+tados. Un caso fue de grado 3, dos de grado 4 y uno fue de grado 5 (mortal).
+Se han reportado asimismo casos de perforaciones letales en el progra-
+ma clínico de cabozantinib.
+
+Encefalopatía hepática
+En el estudio de CHC se notificó encefalopatía hepática (encefalopatía
+hepática, encefalopatía, encefalopatía hiperamonémica) en el 5,6% de
+los pacientes tratados con cabozantinib; acontecimientos de grado 3-4
+en el 2,8% y un (0,2%) acontecimiento de grado 5. La mediana del tiem-
+po hasta el inicio fue de 5,9 semanas.
+No se notificaron casos de encefalopatía hepática en los estudios de
+CCR y en el estudio de CDT.
+
+Diarrea
+En el estudio en CCR después de terapia dirigida con VEGF previa, se no-
+tificó diarrea en el 74% de los pacientes con CCR tratados con cabozan-
+tinib; acontecimientos de grado 3-4 en el 11%. La mediana de tiempo
+hasta el inicio fue de 4,9 semanas.
+En el estudio de CCR sin tratamiento previo se notificó diarrea en el 73%
+de los pacientes tratados con cabozantinib; acontecimientos de grado
+3-4 en el 10%.
+En el estudio de CHC se notificó diarrea en el 54% de los pacientes trata-
+dos con cabozantinib, acontecimientos de grado 3-4 en el 9,9%. La me-
+diana de tiempo hasta el inicio de todos los acontecimientos fue de 4,1
+semanas. La diarrea provocó modificaciones de la dosis, interrupciones
+y suspensiones en el 18%, 15% y 1% de los sujetos, respectivamente.
+En el estudio de CDT, la diarrea se notificó en un 51% de los pacientes
+tratados con cabozantinib; Acontecimientos de grado 3-4 en un 7,2%.
+La diarrea llevó a una reducción de dosis y a la interrupción en 13/125
+(10%) y 20/125 (16%) de sujetos respectivamente.
+En combinación con nivolumab en el tratamiento del CCR avanzado en
+primera línea, la incidencia de diarrea se notificó en el 64,7% de pa-
+cientes tratados; acontecimientos de grado 3-4 en el 8,4%. La mediana
+de tiempo hasta el inicio de los acontecimientos fue de 12,9 semanas.
+Hubo retraso y reducción de la dosis en un 26,3% e interrupciones de
+dosis en un 2,2% de pacientes con diarrea, respectivamente.
+
+Fístulas
+En el estudio en CCR después del tratamiento con una terapia previa
+dirigida al VEGF se notificaron fístulas en un 1,2% de los pacientes trata-
+dos con cabozantinib, incluyendo fístulas anales, de grado 2 y 3. La me-
+diana del tiempo hasta la aparición de las fístulas fue de 30,3 semanas.
+En el estudio de CCR sin tratamiento previo no se notificaron casos de
+fístulas.
+En el estudio de CHC se notificaron fístulas en el 1,5% de los pacientes.
+La mediana del tiempo hasta el inicio fue de 14 semanas.
+En el estudio de CDT, no se notificaron casos de fístulas en los pacientes
+tratados con cabozantinib.
+
+Tabla 2. Reacciones adversas comunicadas con el uso de cabozantinib
+
+Sistema de clasificación
+de órganos
+
+Infecciones
+e infestaciones
+
+Trastornos de la sangre y del
+sistema linfático
+
+Muy frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Frecuencia no conocida
+
+absceso
+
+Anemia, trombocitopenia
+
+neutropenia, linfopenia
+
+convulsiones, accidente
+cerebrovascular
+
+síndrome de encefalopatía
+reversible posterior
+
+infarto de miocardio
+
+aneurismas y disecciones
+arteriales
+
+vasculitis cutánea
+
+Trastornos endocrinos
+
+hipotiroidismo
+
+Trastornos del metabolismo
+y de la nutrición
+
+Trastornos del sistema
+nervioso
+
+Trastornos del oído y el
+laberinto
+
+Trastornos cardíacos
+
+disminución del apetito,
+hipomagnesemia,
+hipopotasemia,
+hipoalbuminemia
+
+deshidratación, hipofos-
+fatemia, hiponatremia,
+hipocalcemia, hiperpotase-
+mia, hiperbilirrubinemia,
+hiperglucemia, hipoglucemia
+
+disgeusia, cefalea, mareos
+
+neuropatía periféricaa
+
+tinnitus
+
+Trastornos vasculares
+
+hipertensión, hemorragiab
+
+trombosis venosac,
+trombosis arterial pulmonar
+
+crisis hipertensiva
+
+Trastornos respiratorios,
+torácicos y mediastínicos
+
+disfonía, disnea, tos
+
+embolia pulmonar
+
+neumotórax
+
+Trastornos gastrointestinales diarrea, náuseas, vómitos,
+estomatitis, estreñimiento,
+dolor abdominal, dispepsia,
+
+perforación gastrointestinal,
+pancreatitis, fístula, enfer-
+medad por reflujo gastroeso-
+fágico, hemorroides, dolor
+oral, boca seca, disfagia,
+glosodinia
+
+Trastornos hepatobiliares
+
+encefalopatía hepática
+
+hepatitis colestática
+
+Trastornos de la piel y del
+tejido subcutáneo
+
+síndrome de eritrodisestesia
+palmoplantar, erupción
+
+prurito, alopecia, piel seca,
+dermatitis acneiforme,
+cambios del color del pelo,
+hiperqueratosis, eritema
+
+Trastornos musculoesquelé-
+ticos y del tejido conjuntivo
+
+dolor enextremidades
+
+espasmos musculares,
+artralgias
+
+osteonecrosis de la
+mandíbula
+
+Trastornos renales y
+urinarios
+
+proteinuria
+
+Trastornos generales y
+alteraciones en el lugar de
+administración
+
+fatiga, inflamación de las
+mucosas, astenia, edema
+periférico
+
+Exploraciones comple-
+mentariasd
+
+disminución de peso,
+aumento de ALT y AST séricas
+
+Lesiones traumáticas,
+intoxicaciones y complica-
+ciones de procedimientos
+terapéuticos
+
+ALP en sangre elevada, GGT
+aumentada, creatinina en
+sangre elevada, amilasa
+elevada, lipasa elevada
+colesterol elevado en
+sangre, aumento de triglicé-
+ridos en sangre
+
+complicaciones en la cicatri-
+zación de las heridase
+
+a. Incluyendo la polineuropatía; la neuropatía periférica es principalmente sensorial.
+b. Incluyendo la epistaxis como reacción adversa notificada con mayor frecuencia.
+c. Todas las trombosis venosas, incluida la trombosis venosa profunda.
+
+d. En base a las reacciones adversas notificadas.
+e. Alteración en la cicatrización, complicación en el lugar de la incisión y dehiscencia
+de la herida.
+
+En combinación con nivolumab en el tratamiento del CCR avanzado en
+primera línea la incidencia de fístula se notificó en 0,9% de pacientes
+tratados y la intensidad fue de grado 1.En el programa clínico con cabo-
+zantinib ha habido incidencias de fístulas letales.
+
+grave (grado ≥ 3) fue del 2,4% en los pacientes tratados con cabozanti-
+nib. La mediana de tiempo hasta el inicio fue de 14 semanas.
+En el programa clínico de cabozantinib ha habido reportes de hemo-
+rragias letales.
+
+Hemorragia
+En el estudio en CCR después del tratamiento con una terapia previa diri-
+gida al VEGF la incidencia de acontecimientos hemorrágicos graves (grado
+≥ 3) fue de un 2,1% en los pacientes tratados con cabozantinib. La mediana
+del tiempo hasta la aparición de estos eventos fue de 20,9 semanas.
+En el estudio de CCR sin tratamiento previo la incidencia de aconteci-
+mientos hemorrágicos graves (grado ≥ 3) fue de un 5,1% en pacientes
+con CCR tratados con cabozantinib.
+En el estudio de CHC la incidencia de acontecimientos hemorrágicos
+graves (grado ≥ 3) fue del 7,3% en pacientes tratados con cabozantinib.
+La mediana del tiempo hasta el inicio fue de 9,1 semanas.
+En combinación con nivolumab en el tratamiento del CCR avanzado en
+primera línea, la incidencia de hemorragia ≥ grado 3 fue del 1,9% de
+pacientes tratados.
+En el estudio de CDT, la incidencia de acontecimientos de hemorragia
+
+Síndrome de leucoencefalopatía posterior reversible (SLPR)
+Se han notificado de forma rara casos de SLPR.
+
+Elevación de la enzimas hepáticas cuando cabozantinib se combina con
+nivolumab en CCR
+En un ensayo clínico de pacientes con CCR previamente no tratados que
+recibieron  cabozantinib  en  combinación  con  nivolumab,  se  observó
+una incidencia más alta de ALT elevada (10,1%) y AST elevada (8,2%)
+de grados 3 y 4 en relación a cabozantinib en monoterapia en pacientes
+con CCR avanzado (ALT elevada del 3,6% y AST elevada del 3,3%). La
+mediana de tiempo hasta la aparición de ALT o AST elevadas de grado
+>2 fue de 10,1 semanas. En pacientes con ALT o AST elevadas de grado
+>2 las elevaciones se resolvieron hasta grado 0-1 en un 91% con una
+mediana de tiempo hasta la resolución de 2,29 semanas (rango: 0,4
+a 108,1 semanas).
+
+Tabla 3. Reacciones adversas con cabozantinib en combinación con nivolumab
+
+Muy frecuentes
+
+Frecuentes
+
+Poco frecuentes
+
+Frecuencia no conocida
+
+infección respiratoria del
+tracto superior
+
+neumonía
+
+eosinofilia
+
+Hipotiroidismo,
+hipertiroidismo
+disminución del apetito
+
+hipersensibilidad
+(incluyendo reacción
+anafiláctica)
+Insuficiencia suprarrenal
+
+deshidratación
+
+reacción de hipersensibilidad
+relacionada con la perfusión
+
+hipofisitis, tiroiditis
+
+disgeusia, cefalea, mareos
+
+neuropatía periférica
+
+Sistema de clasificación
+de órganos
+Infecciones e infestaciones
+
+Trastornos de la sangre y del
+sistema linfático
+Trastornos del sistema
+inmunológico
+
+Trastornos endocrinos
+
+Trastornos del metabolismo
+y de la nutrición
+Trastornos del sistema
+nervioso
+
+Trastornos del oído y el
+laberinto
+Trastornos cardíacos
+
+encefalitis autoinmune,
+síndrome Guillain-Barré,
+síndrome miasténico
+
+miocarditis
+
+neumotórax
+
+pancreatitis, perforación
+del intestino delgadob,
+glosodinia
+
+Psoriasis, urticaria.
+
+Vasculitis cutánea
+
+osteonecrosis de la mandí-
+bula, miopatía, fístula
+nefritis
+
+tinnitus
+
+fibrilación auricular,
+taquicardia
+trombosisa
+neumonitis, embolismo
+pulmonar, epistaxis,
+derrame pleural
+colitis, gastritis, dolor bucal,
+boca seca, hemorroides
+
+hepatitis
+alopecia, piel seca, eritema,
+cambios del color del pelo.
+
+artritis
+
+Insuficiencia renal, lesión
+renal aguda
+Dolor, dolor torácico
+
+colesterol en sangre eleva-
+do, hipertrigliceridemia
+
+Trastornos vasculares
+Trastornos respiratorios,
+torácicos y mediastínicos
+
+hipertensión
+disfonía, disnea, tos
+
+Trastornos gastrointestinales diarrea, náuseas, vómitos,
+estomatitis, estreñimiento,
+dolor abdominal, dispepsia
+
+Trastornos hepatobiliares
+Trastornos de la piel y del
+tejido subcutáneo
+
+Trastornos musculoesquelé-
+ticos y del tejido conjuntivo
+Trastornos renales y
+urinarios
+Trastornos generales y
+alteraciones en el lugar de
+administración
+Exploraciones
+complementariase
+
+síndrome de eritrodisestesia
+palmoplantar, erupciónc,
+prurito
+Dolor musculoesqueléticod,
+artralgia, espasmo muscular
+proteinuria
+
+fatiga, fiebre, edema
+
+ALT elevada, AST
+elevada, hipofosfatemia,
+hipocalcemia, hipomag-
+nesemia, hiponatremia,
+hiperglucemia, linfopenia,
+fosfatasa alcalina elevada,
+lipasa elevada, amilasa
+elevada, trombocitopenia,
+creatinina elevada, anemia,
+leucopenia, hiperpotasemia,
+neutropenia, hipercalcemia,
+hipoglucemia, hipopo-
+tasemia, bilirrubina total
+elevada, hipermagnesemia,
+hipernatremia, disminución
+de peso
+
+Trastornos oculares
+
+Ojo seco, visión borrosa
+
+uveítis
+
+Las frecuencias de reacciones adversas presentadas en la Tabla 3 pueden no ser total-
+mente atribuibles a cabozantinib solo sino que pueden contener contribuciones de la
+enfermedad subyacente o de nivolumab utilizado en combinación.
+a. Trombosis es un término compuesto que incluye trombosis venosa portal, trom-
+bosis venosa pulmonar, trombosis pulmonar, trombosis aórtica, trombosis arterial,
+trombosis  venosa  profunda,  trombosis  venosa  pélvica,  trombosis  de  la  vena  cava,
+trombosis venosa, trombosis venosa de las extremidades.
+b. Se han notificado casos mortales.
+c. Erupción es un término compuesto que incluye dermatitis, dermatitis acneiforme,
+dermatitis  bullosa,  erupción  exfoliativa,  erupción  eritematosa,  erupción  folicular,
+
+erupción macular, erupción máculo-papular, erupción papular, erupción prurítica y
+erupción medicamentosa.
+d. Dolor musculoesquelético es un término compuesto que incluye dolor de espal-
+da,  dolor  óseo,  dolor  musculoesquelético  torácico,  malestar  musculoesquelético,
+mialgia, dolor en el cuello, dolor en las extremidades, dolor en la columna vertebral.
+e.  Las  frecuencias  de  las  exploraciones  complementarias  reflejan  la  proporción
+de pacientes que experimentaron un empeoramiento de los valores basales de la-
+boratorio con la excepción de disminución de peso, colesterol en sangre elevado e
+hipertrigliceridemia.
+
+Entre  los  45  pacientes  con  elevación  de  ALT  o  AST  de  grado  ≥2  que
+reanudaron el tratamiento con cabozantinib (n=10) o con nivolumab
+(n=10) administrados en monoterapia o con ambos (n=25), se observó
+recurrencia de elevación de ALT o AST de grado ≥2 en 4 pacientes tra-
+tados con cabozantinib, en 3 pacientes tratados con nivolumab y en 8
+pacientes que recibieron cabozantinib y nivolumab.
+
+Hipotiroidismo
+En el estudio en CCR tras terapia previa dirigida a VEGF, la incidencia de
+hipotiroidismo fue del 21% .
+En el estudio en CCR sin tratamiento previo, la incidencia de hipotiroi-
+dismo fue del 23% en los pacientes con CCR tratados con cabozantinib.
+
+En el estudio en CHC, la incidencia de hipotiroidismo fue del 8,1% en
+los pacientes tratados con cabozantinib y los acontecimientos de grado
+3 en el 0,4%.
+En el estudio de CDT, la incidencia de hipotiroidismo fue del 2,4%, todos
+grado 1-2, ninguno precisó modificación del tratamiento.
+En combinación con nivolumab en el tratamiento de primera línea del
+CCR avanzado, la incidencia de hipotiroidismo fue del 35,6% de pacien-
+tes tratados.
+
+Notificación de sospecha de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+
+la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reac-
+ciones  adversas  a  través  del  Sistema  Nacional  de  Farmacovigilancia  al
+siguiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/
+notificanos/eventosadversos y/o al Departamento de Farmacovigilancia
+de  Gador  S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o  telefónica-
+mente al 0800-220-2273.
+Siguiendo  pautas  internacionales,  el  producto  ARKUS®  se  encuentra
+adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia
+diseñadas  para  identificar,  caracterizar,  prevenir  o  minimizar  riesgos
+relacionados a productos medicinales, y la evaluación de la efectividad
+de esas intervenciones.
+
+SOBREDOSIFICACION
+
+No existe un tratamiento específico para la sobredosis de cabozantinib.
+No se han establecido los posibles síntomas de sobredosis.
+En caso de sospecha de sobredosis, se suspenderá la administración de
+ARKUS® y se instaurará tratamiento de soporte. Los parámetros meta-
+bólicos de las pruebas clínicas de laboratorio deben supervisarse con
+una periodicidad sugerida al menos semanal, o más frecuentemente
+según se considere apropiado de acuerdo al criterio del médico tratante
+
+para  evaluar  cualquier  posible  tendencia  de  cambio.  Las  reacciones
+adversas asociadas con la sobredosis deben tratarse sintomáticamente.
+
+"Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones".
+
+CONSERVACIÓN
+
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+
+PRESENTACIONES
+
+Envases conteniendo 30 comprimidos recubiertos.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”.
+
+Información para el paciente
+
+COMPOSICIÓN
+Cada comprimido recubierto de ARKUS® 20 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 25,34 mg) ......... 20 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ..................................... 30,88 mg
+Lactosa monohidrato ........................................................... 15,54 mg
+Croscaramelosa sódica ............................................................. 4,8 mg
+Hidroxipropilcelulosa (EXF) ..................................................... 2,4 mg
+Dióxido de silicio coloidal ....................................................... 0,24 mg
+Estearato de magnesio vegetal ................................................ 0,8 mg
+Laca alumínica de azul de indigotina (CI 73015) .................. 0,001 mg
+Laca alumínica de amarillo de quinoleína (CI 47005) ............. 0,02 mg
+Hidroxipropilmetilcelulosa1) ................................................ 1,877 mg
+Triacetina1) ............................................................................ 0,387 mg
+Dióxido de titanio1) ............................................................... 0,715 mg
+1) Componentes que corresponden a 2,979 mg de Aquarius prime BAT218006 White.
+
+Cada comprimido recubierto de ARKUS® 40 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 50,68 mg) ......... 40 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ...................................... 61,76 mg
+Lactosa monohidrato ........................................................... 31,08 mg
+Croscaramelosa sódica ............................................................. 9,6 mg
+Hidroxipropilcelulosa (EXF) ..................................................... 4,8 mg
+Dióxido de silicio coloidal ....................................................... 0,48 mg
+Estearato de magnesio vegetal ................................................ 1,6 mg
+Óxido de hierro negro (CI N°77499) ..................................... 0,043 mg
+Hidroxipropilmetilcelulosa1) ................................................ 3,753 mg
+Triacetina1) ............................................................................ 0,774 mg
+Dióxido de titanio1) ............................................................... 1,430 mg
+1)  Componentes  que  corresponden  a  5,957  mg  de  Aquarius  prime  BAT218006
+White.
+
+Cada comprimido recubierto de ARKUS® 60 contiene:
+Cabozantinib (como Cabozantinib (S)-malato 76,02 mg) ......... 60 mg
+Excipientes:
+Celulosa microcristalina (Tipo 102) ..................................... 92,64 mg
+Lactosa monohidrato ........................................................... 46,62 mg
+Croscaramelosa sódica .......................................................... 14,4 mg
+Hidroxipropilcelulosa (EXF) ...................................................... 7,2 mg
+Dióxido de silicio coloidal ....................................................... 0,72 mg
+Estearato de magnesio vegetal ................................................ 2,4 mg
+Óxido de hierro amarillo (CI No77492) ................................. 0,165 mg
+Hidroxipropilmetilcelulosa1) ................................................. 5,566mg
+Triacetina1) ............................................................................. 1,149 mg
+Dióxido de titanio1) ................................................................ 2,120 mg
+1)  Componentes  que  corresponden  a  8,835  mg  de  Aquarius  prime  BAT218006
+White.
+
+Lea todo el prospecto detenidamente antes de empezar a tomar este
+medicamento, y cada vez que se lo vuelvan a recetar, pues puede ha-
+ber nueva información. Esta información no reemplaza a hablar con
+su médico sobre su estado de salud o su tratamiento.
+•  Conserve este prospecto, ya que puede tener que volver a leerlo.
+•  Si tiene alguna duda, CONSULTE A SU MÉDICO.
+•  Este medicamento se le ha recetado solamente a usted, y no debe
+dárselo a otras personas aunque tengan los mismos síntomas que
+usted, ya que puede perjudicarles.
+
+•  Si experimenta efectos no deseados, CONSULTE A SU MÉDICO,
+incluso si se trata de posibles efectos adversos que no aparecen
+en este prospecto.
+
+Este medicamento está sujeto a seguimiento adicional, lo que agi-
+lizará la detección de nueva información sobre su seguridad. Puede
+contribuir comunicando los efectos adversos que pudiera usted tener.
+
+¿Qué es ARKUS® y para qué se utiliza?
+ARKUS® es un medicamento para el cáncer que contiene el principio
+activo cabozantinib. Se utiliza para tratar:
+•  Personas con cáncer de riñón (carcinoma de células renales):
+ — como monoterapia para tratar a personas con carcinoma de
+células renales (CCR) que se ha diseminado (CCR avanzado);
+ — en  combinación  con  nivolumab  cuando  su  cáncer  se  ha
+propagado  (CCR  avanzado)  y  usted  aún  no  ha  recibido
+tratamiento para su CCR avanzado.
+
+•  Personas  con  cáncer  de  hígado  (carcinoma  hepatocelular)
+que hayan sido tratadas previamente con el medicamento
+sorafenib.
+
+•  Adultos y niños de 12 o más años de edad que tienen un tipo de
+cáncer de tiroides llamado cáncer diferenciado de tiroides (CDT)
+que se ha extendido (localmente avanzado o metastásico), y ha
+progresado después del tratamiento con una terapia dirigida
+a VEGFR, y su CDT ya no puede tratarse con yodo radiactivo, o
+usted no puede recibir tratamiento con yodo radiactivo.
+
+ ARKUS® bloquea la acción de las proteínas denominadas “receptores
+tirosina-kinasas” (RTK), que intervienen en el crecimiento de las células
+y el desarrollo de los nuevos vasos sanguíneos que aportan suministro
+sanguíneo a estas células. Estas proteínas pueden estar presentes en
+altas  cantidades  en  las  células  cancerosas,  y  al  bloquear  su  acción,
+ARKUS® puede enlentecer el ritmo al que el tumor crece y ayudar a
+interrumpir el aporte de sangre que el cáncer necesita para persistir.
+
+¿Qué  necesito  saber  antes  de  empezar  a  tomar  ARKUS®y
+durante el tratamiento?
+¿Quiénes no deben tomar ARKUS®?
+No tome ARKUS®:
+ — Si es alérgico a cabozantinib o a alguno de los demás componentes
+
+de este medicamento.
+
+¿Qué debo informar a mi médico antes de tomar ARKUS®?
+Consulte a su médico antes de empezar a tomar ARKUS® y dígale:
+ — Si tiene tensión arterial alta.
+ — Si tiene o ha tenido un aneurisma (aumento y debilitamiento de
+la pared de un vaso sanguíneo) o un desgarro en la pared de un
+vaso sanguíneo.
+ — Si tiene diarrea.
+ — Si tiene antecedentes recientes de hemorragia considerable.
+ — Si se ha sometido a una intervención quirúrgica en el último mes (o
+
+si tiene alguna programada), incluida cirugía dental.
+
+ — Si tiene enfermedad inflamatoria del intestino (como enfermedad
+
+de Crohn, colitis ulcerosa, diverticulitis, o apendicitis).
+
+ — Si tiene antecedentes recientes de coágulos sanguíneos en la pier-
+
+na, ataque cerebral, o ataque al corazón.
+
+ — Si tiene problemas de tiroides. Se debe controlar su función tiroi-
+dea antes de tomar este medicamento y regularmente mientras lo
+esté tomando. Informe a su médico si se cansa más fácilmente, si
+siente más frío que otras personas o si su voz se hace más grave
+mientras está tomando este medicamento. Si su glándula tiroidea
+no produce suficiente hormona tiroidea, le pueden tratar con un
+sustituto de la hormona tiroidea.
+
+ — Si padece una enfermedad de hígado o de riñón.
+Consulte con su médico si presenta algo de lo descrito anteriormente.
+Es posible que necesite una terapia específica, o que el médico decida
+cambiar la dosis de ARKUS® o interrumpir por completo el tratamiento.
+
+Niños y adolescentes
+Se desconocen los efectos de cabozantinib en menores de 12 años.
+
+¿Puedo tomar ARKUS® con otros medicamentos?
+Informe  a  su  médico  si  está  tomando,  o  ha  tomado  recientemente
+algún otro medicamento, incluso los adquiridos sin receta médica,
+o suplementos a base de hierbas. Esto se debe a que ARKUS® puede
+afectar el modo en que otros medicamentos actúan. Asimismo, algu-
+nos medicamentos pueden afectar a la manera en que actúa ARKUS®.
+Esto podría obligar al médico a cambiar la(s) dosis que usted toma.
+Debe informar a su médico acerca de cualquier medicamento, pero
+particularmente si está tomando:
+ — Medicamentos  para  tratar  infecciones  fúngicas  (por  hongos),
+
+como itraconazol, ketoconazol y posaconazol.
+
+ — Medicamentos utilizados para tratar infecciones bacterianas (anti-
+
+bióticos), como eritromicina, claritromicina y rifampicina.
+
+ — Medicamentos para la alergia, como fexofenadina.
+ — Medicamentos para tratar la angina de pecho (dolor en el pecho debi-
+do a un inadecuado suministro de sangre al corazón) como ranolazina.
+ — Medicamentos utilizados para tratar la epilepsia o convulsiones,
+
+como fenitoína, carbamazepina y fenobarbital.
+
+ — Medicamentos  a  base  de  plantas  que  contengan  hierba  de  San
+Juan  (Hypericum  perforatum),  que  en  ocasiones  se  usa  para  el
+tratamiento de la depresión o de estados relacionados con la de-
+presión, como la ansiedad.
+
+ — Medicamentos  anticoagulantes  como  Warfarina  y  dabigatrán
+
+etexilato.
+
+ — Medicamentos  para  tratar  la  tensión  arterial  alta  u  otras  enfer-
+medades  del  corazón,  como  aliskiren,  ambrisentrán,  digoxina,
+talinolol y tolvaptán.
+
+ — Medicamentos para la diabetes, como saxagliptina y sitagliptina.
+ — Medicamentos para el tratamiento de la gota, como colchicina.
+ — Medicamentos utilizados para tratar el VIH o el SIDA, como efavi-
+
+renz, ritonavir, maraviroc y emtricitabina.
+
+ — Medicamentos  utilizados  para  prevenir  rechazos  después  de  un
+trasplante (ciclosporina) y regímenes de tratamiento con ciclospo-
+rina en artritis reumatoide y psoriasis.
+
+ — Anticonceptivos orales: Si toma ARKUS® durante el uso de anticon-
+ceptivos orales, la anticoncepción oral puede resultar ineficaz, por
+lo que debe utilizar también un método anticonceptivo de barrera
+(por ejemplo, preservativo o diafragma) mientras tome ARKUS® y
+durante un período mínimo de 4 meses después de la finalización
+del tratamiento.
+
+Toma de ARKUS® con alimentos
+No debe tomar ARKUS® con alimentos. No debe tomar ningún ali-
+mento durante al menos dos horas antes de tomar ARKUS® y durante
+una hora después de hacerlo. Evite tomar productos que contengan
+jugo de pomelo durante todo el tiempo que use este medicamento,
+dado que pueden incrementar los niveles de ARKUS® en la sangre.
+
+Embarazo, lactancia y fertilidad
+Se debe evitar el embarazo durante el tratamiento con ARKUS®. Si
+usted  o  su  pareja  pueden  embarazarse,  deben  usar  métodos  anti-
+conceptivos  adecuados  durante  todo  el  tratamiento  y  hasta  como
+mínimo cuatro meses después de terminar la terapia con ARKUS®.
+
+Hable con su médico acerca de cuáles son los métodos anticoncep-
+tivos apropiados mientras toma ARKUS® (ver también “Otros medi-
+camentos y ARKUS®”).
+Consulte a su médico si usted o su pareja se embarazan, o si usted o
+su pareja planean un embarazo, durante el tratamiento con ARKUS®.
+Hable con su médico ANTES de empezar a tomar ARKUS® si usted o
+su pareja están planeando o tienen ya planeado tener un hijo una vez
+finalizado el tratamiento. Existe la posibilidad de que el tratamiento
+con ARKUS® afecte su fertilidad.
+Las mujeres que tomen ARKUS® deben suspender la lactancia duran-
+te el tratamiento y como mínimo hasta cuatro meses después de que
+la terapia haya finalizado, puesto que cabozantinib y/o sus metabo-
+litos pueden excretarse en la leche materna y ser perjudiciales para
+el bebé lactante.
+
+Conducción y uso de máquinas
+Tenga precaución al conducir o usar máquinas. Tenga presente que el
+tratamiento con ARKUS® puede hacer que se sienta cansado o débil y
+puede afectar a su capacidad para conducir y usar máquinas.
+
+ARKUS® contiene lactosa
+ARKUS® contiene lactosa (un tipo de azúcar). Si su médico le ha indi-
+cado que padece una intolerancia a ciertos azúcares, consulte con él
+antes de tomar este medicamento.
+
+¿Cómo debo tomar ARKUS®?
+La vía de administración de ARKUS® es oral. Siga exactamente las ins-
+trucciones de administración de este medicamento indicadas por su
+médico. En caso de duda, consulte de nuevo a su médico.
+Siga  tomando  este  medicamento  hasta  que  su  médico  decida  inte-
+rrumpir  el  tratamiento.  Si  sufre  efectos  adversos  graves,  el  médico
+puede decidir cambiar la dosis o interrumpir el tratamiento antes de lo
+planeado al principio. Su médico le dirá si es necesario ajustar su dosis.
+
+No debe tomar ARKUS® con alimentos. No debe tomar ningún ali-
+mento durante al menos dos horas antes de tomar ARKUS® y durante
+una hora después de hacerlo. Trague el comprimido con un vaso lleno
+de agua. No triturar los comprimidos.
+Evite tomar productos que contengan jugo de pomelo durante todo
+el tiempo que use este medicamento, dado que pueden incrementar
+los niveles de ARKUS® en la sangre.
+
+¿Qué debo hacer en caso de sobredosis?
+Si  ha  tomado  más  ARKUS®  del  que  le  han  indicado,  hable  con  un
+médico o acuda al hospital inmediatamente con los comprimidos y
+este prospecto.
+"Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones".
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si olvidó tomar ARKUS®
+•  Si quedan 12 o más horas hasta la próxima dosis, tome inmedia-
+tamente la dosis que había olvidado. Tome la siguiente dosis a la
+hora habitual.
+
+•  Si quedan menos de 12 horas para la próxima dosis, no tome la do-
+sis que había olvidado. Tome la siguiente dosis a la hora habitual.
+
+Si interrumpe el tratamiento con ARKUS®
+No deje de tomar este medicamento salvo que se lo indique su médico.
+Cuando este medicamento se administra en combinación con nivo-
+lumab, primero se le administrará nivolumab seguido de ARKUS®
+Consulte el prospecto de nivolumab para entender cómo se utiliza
+este medicamento.
+Si tiene cualquier otra duda sobre el uso de este medicamento, CON-
+SULTE A SU MÉDICO.
+
+¿Cuáles son los posibles efectos adversos de ARKUS®?
+Al  igual  que  todos  los  medicamentos,  este  medicamento  puede
+producir efectos adversos, aunque no todas las personas los sufran.
+Si  presenta  efectos  adversos,  su  médico  puede  decirle  que  tome
+ARKUS® a una dosis menor. Su médico puede también prescribirle
+otros medicamentos que ayuden a controlar los efectos adversos.
+Informe inmediatamente a su médico si nota alguno de los si-
+guientes efectos adversos, ya que puede necesitar tratamiento
+médico urgente:
+•  Síntomas como dolor en el abdomen, náuseas, vómitos, estreñi-
+miento o fiebre. Estos síntomas pueden ser consecuencia de una
+
+perforación gastrointestinal, un orificio en el estómago o el intesti-
+no que puede poner en peligro la vida.
+
+•  Sangrado grave o incontrolable con síntomas como: sangre en vómi-
+tos, heces negras, sangre en orina, dolor de cabeza, tos con sangre.
+
+•  Hinchazón, dolor en manos y pies, o dificultad para respirar.
+•  Una herida que no cicatriza.
+•  Convulsiones, dolor de cabeza, confusión o dificultad para concen-
+trarse. Estos pueden ser signos de una enfermedad llamada síndro-
+me de leucoencefalopatía posterior reversible (SLPR). El SLPR ocu-
+rre muy raramente (afecta a menos de una de cada 1000 personas).
+•  Sensación  de  somnolencia,  confusión  o  pérdida  de  consciencia.
+
+Esto se puede deber a problemas hepáticos.
+
+•  Dolor en la boca, dientes y/o mandíbula, inflamación o llagas en la
+boca, entumecimiento o sensación de pesadez en la mandíbula, o
+notar un diente flojo. Estos pueden ser síntomas de daño óseo en la
+mandíbula (osteonecrosis).
+
+Otros efectos adversos pueden ser:
+Efectos adversos muy frecuentes (pueden afectar a más de 1 de cada
+10 personas):
+•  Trastornos estomacales, como diarrea, náuseas, vómitos, estreñi-
+
+miento, indigestión y dolor abdominal.
+
+•  Elevación grave de la tensión arterial
+•  Disminución del flujo biliar del hígado.
+•  Daño óseo en la mandíbula.
+•  Colapso  pulmonar  con  aire  que  se  filtra  en  el  espacio  entre  el
+pulmón  y  la  pared  torácica,  que  a  menudo  causa  dificultad  para
+respirar (neumotórax)
+
+Frecuencia no conocida (proporción de personas afectadas no conocida)
+•  Ataque al corazón.
+•  Aumento y debilitamiento de la pared de un vaso sanguíneo o desgarro
+de la pared de un vaso sanguíneo (aneurismas y disecciones arteriales).
+•  Inflamación de los vasos sanguíneos en la piel (vasculitis cutánea)
+
+Efectos adversos del uso combinado de cabozantinib con nivolumab
+Los siguientes efectos adversos se han notificado con el uso de cabo-
+zantinib en combinación con nivolumab:
+Efectos adversos muy frecuentes (pueden afectar más de 1 de cada
+10 personas):
+•  Infecciones en el tracto respiratorio superior.
+•  Actividad reducida de la tiroides; los síntomas pueden incluir cansan-
+cio, aumento de peso, estreñimiento, sensación de frío y piel seca.
+•  Actividad  de  la  tiroides  aumentada;  los  síntomas  pueden  incluir
+
+•  Ampollas, dolor en las manos o las plantas de los pies, erupción
+
+frecuencia cardíaca rápida, sudoración y pérdida de peso.
+
+cutánea o enrojecimiento de la piel.
+
+•  Disminución  del  apetito,  pérdida  de  peso,  alteración  del  sentido
+
+del gusto.
+
+•  Fatiga, debilidad, dolor de cabeza, mareos.
+•  Hipertensión (aumento de la tensión arterial).
+•  Anemia (niveles bajos de glóbulos rojos).
+•  Nivel bajo de plaquetas.
+•  Enrojecimiento, hinchazón o dolor en la boca o la garganta, dificul-
+
+tades para hablar, ronquera, tos.
+
+•  Cambios en los resultados de los análisis de sangre que se utilizan
+para supervisar el estado de salud general y el funcionamiento de
+los órganos (incluidos el hígado y el riñón), niveles bajos de electro-
+litos (como magnesio o potasio).
+
+•  Dificultad para respirar.
+•  Reducción  de  la  actividad  tiroidea,  cuyos  síntomas  pueden  ser,
+entre otros: cansancio, aumento de peso, estreñimiento, sensación
+de frío y piel seca.
+
+•  Hinchazón de brazos y piernas.
+•  Dolor en los brazos, manos, piernas o pies.
+•  Nivel bajo de albúmina en sangre.
+
+Efectos adversos frecuentes (pueden afectar hasta 1 de cada 10 personas)
+•  Absceso (acumulación de pus con hinchazón e inflamación).
+•  Deshidratación (falta de líquidos).
+•  Dificultad al tragar.
+•  Zumbidos o pitidos en los oídos.
+•  Coágulos de sangre en las venas, las arterias y los pulmones.
+•  Bajo nivel de leucocitos.
+•  Aumento o descenso del nivel de glucosa en sangre.
+•  Descenso en los niveles de calcio, sodio y fosfato en sangre.
+•  Incremento del nivel de potasio en sangre.
+•  Incremento del nivel de bilirrubina en sangre (que puede provocar
+
+ictericia/coloración amarillenta de ojos o piel).
+•  Aumento de los niveles de amilasa en sangre.
+•  Aumento de los niveles de lipasa en sangre.
+•  Aumento en los niveles de colesterol o triglicéridos en sangre.
+•  Entumecimiento,  hormigueo,  sensación  de  ardor  o  dolor  en  las
+
+extremidades.
+
+•  Inflamación del páncreas.
+•  Desgarro doloroso o conexión anómala de los tejidos del cuerpo.
+•  Enfermedad  por  reflujo  gastroesofágico  (reflujo  del  ácido  del
+
+estómago).
+•  Hemorroides.
+•  Boca seca y dolor en la boca.
+•  Sensación de somnolencia, confusión o pérdida del conocimiento
+
+debido a problemas hepáticos.
+
+•  Piel seca, picazón grave en la piel, acné.
+•  Engrosamiento de la capa externa de la piel
+•  Alopecia  (caída  del  cabello  o  cabello  más  fino),  cambio  del  color
+
+del pelo.
+
+•  Dolor en articulaciones, espasmos musculares.
+•  Proteína en orina (observada en análisis).
+•  Sensación de ardor o escozor en la lengua.
+•  Complicaciones en la cicatrización de las heridas.
+
+Efectos adversos poco frecuentes (pueden afectar hasta 1 de cada 100
+personas):
+•  Convulsiones.
+•  Ictus
+
+•  Disminución del apetito, sentido del gusto alterado.
+•  Dolor de cabeza, mareos.
+•  Hipertensión (presión arterial alta).
+•  Dificultad al hablar, ronquera (disfonía), tos y dificultad para respirar.
+•  Molestia  estomacal,  que  incluye  diarrea,  náuseas,  vómitos,  indi-
+
+gestión, dolor abdominal y estreñimiento.
+
+•  Enrojecimiento, hinchazón o dolor en la boca o garganta (estomatitis)
+•  Erupción cutánea, algunas veces con ampollas, picor, dolor en las
+manos o plantas de los pies, erupción o enrojecimiento de la piel.
+•  Dolor  en  articulaciones  (artralgia),  espasmo  muscular,  debilidad
+
+muscular y músculos doloridos.
+
+•  Proteína en orina (detectado en análisis).
+•  Sensación de estar cansado o débil, fiebre y edema (hinchazón).
+
+Efectos adversos frecuentes (puede afectar hasta 1 de cada 10 personas)
+•  Infección pulmonar grave (neumonía):
+•  Incremento de ciertos glóbulos blancos denominados eosinófilos.
+•  Reacción alérgica (incluyendo reacción anafilática).
+•  Disminución de la secreción de las hormonas producidas por las glán-
+dulas suprarrenales (glándulas situadas por encima de los riñones).
+
+•  Deshidratación.
+•  Inflamación de los nervios (que causa entumecimiento, debilidad,
+
+hormigueo o ardor de los brazos y piernas).
+
+•  Pitidos en los oídos (tinnitus).
+•  Ojos secos y visión borrosa.
+•  Cambios en el ritmo o la frecuencia cardíaca, frecuencia cardíaca
+
+rápida.
+
+•  Coágulos de sangre en los vasos sanguíneos.
+•  Inflamación de los pulmones (neumonitis, caracterizada por tos y
+dificultad para respirar), coágulos de sangre en el pulmón, líquido
+alrededor de los pulmones.
+
+•  Sangrado de la nariz.
+•  Inflamación del colon (colitis), boca seca, dolor en la boca, inflama-
+
+ción del estómago (gastritis) y hemorroides (almorranas).
+
+•  Inflamación del hígado (hepatitis).
+•  Piel seca y picor de la piel intenso.
+•  Alopecia (pérdida del cabello y cabello más fino), cambio de color
+
+del cabello.
+
+•  Inflamación de las articulaciones (artritis).
+•  Insuficiencia renal (incluyendo pérdida repentina de la función renal)
+•  Dolor, dolor en el pecho.
+
+Efectos  adversos  poco  frecuentes  (pueden  afectar  1  de  cada  100
+personas):
+•  Reacciones alérgicas relacionadas con la perfusión del medicamen-
+
+to nivolumab.
+
+•  Inflamación de la glándula pituitaria situada en la base del cerebro
+
+(hipofisitis), inflamación de la glándula tiroides (tiroiditis).
+
+•  Una inflamación temporal de los nervios que causa dolor, debili-
+dad y parálisis en las extremidades (síndrome de Guillain Barré);
+debilidad muscular y cansancio sin atrofia (síndrome miasténico).
+
+•  Inflamación del cerebro.
+•  Inflamación del ojo (que causa dolor y enrojecimiento).
+•  Inflamación del músculo cardíaco.
+•  Inflamación del páncreas (pancreatitis), perforación intestinal, ar-
+
+dor o sensación dolorosa en la lengua (glosodinia).
+
+•  Enfermedad cutánea con áreas engrosadas de piel roja, a menudo
+
+con escamas plateadas (psoriasis).
+
+•  Urticaria (erupción con picor).
+
+•  Sensación  de  debilidad  muscular,  no  causada  por  ejercicio  (mio-
+patía), daño óseo en la mandíbula, desgarro doloroso o conexión
+anómala en los tejidos del cuerpo (fistula).
+
+•  Inflamación del riñón.
+•  Colapso  pulmonar  con  aire  que  se  filtra  en  el  espacio  entre  el
+pulmón  y  la  pared  torácica,  que  a  menudo  causa  dificultad  para
+respirar (neumotórax).
+
+Frecuencia no conocida (proporción de personas afectadas no conocida):
+• Inflamación de los vasos sanguíneos en la piel (vasculitis cutánea).
+
+recen en este prospecto. También puede comunicarse al Departa-
+mento de Farmacovigilancia Gador S.A, al teléfono 0800-220-2273
+o a farmacovigilancia@gador.com.
+“Ante cualquier inconveniente con el producto usted puede llenar la ficha
+que está en la Página Web de la ANMAT: https://www.argentina.gob.ar/
+anmat/farmacovigilancia/notificanos/pacientes  o llamar a ANMAT res-
+ponde al 0800-333-1234”.
+Mediante la comunicación de efectos no deseados usted puede con-
+tribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este
+medicamento.
+
+Cambios en los resultados analíticos
+•  Análisis  de  función  hepática  anómalos  (aumento  de  las  enzimas
+hepáticas  aspartato  aminotransferasa,  alanino  aminotransferasa
+o  fosfatasa  alcalina  en  sangre,  niveles  sanguíneos  elevados  del
+producto de desecho bilirrubina).
+
+•  Análisis de la función renal anómalos (aumento de la creatinina en
+
+sangre).
+
+•  Niveles elevados (hiperglucemia) o bajos (hipoglucemia) de azúcar
+
+en sangre.
+
+•  Descenso del número de glóbulos rojos (que transportan oxígeno),
+glóbulos blancos (que son importantes para luchar frente a la infec-
+ción) o plaquetas (células que ayudan a la sangre a coagular).
+
+•  Nivel elevado de la enzima que descompone las grasas y de la enzi-
+
+ma que descompone el almidón.
+•  Disminución en los niveles de fosfato.
+•  Aumento o descenso de la cantidad de calcio o potasio.
+•  Aumento o descenso de los niveles sanguíneos de magnesio o sodio
+•  Disminución del peso corporal.
+•  Aumento de los niveles de triglicéridos en sangre.
+•  Aumento de los niveles de colesterol en sangre.
+
+Siguiendo pautas internacionales, el producto ARKUS® se en-
+cuentra adherido a un Plan de Gestión de Riesgo (PGR) aproba-
+do por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmaco-
+vigilancia  diseñadas  para  identificar,  caracterizar,  prevenir  o
+minimizar  riesgos  relacionados  a  productos  medicinales,  y  la
+evaluación de la efectividad de esas intervenciones.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico
+actual. No lo recomiende a otras personas”.
+
+Conservación de ARKUS®
+Mantener en su envase original a temperatura ambiente hasta 30oC.
+No utilice este medicamento si la etiqueta o el envase está dañado.
+Ud. puede tomar ARKUS® hasta el último día del mes indicado en el
+envase. No tome ARKUS® luego de la fecha de vencimiento.
+
+Presentaciones
+Envases conteniendo 30 comprimidos recubiertos.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto no deseado, consulte a su
+médico, incluso si se trata de posibles efectos adversos que no apa-
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A.
+
+Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000. Elaborado en Ruta 8, Km 60, Calle 10, Parque Industrial
+
+Pilar, Pcia. de Bs. As., Argentina. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S.: Certificado N° 59.174. Fecha de última revisión: 12/2023
+
+G00208702-03

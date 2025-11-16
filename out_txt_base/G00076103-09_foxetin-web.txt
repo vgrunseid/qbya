@@ -1,0 +1,1242 @@
+FOXETIN®
+FLUOXETINA 10 mg y 20 mg
+(COMO CLORHIDRATO)
+Venta bajo receta archivada (PSI IV). Industria Argentina.
+Vía de administración: Oral.
+
+COMPOSICIÓN
+
+FARMACOCINÉTICA
+
+Cada comprimido ranurado de FOXETIN® 10 contiene:
+Fluoxetina (como clorhidrato 11,21 mg) ........................................... 10 mg
+Excipientes:
+Celulosa microcristalina............................................................ 143,767 mg
+Croscaramelosa sódica.....................................................................4,95 mg
+Amarillo de quinoleina laca alumínica ........................................... 0,16 mg
+Dióxido de silicio coloidal ................................................................0,82 mg
+Estearato de magnesio ...................................................................4,125 mg
+
+Cada comprimido ranurado de FOXETIN® 20 contiene:
+Fluoxetina (como clorhidrato 22,43 mg) .......................................... 20 mg
+Excipientes:
+Celulosa microcristalina............................................................132,242 mg
+Tartrazina laca alumínica ...............................................................0,408 mg
+Azul brillante laca alumínica......................................................... 0,093 mg
+Dióxido de silicio coloidal ............................................................. 0,825 mg
+Estearato de magnesio ...................................................................4,125 mg
+Croscaramelosa sódica  ....................................................................4,95 mg
+
+ACCIÓN TERAPÉUTICA
+
+Antidepresivo.
+Código ATC: N06AB03.
+
+INDICACIONES
+
+Trastorno Depresivo Mayor (TDM)
+FOXETIN® está indicado para el tratamiento, agudo y de mantenimiento,
+del Trastorno Depresivo Mayor (según DSM-IV), en adultos, niños y ado-
+lescentes de 8 a 18 años.
+
+Trastorno Obsesivo-Compulsivo (TOC)
+FOXETIN® está indicado en el tratamiento, agudo y de mantenimiento,
+de obsesiones y compulsiones en pacientes con TOC (según DSM IV),
+adultos, niños y adolescentes de 7 a 17 años.
+
+Bulimia nerviosa
+FOXETIN® está indicado para el tratamiento, agudo y de mantenimiento,
+de atracones y vómitos en pacientes con bulimia nerviosa moderada a
+severa (según DSM-IV).
+
+Trastorno de angustia con o sin agorafobia
+FOXETIN® está indicado para el tratamiento agudo del Trastorno de an-
+gustia, con o sin agorafobia, (según DSM-IV).
+
+Trastorno Disfórico Premenstrual (TDPM)
+FOXETIN® está indicado para el tratamiento del Trastorno Disfórico Pre-
+menstrual (según DSM-IV).
+
+ACCIÓN FARMACOLÓGICA
+
+Se  presume  que  las  acciones  antidepresiva,  antiobsesiva-compulsiva
+y  antibulímica  de  fluoxetina  están  relacionadas  con  la  inhibición  de
+la recaptación de serotonina en el sistema nervioso central (SNC). Los
+estudios en humanos han demostrado que fluoxetina bloquea la recap-
+tación de serotonina en las plaquetas. Los estudios en animales también
+sugieren que fluoxetina es un inhibidor de la recaptación de serotonina
+mucho más potente que de la recaptación de norepinefrina. Se ha for-
+mulado la hipótesis de que el antagonismo de los receptores muscaríni-
+cos, histaminérgicos y α1-adrenérgicos está asociado a diversos efectos
+anticolinérgicos,  sedantes  y  cardiovasculares  de  los  antidepresivos
+tricíclicos clásicos (ATC). La fluoxetina se liga a éstos y otros receptores de
+membranas de tejido cerebral con mucho menor potencia in vitro que
+los antidepresivos tricíclicos.
+
+Biodisponibilidad sistémica
+En los humanos, tras la administración de una dosis oral única de 40 mg,
+se  observan  concentraciones  plasmáticas  pico  de  fluoxetina  de  15  a
+55 ng/mL después de 6 a 8 horas. Los alimentos no parecen afectar la
+biodisponibilidad sistémica de fluoxetina, aunque pueden retrasar su
+absorción en 1 a 2 horas sin consecuencias clínicas significativas. Por lo
+tanto, fluoxetina puede administrarse con o sin alimentos.
+
+Ligadura proteica
+En el rango de concentraciones de 200 a 1000 ng/ml, aproximadamente
+el 94,5% de fluoxetina se une in vitro a las proteínas plasmáticas, inclu-
+yendo a la albúmina y a la α1-glucoproteína. La interacción entre fluoxe-
+tina y otros fármacos con alta ligadura proteica no ha sido evaluada por
+completo, pero puede ser importante (Ver Precauciones).
+
+Enantiómeros
+La  fluoxetina  es  una  mezcla  racémica  (50/50)  de  los  enantiómeros
+R-fluoxetina y S-fluoxetina. En modelos animales, los dos enantiómeros
+son inhibidores específicos y potentes de la recaptación de serotonina,
+con actividad farmacológica esencialmente equivalente. El enantiómero
+S-fluoxetina es eliminado más lentamente y es el enantiómero predo-
+minante, presente en concentraciones plasmáticas en estado estable.
+
+Metabolismo
+La fluoxetina es metabolizada extensamente en el hígado a norfluoxetina
+y varios otros metabolitos no identificados. El único metabolito activo
+identificado, la norfluoxetina, es formado por la demetilación de fluoxe-
+tina. En modelos animales, la S-norfluoxetina es un inhibidor potente y
+selectivo de la recaptación de serotonina y tiene actividad esencialmen-
+te equivalente a las presentadas por la R-fluoxetina o la S-fluoxetina. La
+R-norfluoxetina es significativamente menos potente que la droga ma-
+dre en la inhibición de la recaptación de serotonina. La vía principal de
+eliminación parece ser el metabolismo hepático a metabolitos inactivos
+excretados por el riñón.
+
+Variabilidad del metabolismo
+Los  individuos  metabolizadores  lentos,  metabolizaron  la  S-fluoxetina
+a  una  velocidad  más  lenta  y,  por  lo  tanto,  obtuvieron  concentraciones
+más  altas  de  S-fluoxetina.  Por  consiguiente,  las  concentraciones  de
+S-norfluoxetina en estado estable fueron más bajas. El metabolismo de
+la  R-fluoxetina  en  estos  metabolizadores  lentos  parece  ser  normal.  En
+comparación con los metabolizadores normales, la suma total en el estado
+estable de las concentraciones plasmáticas de los 4 enantiómeros activos
+no fue significativamente mayor entre los metabolizadores lentos. Por lo
+tanto, las actividades farmacodinámicas netas fueron esencialmente igua-
+les. Otras vías alternativas, no saturables (ajenas a la vía de la enzima 2D6)
+también contribuyen al metabolismo de fluoxetina. Como el metabolismo
+de fluoxetina, igual que el de varios otros compuestos tales como los ATCs
+y otros ISRSs, está relacionado con el sistema CYP2D6, el tratamiento con-
+comitante con fármacos que también son metabolizados por ese sistema
+enzimático (tales como los ATCs) puede dar lugar a interacciones medica-
+mentosas (Ver Precauciones, Interacciones medicamentosas).
+
+Acumulación y eliminación lenta
+La eliminación lenta de fluoxetina (vida media de eliminación de 1 a 3 días
+luego de la administración aguda y de 4 a 6 días luego de la administra-
+ción crónica) y de su metabolito activo, la norfluoxetina (vida media de
+eliminación de 4 a 16 días luego de la administración aguda y crónica),
+produce  una  acumulación  significativa  de  estas  especies  activas  en  el
+uso crónico y un retraso para alcanzar el estado estable, incluso cuando
+se utiliza una dosis fija. Después de 30 días de tratamiento con dosis de 40
+mg/día, se han observado concentraciones plasmáticas de fluoxetina en el
+rango de 91 a 302 ng/ml y de norfluoxetina en el rango de 72 a 258 ng/
+ml. Las concentraciones plasmáticas de fluoxetina fueron más altas que
+
+las predichas por los estudios de dosis únicas, porque el metabolismo de
+fluoxetina no es proporcional a la dosis. La norfluoxetina, sin embargo,
+parece tener una farmacocinética lineal. Su vida media terminal promedio
+luego de una dosis única fue de 8,6 días y tras la administración de dosis
+repetidas fue de 9,3 días. Las concentraciones en estado estable luego
+de la administración prolongada son semejantes a las que se observan
+después  de  4  a  5  semanas.  Las  largas  vidas  medias  de  eliminación  de
+fluoxetina  y  de  la  norfluoxetina  aseguran  que,  incluso  cuando  se  inte-
+rrumpe la administración, la droga activa persistirá en el cuerpo durante
+semanas (dependiendo principalmente de las características individuales
+del paciente, del esquema previo de administración y de la duración del
+tratamiento anterior cuando éste fue suspendido). Esto tiene consecuen-
+cias potenciales cuando es necesario discontinuar el fármaco o cuando se
+prescriben fármacos que podrían interactuar con fluoxetina y norfluoxeti-
+na después de la suspensión de FOXETIN®.
+
+Enfermedad hepática
+El deterioro hepático puede afectar la eliminación de fluoxetina. Su vida
+media de eliminación se prolongó en un estudio con pacientes cirróti-
+cos, (media de 7,6 días en comparación con 2 a 3 días observados en los
+pacientes sin enfermedad hepática). La eliminación de la norfluoxetina
+también se prolongó, con una duración media de 12 días para los pa-
+cientes cirróticos en comparación con 7 a 9 días en pacientes normales.
+Esto sugiere que el uso de fluoxetina en pacientes con enfermedad he-
+pática debe ser abordado con precaución. Si se administra fluoxetina a
+pacientes con enfermedad hepática, se debe utilizar una dosis más baja
+o con un intervalo interdosis más prolongado (Ver Precauciones y Poso-
+logía y forma de administración).
+
+Enfermedad renal
+En pacientes depresivos en diálisis (N=12), 20 mg de fluoxetina en una
+toma diaria durante 2 meses produjo concentraciones plasmáticas esta-
+bles de fluoxetina y de norfluoxetina comparables a las observadas en
+pacientes con una función renal normal. Aunque existe la posibilidad
+de que los metabolitos de fluoxetina excretados por vía renal puedan
+acumularse en concentraciones más altas en pacientes con disfunción
+renal severa, habitualmente no es necesario administrar una dosis más
+baja a los pacientes con deterioro renal (Ver Precauciones y Posología y
+forma de administración).
+
+Farmacocinética geriátrica
+La  disposición  de  dosis  únicas  de  fluoxetina  en  ancianos  sanos  (>65
+años)  no  difirió  significativamente  de  aquella  en  pacientes  normales
+más  jóvenes.  Sin  embargo,  debido  a  la  vida  media  prolongada  y  a  la
+disposición no lineal del fármaco, un estudio de dosis únicas no resulta
+adecuado para descartar la posibilidad de una alteración de la farmaco-
+cinética en ancianos, en particular si tienen enfermedades sistémicas o
+si están recibiendo múltiples fármacos para enfermedades concomitan-
+tes. Se han investigado los efectos de la edad sobre el metabolismo de
+fluoxetina en 260 pacientes ancianos depresivos pero en general sanos
+(≥60 años) que recibieron 20 mg de fluoxetina durante 6 semanas. Las
+concentraciones plasmáticas de fluoxetina y norfluoxetina combinadas
+fueron de 209,3 ± 85,7 ng/ml después de 6 semanas. No se observó
+ningún evento adverso inusual asociado con la edad en esta población.
+
+Farmacocinética pediátrica (niños y adolescentes)
+Se evaluó la farmacocinética de fluoxetina en 21 pacientes pediátricos (10
+niños de 6 a <13 años y 11 adolescentes de 13 a <18 años) con diagnóstico
+de TDM o TOC. Se administraron 20 mg diarios de fluoxetina durante 62
+días. Las concentraciones plasmáticas estables promedio de fluoxetina en
+estos niños fue 2 veces mayor que en adolescentes (171 y 86 ng/ml, respec-
+tivamente). Las concentraciones plasmáticas estables de norfluoxetina en
+estos niños fueron 1,5 veces mayores que en adolescentes (195 y 113 ng/ml
+respectivamente). Estas diferencias pueden explicarse casi por completo
+por las diferencias en el peso. No se observó ninguna diferencia en la farma-
+cocinética de fluoxetina asociada al género. Se observaron rangos similares
+en las concentraciones plasmáticas de fluoxetina y norfluoxetina en otro
+estudio en 94 pacientes pediátricos (edades 8 a <18) con diagnóstico de
+TDM. Se observaron concentraciones plasmáticas estables promedio más
+altas de fluoxetina y norfluoxetina en niños respecto de adultos; sin em-
+bargo, estas concentraciones estaban dentro del rango de concentraciones
+observadas en la población adulta. Al igual que en los adultos, fluoxetina y
+norfluoxetina se acumularon ampliamente posterior a la administración de
+dosis orales repetidas; las concentraciones plasmáticas estables se alcanza-
+ron dentro de las 3 a 4 semanas de dosificación diaria.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Trastorno Depresivo Mayor
+Tratamiento inicial
+Adultos: Como dosis inicial se recomienda una dosis de 20 mg/día, admi-
+
+nistrada por la mañana. Después de varias semanas puede considerarse un
+incremento de la dosis en el caso de que la mejoría clínica sea insuficiente.
+Pueden administrarse dosis superiores a los 20 mg/día en un esquema
+de una toma diaria (por la mañana) o de una administración dos veces al
+día (mañana y tarde) y no deben exceder una dosis máxima de 80 mg/día.
+Pediátrico (niños y adolescentes): Debe iniciarse el tratamiento con una
+dosis de 10 o 20 mg/día. Después de una semana en dosis de 10 mg/día,
+incrementar la dosis a 20 mg/día. Sin embargo, en niños de bajo peso y
+debido a los altos niveles plasmáticos, la dosis inicial y de continuación
+en este grupo puede ser de 10 mg/día.
+Todos los pacientes: Al igual que con otros fármacos efectivos en el trata-
+miento del TDM, el efecto completo puede demorarse hasta después de
+las 4 semanas de tratamiento o por un período más prolongado.
+
+Tratamiento de mantenimiento
+Reevaluar periódicamente para determinar la necesidad de tratamiento
+de mantenimiento.
+Cambio a un antidepresivo tricíclico (ATC): Al administrar fluoxetina o
+cuando se la haya suspendido recientemente, tal vez sea necesario redu-
+cir las dosis del ATC y monitorear temporariamente las concentraciones
+plasmáticas del ATC (Ver Interacciones medicamentosas).
+
+Trastorno Obsesivo-Compulsivo
+Tratamiento inicial
+Adultos:  Como  dosis  inicial  se  recomienda  una  dosis  de  20  mg/día,
+administrada  por  la  mañana.  Puede  considerarse  un  incremento  de  la
+dosis después de varias semanas en caso de que la mejoría clínica haya
+sido insuficiente. El efecto terapéutico completo tal vez se demore hasta
+después de transcurridas 5 semanas de tratamiento o por un período más
+prolongado. Dosis superiores a los 20 mg/día pueden ser administradas
+según un esquema de una dosis diaria (a la mañana) o de dos dosis al día (a
+la mañana y al mediodía). Se recomienda un rango de dosificación de 20
+a 60 mg/día; sin embargo, las dosis de hasta 80 mg/día han sido bien to-
+leradas. La dosis máxima de fluoxetina no debería exceder los 80 mg/día.
+Pediátrico (niños y adolescentes): En los adolescentes y en niños con un
+mayor peso corporal, debe iniciarse el tratamiento con una dosis de 10
+mg/día. Después de 2 semanas se incrementará la dosis a 20 mg/día.
+Podrán considerarse incrementos adicionales de las dosis después de
+varias semanas adicionales en el caso de que la mejoría clínica sea insu-
+ficiente. Se recomienda un rango de dosificación de 20 a 60 mg/día. En
+los niños de menor peso corporal se iniciará el tratamiento con una dosis
+de 10 mg/día. Podrán considerarse incrementos adicionales de las dosis
+después de varias semanas adicionales en el caso de que la mejoría clí-
+nica sea insuficiente. Se recomienda un rango de dosificación de 20 a
+30 mg/día. La experiencia con dosis diarias superiores a los 20 mg es
+muy mínima, y no se tiene experiencia con dosis superiores a los 60 mg.
+
+Tratamiento de mantenimiento
+Reevaluar periódicamente para determinar la necesidad de tratamiento
+de mantenimiento.
+
+Bulimia nerviosa
+Tratamiento inicial
+La dosis recomendada es de 60 mg/día, administrada por la mañana.
+En algunos pacientes tal vez sea recomendable incrementar la dosis en
+forma gradual hasta alcanzar la dosis deseada. Las dosis de fluoxetina
+superiores a los 60 mg/día no han sido estudiadas sistemáticamente en
+pacientes con bulimia.
+
+Tratamiento de mantenimiento
+Reevaluar periódicamente para determinar la necesidad de tratamiento
+de mantenimiento.
+
+Trastorno de angustia con o sin agorafobia
+Tratamiento inicial
+El tratamiento deberá iniciarse con una dosis de 10 mg/día. Después de 1
+semana se incrementará la dosis a 20 mg/día. La dosis administrada con
+mayor frecuencia en los 2 ensayos clínicos con dosis flexibles fue de 20
+mg/día. Podrá considerarse un incremento de la dosis después de varias
+semanas de tratamiento si no se ha observado mejoría clínica. Las dosis
+de fluoxetina superiores a los 60 mg/día no han sido evaluadas sistemá-
+ticamente en pacientes con Trastorno de angustia con o sin agorafobia.
+
+Tratamiento de mantenimiento
+Reevaluar periódicamente para determinar la necesidad de tratamiento
+de mantenimiento.
+
+Trastorno disfórico premenstrual
+Tratamiento inicial
+La dosis recomendada de FOXETIN® para el tratamiento del TDPM es de
+20 mg/día administrada continuadamente (cada día del ciclo menstrual)
+
+o intermitentemente (comenzando con una dosis diaria 14 días antes de
+la fecha de menstruación hasta el primer día de la misma, repitiendo
+este esquema en cada ciclo). El régimen de dosis deberá ser determina-
+do por el médico, basándose en las características de cada paciente. Las
+dosis de fluoxetina mayores a 60 mg/día no han sido sistemáticamente
+evaluadas  en  pacientes  con  TDPM.  La  dosis  máxima  de  fluoxetina  no
+deberá superar los 80 mg/día.
+
+Tratamiento de mantenimiento
+Evaluaciones sistemáticas de fluoxetina en TDPM han demostrado que
+la eficacia se mantuvo por periodos de hasta 6 meses a dosis de 20 mg/
+día administradas continuadamente y de hasta 3 meses a dosis de 20
+mg/día  administradas  intermitentemente.  Reevaluar  periódicamente
+para determinar la necesidad de tratamiento de mantenimiento.
+
+Posología en poblaciones especiales
+Mujeres embarazadas
+En el tratamiento de mujeres embarazadas con FOXETIN®, el médico
+debe  considerar  cuidadosamente  los  riesgos  y  beneficios  potenciales
+del tratamiento. Los recién nacidos expuestos a ISRSs o IRSNs al final del
+tercer trimestre, han desarrollado complicaciones que requieren hospi-
+talización prolongada, asistencia respiratoria y sonda de alimentación.
+
+Insuficiencia hepática
+Se debería utilizar una dosis menor o menos frecuente.
+
+Ancianos
+Considerar una dosis menor o menos frecuente.
+
+Enfermedades concomitantes
+Pacientes con enfermedades concurrentes o que estén recibiendo múlti-
+ples medicamentos concomitantes pueden requerir un ajuste de la dosis.
+
+Discontinuación del tratamiento
+Se han reportado síntomas asociados con la interrupción de fluoxetina y
+otros ISRSs o IRSN (Ver Precauciones). Se recomienda una reducción gra-
+dual de la dosis y no una interrupción abrupta, siempre que sea posible.
+(Ver Advertencias y Precauciones).
+
+Cambio a o de un inhibidor de monoamino-oxidasa (IMAO)
+Deberán transcurrir al menos 14 días entre la suspensión de un IMAO
+y el inicio del tratamiento con FOXETIN®. Además, deberán transcurrir
+al menos 5 semanas, o tal vez un período más prolongado, después de
+suspender la administración de FOXETIN® y antes de comenzar con los
+IMAOs (Ver Contraindicaciones y Precauciones).
+
+Uso de FOXETIN® con otros IMAOs, tales como linezolid o azul de
+metileno
+No comenzar el tratamiento con FOXETIN® en pacientes que estén sien-
+do tratados con linezolid o azul de metileno intravenoso porque aumen-
+ta el riesgo de síndrome serotoninérgico. En pacientes que requieren
+tratamiento urgente por un trastorno psiquiátrico, debería considerarse
+otra  intervención  incluyendo  la  hospitalización  (ver  Contraindicacio-
+nes).  En  algunos  casos,  pacientes  que  están  recibiendo  tratamiento
+con  FOXETIN®  pueden  requerir  tratamiento  urgente  con  linezolid  o
+azul de metileno intravenoso. Si no hay una alternativa disponible y se
+evalúa un beneficio potencial con el tratamiento de linezolid o azul de
+metileno,  sopesando  los  riesgos  de  síndrome  serotoninérgico  en  un
+paciente  en  particular,  FOXETIN®  debe  suspenderse  inmediatamente
+y puede administrarse linezolid o azul de metileno intravenoso. El pa-
+ciente debe ser monitoreado por la aparición de síntomas de síndrome
+serotoninérgico durante 5 semanas o hasta 24 hs. después de la última
+dosis de linezolid o azul de metileno intravenoso, lo que ocurra primero.
+El tratamiento con FOXETIN® debe ser reinstaurado 24 hs. después de la
+última dosis de linezolid o azul de metileno intravenoso.
+El riesgo de administrar azul de metileno por vía que no sea intravenosa
+(vía oral o inyección local) o en dosis intravenosas menores a 1mg/kg con
+fluoxetina no está claro. El médico debería pensar en la posibilidad de
+síntomas emergentes de síndrome serotoninérgico con dicho uso (Ver
+Precauciones y Advertencias).
+
+CONTRAINDICACIONES
+
+FOXETIN® está contraindicado en pacientes hipersensibles a fluoxetina.
+
+Inhibidores de la monoamino-oxidasa
+No  deberá  administrarse  FOXETIN®  en  combinación  con  un  IMAO,
+ni  tampoco  dentro  de  un  período  mínimo  de  14  días  después  de  in-
+terrumpir  el  tratamiento  con  un  IMAO.  También  está  contraindicado
+comenzar con IMAOs antes de 5 semanas después de haber suspendi-
+do FOXETIN®,debido al riesgo de síndrome serotoninérgico. Está con-
+
+traindicado comenzar FOXETIN® si el paciente está siendo tratado con
+linezolid o azul de metileno. (Ver Posología y Forma de administracion y
+Advertencias y precauciones).
+
+Pimozida y tioridazina
+Está  contraindicado  el  uso  de  FOXETIN®  con  pimozida  y  tioridazina.
+FOXETIN® puede incrementar los niveles plasmáticos de ambas drogas a tra-
+vés de la inhibición de la CYP2D6. Prolongan el intervalo QT. No utilizar Tio-
+ridazina dentro de las 5 semanas siguientes de la suspensión de fluoxetina.
+
+ADVERTENCIAS
+
+Pensamiento y conducta suicida
+El uso de antidepresivos con indicación aprobada por ensayos clínicos
+controlados en niños y adolescentes con TDM y otras condiciones psi-
+quiátricas  deberá  establecerse  en  un  marco  terapéutico  adecuado  a
+cada paciente en particular. Incluye:
+a) que la indicación sea hecha por especialistas que puedan monitorear
+rigurosamente la emergencia de cualquier signo de agravamiento o
+aumento de la ideación suicida, como así también cambios conduc-
+tuales con síntomas del tipo de agitación;
+
+b) que se tengan en cuenta los resultados de los últimos ensayos clínicos
+
+c)  que se considere que el beneficio clínico debe justificar el riesgo
+
+controlados;
+
+potencial.
+
+Han sido reportados en pacientes adultos y menores de 18 años tratados
+con antidepresivos ISRS o con otros AD con mecanismo de acción com-
+partida tanto para el TDM como para otras indicaciones psiquiátricas y
+no psiquiátricas, los siguientes síntomas: ansiedad, agitación, ataques
+de  pánico,  insomnio,  irritabilidad,  hostilidad,  impulsividad,  acatisia,
+hipomanía y manía.
+Aunque la causalidad ante la aparición de éstos síntomas y el empeo-
+ramiento de la depresión y/o la aparición de impulsos suicidas no  ha
+sido establecida, existe la inquietud de que dichos síntomas puedan ser
+precursores de ideación suicida emergente.
+Los familiares y quienes cuidan a los pacientes deberían ser alertados
+acerca  de  la  necesidad  de  seguimiento  de  los  pacientes  en  relación
+tanto de los síntomas descriptos como de la aparición de ideación sui-
+cida y reportarlo inmediatamente a los profesionales tratantes. Dicho
+seguimiento debe incluir la observación diaria de los pacientes por sus
+familiares o quienes estén a cargo de sus cuidados.
+Si se toma la decisión de discontinuar el tratamiento la medicación debe
+ser reducida lo más rápidamente posible, pero teniendo en cuenta el es-
+quema indicado para cada principio activo, dado que en algunos casos la
+discontinuación abrupta puede asociarse con ciertos síntomas de retirada.
+Análisis combinados de fármacos antidepresivos (ISRSs y otros) a corto
+plazo, controlados con placebo, mostraron que estos fármacos aumen-
+tan el riesgo de pensamiento y comportamiento suicida (suicidalidad)
+en niños, adolescentes y adultos jóvenes (18-24 años) con TDM y otros
+trastornos  psiquiátricos.  Los  estudios  a  corto  plazo  no  mostraron  un
+incremento del riesgo de suicidalidad con antidepresivos, comparado
+con placebo en adultos mayores de 24 años; ha habido una reducción
+con antidepresivos comparado con placebo en adultos mayores de 65
+años  y  mayores.  No  han  ocurrido  suicidios  en  ningún  estudio  clínico
+pediátrico. En estudios clínicos con adultos ha habido suicidios, pero el
+número no fue suficiente para alcanzar una conclusión sobre el efecto
+del fármaco en suicidio.
+
+Pacientes con Trastorno Bipolar
+Un Trastorno Depresivo Mayor puede ser la manifestación inicial de un
+Trastorno Bipolar. Se cree generalmente (aunque no ha sido establecido
+en  estudios  controlados)  que  el  tratamiento  de  este  episodio  con  un
+antidepresivo sólo puede aumentar la probabilidad de aparición de epi-
+sodios mixtos/maníaco en pacientes en riesgo de trastorno bipolar. Se
+desconoce si alguno de los síntomas descritos de empeoramiento clíni-
+co y el riesgo de suicidio representan tal conversión. Antes de comenzar
+el tratamiento con un antidepresivo, se deberá examinar atentamente
+a  los  pacientes  con  síntomas  depresivos  para  determinar  si  están  en
+riesgo  de  padecer  Trastorno  Bipolar;  tal  examinación  debería  incluir
+una historia psiquiátrica detallada, incluyendo antecedentes familiares
+de suicidio, trastorno bipolar y depresión. Se ha descripto en estudios
+clínicos controlados con placebo en Trastorno Depresivo Mayor, una no-
+tificación de manía/hipomanía en el 0,1% de los pacientes tratados con
+fluoxetina y en el 0,1% de los pacientes tratados con placebo
+En ensayos clínicos controlados con fluoxetina, el 0,7% de 10.782 pa-
+cientes reportaron manía/hipomanía.
+
+“Rash” cutáneo y posibles eventos alérgicos
+En estudios clínicos realizados con fluoxetina, el 7% de 10.782 pacientes
+desarrollaron diversos tipos de erupciones cutáneas (“rash” cutáneo) y/o
+urticaria. Entre los casos de “rash” y/o urticaria reportados en los ensayos
+
+clínicos previos a la comercialización, casi un tercio tuvo que abandonar
+el tratamiento a causa del “rash” y/o signos o síntomas sistémicos asocia-
+dos con el mismo. Entre los hallazgos clínicos informados en asociación
+con  el  “rash”  figuran  fiebre,  leucocitosis,  artralgias,  edema,  síndrome
+del túnel carpiano, distrés respiratorios, linfadenopatías, proteinuria y
+leve elevación de las transaminasas. La mayoría de los pacientes mejoró
+rápidamente al suspender fluoxetina y/o con el tratamiento adyuvante
+con antihistamínicos o esteroides, y se informó que todos los pacientes
+que experimentaron estos eventos se restablecieron por completo. En
+los ensayos clínicos previos a la comercialización, se sabe que 2 pacien-
+tes desarrollaron una enfermedad sistémica cutánea severa. En ninguno
+de los dos pacientes hubo un diagnóstico inequívoco, pero se consideró
+que uno de ellos tenía una vasculitis leucocitoclástica, y el otro, un sín-
+drome  descamativo  severo  que  se  consideró  diversamente  como  una
+vasculitis o un eritema multiforme. Otros pacientes tuvieron síndromes
+sistémicos  que  sugieren  enfermedad  sérica.  Desde  la  introducción
+de fluoxetina, en los pacientes con “rash” cutáneo se han presentado
+eventos sistémicos, probablemente relacionados con la vasculitis que
+incuyen un síndrome similar al lupus. Aunque estos eventos son raros,
+pueden ser graves, ya que afectan pulmones, riñones o hígado. Se han
+reportado muertes en asociación con estos eventos sistémicos. Se han
+informado  eventos  anafilactoides,  tales  como  broncoespasmo,  an-
+gioedema, laringoespasmo y urticaria sola y en combinación. En raras
+ocasiones se han reportado eventos pulmonares, incluyendo procesos
+inflamatorios  de  histopatología  variable  y/o  fibrosis.  Estos  eventos  se
+han presentado con disnea como único síntoma premonitorio. Se des-
+conoce si estos eventos sistémicos y el “rash” cutáneo tienen una causa
+subyacente común o si se deben a etiologías o procesos patógenos di-
+ferentes. Por otra parte, no se ha identificado una base inmunológica
+subyacente  específica  de  estos  eventos.  Cuando  se  presenten  “rash”
+cutáneo u otros fenómenos posiblemente alérgicos para los cuales no
+pueda identificarse una etiología alternativa, debe suspenderse la ad-
+ministración de FOXETIN®.
+
+Síndrome serotoninérgico
+El  desarrollo  de  un  potencial  síndrome  serotoninérgico  con  riesgo  de
+vida puede ocurrir con el tratamiento ISRSs y IRSNs, incluyendo fluoxeti-
+na, particularmente con el uso concomitante de drogas serotoninérgicas
+(incluyend triptanes, antidepresivos tricíclicos, fentanilo, litio, tramadol,
+triptófano, buspirona, anfetaminas y hierba de San Juan) y con drogas
+que  alteran  el  metabolismo  de  la  serotonina  (en  particular  IMAOs,  los
+usados  para  tratar  desórdenes  psiquiátricos  y  también  los  otros  como
+linezolid y azul de metileno intravenoso). Los síntomas del síndrome se-
+rotoninérgico pueden incluir cambios en el estado mental (por ejemplo
+agitación,  alucinaciones,  delirium  y  coma),  inestabilidad  autonómica
+(por  ejemplo  taquicardia,  presión  sanguínea  lábil,  mareos,  diaforesis,
+sofocos,  hipertermia),  anormalidades  neuromusculares  (por  ejemplo
+temblor, rigidez, mioclonías, hipereflexia, incoordinación), convulsiones
+y/o síntomas gastrointestinales (por ejemplo náuseas, vómito, diarrea).
+Los pacientes deben ser monitoreados por una emergencia de síndrome
+serotoninérgico. Si el tratamiento concomitante de fluoxetina con otras
+drogas serotoninérgicas, por ej. triptanes, antidepresivos tricíclicos, fen-
+tanilo, litio, tramadol, triptófano, buspirona, anfetaminas y hierba de San
+Juan, está clínicamente garantizado, se requiere una observación cuida-
+dosa del paciente, particularmente durante el inicio del tratamiento y los
+incrementos de dosis, asimismo los pacientes deben ser conscientes de
+un mayor riesgo de síndrome de la serotonina, particularmente duran-
+te el inicio del tratamiento y aumentos posológicos (Ver Precauciones,
+Interacciones medicamentosas). El uso concomitante de fluoxetina con
+precursores de serotonina (como los suplementos triptófanos) debe ser
+discontinuado inmediatamente si los eventos arriba mencionados ocu-
+rren y se debe iniciar un tratamiento de soporte sintomático.
+El uso concomitante de FOXETIN® con IMAOs para tratar trastornos psi-
+quiátricos está contraindicado. No debería comenzarse tratamiento con
+FOXETIN® en pacientes que estén siendo tratados con IMAOs como line-
+zolid o azul de metileno intravenoso. Todos los reportes con azul de me-
+tileno que involucran la administración intravenosa fueron en un rango
+de 1-8 mg/kg. No hay reportes con otras vías de administración (vía oral
+o inyección local) o a dosis menores de 1 mg/kg. Podría circunstancial-
+mente, ser necesario iniciar tratamiento con IMAO como linezolid o azul
+de metileno intravenosos en pacientes que toman FOXETIN®. En esos
+FOXETIN®  debería  ser  discontinuado  antes  de  iniciar  tratamiento  con
+IMAO. (Ver Contraindicaciones, Posología y forma de administración)
+
+PRECAUCIONES
+
+Generales
+Hemorragias
+Los ISRSs y IRSNs, incluyendo fluoxetina, pueden incrementar el riesgo
+de sangrado, El empleo concomitante de aspirina, antiinflamatorios no
+esteroideos,  warfarina  y  otros  anticoagulantes  puede  aumentar  este
+
+riesgo . Estudios epidemiológicos han demostrado una asociación entre
+el uso de fármacos que interfieren con la recaptación de serotonina y la
+aparición de hemorragia gastrointestinal.. Las reacciones hemorrágicas
+relacionadas con el empleo de IRSN e IRSS variaron desde equimosis,
+hematomas,  epistaxis  y  petequias  hasta  hemorragias  con  riesgo  de
+vida. Se deberá prevenir a los pacientes respecto del riesgo de hemorra-
+gias asociado con el uso concomitante de fluoxetina con AINEs, aspirina,
+warfarina u otros fármacos anticoagulantes.
+
+Ansiedad e insomnio
+En  ensayos  clínicos  controlados  con  placebo  en  TDM,  TOC  y  Bulimia
+nerviosa, se informaron eventos de ansiedad, nerviosismo o insomnio.
+Entre los eventos adversos más comunes asociados con la suspensión
+en los ensayos clínicos con fluoxetina controlados con placebo figuraban
+ansiedad (2% en TOC), insomnio (1% en indicaciones combinadas y 2%
+en bulimia) y nerviosismo (1% en TDM).
+
+Alteración del apetito y del peso corporal
+Una pérdida significativa del peso corporal, especialmente en pacientes
+depresivos o bulímicos de bajo peso puede ser un resultado no deseado
+del tratamiento con fluoxetina. En estudios clínicos controlados con pla-
+cebo en Trastorno Depresivo Mayor, el 11% de los pacientes tratados con
+fluoxetina y el 2% de los pacientes tratados con placebo informaron anore-
+xia (disminución del apetito). Se notificó pérdida de peso en el 1,4% de los
+pacientes tratados con fluoxetina y en el 0,5% de los pacientes tratados con
+placebo. Sin embargo, sólo en raras ocasiones los pacientes suspendieron
+el tratamiento con Fluoxetina debido a la anorexia o a la pérdida de peso.
+En estudios clínicos controlados con placebo en TOC, el 17% de los pa-
+cientes tratados con fluoxetina y el 10% de los pacientes tratados con
+placebo informaron de anorexia. Un paciente suspendió el tratamiento
+con fluoxetina debido a la anorexia. Pacientes bulímicos tratados con
+fluoxetina 60 mg perdieron, en promedio, 0,45 kg en comparación con
+un aumento de 0,16 kg en pacientes tratados con placebo en un ensayo
+doble ciego de 16 semanas de duración. La alteración del peso corporal
+deberá ser monitoreada durante el tratamiento.
+
+Hiponatremia
+Se han reportado casos de hiponatremia con ISRS, IRSN. Algunos con
+concentraciones  séricas  de  sodio  inferiores  a  110  mmol/L.  Aparente-
+mente, la hiponatremia era reversible al suspender el tratamiento con
+fluoxetina.  A  pesar  de  que  estos  casos  eran  complejos  con  diversas
+etiologías posibles, algunos probablemente se debían al síndrome de
+secreción inadecuada de la hormona antidiurética (SSIHA). La mayoría
+de estos casos se han registrado en pacientes ancianos y en pacientes
+que tomaban diuréticos o que padecen depleción de volumen.
+Los signos y síntomas de hiponatremia que pueden conducir a caídas
+son:  cefalea,  dificultad  para  concentrarse,  deterioro  de  la  memoria,
+confusión, debilidad e inestabilidad, que pueden provocar caídas. Ca-
+sos agudos y/o más severos se han asociado con alucinaciones, síncope,
+convulsiones, coma, paro respiratorio y muerte.
+Debe  considerarse  la  discontinuación  de  FOXETIN®  en  pacientes  con
+hiponatremia sintomática y recibir la intervención médica apropiada.
+
+Convulsiones
+En ensayos clínicos con fluoxetina, el 0,2% de 10.782 pacientes reportaron
+convulsiones. El porcentaje es aparentemente similar al asociado con otros
+fármacos efectivos en el tratamiento del TDM. FOXETIN® debe adminis-
+trarse con precaución en pacientes con antecedentes de crisis convulsivas.
+
+Glaucoma de ángulo cerrado
+La dilatación de las pupilas que se observa después del empleo de mu-
+chos fármacos antidepresivos, incluido fluoxetina, puede desencadenar
+un ataque agudo de ángulo cerrado en un paciente con ángulos anató-
+micamente estrechos sin iridotomia permeable.
+
+Vida media de eliminación de fluoxetina y sus metabolitos
+Debido a la prolongada vida media de eliminación de fluoxetina y sus
+metabolitos, los cambios de la dosis no se reflejarán por completo du-
+rante varias semanas, lo cual afecta al mismo tiempo las estrategias de
+la titulación para llegar a la dosis final y la suspensión del tratamiento.
+Esto es importante cuando se requiere la discontinuación de la droga
+o  cuando  se  prescriben  fármacos  que  podrían  tener  interacción  con
+fluoxetina y norfluoxetina seguida a la discontinuación de fluoxetina.
+
+Uso en pacientes con enfermedades concomitantes
+La  experiencia  clínica  con  fluoxetina  en  pacientes  con  enfermedades
+sistémicas  concomitantes  es  limitada.  Se  recomienda  precaución  al
+administrar  fluoxetina  a  pacientes  con  enfermedades  o  condiciones
+que puedan afectar el metabolismo o las respuestas hemodinámicas.
+La fluoxetina no ha sido evaluada ni utilizada en pacientes con antece-
+dentes  recientes  de  infarto  de  miocardio  o  cardiopatía  inestable.  Los
+
+pacientes con estos diagnósticos fueron excluidos sistemáticamente de
+los estudios clínicos durante las pruebas previas a la comercialización
+del producto. Sin embargo, los electrocardiogramas de 312 pacientes
+que recibieron fluoxetina en estudios doble ciego fueron evaluados en
+forma retrospectiva; no se observaron anormalidades de la conducción
+que dieran como resultado bloqueos cardíacos. La frecuencia cardiaca
+media se redujo en aproximadamente 3 latidos/min.
+En pacientes diabéticos, fluoxetina puede alterar el control glucémico.
+Se ha presentado hipoglucemia durante el tratamiento con fluoxetina y
+se ha observado hiperglucemia después de la suspensión del fármaco.
+Como sucede con otros tipos de medicamentos, al ser tomados concu-
+rrentemente por pacientes diabéticos, al instaurar o suspender el trata-
+miento con fluoxetina podría ser necesario ajustar la dosis de insulina
+y/o del hipoglucemiante oral.
+
+Interferencia con el desempeño cognitivo y motor
+Cualquier  fármaco  psicoactivo  puede  alterarel  juicio,  el  pensamiento
+o  las  aptitudes  motoras  y  se  debe  prevenir  a  los  pacientes  acerca  del
+manejo de maquinarias peligrosas, incluyendo automóviles, hasta que
+estén razonablemente seguros de que el tratamiento con el fármaco no
+los afectará adversamente.
+
+Prolongación del QT
+Posterior  a  la  comercialización  de  fluoxetina,  han  sido  reportados  ca-
+sos de prolongación del intervalo QT y arritmia ventricular incluyendo
+Torsades de Pointes. FOXETIN® debería ser utilizado con precaución en
+pacientes con síndrome de alargamiento del QT largo congénito, ante-
+cedentes de prolongación del QT, antecedentes familiares de síndrome
+de alargamiento del QT o muerte súbita de origen cardiaco, y otras con-
+diciones que predispongan a la prolongación del QT y arritmias ventri-
+culares. Tales condiciones incluyen el uso concomitante de drogas que
+prolongan el intervalo QT, hipokalemia o hipomagnesemia, infarto de
+miocardio  reciente,  insuficiencia  cardíaca  descompensada,  bradiarrit-
+mias y otras arritmias significativas, y condiciones que predisponen el
+incremento a la exposición de fluoxetina (sobredosis, insuficiencia he-
+pática, uso de inhibidores CYP2D6, metabolizadores lentos de CYP2D6
+o uso de otras drogas con alta unión a proteínas).
+Pimozida y tioridazina están contraindicadas si se administra fluoxetina.
+Evitar el uso concomitante de drogas conocidas que incrementan el in-
+tervalo QT (Ver Precauciones, Interacciones).
+En pacientes con factores de riesgo de prolongación del QT y arritmia
+ventricular, que inician tratamiento con FOXETIN®, considerar hacer un
+electrocardiograma y realizar monitoreo periódico con el mismo. Consi-
+derar la suspensión de fluoxetina y una evaluación cardíaca si los pacien-
+tes desarrollan signos o síntomas compatibles con arritmia ventricular
+
+Suspensión del tratamiento con FOXETIN®
+Durante la comercialización de fluoxetina y otros ISRSs e IRSN ha habido
+informes espontáneos de eventos adversos que se presentaron al sus-
+pender  estos  fármacos,  particularmente  al  hacerlo  en  forma  abrupta,
+incluyendo  los  siguientes:  estado  de  ánimo  disfórico,  irritabilidad,
+agitación, mareos, trastornos sensoriales (parestesias), ansiedad, con-
+fusión,  cefalea,  letargo,  labilidad  emocional,  insomnio  e  hipomanía.
+Mientras que estos eventos por lo general son autolimitados, ha habido
+informes de síntomas severos por suspensión del fármaco. Al suspender
+el tratamiento con FOXETIN®, se deberá monitorear a los pacientes por
+estos síntomas. Siempre que resulte posible, se recomienda una reduc-
+ción gradual de la dosis y no una suspensión abrupta. En el caso de que
+se presenten síntomas al disminuir la dosis o al suspender el tratamien-
+to, se deberá considerar la posibilidad de retomar la dosis previamente
+administrada. Luego, el médico continuará disminuyendo la dosis, pero
+en forma más gradual. Las concentraciones plasmáticas de fluoxetina y de
+norfluoxetina disminuyen gradualmente al concluir el tratamiento, lo cual
+puede minimizar el riesgo de síntomas por suspensión de este fármaco.
+
+Interacciones medicamentosas
+Al igual que con todos los medicamentos, existe la posibilidad del po-
+tencial de interacción por una diversidad de mecanismos.
+
+Potencial de fluoxetina para afectar otras drogas
+Fármacos metabolizados por el CYP2D6
+La fluoxetina inhibe la actividad de la isoenzima 2D6 y, por lo tanto, po-
+dría ser que los metabolizadores normales parezcan metabolizadores
+lentos. La coadministración de fluoxetina con otras drogas que son me-
+tabolizadas por CYP2D6, incluyendo ciertos antidepresivos (ATCs) antip-
+sicóticos (fenotiazidas y la mayoría de los atípicos), y antiarrítmicos (pro-
+pafenona, flecainida y otros) deberían ser manejados con precaución. El
+tratamiento con fármacos que son metabolizados predominantemente
+por el sistema CYP2D6 y que tienen un índice terapéutico estrecho de-
+bería iniciarse en el extremo inferior del rango posológico si un paciente
+está recibiendo fluoxetina concurrentemente o la ha tomado en las 5 se-
+manas anteriores. Por lo tanto, sus requerimientos posológicos son se-
+mejantes a los de los metabolizadores lentos. Si se agrega fluoxetina al
+régimen de tratamiento de un paciente que ya está recibiendo un fárma-
+co metabolizado por el CYP2D6, se deberá considerar la necesidad de
+reducir la dosis de la medicación original. Los fármacos con un índice te-
+rapéutico estrecho presentan la mayor preocupación (flecainida, propa-
+fenona, vinblastina y ATCs). Debido al riesgo de arritmias ventriculares
+y muerte súbita potencialmente asociados con los niveles plasmáticos
+elevados de tioridazina, ésta no debería administrarse con fluoxetina o
+debería administrarse como mínimo 5 semanas después que fluoxetina
+haya sido suspendida (Ver Contraindicaciones y Advertencias).
+
+Antidepresivos Tricíclicos
+En 2 estudios, las concentraciones plasmáticas estables de imipramina
+y desipramina aumentaron más de 2 a 10 veces cuando se administró
+fluoxetina en forma concomitante. Esta influencia puede persistir du-
+rante 3 semanas o un período mayor después de haber suspendido el
+tratamiento  con  fluoxetina.  Por  lo  tanto,  podría  ser  necesario  reducir
+la dosis del ATC y podría ser necesario monitorear las concentraciones
+plasmáticas del ATC cuando se coadministre fluoxetina o cuando ésta
+haya sido suspendida recientemente.
+
+Anticonvulsivantes
+Los pacientes bajo tratamiento con dosis estables de fenitoína y carba-
+mazepina  han  desarrollado  concentraciones  plasmáticas  elevadas  de
+anticonvulsivantes y toxicidad clínica, después del inicio del tratamiento
+concomitante con fluoxetina.
+
+Antipsicóticos
+Algunos  datos  clínicos  sugieren  una  posible  interacción  farmacodi-
+námica  y/o  farmacocinética  entre  los  ISRSs  y  los  antipsicóticos.  Se  ha
+observado  una  elevación  de  las  concentraciones  plasmáticas  de  ha-
+loperidol  y  clozapina  en  pacientes  que  estaban  recibiendo  fluoxetina
+concomitantemente.
+
+Benzodiazepinas
+La  vida  media  del  diazepam  administrado  concurrentemente  podría
+prolongarse en algunos pacientes. La coadministración de alprazolam y
+fluoxetina ha dado como resultado un incremento de las concentraciones
+plasmáticas de alprazolam y una disminución adicional del desempeño
+psicomotor causado por las concentraciones elevadas de alprazolam.
+
+Litio
+Ha habido reportes de incrementos y disminuciones de las concentracio-
+nes plasmáticas de litio, cuando éste fue administrado concomitantemen-
+te con fluoxetina. Se han reportado casos de toxicidad por litio y aumento
+de los efectos serotoninérgicos. Cuando estos fármacos se administren
+concomitantemente, las concentraciones de litio deben ser monitoreadas.
+
+Disfunción sexual
+El empleo de ISRS, incluido fluoxetina, puede causar síntomas de disfun-
+ción sexual. En los pacientes varones, el empleo de ISRS puede provocar
+eyaculación tardía o ausencia de eyaculación, disminución de la libido y
+disfunción  eréctil.  En  las  pacientes  mujeres,  el  empleo  de  ISRS  puede
+provocar una disminución de la libido y un retraso o ausencia de orgasmo.
+Es importante que los médicos indaguen sobre la función sexual antes
+de iniciar el tratamiento con fluoxetina y que pregunten específicamen-
+te sobre los cambios en la función sexual durante el tratamiento, porque
+el funcionamiento sexual puede no ser informado espontáneamente.
+Al evaluar los cambios en la función sexual, es importante obtener una
+historia  detallada  (incluidos  los  momentos  de  inicio  de  los  síntomas)
+porque los síntomas sexuales pueden deberse a otras causas, incluido
+el  trastorno  psiquiátrico  subyacente.  Analizar  las  posibles  estrategias
+de manejo para ayudar a los pacientes a tomar decisiones informadas
+sobre el tratamiento
+
+Efectos potenciales de la coadministración de fármacos con alto grado
+de ligadura a las proteínas plasmáticas
+Dado que fluoxetina tiene un alto grado de ligadura a las proteínas plas-
+máticas, la administración de fluoxetina a un paciente que esté tomando
+otro  fármaco  con  la  misma  característica  (anticoagulantes,  digitoxina)
+puede modificar las concentraciones plasmáticas, lo cual podría producir
+potencialmente un evento adverso. Por el contrario, podrían producirse
+eventos adversos por el desplazamiento de fluoxetina fijada a las proteí-
+nas, producido por otros fármacos con un alto grado de fijación proteica.
+
+Fármacos metabolizados por CYP3A4
+En un estudio de interacción in vivo en el cual se coadministró fluoxetina
+con dosis únicas de terfenadina (un sustrato de CYP3A4), no se observa-
+ron elevaciones de las concentraciones plasmáticas de terfenadina con
+la administración concomitante de fluoxetina. Además, algunos estudios
+in vitro han demostrado que el ketoconazol, un potente inhibidor de la
+
+actividad de CYP3A4, es al menos 100 veces más potente que fluoxetina
+o norfluoxetina como inhibidor del metabolismo de varios sustratos de
+esta enzima, tales como astemizol, cisaprida y midazolam. Estos datos
+indican que no es probable que el grado de inhibición de la actividad de
+CYP3A4 producido por fluoxetina tenga importancia clínica.
+
+Olanzapina
+Fluoxetina (dosis única de 60 mg o 60 mg diarios durante 8 días) causa
+un pequeño (16 % en promedio) incremento en la concentración máxi-
+ma de olanzapina y una pequeña reducción (16% en promedio) en el
+clearance  de  olanzapina.  La  magnitud  del  impacto  de  este  factor  es
+pequeño en comparación con la variabilidad total entre individuos, por
+lo que no se recomienda modificación de la dosis en forma rutinaria.
+
+Pimozida
+El  uso  concomitante  con  fluoxetina  está  contraindicado.  Pimozida
+puede prolongar el intervalo QT. Fluoxetina puede incrementar el nivel
+de  pimozida  por  inhibición  de  la  CYP2D6.  Fluoxetina  puede  también
+prolongar el intervalo QT. Si bien no hay estudios específicos del uso
+concomitante de pimozida con fluoxetina, estudios clínicos de pimozida
+con otros antidepresivos demuestran un incremento en la interacción de
+drogas o prolongación del QT. (Ver Contraindicaciones).
+
+Tioridazina
+La  tioridazina  no  debe  administrarse  con  fluoxetina  ni  dentro  de  un
+período mínimo de 5 semanas tras la interrupción de la misma por el
+riesgo de prolongación del intervalo QT (ver Contraindicaciones), el cual
+está asociado con arritmias ventriculares severas, tales como arritmias
+de tipo “torsades de pointes” y muerte súbita.
+
+Fármacos activos en el Sistema Nervioso Central (SNC)
+Se recomienda precaución si es necesaria la administración concomi-
+tante de fluoxetina y estos fármacos. Al evaluar los casos individuales,
+se debe considerar el uso de las dosis iniciales más bajas de los fármacos
+administrados  concomitantemente,  utilizando  esquemas  conservado-
+res para la titulación de las dosis, así como monitoreo del estado clínico.
+
+Inhibidores de la monoamino-oxidasa:
+Ver Posología y forma de administración, Advertencias y contraindicaciones.
+
+Fármacos serotoninérgicos
+Ver Posología y forma de administración, Advertencias y Contraindicaciones.
+
+Fármacos  que  interfieren  con  la  hemostasis  (AINEs,  aspirina,
+warfarina)
+La liberación de serotonina por las plaquetas cumple un papel importante
+en la hemostasis. Estudios epidemiológicos han demostrado una asocia-
+ción entre el uso de psicotrópicos que interfieren con la recaptación de
+serotonina y la aparición de hemorragias gastrointestinales altas, también
+han demostrado que el uso concurrente de un AINE o aspirina potenciaba
+el riesgo de hemorragias. Se notificaron efectos anticoagulantes, incluido
+aumento del sangrado, cuando se coadministran IRSN o ISRS con War-
+farina. Los pacientes que reciben tratamiento con warfarina deberán ser
+cuidadosamente controlados al iniciar o suspender la fluoxetina.
+
+Terapia electroconvulsiva (TEC)
+No se dispone de estudios clínicos que establezcan el beneficio del uso
+combinado de TEC y fluoxetina. En raras ocasiones, ha habido reportes
+de prolongación de las crisis convulsivas en pacientes bajo tratamiento
+con fluoxetina que recibieron TEC.
+
+Fármacos que prolongan el intervalo QT
+No  utilice  fluoxetina  en  combinación  con  tioridazina  o  pimozida.  Uti-
+lice  Fluoxetina  con  precaución  en  combinación  con  otros  fármacos
+que causan prolongación del QT. Entre éstos se incluye: antipsicóticos
+específicos (ej. ziprasidona, iloperidona, clorpromazina, mesoridazina,
+droperidol),  antibióticos  específicos  (ej.  eritromicina,  gatifloxacina,
+moxifloxacina, sparfloxacina), medicaciones antiarrítmicas clase 1A (ej.
+quinidina, procainamida), antiarrítmicos clase III (ej. amiodarona, sota-
+lol) y otras (ej. pentamidina, acetato de levometadilo, metadona, halo-
+fantrina, mefloquina, mesilato de dolasetron, probucol o tacrolimus).
+
+Carcinogénesis, Mutagénesis, Deterioro de la Fertilidad
+No  hay  ninguna  evidencia  de  carcinogenicidad  o  mutagenicidad  de
+estudios in vitro o realizados en animales. En animales adultos no se
+observó deterioro de la fertilidad con dosis de 12,5 mg/kg/día (aproxi-
+madamente 1,5 veces la dosis máxima recomendada en humanos sobre
+una base de mg/m2).
+
+Carcinogenicidad
+La administración en la dieta de fluoxetina a ratas y ratones durante 2
+
+años en dosis de hasta 10 y 12 mg/kg/día, respectivamente (aproxima-
+damente 1,2 y 0,7 veces respectivamente la dosis máxima recomendada
+en humanos de 80 mg sobre una base de mg/m2) no produjo evidencia
+alguna de carcinogenicidad.
+
+Mutagenicidad
+Se ha demostrado que fluoxetina y la norfluoxetina no tienen efectos ge-
+notóxicos según los siguientes ensayos: ensayo de mutación bacteriana,
+ensayo de reparación del ADN en cultivos de hepatocitos de rata, ensayo
+de linfoma de ratón, y ensayo de intercambio de cromátidas hermanas
+in vivo en células de médula ósea de hámsters chinos.
+
+Deterioro de la fertilidad
+Dos estudios de fertilidad realizados en ratas adultas tratadas con do-
+sis de hasta 7,5 y 12,5 mg/kg/día (aproximadamente 0,9 y 1,5 veces la
+dosis  máxima  recomendada  en  humanos  sobre  una  base  de  mg/m2)
+indicaron que fluoxetina no tuvo efectos adversos sobre la fertilidad. Sin
+embargo, se han observado efectos adversos sobre la fertilidad en ratas
+jóvenes tratadas con fluoxetina.
+
+Embarazo - Categoría C
+La fluoxetina deberá utilizarse en el embarazo sólo si el beneficio potencial
+justifica el riesgo potencial del feto.
+
+Efectos no teratogénicos
+Neonatos expuestos a fluoxetina y otros ISRS o IRSN, han desarrollado
+tarde en el tercer trimestre complicaciones que requirieron una hospi-
+talización  prolongada,  soporte  respiratorio  y  alimentación  por  sonda.
+Complicaciones de este tipo pueden aparecer inmediatamente después
+del parto. Los resultados clínicos reportados han incluido distrés respi-
+ratorio, cianosis, apnea, convulsiones, inestabilidad de la temperatura
+corporal,  dificultad  en  la  alimentación,  vómitos,  hipoglucemia,  hipo-
+tonía,  hipertonía,  hiperreflexia,  temblores,  nerviosismo,  irritabilidad
+y llanto constante. Estas características son compatibles con un efecto
+tóxico directo de ISRS e IRSN o, posiblemente, un síndrome por supre-
+sión del fármaco. Cabe notar que, en algunos casos, el cuadro clínico es
+compatible con el síndrome serotoninérgico.
+Niños  expuestos  a  ISRSs  han  tenido  un  incremento  del  riesgo  de  hi-
+pertensión pulmonar persistente del recién nacido. Esta ocurre en 1-2
+cada 1000 nacidos vivos en la población general y está asociada con una
+morbilidad y mortalidad neonatal importante. Recientes estudios epi-
+demiológicos sugieren una asociación estadística positiva entre el uso
+de  ISRSs  (incluyendo  fluoxetina)  durante  el  embarazo  e  hipertensión
+pulmonar persistente del recién nacido. Otros estudios no muestras una
+asociación estadística significativa. Cuando el médico decide tratar a una
+embarazada con fluoxetina debe considerar el potencial riesgo de tomar
+un ISRS con respecto al beneficio de tratar la depresión con un antide-
+presivo. La decisión debe ser tomada evaluando cada caso en particular.
+
+Datos en animales
+En estudios embriofetales en ratas y conejos, no hay evidencia de tera-
+togenicidad seguida a la administración de fluoxetina a dosis hasta 12,5
+y  15  mg/kilo/día  respectivamente  (aproximadamente  1,5  y  3,6  veces
+respectivamente, la dosis máxima recomendada en humanos sobre una
+base de 80 mg/m2) durante la organogénesis. Sin embargo, en estudios
+de reproducción en ratas, seguido a la exposición maternal de 12 mg/
+kg/día (1,5 veces la dosis máxima recomendada en humanos sobre una
+base de un mg/m2) durante la gestación o 7,5 mg/kg/día (0,9 veces la
+dosis máxima recomendada en humanos sobre una base de un mg/m2)
+durante la gestación y lactancia, ocurrió un incremento de cachorros na-
+cidos muertos, una disminución en el peso de los cachorros y un aumen-
+to de cachorros muertos durante los primeros 7 días post-parto. No hubo
+evidencia de desarrollo de neurotoxicidad en las crías que sobrevivieron
+de ratas tratadas con 12 mg/kg/día durante la gestación. No hubo efecto
+de dosis sobre la motarlidad de cachorros de ratas con dosis de 5 mg/
+kg/día (0,6 veces la dosis máxima recomendada en humanos sobre una
+base de un mg/m2).
+
+Trabajo de parto y alumbramiento
+Se desconoce el efecto de fluoxetina sobre el trabajo de parto y el alum-
+bramiento en los humanos. Sin embargo, como fluoxetina atraviesa la
+placenta y debido a la posibilidad de que pueda tener efectos adversos
+en los recién nacidos, este fármaco sólo debe utilizarse durante el traba-
+jo de parto y el alumbramiento si el beneficio potencial justifica el riesgo
+potencial para el feto.
+
+Lactancia
+Dado que fluoxetina es excretada en la leche humana, el uso durante
+la  lactancia  no  está  recomendado.  Un  lactante  amamantado  por  una
+madre bajo tratamiento con fluoxetina presentó llanto, perturbación del
+sueño, vómitos y deposiciones acuosas.
+
+Uso pediátrico
+La  eficacia  de  fluoxetina  en  el  tratamiento  del  TDM  y  TOC  ha  sido  de-
+mostrada en pacientes ambulatorios pediátricos. No se han establecido
+la seguridad y efectividad en pacientes pediátricos <8 años de edad en
+el TDM y <7 años de edad en el TOC. Los eventos adversos observados
+fueron  generalmente  similares  a  aquellos  observados  en  estudios  con
+fluoxetina en adultos. Fueron reportadas reacciones maníacas, incluyen-
+do manía e hipomanía, en 6 de 228 pacientes tratados con fluoxetina. En
+consecuencia,  se  recomienda  un  monitoreo  regular  por  la  aparición  de
+manía/hipomanía. Al igual que con otros ISRS, se ha observado un me-
+nor aumento de peso corporal en asociación con el uso de fluoxetina en
+pacientes niños y adolescentes. Después de 19 semanas de tratamiento
+en un ensayo clínico, pacientes pediátricos tratados con fluoxetina aumen-
+taron un promedio de 1,1 cm menos en altura y 1,1 kg menos en peso que
+los pacientes tratados con placebo. Además, el tratamiento con fluoxetina
+fue asociado con una disminución en los niveles de fosfatasa alcalina. La
+seguridad del tratamiento con fluoxetina en pacientes pediátricos no ha
+sido evaluada sistemáticamente para el tratamiento crónico (más prolon-
+gado que algunos meses). En particular, no se dispone de estudios que
+evalúen directamente los efectos más prolongados de fluoxetina sobre el
+crecimiento, el desarrollo y la maduración de pacientes niños y adolescen-
+tes. Para ello habrá que monitorear periódicamente la altura y el peso en
+pacientes pediátricos que reciben fluoxetina.
+La  fluoxetina  está  aprobada  para  su  uso  en  pacientes  pediátricos  con
+TDM y TOC. El médico que considere el uso de fluoxetina en niños o ado-
+lescentes deberá balancear el riesgo potencial con la necesidad clínica.
+
+Uso geriátrico
+Se ha establecido la eficacia de fluoxetina en pacientes ancianos. No se
+observaron diferencias significativas en la seguridad y efectividad entre
+estos  pacientes  y  pacientes  más  jóvenes  y  otras  experiencias  clínicas
+no han identificado diferencias en las respuestas entre los ancianos y
+pacientes menores, pero no puede descartarse una mayor sensibilidad
+de algunos pacientes ancianos. Al igual que con otros ISRSs, fluoxetina
+ha sido asociada con casos de hiponatremia de importancia clínica en
+pacientes ancianos, quienes tienen mayor riesgo de padecer estas reac-
+ciones adversas. (Ver Precauciones; Hiponatremia).
+
+Insuficiencia hepática
+En sujetos con cirrosis hepática el clearance de fluoxetina y su metaboli-
+to activo, norfluoxetina, disminuyeron, incrementando la vida media de
+eliminación de dichas sustancias. En estos pacientes, debería utilizarse
+una dosis más baja o dosificación menos frecuente.
+
+REACCIONES ADVERSAS
+
+A  continuación  se  describen  los  eventos  adversos  más  comunes  obser-
+vados  en  los  estudios  clínicos,  controlados  con  placebo,  realizados  en
+TDM, TOC, Bulimia y Trastorno de angustia. Las reacciones adversas serán
+clasificadas como frecuentes (>10%), ocasionales (1-10%) y raras (<1%),
+teniendo en cuenta la frecuencia del evento en el grupo activo vs. placebo.
+Generales
+Frecuentes: Astenia. Ocasionales: cefalea, astenia, síndrome gripal, fiebre.
+Sistema Cardiovascular: Ocasionales: vasodilatación.
+Sistema Digestivo: Frecuentes: náuseas. Ocasionales: diarrea, anorexia,
+sequedad bucal, dispepsiaconstipación, flatulencias, vómitos.
+Desordenes nutricionales y metabólicos: Ocasionales: pérdida de peso.
+Sistema Nervioso: Ocasionales: Insomnio, nerviosismo, ansiedad, som-
+nolencia, mareos, temblor, disminución de la libido, pensamiento anor-
+mal, sueños anormales.
+Sistema  Respiratorio:  Frecuentes:  Bostezos.  Ocasionales:  faringitis,
+sinusitis.
+Piel: Ocasionales: sudoración, rash, prurito.
+Sentidos especiales: Ocasionales: visión anormal.
+Sistema Urogenital: Ocasionales: impotencia, eyaculación anormal.
+
+Eventos adversos asociados con la discontinuación del tratamien-
+to en los ensayos clínicos controlados con placebo en TDM, TOC,
+Bulimia y Trastorno de angustia con o sin agorafobia
+Los  eventos  adversos  más  comunes  acorde  a  la  patología  del  estudio
+fueron: TDM: Nerviosismo (1%). TOC: Ansiedad (2%); rash (1%). Bulimia:
+Insomnio (2%). Trastorno de Angustia: Ansiedad (2%); nerviosismo (1%).
+En estudios combinados en TDM, TOC, Bulimia y Trastorno de Angustia:
+Ansiedad (1%).
+
+Otros eventos adversos en pacientes pediátricos (niños y adolescentes)
+El perfil general de eventos adversos fue generalmente similar al obser-
+vado en estudios realizados en adultos, según se presentó anteriormente.
+Sin embargo, los siguientes eventos adversos fueron reportados con una
+incidencia de al menos 2% para fluoxetina y mayores que el placebo: sed,
+hiperquinesia,  agitación,  trastorno  de  la  personalidad,  epistaxis,  pola-
+
+quiuria y menorragia. El evento adverso más común (incidencia de al me-
+nos 1% para fluoxetina y mayor que el placebo) asociados con la disconti-
+nuación del tratamiento en 3 ensayos pediátricos controlados con placebo
+(N=418 seleccionados al azar; 228 tratados con fluoxetina; 190 tratados
+con placebo) fue manía/hipomanía (1,8% para los tratados con fluoxetina,
+0% para los tratados con placebo). En estos ensayos clínicos, sólo se reco-
+gió un evento primario asociado con la discontinuación del tratamiento.
+
+Disfunción sexual masculina y femenina con ISRSs
+En los pacientes incorporados en los ensayos clínicos controlados con pla-
+cebo en TDM, TOC y bulimia, la disminución de la libido fue el único efec-
+to secundario sexual reportado por al menos el 2% de los pacientes que
+tomaron fluoxetina.. Los síntomas de disfunción sexual ocasionalmente
+persisten después de la discontinuación del tratamiento con fluoxetina.
+Con  todos  los  ISRSs  se  ha  reportado  priapismo.  El  empleo  de  ISRS,
+incluido  fluoxetina,  puede  causar  síntomas  de  disfunción  sexual.  En
+los pacientes varones, el empleo de ISRS puede provocar eyaculación
+tardía o ausencia de eyaculación, disminución de la libido y disfunción
+eréctil.  En  las  pacientes  mujeres,  el  empleo  de  ISRS  puede  provocar
+una  disminución  de  la  libido  y  un  retraso  o  ausencia  de  orgasmo.  Es
+importante que los médicos indaguen sobre la función sexual antes de
+iniciar el tratamiento con fluoxetina y que pregunten específicamente
+sobre los cambios en la función sexual durante el tratamiento, porque
+el funcionamiento sexual puede no ser informado espontáneamente.
+Al evaluar los cambios en la función sexual, es importante obtener una
+historia  detallada  (incluidos  los  momentos  de  inicio  de  los  síntomas)
+porque los síntomas sexuales pueden deberse a otras causas, incluido
+el  trastorno  psiquiátrico  subyacente.  Analizar  las  posibles  estrategias
+de manejo para ayudar a los pacientes a tomar decisiones informadas
+sobre el tratamiento.
+
+Otros eventos adversos observados en ensayos clínicos
+A continuación, se presenta una lista de eventos adversos emergentes
+del tratamiento, reportados en cualquier momento por individuos que
+tomaron fluoxetina en los estudios clínicos realizados. La lista no incluye
+reacciones ya mencionadas. Los eventos se clasifican en las categorías de
+los sistemas corporales, como frecuentes (>10%), ocasionales (1-10%) y
+raros (<1%).
+Generales: Frecuente: escalofríos Ocasionales:Intento de suicidio. Raros:
+Síndrome abdominal agudo, reacción de fotosensibilidad.
+Sistema cardiovascular: Frecuente: Palpitaciones. Ocasionales: Arritmia,
+hipotensión.
+Sistema digestivo: Ocasionales: disfagia, gastritis, gastroenteritis, mele-
+na, úlcera gástrica, Raros: diarrea sanguinolenta, úlcera duodenal, úlcera
+esofágica,  hemorragia  gastrointestinal,  hematemesis,  hepatitis,  úlcera
+péptica, hemorragia de úlcera gástrica.
+Sistema hemático y linfático: Ocasionales: equimosis Raros: , petequias,
+púrpura.
+Exploraciones complementarias: Frecuentes: Prolongación del intervalo
+QT (QTcF >450 ms)3.Los datos sobre la prolongación del intervalo QT se
+basan en mediciones ECG rutinarias derivadas de los estúdios clínicos.
+Sistema nervioso: Frecuentes: Labilidad emocional. Ocasionales: aca-
+tisia, ataxia, trastorno del equilibrio1, bruxismo1, síndrome bucogloso,
+despersonalización, euforia, hipertonía, aumento de la libido, mioclono,
+reacción paranoide. Raros: delirio.
+Sistema respiratorio: Raros: edema laríngeo.
+Piel y anexos: Ocasionales: Alopecia. Raros: Erupción Purpurica.
+Sentidos  especiales:  Frecuentes:  Alteracion  del  gusto.  Ocasionales:
+midriasis.
+Aparato Sistema urogenital: Frecuentes: trastorno de la micción. Oca-
+sionales: disuria, hemorragia ginecológica2.
+1- Término del diccionario MedDRA de la base de datos integrada de estudios con-
+trolados con placebo de 15870 pacientes, de los cuales 9673 pacientes recibieron
+fluoxetina.
+
+2- Término de grupo que incluye términos individuales del MedDRA: hemorragia cer-
+vical uterina, sangrado uterino disfuncional, hemorragia genital, menometrorragia,
+menorragia, metrorragia, polimenorrea, hemorragia posmenopáusica, hemorragia
+uterina, hemorragia vaginal. Ajustado por género.
+
+Reportes post-comercialización
+Entre los eventos adversos descriptos después del lanzamiento del fár-
+maco en el mercado y que podrían no tener relación causal con el mismo
+figuran  los  siguientes:  anemia  aplástica,  fibrilación  atrial*,  cataratas,
+accidente  cerebrovascular*,  ictericia  colestática,  disquinesias  (inclu-
+yendo,  por  ejemplo,  un  caso  de  síndrome  bucal-lingual-masticatorio
+con protrusión involuntaria de la lengua reportado en una mujer de 77
+años de edad después de 5 semanas de tratamiento con fluoxetina y que
+remitió por completo en los meses siguientes después de la suspensión
+del  fármaco),  neumonía  eosinofílica*,  necrólisis  epidérmica,  eritema
+multiforme, eritema nudoso, dermatitis exfolitativa, galactorrea, gine-
+comastia,  paro  cardíaco*,  insuficiencia/necrosis  hepática,  hiperprolac-
+
+tinemia, hipoglucemia, anemia hemolítica relacionada con el sistema
+inmunológico, insuficiencia renal, deterioro de la memoria, trastornos
+del  movimiento  que  se  han  presentado  en  pacientes  con  factores  de
+riesgo  incluyendo  fármacos  asociados  con  esos  eventos  y  empeora-
+miento de los trastornos del movimiento preexistentes, neuritis óptica,
+pancreatitis*, pancitopenia, embolia pulmonar, hipertensión pulmonar,
+prolongación del QT, síndrome de Stevens-Johnson, trombocitopenia*,
+púrpura  trombocitopénica,  sangrado  vaginal,  taquicardia  ventricular
+(incluyendo Torsades de Pointes) y conductas violentas*.
+* Estos términos representan eventos adversos serios, pero no encuentran la defini-
+ción de reacción adversa relacionada a la droga. Estos son incluidos por su severidad.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medicamento
+tras su autorización. Ello permite una supervisión continuada de la relación
+beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a
+notificar las sospechas de reacciones adversas a través del Sistema Nacional
+de Farmacovigilancia al siguiente link: https://primaryreporting.who-umc.
+org/AR y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail
+a farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+ABUSO Y DEPENDENCIA
+
+Dependencia física y psicológica
+La fluoxetina no ha sido estudiado sistemáticamente, en animales o hu-
+manos, en cuanto a su potencial de abuso, tolerancia o dependencia física.
+Aunque la experiencia clínica previa a la comercialización con fluoxetina no
+reveló ninguna tendencia a provocar síndrome de abstinencia o una con-
+ducta de búsqueda, estas observaciones no fueron sistemáticas y sobre la
+base de esta limitada experiencia, no es posible predecir el grado en el que
+un fármaco activo en el SNC será mal utilizado, usado de diferente manera
+y/o abusado después de su introducción en el mercado. Por consiguiente,
+los médicos deberán evaluar cuidadosamente a los pacientes para determi-
+nar antecedentes de abuso de medicamentos y observarlos estrechamente
+para determinar si presentan signos de mal uso o abuso de FOXETIN®.
+
+SOBREDOSIFICACIÓN
+
+Los signos y síntomas más comunes asociados con la sobredosis fueron.
+• Convulsiones, que pueden ser tardías, y alteración del estado mental,
+
+incluido coma.
+
+• Toxicidad cardiovascular, que puede ser tardía, incluidos prolongación
+del intervalo QRS y QTc, taquiarritmias de complejo ancho, torsade de
+pointes  y  paro  cardíaco.  La  hipertensión  fue  más  comúnmente  ob-
+servada, pero raramente hipotensión sola o ingesta asociada a otras
+sustancias concomitantes, incluido el alcohol.
+
+• Síndrome de la serotonina (los pacientes con sobredosis de múltiples
+medicamentos con otros medicamentos pro-serotoninérgicos pueden
+presentar mayor riesgo).
+
+Tratamiento de la sobredosis
+El tratamiento deberá consistir en medidas generales que se emplean
+en el tratamiento de la sobredosis con cualquier fármaco efectivo en el
+tratamiento del TDM. Se deben asegurar una vía aérea, oxigenación y
+ventilación adecuadas. Se requiere el monitoreo del ritmo cardíaco y de
+los signos vitales. Se recomienda, asimismo, utilizar medidas generales
+de apoyo y sintomáticas. No se recomienda inducir el vómito.. Se debe
+administrar carbón activado. Debido al gran volumen de distribución
+de  este  fármaco,  es  improbable  que  la  diuresis  forzada,  la  diálisis,  la
+hemoperfusión  y  la  transfusión  sean  útiles.  No  se  conocen  antídotos
+específicos para fluoxetina. Se debe tener especial precaución con los
+pacientes que estén tomando o hayan tomado recientemente fluoxetina
+y puedan ingerir cantidades excesivas de un ATC. En ese caso, la acumu-
+lación del tricíclico original y/o de un metabolito activo podría aumentar
+la posibilidad de las secuelas clínicamente significativas y prolongar el
+tiempo necesario para la observación médica detenida. Tomando como
+base la experiencia en animales, que podría no ser relevante para los
+humanos,  las  convulsiones  inducidas  por  fluoxetina  que  no  remiten
+espontáneamente podrían responder al diazepam.
+Al  tratar  las  sobredosis,  se  debe  considerar  la  posibilidad  del  uso  de
+varios fármacos.
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+ (011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+ (011) 4654-6648/4658-7777.
+Optativamente otros centros de Intoxicaciones”
+
+PRESENTACIONES
+
+FOXETIN® 10: envases con 30 comprimidos ranurados.
+FOXETIN® 20: envases con 20, 30, 40 y 60 comprimidos ranurados..
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar a temperatura ambiente (entre 15 y 30 °C) protegido de la luz.
+FOXETIN® 20 contiene tartrazina como colorante.
+
+“Este medicamento no debe ser usado exclusivamente bajo pres-
+cripción médica y no puede repetirse sin nueva receta médica.”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 38.688
+
+Fecha de última revisión: 12/2023
+
+G00076103-09

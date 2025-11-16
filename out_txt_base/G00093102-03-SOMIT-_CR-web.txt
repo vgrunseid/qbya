@@ -1,0 +1,893 @@
+Venta bajo receta archivada. Psicotrópico Lista IV
+Industria Argentina
+
+recubierto  de
+
+liberación  modificada  de
+
+COMPOSICIÓN
+Cada  comprimido
+SOMIT® CR 6,25 contiene:
+Zolpidem Tartrato .............................................................. 6,25 mg
+Excipientes: Celulosa microcristalina PH102, Lactosa DT, Laca FD&C
+Rojo No 40, Sílica coloidal anhidra, Croscaramelosa sódica, Estea-
+rato de magnesio vegetal, Ácido fumárico, Methocel K4, Opadry II
+blanco, Opaglós GS 2-0700 ...................................................... c.s.
+Cada  comprimido
+liberación  modificada  de
+SOMIT® CR 12,5 contiene:
+Zolpidem tartrato .............................................................. 12,5 mg
+Excipientes: Celulosa microcristalina PH102, Lactosa DT, Laca FD&C
+Amarillo  No  6,  Laca  D&C  Amarillo  No  10,  Sílica  coloidal  anhidra,
+Croscaramelosa sódica, Estearato de magnesio vegetal, Ácido fu-
+márico, Methocel K4, Opadry II blanco, Opaglós GS 2-0700 ....... c.s.
+
+recubierto  de
+
+ACCIÓN TERAPÉUTICA
+Hipnótico. Sedante. (Clasificación ATC N05C F02).
+
+INDICACIONES
+SOMIT® CR está indicado para el tratamiento a corto plazo del in-
+somnio primario (DSM-IV).
+
+FARMACOLOGÍA CLÍNICA
+Mecanismo de acción
+Zolpidem es un hipnótico de la clase de las imidazopiridinas.
+Se considera la hipótesis de que la modulación de la subunidad del
+complejo macromolecular de canal de cloro del GABAA es respon-
+sable de las propiedades sedantes, anticonvulsivantes, ansiolíticas
+y miorrelajantes del fármaco. El principal sitio modulador del com-
+plejo receptor GABAA está localizado en su subunidad alfa (α) y se
+denomina receptor a benzodiacepinas (BZ) o receptor omega (ω).
+Se han identificado al menos tres subtipos del receptor (ω). Aunque
+zolpidem  es  un  agente  hipnótico  con  una  estructura  química  no
+relacionada  a  las  benzodiacepinas,  barbitúricos  y  otros  fármacos
+con propiedades hipnóticas conocidas, interactúa con un complejo
+receptor GABA-BZ y comparte algunas de las propiedades farma-
+cológicas de las benzodiacepinas. A diferencia de las benzodiace-
+pinas, que se unen no selectivamente y activan todos los subtipos
+del receptor omega, zolpidem se une in vitro con el receptor (ω1)
+preferentemente, con un alto índice de afinidad de las subunidades
+alfa1/alfa5. El receptor (ω1) se encuentra principalmente en la lámina
+IV  de  las  regiones  sensorio  motoras  corticales,  la  sustancia  nigra
+(pars reticulata), la capa molecular del cerebelo, el bulbo olfatorio,
+el complejo talámico ventral, la protuberancia, el colículo inferior y
+el globo pálido. Esta unión selectiva de zolpidem al receptor (ω1) no
+es absoluta, pero puede explicar la ausencia relativa de los efec-
+tos miorrelajantes y anticonvulsivante en estudios en animales, así
+como la preservación del sueño profundo (estadios 3 y 4) en estu-
+dios en humanos de zolpidem a dosis hipnóticas.
+
+FARMACOCINÉTICA
+SOMIT®  CR  exhibe  características  de  absorción  bifásica  lo  cual
+resulta en una absorción inicial rápida en el tracto gastrointestinal
+similar  a  zolpidem  de  liberación  inmediata,  produciendo  de  esta
+forma concentraciones plasmáticas prolongadas después de las 3
+horas de su administración.
+Absorción: Luego de la administración de SOMIT® CR, en una dosis de
+12,5 mg en sujetos adultos sanos, la Cmax de zolpidem fue de 134 ng/
+mL (rango: 68,9 a 197 ng/ml) ocurriendo en un tiempo medio (Tmax) de
+1,5 horas. El ABC medio de zolpidem fue de 740 ng•hr/mL (rango: 295
+a 1359 ng•hr/mL). La administración de SOMIT® CR con alimentos,
+disminuye el ABC y la Cmax en un 23 y 30%, respectivamente, mientras
+que  la Tmax  se  incrementa  de  2  a  4  horas.  La  vida  media  no  varía.
+Esto sugiere que para un comienzo más rápido del sueño, no se debe
+administrar SOMIT® CR durante o inmediatamente después de una
+ingesta de alimentos.
+Distribución: La unión total a proteínas fue del 92,5 ± 0,1% y per-
+manece sin cambios.
+
+SOMIT® CR
+ZOLPIDEM TARTRATO 6,25 - 12,5 mg
+Comprimidos recubiertos de liberación modificada
+
+Metabolismo: La vida media promedio de eliminación de zolpidem
+es de 2,8 horas (rango: 1,62 a 4,05 horas).
+Poblaciones especiales
+Ancianos: En pacientes ancianos (≥ 65 años), luego de una dosis oral
+única de zolpidem 6,25 mg de liberación modificada, la Cmax fue de
+70,6 ng/mL (rango: 35 a 161 ng/mL) ocurriendo en un tiempo medio
+(Tmax) de 2 horas. El ABC medio de zolpidem fue de 413 ng•hr/mL
+(rango: 124 a 1190 ng•hr/mL) y la vida media de eliminación fue de
+2,9 horas (rango: 1,59 a 5,5 horas).
+Pacientes con insuficiencia hepática: Zolpidem de liberación modi-
+ficada no fue estudiado en esta población. En pacientes con insufi-
+ciencia hepática crónica, luego de una dosis oral única de zolpidem
+20 mg, la Cmax y el ABC promedio aumentaron dos veces (250 vs
+499 ng/ml) y cinco veces (788 vs 4.203 ng•h/ml) respectivamente.
+La Tmax no cambió. El promedio de vida media en pacientes cirró-
+ticos de 9,9 horas (rango: 4,1 a 25,8 horas) fue mayor que el ob-
+servado en sujetos normales de 2,2 horas (rango: 1,6 a 2,4 horas).
+La posología debe modificarse de acuerdo a esto en pacientes con
+insuficiencia hepática [ver Advertencias y Precauciones y Posolo-
+gía y Forma de administración].
+Pacientes con insuficiencia renal: Zolpidem de liberación modificada no
+fue estudiado en esta población. En pacientes con insuficiencia renal
+terminal (ClCr promedio = 6,5 ± 1,5 ml/min) sometidos a hemodiálisis
+tres veces  por semana,  que recibieron zolpidem 10 mg  por vía oral
+todos los días durante 14 ó 21 días, no se observaron diferencias es-
+tadísticamente significativas para Cmax, Tmax, vida media y ABC entre el
+primer y último día de administración del fármaco cuando se realizaron
+ajustes de la concentración basal. Zolpidem no fue hemodializable. No
+apareció acumulación de fármaco intacto luego de 14 ó 21 días. La
+farmacocinética de zolpidem no fue significativamente diferente en pa-
+cientes con deterioro de la función renal. No es necesario el ajuste de la
+dosis en pacientes con función renal comprometida. Como precaución
+general, los pacientes deben ser monitoreados estrechamente.
+Relación postulada entre el índice de eliminación de los hip-
+nóticos  y  su  perfil  de  efectos  indeseados  comunes:  El  tipo  y
+duración de los efectos hipnóticos y el perfil de efectos no desea-
+dos durante la administración de fármacos hipnóticos, pueden estar
+influenciados por la vida media biológica del fármaco administrado
+y los metabolitos activos que se formen. Cuando las vidas medias
+son  largas,  el  fármaco  o  los  metabolitos  pueden  acumularse  du-
+rante períodos de administración nocturna y pueden asociarse con
+deterioro del rendimiento cognitivo y/o motor durante las horas de
+vigilia; la posibilidad de interacción con otros fármacos psicoactivos
+o con alcohol se incrementará. Por el contrario, si las vidas medias,
+incluyendo las vidas medias de los metabolitos, son cortas, el fár-
+maco y los metabolitos se depurarán antes de ingerirse la siguiente
+dosis, y los efectos remanentes relacionados con sedación excesiva
+o depresión del SNC deben ser mínimos o ausentes. Zolpidem tiene
+una vida media corta y no tiene metabolitos activos. Durante el uso
+nocturno  por  un  período  extenso,  puede  desarrollarse  tolerancia
+farmacodinámica o adaptación a algunos efectos de los hipnóticos.
+Si el fármaco tiene una vida media de eliminación corta, es posible
+que  pueda  ocurrir  una  relativa  deficiencia  del  fármaco  o  de  sus
+metabolitos activos (es decir, en relación con el sitio receptor) en
+algún momento durante el intervalo entre cada uso nocturno. Esta
+secuencia  de  eventos  puede  justificar  dos  hallazgos  clínicos  que
+se  reportaron  luego  de  varias  semanas  de  uso  nocturno  de  otros
+hipnóticos eliminados rápidamente, es decir, aumento de la vigilia
+durante el último tercio de la noche, y la aparición de aumento de
+signos de ansiedad diurna. No se ha observado aumento de la vigilia
+durante el último tercio de la noche medido por polisomnografía.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+La dosis de SOMIT® CR deberá ser individualizada.
+La dosis recomendada de SOMIT® CR para adultos mujeres es de
+6,25 mg y para hombres de 6,25 ó 12,50 mg una vez al día, inme-
+diatamente antes de acostarse.
+
+Los  pacientes  ancianos  o  debilitados,  pueden  ser  especialmente
+sensibles a los efectos de zolpidem; los pacientes con insuficiencia
+hepática  no  depuran  la  droga  tan  rápidamente  como  los  sujetos
+sanos. La dosis recomendada de SOMIT® CR en estos pacientes es
+de 6,25 mg una vez al día, inmediatamente antes de acostarse (ver
+Advertencias y Precauciones).
+El uso de hipnóticos debe ser limitado a períodos de 7 a 10 días y
+reevaluación del paciente si se considera prolongar el tratamiento
+por 2 o 3 semanas. Zolpidem no debería prescribirse por períodos
+mayores a 1 mes, ni superar la dosis máxima de 12,5 mg por noche.
+Forma de administración
+Los comprimidos de liberación modificada de SOMIT® CR deberán
+ingerirse enteros y no partidos, triturados o masticados. El efecto de
+SOMIT® CR puede ser lento al ingerirse con una comida o inmedia-
+tamente después de la misma.
+Administración con depresores del SNC
+Cuando SOMIT® CR se administra con agentes que tienen efectos
+conocidos depresores del SNC, puede ser necesario el ajuste des-
+cendente  de  la  dosis,  dados  los  efectos  aditivos  potenciales  (ver
+Advertencias y Precauciones).
+CONTRAINDICACIONES
+SOMIT® CR está contraindicado en pacientes con hipersensibilidad
+conocida al zolpidem o a alguno de los excipientes de la formulación.
+
+ADVERTENCIAS Y PRECAUCIONES
+Generales
+Dado  que  las  alteraciones  del  sueño  pueden  ser  la  manifestación
+de comienzo de un trastorno físico y/o psiquiátrico, el tratamiento
+sintomático del insomnio debe iniciarse solamente después de una
+cuidadosa evaluación del paciente. Si el insomnio no remite luego de
+7 a 10 días de tratamiento, esto puede indicar la presencia de una
+enfermedad psiquiátrica y/o médica primaria que debe ser evaluada.
+El empeoramiento del insomnio o la emergencia de anormalidades
+nuevas en el pensamiento o en el comportamiento, pueden ser con-
+secuencia de un trastorno psiquiátrico o físico no reconocido. Estos
+hallazgos han surgido durante el curso del tratamiento con fármacos
+sedantes/hipnóticos incluyendo zolpidem. Dado que algunos de los
+efectos adversos importantes de zolpidem, parecen ser relacionados
+a la dosis (ver Posología y Forma de administración), es importante
+usar la menor dosis efectiva posible, especialmente en ancianos.
+Reacciones anafilácticas y anafilactoides severas
+Se han reportado casos raros de angioedema que involucró lengua,
+glotis o laringe, en pacientes, luego de tomar la primera dosis o las
+dosis  subsiguientes  de  sedantes/hipnóticos,  incluyendo  zolpidem.
+Algunos  pacientes  han  tenido  síntomas  adicionales  como  disnea,
+edema  de  glotis,  náuseas  y  vómitos,  que  sugieren  anafilaxia. Al-
+gunos  pacientes  requirieron  tratamiento  médico  urgente.  Si  el
+angioedema compromete garganta, glotis o laringe, puede ocurrir
+obstrucción de la vía aérea y puede ser fatal. Los pacientes que de-
+sarrollan angioedema luego del tratamiento con zolpidem no deben
+recibir nuevamente el fármaco.
+Pensamiento anormal y cambios conductuales
+Se  ha  reportado  la  ocurrencia  de  una  variedad  de  pensamientos
+anormales y cambios conductuales asociados con el uso de sedan-
+tes/hipnóticos. Algunos de estos cambios pueden caracterizarse por
+una disminución de la inhibición (por ej., agresividad y extroversión
+ajenas al carácter), similar a los efectos producidos por el alcohol y
+otros depresores del SNC. Se han reportado alucinaciones visuales
+y auditivas así como cambios conductuales, tales como conductas
+bizarras, agitación y despersonalización. Se han reportado compor-
+tamientos  complejos  como  conducir  no  completamente  despierto
+luego  de  la  ingesta  de  un  sedante-hipnótico,  con  amnesia  del
+evento. Estos eventos pueden ocurrir en pacientes que nunca han
+recibido sedantes/hipnóticos, así como en personas que ya los han
+recibido. Aunque los comportamientos complejos, como el citado,
+pueden  ocurrir  con  zolpidem  (como  monodroga)  a  dosis  terapéu-
+ticas, el uso de alcohol y otros depresores del SNC con zolpidem
+parece incrementar el riesgo de estos comportamientos, así como
+el uso de zolpidem a dosis que exceden la dosis máxima recomen-
+dada. Debido al riesgo para el paciente y para la comunidad, debe
+considerarse firmemente la discontinuación de SOMIT® CR en pa-
+cientes que informan un episodio como el citado precedentemente.
+Otros comportamientos complejos: por ejemplo preparar comida
+y  comer,  realizar  llamadas  telefónicas,  tener  relaciones  sexuales,
+etc.  Los  pacientes  que  presentan  estos  síntomas,  usualmente  no
+recuerdan dichos eventos.
+
+Ansiedad y otros síntomas neuro-psiquiátricos impredecibles:
+se  han  reportado  en  pacientes  que  no  estaban  completamente
+despiertos  luego  de  tomar  un  sedante/hipnótico.  Los  pacientes
+habitualmente  no  recuerdan  estos  eventos.  En  pacientes  con  de-
+presión primaria, se ha reportado el empeoramiento de la depre-
+sión, incluyendo pensamientos suicidas, en asociación con el uso
+de  sedantes/hipnóticos.  Raramente  puede  determinarse  con  cer-
+teza si una circunstancia particular de los comportamientos anor-
+males mencionados, son inducidos por el fármaco, son de origen
+espontáneo,  o  son  resultado  de  un  trastorno  psiquiátrico  o  físico
+subyacente. No obstante, la aparición de un nuevo signo o síntoma
+preocupante referido al comportamiento requiere evaluación inme-
+diata y cuidadosa.
+Efectos de la discontinuación
+Luego  de  la  disminución  rápida  o  la  discontinuación  abrupta  de
+sedantes/hipnóticos, ha habido reportes de signos y síntomas simi-
+lares a los asociados con el retiro de otros fármacos depresores del
+SNC (ver Abuso y Dependencia).
+Efectos depresores del SNC
+Zolpidem,  como  otros  fármacos  sedantes/hipnóticos,  tiene  efec-
+tos  depresores  del  SNC.  Debido  al  rápido  comienzo  de  acción,
+SOMIT® CR debe ingerirse inmediatamente antes de acostarse. Los
+pacientes deben ser advertidos para evitar ocupaciones riesgosas
+que  requieran  atención  mental  completa  o  coordinación  motora,
+como operación de maquinarias o conducir un vehículo de motor,
+después  de  ingerir  el  fármaco,  incluyendo  deterioro  potencial  del
+rendimiento de tales actividades que pueda ocurrir el día siguien-
+te  a  la  ingesta  de  SOMIT®  CR.  Zolpidem  mostró  efectos  aditivos
+cuando  se  combinó  con  alcohol  y  no  debe  tomarse  con  alcohol.
+Los pacientes también deben ser advertidos sobre posibles efec-
+tos  combinados  con  otros  fármacos  depresores  del  SNC.  Pueden
+requerirse ajustes de dosis cuando SOMIT® CR se administra con
+tales agentes, dado los efectos aditivos potenciales.
+Riesgos por efectos residuales la mañana siguiente:
+Riesgo de aletargamiento o menor nivel de alerta mental la mañana
+posterior al uso de medicamentos contra el insomnio; la FDA en un
+comunicado de Enero de 2013 requirió reducir la dosis recomenda-
+da para ciertos medicamentos que contienen zolpidem.
+Poblaciones especiales
+Uso  en  pacientes  añosos  y/o  debilitados:  En  el  tratamiento  de
+pacientes añosos y/o debilitados, el rendimiento motor y/o cognitivo
+deteriorado luego de la exposición repetida o al haber sensibilidad
+no  habitual  a  los  fármacos  sedantes/hipnóticos,  es  un  motivo  de
+preocupación. Por lo tanto, la dosis recomendada de SOMIT® CR en
+estos pacientes es de 6,25 mg (ver Posología y Forma de adminis-
+tración) para disminuir la posibilidad de tener efectos colaterales.
+Estos pacientes deben monitorearse estrechamente.
+Uso  en  pacientes  con  enfermedades  concomitantes:  La  expe-
+riencia clínica con zolpidem en pacientes con enfermedades sisté-
+micas concomitantes es limitada. Es aconsejable tener precaución al
+usar SOMIT® CR en pacientes con enfermedades o condiciones que
+pudieran afectar el metabolismo o las respuestas hemodinámicas.
+Aunque los estudios no mostraron efectos depresores respiratorios
+a dosis hipnóticas de zolpidem en sujetos normales o en pacientes
+con enfermedad pulmonar obstructiva crónica (EPOC) leve a mode-
+rada,  se  observó  una  reducción  en  el  Índice Total  de  Despertares
+con una reducción en la menor saturación de oxígeno y un aumento
+en  las  ocasiones  de  desaturación  de  oxígeno  por  debajo  del  80%
+y 90%, en pacientes con apnea del sueño leve a moderada trata-
+dos con zolpidem de liberación inmediata (10 mg) comparado con
+placebo.  Sin  embargo,  deben  observarse  las  precauciones  si  se
+prescribe a pacientes con función respiratoria comprometida, dado
+que los sedantes/hipnóticos tienen la capacidad de deprimir el im-
+pulso  respiratorio.  Se  han  recibido  reportes  post-comercialización
+de insuficiencia respiratoria, la mayoría de los cuales involucraban
+pacientes con deterioro respiratorio pre-existente. SOMIT® CR debe
+ser utilizado con precaución en pacientes con sindrome de apnea del
+sueño o miastenia gravis. Los datos sobre pacientes con insuficien-
+cia renal terminal tratados repetidamente con zolpidem de liberación
+inmediata (10 mg) no demostraron acumulación del fármaco ni alte-
+raciones en los parámetros farmacocinéticos. En los pacientes con
+deterioro de la función renal no son necesarios los ajustes de dosis;
+sin  embargo,  estos  pacientes  deben  ser  monitoreados  estrecha-
+mente (ver Farmacocinética). Un estudio con sujetos con deterioro
+hepático mostró eliminación prolongada en este grupo; por lo tanto,
+el tratamiento con SOMIT® CR debe iniciarse con 6,25 mg en los
+
+pacientes con compromiso hepático, y los mismos deben ser moni-
+toreados estrechamente.
+Uso en depresión: Como con otros fármacos sedantes/hipnóticos,
+SOMIT® CR debe administrarse con precaución en pacientes que
+muestran síntomas de depresión. Puede haber tendencias suicidas
+en estos pacientes, y puede requerirse tomar las medidas protecti-
+vas. En este grupo de pacientes es más común la sobredosis inten-
+cional; por lo tanto, para estos pacientes debe prescribirse cada vez
+la menor cantidad de fármaco posible.
+Pacientes pediátricos: La seguridad y efectividad de zolpidem no
+se  han  establecido  en  pacientes  pediátricos.  En  un  estudio  de  8
+semanas  en  pacientes  pediátricos  (de  6  a  17  años  de  edad)  con
+insomnio y ADHD, zolpidem no disminuyó la latencia del sueño en
+comparación a placebo. Se reportaron alucinaciones en el 7,4% de
+los pacientes pediátricos que recibieron zolpidem; ninguno de los
+pacientes pediátricos que recibieron placebo reportó alucinaciones
+(ver Uso en poblaciones específicas: Uso pediátrico).
+Pruebas de laboratorio
+No hay pruebas de laboratorio específicas recomendadas para mo-
+nitorear los niveles de zolpidem.
+Interferencia con pruebas de laboratorio
+No se conoce ninguna interferencia de zolpidem con las pruebas de
+laboratorio clínico empleadas comúnmente. Además, los datos clíni-
+cos indican que zolpidem no tiene reactividad cruzada con las ben-
+zodiacepinas, los opiáceos, barbitúricos, cocaína, cannabinoides o
+anfetaminas en dos exámenes estándares de fármacos en orina.
+
+INTERACCIONES FARMACOLÓGICAS
+Fármacos activos en el SNC
+Se observó ausencia de efecto del haloperidol sobre la farmacoci-
+nética o farmacodinamia de zolpidem. La ausencia de una interac-
+ción farmacológica luego de la administración de una dosis única no
+predijo la ausencia luego de la administración crónica.
+La imipramina en combinación con zolpidem no produjo interac-
+ción farmacocinética más que una disminución de un 20% en los
+niveles máximos de imipramina, pero hubo un efecto aditivo sobre
+la disminución del estado de alerta. En forma similar, la clorproma-
+zina en combinación con zolpidem no produjo interacción farmaco-
+cinética, pero hubo un efecto aditivo de la disminución del estado
+de alerta y el rendimiento psicomotor.
+Se demostró un efecto aditivo sobre el rendimiento psicomotor en-
+tre  alcohol  y  zolpidem  (ver  Advertencias  y  Precauciones:  efectos
+depresores sobre el SNC).
+En  estudios  de  interacción  de  dosis  única  con  zolpidem  10  mg  y
+fluoxetina 20 mg a niveles de estado estacionario en voluntarios
+varones sanos no demostró ninguna interacción farmacocinética o
+farmacodinámica  clínicamente  significativa.  Cuando  se  evaluaron
+dosis múltiples de zolpidem y fluoxetina a concentraciones de es-
+tado de equilibrio en mujeres sanas, el único cambio significativo
+fue un aumento del 17% en la vida media de zolpidem. No hubo
+evidencia de un efecto aditivo en el rendimiento psicomotor.
+Luego de la administración de cinco dosis nocturnas consecutivas
+de  zolpidem  10  mg  en  presencia  de  sertralina  50  mg,  en  muje-
+res  voluntarias  sanas,  la  Cmax  de  zolpidem  fue  significativamente
+superior  (43%)  y  la  Tmax  disminuyó  significativamente  (53%).  La
+farmacocinética  de  sertralina  y  N-desmetilsertralina  no  se  vieron
+afectadas por zolpidem.
+Dado que las evaluaciones sistemáticas de zolpidem en combina-
+ción con otros fármacos activos en el SNC ha sido limitada, debe
+tenerse cuidadosa consideración con la farmacología de cualquier
+fármaco activo en el SNC cuando se usa con zolpidem. Cualquier
+fármaco con efectos depresores sobre el SNC podría incrementar
+potencialmente los efectos depresores de zolpidem sobre el SNC.
+Fármacos que afectan el metabolismo farmacológico por me-
+dio del citocromo P450
+La  administración  en  voluntarios  sanos  de  itraconazol  (200  mg
+una vez por día durante 4 días) y una dosis única de zolpidem de
+liberación inmediata (10 mg) administrado 5 horas después de la
+última dosis de itraconazol, resultó en un aumento del 34% en el
+ABC de zolpidem. No hubo efectos farmacodinámicos significativos
+de  zolpidem  sobre  la  somnolencia  subjetiva,  balanceo  postural  o
+rendimiento psicomotor.
+La administración en mujeres voluntarias sanas entre 5 dosis dia-
+rias  consecutivas  de  rifampicina  (600  mg)  y  una  dosis  única  de
+zolpidem  de  liberación  inmediata  (20  mg)  administrada  17  horas
+después de la última dosis de rifampicina mostró reducciones sig-
+nificativas del ABC (-73%), Cmax (-58%), y T1/2 (-36%) de zolpidem
+
+junto con reducciones significativas en los efectos farmacodinámi-
+cos de zolpidem.
+La co-administración en voluntarios sanos de ketoconazol, un po-
+tente inhibidor de la CYP3A4 (200 mg dos veces por día durante 2
+días) y una dosis única de zolpidem de liberación inmediata (5 mg),
+resultó en un incremento de la Cmax y del ABC de zolpidem (1,3 y 1,7,
+respectivamente) y prolongó la vida media de eliminación en apro-
+ximadamente 30% con un incremento de los efectos farmacodiná-
+micos de zolpidem. Se deberá tener precaución cuando ketoconazol
+es administrado con zolpidem y se deberá considerar el uso de dosis
+inferiores de zolpidem cuando ketoconazol y zolpidem son adminis-
+trados conjuntamente. Los pacientes deberían ser informados que
+el uso de zolpidem de liberación modificada con ketoconazol puede
+aumentar los efectos sedativos.
+Otros fármacos
+La  combinación  de  cimetidina/zolpidem  y  ranitidina/zolpidem
+mostró  ausencia  de  efecto  de  alguno  de  los  fármacos  sobre  la
+farmacocinética o farmacodinamia de zolpidem. Zolpidem no tuvo
+efecto sobre la cinética de la digoxina y no afectó el tiempo de pro-
+trombina cuando se administró con warfarina en sujetos normales.
+El efecto sedante/hipnótico de zolpidem se revirtió con flumazenil;
+sin embargo, no se hallaron alteraciones significativas en la farma-
+cocinética de zolpidem.
+Embarazo
+Ningún efecto teratogénico embriotóxico ha sido puesto en eviden-
+cia en animales, no obstante como medida de precaución, este me-
+dicamento no deberá utilizarse durante el embarazo. Si se prescribe
+el producto en la mujer en edad fértil, se le debe advertir que con-
+tacte a su médico para suspender el tratamiento si tiene la intención
+de quedar embarazada o si sospecha que está embarazada. Recién
+nacidos  de  madres  que  tomaron  zolpidem  al  inicio  o  al  final  del
+embarazo, pueden presentar síntomas como hipotermia, hipotonía y
+moderada depresión respiratoria. El niño puede presentar síntomas
+de abstinencia, aunque no se evidenció con zolpidem.
+Lactancia
+A pesar que el pasaje del zolpidem a la leche materna es débil, no
+deberá ser administrado durante la misma. Si el médico considera
+necesario el uso de la droga, suspenderá la lactancia.
+Uso en pediatría
+No se ha establecido la seguridad y la efectividad de zolpidem en
+la población pediátrica.
+Uso en adultos
+En un estudio doble-ciego, aleatorizado, controlado contra placebo,
+de 24 semanas de duración llevado a cabo en pacientes ambula-
+torios adultos (18 - 64 años) con insomnio primario, zolpidem CR
+12,5 mg administrado según necesidad (3 a 7 noches por semana)
+fue  superior  al  placebo  durante  las  24  semanas  en  la  impresión
+global  de  los  propios  pacientes  sobre  la  ayuda  para  dormir  y  en
+los parámetros específicos del sueño informados por los pacien-
+tes  respecto  de  la  inducción  del  sueño  y  su  mantenimiento,  sin
+registrarse  una  frecuencia  significativamente  mayor  de  ingesta
+del  fármaco  con  el  tiempo.  Los  eventos  adversos  fueron  leves  a
+moderados  y  similares  a  los  reportados  en  estudios  previos  con
+zolpidem. Los más comunes, y con una frecuencia mayor que el
+placebo,  fueron  cefalea,  ansiedad,  somnolencia,  mareos.  (Krystal
+A, Erman M, Zammit G et al. SLEEP 2008; 31(1):79-90).
+Uso en geriatría
+Las  reacciones  adversas  de  zolpidem  de  liberación  modificada
+6,25  mg  en  esta  población  (≥65  años  de  edad)  son  similares  a
+las de zolpidem de liberación modificada 12,5 mg en adultos más
+jóvenes (≤64 años de edad). El mareo fue reportado en el 8% de
+los  pacientes  tratados  con  zolpidem  de  liberación  modificada,
+comparado con el 3% de aquellos tratados con placebo. La dosis
+de zolpidem de liberación modificada en pacientes mayores es de
+6,25 mg para minimizar los efectos adversos relacionados con el
+deterioro del rendimiento cognitivo y/o motor y sensibilidad inusual
+frente a sedantes/hipnóticos (ver Advertencias y Precauciones).
+Efectos sobre la capacidad de conducir y utilizar maquinarias
+Por riesgo de aparición de somnolencia, prevenir a los conducto-
+res de vehículos y a quienes utilicen maquinarias de precisión. La
+asociación  con  otros  medicamentos  sedantes  potencia  el  efecto
+depresor de los hipnóticos.
+
+REACCIONES ADVERSAS
+Se han reportado con zolpidem reacciones adversas serias inclu-
+yendo  reacciones  anafilácticas  y  anafilactoides  severas,  pensa-
+
+miento y comportamiento anormales, conductas complejas, efectos
+de  retiro,  amnesia,  ansiedad,  otros  síntomas  neuropsiquiátricos  y
+efectos depresores del SNC (ver Advertencias y Precauciones).
+Relacionadas con la discontinuación del tratamiento
+En  estudios  de  3  semanas  de  duración  en  pacientes  adultos  y
+ancianos  (>65  años),  el  3,5%  de  los  pacientes  que  recibieron
+zolpidem  de  liberación  modificada  6,25  ó  12,5  mg,  discontinua-
+ron  el  tratamiento,  comparado  con  el  0,9%  de  los  pacientes  que
+recibieron placebo, debido a una reacción adversa. El evento más
+comúnmente asociado con la discontinuación del tratamiento con
+zolpidem  de  liberación  modificada  fue  somnolencia  (1%).  En  un
+estudio  de  6  meses  de  duración  en  pacientes  adultos  (18  a  64
+años de edad), el 8,5% de los pacientes que recibieron zolpidem
+de  liberación  modificada  12,5  mg,  discontinuaron  el  tratamiento,
+comparado con  el 4,6% de  los  pacientes que  recibieron placebo,
+debido  a  una  reacción  adversa.  Los  eventos  más  comúnmente
+asociados  con  la  discontinuación  del  tratamiento  con  zolpidem
+de  liberación  modificada  fueron:  ansiedad  (ansiedad,  inquietud  o
+agitación) 1,5% y depresión (depresión, depresión mayor o humor
+depresivo) 1,5%, comparado en ambos casos con el 0,3% del grupo
+placebo. Cuando se administró zolpidem de liberación inmediata a
+pacientes tratados con inhibidores selectivos de la recaptación de
+serotonina (ISRS) se observó que cuatro de siete discontinuaciones
+durante  el  tratamiento  a  doble  ciego  con  zolpidem  (n=95)  fueron
+asociadas con dificultades de concentración, depresión continua o
+agravada  y  reacción  maniaca  y  un  paciente  tratado  con  placebo
+(n=97) discontinuó el tratamiento luego de un intento de suicidio.
+Reacciones  adversas  más  comúnmente  observadas  en  estu-
+dios controlados con zolpidem de liberación modificada.
+Las  reacciones  adversas  más  comúnmente  observadas  que  fueron
+asociadas con el uso de zolpidem de liberación modificada durante el
+tratamiento en adultos y ancianos en dosis diarias de 12,5 y 6,25 mg,
+respectivamente fueron: dolor de cabeza, somnolencia al día siguiente
+y mareos. En el estudio de 6 meses que evaluó zolpidem de liberación
+modificada 12,5 mg, el perfil de reacciones adversas fue consistente
+con las reacciones reportadas en el estudio a corto plazo, excepto por
+una mayor incidencia de ansiedad (6,3% para zolpidem de liberación
+modificada vs. 2,6% para placebo).
+El médico que prescribe la medicación debe saber que estas cifras
+no pueden usarse para predecir la incidencia de efectos colaterales
+en el curso de la práctica médica actual, en la cual las caracterís-
+ticas  del  paciente  y  otros  factores  difieren  de  los  que  prevalecen
+en  los  ensayos  clínicos.  Las  cifras  citadas  proveen  al  médico  de
+una  base  para  estimar  la  contribución  relativa  del  fármaco  y  los
+factores no farmacológicos a la incidencia de efectos colaterales en
+la población estudiada.
+Las reacciones adversas serán clasificadas acorde a la Disposición
+5904/96 de la ANMAT, como frecuentes (>10%), ocasionales (1-10%)
+y raras (<1%), teniendo en cuenta la frecuencia del evento en el gru-
+po activo vs. placebo.
+- Pacientes adultos tratados con 12,5 mg de zolpidem de libe-
+ración modificada
+Infecciones: Ocasionales: influenza, gastroenteritis, laberintitis.
+Trastornos del metabolismo y nutrición: Ocasionales: trastornos del
+apetito.
+Trastornos  psiquiátricos:  Ocasionales:  alucinaciones,  desorienta-
+ción, ansiedad, depresión, retardo psicomotor, despersonalización,
+desinhibición, humor eufórico, humor inestable, apetito incontrola-
+ble, síntomas de estrés.
+Trastornos del sistema nervioso: Frecuentes: somnolencia. Ocasio-
+nales:  cefalea,  mareos,  trastornos  de  la  memoria  (deterioro  de  la
+memoria, amnesia y amnesia anterógrada), trastornos del balance,
+trastornos de atención, hipoestesia, ataxia, parestesia.
+Trastornos oculares: Ocasionales: disturbios de la visión, ojos rojos,
+visión borrosa, alteración de la percepción visual profunda, astenopía.
+Trastornos del oído y laberinto: Ocasionales: vértigo, tinnitus.
+Trastornos respiratorios: Ocasionales: irritación de garganta.
+Trastornos gastrointestinales: Ocasionales: náuseas, constipación, dis-
+confort abdominal, cólicos intestinales, reflujo gastroesofágico, vómitos.
+Trastornos de la piel y tejidos subcutáneos: Ocasionales: rash, urti-
+caria, arrugas de la piel.
+Trastornos músculo-esqueléticos: Ocasionales: lumbalgia, mialgia,
+dolor cervical.
+Trastornos del sistema reproductivo: Ocasionales: menorragia.
+Trastornos generales: Ocasionales: fatiga, astenia, disconfort en el
+pecho.
+
+Otros trastornos: Ocasionales: aumento de la temperatura corporal,
+aumento de la tensión arterial.
+- Pacientes ancianos tratados con 6,25 mg de zolpidem de li-
+beración modificada
+Infecciones: Ocasionales: nasofaringitis, infección del tracto respi-
+ratorio inferior y superior, otitis externa.
+Trastornos psiquiátricos: Ocasionales: ansiedad, retardo psicomotor,
+apatía, humor depresivo.
+Trastornos del sistema nervioso: Ocasionales: cefalea, mareos, som-
+nolencia, sensación de quemazón, mareo postural, trastornos de la
+memoria (deterioro de la memoria, amnesia y amnesia anterógrada),
+contracciones musculares involuntarias, parestesia, temblor.
+Trastornos cardíacos: Ocasionales: palpitaciones.
+Trastornos respiratorios: Ocasionales: garganta seca.
+Trastornos gastrointestinales: Ocasionales: flatulencia, vómitos.
+Trastornos de la piel y tejidos subcutáneos: Ocasionales: rash, urticaria.
+Trastornos músculo-esqueléticos: Ocasionales: artralgias, dolor cer-
+vical, calambres musculares.
+Trastornos urinarios: Ocasionales: disuria.
+Trastornos del sistema reproductivo: Ocasionales: sequedad bulbo
+vaginal.
+Trastornos generales: Ocasionales: síntomas gripales, pirexia.
+Reacciones adversas dependientes de la dosis
+Existe evidencia de los ensayos de comparación de dosis que sugie-
+re una relación con la dosis en la mayoría de los eventos adversos
+asociados  con  el  uso  de  zolpidem,  particularmente  para  ciertos
+eventos adversos del SNC y gastrointestinales.
+Eventos adversos observados durante la evaluación previa a la
+comercialización de zolpidem de liberación inmediata
+Se incluyen todos los eventos adversos emergentes del tratamien-
+to, excepto los enumerados previamente, de estudios controlados
+con  placebo,  los  que  codifican  términos  que  son  tan  generales
+que resultan no informativos, y aquellos eventos en que la causa
+farmacológica era remota. Es importante enfatizar que, aunque los
+eventos reportados ocurrieron durante el tratamiento con zolpidem,
+no fueron necesariamente causados por el mismo. Los eventos ad-
+versos se clasifican adicionalmente por categorías de sistema de
+clase orgánico y se enumeran en orden de frecuencia descendente
+usando las siguientes definiciones: Frecuentes: aquellos que ocu-
+rren en más de 1/100 sujetos; Infrecuentes: aquellos que ocurren
+en 1/100 a 1/1.000 pacientes; Raros: aquellos que ocurren en me-
+nos de 1/1.000 pacientes.
+Sistema nervioso autónomo: Frecuentes: boca seca. Infrecuentes:
+aumento  de  la  sudoración,  palidez,  hipotensión  postural,  síncope.
+Raros: acomodación anormal, saliva alterada, rubor, glaucoma, hi-
+potensión, impotencia, aumento de la saliva, tenesmo.
+Organismo en general: Frecuentes: astenia. Infrecuentes: dolor de
+pecho, edema, caída, fiebre, malestar, trauma. Raros: reacción alér-
+gica, alergia agravada, shock anafiláctico, edema facial, tuforadas,
+aumento de la ERS, dolor, piernas inquietas, rigidez, aumento de la
+tolerancia, disminución de peso.
+Sistema  cardiovascular:  Infrecuentes:  trastorno  cerebrovascular,
+hipertensión, taquicardia. Raros: angina de pecho, arritmia, arteri-
+tis,  insuficiencia  circulatoria,  extrasístoles,  hipertensión  agravada,
+infarto de miocardio, flebitis, embolia pulmonar, edema pulmonar,
+venas varicosas, taquicardia ventricular.
+Sistema  nervioso  central  y  periférico:  Frecuentes:  ataxia,  con-
+fusión,  somnolencia,  sensación  de  estar  bajo  los  efectos  de  una
+sustancia,  euforia,  insomnio,  letargo,  vértigo,  mareos.  Infrecuen-
+tes: agitación, disminución de la cognición, indiferencia, dificultad
+para  concentrarse,  disartria,  labilidad  emocional,  alucinaciones,
+hipoestesia, ilusiones, calambres en piernas, migraña, nerviosismo,
+parestesias,  sueño  (luego  de  la  administración  diurna),  trastornos
+del discurso, estupor, temblor. Raros: marcha anormal, pensamiento
+anormal, reacción agresiva, apatía, aumento del apetito, disminu-
+ción  de  la  libido,  delirio,  demencia,  despersonalización,  disfasia,
+sensación de extrañeza, hipoquinesia, hipotonía, histeria, sensación
+de estar intoxicado, reacción maníaca, neuralgia, neuritis, neuropa-
+tía, neurosis, ataques de pánico, paresia, trastorno de la personali-
+dad, sonambulismo, intentos de suicidio, tetania, bostezos.
+Sistema  gastrointestinal:  Frecuentes:  diarrea,  dispepsia,  hipo.
+Infrecuentes: anorexia, constipación, disfagia, flatulencia, gastroen-
+teritis. Raros: enteritis, eructos, espasmo esofágico, gastritis, hemo-
+rroides, obstrucción intestinal, hemorragia rectal, caries dentales.
+Sistema hematológico y linfático: Raros: anemia, hiperhemoglo-
+
+binemia,  leucopenia,  linfadenopatía,  anemia  macrocítica,  púrpura,
+trombosis.
+Sistema  inmunológico:  Infrecuentes:  infección.  Raros:  abscesos,
+herpes simplex, herpes zoster, otitis externa, otitis media.
+Hígado y sistema biliar: Infrecuentes: función hepática anormal,
+aumento de la TGP. Raros: bilirrubinemia, aumento de la TGO.
+Metabólico y nutricional: Infrecuentes: hiperglucemia, sed. Raros:
+gota, hipercolesterolemia, hiperlipidemia, aumento de la fosfatasa
+alcalina, aumento del BUN, edema periorbital.
+Sistema músculo-esquelético: Infrecuentes: artritis. Raros: artro-
+sis, debilidad muscular, ciática, tendinitis.
+Sistema reproductivo: Infrecuentes: trastorno menstrual, vaginitis.
+Raros: fibroadenosis de mama, neoplasia de mama, dolor de mama.
+Sistema respiratorio: Frecuentes: sinusitis. Infrecuentes: bronqui-
+tis, tos, disnea. Raros: broncoespasmo, epistaxis, hipoxia, laringitis,
+neumonía.
+Piel y apéndices: Infrecuentes: prurito. Raros: acné, erupción bu-
+llosa,  dermatitis,  furunculosis,  inflamación  del  sitio  de  inyección,
+reacción de fotosensibilidad, urticaria.
+Sentidos  especiales:  Frecuentes:  diplopía,  visión  anormal.  Infre-
+cuentes: irritación ocular, dolor ocular, escleritis, disgeusia, tinnitus.
+Raros:  conjuntivitis,  ulceración  corneal,  lagrimeo  anormal,  paros-
+mia, fotopsia.
+Sistema  urogenital:  Frecuentes:  infección  del  tracto  urinario.  In-
+frecuentes: cistitis, incontinencia urinaria. Raros: insuficiencia renal
+aguda, disuria, frecuencia miccional, nocturia, poliuria, pielonefritis,
+dolor renal, retención urinaria.
+Se invita a los profesionales sanitarios a notificar las sospechas de
+reacciones adversas a través del Sistema Nacional de Farmacovi-
+gilancia al siguiente link:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/
+eventosadversos  y/o  al  Departamento  de  Farmacovigilancia  de
+GADOR  S.A.  vía  email  a  farmacovigilancia@gador.com  o  telefóni-
+camente al 0800-220-2273.
+
+ABUSO Y DEPENDENCIA
+Los sedantes/hipnóticos han producido signos y síntomas de retiro
+luego de la discontinuación abrupta. Los síntomas reportados va-
+riaron de disforia leve e insomnio a síndrome de abstinencia que
+puede incluir calambres abdominales y musculares, vómitos, sudo-
+ración, temblor y convulsiones. La experiencia en ensayos clínicos
+para zolpidem no muestra ninguna evidencia clara de síndrome de
+abstinencia. No obstante, durante los ensayos clínicos se reporta-
+ron  los  siguientes  eventos  adversos  incluidos  en  los  criterios  del
+DSM-III-R para retiro de sedantes/hipnóticos no complicado, luego
+de la sustitución por placebo dentro de las 48 horas posteriores del
+último tratamiento con zolpidem: fatiga, náuseas, rubor, aturdimien-
+to, llanto no controlado, emesis, calambres estomacales, ataque de
+pánico, nerviosismo y malestar abdominal. Estos eventos adversos
+reportados ocurrieron con una incidencia del 1% o menos. Sin em-
+bargo, los datos disponibles no pueden proveer un estimado confia-
+
+ble de la incidencia, si la hay, de dependencia durante el tratamiento
+con las dosis recomendadas. Se han reportado informes raros de
+abuso, dependencia y abstinencia post-comercialización. Dado que
+las personas con antecedentes de adicción o abuso a drogas o al-
+cohol tienen un riesgo aumentado de habituación y dependencia,
+deben estar bajo supervisión cuidadosa cuando reciben zolpidem
+o cualquier otro hipnótico.
+SOBREDOSIS
+Signos y síntomas
+Los  síntomas  observados  por  sobredosis  con  zolpidem,  variaron
+desde  el  deterioro  de  la  conciencia,  somnolencia  a  coma,  com-
+promiso  cardiovascular  y/o  respiratorio.  Los  casos  de  sobredosis
+que involucraron agentes múltiples depresores del SNC, incluyendo
+zolpidem, resultaron en sintomatología más severa, incluyendo re-
+sultados fatales.
+Tratamiento recomendado
+Deben usarse medidas sintomáticas y de soporte junto con lavado
+gástrico inmediato cuando corresponda. Deben administrarse líqui-
+dos intravenosos según necesidad. El flumazenil puede ser útil para
+reducir los efectos hipnóticos sedativos del zolpidem, sin embargo,
+la administración de flumazenil puede contribuir a la aparición de
+síntomas neurológicos (convulsiones). Como en todos los casos de
+sobredosis de fármacos, deben monitorearse la respiración, pulso,
+presión arterial y otros signos apropiados y deben emplearse medi-
+das generales de soporte. La hipotensión y la depresión del SNC de-
+ben monitorearse y tratarse con la intervención médica apropiada.
+Los fármacos sedantes deben suspenderse luego de la sobredosis
+de zolpidem, aún cuando haya excitación.
+El valor de la diálisis en el tratamiento de la sobredosis no se ha
+determinado, aunque en estudios de hemodiálisis en pacientes con
+insuficiencia renal que recibían dosis terapéuticas se demostró que
+zolpidem no es dializable.
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hos-
+pital más cercano o comunicarse con los centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente otros Centros de Intoxicaciones”.
+PRESENTACIONES
+Envases  conteniendo  30  comprimidos  recubiertos  de  liberación
+modificada.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+Conservar a temperatura ambiente entre 15 oC - 30 oC.
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción  y  vigilancia  médica  y  no  puede  repetirse  sin  nueva
+receta médica”.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”.
+
+INFORMACIÓN PARA EL PACIENTE
+
+liberación  modificada  de
+
+Cada  comprimido  recubierto  de
+SOMIT® CR 6,25 contiene:
+Zolpidem Tartrato .......................................................... 6,25 mg
+Excipientes:  Celulosa  microcristalina  PH102,  Lactosa  DT,  Laca
+FD&C  Rojo  No  40,  Sílica  coloidal  anhidra,  Croscaramelosa  sódi-
+ca, Estearato de magnesio vegetal, Ácido fumárico, Methocel K4,
+Opadry II blanco, Opaglós GS 2-0700 ..................................... c.s.
+liberación  modificada  de
+Cada  comprimido  recubierto  de
+SOMIT® CR 12,5 contiene:
+Zolpidem tartrato .......................................................... 12,5 mg
+Excipientes:  Celulosa  microcristalina  PH102,  Lactosa  DT,  Laca
+FD&C Amarillo No 6, Laca D&C Amarillo No 10, Sílica coloidal anhi-
+dra, Croscaramelosa sódica, Estearato de magnesio vegetal, Ácido
+fumárico, Methocel K4, Opadry II blanco, Opaglós GS 2-0700 ... c.s.
+Su médico le ha prescripto SOMIT® CR para ayudarlo a dormir. La
+siguiente información tiene el propósito de guiarlo con respecto al
+uso seguro de este medicamento. Esta información no reemplaza
+las indicaciones de su médico. Si usted posee alguna pregunta
+sobre los comprimidos de SOMIT® CR, consulte con su médico.
+
+¿Qué es SOMIT® CR?
+SOMIT®  CR  pertenece  al  grupo  de  fármacos  que  se  clasifican
+como “sedantes/hipnóticos” o simplemente, fármacos que produ-
+cen sueño. SOMIT® CR se utiliza para el tratamiento de diferentes
+tipos de problemas de sueño, tales como problemas para conciliar
+el sueño y/o varios despertares durante la noche. Algunas perso-
+nas pueden tener más de uno de estos problemas.
+ANTES DE USAR SOMIT® CR
+Antes de comenzar a tomar SOMIT® CR, coméntele a su médico
+sobre sus antecedentes de salud, incluyendo si usted:
+•  tiene  antecedentes  de  depresión,  enfermedades  mentales  o
+
+pensamientos suicidas;
+
+• tiene antecedentes de abuso de alcohol o drogas o adicciones;
+• tiene enfermedades hepáticas o renales;
+• tiene enfermedades pulmonares o problemas respiratorios;
+• si está embarazada, si está planeando quedar embarazada o si
+
+está en periodo de lactancia.
+
+Informe  a  su  médico  sobre  todos  los  medicamentos  que  toma,
+incluidos aquellos que se compran sin receta, vitaminas y suple-
+
+mentos dietarios. Los medicamentos pueden tener interacciones
+entre  sí,  que  pueden  causar  efectos  adversos  serios.  No  tome
+SOMIT®  CR  con  cualquier  otro  medicamento  que  lo  pueda
+hacer dormir.
+Quiénes no deben tomar SOMIT® CR
+No tome SOMIT® CR si usted es alérgico a cualquiera de los com-
+ponentes del producto.
+Este medicamento es sólo para adultos y ancianos. No está in-
+dicado en niños.
+USO APROPIADO DEL MEDICAMENTO
+• Tome SOMIT® CR exactamente como se lo prescribió su médi-
+
+co. No tome más que el que le prescribieron.
+
+• Tome SOMIT® CR inmediatamente antes de acostarse.
+• No tome SOMIT® CR a menos que usted sea capaz de perma-
+necer en la cama una noche completa (7-8 horas), antes de que
+usted deba estar activo nuevamente.
+
+• Ingiera los comprimidos de SOMIT® CR enteros, sin masticarlos
+ni partirlos. Informe a su médico si usted no puede tragar los
+comprimidos enteros.
+
+• Para un inicio más rápido del sueño, SOMIT® CR no debe ser
+
+tomado con o inmediatamente luego de una comida.
+
+• Llame a su médico si su insomnio empeora o si no mejora den-
+tro  de  los  7-10  días.  Esto  puede  indicar  la  presencia  de  otra
+condición que causa su problema de sueño.
+
+•  Si  usted  toma  demasiado  SOMIT®  CR  o  sobrepasa  la  dosis,
+
+llame a su médico o a un centro de intoxicaciones.
+
+MODO DE CONSERVACIÓN
+• Conserve SOMIT® CR a temperatura ambiente (de 15 oC a 30 oC).
+• Mantenga SOMIT® CR lejos del alcance de los niños.
+EFECTOS INDESEABLES
+Los efectos adversos serios de SOMIT® CR incluyen:
+• Levantarse de la cama cuando no se está completamente des-
+pierto y realizar actividades sin saber que las está realizando.
+•  Pensamientos  y  conductas  anormales:  los  síntomas  incluyen
+extroversión  o  comportamiento  agresivo  más  que  el  normal,
+confusión,  agitación,  alucinaciones,  empeoramiento  de  la  de-
+presión, pensamientos o acciones suicidas.
+
+• Pérdida de la memoria.
+• Ansiedad.
+• Reacciones alérgicas severas. Los síntomas incluyen edema de
+lengua o garganta, problemas para respirar, náuseas y vómitos.
+Solicite  asisitencia  médica  de  emergencia  si  presenta  estos
+síntomas luego de tomar SOMIT® CR.
+
+Llame  a  su  médico  inmediatamente,  si  presenta  alguno  de
+los  efectos  adversos  anteriormente  mencionados,  o  cual-
+quier  otro  efecto  adverso  que  le  preocupe  mientras  está
+tomando SOMIT® CR.
+Los eventos adversos más comunes de SOMIT® CR son:
+• Dolor de cabeza.
+• Somnolencia.
+
+• Mareos.
+• El día siguiente a tomar SOMIT® CR aún puede sentirse somno-
+liento, no maneje y no realice actividades peligrosas hasta que
+se sienta completamente despierto.
+
+Después  de  dejar  de  tomar  medicamentos  para  dormir,  usted
+puede  tener  durante  1-2  días  síntomas  tales  como:  problemas
+para dormir, náuseas, tuforadas, mareos, llanto incontrolado, vó-
+mitos, calambres abdominales, ataques de pánico, nerviosismo y
+dolor de estómago.
+Estos no son todos los efectos adversos de SOMIT® CR. Pregunte
+a su médico para más información.
+RECORDATORIO
+“Este medicamento ha sido prescripto sólo para su problema mé-
+dico actual. No lo recomiende a otras personas”.
+“Ante  cualquier  inconveniente  con  el  producto  el  paciente
+puede llenar la ficha que está en la Página Web de ANMAT:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/
+pacientes o llamar a ANMAT responde 0800-333-1234”.
+PRECAUCIONES A TOMAR DURANTE EL TIEMPO QUE SE UTI-
+LIZA SOMIT® CR
+Luego de tomar SOMIT® CR, usted puede levantarse de la cama
+sin que esté completamente despierto y realizar actividades sin
+saber que las está realizando. A la mañana siguiente, usted puede
+no recordar lo que hizo durante la noche. Usted tiene más posibi-
+lidades de realizar tales actividades si tomó alcohol o tomó otros
+medicamentos para dormir, conjuntamente con SOMIT® CR. Las
+actividades informadas son:
+• Manejar (“manejar dormido”).
+• Preparar comida y comer.
+• Hacer llamadas telefónicas.
+• Tener relaciones sexuales.
+• Caminar dormido.
+Llame a su médico inmediatamente si descubre que usted realizó
+alguna de estas actividades luego de tomar SOMIT® CR.
+Importante:
+1) Tome SOMIT® CR tal cual le fue prescripto por su médico
+• No tome más SOMIT® CR que el que le fue prescripto.
+• Tome SOMIT® CR una vez que esté en la cama, no antes.
+2) No tome SOMIT® CR si usted:
+• Toma alcohol.
+• Toma otros medicamentos que lo puedan dormir. Hable con su
+médico acerca de todos los medicamentos que usted está toman-
+do, el le dirá si puede tomar SOMIT® CR.
+• No puede tener una noche entera de sueño (7 - 8 horas).
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo
+prescripción  y  vigilancia  médica  y  no  puede  repetirse  sin
+nueva receta médica”.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”.
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com/productos
+o solicítela por correo electrónico: info@gador.com
+
+GADOR S.A.
+Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Cs. Farmacéuticas
+E.M.A.M.S. Certificado No 33.561
+Producto registrado en Bolivia, Paraguay y Rep. Dominicana
+Fecha última revisión: 08/2013
+G00093102-03

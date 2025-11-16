@@ -1,0 +1,1687 @@
+IVACAR®
+IVACAFTOR 75 mg
+
+Granulado para administración oral
+
+IVACAR®
+IVACAFTOR 150 mg
+
+Comprimidos recubiertos
+
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada sobre de granulado para administración oral de IVACAR® contiene:
+Ivacaftor .....................................................................................75,0000 mg
+Hidroxipropilmetilcelulosa acetato succinato .......................18,2812 mg
+Lauril sulfato de sodio ................................................................0,4688 mg
+Manitol ....................................................................................338,0000 mg
+Croscarmelosa sódica .............................................................. 30,0000 mg
+Sucralosa ....................................................................................10,0000 mg
+Polivinilpirrolidona ...................................................................28,2500 mg
+
+Cada comprimido recubierto de IVACAR® contiene:
+Ivacaftor .................................................................................. 150,0000 mg
+Hidroxipropilmetilcelulosa acetato succinato  ..................... 36,5625 mg
+Croscarmelosa sódica  ............................................................. 30,0000 mg
+Lauril sufato de sodio ................................................................. 0,9375 mg
+Celulosa microcristalina (Tipo 102)  ....................................  157,4250 mg
+Lactosa monohidrato CD30  ................................................. 167,2000 mg
+Sílica coloidal anhidra ...............................................................  2,2500 mg
+Estearato de magnesio vegetal ................................................  5,6250 mg
+Indigotina laca aluminica ..........................................................0,0080 mg
+Opadry II 85F28751 blanco 1)  .................................................  14,9920 mg
+Opadry FX silver 62W28547 2)  ................................................. 1,0000 mg
+1) Alcohol polivinílico 5,997 mg; Polietilenglicol 3,028 mg; Dióxido de titanio 3,748 mg;
+Talco 2,219 mg.
+2) Carboximetilcelulosa sódica 0,485 mg; Maltodextrina 0,188 mg; Dextrosa mono-
+hidrato 0,152 mg; Pigmento perlado con base de mica (CI N° 77019/CI N° 77891)
+0,1 mg; Lecitina 0,075 mg.
+
+ACCIÓN TERAPÉUTICA
+
+Grupo farmacoterapéutico: Otros productos del sistema respiratorio.
+Código ATC: R07AX02.
+
+INDICACIONES
+
+IVACAR® está indicado para el tratamiento de la Fibrosis Quística (FQ) en
+pacientes de 6 meses de edad o más con un peso ≥14kg que presentan
+una mutación en el gen CFTR sensible al efecto de ivacaftor de acuerdo a
+los datos de ensayos clínicos y/o in vitro (ver Propiedades farmacológicas).
+Las indicaciones aprobadas quedan supeditadas a su verificación por
+estudios confirmatorios.
+En caso de desconocerse el genotipo de un paciente, debe efectuarse
+un análisis de mutaciones de la FQ para detectar la presencia de una
+mutación en el gen CFTR y, posteriormente, debe verificarse el resul-
+tado  con  una  secuenciación  bidireccional,  según  lo  recomienden  las
+instrucciones de uso correspondientes al análisis de mutaciones.
+
+PROPIEDADES FARMACOLÓGICAS
+
+Mecanismo de acción
+Ivacaftor  es  un  potenciador  de  la  proteína  CFTR,  la  proteína  CFTR  es
+un canal de cloruro que se encuentra presente en la superficie de las
+células  epiteliales  de  múltiples  órganos.  Ivacaftor  facilita  el  mayor
+
+transporte  de  cloruro  potenciando  la  probabilidad  de  apertura  del
+canal (o gating) de la proteína CFTR ubicada en la superficie celular. El
+nivel general del transporte de cloruro de CFTR mediado por ivacaftor
+depende de la cantidad de proteína CFTR que haya en la superficie de la
+célula y de la respuesta que muestre una proteína CFTR particular con
+mutación a la potenciación de ivacaftor.
+
+Ensayo de transporte de cloruro de CFTR en células tiroideas de ratas de
+Fisher (FRT) que expresan la CFTR con mutación
+La respuesta a ivacaftor del transporte de cloruro de la proteína CFTR
+con mutacion se determinó en estudios de electrofisiología con cámara
+Ussing usando un panel de líneas celulares FRT transfectadas con mu-
+taciones  individuales  de  CFTR.  El  ivacaftor  aumentó  el  transporte  de
+cloruros en células FRT que expresan mutaciones de CFTR que dan por
+resultado que la proteína CFTR sea suministrada a la superficie celular.
+El umbral de respuesta del transporte de cloruros de CFTR in vitro fue
+designado como un aumento neto de al menos 10% del normal con res-
+pecto al valor inicial porque es predictivo o se espera razonablemente
+que  prediga  el  beneficio  clínico.  Para  las  mutaciones  individuales  la
+magnitud del cambio neto por encima del valor inicial en el transpor-
+te de cloruros mediado por CFTR in vitro no está correlacionada con la
+magnitud de la respuesta clínica.
+Los pacientes deben tener, al menos, una mutación de CFTR que res-
+ponda a ivacaftor para ser indicado.
+Se señala que las mutaciones del sitio de empalme no pueden ser estu-
+diadas en el ensayo de FRT. Existe evidencia de eficacia clínica para las
+mutaciones de empalme no canónico 2789+5G→A, 3272-26A→G,
+3849+10kbC→T, 711+3A→G y E831X, y éstas se enumeran en la lista
+en la Tabla 1. La mutación G970R causa un defecto de empalme que da
+por resultado poca o ninguna proteína CFTR en la superficie celular que
+puede ser potenciada por ivacaftor.
+Ivacaftor también aumentó el transporte de cloruros en células epite-
+liales bronquiales humanas (HBE, por sus siglas en inglés) cultivadas
+derivadas de pacientes con FQ que portaban F508del en un alelo de
+CFTR y G551D o R117H-5T en el segundo alelo CFTR.
+En la Tabla 1 se enumeran las mutaciones que son sensibles a ivacaftor
+en base a 1) una respuesta clínica positiva y/o 2) datos in vitro en células
+FRT que indican que ivacaftor aumenta el transporte de cloruros en al
+menos 10% sobre el valor inicial (% del normal).
+
+Tabla 1. Lista de las mutaciones del gen CFTR que producen la
+proteína CFTR y son sensibles a Ivacaftor
+
+711+3A→G*
+2789+5G→A*
+3272-26A→G*
+3849+10kbC→T*
+A120T
+A234D
+A349V
+A455E*
+A1067T
+D110E
+D110H
+D192G
+D579G*
+D924N
+
+F311del
+F311L
+F508C
+F508C;S1251N†
+F1052V
+F1074L
+G178E
+G178R*
+G194R
+G314E
+G551D*
+G551S*
+G576A
+G970D
+
+I148T
+I175V
+I807M
+I1027T
+I1139V
+K1060T
+L206W*
+L320V
+L967S
+L997F
+L1480P
+M152V
+M952I
+M952T
+
+R75Q
+R117C*
+R117G
+R117H*
+R117L
+R117P
+R170H
+R347H*
+R347L
+R352Q*
+R553Q
+R668C
+R792G
+R933G
+
+S589N
+S737F
+S945L*
+S977F*
+S1159F
+S1159P
+S1251N*
+S1255P*
+T338I
+T1053I
+V232D
+V562I
+V754M
+V1293G
+
+D1152H*
+D1270N
+E56K
+E193K
+E822K
+E831X*
+
+G1069R
+G1244E*
+G1249R
+G1349D*
+H939R
+H1375P
+
+P67L*
+Q237E
+Q237H
+Q359R
+Q1291R
+R74W
+
+R1070Q
+R1070W*
+R1162L
+R1283M
+S549N*
+S549R*
+
+W1282R
+Y1014C
+Y1032C
+
+* Existen datos clínicos para estas mutaciones.
+† Mutaciones complejas/compuestas en donde un solo alelo del gen CFTR tiene múlti-
+ples mutaciones; éstas existen independientemente de la presencia de las mutacio-
+nes en el otro alelo.
+
+Evaluación del cloruro en el sudor
+Se evaluaron cambios en el cloruro sudoral (un biomarcador) genera-
+dos como respuesta a ivacaftor en siete ensayos clínicos. En un ensayo
+clínico  cruzado,  controlado  con  placebo,  aleatorizado,  de  dos  partes,
+doble  ciego,  en  pacientes  con  FQ  que  tenían  una  mutación  G1244E,
+G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, o S549R en
+el gen CFTR (Ensayo 4), la diferencia del tratamiento en cambio de la
+media en el cloruro en el sudor con respecto al valor inicial hasta las
+8 semanas de tratamiento fue de -49 mmoles/L (95% CI -57, -41). Los
+cambios de la media en el cloruro en el sudor para las mutaciones para
+las cuales está indicado ivacaftor oscilaban entre -51 a -8, mientras que
+el intervalo para los sujetos individuales con la mutación G970R fue de
+-1 a -11 mmoles/L. En un ensayo clínico abierto en el que participaron
+34 pacientes de 2 a menos de 6 años de edad a los que se les administró
+50 mg o 75 mg de ivacaftor dos veces por día (Ensayo 6), el cambio ab-
+soluto medio con respecto al valor inicial en el cloruro en el sudor hasta
+las 24 semanas de tratamiento fue de -45 mmoles/L (95% CI -53, -38)
+(ver Uso en poblaciones especiales). En un estudio cruzado de 8 sema-
+nas, aleatorizado, doble ciego, controlado con placebo, de 2 períodos,
+de 3 tratamientos, en pacientes con FQ de 12 años de edad y mayores,
+que eran heterocigotas para la mutación F508del y con una segunda
+mutación CFTR que se predijo que era sensible a ivacaftor (Ensayo 7), la
+diferencia de tratamiento en el cambio de la media en el cloruro en el
+sudor desde el valor inicial del estudio hasta el promedio de la semana
+4 y la semana 8 de tratamiento para pacientes tratados con ivacaftor fue
+de -4,5 mmoles/L (95% CI -6,7, -2,3). En un ensayo clínico abierto, de 24
+semanas de duración en pacientes con FQ de menos de 24 meses de
+edad a los que se les administró o bien 25 mg, 50 mg o 75 mg de ivacaf-
+tor dos veces por día (Ensayo 8), el cambio absoluto medio con respecto
+al valor inicial en el cloruro en el sudor para los pacientes de 12 meses
+a menos de 24 meses de edad (n=10) fue de -73,5 mmoles/L (95% CI
+-86,0, -61,0) en la semana 24, el cambio absoluto medio con respecto
+al valor inicial en el cloruro en el sudor para los pacientes de 6 meses
+a menos de 12 meses de edad (n=6) fue de -58,6 mmoles/L (95% CI
+-75,9, -41,3) en la semana 24, y el cambio absoluto medio con respecto
+al valor inicial en el cloruro en el sudor para los pacientes de 4 meses a
+menos de 6 meses de edad (n=3) fue de -50 mmoles/L (95% CI -93,1,
+-6,9) en la semana 24 (ver Uso en poblaciones especiales).
+No hubo una correlación directa entre la disminución en los niveles de
+cloruro en el sudor y la mejoría en la función pulmonar (VEF1).
+
+Electrofisiología cardíaca
+El efecto de múltiples dosis de 150 mg y 450 mg de ivacaftor dos veces
+por día en el intervalo QTc fue evaluado en un estudio del intervalo QT
+aleatorizado  de  cuatro  períodos,  cruzado,  controlado  con  placebo  y
+compuesto activo (moxifloxacina 400 mg) en 72 sujetos sanos. En un
+estudio con capacidad demostrada para detectar pequeños efectos, el
+límite superior del intervalo de confianza unilateral del 95% para el ma-
+yor QTc ajustado por placebo y corregido según el valor inicial mediante
+el método de corrección de Fridericia (QTcF) fue inferior a 10 ms, que es
+el umbral de preocupación, según los requisitos regulatorios.
+
+FARMACOCINÉTICA
+
+La  farmacocinética  (FC)  del  ivacaftor  es  similar  entre  los  voluntarios
+adultos sanos y los pacientes con FQ.
+Después de la administración oral de una dosis única de 150 mg a volunta-
+rios sanos en estado postprandial, las concentraciones plasmáticas máxi-
+mas (Tmáx) se alcanzaron, aproximadamente, al cabo de 4 horas y la media
+(±DE) para el AUC (por sus siglas en inglés Area under the curve) y la Cmáx
+fue de 10.600 (5260) ng*h/ml y de 768 (233) ng/ml, respectivamente.
+Después de administrar una dosis cada 12 horas, las concentraciones
+plasmáticas de ivacaftor en estado estacionario se alcanzaron entre los
+días 3 y 5, con una razón de acumulación que varió de 2,2 a 2,9.
+
+Absorción
+La exposición al ivacaftor aumentó aproximadamente de 2,5 a 4 veces
+cuando se administró con alimentos que contienen grasa. Por lo tanto,
+IVACAR® debe administrarse con alimentos con contenido graso, como
+huevos, manteca, pasta de maní, productos lácteos enteros (como le-
+che entera, queso, yogur, leche materna y leche de fórmula para lactan-
+tes), entre otros. La mediana (intervalo) del Tmáx es de aproximadamente
+4,0 (3,0; 6,0) horas en estado postprandial.
+Los gránulos de ivacaftor (2 x 75 mg) tuvieron una biodisponibilidad si-
+milar al comprimido de 150 mg cuando se administraron con alimentos
+con contenido graso en sujetos adultos. El efecto de los alimentos en
+la absorción del ivacaftor es similar para la forma farmacéutica en grá-
+nulos y la forma farmacéutica en comprimidos de 150 mg de ivacaftor.
+
+Distribución
+Aproximadamente el 99% del ivacaftor se une a las proteínas plasmá-
+ticas, principalmente a la alfa 1 glicoproteína ácida y a la albúmina. El
+ivacaftor no se une a los glóbulos rojos humanos.
+Después de la administración oral de 150 mg cada 12 horas durante 7
+días a voluntarios sanos en estado postprandial, la media (±DE) para el
+volumen aparente de distribución fue de 353 (122) l.
+
+Biotransformación
+Ivacaftor se metaboliza extensamente en humanos. Los datos in vitro e
+in vivo indican que ivacaftor se metaboliza principalmente por CYP3A.
+El M1 y el M6 son los dos metabolitos principales de ivacaftor en huma-
+nos. El M1 tiene aproximadamente un sexto de la potencia de ivacaftor
+y se considera farmacológicamente activo. El M6 tiene menos de una
+cincuentava parte de la potencia de ivacaftor y no se considera farma-
+cológicamente activo.
+
+Eliminación
+La vida media terminal aparente fue de aproximadamente 12 horas
+luego de una dosis única. La media del aclaramiento aparente (CL/F)
+del ivacaftor fue similar para los sujetos sanos y los pacientes con FQ.
+La  CL/F  (±DE)  para  la  dosis  de  150  mg  fue  de  17,3  (8,4)  l/h  en  los
+sujetos sanos.
+
+Excreción
+Luego de la administración oral, la mayor parte del ivacaftor (87,8%) se
+elimina a través de las heces después de su conversión metabólica. Los
+metabolitos principales M1 y M6 representaron aproximadamente el
+65% de la dosis total eliminada, con un 22% correspondiente al M1 y un
+43% correspondiente al M6. Se observó una excreción urinaria insigni-
+ficante del ivacaftor en forma de fármaco original inalterado.
+
+Poblaciones especiales
+Insuficiencia hepática
+Los  sujetos  adultos  con  insuficiencia  hepática  moderada  (Child-Pugh
+clase B, puntuación de 7 a 9) tenían una Cmáx de ivacaftor similar, pero
+presentaron un incremento, aproximadamente, dos veces mayor en el
+AUC0-∞ del ivacaftor en comparación con los sujetos sanos con caracterís-
+ticas demográficas correspondientes. De acuerdo con las simulaciones
+de estos resultados, se recomienda una dosis reducida de un compri-
+mido de IVACAR® o un sobre de gránulos de IVACAR® una vez por día
+en pacientes con insuficiencia hepática moderada. No se ha estudiado
+el efecto de la insuficiencia hepática leve (Child-Pugh clase A) en la far-
+macocinética del ivacaftor, pero se prevé que el incremento del AUC0-∞
+del ivacaftor sea inferior al doble. Por lo tanto, no se requiere un ajuste
+de  la  dosis  en  los  pacientes  con  insuficiencia  hepática  leve.  No  se  ha
+estudiado el efecto de la insuficiencia hepática grave (Child-Pugh clase
+C, puntuación de 10 a 15) en la farmacocinética del ivacaftor. Se desco-
+noce la magnitud del incremento en la exposición de estos pacientes,
+pero se prevé que sea sustancialmente más alta que la observada en los
+pacientes con insuficiencia hepática moderada En los casos en que esté
+previsto que los beneficios superen los riesgos, IVACAR® debe utilizar-
+se con precaución en pacientes con insuficiencia hepática grave, a una
+dosis de un comprimido o un sobre de gránulos una vez por día o con
+una frecuencia menor (ver Posología y forma de administración y Uso en
+poblaciones específicas).
+
+Insuficiencia renal
+No se ha estudiado ivacaftor en pacientes con insuficiencia renal leve,
+moderada o grave (aclaramiento de la creatinina menor o igual a 30 ml/
+min) ni en pacientes con enfermedad renal terminal. No se recomien-
+dan ajustes de dosis en pacientes con insuficiencia renal leve y mode-
+rada, dado que el ivacaftor y sus metabolitos tienen una eliminación
+
+mínima en la orina (en un estudio de FC humana, se recuperó solo el
+6,6% de la radiactividad total en la orina); sin embargo, se recomienda
+tener precaución cuando se administre IVACAR® a pacientes con insufi-
+ciencia renal grave o enfermedad renal terminal.
+
+Población pediátrica
+Las  siguientes  conclusiones  sobre  las  exposiciones  entre  los  adultos
+y la población pediátrica se basan en los análisis de farmacocinéticos
+poblacionales.
+
+Tabla 2. Exposición a ivacaftor por grupo etario, media (DE)
+
+Grupo etario
+
+Dosis
+
+AUCss (ng*h/ml)
+
+4 a menos de 6 meses (≥5 kg)
+
+25 mg q12h
+
+6480 (2520)˄
+
+6 a menos de 12 meses
+(5 kg a <7 kg)*
+
+6 a menos de 12 meses
+(7 kg a <14 kg)
+
+12 a menos de 24 meses
+ (7 kg a <14 kg)
+
+12 a menos de 24 meses
+(≥14 kg a <25 kg)
+
+25 mg q12h
+
+5360˄
+
+50 mg q12h
+
+9390 (3120)˄
+
+50 mg q12h
+
+9050 (3050)
+
+75 mg q12h
+
+9600 (1800)
+
+2 a menos de 6 años (≥14 kg)
+
+50 mg q12h
+
+10.500 (4260)
+
+2 a menos de 6 años
+(≥14 kg a <25 kg)
+
+75 mg q12h
+
+11.300 (3820)
+
+6 a menos de 12 años
+
+150 mg q12h
+
+20.000 (8330)
+
+12 a menos de 18 años
+
+150 mg q12h
+
+9240 (3420)
+
+Adultos (≥18 años)
+
+150 mg q12h
+
+10.700 (4100)
+
+* El valor se basa en los datos de un solo paciente; la desviación estándar no se informó.
+˄ Valores basados en modelos de FC poblacional que incorporan datos de pacientes
+de 4 a <6 meses de edad del Ensayo 8.
+
+Sexo
+Se evaluó el efecto del sexo en la farmacocinética de ivacaftor. No se
+requieren ajustes de la dosis según el sexo.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Posología recomendada en pacientes pediátricos a partir de los 6
+meses con 14 kg o más a menos de 6 años
+La posología recomendada de IVACAR® (gránulos para uso oral) es un
+sobre de 75 mg cada 12 horas (dosis diaria total 150mg) (ver Tabla 3).
+
+Posología recomendada en adultos y pacientes pediátricos a par-
+tir de los 6 años o más
+La posología recomendada de IVACAR® (comprimidos) para pacientes
+adultos y pediátricos a partir de los 6 años o más, consiste en un compri-
+mido de 150 mg que debe tomarse de forma oral cada 12 horas (dosis
+diaria total de 300 mg) con alimentos con contenido graso (ver Tabla 3).
+
+Tabla 3. Recomendaciones posológicas
+
+Edad
+
+Dosis
+
+Dosis total diaria)
+
+Pacientes pediátricos a
+partir 6 meses con 14 kg
+o más a menos de 6 años
+
+75 mg de IVACAR®
+(granulado para
+administración oral)
+por vía oral cada 12 horas.
+
+150 mg
+
+Adultos y pacientes
+pediátricos a partir de
+los 6 años o más
+
+Un comprimido de 150 mg
+de IVACAR® cada 12 horas
+
+300 mg
+
+Forma de administración
+IVACAR® debe administrarse vía oral.
+IVACAR®  debe  tomarse  con  alimentos  con  contenido  graso.  Algunos
+ejemplos incluyen huevos, manteca, manteca de maní, pizza con queso,
+productos lácteos enteros (como leche entera, queso, yogur, leche ma-
+terna o leche de fórmula), entre otros (ver Propiedades farmacológicas).
+Se deben evitar los alimentos que contienen pomelo durante el trata-
+miento con IVACAR®.
+
+Instrucciones para la administración de gránulos
+Cada sobre es únicamente de un solo uso.
+Todo el contenido de cada sobre de gránulos para uso oral debe mez-
+clarse con una cucharadita (5 mL) de líquido o alimentos blandos ade-
+cuados para la edad, que deben ingerirse en su totalidad. El alimento o
+el líquido deben estar a temperatura ambiente o a una temperatura in-
+ferior. Una vez mezclado, consumir lo antes posible. Algunos ejemplos
+de líquidos o alimentos blandos pueden incluir puré de frutas o verdu-
+ras, yogur, puré de manzana, agua, leche materna, leche de fórmula
+para lactantes, leche o jugo. Cada dosis debe administrarse justo antes
+o justo después de los alimentos con contenido graso (ver Posología y
+forma de administración).
+
+Instrucciones para la administración de comprimidos
+Se debe indicar a los pacientes que ingieran los comprimidos enteros. Los
+comprimidos no se deben masticar, partir ni triturar antes de tomarlos.
+
+Ajuste de la posología para pacientes con insuficiencia hepática a
+partir de los 6 meses de edad o más
+La posología de IVACAR® debe reducirse a un comprimido o un sobre de
+gránulos para uso oral una vez por día en los pacientes a partir de los 6
+meses de edad o más con insuficiencia hepática moderada (Child-Pugh
+clase B). IVACAR® debe utilizarse con precaución en los pacientes a partir
+de los 6 meses de edad o más con insuficiencia hepática grave (Child-Pu-
+gh clase C), a una posología de un comprimido o un sobre de gránulos
+para uso oral una vez por día o con una frecuencia menor. No se reco-
+mienda su uso en pacientes con insuficiencia hepática menores de 6 me-
+ses de edad (ver Poblaciones especiales y Propiedades farmacológicas).
+
+Ajuste de la posología para pacientes a partir de los 6 meses de
+edad o más que reciben medicamentos que son inhibidores de
+CYP3A
+Cuando IVACAR® se administre conjuntamente con inhibidores poten-
+tes de CYP3A (p. ej., ketoconazol), la dosis debe reducirse a un compri-
+mido o un sobre de gránulos para uso oral dos veces por semana en
+pacientes a partir de los 6 meses o más. La dosis de IVACAR® debe re-
+ducirse a un comprimido o un sobre de gránulos una vez por día cuando
+se administre conjuntamente con inhibidores moderados de CYP3A (p.
+ej., fluconazol). No se recomienda la administración de forma conjunta
+de inhibidores moderados o potentes de CYP3A en pacientes menores
+de 6 meses. Se deben evitar los alimentos que contengan pomelo (ver
+Interacciones farmacológicas y Propiedades farmacológicas).
+
+Dosis olvidadas
+Si se olvida una dosis y han transcurrido menos de 6 horas desde la
+hora a la que normalmente se toma la dosis, se debe indicar al paciente
+que tome el comprimido o el sobre de gránulos lo antes posible y que
+después tome la siguiente dosis a la hora programada normal. Si han
+transcurrido  más  de  6  horas  desde  la  hora  a  la  que  normalmente  se
+toma la dosis, se debe indicar al paciente que espere hasta la siguiente
+dosis programada.
+
+Poblaciones especiales
+Insuficiencia renal
+No se estudió Ivacaftor en pacientes con insuficiencia renal leve, mo-
+derada  o  grave  ni  en  pacientes  con  enfermedad  renal  terminal.  No
+es necesario ajustar la dosis en pacientes con insuficiencia renal leve
+a moderada; sin embargo, se recomienda tener precaución al utilizar
+IVACAR® en pacientes con insuficiencia renal grave (clearence de creati-
+nina menor o igual a 30 mL/min) o enfermedad renal terminal.
+
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes a partir de los 6 meses
+de edad o más con insuficiencia hepática leve (Child-Pugh clase A) (ver
+Propiedades farmacológicas).
+Se recomienda reducir la dosis en pacientes a partir de los 6 meses de
+edad o más con insuficiencia hepática moderada (Child-Pugh clase B)
+(ver Posología y forma de administración, Propiedades farmacológicas).
+No se han realizado estudios en pacientes con insuficiencia hepática
+grave (Child-Pugh clase C), pero se espera que la exposición sea mayor
+que  en  pacientes  con  insuficiencia  hepática  moderada.  Por  lo  tanto,
+debe  usarse  con  precaución,  con  una  dosis  reducida  en  pacientes  a
+partir de los 6 meses o más con insuficiencia hepática grave después de
+sopesar los riesgos y beneficios del tratamiento (ver Posología y forma
+de administración, Propiedades farmacológicas). Debido a la variabili-
+dad en la maduración de las enzimas del citocromo (CYP) involucradas
+en el metabolismo del ivacaftor, no se recomienda el tratamiento con
+
+IVACAR® en pacientes a partir de los 4 meses a menos de 6 meses con
+insuficiencia hepática.
+
+CONTRAINDICACIONES
+
+IVACAR® está contraindicado en personas con hipersensibilidad al prin-
+cipio activo o a alguno de los excipientes (ver Composición).
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Elevaciones de los niveles de transaminasas (ALT o AST)
+Se han informado casos de niveles elevados de transaminasas en pa-
+cientes con FQ tratados con Ivacaftor. Se deben evaluar los niveles de
+transaminasas (ALT y AST) antes de iniciar el tratamiento con IVACAR®,
+cada 3 meses durante el primer año de tratamiento y, luego, anualmen-
+te. En pacientes con antecedentes de niveles elevados de transamina-
+sas, debe considerarse controlar con mayor frecuencia las pruebas de
+la función hepática. Los pacientes que desarrollan un aumento en los
+niveles de transaminasas deben ser controlados cuidadosamente hasta
+que se resuelvan las anormalidades. Se debe interrumpir la dosis en
+pacientes cuyos valores de ALT o AST sean superiores a 5 veces el límite
+superior de lo normal LSN (Limite Superior de la Normalidad). Luego de
+que se solucionen los niveles elevados de transaminasas, considere los
+beneficios y los riesgos de reiniciar la dosis de IVACAR® (ver Reacciones
+adversas y Uso en poblaciones especiales).
+
+Reacciones de hipersensibilidad, que incluyen anafilaxia
+Se han reportado reacciones de hipersensibilidad, que incluyen casos
+de anafilaxia, posteriores a la comercialización (ver Reacciones adver-
+sas).  Si  se  presentan  signos  o  síntomas  de  reacciones  de  hipersensi-
+bilidad graves durante el tratamiento, interrumpa el tratamiento con
+Ivacaftor e inicie la terapia correspondiente. Considere los beneficios y
+los riesgos para el paciente específico antes de decidir si reanudar o no
+el tratamiento con Ivacaftor.
+
+Pacientes después de un trasplante de órganos
+Ivacaftor no se ha estudiado en pacientes con FQ que se han sometido a
+un trasplante de órganos. Por lo tanto, no se recomienda utilizar en pa-
+cientes trasplantados (ver Interacciones con ciclosporina, Tacrolimus).
+
+Uso concomitante con inductores de CYP3A
+El uso de ivacaftor con inductores potentes de CYP3A, como la rifam-
+picina,  disminuye  sustancialmente  la  exposición  al  ivacaftor,  lo  cual
+puede reducir la eficacia terapéutica de  IVACAR®. Por lo tanto, no se
+recomienda la administración de forma conjunta de IVACAR® con in-
+ductores potentes de CYP3A (p. ej., rifampicina, hierba de San Juan)
+(ver Interacciones medicamentosas y Propiedades farmacológicas).
+
+Cataratas
+Se notificaron casos de cataratas/opacidad del cristalino no congénita
+en pacientes pediátricos tratados con ivacaftor. Si bien en algunos casos
+estaban presentes otros factores de riesgo (como el uso de corticoeste-
+roides y/o la exposición a radiación), no puede excluirse un posible ries-
+go atribuible a ivacaftor. Se recomienda la realización de exploraciones
+oftalmológicas basales y de seguimiento en los pacientes pediátricos
+que comienzan a recibir tratamiento con IVACAR®.
+
+Interacciones farmacológicas
+Los estudios in vitro demostraron que Ivacaftor no es un sustrato de
+OATP1B1, OATP1B3 o P-gp. Se desconoce si Ivacaftor y/o sus metaboli-
+tos son sustratos de BCRP.
+
+Posibilidad de que otros medicamentos afecten al ivacaftor
+Inhibidores de CYP3A
+El ivacaftor es un sustrato sensible de la CYP3A. La coadministración
+con ketoconazol, un inhibidor potente de la CYP3A, aumentó de ma-
+nera significativa la exposición al ivacaftor, medida como área bajo la
+curva (ABC o AUC por sus siglas en inglés), que se incrementó 8,5 veces.
+De acuerdo con las simulaciones de estos resultados, se recomienda
+reducir la dosis de Ivacaftor cuando se administra de forma conjunta
+con  inhibidores  potentes  de  CYP3A,  como  ketoconazol,  itraconazol,
+posaconazol, voriconazol, telitromicina y claritromicina (ver Posología
+y forma de administración, Propiedades farmacológicas).
+La  coadministración  con  fluconazol,  un  inhibidor  moderado  de  la
+CYP3A,  aumentó  3  veces  la  exposición  al  ivacaftor.  Por  lo  tanto,  se
+
+recomienda reducir la dosis de ivacaftor en los pacientes que tomen
+de forma concomitante inhibidores moderados de CYP3A, tales como
+fluconazol  y  eritromicina  (ver  Posología  y  forma  de  administración,
+Propiedades farmacológicas).
+La coadministración de ivacaftor con jugo de pomelo, que contiene uno
+o  más  componentes  que  inhiben  moderadamente  la  CYP3A,  puede
+incrementar la exposición al ivacaftor. Por lo tanto, se deben evitar los
+alimentos que contengan pomelo durante el tratamiento con ivacaftor
+(ver Propiedades farmacológicas).
+
+Inductores de CYP3A
+La coadministración con rifampicina, un inductor potente de la CYP3A,
+disminuyó de manera significativa la exposición al ivacaftor (AUC), que
+se redujo, aproximadamente, 9 veces. Por lo tanto, no se recomienda la
+administración conjunta con inductores potentes de CYP3A, como rifam-
+picina, rifabutina, fenobarbital, carbamazepina, fenitoína e hierba de San
+Juan (ver Advertencias y precauciones y Propiedades farmacológicas).
+
+Ciprofloxacina
+La  coadministración  de  ivacaftor  con  ciprofloxacina  no  tuvo  ningún
+efecto en la exposición al ivacaftor. Por lo tanto, no es necesario ajus-
+tar  la  dosis  durante  la  administración  concomitante  de  IVACAR®  con
+ciprofloxacina.
+
+Posibilidad de que ivacaftor afecte a otros medicamentos
+Sustratos de CYP2C9
+Ivacaftor puede inhibir CYP2C9. Por lo tanto, se recomienda controlar
+el cociente internacional normalizado (RIN) durante la administración
+conjunta de warfarina con IVACAR®. Los otros medicamentos cuya ex-
+posición puede verse aumentada por ivacaftor incluyen glimepirida y
+glipizida; estos medicamentos se deben utilizar con precaución.
+
+Sustratos de CYP3A y/o gp-P
+El ivacaftor y su metabolito M1 tienen la capacidad de inhibir la CYP3A
+y la glicoproteína P (gp-P). La administración conjunta con midazolam
+oral, un sustrato sensible de CYP3A, aumentó la exposición al midazo-
+lam 1,5 veces, lo que concuerda con una inhibición débil de CYP3A ejer-
+cida por el ivacaftor. La administración de forma conjunta con digoxina,
+un sustrato sensible de la gp-P, aumentó 1,3 veces la exposición a la
+digoxina, lo que concuerda con una inhibición débil de la gp-P ejercida
+por el ivacaftor. La administración de ivacaftor puede aumentar la ex-
+posición sistémica a medicamentos que son sustratos de CYP3A y/o la
+gp-P, lo cual podría incrementar o prolongar su efecto terapéutico y los
+eventos adversos. Por lo tanto, se recomienda tener precaución y reali-
+zar un control adecuado cuando se administre conjuntamente IVACAR®
+con sustratos sensibles de CYP3A y/o gp-P, como la digoxina, la ciclos-
+porina y el tacrolimus (ver Propiedades farmacológicas).
+
+Estudios de interacciones medicamentosas
+Se realizaron estudios de interacciones medicamentosas con ivacaftor y
+otros medicamentos que es probable se administren de forma conjunta
+o medicamentos comúnmente utilizados como sondeos en estudios de
+interacciones farmacocinéticas (ver Interacciones medicamentosas).
+A continuación, se presentan las recomendaciones posológicas que se
+basan en los estudios clínicos o las posibles interacciones medicamen-
+tosas con ivacaftor.
+
+Posibilidad de que el ivacaftor afecte a otros medicamentos
+Según resultados in vitro, el ivacaftor y el metabolito M1 tienen la capa-
+cidad de inhibir la CYP3A y la gp-P. Los estudios clínicos mostraron que
+ivacaftor es un inhibidor débil de CYP3A y la gp-P, pero no es un inhibi-
+dor de la CYP2C8. Los estudios in vitro sugieren que el ivacaftor y el M1
+pueden inhibir la CYP2C9. In vitro, ivacaftor, el M1 y el M6 no fueron
+inductores de las isoenzimas del CYP. En la Figura 1, se muestran las
+recomendaciones posológicas para los medicamentos administrados
+conjuntamente con ivacaftor.
+(Ver Figura 1).
+
+Posibilidad de que otros medicamentos afecten a ivacaftor
+Los estudios in vitro demostraron que el ivacaftor y el metabolito M1
+eran sustratos de las enzimas CYP3A (es decir, CYP3A4 y CYP3A5). La ex-
+posición al ivacaftor se reduce por el uso concomitante de inductores de
+CYP3A y aumenta por el uso concomitante de inhibidores de CYP3A (ver
+Posología y forma de administración e Interacciones medicamentosas).
+En la Figura 2, se muestran las recomendaciones posológicas para la
+administración de forma conjunta de ivacaftor con otros medicamentos.
+(Ver Figura 2).
+
+Figura 1. Efecto de Ivacaftor en otros medicamentos
+
+Medicamento administrado
+de forma conjunta
+
+Sustratos de CYP3A:
+Midazolam
+
+Anticonceptivo oral
+
+Sustratos de CYP2C:
+Rosiglitazona
+
+Sustrato de la CYP2D6:
+Desipramina
+
+Sustrato de la gp-P:
+Digoxina
+
+FC
+
+Cmáx
+AUC
+
+Cmáx(NE*)
+AUC(NE)
+
+Cmáx(EE*)
+AUC(EE)
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+Cambio múltiplo e IC del 90%
+
+Recomendaciones
+
+Se debe utilizar con precaución y realizar un
+control para detectar efectos secundarios
+relacionados con las benzodiazepinas
+cuando se administre con midazolam,
+alprazolam, diazepam y triazolam. También
+se recomienda un control adecuado de otros
+sustratos de la CYP3A, como la ciclosporina
+y el tacrolimus.
+
+Sin ajuste de dosis del anticonceptivo oral.
+
+Sin ajuste de dosis para el sustrato de la
+CYP2C8 rosiglitazona. Para los sustratos de la
+CYP2C9, se recomienda realizar un control,
+como el INR con warfarina.
+
+Sin ajuste de dosis para el sustrato de la
+CYP2D6 desipramina.
+
+Controlar las concentraciones séricas
+de digoxina y valorar la dosis según sea
+necesario. Se debe tener precaución al
+administrar otros sustratos de la gp-P y
+realizar un control adecuado.
+
+0,6
+
+1,0
+
+1,4
+
+1,8
+
+Cambio relativo a la referencia
+
+Nota: Como referencia, se utilizan los datos obtenidos con los sustratos, pero sin
+administración de forma conjunta de Ivacaftor.
+
+*NE: noretindrona; ** EE: etinilestradiol.
+Las líneas verticales se encuentran en 0,8; 1,0 y 1,25, respectivamente.
+
+Figura 2. Efecto de otros medicamentos en Ivacaftor
+
+Medicamento administrado
+de forma conjunta
+
+Inhibidores de la CYP3A:
+Ketoconazol
+
+Fluconazol
+
+Inductor de CYP3A:
+Rifampicina
+
+Sustratos de CYP3A:
+Anticonceptivo oral
+
+Otros:
+Ciprofloxacina
+
+FC
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+Cmáx
+AUC
+
+0,1
+
+Cambio múltiplo e IC del 90%
+
+Recomendaciones
+
+Reducir la dosis de Ivacaftor a dos veces
+por semana en caso de administrar junto
+con inhibidores fuertes, como ketoconazol,
+itraconazol, posaconazol, voriconazol,
+claritromicina y telitromicina.
+
+Reducir la dosis de Ivacaftor a una vez por día
+en caso de administrar junto con inhibidores
+moderados, como fluconazol y eritromicina.
+
+No se recomienda el uso concomitante
+con inductores fuertes de la CYP3A, como
+rifampicina, rifabutina, fenobarbital,
+fenitoína, carbamazepina
+y hierba de San Juan.
+
+Sin ajuste de dosis de Ivacaftor.
+
+Sin ajuste de dosis de Ivacaftor.
+
+10
+
+Cambio relativo a la referencia (escala logarítmica)
+
+Nota: Como referencia, se utilizan los datos obtenidos con Ivacaftor sin administración
+de forma conjunta de inductores o inhibidores.
+
+Las líneas verticales se encuentran en 0, 8; 1, 0 y 1, 25, respectivamente.
+
+Embarazo, lactancia y fertilidad
+Embarazo
+Hay datos limitados e incompletos sobre humanos obtenidos a partir
+de ensayos clínicos e informes posteriores a la comercialización en rela-
+ción con el uso de ivacaftor en mujeres embarazadas. En estudios de re-
+producción animal, la administración oral de ivacaftor a ratas y conejas
+
+preñadas durante la organogénesis no demostró efectos teratogénicos
+o efectos adversos en el desarrollo fetal con dosis que produjeron expo-
+siciones maternas de hasta, aproximadamente, 5 veces (en ratas) y 11
+veces (en conejas) la exposición a la dosis máxima recomendada en se-
+res humanos (MRHD, por sus siglas en inglés). No se observaron efectos
+adversos del desarrollo después de la administración oral de ivacaftor
+
+a ratas preñadas desde la organogénesis y a través de la lactancia con
+dosis que produjeron exposiciones maternas de, aproximadamente, 3
+veces las exposiciones a la MRHD, respectivamente (ver Datos preclí-
+nicos de seguridad).
+Se desconoce el riesgo de base de las principales anomalías congénitas
+y de los abortos para la población indicada.
+Como  medida  de  precaución,  es  preferible  evitar  el  uso  de  IVACAR®
+durante el embarazo.
+
+Datos en animales
+En un estudio del desarrollo embriofetal en ratas preñadas que recibie-
+ron dosis durante el período de organogénesis desde los días de ges-
+tación 7 a 17, ivacaftor no demostró efectos teratogénicos y no afectó
+la supervivencia del feto con exposiciones hasta 5 veces superiores a
+la MRHD (según la suma de las AUC para ivacaftor y sus metabolitos
+en  dosis  maternas  de  administración  oral  de  hasta  200  mg/kg/día).
+En  un  estudio  del  desarrollo  embriofetal  en  conejas  preñadas  que
+recibieron dosis durante el período de organogénesis desde los días
+de gestación 7 a 19, ivacaftor no demostró efectos teratogénicos y no
+afectó el desarrollo ni la supervivencia del feto con exposiciones hasta
+11 veces superiores a la MRHD (según una AUC de ivacaftor en dosis
+maternas de administración oral de hasta 100 mg/kg/día). En un es-
+tudio del desarrollo previo y posterior al nacimiento en ratas preñadas
+que recibieron dosis desde el día 7 de la gestación hasta el día 20 de
+la lactancia, ivacaftor no tuvo efectos en el parto o en el crecimiento ni
+en el desarrollo de la descendencia con exposiciones de hasta 3 veces
+la MRHD (según la suma de las AUC para ivacaftor y sus metabolitos
+en dosis maternas de administración oral de hasta 100 mg/kg/día). Se
+observó una disminución del peso corporal de los fetos con una dosis
+tóxica  para  la  madre  que  produjo  exposiciones  de  5  veces  la  MRHD
+(según la suma de las AUC para ivacaftor y sus metabolitos en una dosis
+materna de administración oral de hasta 200 mg/kg/día). Se observó
+transferencia placentaria de ivacaftor en ratas y conejas preñadas.
+
+Lactancia
+No existe información sobre la presencia de ivacaftor en la leche ma-
+terna en humanos, los efectos en el bebé lactante o los efectos en la
+producción de leche. El ivacaftor se elimina a través de la leche de ratas
+lactantes;  sin  embargo,  debido  a  diferencias  específicas  de  la  espe-
+cie en la fisiología de la lactancia, los datos sobre la lactancia animal
+pueden no predecir fidedignamente los niveles en la leche materna en
+humanos (ver Datos preclínicos de seguridad). Los beneficios de desa-
+rrollo  y  salud  del  amamantamiento  deben  considerarse  en  conjunto
+con la necesidad clínica de ivacaftor que tiene la madre y con cualquier
+efecto adverso posible en el niño lactante que surja de ivacaftor o de la
+afección subyacente de la madre.
+
+Datos en animales
+La eliminación de ivacaftor a través de la leche en el caso de las ratas se
+demostró después de una única dosis de administración oral (100 mg/
+kg) de 14C-ivacaftor administrado a las madres lactantes (hembras) de
+9 a 10 días después del parto. Los valores de exposición (AUC0-24h) para
+ivacaftor en la leche fueron, aproximadamente 1,5 veces más elevados
+que los niveles de plasma.
+
+Fertilidad
+No se dispone de datos sobre el efecto de ivacaftor en la fertilidad en
+humanos. Ivacaftor tuvo un efecto en la fertilidad en ratas (ver Datos
+preclínicos sobre seguridad).
+
+Población pediátrica
+Se ha establecido la seguridad y eficacia de Ivacaftor para el tratamien-
+to de la FQ en pacientes pediátricos a partir de los 4 meses a los 17
+años que presentan una mutación en el gen CFTR que responde a la
+potenciación de ivacaftor según datos de ensayos clínicos y/o datos del
+ensayo in vitro (ver Propiedades farmacológicas).
+El uso de Ivacaftor para esta indicación está respaldado por evidencia
+de ensayos clínicos controlados con placebo en los siguientes pacientes
+pediátricos con FQ:
+•  De 6 a 17 años con una mutación G551D, G1244E, G1349D, G178R,
+G551S, S1251N, S1255P, S549N, S549R, o R117H en el gen CFTR (ver
+Reacciones adversas).
+
+•  De 12 a 17 años que son heterocigotas para la mutación F508del y
+tienen una segunda mutación que se prevé responda a ivacaftor (ver
+Reacciones adversas).
+
+La eficacia de Ivacaftor en pacientes de 2 años a menos de 6 años de
+edad se extrapoló de pacientes a partir de los 6 años de edad, con el
+
+respaldo de los análisis farmacocinéticos poblacionales que mostraban
+niveles de exposición al medicamento similares en adultos y niños de 2
+a menos de 6 años de edad. La seguridad de Ivacaftor en esta población
+se obtuvo a partir de un ensayo clínico abierto de 24 semanas de dura-
+ción en el que participaron 34 pacientes de 2 a menos de 6 años (edad
+media de 3 años) que recibieron 50 mg o 75 mg de gránulos de ivacaf-
+tor dos veces por día (Ensayo 6). El tipo y la frecuencia de las reacciones
+adversas de este ensayo fueron similares a los de los pacientes a partir
+de los 6 años de edad. Los niveles elevados de transaminasas fueron
+más frecuentes en los pacientes que presentaban niveles anormales de
+transaminasas en el punto de referencia (ver Advertencias y precaucio-
+nes y Reacciones adversas).
+La eficacia de Ivacaftor en pacientes de 4 meses a menos de 24 meses
+de edad se extrapoló de pacientes a partir de los 6 años, con el res-
+paldo de los análisis farmacocinéticos poblacionales que mostraban
+niveles  de  exposición  al  medicamento  similares  en  adultos  y  niños
+de 4 meses a menos de 24 meses de edad. La seguridad de Ivacaftor
+en esta población  se obtuvo a partir de una cohorte de 6 pacientes
+de 4 meses a menos de 6 meses de edad (edad media de 4,5 meses
+en el punto de referencia), una cohorte de 11 pacientes de 6 meses a
+menos de 12 meses de edad (edad media de 9.0 meses en el punto
+de referencia) y una cohorte de 19 pacientes de 12 meses a menos
+de 24 meses de edad (edad media de 15,2 meses en el punto de re-
+ferencia), en un estudio clínico abierto de 24 semanas de duración,
+que recibieron ya sea 25 mg, 50 mg o 75 mg de gránulos de ivacaftor
+dos veces por día (Ensayo 8). El perfil de seguridad de los pacientes
+de  este  ensayo  es  similar  al  observado  en  los  pacientes  a  partir  de
+los 2 años y más.
+No se han establecido la seguridad ni la eficacia de Ivacaftor en pacien-
+tes con FQ menores de 4 meses de edad. No se recomienda el uso de
+IVACAR® en menores de 4 meses de edad.
+
+Datos de toxicidad en animales jóvenes
+En un estudio de toxicología juvenil en el que ivacaftor se administró
+a  ratas  entre  los  días  7  y  35  después  del  nacimiento,  se  observó  la
+presencia de cataratas en todos los niveles de dosis, que variaron de
+0,1 a 0,8 veces la MRHD (según la suma de las AUC para ivacaftor y sus
+metabolitos en dosis de administración oral de 10 a 50 mg/kg/día). Este
+descubrimiento no ha sido observado en animales de más edad.
+
+Empleo en pacientes de edad avanzada
+La FQ es mayormente una enfermedad de niños y adultos jóvenes. Los
+ensayos clínicos de ivacaftor no incluyeron una cantidad suficiente de
+pacientes a partir de los 65 años de edad como para determinar si res-
+ponden de modo diferente que los pacientes más jóvenes.
+
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes a partir de los 6 meses de
+edad o más con insuficiencia hepática leve (Child-Pugh clase A) (ver Pro-
+piedades farmacológicas). Se recomienda reducir la dosis en pacientes
+a partir de los 6 meses de edad o más con insuficiencia hepática mo-
+derada (Child-Pugh clase B) (ver Posología y forma de administración,
+Propiedades farmacológicas).
+No se han realizado estudios en pacientes con insuficiencia hepática
+grave (Child-Pugh clase C), pero se espera que la exposición sea mayor
+que  en  pacientes  con  insuficiencia  hepática  moderada.  Por  lo  tanto,
+debe  usarse  con  precaución,  con  una  dosis  reducida  en  pacientes  a
+partir de los 6 meses o más con insuficiencia hepática grave después de
+sopesar los riesgos y beneficios del tratamiento (ver Posología y forma
+de administración, Propiedades farmacológicas). Debido a la variabili-
+dad en la maduración de las enzimas del citocromo (CYP) involucradas
+en el metabolismo del ivacaftor, no se recomienda el tratamiento con
+IVACAR® en pacientes a partir de los 4 meses a menos de 6 meses con
+insuficiencia hepática.
+
+Insuficiencia renal
+No se estudió Ivacaftor en pacientes con insuficiencia renal leve, mo-
+derada  o  grave  ni  en  pacientes  con  enfermedad  renal  terminal.  No
+es necesario ajustar la dosis en pacientes con insuficiencia renal leve
+a moderada; sin embargo, se recomienda tener precaución al utilizar
+IVACAR®  en  pacientes  con  insuficiencia  renal  grave  (depuración  de
+creatinina menor o igual a 30 mL/min) o enfermedad renal terminal.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+Ivacaftor puede producir mareos (ver Reacciones adversas) y, por lo tan-
+to, se debe aconsejar a los pacientes que experimenten mareos que no
+conduzcan ni utilicen máquinas hasta que los síntomas remitan.
+
+Datos preclínicos sobre seguridad
+Carcinogénesis, mutagénesis y deterioro de la fertilidad
+Se realizaron estudios de dos años de duración en ratones CD-1 y ratas
+Sprague-Dawley para evaluar el potencial carcinogénico de ivacaftor.
+No  se  observó  evidencia  de  tumorigenicidad  en  ratones  o  ratas  tra-
+tados con dosis orales de ivacaftor de hasta 200 mg/kg/día y 50 mg/
+kg/día, respectivamente (dosis aproximadamente equivalentes a 1 y 4
+veces la MRHD, según la suma de los valores de las AUC del ivacaftor
+y sus metabolitos). El ivacaftor dio negativo para genotoxicidad en los
+siguientes ensayos:
+Prueba de Ames para mutación genética bacteriana, ensayo de la abe-
+rración cromosómica in vitro en células de ovario de hámsteres chinos y
+prueba de micronúcleos en ratones in vivo.
+El  ivacaftor  afectó  los  índices  de  fertilidad  y  rendimiento  reproducti-
+vo en ratas macho y hembra con una dosis de 200 mg/kg/día (lo que
+produjo exposiciones aproximadamente 8 y 5 veces mayores, respec-
+tivamente, que la MRHD, según la suma de los valores de las AUC del
+ivacaftor y sus metabolitos principales). Se observaron aumentos del
+diestro  prolongado  en  las  hembras  tratadas  con  200  mg/kg/día.  El
+ivacaftor también aumentó la cantidad de hembras cuyos embriones
+eran todos inviables y disminuyó los cuerpos lúteos, las implantaciones
+y los embriones viables en las ratas tratadas con 200 mg/kg/día (dosis,
+aproximadamente, 5 veces mayor que la MRHD, según la suma de los
+valores de las AUC del ivacaftor y sus metabolitos principales) al admi-
+nistrar las dosis a las hembras antes de la preñez y durante las primeras
+etapas de la preñez. Este deterioro de la fertilidad y del rendimiento
+reproductivo en las ratas macho y hembra tratadas con dosis de 200
+mg/kg/día se atribuyó a una toxicidad grave. No se observaron efectos
+en los índices de fertilidad y rendimiento reproductivo de los machos
+y  las  hembras  tratados  con  ≤100  mg/kg/día  (lo  que  produjo  exposi-
+ciones aproximadamente 6 y 3 veces mayores, respectivamente, que
+la MRHD, según la suma de los valores de las AUC del ivacaftor y sus
+metabolitos principales).
+
+REACCIONES ADVERSAS
+
+Las siguientes reacciones adversas se tratan con mayor profundidad en
+otras secciones de este prospecto:
+•  Niveles elevados de transaminasas (ver Advertencias y precauciones).
+•  Cataratas (ver Advertencias y precauciones).
+
+Experiencia en ensayos clínicos
+Como los ensayos clínicos se realizan en condiciones muy variables, las
+tasas de reacciones adversas que se observan en los ensayos clínicos de
+un medicamento no se pueden comparar directamente con las tasas
+obtenidas en los ensayos clínicos de otro medicamento, y puede que no
+reflejen las tasas que se observan en la práctica clínica.
+El perfil de seguridad general de ivacaftor se basa en los datos com-
+binados  obtenidos  de  tres  ensayos  clínicos  controlados  con  placebo
+realizados en 353 pacientes a partir de los 6 años con FQ que tenían una
+mutación G551D en el gen CFTR (Ensayos 1 y 2) o que eran homocigo-
+tas para la mutación F508del (Ensayo 3). Además, se han realizado los
+siguientes ensayos clínicos:
+•  Un ensayo con diseño cruzado de 8 semanas de duración (Ensayo 4)
+en el que participaron 39 pacientes de 6 a 57 años con una mutación
+G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N o
+S549R en el gen CFTR.
+
+•  Un ensayo controlado con placebo de 24 semanas de duración (En-
+sayo 5) en el que participaron 69 pacientes de 6 a 68 años con una
+mutación R117H en el gen CFTR.
+
+•  Un ensayo abierto de 24 semanas de duración (Ensayo 6) en el que
+participaron  34  pacientes  de  2  a  menos  de  6  años  de  edad.  Los
+pacientes elegibles para el Ensayo 6 fueron aquellos con mutación
+G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P,
+S549N o S549R en el gen CFTR. De los 34 pacientes inscriptos, 32
+tenían la mutación G551D y 2 tenían la mutación S549N.
+
+•  Un ensayo de diseño cruzado de 8 semanas de duración (Ensayo 7)
+en el que participaron pacientes de 12 a 72 años heterocigotas para
+la mutación F508del y presentaban una segunda mutación del CFTR
+que se preveía que respondería a ivacaftor. Se aleatorizó un total de
+156 pacientes para que recibieran ivacaftor.
+
+•  Una cohorte de 19 pacientes de 12 meses a menos de 24 meses, una
+cohorte de 11 pacientes de 6 meses a menos de 12 meses y una co-
+horte de 6 pacientes de 4 meses a menos de 6 meses en un ensayo
+clínico abierto de 24 semanas de duración realizado en pacientes con
+FQ de menos de 24 meses (Ensayo 8).
+
+De los 353 pacientes incluidos en los análisis combinados de pacientes
+con FQ que tenían una mutación G551D o que eran homocigotas para la
+mutación F508del en el gen CFTR, el 50% de los pacientes era de sexo
+femenino y el 97% era de raza caucásica; 221 recibieron ivacaftor y 132
+recibieron placebo durante un período de 16 a 48 semanas.
+La proporción de pacientes que interrumpieron el uso del medicamen-
+to del estudio antes de tiempo debido a reacciones adversas fue del 2%
+para los pacientes tratados con ivacaftor y del 5% para los pacientes
+tratados con placebo. Las reacciones adversas graves, ya sea que los
+investigadores las consideraran relacionadas o no con el medicamen-
+to, que ocurrieron con mayor frecuencia en los pacientes tratados con
+ivacaftor, incluyen dolor abdominal, aumento de las enzimas hepáticas
+e hipoglucemia.
+Las reacciones adversas más frecuentes en los 221 pacientes tratados
+con Ivacaftor fueron dolor de cabeza (17%), infección del tracto respira-
+torio superior (16%), congestión nasal (16%), náuseas (10%), erupción
+(10%), rinitis (6%), mareos (5%), artralgia (5%) y presencia de bacterias
+en el esputo (5%).
+La incidencia de reacciones adversas indicada a continuación se basa
+en  dos  ensayos  clínicos  doble  ciego,  controlados  con  placebo,  de  48
+semanas  de  duración  (Ensayos  1  y  2),  realizados  en  un  total  de  213
+pacientes con FQ de 6 a 53 años que presentan una mutación G551D
+en el gen CFTR y que recibieron tratamiento con ivacaftor en dosis de
+150 mg administrados por vía oral o placebo dos veces por día. En la
+Tabla 4 se muestran las reacciones adversas producidas en ≥8% de los
+pacientes con FQ tratados con ivacaftor que presentaban una mutación
+G551D en el gen CFTR que también ocurrieron con una tasa más alta
+que  en  los  pacientes  tratados  con  placebo  en  los  dos  ensayos  doble
+ciego controlados con placebo.
+
+Tabla 4. Incidencia de reacciones farmacológicas adversas en ≥8%
+de los pacientes tratados con Ivacaftor que presentaban una muta-
+ción G551D en el gen CFTR y que se produjeron con una incidencia
+mayor que con el placebo en 2 ensayos clínicos de fase 3, controla-
+dos con placebo, de 48 semanas de duración
+
+Reacciones adversas
+(término preferido)
+
+Dolor de cabeza
+
+Dolor bucofaríngeo
+
+Infección del tracto
+respiratorio superior
+
+Congestión nasal
+
+Dolor abdominal
+
+Nasofaringitis
+
+Diarrea
+
+Erupción
+
+Náuseas
+
+Mareos
+
+Incidencia: Ensayos de 48 semanas
+de duración combinados
+
+Ivacaftor
+N=109 n (%)
+
+Placebo
+N=104 n (%)
+
+26 (24)
+
+24 (22)
+
+24 (22)
+
+22 (20)
+
+17 (16)
+
+16 (15)
+
+14 (13)
+
+14 (13)
+
+13 (12)
+
+10 (9)
+
+17 (16)
+
+19 (18)
+
+14 (14)
+
+16 (15)
+
+13 (13)
+
+12 (12)
+
+10 (10)
+
+7 (7)
+
+11 (11)
+
+1 (1)
+
+Las reacciones adversas observadas en los ensayos clínicos de 48 semanas
+de duración que se produjeron en el grupo de ivacaftor con una frecuencia
+del 4% al 7% cuyas tasas superaron las del grupo placebo incluyen:
+•  Infecciones e infestaciones: rinitis.
+•  Investigaciones de laboratorio: aumento de la aspartato aminotrans-
+ferasa, presencia de bacterias en el esputo, aumento de la glucemia,
+aumento de las enzimas hepáticas.
+
+•  Trastornos  musculoesqueléticos  y  del  tejido  conjuntivo:  artralgia,
+
+dolor pectoral musculoesquelético, mialgia.
+
+•  Trastornos del sistema nervioso: dolor de cabeza por sinusitis.
+•  Trastornos respiratorios, torácico y mediastínicos: eritema faríngeo,
+
+dolor pleurítico, congestión de los senos nasales, sibilancias.
+
+•  Trastornos de la piel y del tejido subcutáneo: acné.
+El perfil de seguridad de los pacientes con FQ inscriptos en los otros en-
+sayos clínicos (Ensayos 3 a 8) fue similar al perfil observado en los ensa-
+yos controlados con placebo de 48 semanas de duración (Ensayos 1 y 2).
+
+Anormalidades de laboratorio
+Niveles elevados de transaminasas
+En los Ensayos 1, 2 y 3, la incidencia de niveles máximos de transami-
+nasas (ALT o AST) >8, >5 o >3 veces el LSN fue del 2%, 2% y 6% en
+
+los pacientes tratados con ivacaftor, y del 2%, 2% y 8% en los pacientes
+tratados  con  placebo,  respectivamente.  Dos  pacientes  (2%)  tratados
+con placebo y 1 paciente (0,5%) tratado con ivacaftor abandonaron el
+tratamiento de modo permanente a causa de los niveles elevados de
+transaminasas, cuyos valores eran todos >8 veces del LSN. Se informó
+que dos pacientes tratados con ivacaftor presentaron reacciones adver-
+sas graves de los niveles elevados de transaminasas hepáticas, en com-
+paración con ningún caso informado entre los pacientes tratados con
+placebo. Los niveles elevados de transaminasas fueron más frecuentes
+en los pacientes con antecedentes de niveles elevados de transamina-
+sas (ver Advertencias y precauciones).
+Durante el ensayo clínico abierto de 24 semanas de duración, en el que
+participaron 34 pacientes de 2 años a menos de 6 años de edad (En-
+sayo 6) que recibieron 50 mg (menos de 14 kg) o 75 mg (14 kg o más)
+de gránulos de ivacaftor dos veces por día, la incidencia de pacientes
+con niveles elevados de transaminasas (ALT o AST) >3 veces del LSN
+fue del 14,7% (5/34). Los 5 pacientes tenían niveles máximos de ALT o
+AST >8 veces del LSN, que regresaron a los niveles de referencia luego
+de interrumpir la dosis de ivacaftor. Los niveles elevados de transami-
+nasas fueron más frecuentes en los pacientes que presentaban niveles
+anormales de transaminasas en el punto de referencia. Se interrumpió
+el tratamiento con ivacaftor de forma permanente en un paciente (ver
+Advertencias y precauciones).
+Durante el ensayo clínico abierto de 24 semanas de duración, en el que
+participaron pacientes de menos de 24 meses (Ensayo 8), la incidencia
+de pacientes que experimentaron niveles elevados de transaminasas
+(ALT o AST) >3, >5 y >8 veces del LSN en la cohorte de pacientes de 12
+meses a menos de 24 meses (N=19) fue del 27,8% (5/18), 11,1% (2/18)
+y 11,1% (2/18), respectivamente. En la cohorte de pacientes de 6 me-
+ses a menos de 12 meses (N=11), un paciente (9,1%) presentó niveles
+elevados de ALT >3 a ≤5 veces el LSN. En la cohorte de pacientes de 4
+meses a menos de 6 meses (N=6), ningún paciente presentó niveles
+elevados  de  ALT  o  AST  (>3  veces  el  LSN).  Ningún  paciente  presentó
+niveles elevados de bilirrubina total ni discontinuó el tratamiento de
+ivacaftor debido a niveles elevados de transaminasas en ninguna de las
+cohortes (ver Advertencias y precauciones).
+
+Experiencia posterior a la comercialización
+Se identificaron las siguientes reacciones adversas durante el uso de
+Ivacaftor después de su aprobación. Debido a que estas reacciones son
+reportadas voluntariamente por una población de tamaño incierto, no
+siempre es posible calcular de manera confiable su frecuencia o esta-
+blecer una relación causal con la exposición al medicamento.
+Trastornos del sistema inmunitario: anafilaxia.
+
+Notificación de sospecha de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+la relación beneficio/riesgo del medicamento. Se invita a los profesiona-
+les sanitarios a notificar las sospechas de reacciones adversas a través
+
+del  Sistema  Nacional  de  Farmacovigilancia  al  siguiente  link:  https://
+primaryreporting.who-umc.org/AR  y/o  al  Departamento  de  Farmaco-
+vigilancia  de  Gador  S.A.  vía  e-mail  a  farmacovigilancia@gador.com  o
+telefónicamente al 0800-220-2273.
+Siguiendo pautas internacionales, IVACAR® se encuentra adherido al
+Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar los ries-
+gos potenciales conocidos de un producto, preservando sus beneficios
+terapéuticos.
+
+SOBREDOSIFICACION
+
+No se han reportado casos de sobredosis con ivacaftor.
+No  se  dispone  de  ningún  antídoto  específico  para  la  sobredosis  con
+Ivacaftor.  El  tratamiento  de  la  sobredosis  consiste  en  medidas  de
+asistencia general, que incluyen el monitoreo de los signos vitales y la
+observación del estado clínico del paciente.
+
+“Ante la posibilidad de una sobredosificación, concurrir al hospital más
+cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+IVACAR® comprimidos recubiertos: conservar en su envase original a
+temperatura ambiente entre 15oC y 30oC.
+IVACAR® granulado para administración oral: conserve en su envase
+original, a temperatura ambiente inferior a 30oC.
+
+PRESENTACIONES
+
+IVACAR® comprimidos recubiertos: Envases conteniendo 60, 100, 500
+y 1000 comprimidos recubiertos, siendo los dos últimos de uso exclu-
+sivo hospitalario.
+IVACAR® granulado para administración oral: Envases conteniendo 60
+sobres de granulado para administración oral.
+
+Este medicamento debe ser utilizado exclusivamente bajo pres-
+cripción médica y no puede repetirse sin nueva receta médica.
+
+Información para el paciente
+
+Composición
+
+Cada sobre de granulado para administración oral de IVACAR® contiene:
+Ivacaftor .................................................................................75,0000 mg
+Hidroxipropilmetilcelulosa acetato succinato  ...................18,2812 mg
+Lauril sulfato de sodio .............................................................0,4688 mg
+Manitol .................................................................................338,0000 mg
+Croscarmelosa sódica ...........................................................30,0000 mg
+Sucralosa ................................................................................10,0000 mg
+Polivinilpirrolidona ............................................................... 28,2500 mg
+
+Cada comprimido recubierto de IVACAR® contiene:
+Ivacaftor ...............................................................................150,0000 mg
+Hidroxipropilmetilcelulosa acetato succinato ................... 36,5625 mg
+Croscarmelosa sódica ...........................................................30,0000 mg
+Lauril sufato de sodio ..............................................................0,9375 mg
+Celulosa microcristalina (Tipo 102) .....................................157,425 mg
+
+Lactosa monohidrato CD30 ................................................167,2000 mg
+Sílica coloidal anhidra .............................................................2,2500 mg
+Estearato de magnesio vegetal ..............................................5,6250 mg
+Indigotina laca aluminica. ......................................................0,0080 mg
+Opadry II 85F28751 blanco 1)................................................14,9920 mg
+Opadry FX silver 62W28547 2) ................................................1,0000 mg
+1) Alcohol  polivinílico  5,997  mg;  Polietilenglicol  3,028  mg;  Dióxido  de  titanio
+3,748 mg; Talco 2,219 mg.
+2) Carboximetilcelulosa sódica 0,485 mg; Maltodextrina 0,188 mg; Dextrosa mono-
+hidrato 0,152 mg; Pigmento perlado con base de mica (CI N° 77019/CI N° 77891)
+0,1 mg; Lecitina 0,075 mg.
+
+Lea toda la información de IVACAR® detenidamente antes de em-
+pezar a tomar este medicamento, porque contiene información
+importante para usted.
+•  Conserve esta guía, ya que puede tener que volver a leerla.
+•  Si tiene alguna duda, CONSULTE A SU MEDICO.
+
+•  Este medicamento se le ha recetado solamente a usted, y no
+debe dárselo a otras personas, aunque tengan los mismos
+síntomas que usted, ya que puede perjudicarlos.
+
+•  Si experimenta efectos indeseables, consulte a su médico,
+incluso si se trata de efectos indeseables que no aparecen en
+esta información.
+
+(dosis diaria total de 300 mg) con alimentos con contenido graso.
+Tome los comprimidos de IVACAR® siempre con alimentos con conte-
+nido graso. Estos son algunos ejemplos de alimentos con contenido
+graso: huevos, manteca, manteca de maní, productos lácteos enteros
+como leche entera, queso y yogur. Trague el comprimido entero. No
+rompa, mastique o disuelva los comprimidos.
+
+1. ¿Qué es IVACAR® y para que se utiliza?
+
+IVACAR® es un medicamento recetado para el tratamiento de pacien-
+tes con Fibrosis Quística (FQ) de 6 meses de edad o más con un peso
+≥14kg y que presenten una mutación en el gen CFTR sensible al efec-
+to de ivacaftor en función de los datos de ensayos clínicos y/o in vitro.
+Hable con su médico para saber si presenta una mutación genética
+de la FQ indicada.
+
+2. ¿Qué necesita saber antes de empezar a tomar IVACAR® y
+durante el tratamiento?
+
+¿Quiénes no deben tomar IVACAR®?
+No tome IVACAR®:
+•  Si es alérgico a ivacaftor o a cualquiera de los demás componentes
+
+de este medicamento.
+
+•  Si toma ciertos medicamentos o suplementos herbarios, como, por
+
+ejemplo:
+•  Antibióticos como rifampicina o rifabutina.
+•  Medicamentos antiepilépticos, como fenobarbital, carbamaze-
+
+pina o fenitoína.
+•  Hierba de San Juan.
+
+Consulte al médico antes de tomar IVACAR® si toma alguno de los
+medicamentos o suplementos mencionados anteriormente.
+
+¿Qué debo informar a mi médico antes de tomar IVACAR® ?
+Antes de tomar IVACAR®, dígale a su médico si:
+•  Tiene problemas de hígado o riñones.
+•  Toma jugo de pomelo o come pomelos.
+•  Está embarazada o planea estarlo. Se desconoce si Ivacaftor da-
+ñará al bebé nonato. Usted y su médico deben decidir si tomará
+IVACAR® durante el embarazo.
+
+•  Está amamantando (dándole el pecho a su bebé) o planea ama-
+mantar. Se desconoce si Ivacaftor se transmite por leche materna.
+Usted  y  su  médico  deben  decidir  si  tomará  IVACAR®  durante  el
+amamantamiento.
+
+La forma farmacéutica comprimidos recubiertos no es adecuada para
+niños menores de 6 años de edad.
+
+¿Puedo tomar IVACAR® con otros medicamentos?
+ IVACAR® puede afectar el modo en que funcionan otros medicamen-
+tos, y otros medicamentos pueden afectar cómo funciona IVACAR®.
+Informe a su médico todos los medicamentos que toma, incluidos los
+recetados y los de venta libre, las vitaminas y los suplementos herba-
+les, porque puede ser necesario ajustar la dosis de IVACAR® cuando
+se toma con ciertos medicamentos.
+Pida a su médico una lista de estos medicamentos si no está seguro.
+En especial, debe informar a su médico si usted toma:
+•  Medicamentos antimicóticos, como ketoconazol, itraconazol, po-
+
+saconazol, voriconazol o fluconazol.
+
+•  Antibióticos, como telitromicina, claritromicina o eritromicina.
+Conozca los medicamentos que toma. Tenga una lista de ellos para
+mostrárselos a su médico cuando reciba un nuevo medicamento.
+
+3. ¿Cómo debo tomar IVACAR®?
+
+La vía de administración de IVACAR® es oral. Siga exactamente las
+instrucciones de administración de este medicamento indicadas por
+su médico. En caso de duda, consulte de nuevo a su médico. Su médi-
+co le dirá cuanto IVACAR® debe tomar.
+IVACAR® se debe tomar por vía oral cada 12 horas con alimentos que
+contengan grasas.
+
+Comprimidos  de  IVACAR®  (adultos  y  pacientes  pediátricos  a
+partir de los 6 años o más)
+La posología recomendada de IVACAR® (comprimidos) para pacien-
+tes adultos y pediátricos a partir de los 6 años o más, consiste en un
+comprimido de 150 mg que debe tomarse por vía oral cada 12 horas
+
+Gránulos para uso oral de IVACAR® (pacientes pediátricos a par-
+tir de los 6 meses con 14 kg o más a menos de 6 años)
+La posología recomendada de IVACAR® (gránulos para uso oral) es un
+sobre de 75 mg cada 12 horas (dosis diaria total 150mg).
+Sostenga el sobre de manera que la línea de corte quede hacia arriba.
+Agite  suavemente  el  sobre  para  que  los  gránulos  de  IVACAR®  se
+asienten en el fondo. Rompa o corte el sobre para abrirlo a lo largo
+de la línea de corte.
+Vierta  todos  los  gránulos  de  IVACAR®  del  sobre  con  cuidado  en  1
+cucharadita (5 ml) de líquido o alimento blando adecuados para la
+edad y mezcle. El alimento o el líquido deben estar a temperatura
+ambiente o a una temperatura inferior.
+Algunos  ejemplos  de  líquidos  o  alimentos  blandos  pueden  incluir
+puré de frutas o verduras, yogur, puré de manzana, agua, leche ma-
+terna, leche de fórmula para lactantes, leche o jugo.
+Una vez mezclado, IVACAR® debe tomarse lo antes posible. Asegúre-
+se de que se tome todo el medicamento.
+Dele al niño alimentos con contenido graso inmediatamente antes o
+después de la dosis de gránulos de IVACAR®. Estos son algunos ejem-
+plos de alimentos con contenido graso: huevos, manteca, manteca de
+maní, productos lácteos enteros como leche entera, queso y yogur,
+leche materna y leche de fórmula para lactantes.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Si olvidó tomar IVACAR®:
+Dentro de las 6 horas del horario habitual tome la dosis olvidada,
+según lo recetado, lo antes posible con alimentos con contenido graso.
+Y si trascurrieron más de 6 horas del horario habitual, saltee sólo
+esa dosis y tome la siguiente dosis en el horario habitual. No tome
+una dosis doble para compensar las dosis olvidadas.
+
+Si interrumpe el tratamiento con IVACAR®
+Tome IVACAR® durante el tiempo que su médico le ha indicado. No
+interrumpa el tratamiento a menos que su médico se lo indique. Si
+interrumpe el tratamiento avísele a su médico. Si tiene cualquier otra
+duda sobre el uso de este medicamento, pregunte a su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+Si toma más IVACAR® del que debe:
+Puede presentar efectos indeseables, incluidos los mencionados en
+el ítem 4 a continuación. Si es así, consulte con su médico.
+
+¿Qué debo evitar cuando tomo IVACAR®?
+IVACAR® puede producirle mareos. No conduzca un automóvil ni uti-
+lice maquinaria ni haga algo que necesite estar atento a menos que
+esté seguro de que no le afecta.
+Evite  los  alimentos  que  contengan  pomelo  durante  el  tratamiento
+con IVACAR® ya que pueden aumentar la cantidad de ivacaftor en el
+organismo.
+
+“Ante la posibilidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+
+Optativamente otros centros de intoxicaciones”.
+
+4. ¿Cuáles son los posibles efectos indeseables de IVACAR®?
+
+Al igual que todos los medicamentos, IVACAR® puede producir efec-
+tos indeseables, aunque no todas las personas los experimenten.
+
+Se  ha  reportado  un  aumento  de  las  enzimas  hepáticas  en  la
+sangre de pacientes que reciben IVACAR®.
+
+Su médico le realizará análisis de sangre para controlar el hígado:
+•  Antes de comenzar el tratamiento con IVACAR®.
+•  Cada 3 meses durante el primer año que tome IVACAR®.
+•  Cada año mientras tome IVACAR®.
+En el caso de pacientes que han tenido niveles altos de enzimas he-
+páticas anteriormente, es posible que el médico les haga análisis de
+sangre con mayor frecuencia para controlar el hígado.
+
+Comuníquese  con  su  médico  de  inmediato  si  presenta  alguno  de
+estos síntomas de problemas hepáticos:
+•  Dolor o molestia en la parte superior derecha del estómago (área
+
+abdominal).
+
+•  Color amarillo en la piel o en la parte blanca de los ojos.
+•  Pérdida del apetito.
+•  Náuseas o vómitos.
+•  Orina oscura, de color ámbar.
+
+Han ocurrido reacciones alérgicas graves en personas que recibieron
+tratamiento  con  Ivacaftor.  Llame  a  su  médico  o  diríjase  inmediata-
+mente a la sala de emergencias si presenta síntomas de una reacción
+alérgica. Los síntomas de una reacción alérgica pueden incluir:
+•  Erupción o urticaria.
+•  Opresión en el pecho o la garganta, o dificultad para respirar.
+•  Aturdimiento o mareo.
+
+En algunos niños y adolescentes tratados con IVACAR®, se ha obser-
+vado una anomalía en el cristalino del ojo (catarata). Su médico debe
+examinarle los ojos antes y durante el tratamiento con IVACAR® para
+evaluar si tiene cataratas.
+
+Los efectos indeseables más comunes de IVACAR® incluyen:
+•  Dolor de cabeza.
+•  Infección  del  tracto  respiratorio  superior  (resfriado  común),  que
+
+incluye:
+•  Dolor de garganta.
+•  Congestión nasal o de los senos paranasales.
+•  Secreción nasal.
+
+•  Dolor de estómago (abdominal).
+•  Diarrea.
+•  Erupción cutánea (sarpullido).
+•  Náuseas.
+•  Mareos.
+
+Informe a su médico si tiene alguno de los efectos indeseables des-
+criptos arriba u otro efecto indeseable que no esté descripto en esta
+información.
+
+Estos no son todos los posibles efectos indeseables de IVACAR®. Para
+obtener más información, consulte al médico.
+
+Comunicación de efectos adversos
+Si  experimenta  cualquier  tipo  de  efecto  indeseable,  consulte  a  su
+médico,  incluso  si  se  trata  de  posibles  efectos  indeseables  que  no
+aparecen en esta guía.
+“Ante cualquier inconveniente con el producto usted puede llenar la fi-
+cha que está en la página web de la ANMAT: https://primaryreporting.
+who-umc.org/AR, o llamar a ANMAT responde al 0800-333-1234”.
+También puede comunicarse al Departamento de Farmacovigilancia
+Gador S.A, a farmacovigilancia@gador.com o teléfono 0800-220-2273.
+Siguiendo pautas internacionales, el producto IVACAR® se encuentra
+adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR: Conjunto de actividades e intervenciones en Farmacovigilancia
+diseñadas para identificar, caracterizar, prevenir o minimizar riesgos
+relacionados a productos medicinales, y la evaluación de la efectivi-
+dad de esas intervenciones.
+
+5. ¿Cómo debo conservar IVACAR®?
+
+IVACAR® comprimidos recubiertos: conserve en su envase original, a
+temperatura ambiente entre 15oC y 30oC.
+IVACAR® granulado para administración oral: conserve en su envase
+original, a temperatu-ra ambiente inferior a 30oC.
+No utilice IVACAR® después de la fecha de vencimiento indicada en
+el envase.
+
+6. Presentaciones
+
+IVACAR®  comprimidos  recubiertos:  Envases  conteniendo  60,  100,
+500 y 1000 comprimidos recubiertos, siendo los dos últimos de uso
+exclusivo hospitalario.
+IVACAR® granulado para administración oral: Envases conteniendo
+60 sobres de granulado para administración oral.
+
+Este medicamento debe ser usado exclusivamente bajo pres-
+cripción  y  vigilancia  médica  y  no  puede  repetirse  sin  nueva
+receta médica.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestros sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado No 58.757. Fecha de última revisión: 06/2024
+
+G00190003-03

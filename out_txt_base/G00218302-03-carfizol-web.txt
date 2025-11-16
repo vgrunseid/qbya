@@ -1,0 +1,3227 @@
+CARFIZOL®
+CARFILZOMIB 60 mg/vial
+
+Polvo liofilizado para inyectable. Solo para uso intravenoso
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada frasco ampolla de CARFIZOL® contiene:
+Carfilzomib .......................................................................................... 60 mg
+Excipientes:
+Sulfobutiléter beta ciclodextrina ................................................. 3000 mg
+Ácido cítrico anhidro ........................................................................ 57.7 mg
+Hidróxido de sodio ...................................................................c.s.p. pH 3.5
+
+ACCIÓN TERAPÉUTICA
+
+Grupo farmacoterapéutico: agente antineoplásico.
+Código ATC: L01XX45.
+
+INDICACIONES
+
+CARFIZOL® está indicado:
+• en el tratamiento de pacientes adultos con mieloma múltiple en recaí-
+da o refractario que han recibido de una a tres líneas de terapia previa
+para su enfermedad de base, en combinación con:
+- lenalidomida y dexametasona; o
+- dexametasona; o
+- daratumumab y dexametasona.
+
+• como monoterapia en el tratamiento de pacientes adultos con mielo-
+ma múltiple en recaída o refractario que han recibido al menos una
+línea de terapia previa para su enfermedad de base.
+
+ACCIÓN FARMACOLÓGICA
+
+Mecanismo de acción
+Carfilzomib es un tetrapéptido con un grupo epoxicetona inhibidor del
+proteosoma que se une de forma selectiva e irreversible a la treonina en
+el extremo N terminal de los sitios activos del proteosoma 20S, el núcleo
+proteolítico del proteosoma 26S, y que muestra poca o ninguna acti-
+vidad frente a otros tipos de proteasas. Carfilzomib presentó actividad
+antiproliferativa y proapoptótica en modelos preclínicos de tumores he-
+matológicos. En animales, carfilzomib inhibió la actividad del proteoso-
+ma en la sangre y los tejidos y retrasó el crecimiento tumoral en modelos
+de mieloma múltiple. In vitro, carfilzomib presentó una baja neurotoxi-
+cidad y una reacción mínima a las proteasas no proteosómicas.
+
+Efectos farmacodinámicos
+La administración intravenosa de carfilzomib produjo una supresión de
+la actividad proteosómica análoga a la quimotripsina (CT-L) al efectuar la
+medición en sangre 1 hora después de la primera dosis. Dosis ≥15 mg/
+m2 indujeron sistemáticamente a una inhibición (≥80%) de la actividad
+CT-L  del  proteosoma.  Además,  la  administración  de  carfilzomib  a  20
+mg/m2 produjo una inhibición promedio de las subunidades del protea-
+soma polipéptido de baja masa molecular 2 (LMP2) y del complejo mul-
+ticatalítico de endopeptidasa tipo 1 (MECL1) del 26% al 32% y del 41% al
+49%, respectivamente. La inhibición del proteosoma se mantuvo duran-
+te ≥48 horas después de la primera dosis de carfilzomib en cada sema-
+na de administración. La administración combinada de lenalidomida y
+dexametasona no afectó la inhibición del proteosoma. Con la dosis más
+alta de 56 mg/m2, no sólo se observó un incremento en la inhibición de
+las subunidades CT-L (≥ 90%) comparado con la dosis de 15 a 20 mg/m2,
+sino también una mayor inhibición de otras subunidades del proteoso-
+ma (LMP7, MECL1, y LMP2). Hubo un incremento en la inhibición de las
+subunidades LMP7, MECL1 y LMP2 de aproximadamente un 8%, 23% y
+34% respectivamente con la dosis de 56 mg/m2, comparado con dosis
+de 15 a 20 mg/m2. Se alcanzó una inhibición similar del proteosoma con
+
+perfusiones de carfilzomib de 2 a 10 minutos y a 30 minutos en los 2
+niveles de dosis (20 y 36 mg/m2) en los que se analizó.
+
+FARMACOCINÉTICA
+
+Absorción
+La Cmáx y el ABC después de una perfusión intravenosa de 2 a 10 minutos
+de 27 mg/m2 fueron de 4.232 ng/ml y 379 ng•h/ml, respectivamente.
+Después de repetidas dosis de carfilzomib a 15 y 20 mg/m2, la exposi-
+ción sistémica (ABC) y la semivida fueron similares en los días 1 y 15 ó 16
+del ciclo 1, lo que indica que no se produjo una acumulación sistémica
+de carfilzomib. A dosis entre 20 y 56 mg/m2, parece que se produjo un
+aumento de la exposición dependiente de la dosis.
+Una perfusión de 30 minutos mostró una semivida y un ABC similar,
+pero una Cmáx entre 2 y 3 veces inferior en comparación con la observada
+con una perfusión de 2 a 10 minutos de la misma dosis.
+Luego de una infusión de 30 minutos de la dosis de 56 mg/m2, el ABC
+promedio de 948 ng•h/ml fue aproximadamente 2,5 veces mayor que
+el observado con la dosis de 27 mg/m2, y la Cmáx (2.079 ng/ml) fue menor
+en comparación con la de 27 mg/m2 en perfusión de 2 a 10 minutos.
+
+Distribución
+El volumen de distribución medio en el estado estable de una dosis de
+20 mg/m2 de carfilzomib fue de 28 l. Al realizar pruebas in vitro, la unión
+de carfilzomib a las proteínas plasmáticas humanas fue, en promedio,
+del 97% sobre el intervalo de concentración de 0,4 a 4 micromolar.
+
+Metabolismo
+Carfilzomib se metaboliza rápida y extensamente. Los metabolitos pre-
+dominantes determinados en el plasma humano y en la orina, y gene-
+rados in vitro por hepatocitos humanos, fueron fragmentos peptídicos
+y el diol de carfilzomib, lo que indica que la escisión por peptidasas y la
+hidrólisis de los epóxidos fueron las vías principales de metabolismo.
+Los  mecanismos  mediados  por  el  citocromo  P450  desempeñaron  un
+papel menor en el metabolismo global de carfilzomib. Se desconoce la
+actividad biológica de los metabolitos.
+
+Eliminación
+Después de la administración intravenosa de dosis ≥15 mg/m2, carfi-
+lzomib fue eliminado rápidamente de la circulación sistémica con una
+semivida de ≤1 hora en el día 1 del ciclo 1. El aclaramiento sistémico fue
+de entre 151 y 263 l/hora, y superó el flujo sanguíneo hepático, lo que
+indica que carfilzomib se eliminó en gran parte por vía extrahepática.
+Carfilzomib se elimina principalmente por medio del metabolismo con
+la excreción posterior de sus metabolitos en la orina.
+
+Poblaciones especiales
+Los análisis farmacocinéticos poblacionales indican que la edad, el gé-
+nero o la raza no tienen efectos sobre la farmacocinética de carfilzomib.
+
+Insuficiencia hepática
+Un estudio farmacocinético evaluó pacientes con neoplasias avanzadas
+en recaída o en progresión, que tenían función hepática normal, insufi-
+ciencia hepática leve o insuficiencia hepática moderada. La farmacoci-
+nética de carfilzomib no se ha estudiado en pacientes con insuficiencia
+hepática grave. Carfilzomib se administró como agente único. El estado
+de la función hepática basal no tuvo ningún efecto señalado en la expo-
+sición total sistémica (ABC final) de carfilzomib tras la administración
+única o de dosis repetidas. Sin embargo, en pacientes con insuficiencia
+hepática  basal  leve  o  moderada,  que  presentaban  tumores  sólidos,
+hubo una mayor incidencia en sujetos con función hepática anormal,
+acontecimientos adversos ≥ grado 3 o graves, comparado con sujetos
+con una función hepática normal.
+
+Insuficiencia renal
+La farmacocinética de carfilzomib se estudió en dos ensayos específicos
+de insuficiencia renal. En un estudio en pacientes con mieloma múltiple
+y función renal normal, insuficiencia renal leve, moderada o severa, o
+en diálisis crónica, carfilzomib como agente único se administró por vía
+intravenosa de 2 a 10 minutos en dosis hasta 20 mg/m2. Otro estudio
+se  llevó  a  cabo  en  pacientes  con  mieloma  múltiple  en  recaída  y  con
+aclaramiento de creatinina ≥ 75 ml/min y pacientes con un estado de
+enfermedad renal terminal (ERT) que requirieron diálisis. Los resultados
+de ambos estudios mostraron que el estado de la función renal no tuvo
+efecto marcado en la exposición a carfilzomib después de una adminis-
+tración de dosis única o repetidas. Los acontecimientos adversos graves
+relacionados  con  el  empeoramiento  de  la  función  renal,  fueron  más
+frecuentes en pacientes con una disfunción renal inicial.
+
+POSOLOGÍA - MODO DE ADMINISTRACIÓN
+
+El tratamiento con CARFIZOL® debe ser supervisado por un médico con
+experiencia en el uso de quimioterapia.
+
+Posología
+La dosis de CARFIZOL® se calcula a partir del área de superficie corporal
+basal  del  paciente  (ASC).  Los  pacientes  con  el  ASC  superior  a  2,2  m2
+deben recibir una dosis en función del ASC de 2,2 m2. No es necesa-
+rio efectuar ajustes de la dosis para variaciones en el peso inferiores o
+equivalentes al 20%.
+
+• CARFIZOL® en combinación con lenalidomida y dexametasona
+En  el  régimen  combinado  con
+lenalidomida  y  dexametasona,
+CARFIZOL® debe administrarse por vía intravenosa como perfusión du-
+rante 10 minutos, en dos días consecutivos, cada semana durante tres
+semanas (días 1, 2, 8, 9, 15 y 16), seguidas de un período de descanso
+de 12 días (días 17 a 28). Cada período de 28 días se considera como un
+ciclo de tratamiento.
+CARFIZOL® se administra a una dosis inicial de 20 mg/m2 (dosis máxima
+44 mg) en el ciclo 1, en los días 1 y 2. Si se tolera, la dosis se debe aumen-
+tar a 27 mg/m2 (dosis máxima 60 mg) el día 8 del ciclo 1. Desde el ciclo
+13, las dosis de los días 8 y 9 de CARFIZOL® se omiten. El tratamiento
+podría continuar hasta la progresión de la enfermedad o la aparición de
+toxicidad  inaceptable.  El  tratamiento  con  CARFIZOL®  combinado  con
+
+lenalinomida y dexametasona durante más de 18 ciclos se debe basar
+en la evaluación individual del balance beneficio/riesgo, puesto que los
+datos de la tolerabilidad y la toxicidad de carfilzomib durante más de 18
+ciclos son limitados.
+Lenalidomida, en combinación con CARFIZOL®, se administra en una do-
+sis de 25 mg por vía oral en los días 1-21 y dexametasona se administra
+en una dosis de 40 mg vía oral o intravenosa en los días 1, 8, 15 y 22 de
+los ciclos de 28 días. Se debe considerar una reducción adecuada de la
+dosis inicial de lenalidomida en conformidad con las recomendaciones
+del prospecto vigente del producto. Se debe administrar dexametasona
+entre 30 minutos y 4 horas antes que CARFIZOL®. Consulte la informa-
+ción  para  prescribir  de  la  lenalidomida  y  la  dexametasona  para  otros
+medicamentos  concomitantes  que  puedan  ser  necesarios  con  esos
+agentes, tales como el uso de anticoagulantes y profilaxis con antiáci-
+dos. (Ver Tabla 1).
+
+• CARFIZOL® en combinación con dexametasona
+Esquema de 20/56 mg/m2 dos veces por semana mediante infusión de
+30 minutos
+CARFIZOL® debe administrarse por vía intravenosa como perfusión du-
+rante 30 minutos, en dos días consecutivos, cada semana durante tres
+semanas (días 1, 2, 8, 9, 15 y 16), seguidas de un período de descanso
+de 12 días (días 17 a 28). Cada período de 28 días se considera como un
+ciclo de tratamiento.
+CARFIZOL® se administra en infusión durante 30 minutos a una dosis
+inicial de 20 mg/m2 (dosis máxima 44 mg) en el ciclo 1, en los días 1
+y 2. Si se tolera, la dosis se debe aumentar a 56 mg/m2 (dosis máxima
+123 mg) el día 8 del ciclo 1.
+La dexametasona se administra en una dosis de 20 mg vía oral o intra-
+venosa en los días 1, 2, 8, 9, 15, 16, 22 y 23 de cada ciclo de 28 días.
+Se debe administrar dexametasona entre 30 minutos y 4 horas antes
+que CARFIZOL®.
+El tratamiento podría continuar hasta la progresión de la enfermedad
+o  la  aparición  de  toxicidad  inaceptable.  Consulte  la  información  para
+prescribir de la dexametasona para otros medicamentos concomitantes
+que puedan ser necesarios. (Ver Tabla 2).
+
+Esquema de 20/70 mg/m2 una vez por semana mediante infusión de
+30 minutos
+CARFIZOL®  debe  administrarse  por  vía  intravenosa  como  perfusión
+durante 30 minutos, en los días 1, 8, y 15 de cada ciclo, seguidas de un
+
+Tabla 1. CARFIZOL® (infusión de 10 minutos) en combinación con lenalidomida y dexametasona
+
+Ciclo 1
+
+Semana 1
+Día 2
+20
+-
+
+Día 1
+20
+40
+
+Días 3-7
+-
+-
+
+Día 8
+27
+40
+
+Semana 1
+Día 2
+27
+-
+
+Día 1
+27
+40
+
+Días 3-7
+-
+-
+
+Día 8
+27
+40
+
+Semana 1
+Día 2
+27
+-
+
+Día 1
+27
+40
+
+Días 3-7
+-
+-
+
+Día 8
+-
+40
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Lenalidomida (mg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Lenalidomida (mg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Lenalidomida (mg)
+
+Semana 2
+Día 9
+27
+-
+
+Días 10-14
+-
+-
+
+Día 15
+27
+40
+25/día, los días 1 a 21
+Ciclos 2-12
+
+Semana 2
+Día 9
+27
+-
+
+Días 10-14
+-
+-
+
+Día 15
+27
+40
+25/día, los días 1 a 21
+Ciclos 13 y en adelante
+
+Semana 2
+Día 9
+-
+-
+
+Días 10-14
+-
+-
+
+Día 15
+27
+40
+25/día, los días 1 a 21
+
+Semana 3
+Día 16
+27
+-
+
+Semana 3
+Día 16
+27
+-
+
+Semana 3
+Día 16
+27
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+-
+
+Tabla 2. CARFIZOL® 20/56 mg/m2 dos veces por semana (infusión de 30 minutos) en combinación con dexametasona
+
+Ciclo 1
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+
+Semana 1
+Día 2
+20
+20
+
+Semana 1
+Día 2
+56
+20
+
+Día 1
+20
+20
+
+Día 1
+56
+20
+
+Días 3-7
+-
+-
+
+Día 8
+56
+20
+
+Semana 2
+Día 9
+56
+20
+
+Días 10-14
+-
+-
+
+Semana 3
+Día 16
+56
+20
+
+Días 17-21
+-
+-
+
+Día 15
+56
+20
+
+Día 22
+-
+20
+
+Semana 4
+Día 23 Días 24-28
+
+-
+20
+
+Ciclos 2 y en adelante
+
+Días 3-7
+-
+-
+
+Día 8
+56
+20
+
+Semana 2
+Día 9
+56
+20
+
+Días 10-14
+-
+-
+
+Semana 3
+Día 16
+56
+20
+
+Días 17-21
+-
+-
+
+Día 15
+56
+20
+
+Día 22
+-
+20
+
+Semana 4
+Día 23 Días 24-28
+
+-
+20
+
+período de descanso de 13 días (días 16 a 28). Cada período de 28 días
+se considera como un ciclo de tratamiento.
+CARFIZOL® se administra en infusión durante 30 minutos a una dosis
+inicial de 20 mg/m2 (dosis máxima 44 mg) en el ciclo 1, en el día 1. Si se
+tolera, la dosis se debe aumentar a 70 mg/m2 el día 8 del ciclo 1.
+La dexametasona se administra en una dosis de 40 mg vía oral o intra-
+venosa en los días 1, 8, 15, y 22 de cada ciclo de 28 días hasta el ciclo
+9, y a partir del ciclo 10, en los días 1, 8, y 15 de cada ciclo de 28 días.
+Se debe administrar dexametasona entre 30 minutos y 4 horas antes
+que CARFIZOL®.
+El tratamiento podría continuar hasta la progresión de la enfermedad
+o  la  aparición  de  toxicidad  inaceptable.  Consulte  la  información  para
+prescribir de la dexametasona para otros medicamentos concomitantes
+que puedan ser necesarios. (Ver Tabla 3).
+
+• CARFIZOL® en combinación con dexametasona y daratumumab
+por vía intravenosa
+Esquema de 20/56 mg/m2 dos veces por semana mediante infusión de
+30 minutos
+Administrar  CARFIZOL®  por  vía  intravenosa  como  una  infusión  de  30
+minutos en los días 1, 2, 8, 9, 15 y 16 de cada ciclo de 28 días en combi-
+nación con dexametasona y daratumumab por vía intravenosa hasta la
+progresión de la enfermedad o que se manifieste toxicidad inaceptable,
+tal como se observa en la Tabla 4. La dosis de inicio recomendada de
+
+CARFIZOL® es 20 mg/m2 (dosis máxima 44 mg) en el ciclo 1, días 1 y 2.
+Si fuese tolerada, aumentar la dosis a 56 mg/m2 (dosis máxima 123 mg)
+en el ciclo 1, día 8 y posteriormente. La dexametasona se administra a
+una dosis de 20 mg por vía oral o intravenosa en los días 1, 2, 8, 9, 15 y
+16, y a una dosis de 40 mg por vía oral o intravenosa en el día 22 de cada
+ciclo de 28 días. En el caso de los pacientes de > 75 años, administre 20
+mg de dexametasona por vía oral o intravenosa semanalmente después
+de la primera semana. Daratumumab se administra por vía intravenosa
+a una dosis de 16 mg/kg de peso, con una dosis dividida de 8 mg/kg en
+el ciclo 1 en los días 1 y 2. A continuación, daratumumab se administra a
+una dosis de 16 mg/kg una vez a la semana en los días 8, 15 y 22 del ciclo
+1 y los días 1, 8, 15 y 22 del ciclo 2; después, cada 2 semanas durante 4
+ciclos (ciclos del 3 al 6) y, a continuación, cada 4 semanas en los ciclos
+restantes o hasta la progresión de la enfermedad.
+En  los  días  en  los  que  se  administran  más  de  uno  de  estos  medica-
+mentos, se recomienda hacerlo en el siguiente orden: dexametasona,
+medicación previa a la perfusión de daratumumab, carfilzomib, daratu-
+mumab y medicación posterior a la perfusión de daratumumab.
+Administrar  dexametasona  entre  30  minutos  y  4  horas  antes  de
+CARFIZOL®, y entre 1 y 3 horas antes del daratumumab por vía intrave-
+nosa, tomando en consideración las dosis especificadas en la Tabla 4.
+Debe referirse a la información del prospecto para dexametasona y da-
+ratumumab por vía intravenosa a fin de obtener información sobre la
+dosificación adicional. (Ver Tabla 4).
+
+Tabla 3. CARFIZOL® 20/70 mg/m2 una vez por semana (infusión de 30 minutos) en combinación con dexametasona
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+
+Semana 1
+Día 2
+-
+-
+
+Días 3-7
+-
+-
+
+Semana 1
+Día 2
+-
+-
+
+Días 3-7
+-
+-
+
+Semana 1
+Día 2
+-
+-
+
+Días 3-7
+-
+-
+
+Día 1
+20
+40
+
+Día 1
+70
+40
+
+Día 1
+70
+40
+
+Día 8
+70
+40
+
+Día 8
+70
+40
+
+Día 8
+70
+40
+
+Ciclo 1
+
+Semana 2
+Día 9
+-
+-
+
+Días 10-14
+-
+-
+
+Día 15
+70
+40
+
+Ciclos 2-9
+
+Semana 2
+Día 9
+-
+-
+
+Días 10-14
+-
+-
+
+Día 15
+70
+40
+Ciclos 10 y en adelante
+
+Semana 2
+Día 9
+-
+-
+
+Días 10-14
+-
+-
+
+Día 15
+70
+40
+
+Semana 3
+Día 16
+-
+-
+
+Semana 3
+Día 16
+-
+-
+
+Semana 3
+Día 16
+-
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+-
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+-
+
+Días 23-28
+-
+-
+
+Tabla 4: CARFIZOL® 20/56 mg/m2 dos veces por semana (infusión de 30 minutos) en combinación con dexametasona y daratumumab
+por vía intravenosa
+
+Semana 1
+Día 2
+20
+20
+8
+
+Semana 1
+Día 2
+56
+20
+-
+
+Semana 1
+Día 2
+56
+20
+-
+
+Días 3-7
+-
+-
+-
+
+Días 3-7
+-
+-
+-
+
+Días 3-7
+-
+-
+-
+
+Semana 1
+Día 2
+56
+20
+
+Días 3-7
+-
+-
+
+Día 1
+20
+20
+8
+
+Día 1
+56
+20
+16
+
+Día 1
+56
+20
+16
+
+Día 1
+56
+20
+
+Día 8
+56
+20
+16
+
+Día 8
+56
+20
+16
+
+Día 8
+56
+20
+-
+
+Día 8
+56
+20
+
+Semana 2
+Día 9
+56
+20
+-
+
+Ciclo 1
+
+Días 10-14
+-
+-
+-
+Ciclo 2
+
+Semana 2
+Día 9
+56
+20
+-
+
+Días 10-14
+-
+-
+-
+
+Ciclos 3-6
+
+Semana 2
+Día 9
+56
+20
+-
+
+Días 10-14
+-
+-
+-
+
+Día 15
+56
+20
+16
+
+Día 15
+56
+20
+16
+
+Día 15
+56
+20
+16
+
+Ciclos 7 y en adelante
+
+Semana 3
+Día 16
+56
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Semana 4
+
+Días 23-28
+-
+-
+
+Día 22
+-
+40
+16
+
+Semana 3
+Día 16
+56
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Semana 4
+
+Días 23-28
+-
+-
+
+Día 22
+-
+40
+16
+
+Semana 3
+Día 16
+56
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Semana 4
+
+Día 22
+-
+40
+-
+
+Días 23-28
+-
+-
+-
+
+Semana 2
+Día 9
+56
+20
+
+Días 10-14
+-
+-
+
+Día 15
+56
+20
+
+Semana 3
+Día 16
+56
+20
+
+Semana 4
+
+Días 17-21
+-
+-
+
+Día 22
+-
+40
+
+Días 23-28
+-
+
+16
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+*  Administrar 20 mg de Dexametasona por vía oral o intravenosa semanalmente después de la primera semana a los pacientes mayores de 75 años de edad.
+
+Esquema de 20/70 mg/m2 una vez por semana mediante infusión de
+30 minutos
+Administrar CARFIZOL® por vía intravenosa como una infusión de 30
+minutos en los días 1, 8 y 15 de cada ciclo de 28 días en combinación
+con  dexametasona  y  daratumumab  por  vía  intravenosa  hasta  la  pro-
+gresión de la enfermedad o que se manifieste toxicidad inaceptable,
+tal como se observa en la Tabla 5. La dosis de inicio recomendada de
+CARFIZOL® es 20 mg/m2 en el ciclo 1, día 1. Si fuese tolerada, aumentar
+la dosis a 70 mg/m2 en el ciclo 1, día 8 y posteriormente. Administrar
+dexametasona entre 30 minutos y 4 horas antes de CARFIZOL® y entre
+1 y 3 horas antes del daratumumab por vía intravenosa, tomando en
+consideración las dosis especificadas en la Tabla 5. Debe referirse a la
+información del prospecto para dexametasona y daratumumab por vía
+intravenosa a fin de obtener información sobre la dosificación adicio-
+nal. (Ver Tabla 5).
+
+• CARFIZOL® como monoterapia
+Cuando CARFIZOL® se emplea como monoterapia, debe administrarse
+por vía intravenosa como perfusión durante 10 o 30 minutos, depen-
+diendo del régimen seleccionado, tal como se describe a continuación.
+
+Régimen 20/27 mg/m2 dos veces por semana en infusión de 10 minutos
+En  el  caso  de  la  monoterapia  con  CARFIZOL®  empleando  el  régimen
+20/27 mg/m2, éste debe ser administrado por vía intravenosa en infu-
+sión de 10 minutos. En los ciclos 1 al 12, administrar CARFIZOL® en dos
+días consecutivos, cada semana durante tres semanas (días 1, 2, 8, 9, 15
+y 16), seguidas de un período de descanso de 12 días (días 17 a 28). Cada
+
+período de 28 días se considera como un ciclo de tratamiento. Desde el
+ciclo 13, las dosis de los días 8 y 9 de CARFIZOL® se omiten.
+Premedicar con dexametasona 4 mg por vía oral o intravenosa, de 30
+minutos a 4 horas antes de cada dosis de CARFIZOL® en el ciclo 1, luego
+según sea necesario para ayudar a prevenir las reacciones relacionadas
+con la infusión.
+CARFIZOL® se administra a una dosis inicial de 20 mg/m2 en el ciclo 1,
+en los días 1 y 2. Si se tolera, la dosis se debe aumentar a 27 mg/m2 el
+día 8 del ciclo 1 y posteriormente. El tratamiento podría continuar hasta
+la progresión de la enfermedad o la aparición de toxicidad inaceptable.
+(Ver Tabla 6).
+
+Régimen 20/56 mg/m2 dos veces por semana en infusión de 30 minutos
+En  el  caso  de  la  monoterapia  con  CARFIZOL®  empleando  el  régimen
+20/56 mg/m2, éste debe ser administrado por vía intravenosa en infu-
+sión de 30 minutos. En los ciclos 1 al 12, administrar CARFIZOL® en dos
+días consecutivos, cada semana durante tres semanas (días 1, 2, 8, 9, 15
+y 16), seguidas de un período de descanso de 12 días (días 17 a 28). Cada
+período de 28 días se considera como un ciclo de tratamiento. Desde el
+ciclo 13, las dosis de los días 8 y 9 de CARFIZOL® se omiten.
+Premedicar con dexametasona 8 mg por vía oral o intravenosa, de 30
+minutos a 4 horas antes de cada dosis de CARFIZOL® en el ciclo 1, luego
+según sea necesario para ayudar a prevenir las reacciones relacionadas
+con la infusión.
+CARFIZOL® se administra a una dosis inicial de 20 mg/m2 en el ciclo 1,
+en los días 1 y 2. Si se tolera, la dosis se debe aumentar a 56 mg/m2 el
+día 8 del ciclo 1. El tratamiento podría continuar hasta la progresión de
+
+Tabla 5: CARFIZOL® 20/70 mg/m2 una vez por semana (infusión de 30 minutos) en combinación con dexametasona y daratumumab
+por vía intravenosa
+
+Ciclo 1
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+CARFIZOL® (mg/m2)
+Dexametasona (mg)
+Daratumumab (mg/kg)
+
+Semana 1
+Día 2
+-
+20
+8
+
+Días 3-7
+-
+-
+-
+
+Semana 1
+Día 2
+-
+20
+-
+
+Días 3-7
+-
+-
+-
+
+Semana 1
+Día 2
+-
+20
+-
+
+Días 3-7
+-
+-
+-
+
+Semana 1
+Día 2
+-
+20
+-
+
+Días 3-7
+-
+-
+-
+
+Día 1
+20
+20
+8
+
+Día 1
+70
+20
+16
+
+Día 1
+70
+20
+16
+
+Día 1
+70
+20
+16
+
+Día 8
+70
+20
+16
+
+Día 8
+70
+20
+16
+
+Día 8
+70
+40
+-
+
+Día 8
+70
+40
+-
+
+Semana 2
+Día 9
+-
+20
+-
+
+Días 10-14
+-
+-
+-
+
+Día 15
+70
+20
+16
+Ciclo 2
+
+Semana 2
+Día 9
+-
+20
+-
+
+Días 10-14
+-
+-
+-
+
+Día 15
+70
+20
+16
+Ciclos 3-6
+
+Semana 3
+Día 16
+-
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Semana 3
+Día 16
+-
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Semana 2
+Día 9
+-
+-
+-
+
+Días 10-14
+-
+-
+-
+
+Semana 3
+Día 16
+-
+20
+-
+
+Días 17-21
+-
+-
+-
+
+Día 15
+70
+20
+16
+
+Ciclos 7 y en adelante
+
+Semana 2
+Día 9
+-
+-
+-
+
+Días 10-14
+-
+-
+-
+
+Semana 3
+Día 16
+-
+-
+-
+
+Días 17-21
+-
+-
+-
+
+Día 15
+70
+40
+-
+
+Día 22
+-
+20
+16
+
+Día 22
+-
+20
+16
+
+Día 22
+-
+40
+-
+
+Día 22
+-
+40
+-
+
+Semana 4
+Día 23
+-
+20
+-
+
+Días 24-28
+-
+-
+-
+
+Semana 4
+Día 23
+
+Días 24-28
+-
+-
+-
+
+20
+-
+
+Semana 4
+Día 23
+-
+-
+-
+
+Días 24-28
+-
+-
+-
+
+Semana 4
+Día 23
+-
+-
+-
+
+Días 24-28
+-
+-
+-
+
+*  Administrar 20 mg de Dexametasona por vía oral o intravenosa semanalmente después de la primera semana a los pacientes mayores de 75
+
+años de edad.
+
+Tabla 6. CARFIZOL® en monoterapia 20/27 mg/m2 dos veces por semana (infusión de 10 minutos)
+
+Ciclo 1
+
+Semana 1
+Día 2
+20
+
+Semana 1
+Día 2
+27
+
+Semana 1
+Día 2
+27
+
+Día 1
+20
+
+Día 1
+27
+
+Día 1
+27
+
+Días 3-7
+-
+
+Día 8
+27
+
+Semana 2
+Día 9
+27
+
+Días 10-14
+-
+
+Día 15
+27
+
+Semana 3
+Día 16
+27
+
+Días 17-21
+-
+
+Semana 4
+Días 22-28
+-
+
+Días 3-7
+-
+
+Día 8
+27
+
+Días 3-7
+-
+
+Día 8
+-
+
+Ciclos 2-12
+
+Semana 2
+Día 9
+27
+Ciclos 13 y en adelante
+
+Días 10-14
+-
+
+Día 15
+27
+
+Semana 2
+Día 9
+-
+
+Días 10-14
+-
+
+Día 15
+27
+
+Semana 3
+Día 16
+27
+
+Días 17-21
+-
+
+Semana 4
+Días 22-28
+-
+
+Semana 3
+Día 16
+27
+
+Días 17-21
+-
+
+Semana 4
+Días 22-28
+-
+
+CARFIZOL® (mg/m2)a
+
+CARFIZOL® (mg/m2)
+
+CARFIZOL® (mg/m2)
+
+a.  Se requiere premedicación con dexametasona por cada dosis de CARFIZOL® en el ciclo 1
+
+la enfermedad o la aparición de toxicidad inaceptable. (Ver Tabla 7).
+
+• Se  recomienda  a
+
+Medicación concomitante
+• Se  debe  considerar  la  profilaxis  antiviral  en  pacientes  tratados  con
+CARFIZOL® para disminuir el riesgo de reactivación del herpes zoster.
+los  pacientes  que  reciben  tratamiento  con
+CARFIZOL® en combinación con otras terapias medidas profilácticas
+antitrombóticas, de acuerdo con la evaluación de los riesgos subya-
+centes y el estado clínico de los pacientes. Para otros medicamentos
+concomitantes que puedan ser necesarios, como el uso de profilaxis
+con antiácidos, consultar los prospectos vigentes de lenalidomida y
+dexametasona.
+
+• Premedicar con la dosis recomendada de dexametasona en el caso de
+la monoterapia con CARFIZOL®, o la dosis recomendada de dexameta-
+sona en situación de terapia combinada. Administrar la dexametasona
+en forma oral o intravenosa al menos 30 minutos pero no más de 4
+horas previamente a todas las dosis de CARFIZOL® durante el ciclo 1
+para reducir la incidencia y la severidad de las reacciones vinculadas a
+la infusión. Reinstaurar la premedicación con dexametasona si estos
+síntomas ocurren en los ciclos subsiguientes.
+
+• Los pacientes tratados con CARFIIZOL en combinación con daratumu-
+mab y dexametasona deben recibir medicación previa a la perfusión
+para reducir el riesgo de reacciones relacionadas con la perfusión de
+daratumumab. Consulte el prospecto vigente de daratumumab para
+obtener información adicional sobre la medicación concomitante, in-
+cluida la medicación previa y posterior a la perfusión.
+
+Hidratación, control de líquidos y electrolitos
+Se requiere una hidratación adecuada antes de administrar la dosis en el
+ciclo 1, especialmente en pacientes con un riesgo elevado de síndrome
+
+de lisis tumoral o toxicidad renal. Todos los pacientes deben ser contro-
+lados  para  detectar  signos  de  sobrecarga  de  volumen  y  la  necesidad
+de líquidos se debe adaptar a las necesidades individuales de los pa-
+cientes. El volumen total de líquidos se debe ajustar según se indique
+clínicamente en pacientes con insuficiencia cardíaca previa o con riesgo
+de insuficiencia cardíaca.
+La hidratación recomendada incluye tanto líquidos orales (30 ml/kg/día
+durante 48 horas antes del día 1 del ciclo 1) y fluidos por vía intravenosa
+(250 ml a 500 ml de líquidos intravenosos apropiados antes de cada do-
+sis en el ciclo 1). Administre entre 250 ml y 500 ml de líquidos intraveno-
+sos adicionales, si fuera necesario, tras la administración de CARFIZOL®
+en el ciclo 1. Se debe continuar la hidratación oral y/o intravenosa, se-
+gún sea necesario, en los ciclos posteriores. Cuando se administra en
+combinación con daratumumab por vía intravenosa, la hidratación oral
+y/o intravenosa no es necesaria en los días en los que se administra la
+perfusión de daratumumab.
+Se deben controlar los niveles de potasio sérico mensualmente o con
+más frecuencia durante el tratamiento con CARFIZOL®, tal y como está
+indicado clínicamente, dependiendo de los niveles de potasio medidos
+antes del inicio del tratamiento, del tratamiento concomitante utilizado
+(por ejemplo, medicamentos conocidos que aumentan el riesgo de hi-
+popotasemia) y de las comorbilidades asociadas.
+
+Modificaciones de la dosis recomendada
+Se debe modificar la dosis de CARFIZOL® según la toxicidad. Las accio-
+nes recomendadas y las modificaciones de la dosis se presentan en la
+Tabla 8. Los niveles de reducción de la dosis se presentan en la tabla 9.
+Consultar  la  información  relacionada  a  la  lenalidomida,  al  daratumu-
+mab por vía endovenosa y a la dexametasona en sus respectivos pros-
+pectos aprobados y vigentes. (Ver Tabla 8).
+
+Tabla 7. CARFIZOL® en monoterapia 20/56 mg/m2 dos veces por semana (infusión de 30 minutos)
+
+Ciclo 1
+
+Semana 1
+
+Semana 2
+
+Semana 3
+
+Semana 4
+
+Día 2
+
+Días 3-7
+
+Día 8
+
+20
+
+-
+
+56
+
+Día 9
+
+56
+
+Días 10-14
+
+Día 15
+
+Día 16
+
+Días 17-21
+
+Días 22-28
+
+-
+
+56
+
+56
+
+-
+
+-
+
+Ciclos 2-12
+
+Semana 1
+
+Semana 2
+
+Semana 3
+
+Semana 4
+
+Día 2
+
+Días 3-7
+
+Día 8
+
+56
+
+-
+
+56
+
+Día 9
+
+56
+
+Días 10-14
+
+Día 15
+
+Día 16
+
+Días 17-21
+
+Días 22-28
+
+-
+
+56
+
+56
+
+-
+
+-
+
+Ciclos 13 y en adelante
+
+Semana 1
+
+Semana 2
+
+Semana 3
+
+Semana 4
+
+Día 2
+
+Días 3-7
+
+Día 8
+
+Día 9
+
+Días 10-14
+
+Día 15
+
+Día 16
+
+Días 17-21
+
+Días 22-28
+
+56
+
+-
+
+-
+
+-
+
+-
+
+56
+
+56
+
+-
+
+-
+
+Día 1
+
+20
+
+Día 1
+
+56
+
+Día 1
+
+56
+
+CARFIZOL® (mg/m2)a
+
+CARFIZOL® (mg/m2)
+
+CARFIZOL® (mg/m2)
+
+a.  Se requiere premedicación con dexametasona por cada dosis de CARFIZOL en el ciclo 1
+
+Tabla 8. Modificaciones de la dosis durante el tratamiento con CARFIZOL®
+
+Toxicidad hematológica
+
+Acción recomendada
+
+• Recuento absoluto de neutrófilos <0,5 x 109/l
+
+• Neutropenia febril
+Recuento  absoluto  de  neutrófilos  <0,5  x  109/l  y  una
+temperatura oral >38,5oC o dos lecturas consecutivas de
+>38oC durante 2 horas
+
+• Recuento plaquetario <10 x 109/l o signos de hemo-
+
+rragia con trombocitopenia
+
+• Suspender la dosis
+  - Si se recupera hasta ≥0,5 x 109/l, continuar al mismo nivel de dosis
+• Para las disminuciones posteriores a <0,5 x 109/l, seguir las mismas recomendaciones señaladas ante-
+
+riormente y considerar 1 reducción del nivel de la dosis al reiniciar CARFIZOL®a
+
+• Suspender la dosis
+  - Si el recuento absoluto de neutrófilos vuelve al valor basal y la fiebre se resuelve, reanudar con el
+
+mismo nivel de dosis
+
+• Suspender la dosis
+  - Si se recupera hasta ≥10 x 109/l y/o se controla la hemorragia, continuar al mismo nivel de dosis
+• Para las disminuciones posteriores a <10 x 109/l, seguir las mismas recomendaciones señaladas ante-
+
+riormente y considerar 1 reducción del nivel de la dosis al reiniciar CARFIZOL®a
+
+Toxicidad no hematológica (renal)
+
+Acción recomendada
+
+• Creatinina sérica equivalente o superior a 2 × basal; o
+• Aclaramiento  de  creatinina  <15  ml/min,  o  disminu-
+ción del aclaramiento de creatinina a ≤50% del nivel
+inicial, o necesidad de diálisis
+
+• Suspender la dosis y continuar controlando la función renal (creatinina sérica o aclaramiento de crea-
+
+tinina)
+
+  - Si fuera atribuible a CARFIZOL®, éste se debe retomar cuando la función renal se haya recuperado
+
+dentro de un 25% del valor inicial; considerar reanudar con la reducción de 1 nivel de dosisa
+
+  - Si no fuera atribuible a CARFIZOL®, éste se puede reanudar a criterio del médico tratante.
+• Para los pacientes sometidos a diálisis que reciben CARFIZOL®, la dosis se debe administrar después
+
+del procedimiento de diálisis
+
+Otra toxicidad no hematológica
+
+Acción recomendada
+
+• Todas las otras toxicidades no hematológicas de grado
+
+3 ó 4, graves o con riesgo de muerte
+
+• Suspender hasta que desaparezca o vuelva al valor inicial
+• Considerar reiniciar el siguiente tratamiento programado con 1 reducción del nivel de dosisa
+
+a  Ver la Tabla 9 para las reducciones del nivel de dosis
+
+Tabla 9. Reducciones del nivel de dosis de CARFIZOL®
+
+Régimen
+
+Dosis
+
+Primera
+reducción
+de dosis
+
+Segunda
+reducción
+de dosis
+
+Tercera
+reducción
+de dosis
+
+70 mg/m2 56 mg/m2 45 mg/m2 36 mg/m2
+
+27 mg/m2 20 mg/m2 15 mg/m2 a
+
+CARFIZOL®/ dexame-
+tasona, o
+CARFIZOL®/ daratu-
+mumab/
+dexametasona (una vez
+por semana)
+CARFIZOL®/lenalido-
+mida/ dexametasona, o
+CARFIZOL® monoterapia
+(20/27 mg/m2)
+(dos veces por semana)
+CARFIZOL®/ dexame-
+tasona, o
+CARFIZOL®/ daratumu-
+mab/ dexametasona, o
+ CARFIZOL® monoterapia
+(20/56 mg/m2)
+(dos veces por semana)
+Nota: los tiempos de infusión no se modifican con la reducción de dosis
+a.  Si persiste la toxicidad, discontinuar el tratamiento con CARFIZOL®.
+
+56 mg/m2 45 mg/m2 36 mg/m2 27 mg/m2 a
+
+-
+
+Poblaciones especiales
+
+Insuficiencia renal
+Los pacientes con insuficiencia renal moderada o grave fueron excluidos
+de los estudios clínicos de carfilzomib en combinación con lenalidomi-
+da. Se debe considerar una reducción adecuada de la dosis de inicio de
+lenalidomida  en  pacientes  con  insuficiencia  renal  previa,  de  acuerdo
+con las recomendaciones del prospecto vigente de lenalidomida.
+No  se  requiere  un  ajuste  de  la  dosis  inicial  de  CARFIZOL®  en  los  pa-
+cientes con insuficiencia renal previa leve, moderada o grave o en los
+pacientes en diálisis crónica. No se ha estudiado el aclaramiento de las
+concentraciones de carfilzomib en diálisis, por lo que el medicamento
+se debe administrar después del procedimiento de diálisis. En estudios
+clínicos, la incidencia de efectos adversos de insuficiencia renal aguda
+fue mayor en sujetos con un aclaramiento de creatinina basal menor,
+que entre sujetos con un aclaramiento de creatinina basal mayor.
+La función renal se debe controlar al inicio del tratamiento y luego por
+lo  menos  mensualmente  o  de  acuerdo  con  las  guías  aceptadas  de  la
+práctica  clínica,  especialmente  en  pacientes  con  menor  aclaramiento
+de creatinina basal. En función de la toxicidad, se deben realizar mo-
+dificaciones adecuadas de las dosis (ver Tabla 8). Hay datos limitados de
+eficacia y seguridad en pacientes con aclaramiento de creatinina basal
+< 30 ml/min.
+
+Insuficiencia hepática
+La farmacocinética de carfilzomib no se ha evaluado en pacientes con
+insuficiencia hepática grave. Teniendo en cuenta los datos farmacoci-
+néticos disponibles, no se recomienda un ajuste de la dosis inicial en
+pacientes con insuficiencia hepática leve o moderada. Sin embargo, se
+ha notificado una incidencia mayor de sujetos con anormalidades en la
+función hepática, acontecimientos adversos ≥ grado 3 o graves en pa-
+cientes con insuficiencia hepática previa leve o moderada, comparado
+con pacientes con una función hepática normal.
+Las enzimas hepáticas y la bilirrubina se deben controlar al inicio del
+tratamiento  y  mensualmente  durante  el  tratamiento  con  CARFIZOL®,
+independientemente de los valores basales; se deben realizar modifica-
+ciones apropiadas en las dosis, basadas en la toxicidad (ver Tabla 8). Se
+debe prestar una atención especial a pacientes con insuficiencia hepá-
+tica moderada y grave, en vista de los datos muy limitados de eficacia y
+seguridad en esta población.
+
+Población de edad avanzada
+En conjunto, la incidencia de algunos efectos adversos (incluida insufi-
+ciencia cardíaca) en estudios clínicos fue mayor en pacientes que tenían
+≥75 años de edad en comparación con pacientes que tenían <75 años.
+
+Población pediátrica
+No se han establecido la seguridad y la eficacia de carfilzomib en pacien-
+tes pediátricos. No se dispone de datos.
+
+Modo de administración
+CARFIZOL® se administra por vía intravenosa como perfusión durante
+10 o 30 minutos, dependiendo del régimen de dosificación correspon-
+diente. CARFIZOL® no se debe administrar en forma de bolo.
+El catéter de administración intravenosa se debe lavar con una solución
+normal de cloruro de sodio o solución para inyección de glucosa al 5%
+
+inmediatamente antes y después de la administración de CARFIZOL®.
+No  mezclar  CARFIZOL®  ni  administrarlo  como  perfusión  simultánea-
+mente con otros medicamentos.
+Antes de la administración de CARFIZOL®, consulte las instrucciones de
+reconstitución que se describen a continuación.
+
+Reconstitución y preparación para la administración intravenosa
+Los viales de CARFIZOL® no contienen conservantes antimicrobianos y
+están destinados a un solo uso. Se debe observar una técnica aséptica
+adecuada.
+La solución reconstituida contiene carfilzomib a una concentración de 2
+mg/ml. La cantidad de CARFIZOL® contenida en cada vial (60 mg de carfi-
+lzomib) puede superar la dosis requerida; tenga precaución en el cálculo
+de la cantidad a administrar a fin de prevenir la sobredosificación. Leer
+las instrucciones de preparación completas antes de la reconstitución.
+1.  Extraer el vial de la heladera inmediatamente antes de su uso.
+2. Calcular la dosis (mg/m2) y el número de viales de CARFIZOL® nece-
+sarios teniendo en cuenta el ASC basal del paciente. Los pacientes
+con un ASC superior a 2,2 m2 deben recibir una dosis basada en una
+superficie corporal de 2,2 m2. No es necesario efectuar ajustes de la
+dosis para cambios de peso de menos de o igual al 20%.
+
+3. Reconstituir de forma aséptica cada vial inyectando lentamente 29 ml
+de agua estéril para preparaciones inyectables a través del tapón, uti-
+lizando una aguja de calibre 21 G o de un calibre mayor (diámetro ex-
+terno de la aguja de 0,8 mm o menor), y dirigiendo la solución hacia
+la PARED INTERNA DEL VIAL para minimizar la formación de espuma.
+
+ 4. Girar y/o invertir el vial suave y lentamente durante aproximadamen-
+te un minuto, o hasta que se complete la disolución. NO AGITAR. Si se
+forma espuma, dejar que la solución se asiente en el vial hasta que
+disminuya la espuma (aproximadamente 5 minutos) y la solución sea
+transparente.
+
+5. Revisar visualmente para detectar partículas y alteraciones del color
+antes de la administración. El producto reconstituido debe ser una
+solución  transparente  e  incolora  y  no  debe  ser  administrado  si  se
+observa algún tipo de cambio de color o material particulado.
+
+6. Desechar cualquier porción no utilizada que quede en el vial. NO jun-
+tar porciones no utilizadas de otros viales. NO administrar más de una
+dosis por vial.
+
+7.  CARFIZOL®  se  puede  administrar  directamente  por  infusión  intra-
+venosa, u opcionalmente en una bolsa para vía intravenosa de 50 a
+100 ml que contenga solución para inyección de glucosa al 5%. No
+administre como una inyección o bolo intravenoso.
+
+8. Al administrarlo en una bolsa para vía intravenosa, utilice una aguja
+de calibre 21 G o de un calibre mayor (diámetro externo de aguja de
+0,8 mm o menor) para extraer la dosis calculada del vial, y diluir en
+la bolsa para vía intravenosa de 50 ml o 100 ml con solución para
+inyección de glucosa al 5 % (basado en la dosis total calculada y el
+tiempo de infusión).
+
+La estabilidad de CARFIZOL® reconstituido a diferentes temperaturas y
+condiciones de envase se muestra en la Tabla 10.
+
+Tabla 10. Estabilidad de CARFIZOL® reconstituido
+
+Condiciones de
+almacenamiento de
+CARFIZOL®
+reconstituido
+
+Refrigerado
+(2°C a 8°C)
+
+Estabilidada por envase
+
+Vial
+
+Jeringa
+
+Bolsa intrave-
+nosa (D5Wb)
+
+24 horas
+
+24 horas
+
+24 horas
+
+Temperatura ambiente
+(15°C a 30°C)
+a.  El  tiempo  total  entre  la  reconstitución  y  la  administración  no  deberá
+
+4 horas
+
+4 horas
+
+4 horas
+
+exceder las 24 horas.
+
+b.  Glucosa solución para inyección al 5%.
+
+CONTRAINDICACIONES
+
+CARFIZOL® está contraindicado en:
+• Pacientes con hipersensibilidad al principio activo o a alguno de los
+
+excipientes de este producto.
+• Mujeres en período de lactancia.
+Dado  que  CARFIZOL®  puede  administrarse  en  combinación  con  otros
+medicamentos, consultar los respectivos prospectos vigentes para con-
+traindicaciones adicionales.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+
+CARFIZOL® puede administrarse en combinación con otros medicamen-
+tos, por lo que se debe consultar los respectivos prospectos vigentes an-
+tes de iniciar el tratamiento con CARFIZOL®. Dado que lenalidomida se
+puede utilizar en combinación con CARFIZOL®, se debe prestar especial
+atención a los requisitos de lenalidomida sobre pruebas y prevención
+del embarazo.
+
+Trastornos cardíacos
+Tras la administración de carfilzomib, se han dado casos de empeoramien-
+to de la insuficiencia cardíaca o nuevos casos (por ejemplo, insuficiencia
+cardíaca congestiva, edema pulmonar, disminución de la fracción de eyec-
+ción),  miocardiopatías,  isquemias  miocárdicas  e  infartos  de  miocardio.
+Algunos  eventos  ocurrieron  en  pacientes  con  función  ventricular  basal
+normal. Se han producido fallecimientos por paro cardíaco en el período
+de un día tras la administración de carfilzomib y se han notificado casos de
+insuficiencia cardíaca e infarto de miocardio con desenlace mortal.
+Se  requiere  una  hidratación  adecuada  antes  de  la  dosis  del  ciclo  1;
+asimismo, se debe controlar a todos los pacientes para detectar signos
+de sobrecarga de volumen, especialmente en los pacientes con riesgo
+de insuficiencia cardíaca. El volumen total de líquidos se debe ajustar
+según se indique clínicamente en pacientes con insuficiencia cardíaca
+previa o con riesgo de insuficiencia cardíaca.
+Los  pacientes  deben  ser  controlados  en  busca  de  signos  o  síntomas
+de insuficiencia cardíaca o isquemia miocárdica. CARFIZOL® debe sus-
+penderse en caso de acontecimientos cardíacos de grado 3 ó 4 hasta la
+recuperación, y debe considerarse si es conveniente reiniciar CARFIZOL®
+con una reducción de 1 nivel de dosis en función de la evaluación del
+balance beneficio/riesgo.
+El  riesgo  de  insuficiencia  cardíaca  aumenta  en  los  pacientes  de  edad
+avanzada  (≥75  años).  El  riesgo  de  insuficiencia  cardíaca  también  au-
+menta en los pacientes de origen asiático.
+Se recomienda una evaluación minuciosa de los factores de riesgo car-
+diovascular antes de iniciar el tratamiento con CARFIZOL®.
+Los pacientes con insuficiencia cardíaca con mayor incapacidad funcio-
+nal, infarto de miocardio reciente (en los últimos 4 meses) y con angina
+o anomalías de la conducción no controladas con medicación pueden
+presentar un mayor riesgo de desarrollar complicaciones cardíacas; es-
+tos pacientes se deben someter a una evaluación cardiológica completa,
+antes de empezar el tratamiento con CARFIZOL®. Esta evaluación debe
+optimizar el estado del paciente, con atención particular a la presión ar-
+terial y la gestión de los líquidos. Posteriormente, los pacientes se deben
+tratar con precaución y permanecer bajo estrecho seguimiento.
+
+Cambios en el electrocardiograma
+Se han notificado casos de prolongación del intervalo QT en estudios
+clínicos con carfilzomib y posteriores a la comercialización, no pudiendo
+excluirse su efecto sobre el intervalo QT. Se han notificado casos de ta-
+quicardia ventricular en pacientes que reciben carfilzomib.
+
+Toxicidad pulmonar
+Pacientes que recibían carfilzomib presentaron síndrome de distrés res-
+piratorio agudo (SDRA), insuficiencia respiratoria aguda y neumopatía
+infiltrativa difusa aguda como neumonitis y enfermedad pulmonar in-
+tersticial. Algunos de estos acontecimientos han sido mortales.
+Se debe evaluar y suspender CARFIZOL® hasta que estos acontecimien-
+tos se hayan resuelto y considerar si reiniciar CARFIZOL® en función de la
+evaluación del balance beneficio/riesgo.
+
+Hipertensión pulmonar
+Se  ha  notificado  hipertensión  pulmonar  en  pacientes  tratados  con
+carfilzomib.  Algunos  de  estos  acontecimientos  han  sido  mortales.  Se
+debe  evaluar  según  corresponda  con  los  estudios  complementarios
+apropiados.
+Suspender CARFIZOL® en caso de hipertensión pulmonar hasta la reso-
+lución o la recuperación del valor inicial y considerar si se debe reiniciar
+CARFIZOL® en función de la evaluación del balance beneficio/riesgo.
+
+Disnea
+Frecuentemente se ha notificado disnea en pacientes tratados con car-
+
+filzomib. Evaluar la disnea para excluir condiciones cardiopulmonares
+incluyendo insuficiencia cardíaca y síndromes pulmonares.
+Suspender CARFIZOL® en caso de disnea de grado 3 y 4 hasta la resolu-
+ción o recuperación del valor inicial, y considerar si debe reiniciarse en
+función de la evaluación del beneficio/riesgo.
+
+Hipertensión
+Se  ha  observado  hipertensión,  incluyendo  crisis  hipertensiva  y  emer-
+gencia hipertensiva con carfilzomib. Algunos de estos acontecimientos
+han  sido  mortales.  Se  notificaron  casos  de  hipertensión  con  mayor
+frecuencia en pacientes que recibieron carfilzomib en combinación con
+daratumumab en estudios clínicos.
+Se recomienda controlar la hipertensión antes de iniciar el tratamiento
+con CARFIZOL® y durante éste. La presión arterial debe ser monitoreada
+regularmente. Todos los pacientes deben ser evaluados rutinariamente
+en caso de hipertensión y tratados según sea necesario. Si la hiperten-
+sión no se puede controlar, la dosis de CARFIZOL® se debe reducir. En el
+caso de crisis hipertensivas, suspender CARFIZOL® hasta la resolución o
+recuperación del valor inicial y considerar si debe reiniciarse la medica-
+ción en función de la evaluación del beneficio/riesgo.
+
+Insuficiencia renal aguda
+Se han notificado casos de insuficiencia renal aguda en pacientes que
+recibieron  carfilzomib.  Algunos  de  estos  acontecimientos  han  sido
+mortales. Se notificaron casos de insuficiencia renal aguda con mayor
+frecuencia  en  pacientes  con  mieloma  múltiple  avanzado  en  recaída  y
+refractario que recibieron carfilzomib en monoterapia. En estudios clí-
+nicos con carfilzomib, la incidencia de efectos adversos de insuficiencia
+renal  aguda  fue  mayor  en  sujetos  con  un  aclaramiento  de  creatinina
+basal menor, que entre sujetos con un aclaramiento de creatinina basal
+mayor. El aclaramiento de creatinina fue estable con el tiempo para la
+mayoría de los pacientes. Se debe controlar la función renal regularmen-
+te, por lo menos mensualmente o de acuerdo con las guías aceptadas de
+la práctica clínica, especialmente en pacientes con menor aclaramiento
+de creatinina basal. Se debe reducir o suspender la dosis de CARFIZOL®
+según corresponda.
+
+Síndrome de lisis tumoral
+Se  han  notificado  casos  de  síndrome  de  lisis  tumoral  (SLT),  incluidos
+casos con desenlace mortal, en pacientes que recibieron carfilzomib. Se
+debe considerar que los pacientes con mieloma múltiple y una elevada
+carga tumoral tienen un mayor riesgo de SLT.
+Es preciso asegurarse que los pacientes estén bien hidratados antes de
+la administración de CARFIZOL® en el ciclo 1 y en los ciclos posteriores,
+según necesidad.
+Se deben tener en cuenta los medicamentos que disminuyen el ácido
+úrico en pacientes con un riesgo elevado de SLT. Se deben controlar los
+signos de SLT durante el tratamiento, incluida la determinación regular
+de los electrolitos séricos, y tratarlo inmediatamente. Se debe suspen-
+der el tratamiento con CARFIZOL® hasta que se resuelva el SLT.
+
+Reacciones a la perfusión
+Se han notificado casos de reacciones a la perfusión, entre ellas reaccio-
+nes potencialmente mortales, en pacientes que recibieron carfilzomib.
+Los síntomas pueden incluir fiebre, escalofríos, artralgia, mialgia, con-
+gestión facial, edema facial, vómitos, debilidad, dificultad para respi-
+rar, hipotensión, bradicardia, síncope, opresión en el pecho o angina
+de pecho. Estas reacciones podrían aparecer inmediatamente o hasta
+24 horas después de la administración de CARFIZOL®. Se debe admi-
+nistrar dexametasona antes de CARFIZOL® para reducir la incidencia y
+la gravedad de las reacciones. Informe a los pacientes acerca del riesgo
+y los síntomas vinculados, y la necesidad de contactar inmediatamente
+a un médico si llegaran a ocurrir manifestaciones relacionadas con la
+infusión.
+
+Hemorragia y trombocitopenia
+Se han notificado casos de hemorragia (por ejemplo, hemorragia gas-
+trointestinal, pulmonar e intracraneal) en pacientes tratados con carfi-
+lzomib, asociados con frecuencia a trombocitopenia. Algunos de ellos
+han sido mortales.
+Carfilzomib produce trombocitopenia con nadir plaquetario observado
+entre el día 8 y el día 15 de cada ciclo de 28 días, con recuperación del
+recuento plaquetario basal al iniciar el nuevo ciclo.
+Se deben controlar con frecuencia los recuentos plaquetarios durante el
+tratamiento con CARFIZOL®. Se debe reducir o suspender la dosis según
+corresponda.
+
+Toxicidad hepática e insuficiencia hepática
+Se han notificado casos de insuficiencia hepática, incluyendo casos mor-
+tales, durante el tratamiento con carfilzomib. Carfilzomib puede causar
+elevaciones de las transaminasas séricas. Se debe reducir o suspender
+la dosis de CARFIZOL® según corresponda. Se deben controlar con re-
+
+gularidad las enzimas hepáticas y la bilirrubina al inicio del tratamiento
+y  mensualmente  durante  el  tratamiento,  independientemente  de  los
+valores iniciales.
+
+Acontecimientos tromboembólicos venosos
+Se han observado eventos tromboembólicos venosos, incluyendo trom-
+bosis venosa profunda y embolia pulmonar con desenlaces mortales en
+pacientes que recibieron carfilzomib.
+Se debe hacer un seguimiento estrecho en aquellos pacientes con factores
+de riesgo conocidos de tromboembolismo, incluidas trombosis previas.
+Se debe actuar para intentar reducir todos los factores de riesgo modifi-
+cables (por ejemplo, tabaquismo, hipertensión e hiperlipidemia). Se debe
+prestar atención a la administración concomitante de otros agentes que
+puedan incrementar el riesgo de trombosis (por ejemplo, agentes eritro-
+poyéticos o terapia hormonal sustitutiva). Se advierte a pacientes y médi-
+cos que presten especial atención a la aparición de signos y síntomas de
+tromboembolismo. Se debe instruir a los pacientes sobre cómo solicitar
+ayuda médica si desarrollan síntomas como dificultad respiratoria, dolor
+torácico, hemoptisis, dolor o hinchazón en piernas o brazos.
+Se  deben  considerar  medidas  profilácticas  antitrombóticas  en  base  a
+una evaluación individual del balance beneficio/riesgo. El régimen de
+profilaxis antitrómbótica debe basarse en la evaluación de los factores
+del riesgo que presente el paciente.
+Las  pacientes  que  utilicen  anticonceptivos  orales  o  métodos  hormo-
+nales de contracepción asociados con riesgo de trombosis deben con-
+siderar  un  método  alternativo  de  anticoncepción  efectiva  durante  el
+tratamiento con CARFIZOL® en combinación con dexametasona o con
+lenalidomida y dexametasona.
+
+Microangiopatía trombótica
+Se  han  notificado  casos  de  microangiopatía  trombótica,  incluyendo
+púrpura trombocitopénica trombótica y síndrome urémico hemolítico
+(PTT/SUH)  en  pacientes  que  recibieron  carfilzomib.  Algunos  de  estos
+acontecimientos  han  sido  mortales.  Se  deben  controlar  los  signos  y
+síntomas de PTT/SUH. Si se sospecha el diagnóstico, se debe suspender
+CARFIZOL® y evaluar a los pacientes con posible PTT/SUH. Si se excluye
+el diagnóstico de PTT/SUH, se puede reiniciar CARFIZOL®. Se desconoce
+la seguridad del reinicio del tratamiento con carfilzomib en pacientes
+que anteriormente padecieron PTT/SUH.
+
+Síndrome de encefalopatía posterior reversible
+Se han notificado casos de síndrome de encefalopatía posterior reversible
+(SEPR) en pacientes que recibían carfilzomib. El SEPR es un trastorno neu-
+rológico raro, que puede presentarse con convulsiones, cefaleas, letargia,
+estados  confusionales,  ceguera,  alteración  del  nivel  de  la  conciencia  y
+otros trastornos visuales y neurológicos, junto con hipertensión, y el diag-
+nóstico se confirma mediante imágenes neuroradiológicas.
+Se debe suspender CARFIZOL® y evaluar adecuadamente a los pacientes
+si se sospecha el SEPR. Se desconoce la seguridad del reinicio del trata-
+miento con carfilzomib en pacientes que anteriormente padecieron SEPR.
+
+Reactivación del virus de la hepatitis B (VHB)
+Se han notificado casos de reactivación del virus de la hepatitis B (VHB)
+en pacientes que recibieron carfilzomib.
+Se debe someter a todos los pacientes a un cribado para la detección
+del VHB antes de iniciar el tratamiento con  CARFIZOL®. En el caso de
+los pacientes con serología positiva para el VHB, se debe considerar la
+profilaxis antivírica. Se debe controlar a estos pacientes para detectar
+los signos clínicos y de laboratorio de la reactivación del VHB durante el
+tratamiento y tras la finalización de éste.
+Cuando sea necesario, se debe consultar con especialistas en el trata-
+miento de la infección por VHB.
+Se desconoce si es seguro reanudar el tratamiento con carfilzomib des-
+pués de controlar de manera adecuada la reactivación del VHB. Por lo
+tanto, la reanudación del tratamiento debe tratarse con expertos en el
+tratamiento del VHB.
+
+Leucoencefalopatía multifocal progresiva
+Se  han  notificado  casos  de  leucoencefalopatía  multifocal  progresiva
+(LMP)  en  pacientes  que  recibieron  carfilzomib  y  que  habían  recibido
+tratamiento inmunosupresor previamente o de forma concomitante.
+Como  parte  del  diagnóstico  diferencial  de  los  trastornos  del  SNC,  se
+debe  controlar  a  los  pacientes  que  reciben  carfilzomib  para  detectar
+cualquier signo y síntoma neurológico, cognitivo o conductual, ya sea
+nuevo o que haya empeorado, que pueda ser indicativo de LMP.
+Si se sospecha LMP, se debe suspender de forma temporal la adminis-
+tración del tratamiento hasta que un especialista descarte la LMP con
+la prueba diagnóstica que corresponda. Si se confirma la LMP, se debe
+discontinuar de manera definitiva el tratamiento con carfilzomib.
+
+Toxicidad embriofetal y anticoncepción
+Carfilzomib  puede  ocasionar  daño  fetal  si  es  administrado  a  mujeres
+
+embarazadas, en base a su mecanismo de acción y a las observaciones
+en animales. No hay estudios adecuados y bien controlados del uso de
+carfilzomib en mujeres embarazadas.
+Las pacientes en edad fértil (y/o sus parejas) deben utilizar métodos anti-
+conceptivos efectivos durante y al menos hasta 1 mes luego de finalizar
+el tratamiento. Los pacientes hombres deben utilizar métodos anticon-
+ceptivos efectivos durante y hasta 3 meses tras finalizar el tratamiento,
+si su pareja está embarazada o en edad fértil y no utiliza métodos anti-
+conceptivos efectivos.
+ CARFIZOL® puede reducir la eficacia de los anticonceptivos orales.
+
+Contenido en sodio
+Este medicamento contiene 0,3 mmol (7 mg) de sodio por mililitro de
+solución reconstituida, lo que debe ser tenido en cuenta en pacientes
+con dietas pobres en sodio.
+
+Contenido en ciclodextrina
+Este medicamento contiene 3.000 mg de ciclodextrina (sulfobutiléter
+beta ciclodextrina) en cada vial de 60 mg equivalente a 88 mg/kg para
+un adulto de 70 kg.
+
+Interacciones con otros medicamentos y otras formas de interacción
+Carfilzomib se metaboliza principalmente por la vía de la peptidasa y
+la epóxido hidrolasa y, en consecuencia, es poco probable que el perfil
+farmacocinético  de  carfilzomib  se  vea  afectado  por  la  administración
+concomitante de inhibidores e inductores del citocromo P450. Según
+estudios in vitro, carfilzomib no provocó la inducción de CYP3A4 en he-
+patocitos humanos cultivados. En un estudio clínico en el que se utilizó
+midazolam oral como sonda de la CYP3A, realizado con carfilzomib a
+una dosis de 27 mg/m2 (perfusión de 2-10 minutos), se demostró que la
+farmacocinética de midazolam no se vio afectada por la administración
+concomitante de carfilzomib, indicando que no se espera que carfilzo-
+mib inhiba el metabolismo del sustrato de CYP3A4/5 y no sea inductor
+de CYP3A4 en seres humanos. No se realizó ningún estudio clínico con
+dosis de 56 mg/m2.
+Si  bien  no  es  esperable  que  carfilzomib  influya  sobre  la  exposición  a
+otras  drogas,  se  desconoce  si  carfilzomib  induce  CYP1A2,  2C8,  2C9,
+2C19 y 2B6 en concentraciones terapéuticas. En consecuencia, se debe
+tener  precaución  cuando  carfilzomib  se  combina  con  medicamentos
+que  son  sustrato  de  estas  enzimas,  como  los  anticonceptivos  orales.
+Se deben tomar medidas eficaces para evitar el embarazo empleando
+un método alternativo para anticoncepción efectiva, en caso de que el
+paciente use anticonceptivos orales.
+Carfilzomib no inhibe CYP1A2, 2B6, 2C8, 2C9, 2C19 y 2D6 in vitro, por
+lo que no se espera que influya la exposición de medicamentos que son
+sustratos de estas enzimas como resultado de la inhibición.
+Carfilzomib  es  sustrato  de  la  glicoproteína  P  (P-gp)  pero  no  lo  es  del
+BCRP. No obstante, carfilzomib se administra por vía intravenosa y se
+metaboliza  ampliamente,  por  lo  que  es  poco  probable  que  su  perfil
+farmacocinético  se  vea  afectado  por  los  inhibidores  o  inductores  de
+la P-gp o BCRP. In vitro, en concentraciones (3 μM) más bajas que las
+esperadas a dosis terapéuticas, carfilzomib inhibe el transporte de flujo
+de la digoxina, un substrato de P-gp, en un 25%. Se debe observar con
+precaución cuando carfilzomib se combina con substratos de P-gp (por
+ejemplo digoxina, colchicina).
+Carfilzomib inhibe la OATP1B1 in vitro con una CI50 de 2,01μM, mien-
+tras  se  desconoce  si  carfilzomib  puede  o  no  inhibir  a  nivel  sistémico
+otros transportadores OATP1B3, OAT1, OAT3, OCT2 y BSEP. Carfilzomib
+no inhibe la UGT2B7 humana pero inhibe la UGT1A1 humana con un
+IC50 de 5,5 μM. No obstante, tomando en consideración la eliminación
+rápida de carfilzomib, que 5 minutos tras la finalización de la perfusión
+presenta una disminución rápida notable en la concentración sistémica,
+el riesgo de tener interacciones clínicamente relevantes con sustratos de
+OATP1B1 y UGT1A1 es probablemente bajo.
+
+Incompatibilidades
+En ausencia de estudios de compatibilidad, este medicamento no debe
+mezclarse con otros.
+CARFIZOL® en polvo para solución para perfusión no debe mezclarse
+con cloruro de sodio 9 mg/ml (0,9 %) solución para inyectable.
+
+Precauciones especiales de eliminación y otras manipulaciones
+Carfilzomib es un agente citotóxico. Por lo tanto, CARFIZOL® debe mani-
+pularse y prepararse con precaución. Se recomienda el uso de guantes
+y de otros equipos protectores. La eliminación del medicamento no uti-
+lizado y de todos los materiales que hayan estado en contacto con él se
+realizará de acuerdo con la normativa local.
+
+Carcinogénesis, mutagénesis, trastornos de la fertilidad y de la
+reproducción y otros datos preclínicos sobre seguridad
+No se han efectuado estudios de carcinogenicidad con carfilzomib.
+Carfilzomib fue clastogénico en la prueba in vitro de aberración cromo-
+
+sómica en linfocitos de sangre periférica. Carfilzomib no fue mutagé-
+nico en la prueba in vitro de mutación inversa en bacterias (Ames) y no
+fue clastogénico en el ensayo in vivo de micronúcleos en médula ósea
+de ratones.
+Los monos a los que se administró una única dosis en bolo por vía in-
+travenosa de carfilzomib a 3 mg/kg (que corresponde a 36 mg/m2 y es
+similar a la dosis recomendada en los humanos, de 27 mg/m2 según
+el  ASC)  presentaron  hipotensión,  aumento  de  la  frecuencia  cardíaca
+y un aumento de los niveles séricos de troponina T. La administración
+intravenosa repetida en bolo de carfilzomib a ≥ 2 mg/kg/dosis en ratas
+y 2 mg/kg/dosis en monos con el uso de pautas posológicas similares
+a  las  utilizadas  clínicamente,  produjeron  mortalidades  causadas  por
+toxicidades  en  los  sistemas  cardiovascular  (insuficiencia  cardíaca,
+fibrosis  cardíaca,  acumulación  de  líquido  pericárdico,  hemorragia/
+degeneración cardíaca), gastrointestinal (necrosis/hemorragia), renal
+(glomerulonefropatía, necrosis tubular, disfunción) y pulmonar (hemo-
+rragia/inflamación). La dosis de 2 mg/kg/dosis en ratas es aproximada-
+mente la mitad de la dosis recomendada en humanos, de 27 mg/m2,
+basada en el ASC. La dosis más alta no gravemente tóxica de 0,5 mg/kg
+en monos, dio lugar a una inflamación intersticial en el riñón junto con
+glomerulopatía leve y ligera inflamación del corazón. Estos hallazgos
+se notificaron a 6 mg/m2 que están por debajo de la dosis recomendada
+en humanos de 27 mg/m2.
+No  se  han  realizado  estudios  de  fertilidad  con  carfilzomib.  No  se  ob-
+servaron  efectos  sobre  los  tejidos  reproductivos  durante  los  estudios
+de toxicidad en ratas y monos a dosis repetidas durante 28 días o en
+estudios de toxicidad crónicos de 6 meses en ratas y 9 meses en monos.
+Carfilzomib  causó  toxicidad  embriofetal  (aumento  en  las  pérdidas
+pre-implantación, resorciones tempranas y pérdidas post-implantación,
+y disminución en el peso fetal) en conejos gestantes a dosis inferiores a
+las de los pacientes que recibieron la dosis recomendada. Carfilzomib
+administrado en ratas gestantes durante el período de organogénesis
+no fue teratogénico a dosis de hasta 2 mg/kg/día que es aproximada-
+mente  la  mitad  de  la  dosis  recomendada  de  27  mg/m2  en  humanos,
+basándose en el ASC.
+
+Mujeres en edad fértil/Anticoncepción en hombres y mujeres
+Las pacientes en edad fértil (y/o sus parejas) deben utilizar métodos an-
+ticonceptivos efectivos durante el tratamiento y hasta el mes posterior
+a finalizarlo.
+No se puede excluir que la eficacia de los anticonceptivos orales pueda
+verse reducida durante el tratamiento con carfilzomib. Además, debido
+a  un  mayor  riesgo  de  eventos  tromboembólicos  venosos  asociados
+a carfilzomib, las mujeres deben evitar el uso de anticonceptivos hor-
+monales asociados con riesgo de trombosis durante el tratamiento con
+CARFIZOL®. Si algún paciente actualmente está utilizando anticoncep-
+tivos orales o algún método de anticoncepción hormonal asociado con
+riesgo de trombosis, el paciente debe cambiar a un método alternativo
+de anticoncepción eficaz.
+Antes  de  iniciar  el  tratamiento  con  CARFIZOL®,  las  pacientes  mujeres
+con  potencial  reproductivo  deben  realizarse  pruebas  para  descartar
+embarazo.
+Los pacientes hombres deben utilizar métodos anticonceptivos efecti-
+vos durante el tratamiento y en los 3 meses posteriores a su finalización,
+si su pareja está embarazada o en edad fértil y no utiliza métodos anti-
+conceptivos efectivos.
+Sobre la base del mecanismo de acción, carfilzomib puede ejercer un
+efecto sobre la fertilidad ya sea masculina o femenina.
+
+Embarazo
+No hay datos relativos al uso de carfilzomib en mujeres embarazadas.
+Los  estudios  realizados  en  animales  han  mostrado  toxicidad  para  la
+reproducción.
+Teniendo en cuenta su mecanismo de acción y los hallazgos en anima-
+les, carfilzomib puede producir efectos perjudiciales en el feto si se ad-
+ministra a una mujer embarazada. No se debe usar CARFIZOL® durante
+el embarazo a menos que el beneficio potencial supere claramente a
+los riesgos potenciales para el feto. Si se utiliza CARFIZOL® durante el
+embarazo o si la paciente se queda embarazada mientras utiliza este
+medicamento, se le debe advertir de los riesgos potenciales para el feto.
+Lenalidomida es estructuralmente similar a talidomida. Talidomida es
+una  sustancia  activa  conocida  por  la  teratogénesis  en  humanos,  que
+causa  graves  defectos  potencialmente  mortales  en  recién  nacidos.  Si
+se usa lenalidomida durante el embarazo, es de esperar un efecto te-
+ratogénico de lenalidomida en humanos. Las condiciones del Programa
+de  Prevención  del  Embarazo  para  lenalidomida  se  deben  cumplir  sin
+excepciones  a  menos  que  existan  indicios  fiables  de  que  la  paciente
+no  sea  fértil.  Por  favor,  consulte  el  prospecto  aprobado  y  vigente  de
+lenalidomida.
+
+Lactancia
+Se desconoce si carfilzomib o sus metabolitos se excretan en la leche
+
+materna. Basándose en sus propiedades farmacológicas, no se puede
+excluir  el  riesgo  en  el  lactante.  Consecuentemente,  como  medida  de
+precaución, la lactancia está contraindicada durante y por lo menos 2
+días tras finalizar el tratamiento con CARFIZOL®.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de carfilzomib sobre la capacidad para conducir y utilizar
+máquinas es pequeña.
+Se ha observado fatiga, mareo, desvanecimientos, visión borrosa, som-
+nolencia y/o caída de la presión arterial en estudios clínicos. Se debe
+recomendar a los pacientes tratados con CARFIZOL® que no conduzcan
+o utilicen máquinas en caso de que padezcan cualquiera de estos sín-
+tomas.
+
+Poblaciones especiales
+
+Empleo en población pediátrica
+No se ha establecido la seguridad y eficacia de carfilzomib en pacientes
+pediátricos. No se dispone de datos.
+
+Empleo en pacientes de edad avanzada
+No se observaron diferencias en la efectividad del tratamiento con car-
+filzomib entre los pacientes mayores y los más jóvenes. En conjunto, la
+incidencia de algunos efectos adversos (incluida insuficiencia cardíaca)
+en  estudios  clínicos  fue  mayor  en  pacientes  que  tenían  ≥75  años  de
+edad en comparación con pacientes que tenían <75 años.
+
+Empleo en insuficiencia renal
+No  se  requiere  un  ajuste  de  la  dosis  inicial  de  CARFIZOL®  en  los  pa-
+cientes con insuficiencia renal previa leve, moderada o grave o en los
+pacientes en diálisis crónica. No se ha estudiado el aclaramiento de las
+concentraciones de carfilzomib en diálisis, por lo que el medicamento
+se debe administrar después del procedimiento de diálisis. En estudios
+clínicos, la incidencia de efectos adversos de insuficiencia renal aguda
+fue mayor en sujetos con un aclaramiento de creatinina basal menor,
+que entre sujetos con un aclaramiento de creatinina basal mayor.
+La función renal se debe controlar al inicio del tratamiento y luego por lo
+menos mensualmente o de acuerdo con las guías aceptadas de la prácti-
+ca clínica, especialmente en pacientes con menor aclaramiento de crea-
+tinina basal. En función de la toxicidad, se deben realizar modificaciones
+adecuadas de las dosis (ver Tabla 8). Hay datos limitados de eficacia y se-
+guridad en pacientes con aclaramiento de creatinina basal < 30 ml/min.
+
+Empleo en insuficiencia hepática
+Para los pacientes con disfunción hepática leve (bilirrubina total entre
+1 y 1,5 × LSN y cualquier valor de AST [aspartato amino transferasa] o
+bilirrubina total ≤ LSN y AST > LSN) o moderada (bilirrubina total > 1,5
+a 3 × LSN y cualquier valor de AST), reducir la dosis de CARFIZOL® en
+un 25 %.
+Las enzimas hepáticas y la bilirrubina se deben controlar al inicio del
+tratamiento  y  mensualmente  durante  el  tratamiento  con  CARFIZOL®,
+independientemente de los valores basales; se deben realizar modifica-
+ciones apropiadas en las dosis, basadas en la toxicidad (ver Tabla 8). Se
+debe prestar una atención especial a pacientes con insuficiencia hepá-
+tica moderada y grave, en vista de los datos muy limitados de eficacia y
+seguridad en esta población.
+
+REACCIONES ADVERSAS
+
+Las  reacciones  adversas  graves  que  se  pueden  producir  durante  el
+tratamiento con CARFIZOL® son: insuficiencia cardiaca, infarto de mio-
+cardio,  paro  cardiaco,  isquemia  de  miocardio,  enfermedad  pulmonar
+intersticial,  neumonitis,  síndrome  de  sufrimiento  respiratorio  agudo,
+insuficiencia  respiratoria  aguda,  hipertensión  pulmonar,  disnea,  hi-
+pertensión  incluyendo  crisis  hipertensivas,  insuficiencia  renal  aguda,
+síndrome de lisis tumoral, reacciones a la perfusión, hemorragia gas-
+trointestinal, hemorragia intracraneal, hemorragia pulmonar, trombo-
+citopenia, insuficiencia hepática, reactivación del virus de la hepatitis B,
+SEPR, microangiopatía trombótica y PTT/SUH. En estudios clínicos con
+carfilzomib, la toxicidad cardíaca y la disnea generalmente ocurrieron
+en una fase temprana en el transcurso del tratamiento. Las reacciones
+adversas más frecuentes (que aparecieron en >20% de los sujetos) fue-
+ron: anemia, fatiga, trombocitopenia, náuseas, diarrea, pirexia, disnea,
+infecciones del tracto respiratorio, tos y neutropenia. Puede haber una
+potencial  relación  entre  la  dosis  y  las  siguientes  reacciones  adversas:
+insuficiencia cardíaca, disnea, hipertensión e hipertensión pulmonar.
+En un estudio en el que se comparó la administración de carfilzomib en
+combinación con daratumumab y dexametasona frente al tratamiento
+en combinación con dexametasona, los casos de fallecimiento por acon-
+tecimientos adversos ocurridos en los 30 días siguientes a la adminis-
+tración de la última dosis del tratamiento del estudio representaron un
+
+10% y un 5% respectivamente. La causa de muerte más común entre los
+pacientes fueron las infecciones. El riesgo de presentar acontecimientos
+adversos con desenlace mortal durante el tratamiento fue mayor entre
+los sujetos de ≥ 65 años. Asimismo, se han notificado acontecimientos
+adversos graves en un 56% y un 46% de los pacientes respectivamente.
+Los acontecimientos adversos graves más frecuentes notificados fueron
+anemia, diarrea, pirexia, neumonía, gripe, sepsis y bronquitis
+A continuación se enumeran las reacciones adversas aparecidas durante
+el  tratamiento  con  carfilzomib,  agrupadas  según  el  sistema  de  clasi-
+ficación de órganos y por frecuencia. Las frecuencias se definen de la
+siguiente forma: frecuentes (mayor del 10%); ocasionales (1% al 10%);
+raras (menor del 1%). Las reacciones adversas se presentan en orden de-
+creciente de gravedad dentro de cada intervalo de frecuencia.
+
+Infecciones e infestaciones. Frecuentes: neumonía, infección del trac-
+to respiratorio. Ocasionales: sepsis, infección pulmonar, gripe, herpes
+zoster*, infección del tracto urinario, bronquitis, gastroenteritis, infec-
+ción viral, nasofaringitis, rinitis. Raras: Colitis por Clostridium difficile,
+infección por citomegalovirus, reactivación del virus de la hepatitis B.
+*La frecuencia se calcula de acuerdo a los datos de los estudios clínicos
+en los cuales muchos pacientes utilizaron profilaxis.
+Trastornos  del  sistema  inmunológico.  Raras:  hipersensibilidad  al  me-
+dicamento.
+Trastornos de la sangre y del sistema linfático. Frecuentes: trombocito-
+penia, neutropenia, anemia, linfopenia, leucopenia. Ocasionales: neu-
+tropenia febril. Raras: SUH, PTT, microangiopatía trombótica.
+Trastornos del metabolismo y de la nutrición. Frecuentes: hipopotase-
+mia, apetito disminuido. Ocasionales: deshidratación, hiperpotasemia,
+hipomagnesemia,  hiponatremia,  hipercalcemia,  hipocalcemia,  hipo-
+fosfatemia,  hiperuricemia,  hipoalbuminemia,  hiperglucemia.  Raras:
+síndrome de lisis tumoral.
+Trastornos psiquiátricos. Frecuentes: insomnio. Ocasionales: ansiedad,
+estado confusional.
+Trastornos del sistema nervioso. Frecuentes: mareos, neuropatía perifé-
+rica*, cefalea. Ocasionales: parestesia, hipoestesia. Raras: hemorragia
+intracraneal, accidente cerebrovascular, SEPR.
+*Las  neuropatías  periféricas  incluyen  neuropatía  periférica,  neuropatía
+periférica sensorial y neuropatía periférica motora.
+Trastornos oculares. Ocasionales: cataratas, visión borrosa.
+Trastornos del oído y del laberinto. Ocasionales: acúfenos.
+Trastornos  cardíacos.  Ocasionales:  insuficiencia  cardíaca,  infarto  de
+miocardio,  fibrilación  atrial,  taquicardia,  fracción  de  eyección  dismi-
+nuida,  palpitaciones.  Raras:  paro  cardíaco,  cardiomiopatía,  isquemia
+miocárdica, pericarditis, derrame pericárdico, taquicardia ventricular.
+Trastornos vasculares. Frecuentes: hipertensión. Ocasionales: trombo-
+sis venosa profunda, hipotensión, rubefacción. Raras: crisis hipertensi-
+va, hemorragia, emergencia hipertensiva.
+Trastornos respiratorios, torácicos y mediastínicos. Frecuentes: disnea,
+tos. Ocasionales: embolia pulmonar, edema pulmonar, epistaxis, dolor
+orofaríngeo, disfonía, sibilancias, hipertensión pulmonar. Raras: SDRA,
+insuficiencia  respiratoria  aguda,  hemorragia  pulmonar,  enfermedad
+pulmonar intersticial, neumonitis.
+Trastornos  gastrointestinales.  Frecuentes:  vómitos,  diarrea,  estreñi-
+miento, dolor abdominal, náuseas. Ocasionales: hemorragia gastroin-
+testinal,  dispepsia,  dolor  dental.  Raras:  perforación  gastrointestinal,
+pancreatitis aguda.
+Trastornos hepatobiliares. Ocasionales: aumento de la alanina amino-
+transferasa, aumento de la aspartato aminotransferasa, gamma-gluta-
+miltransferasa incrementada, hiperbilirrubinemia. Raras: insuficiencia
+hepática, colestasis.
+Trastornos de la piel y del tejido subcutáneo. Ocasionales: erupción cu-
+tánea, prurito, eritema, hiperhidrosis. Raras: angioedema.
+Trastornos  musculoesqueléticos  y  del  tejido  conjuntivo.  Frecuentes:
+dolor de espalda, artralgia, dolor en una extremidad, espasmos mus-
+culares. Ocasionales: dolor musculoesquelético, dolor torácico muscu-
+loesquelético, dolor óseo, mialgia, debilidad muscular.
+Trastornos renales y urinarios. Frecuentes: creatinina elevada en sangre.
+Ocasionales:  lesión  renal  aguda,  insuficiencia  renal,  alteración  renal,
+disminución del aclaramiento renal de creatinina.
+Trastornos generales y alteraciones en el lugar de administración. Fre-
+cuentes: pirexia, edema periférico, astenia, fatiga, escalofríos. Ocasio-
+nales: dolor torácico, dolor, reacción en la zona de perfusión, enferme-
+dad de tipo gripal, malestar general. Raras: insuficiencia multiorgánica.
+Exploraciones complementarias. Ocasionales: proteína C reactiva eleva-
+da, ácido úrico elevado en sangre.
+Lesiones, intoxicaciones y complicaciones de procedimientos terapéuti-
+cos. Ocasionales: reacción asociada a una perfusión.
+
+Descripción de reacciones adversas seleccionadas
+Insuficiencia cardíaca, infarto de miocardio e isquemia miocárdica
+En los estudios clínicos, la insuficiencia cardíaca (notificada en aproxi-
+madamente el 5% de los sujetos – aproximadamente el 3% de los su-
+
+jetos con eventos de grado ≥3), el infarto de miocardio (notificado en
+aproximadamente el 1% de los sujetos – aproximadamente 1% de los
+sujetos con eventos de grado ≥3) y la isquemia miocárdica (notificado
+en < 1% de los sujetos - <1% de los sujetos con eventos de grado ≥3)
+se produjeron habitualmente en una fase temprana del tratamiento con
+carfilzomib (<5 ciclos).
+
+Disnea
+Se notificó disnea en aproximadamente el 24% de los sujetos de los
+estudios clínicos con carfilzomib. La mayoría de las reacciones adver-
+sas de disnea no fueron graves (<5% de los sujetos experimentaron
+eventos de grado ≥3), se resolvieron, en raras ocasiones produjeron
+la  interrupción  del  tratamiento  y  aparecieron  en  una  fase  temprana
+del estudio (<3 ciclos).
+
+Hipertensión incluyendo crisis hipertensivas
+Han  ocurrido  casos  de  crisis  hipertensivas  (urgencia  hipertensiva  o
+emergencia hipertensiva) después de la administración de carfilzomib.
+Algunos de estos acontecimientos han sido mortales. En  los estudios
+clínicos,  los  acontecimientos  adversos  de  hipertensión  ocurrieron  en
+aproximadamente el 21% de los sujetos y el 8% de ellos experimentaron
+acontecimientos de hipertensión de grado ≥3, pero las crisis hiperten-
+sivas ocurrieron en <0,5% de los pacientes. La incidencia de aconteci-
+mientos adversos de hipertensión fue similar entre aquellos que tenían
+o no antecedentes de hipertensión previa.
+
+Trombocitopenia
+Se ha notificado trombocitopenia en aproximadamente el 33% de los
+sujetos de los estudios clínicos con carfilzomib, y aproximadamente el
+20% de los sujetos experimentaron acontecimientos de grado ≥3. Car-
+filzomib causa trombocitopenia mediante la inhibición de la gemación
+plaquetaria de los megacariocitos, lo que produce una trombocitopenia
+cíclica clásica con nadir plaquetario aproximadamente el día 8 ó 15 de
+cada ciclo de 28 días y normalmente está asociado con una recuperación
+hasta el valor basal al iniciar el siguiente ciclo.
+
+Acontecimientos tromboembólicos venosos
+En pacientes que han recibido carfilzomib se han notificado casos  de
+acontecimientos  tromboembólicos  venosos,
+incluyendo  trombosis
+venosa profunda y embolismo pulmonar con desenlace mortal. La inci-
+dencia global de acontecimientos tromboembólicos venosos fue mayor
+en  los  grupos  tratados  con  carfilzomib  en  estudios  clínicos  pivotales,
+incluyendo eventos de grado ≥ 3.
+
+Insuficiencia hepática
+Se  han  notificado  casos  de  insuficiencia  hepática,  incluyendo  casos
+mortales, en <1% de los sujetos de los estudios clínicos con carfilzomib.
+
+Neuropatía periférica
+En  un  estudio  abierto,  multicéntrico  y  aleatorizado,  en  pacientes  que
+recibieron 20/56 mg/m2
+de carfilzomib como perfusión durante 30 minutos en combinación con
+dexametasona frente a bortezomib más dexametasona, se han notifica-
+do acontecimientos de neuropatía periférica de grado 2 y superior en
+un 7% de los pacientes con mieloma múltiple en recaída en el grupo
+tratado con carfilzomib, comparado con un 35% en el grupo tratado con
+bortezomib, en el momento del análisis de sobrevida global previsto. En
+otro estudio, se han notificado casos de grado 2 y superior de neuropatía
+periférica en el 10,1% de los pacientes con mieloma múltiple en recaída
+en el grupo de carfilzomib/dexametasona(daratumumab en compara-
+ción con el 3,9% del grupo de carfilzomib/dexametasona.
+
+Reacciones a la perfusión
+En estudios clínicos, el riesgo de reacción a la perfusión fue mayor cuan-
+do se administró carfilzomib en combinación con daratumumab.
+Infecciones del tracto respiratorio
+En estudios clínicos en combinación con daratumumab, las infecciones
+del tracto respiratorio se notificaron como reacciones adversas graves,
+siendo eventos mortales en el 1,3% de los pacientes en el grupo de car-
+filzomib/dexametasona/daratumumab.
+
+Neoplasias primarias secundarias
+En estudios clínicos en combinación con daratumumab y dexametaso-
+na,  se  notificaron  neoplasias  primarias  secundarias  en  ambos  grupos
+de tratamiento (1,9% en el grupo carfilzomib/dexametasona/daratumu-
+mab 1,3% en el grupo de carfilzomib/dexametasona).
+
+Infecciones oportunistas
+En estudios clínicos en combinación con daratumumab y dexametaso-
+na, se notificaron infecciones oportunistas en ambos grupos de trata-
+miento (9,4% en el grupo de carfilzomib/dexametasona/daratumumab
+y 3,9% en el grupo de carfilzomib/dexametasona). Entre las infecciones
+
+oportunistas que experimentaron ≥ 1% de los sujetos del grupo de car-
+filzomib/dexametasona/daratumumab se encuentran el herpes zóster,
+la candidiasis oral, el herpes oral y el herpes simple.
+Reactivación de la hepatitis B
+En estudios clínicos, la incidencia de reactivación de la hepatitis B fue de
+un 0,6% en el grupo de carfilzomib/dexametasona/daratumumab y de
+un 0% en el grupo de carfilzomib/dexametasona.
+
+Otras poblaciones especiales
+Población de edad avanzada (≥75 años)
+En general, en los estudios clínicos con carfilzomib, la incidencia de de-
+terminados acontecimientos adversos (incluidas arritmias cardíacas, in-
+suficiencia cardíaca, disnea, leucopenia y trombocitopenia) fue superior
+en pacientes de ≥75 años que en pacientes de <75 años.
+En  estudios  clínicos  en  combinación  con  daratumumab  y  dexame-
+tasona,  en  el  grupo  de  carfilzomib/dexametasona/daratumumab  se
+presentaron  acontecimientos  adversos  con  desenlace  mortal  durante
+el tratamiento en el 6% de los pacientes de < 65 años y en el 14% de
+los pacientes de ≥ 65 años; en el grupo de carfilzomib/dexametasona,
+estos acontecimientos se presentaron en el 8% de los pacientes de < 65
+años y en el 3% de los pacientes de ≥ 65 años.
+
+Experiencia posterior a la comercialización
+Se han identificado reacciones adversas durante el uso de carfilzomib
+posterior a la aprobación. Debido a que dichas reacciones se informaron
+en forma voluntaria de una población de tamaño incierto, no es siempre
+posible estimar confiablemente su frecuencia o establecer una relación
+causal con la exposición al fármaco: síndrome urémico hemolítico,
+reactivación  del  virus  de  la  hepatitis  B,  perforación  gastrointestinal,
+pericarditis, e infección por citomegalovirus, que incluye coriorretinitis,
+neumonitis, enterocolitis, viremia, y obstrucción intestinal.
+
+Notificación de sospecha de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medica-
+mento tras su autorización. Ello permite una supervisión continua de la
+relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reac-
+ciones adversas a través del Sistema Nacional de Farmacovigilancia al
+siguiente  link:  https://vigiflow-eforms.who-umc.org/ar/medicamentos
+y/o  al  Departamento  de  Farmacovigilancia  de  Gador  S.A.  vía  e-mail  a
+farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+SOBREDOSIFICACIÓN
+
+Actualmente no se dispone de suficiente información para concluir so-
+bre la seguridad de dosis más elevadas que las evaluadas en los estudios
+clínicos de carfilzomib. Se ha notificado la aparición repentina de esca-
+lofríos,  hipotensión,  insuficiencia  renal,  trombocitopenia  y  linfopenia
+después de una dosis de 200 mg de carfilzomib administrados por error.
+No  existe  ningún  antídoto  específico  conocido  para  la  sobredosis  de
+carfilzomib. En caso de sobredosis, se debe controlar al paciente para
+detectar específicamente las reacciones adversas señaladas en el apar-
+tado correspondiente.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en heladera entre 2oC y 8oC, en su envase original para pro-
+tegerlo de la luz.
+Una vez reconstituida, la solución se mantiene estable 24 horas en he-
+ladera (entre 2oC y 8oC) o 4 horas a temperatura ambiente (15°C-30°C).
+
+PRESENTACIÓN
+
+CARFIZOL® se presenta en envases conteniendo un frasco ampolla con-
+teniendo polvo liofilizado para inyectable de un solo uso. Descartar la
+porción no utilizada, solo para uso intravenoso.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”.
+
+Este  medicamento  está  sujeto  a  seguimiento  adicional,  lo  que
+agilizará la detección de nueva información sobre su seguridad.
+
+Información para el paciente
+
+Composición
+Cada Frasco ampolla de CARFIZOL® contiene:
+Carfilzomib ......................................................................................60 mg
+Excipientes:
+Sulfobutiléter beta ciclodextrina .............................................3000 mg
+Ácido cítrico anhidro .................................................................... 57.7 mg
+Hidróxido de sodio ...............................................................c.s.p. pH 3.5
+
+CARFIZOL® está sujeto a un plan de seguimiento adicional, que inclu-
+ye medidas tendientes a agilizar la detección y la difusión de nueva
+información sobre su seguridad. Usted puede contribuir comunican-
+do los efectos adversos que pudiera tener. En este prospecto encon-
+trará los datos para la comunicación de cualquier inconveniente que
+tuviera con el producto.
+Lea todo el prospecto detenidamente antes de empezar a tomar este
+medicamento, y cada vez que se lo vuelvan a recetar, pues puede ha-
+ber nueva información. Esta información no reemplaza a hablar con
+su médico sobre su estado de salud o su tratamiento.
+• Conserve este prospecto, ya que puede tener que volver a leerlo.
+• Si tiene alguna duda, CONSULTE A SU MÉDICO.
+• Este medicamento se le ha recetado solamente a usted, y no debe
+dárselo a otras personas aunque tengan los mismos síntomas que
+usted, ya que puede perjudicarles.
+
+• Si experimenta efectos no deseados, CONSULTE  A  SU  MÉDICO,
+incluso si se trata de posibles efectos adversos que no aparecen en
+este prospecto.
+
+Contenido del prospecto
+• ¿Qué es CARFIZOL® y para qué se utiliza?
+• ¿Qué necesita saber antes de empezar a utilizar CARFIZOL®?
+• ¿Cómo utilizar CARFIZOL®?
+• Posibles efectos adversos de CARFIZOL®
+• Recordatorio
+• Conservación de CARFIZOL®
+• Contenido del envase e información adicional
+
+• ¿Qué es CARFIZOL® y para qué se utiliza?
+CARFIZOL® es un medicamento que contiene el principio activo car-
+filzomib.
+Carfilzomib  funciona  bloqueando  un  sistema  dentro  de  las  células
+que descompone las proteínas cuando están dañadas o ya no son ne-
+cesarias, llamado “proteosoma”. Evitando la descomposición de las
+proteínas en las células cancerosas (que con mayor probabilidad con-
+tienen  una  cantidad  superior  de  proteínas  anormales),  CARFIZOL®
+causa la muerte de las células malignas.
+
+CARFIZOL® es utilizado para tratar a pacientes adultos con mieloma
+múltiple  que  han  tenido  como  mínimo  un  tratamiento  previo  para
+esta  enfermedad.  El  mieloma  múltiple  es  un  cáncer  de  las  células
+plasmáticas (un tipo de glóbulos blancos, encargadas de fabricar las
+inmunoglobulinas o proteínas de “defensa”).
+CARFIZOL®  puede  ser  administrado  a  usted  solo  o  combinado  con
+otros medicamentos empleados para tratar el mieloma múltiple.
+
+• ¿Qué necesita saber antes de empezar a utilizar CARFIZOL®?
+Su médico le examinará y revisará su historia clínica completa. Será
+sometido a un seguimiento estricto durante el tratamiento.
+Antes de iniciar el tratamiento con CARFIZOL® y durante el tratamien-
+to se le efectuarán análisis de sangre. De este modo, se podrá verificar
+que dispone de suficientes glóbulos sanguíneos y que su hígado y
+riñones funcionan correctamente.
+Su médico o enfermero controlarán que usted reciba suficiente can-
+tidad de líquidos.
+Debe  leer  el  prospecto  de  todos  los  medicamentos  que  utiliza  en
+combinación  con  CARFIZOL®,  de  modo  que  pueda  comprender  la
+información relacionada con estos medicamentos.
+
+No debe usar CARFIZOL®:
+- Si es alérgico a carfilzomib o a alguno de los demás componentes
+
+de este medicamento.
+- Si está amamantando.
+
+en el modo en que camina o problemas con el equilibrio, entume-
+cimiento persistente, disminución de la sensibilidad o pérdida de la
+sensibilidad, pérdida de memoria o confusión. Todos estos pueden
+ser síntomas de una enfermedad cerebral potencialmente mortal co-
+nocida como leucoencefalopatía multifocal progresiva (LMP). Si tenía
+estos síntomas antes del tratamiento con carfilzomib, informe a su
+médico sobre cualquier cambio que experimente en estos síntomas.
+
+Uso de CARFIZOL® con otros medicamentos
+Informe  a  su  médico  si  está  tomado,  ha  tomado  recientemente  o
+pudiera  tener  que  tomar  cualquier  otro  medicamento.  Entre  ellos,
+cualquier medicamento obtenido sin receta, como vitaminas o me-
+dicamentos a base de plantas.
+Informe a su médico o enfermero si está tomando medicamentos uti-
+lizados para prevenir el embarazo, tales como anticonceptivos orales
+u otros anticonceptivos hormonales, debido a que estos podrían no
+ser adecuados para su uso con CARFIZOL®.
+
+Advertencias y precauciones
+Consulte a su médico o enfermero antes de empezar a utilizar
+CARFIZOL® si usted presenta alguna de las condiciones listadas
+a continuación. Es posible que se deba someter a pruebas adiciona-
+les para comprobar que su corazón, sus riñones y su hígado funcionan
+correctamente.
+•  Problemas  cardíacos,  incluidos  antecedentes  de  dolor  de  pecho
+(angina de pecho), ataque cardíaco, ritmo cardíaco irregular, pre-
+sión arterial alta o si alguna vez ha tomado un medicamento para
+el corazón.
+
+• Problemas pulmonares, incluidos antecedentes de dificultad para
+
+respirar en reposo o al realizar actividades (disnea).
+
+• Problemas  renales,  incluida  insuficiencia  renal,  o  si  ha  recibido
+
+diálisis alguna vez.
+
+• Problemas hepáticos, incluidos antecedentes de hepatitis, hígado
+graso, o si alguna vez le han comunicado que su hígado no funciona
+correctamente.
+
+• Sangrados  inusuales,  incluida  la  formación  fácil  de  moretones  o
+hemorragias debidos a una lesión, como un corte que tarda más
+de  lo  esperado  en  parar  de  sangrar;  o  sangrados  internos  como
+toser sangre, vomitar sangre, heces negras, o heces con sangre roja
+brillante; o hemorragias cerebrales que inducen entumecimiento
+repentino o parálisis en un lado de la cara, piernas o brazos, dolor
+de cabeza intenso y repentino o dificultad en la visión o en el habla
+o para tragar. Esto puede indicar un recuento plaquetario bajo (cé-
+lulas que ayudan en la coagulación de la sangre)
+• Antecedentes de coágulos sanguíneos en sus venas
+• Dolor en piernas o brazos o hinchazón (que podrían ser síntomas
+de presencia de coágulos sanguíneos en las venas profundas de las
+piernas o los brazos), dolor en el pecho o dificultad respiratoria (que
+podrían  ser  síntomas  de  presencia  de  coágulos  de  sangre  en  los
+pulmones)
+
+• Cualquier otra condición médica importante por la cual fue hospita-
+
+lizado o recibió alguna medicación.
+
+Síntomas a los que debe estar atento
+Debe  estar  atento  a  determinados  síntomas  mientras
+tome
+CARFIZOL® para reducir el riesgo de problemas.  CARFIZOL® puede
+empeorar algunos síntomas o producir efectos adversos graves que
+incluso podrían poner en riesgo su vida, como problemas cardíacos,
+pulmonares,  renales,  síndrome  de  lisis  tumoral  (una  enfermedad
+potencialmente mortal que ocurre cuando las células cancerosas se
+rompen y liberan su contenido en la sangre), reacciones a la perfu-
+sión,  formación  de  hematomas  o  hemorragias  inusuales  (incluidas
+hemorragias  internas),  coágulos  sanguíneos  en  sus  venas,  proble-
+mas hepáticos, determinados trastornos sanguíneos o un síndrome
+neurológico  conocido  como  “Síndrome  de  Encefalopatía  Posterior
+Reversible”. Lea detenidamente la sección
+
+Posibles efectos adversos de CARFIZOL®
+Informe a su médico si alguna vez ha tenido o podría tener en la ac-
+tualidad una infección por el virus de la hepatitis B. El motivo es que
+este medicamento podría provocar que el virus de la hepatitis B se
+vuelva a activar. Su médico le examinará para detectar signos de esta
+infección antes, durante y algún tiempo después de finalizar el trata-
+miento con este medicamento. Informe a su médico inmediatamente
+si experimenta un cansancio que empeora o si nota que la piel o la
+parte blanca de los ojos adoptan una coloración amarillenta.
+En cualquier momento de la duración del tratamiento o después de fi-
+nalizarlo, informe a su médico inmediatamente si experimenta visión
+borrosa, pérdida de la visión o visión doble,
+dificultad del habla, debilidad en un brazo o una pierna, un cambio
+
+Embarazo y lactancia
+
+Para mujeres que toman CARFIZOL
+No tome CARFIZOL® si está embarazada, cree que podría estar emba-
+razada o tiene intención de quedar embarazada. El tratamiento con
+carfilzomib  no  se  ha  evaluado  en  mujeres  embarazadas.  Mientras
+tome CARFIZOL®, y tras 30 días después de suspender el tratamiento,
+debe  utilizar  un  método  anticonceptivo  adecuado  para  asegurarse
+de no quedar embarazada. Debe consultar con su médico sobre los
+métodos adecuados de anticoncepción.
+Si  se  queda  embarazada  mientras  recibe  CARFIZOL®,  informe  a  su
+médico inmediatamente.
+No tome CARFIZOL® si está en periodo de lactancia. Se desconoce si
+carfilzomib se excreta en la leche materna.
+Se  prevé  que  lenalidomida  puede  ser  nocivo  para  el  feto.  Si
+CARFIZOL®  se  administra  en  combinación  con  lenalidomida,  debe
+seguir  el  Programa  de  Prevención  del  Embarazo  (CONSULTE  A  SU
+MÉDICO).
+
+Para varones que toman CARFIZOL
+Mientras  tome  CARFIZOL®,  y  hasta  90  días  después  de  suspender
+el tratamiento, debe utilizar un condón, para asegurarse de que su
+pareja no se quede embarazada, e incluso si su pareja ya está em-
+barazada.
+Si su pareja se queda embarazada mientras recibe CARFIZOL® o hasta
+90 días después de suspender el tratamiento, informe a su médico
+inmediatamente.
+
+Conducción y uso de máquinas
+Mientras reciba tratamiento con CARFIZOL® es posible que padezca
+fatiga,  mareos,  desvanecimientos  y/o  caída  de  la  presión  arterial.
+Esto puede afectar su capacidad para conducir o utilizar máquinas.
+No conduzca o utilice máquinas si tiene estos síntomas.
+
+CARFIZOL® contiene sodio
+Este  medicamento  contiene  0,3  mmol  de  sodio  (es  decir,  7  mg  de
+sodio) por mililitro de solución reconstituida, lo que debe ser tenido
+en cuenta si usted requiere una dieta pobre en sodio.
+
+CARFIZOL® contiene ciclodextrina
+Este medicamento contiene 3.000 mg de ciclodextrina (sulfobutilé-
+ter beta ciclodextrina) en cada vial de 60 mg equivalente a 88 mg/kg
+para un adulto de 70 kg.
+
+• ¿Cómo utilizar CARFIZOL®?
+El  médico  o  el  enfermero  le  administrarán  CARFIZOL®.  La  dosis  se
+calculará según su altura y su peso (área de superficie corporal). Su
+médico determinará la dosis de CARFIZOL® que usted debe recibir.
+Recibirá CARFIZOL® mediante infusión en la vena. Según el régimen
+que le hayan indicado, la perfusión durará aproximadamente 10 mi-
+nutos o 30 minutos. CARFIZOL® se recibe en 1 día o 2 días seguidos
+cada semana, durante 3 semanas, seguidas de una semana sin trata-
+miento, dependiendo de su esquema de tratamiento.
+Cada período de 28 días es un ciclo de tratamiento. Esto significa que
+le administrarán CARFIZOL® los días 1, 2, 8, 9, 15 y 16, o los días 1, 8
+y 15 cada ciclo de 28 días. En determinados regímenes de adminis-
+tración, las dosis de los días 8 y 9 de cada ciclo no se administrarán
+a partir del ciclo 13.
+La mayoría de los pacientes recibirán tratamiento mientras su enfer-
+medad mejore o se mantenga estable. No obstante, el tratamiento
+con  CARFIZOL®  también  podría  ser  suspendido  si  padece  efectos
+adversos que no puedan ser controlados.
+
+Usted  también  podría  recibir  otros  medicamentos  como  parte  del
+régimen de tratamiento.
+
+ser síntomas de un trastorno neurológico denominado síndrome
+de encefalopatía posterior reversible (SEPR).
+
+Si se utiliza más CARFIZOL® del que se debe
+Este  medicamento  será  administrado  por  un  médico  o  enfermero,
+por lo que es improbable que reciba más del debido. No obstante, si
+recibe más CARFIZOL® del que se debe, su médico lo controlará para
+detectar efectos no deseados.
+En  caso  de  duda  sobre  el  uso  de  este  medicamento,  consulte  a  su
+médico.
+
+ “Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Toxicología”.
+
+• Posibles efectos adversos de CARFIZOL®
+Al  igual  que  todos  los  medicamentos,  CARFIZOL®  puede  producir
+efectos adversos, aunque no todas las personas los sufran.
+
+Signos y síntomas a los que debe estar atento
+Algunos efectos adversos pueden ser importantes. Informe a
+su médico inmediatamente si experimenta alguno de los siguientes
+síntomas:
+• Dolor torácico, dificultad para respirar, o hinchazón en los pies, los
+
+cuales pueden ser síntomas de problemas cardíacos.
+
+• Dificultades respiratorias, incluidas dificultad para respirar en re-
+poso o con la actividad o tos (disnea), respiración rápida, sensación
+de  no  poder  respirar  cuando  hay  oxígeno  suficiente,  sibilancias
+(ruidos al respirar) o tos, las cuales pueden ser signos de toxicidad
+pulmonar.
+
+• Presión arterial muy elevada, dolor torácico intenso, dolor de cabe-
+za agudo, confusión, visión borrosa, náuseas y vómitos o crisis de
+ansiedad, los cuales pueden ser signos de un trastorno conocido
+como crisis hipertensiva.
+
+• Dificultad para respirar en las actividades diarias o en reposo, ritmo
+cardíaco irregular, aceleración del pulso, cansancio, mareos y des-
+mayos, los cuales pueden ser signos de un trastorno conocido como
+hipertensión pulmonar.
+
+• Hinchazón en los tobillos, los pies o las manos, pérdida de apetito,
+menor  expulsión  de  orina,  o  resultados  anómalos  en  los  análisis
+de sangre, los cuales pueden ser síntomas de problemas renales
+o insuficiencia renal.
+
+• Un efecto adverso denominado Síndrome de Lisis Tumoral, que se
+puede originar por la rápida descomposición de las células tumora-
+les, y que puede producir latidos cardíacos irregulares, insuficien-
+cia renal o resultados anómalos en los análisis de sangre.
+
+•  Fiebre,  escalofríos  o  temblores,  dolor  articular,  dolor  muscular,
+congestión facial o hinchazón de la cara, los labios, la lengua y/o
+la garganta que puede causar dificultad para respirar o tragar (an-
+gioedema), debilidad, dificultad para respirar, presión arterial baja,
+desmayos, baja frecuencia cardíaca, opresión en el pecho o dolor
+torácico pueden ocurrir como una reacción a la perfusión.
+
+• Formación de hematomas o sangrados inusuales, como un corte
+que tarda más de lo habitual en dejar de sangrar; o hemorragias
+internas como toser sangre, vomitar sangre, heces negras o heces
+con sangre roja brillante; o hemorragias cerebrales que inducen re-
+pentino entumecimiento o parálisis en un lado de la cara, piernas o
+brazos, dolor de cabeza intenso y repentino o dificultad en la visión
+o en el habla o para tragar.
+
+• Dolor en piernas o brazos o hinchazón (que podrían ser síntomas
+de  presencia  de  coágulos  sanguíneos  en  las  venas  profundas  de
+las piernas o los brazos), dolor en el pecho o dificultad respiratoria
+(que podrían ser síntomas de presencia de coágulos de sangre en
+los pulmones)
+
+• Coloración amarillenta de la piel y los ojos (ictericia), dolor o hin-
+chazón abdominal, náuseas o vómitos, que podrían ser síntomas de
+problemas hepáticos, incluida insuficiencia hepática. Si alguna vez
+ha tenido una infección por el virus de la hepatitis B, el tratamiento
+con este medicamento puede provocar que la infección por el virus
+de la hepatitis B se vuelva a activar.
+
+• Hemorragias, hematomas, debilidad,  confusión, fiebre, náuseas,
+vómitos y diarrea e insuficiencia renal aguda, los cuales pueden ser
+signos de un trastorno sanguíneo conocido como microangiopatía
+trombótica.
+
+•  Dolores  de  cabeza,  confusión,  convulsiones  (ataques),  pérdida
+visual y presión arterial elevada (hipertensión), los cuales pueden
+
+Otros efectos adversos posibles
+
+Efectos adversos frecuentes (que pueden afectar a más de 1 persona
+de cada 10)
+• Infección pulmonar grave (neumonía).
+• Infección del tracto respiratorio (infección de las vías respiratorias).
+•  Recuentos  de  plaquetas  bajos,  que  puede  causar  hematomas  o
+
+sangrados (trombocitopenia).
+
+• Recuento de glóbulos blancos bajo, que puede disminuir su capaci-
+
+dad de combatir las infecciones y puede asociarse con fiebre.
+
+• Recuento de glóbulos rojos bajo (anemia), que puede causar can-
+
+sancio y fatiga.
+
+• Cambios en los análisis de sangre (disminución de los niveles san-
+guíneos de potasio, aumento de los niveles sanguíneos de azúcar
+y/o creatinina).
+
+• Disminución del apetito.
+• Dificultad para dormir (insomnio).
+• Dolor de cabeza.
+• Entumecimiento, hormigueo o disminución de la sensibilidad en
+
+las manos y/o los pies.
+
+• Mareos.
+• Presión arterial alta (hipertensión).
+• Dificultad para respirar.
+• Tos.
+• Diarrea.
+• Náuseas.
+• Estreñimiento.
+• Vómitos.
+• Dolor de estómago.
+• Dolor de espalda.
+• Dolor en las articulaciones.
+• Dolor en las extremidades, las manos o los pies.
+• Espasmos musculares.
+• Fiebre.
+• Escalofríos.
+• Hinchazón de las manos, los pies o los tobillos.
+• Debilidad.
+• Cansancio (fatiga).
+
+Efectos  adversos  ocasionales  (pueden  afectar  hasta  1  de  cada  10
+personas)
+• Reacciones a la perfusión
+• Insuficiencia cardíaca y problemas cardíacos incluidos latidos car-
+
+díacos rápidos, fuertes o irregulares.
+
+• Ataque cardíaco.
+• Problemas renales, incluida insuficiencia renal.
+• Coágulos sanguíneos en las venas (trombosis venosa profunda).
+• Sofocos.
+• Coágulos de sangre en los pulmones.
+• Líquido en los pulmones.
+• Sibilancias (ruidos al respirar).
+• Infección grave, incluida infección en la sangre (sepsis).
+• Infección pulmonar.
+• Problemas hepáticos, incluido un aumento de las enzimas hepá-
+
+ticas en sangre.
+
+• Síntomas de tipo gripal (gripe).
+• Reactivación del virus de la varicela que puede causar una erupción
+
+cutánea y dolor (herpes zóster).
+
+• Infección del tracto urinario (infección de las estructuras que trans-
+
+portan orina).
+
+• Tos que podría incluir opresión en el pecho o dolor, congestión nasal
+
+(bronquitis).
+
+• Dolor de garganta.
+• Inflamación de la nariz y la garganta.
+• Moqueo en la nariz, congestión nasal o estornudos.
+• Infección viral.
+• Infección del estómago y del intestino (gastroenteritis).
+• Cambios en los análisis de sangre (disminución de los niveles san-
+guíneos de sodio, magnesio, proteínas, calcio o fosfatos, aumento
+de los niveles sanguíneos de calcio, ácido úrico, potasio, bilirrubina,
+proteína C reactiva o azúcar).
+
+• Deshidratación.
+• Ansiedad.
+• Sensación de confusión.
+• Visión borrosa.
+• Cataratas.
+• Presión arterial baja (hipotensión).
+
+• Hemorragia nasal.
+• Cambios en la voz o ronquera.
+• Indigestión.
+• Dolor dental.
+• Erupción cutánea.
+• Dolor óseo, dolor muscular y dolor torácico.
+• Debilidad muscular.
+• Músculos doloridos.
+• Picazón en la piel.
+• Enrojecimiento de la piel.
+• Aumento de la sudoración.
+• Dolor.
+• Dolor, hinchazón, irritación o molestia en el lugar donde recibió la
+
+inyección intravenosa.
+
+• Zumbidos en los oídos (acúfenos).
+• Sensación de estar enfermo o malestar general.
+
+Efectos adversos raros (pueden afectar hasta 1 de cada 100 personas)
+• Sangrado en los pulmones.
+• Inflamación en el colon producido por la bacteria Clostridium difficile.
+• Reacción alérgica a CARFIZOL®.
+• Fallo multiorgánico.
+• Reducción del flujo sanguíneo hacia el corazón.
+• Hemorragia cerebral.
+• Infarto cerebral.
+• Dificultad para respirar, respiración rápida y/o la yema de los dedos
+de las manos y los labios ligeramente azules (síndrome de dificultad
+respiratoria aguda).
+
+• Hinchazón del revestimiento del corazón (pericarditis), los síntomas
+incluyen dolor detrás del esternón, a veces difundiéndose al cuello
+y los hombros, en ocasiones con fiebre.
+
+• Acumulación de líquido entre el revestimiento del corazón y su co-
+razón (derrame pericárdico), los síntomas incluyen dolor torácico o
+presión y dificultad para respirar.
+
+• Una obstrucción del flujo de bilis desde el hígado (colestasis), la
+cual puede causar picazón en la piel, coloración amarillenta de la
+piel, orina muy oscura y heces muy pálidas.
+
+• Perforación del sistema digestivo.
+• Infección por citomegalovirus.
+• Infección por el virus de la hepatitis B reactivada (inflamación viral
+
+del hígado).
+
+• Inflamación del páncreas.
+
+“Ante cualquier inconveniente con el producto usted puede llenar la
+ficha que está en la Página Web de la ANMAT:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos,  o  llamar  a
+ANMAT responde al 0800-333-1234”.
+También puede comunicarse al Departamento de Farmacovigilancia
+Gador S.A, a farmacovigilancia@gador.com o al 0800-220-2273.
+Mediante  la  comunicación  de  efectos  no  deseados  usted  puede
+contribuir a proporcionar más información sobre la seguridad de este
+medicamento.
+
+Recordatorio
+“Este medicamento ha sido prescripto sólo para su problema médico
+actual. No lo recomiende a otras personas”.
+
+Conservación de CARFIZOL®
+Conservar en heladera entre 2oC y 8oC, en su envase original para
+protegerlo de la luz.
+La solución reconstituida se mantiene estable 24 horas en heladera
+(entre 2oC y 8oC) o 4 horas a temperatura ambiente (entre 15°C-30°C).
+El producto reconstituido debe ser una solución transparente e inco-
+lora, y no debe ser administrado si se observa algún tipo de cambio
+de color o material particulado.
+CARFIZOL® está previsto únicamente para un solo uso. La eliminación
+del medicamento no utilizado y de todos los materiales derivados de
+su uso se realizará de acuerdo con la normativa local.
+No utilice este medicamento si el envase está dañado.
+Usted puede usar tomar CARFIZOL® hasta el último día del mes indica-
+do en el envase. No tome CARFIZOL® luego de la fecha de vencimiento.
+
+Contenido del envase e información adicional.
+
+Composición de CARFIZOL®
+El principio activo es carfilzomib. Cada vial contiene 60 mg de carfil-
+zomib. Después de la reconstitución, 1 ml de solución contiene 2 mg
+de carfilzomib.
+Los demás componentes son: Sulfobutiléter beta ciclodextrina, Ácido
+cítrico anhidro, Hidróxido de sodio.
+
+Presentación
+CARFIZOL®  se  presenta  en  envases  conteniendo  un  frasco  ampolla
+conteniendo polvo liofilizado para inyectable de un solo uso. Descar-
+tar la porción no utilizada, solo para uso intravenoso.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto no deseado, consulte a
+su médico, incluso si se trata de posibles efectos adversos que
+no aparecen en este prospecto.
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestros sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Argentina Tel: 4858-9000. Elaborado en: Panamá 2121 y México 2118,
+
+Martínez, Pcia. de Bs.As. Argentina, o alternativamente en Palpa 2862, C.A.B.A, Argentina. D.T.: Jorge N. Naquit,
+
+Farmacéutico y Licenciado en Ciencias Farmacéuticas. E.M.A.M.S.: Certificado N° 59.133
+
+Fecha de última revisión: 7/2024
+
+G00218302-03

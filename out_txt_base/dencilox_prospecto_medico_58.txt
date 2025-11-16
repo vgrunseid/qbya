@@ -1,0 +1,1074 @@
+DENCILOX®
+CILOSTAZOL 100 mg
+Comprimidos
+
+Industria Argentina                                                                                                    Venta Bajo Receta
+
+COMPOSICIÓN
+Cada comprimido de DENCILOX® 100 mg contiene:
+Cilostazol 100 mg. Excipientes: Almidón pregelatinizado; Celulosa microcristalina; Lauril sulfato de
+sodio; Dióxido de silicio coloidal; Croscarmellosa sódica; Estearato de magnesio c.s.
+
+ACCION TERAPEUTICA
+Código ATC: B01AC23
+Agente vasodilatador periférico y antiagregante plaquetario.
+
+INDICACIONES
+DENCILOX®  está  indicado  para  el  tratamiento  de  los  síntomas  isquémicos  de  los  miembros
+(úlceras, dolor, claudicación intermitente, sensación de frío) debidos a enfermedad arterial oclusiva
+crónica.
+También  está  indicado  para  la  prevención  de  la    recurrencia  del  infarto  cerebral  (excepto  infarto
+cardioembólico).
+
+CARACTERISTICAS FARMACOLOGICAS
+Propiedades Farmacodinámicas
+Mecanismo de acción:
+Cilostazol  produce  su  efecto  vasodilatador  y  antiagregante  plaquetario  a  través  de  la  inhibición
+específica de la enzima fosfodiesterasa tipo III de AMP cíclico (AMPc-PDE III), con lo que disminuye
+la degradación del AMPc y provoca el aumento de los niveles de AMPc en el músculo liso vascular
+y plaquetas.
+Efecto  antiagregante  plaquetario:  In  vitro,  Cilostazol  inhibe  la  agregación  plaquetaria  inducida  por
+ADP,  colágeno,  ácido  araquidónico  o  epinefrina,  como  así  también  la  agregación  secundaria  de
+plaquetas humanas inducida por ADP o epinefrina. En pacientes con enfermedad arterial oclusiva
+crónica, Cilostazol administrado por vía oral previene la agregación plaquetaria inducida por ADP,
+colágeno,  ácido  araquidónico  o  epinefrina.  El  efecto  antiagregante  aparece  rápidamente  y  no
+disminuye  con  la  administración  prolongada.  Luego  de  la  suspensión  de  la  droga,  la  agregación
+plaquetaria  regresa  a  los  niveles  basales  entre  las  48  y  96  horas  a  medida  que  disminuye  la
+concentración plasmática de Cilostazol, sin que se observe fenómeno de rebote.
+Efecto Vasodilatador: En pacientes con enfermedad arterial oclusiva crónica de los miembros, se ha
+demostrado mediante pletismografía que Cilostazol incrementa el flujo sanguíneo a nivel del tobillo
+y la pantorrilla del miembro isquémico. Estudios de termografía han evidenciado la elevación de la
+temperatura y el flujo sanguíneo de las extremidades en pacientes con enfermedad arterial oclusiva
+crónica de los miembros.
+Estudios clínicos doble ciego en pacientes con enfermedad arterial oclusiva crónica, demostraron
+que los síntomas y signos isquémicos tales como úlcera, dolor y sensación de frío, mejoran en la
+mayoría de los casos: mejoría importante o moderada en 67,2 % de los pacientes; mejoría leve en
+el 18,4 %.
+Propiedades Farmacocinéticas
+Dentro de los cuatro días posteriores a la administración de dosis repetidas de Cilostazol 100 mg
+dos veces al día, se alcanza concentraciones plasmáticas estables. El pico plasmático ocurre a las
+2,7  ±1,4  horas  de  la  administración,  con  un  área  bajo  la  curva  (AUC  0-12)  de  10700  ±  5020
+ng.h/ml,  y  una  vida  media  de  eliminación  aparente  de  10,5  ±  4,4  horas.  La  vida  media  de
+eliminación de los dos principales metabolitos de Cilostazol es similar a la de este compuesto. La
+farmacocinética de Cilostazol y de sus dos metabolitos principales es similar en personas sanas y
+en pacientes con enfermedad vascular periférica. La biodisponibilidad relativa de los comprimidos
+de Cilostazol es del 100% comparada con una formulación en suspensión oral. La administración
+de Cilostazol con las comidas aumenta la velocidad de absorción, si bien no modifica significativa-
+mente  la  magnitud  de  la  misma.  La  administración  de  Cilostazol  junto  con  una  comida  rica  en
+grasas  aumenta  la  concentración  plasmática  pico  un  91%,  mientras  que  el  área  bajo  la  curva
+concentración  -  tiempo  aumenta  sólo  un  24%.  Cilostazol  es  eliminado  fundamentalmente  por
+metabolización  y  posterior  excreción  urinaria  de  los  metabolitos.  Las  principales  isoenzimas
+involucradas  en  este  metabolismo  son  el  citocromo  P  450  (CYP)  3A4  y,  en  menor  medida,  CYP
+2C19. Cilostazol circula en el plasma unido a proteínas, predominantemente a la albúmina en un 95
+- 98%.
+Poblaciones especiales:
+Edad y género
+Los parámetros farmacocinéticos no se alteran en función del sexo o la edad, incluso en pacientes
+ancianos.
+Fumadores
+El análisis farmacocinético poblacional sugiere que fumar disminuye la absorción del Cilostazol en
+
+un 20%.
+Insuficiencia hepática
+La  farmacocinética  de  Cilostazol  y  de  sus  metabolitos  fue  similar  en  pacientes  con  enfermedad
+hepática  leve  en  comparación  con  sujetos  sanos.  Los  pacientes  con  insuficiencia  hepática
+moderada o grave no han sido estudiados.
+Insuficiencia renal
+La actividad farmacológica de Cilostazol y de sus metabolitos fue similar en sujetos con insuficiencia
+renal  leve  a  moderada  y  en  sujetos  normales.  La  insuficiencia  renal  grave  aumenta  los  niveles
+plasmáticos de los metabolitos y altera la unión a proteínas de la droga madre y sus metabolitos.
+Sin embargo, la actividad farmacológica basada en las concentraciones plasmáticas y la potencia
+inhibitoria  de  la  PDE  III  del  Cilostazol  y  sus  metabolitos  no  se  modifica  sustancialmente.  En
+pacientes
+severa  existe  una  depuración  disminuida  del
+4'-trans-hidroxicilostazol,  por  lo  que  deberá  tenerse  en  cuenta  al  administrar  Cilostazol  en  estos
+pacientes (ver Posología).
+
+insuficiencia
+
+renal
+
+con
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+La dosis recomendada de DENCILOX® en adultos por vía oral es de 100 mg dos veces al día, a
+intervalos  regulares.  Es  conveniente  que  la  dosis  sea  ingerida  una  hora  antes  o  bien  2  horas
+después del desayuno o la cena. Debe considerarse iniciar el tratamiento con una dosis de 50 mg
+cada 12 horas, o disminuir la dosis a 50 mg cada 12 horas, en los siguientes casos:
+a)  Administración  simultánea  de  fármacos  inhibidores  del  CYP3A4  como  eritromicina,  diltiazem,
+ketoconazol,  itraconazol, o inhibidores del CYP2C19 como omeprazol (ver Interacciones).
+b) Pacientes con insuficiencia renal severa (clearence de creatinina estimado: 25 mL / min).
+El efecto terapéutico de Cilostazol puede ser observado rápidamente a las 2 a 4 semanas luego de
+iniciada  la  terapia,  pero  puede  ser  necesario  esperar  hasta  12  semanas  de  tratamiento  continuo
+para alcanzar el efecto terapéutico deseado.
+
+CONTRAINDICACIONES
+- Hipersensibilidad a Cilostazol o a alguno de los componentes de la formulación.
+- Cuadros hemorrágicos: Cilostazol está contraindicado en pacientes con trastornos de la hemosta-
+sia  o  con  sangrado  activo,  tales  como    los  pacientes  con  hemofilia,  hemorragia  digestiva,
+hemorragia intracraneal, hemoptisis, hemorragia vítrea y otros sangrados mayores.
+- Insuficiencia cardíaca congestiva de cualquier grado de severidad.
+- Embarazo o posibilidad de embarazo, lactancia.
+
+ADVERTENCIAS Y PRECAUCIONES
+En las siguientes circunstancias, Cilostazol deberá utilizarse con precaución:
+• Pacientes con tendencia al sangrado y en período de menstruación.
+• Pacientes en tratamiento con anticoagulantes (acenocumarol, warfarina, heparina, etc.), agentes
+antiagregantes plaquetarios (aspirina, ticlopidina, etc.) o trombolíticos (estreptoquinasa, uroquinasa,
+alteplase).
+• Pacientes con insuficiencia hepática o renal grave.
+• Pacientes con  estenosis no controlada de las arterias coronarias.
+• Pacientes con diabetes mellitus o tolerancia anormal a la glucosa; cabe la probabilidad de sufrir
+episodios hemorrágicos.
+•  Pacientes  con  trastorno  hepático  grave.  Puede  aumentar  la  concentración  de  Cilostazol  en  la
+sangre.
+•  Pacientes  con  hipertensión  arterial  que  tengan  presión  arterial  elevada  en  forma  continúa
+(hipertensión maligna) o hipertensión arterial no controlada.
+• Pacientes con trastornos de la función renal. Puede empeorar el funcionamiento renal e incremen-
+tar Ia concentración de metabolitos de Cilostazol en la sangre.
+Precauciones importantes:
+• En pacientes con infarto cerebral, se debe iniciar la administración de Cilostazol únicamente una
+vez que los síntomas del infarto cerebral hayan sido estabilizados. Debe prestarse atención a las
+interacciones del fármaco con otros agentes inhibidores de la coagulación y agentes antiagregantes
+plaquetarios,  y administrar Cilostazol con cuidado a pacientes con hipertensión no controlada. Se
+debe  controlar  por  completo  la  presión  arterial  durante  la  administración  del  fármaco  en  estos
+pacientes.
+• En pacientes con estenosis de las arterias coronarias, el incremento excesivo de la frecuencia del
+pulso  durante  la  administración  de  Cilostazol  puede  producir  angina  de  pecho.    En  estos  casos
+deben  tomarse  las  medidas  adecuadas,  por  ejemplo,  disminuir  la  dosis  o  suspender  la
+administración del fármaco.
+• Cilostazol tiene un efecto inhibidor de PDEIII. En un estudio comparativo controlado con placebo a
+largo  plazo  con  agentes  que  tienen  un  efecto  inhibidor  de  PDEIII  (milrinona  y  vesnarinona),  se
+registró una tasa de supervivencia menor que la del placebo en pacientes con insuficiencia cardíaca
+congestiva  (clasificación  III  o  IV  de  NYHA).  Asimismo,  en  pacientes  sin  insuficiencia  cardíaca
+congestiva, no se conoce el pronóstico con la administración a largo plazo de agentes inhibidores
+de PDEIII, entre ellos Cilostazol.
+Reacciones adversas hematológicas:
+Se  han  reportado  raros  casos  de  trombocitopenia  o  agranulocitosis  cuando  el  tratamiento  con
+
+Cilostazol  no  fue  discontinuado  de  inmediato.  No  obstante,  la  agranulocitosis  es  habitualmente
+reversible luego de la suspensión de Cilostazol.
+Uso con clopidogrel y otros agentes antiplaquetarios:
+Cilostazol  inhibe  la  agregación  plaquetaria  pero  de  manera  reversible.  Se  recomienda  tener
+precaución en aquellos pacientes con riesgo de sangrado por operaciones o procesos patológicos.
+Asimismo,  se  recomienda  tener  precaución  en  pacientes  que  reciben  Cilostazol  y  algún  agente
+antiplaquetario o pacientes con trombocitopenia. Si bien no es posible determinar si se produce un
+efecto  aditivo  en  el  tiempo  de  sangría  durante  la  administración  concomitante  de  Cilostazol  y
+clopidogrel,  se  recomienda  precaución  para  verificar  el  tiempo  de  sangría  durante  la  coadminis-
+tración.
+Insuficiencia hepática:
+No se han analizado casos de pacientes con insuficiencia hepática moderada o severa en ensayos
+clínicos. Por este motivo se sugiere precaución al administrar Cilostazol en estos pacientes.
+Insuficiencia renal:
+No se han estudiado casos de pacientes en diálisis, pero es poco probable que Cilostazol se pueda
+quitar  eficazmente  por  diálisis  debido  a  la  alta  fijación  a  las  proteínas  (95  a  98%).  Se  requiere
+especial precaución cuando se utiliza Cilostazol en pacientes con insuficiencia renal severa, esto es
+con un clearance de creatinina estimado < 25mL/min.
+
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCIÓN
+Cilostazol  podría  tener  interacciones  farmacodinámicas  con  otros  inhibidores  de  la  función
+plaquetaria así como interacciones farmacocinéticas debidas a los efectos de otras drogas sobre su
+metabolismo  por  los  citrocromos  CYP3A4  o  CYP2C19.  La  reducción  de  la  dosis  de  Cilostazol
+deberá  considerarse  cuando  se  administre  de  forma  concomitante  con  inhibidores  del  CYP3A4  o
+CYP2C19. Cilostazol no parece inhibir el CYP3A4.
+Aspirina
+La coadministración por un breve plazo (≤ 4 días) de aspirina con Cilostazol incrementó la inhibición
+de  la  agregación  plaquetaria  inducida  ex  vivo  en  un  22%  -  37%  en  comparación  con  aspirina  o
+Cilostazol solos. La coadministración a corto plazo (≤ 4 días) de aspirina con Cilostazol incrementó
+la  inhibición  de  la  agregación  plaquetaria  inducida  ex  vivo  por  ácido  araquidónico  en  un  20%  en
+comparación con Cilostazol solo y en un 48% en comparación con aspirina sola. Sin embargo, la
+coadministración  de  la  aspirina  con  Cilostazol  a  corto  plazo  no  tuvo  un  impacto  clínicamente
+significativo sobre el tiempo de protrombina, el KPTT o el tiempo de sangrado en comparación con
+la  aspirina  sola.  Los  efectos  de  la  coadministración  a  largo  plazo  en  la  población  general  son
+desconocidos.  En  estudios  clínicos  aleatorizados  a  doble  ciego  controlados  con  placebo,  la
+administración de aspirina en dosis de 81 y 325 mg/día junto con Cilostazol por período de 54 a 137
+días no se observó un incremento aparente en la incidencia de efectos adversos hemorrágicos en
+pacientes  que  tomaban  aspirina  junto  con  Cilostazol  en  comparación  con  los  pacientes  que
+tomaban placebo y dosis equivalentes de aspirina.
+Warfarina
+Las isoenzimas del citocromo P450 que intervienen en el metabolismo de R-warfarina son CYP3A4,
+CYP1A2,  y  CYP2C19,  y  la  CYP2C9  en  el  metabolismo  de  la  S-warfarina.  Cilostazol  no  inhibe  el
+metabolismo o los efectos farmacológicos (tiempo de protrombina, KPTT, tiempo de sangrado, o la
+agregación plaquetaria) de R y S warfarina después de una única dosis de 25 mg de warfarina. El
+efecto  de  la  administración  concomitante  de  dosis  múltiples  de  warfarina  y  Cilostazol  sobre  la
+farmacocinética y la farmacodinámica de ambos fármacos es desconocida.
+Clopidogrel
+Dosis múltiples de clopidogrel no aumentan significativamente las concentraciones plasmáticas de
+Cilostazol en estado estable.
+Inhibidores del citocromo CYP3A4.
+-Inhibidores  potentes  de  CYP3A4:  una  dosis  de  carga  de  400  mg  de  ketoconazol  (un  potente
+inhibidor del CYP3A4) seguida de la administración de dosis únicas de ketoconazol 400 mg y 100
+mg de Cilostazol, aumentó la Cmáx de Cilostazol en un 94% y el AUC en un 117%. Es esperable
+que  otros  inhibidores  potentes  de  CYP3A4,  tales  como  itraconazol,  fluconazol,  miconazol,
+fluvoxamina, fluoxetina, nefazodona y sertralina, tengan un efecto similar (véase Posología).
+-Inhibidores moderados del CYP3A4: eritromicina y otros antibióticos macrólidos: eritromicina es un
+inhibidor moderado del CYP3A4. La coadministración de eritromicina 500 mg cada 8 horas con una
+dosis  única  de  100  mg  de  Cilostazol  aumentó  la  Cmáx  de  Cilostazol  en  un  47%  y  el AUC  en  un
+73%.  La  inhibición  del  metabolismo  de  Cilostazol  por  la  eritromicina  aumentó  el  AUC  de
+4'-trans-hidroxi-  cilostazol  en  un  141%.  Otros  antibióticos  macrólidos  (por  ejemplo,  claritromicina)
+pero no todos (por ejemplo, azitromicina), es esperable que tenga un efecto similar (ver Posología).
+Diltiazem: La administración de Diltiazem 180 mg disminuyó el clearance de Cilostazol en un 30%.
+La Cmax de Cilostazol aumentó aproximadamente 30% y el AUC aumentó aproximadamente 40%.
+Zumo  de  pomelo:  El  zumo  de  pomelo  aumentó  la  Cmáx  de  Cilostazol  en  un  50%,  pero  no  tuvo
+efecto en el AUC.
+Inhibidores del citocromo CYP2C19
+Omeprazol:  La  administración  conjunta  de  omeprazol  no  afectó  significativamente  el  metabolismo
+de  Cilostazol,  pero  la  exposición  sistémica  al  3,4-dihidro-Cilostazol  se  incrementó  en  un  69%,
+probablemente  como  resultado  de  la  potente  inhibición  del  CYP2C19  por  el  omeprazol  (véase
+Posología).
+Quinidina: La administración concomitante de quinidina con una única dosis de 100mg de Cilostazol
+
+día, independientemente de la relación de sospecha con la droga, se enumeran a continuación:
+
+Generales:  Escalofríos,  edema  facial,  fiebre,  edema  generalizado,  malestar  general,  rigidez  de
+
+Elaborado en su planta de Manufactura Centro Industrial Garín.
+
+Director Técnico: José Luis Tombazzi –Farmacéutico.
+
+                                                                                                                                                 RV 11/16
+
+no alteró la farmacocinética de Cilostazol.
+
+Lovastatina: La administración concomitante de Cilostazol con lovastatina redujo un 15% la C max
+
+y  AUC  de  Cilostazol.  También  se  observó  una  disminución,  aunque  no  significativa,  en  las
+
+concentraciones  de  metabolitos  del  Cilostazol.  La  administración  concomitante  de  Cilostazol  con
+
+lovastatina  aumentó  el AUC  de  lovastatina  y  ß-hidroxi  lovastatina  en  aproximadamente  el  70%.
+
+Esto es probablemente clínicamente no significativo.
+
+Embarazo y lactancia
+
+Embarazo:  El  uso  de  Cilostazol  en  embarazadas  o  mujeres  con  posibilidad  de  embarazo  está
+
+formalmente contraindicado, ya que se ha observado en animales de experimentación el descenso
+
+en el peso de los neonatos, así como el incremento en la incidencia de malformaciones cardiovas-
+
+culares, renales y esqueléticas.
+
+Lactancia: Las mujeres en tratamiento con Cilostazol deben evitar el amamantamiento ya que en
+
+animales de experimentación se ha detectado que la droga se excreta en la leche materna.
+
+Uso pediátrico: No se aconseja el uso de Cilostazol en niños pues su eficacia y seguridad no han
+
+sido establecida en este grupo etario.
+
+Uso  en  ancianos:  Los  estudios  farmacocinéticos  no  han  mostrado  efecto  de  la  edad  en  el
+
+metabolismo, distribución y eliminación de Cilostazol.
+
+REACCIONES ADVERSAS
+
+Los  eventos  adversos  atribuidos  al  Cilostazol  han  sido  evaluados  ensayos  clínicos  comparativos
+
+con placebo en pacientes expuestos a una dosis de 50 o 100 mg de la droga dos veces al día.
+
+En  estos  estudios,  la  cefalea  fue  el  único  efecto  adverso  que  resultó  en  la  interrupción  del
+
+tratamiento, en ≥ 3% de los pacientes tratados con Cilostazol 50 o 100 mg dos veces al día, lo que
+
+se produjo con una incidencia de 1,3%, 3,5% y 0,3% en los pacientes tratados con Cilostazol 50 mg
+
+dos veces al día, 100 mg dos veces al día, o placebo, respectivamente. Otras causas frecuentes de
+
+discontinuación  del  tratamiento  incluyeron  palpitaciones  y  diarrea,  ambas  en  el  1,1%  de  los
+
+pacientes tratados con Cilostazol en todas las dosis investigadas frente al 0,1 % de los que recibían
+
+placebo.
+
+Los eventos adversos más comúnmente reportados y que ocurrieron en ensayos clínicos en ≥ 2%
+
+de los pacientes tratados con Cilostazol 50 o 100 mg administrados dos veces al día o con placebo
+
+se muestran en la tabla más abajo.
+
+Otros eventos observados con una incidencia ≥ 2 %, pero que ocurrieron en el grupo de placebo al
+
+menos  tan  frecuentemente  como  con  Cilostazol  100  mg  fueron:  astenia,  hipertensión,  vómitos,
+
+calambres en las piernas, hipostesia, parestesia, disnea, erupción, hematuria, infección del tracto
+
+urinario, síndrome gripal, angina de pecho, artritis, y bronquitis.
+
+Eventos adversos menos frecuentes (< 2 %), que fueron experimentados por pacientes expuestos
+
+a  Cilostazol  50  mg  o  100  mg  dos  veces  por  día  en  ensayos  clínicos  controlados  y  que  se
+
+produjeron con una frecuencia mayor que en el grupo placebo con Cilostazol 100 mg dos veces por
+
+cuello, dolor pélvico, hemorragia retroperitoneal.
+
+Aparato  Cardiovascular:  Fibrilación  auricular,  aleteo  auricular,  infarto  cerebral,  isquemia  cerebral,
+
+insuficiencia  cardíaca  congestiva,  paro  cardíaco,  hemorragia,  hipotensión,  infarto  de  miocardio,
+
+isquemia  miocárdica,  arritmia  nodal,  hipotensión  postural,  taquicardia  supraventricular,  síncope,
+
+varices, vasodilatación, extrasístoles ventriculares, taquicardia ventricular.
+
+Aparato  Digestivo: Anorexia,  colelitiasis,  colitis,  úlcera  duodenal,  hemorragia  esofágica,  esofagitis,
+
+duodenitis, aumento de GGT, gastritis, gastroenteritis, hemorragia de encías, hematemesis, melena,
+
+úlcera péptica, absceso periodontal, hemorragia rectal, úlcera de estómago, edema de la lengua.
+
+Sistema Endocrino: Diabetes mellitus.
+
+Sistema Hemático y Linfático: Anemia, equimosis, anemia ferropénica, policitemia, púrpura.
+
+Metabólicas y nutricionales: Aumento de la creatinina, gota, hiperlipemia, hiperuricemia.
+
+Sistema Musculoesquelético: Artralgia, dolor de huesos, bursitis.
+
+Sistema Nervioso: Ansiedad, insomnio, neuralgias.
+
+Aparato Respiratorio: Asma, epistaxis, hemoptisis, neumonía, sinusitis.
+
+Piel y anexos: Piel seca, forunculosis, hipertrofia de la piel, urticaria.
+
+Órganos  de  los  sentidos:  Ambliopía,  ceguera,  conjuntivitis,  diplopía,  dolor  de  oído,  hemorragia
+
+ocular, hemorragia retiniana, tinnitus.
+
+Otros eventos adversos reportados:
+
+Aparato Urogenital: Albuminuria, cistitis, frecuencia urinaria, hemorragia vaginal, vaginitis.
+
+Trastornos  sanguíneos  y  del  sistema  linfático:  Agranulocitosis,  anemia  aplásica,  granulocitopenia,
+
+pancitopenia, trombocitopenia, leucopenia, tendencia al sangrado
+
+Trastornos  cardíacos: Torsades  de  pointes,  prolongación  del  intervalo  QTc  (torsades  de  pointes  y
+
+prolongación del intervalo QTc ocurrido en pacientes con trastornos cardíacos, por ejemplo bloqueo
+
+completo  auriculoventricular,  insuficiencia  cardiaca  y  bradiarritmia,  cuando  son  tratados  con
+
+Cilostazol).
+
+Trastornos gastrointestinales: Hemorragia gastrointestinal.
+
+Trastornos generales y alteraciones en el lugar de administración: Dolor, dolor en el pecho, sofocos.
+
+Trastornos hepatobiliares: Disfunción hepática, pruebas anormales de la función hepática, ictericia
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos: Hematoma extradural y el
+
+Laboratorio: Hiperglucemia, hiperuricemia, plaquetopenia, leucopenia, aumento de la urea, aumento
+
+Trastornos  del  sistema  nervioso:  Hemorragia  intracraneal,  hemorragia  cerebral,  accidente
+
+hematoma subdural.
+
+de la presión arterial
+
+cerebrovascular.
+
+Trastornos respiratorios, torácicos y mediastínicos: Hemorragia pulmonar, neumonía intersticial
+
+Piel y del tejido subcutáneo: Hemorragias subcutáneas, erupciones cutáneas y prurito incluyendo el
+
+síndrome de Stevens-Johnson, exantema cutáneo (dermatitis medicamentosa)
+
+Trastornos  vasculares:  Trombosis  subaguda  (estos  casos  de  trombosis  subaguda  ocurrieron  en
+
+pacientes  tratados  con  aspirina  y  uso  de  Cilostazol  fuera  del  prospecto  para  la  prevención  de
+
+complicaciones trombóticas después de la colocación de stents coronarios)
+
+Ante cualquier inconveniente con el producto Usted puede:
+
+- comunicarse al 4756-5436 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+
+-llenar la ficha que está en la Página Web de la ANMAT:
+
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234
+
+SOBREDOSIS
+
+La información acerca de la sobredosis aguda con Cilostazol en humanos es limitada. Los signos y
+
+síntomas de una sobredosis aguda podrían ser: cefalea severa, hipotensión, diarrea, taquicardia y
+
+arritmias cardíacas. Debido a que Cilostazol se une extensamente a las proteínas plasmáticas, es
+
+improbable  que  la  droga  pueda  ser  removida  por  hemodiálisis  o  diálisis  peritoneal.  En  caso  de
+
+sobredosis, el tratamiento, debe iniciarse sin demoras y es sintomático y de sostén.
+
+Ante  la  eventualidad  de  una  sobredosis  concurrir  al  Hospital  más  cercano  o  comunicarse  a  los
+
+Centros de Toxicología:
+
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/4962-2247
+
+Hospital A. Posadas (011) 4658-7777/4654-6648.
+
+CONSERVACION
+
+Conservar a temperatura ambiente menor a 30o C y en lugar seco.
+
+PRESENTACION
+
+Envase conteniendo 30 comprimidos.
+
+“MANTENER FUERA DEL ALCANCE DEL LOS NIÑOS”
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+
+Certificado No 52.669
+
+DENVER FARMA S.A.
+
+Natalio Querido 2285
+
+(B1605CYC) Munro, Provincia de Buenos Aires.
+
+DENCILOX®
+
+CILOSTAZOL 100 mg
+
+Comprimidos
+
+Industria Argentina                                                                                                    Venta Bajo Receta
+
+COMPOSICIÓN
+
+Cada comprimido de DENCILOX® 100 mg contiene:
+
+Cilostazol 100 mg. Excipientes: Almidón pregelatinizado; Celulosa microcristalina; Lauril sulfato de
+
+sodio; Dióxido de silicio coloidal; Croscarmellosa sódica; Estearato de magnesio c.s.
+
+ACCION TERAPEUTICA
+
+Código ATC: B01AC23
+
+Agente vasodilatador periférico y antiagregante plaquetario.
+
+DENCILOX®  está  indicado  para  el  tratamiento  de  los  síntomas  isquémicos  de  los  miembros
+
+(úlceras, dolor, claudicación intermitente, sensación de frío) debidos a enfermedad arterial oclusiva
+
+También  está  indicado  para  la  prevención  de  la    recurrencia  del  infarto  cerebral  (excepto  infarto
+
+INDICACIONES
+
+crónica.
+
+cardioembólico).
+
+CARACTERISTICAS FARMACOLOGICAS
+
+Propiedades Farmacodinámicas
+
+Mecanismo de acción:
+
+Cilostazol  produce  su  efecto  vasodilatador  y  antiagregante  plaquetario  a  través  de  la  inhibición
+
+específica de la enzima fosfodiesterasa tipo III de AMP cíclico (AMPc-PDE III), con lo que disminuye
+
+la degradación del AMPc y provoca el aumento de los niveles de AMPc en el músculo liso vascular
+
+y plaquetas.
+
+Efecto  antiagregante  plaquetario:  In  vitro,  Cilostazol  inhibe  la  agregación  plaquetaria  inducida  por
+
+ADP,  colágeno,  ácido  araquidónico  o  epinefrina,  como  así  también  la  agregación  secundaria  de
+
+plaquetas humanas inducida por ADP o epinefrina. En pacientes con enfermedad arterial oclusiva
+
+crónica, Cilostazol administrado por vía oral previene la agregación plaquetaria inducida por ADP,
+
+colágeno,  ácido  araquidónico  o  epinefrina.  El  efecto  antiagregante  aparece  rápidamente  y  no
+
+disminuye  con  la  administración  prolongada.  Luego  de  la  suspensión  de  la  droga,  la  agregación
+
+plaquetaria  regresa  a  los  niveles  basales  entre  las  48  y  96  horas  a  medida  que  disminuye  la
+
+concentración plasmática de Cilostazol, sin que se observe fenómeno de rebote.
+
+Efecto Vasodilatador: En pacientes con enfermedad arterial oclusiva crónica de los miembros, se ha
+
+demostrado mediante pletismografía que Cilostazol incrementa el flujo sanguíneo a nivel del tobillo
+
+y la pantorrilla del miembro isquémico. Estudios de termografía han evidenciado la elevación de la
+
+temperatura y el flujo sanguíneo de las extremidades en pacientes con enfermedad arterial oclusiva
+
+crónica de los miembros.
+
+Estudios clínicos doble ciego en pacientes con enfermedad arterial oclusiva crónica, demostraron
+
+que los síntomas y signos isquémicos tales como úlcera, dolor y sensación de frío, mejoran en la
+
+mayoría de los casos: mejoría importante o moderada en 67,2 % de los pacientes; mejoría leve en
+
+el 18,4 %.
+
+Propiedades Farmacocinéticas
+
+Dentro de los cuatro días posteriores a la administración de dosis repetidas de Cilostazol 100 mg
+
+dos veces al día, se alcanza concentraciones plasmáticas estables. El pico plasmático ocurre a las
+
+2,7  ±1,4  horas  de  la  administración,  con  un  área  bajo  la  curva  (AUC  0-12)  de  10700  ±  5020
+
+ng.h/ml,  y  una  vida  media  de  eliminación  aparente  de  10,5  ±  4,4  horas.  La  vida  media  de
+
+eliminación de los dos principales metabolitos de Cilostazol es similar a la de este compuesto. La
+
+farmacocinética de Cilostazol y de sus dos metabolitos principales es similar en personas sanas y
+
+en pacientes con enfermedad vascular periférica. La biodisponibilidad relativa de los comprimidos
+
+de Cilostazol es del 100% comparada con una formulación en suspensión oral. La administración
+
+de Cilostazol con las comidas aumenta la velocidad de absorción, si bien no modifica significativa-
+
+mente  la  magnitud  de  la  misma.  La  administración  de  Cilostazol  junto  con  una  comida  rica  en
+
+grasas  aumenta  la  concentración  plasmática  pico  un  91%,  mientras  que  el  área  bajo  la  curva
+
+concentración  -  tiempo  aumenta  sólo  un  24%.  Cilostazol  es  eliminado  fundamentalmente  por
+
+metabolización  y  posterior  excreción  urinaria  de  los  metabolitos.  Las  principales  isoenzimas
+
+involucradas  en  este  metabolismo  son  el  citocromo  P  450  (CYP)  3A4  y,  en  menor  medida,  CYP
+
+2C19. Cilostazol circula en el plasma unido a proteínas, predominantemente a la albúmina en un 95
+
+un 20%.
+
+Insuficiencia hepática
+
+La  farmacocinética  de  Cilostazol  y  de  sus  metabolitos  fue  similar  en  pacientes  con  enfermedad
+
+hepática  leve  en  comparación  con  sujetos  sanos.  Los  pacientes  con  insuficiencia  hepática
+
+moderada o grave no han sido estudiados.
+
+Insuficiencia renal
+
+La actividad farmacológica de Cilostazol y de sus metabolitos fue similar en sujetos con insuficiencia
+
+renal  leve  a  moderada  y  en  sujetos  normales.  La  insuficiencia  renal  grave  aumenta  los  niveles
+
+plasmáticos de los metabolitos y altera la unión a proteínas de la droga madre y sus metabolitos.
+
+Sin embargo, la actividad farmacológica basada en las concentraciones plasmáticas y la potencia
+
+inhibitoria  de  la  PDE  III  del  Cilostazol  y  sus  metabolitos  no  se  modifica  sustancialmente.  En
+
+pacientes
+
+con
+
+insuficiencia
+
+renal
+
+severa  existe  una  depuración  disminuida  del
+
+4'-trans-hidroxicilostazol,  por  lo  que  deberá  tenerse  en  cuenta  al  administrar  Cilostazol  en  estos
+
+pacientes (ver Posología).
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+La dosis recomendada de DENCILOX® en adultos por vía oral es de 100 mg dos veces al día, a
+
+intervalos  regulares.  Es  conveniente  que  la  dosis  sea  ingerida  una  hora  antes  o  bien  2  horas
+
+después del desayuno o la cena. Debe considerarse iniciar el tratamiento con una dosis de 50 mg
+
+cada 12 horas, o disminuir la dosis a 50 mg cada 12 horas, en los siguientes casos:
+
+a)  Administración  simultánea  de  fármacos  inhibidores  del  CYP3A4  como  eritromicina,  diltiazem,
+
+ketoconazol,  itraconazol, o inhibidores del CYP2C19 como omeprazol (ver Interacciones).
+
+b) Pacientes con insuficiencia renal severa (clearence de creatinina estimado: 25 mL / min).
+
+El efecto terapéutico de Cilostazol puede ser observado rápidamente a las 2 a 4 semanas luego de
+
+iniciada  la  terapia,  pero  puede  ser  necesario  esperar  hasta  12  semanas  de  tratamiento  continuo
+
+para alcanzar el efecto terapéutico deseado.
+
+CONTRAINDICACIONES
+
+- Hipersensibilidad a Cilostazol o a alguno de los componentes de la formulación.
+
+- Cuadros hemorrágicos: Cilostazol está contraindicado en pacientes con trastornos de la hemosta-
+
+sia  o  con  sangrado  activo,  tales  como    los  pacientes  con  hemofilia,  hemorragia  digestiva,
+
+hemorragia intracraneal, hemoptisis, hemorragia vítrea y otros sangrados mayores.
+
+- Insuficiencia cardíaca congestiva de cualquier grado de severidad.
+
+- Embarazo o posibilidad de embarazo, lactancia.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+En las siguientes circunstancias, Cilostazol deberá utilizarse con precaución:
+
+• Pacientes con tendencia al sangrado y en período de menstruación.
+
+• Pacientes en tratamiento con anticoagulantes (acenocumarol, warfarina, heparina, etc.), agentes
+
+antiagregantes plaquetarios (aspirina, ticlopidina, etc.) o trombolíticos (estreptoquinasa, uroquinasa,
+
+Warfarina
+
+alteplase).
+
+• Pacientes con insuficiencia hepática o renal grave.
+
+• Pacientes con  estenosis no controlada de las arterias coronarias.
+
+• Pacientes con diabetes mellitus o tolerancia anormal a la glucosa; cabe la probabilidad de sufrir
+
+episodios hemorrágicos.
+
+sangre.
+
+•  Pacientes  con  trastorno  hepático  grave.  Puede  aumentar  la  concentración  de  Cilostazol  en  la
+
+Clopidogrel
+
+•  Pacientes  con  hipertensión  arterial  que  tengan  presión  arterial  elevada  en  forma  continúa
+
+(hipertensión maligna) o hipertensión arterial no controlada.
+
+• Pacientes con trastornos de la función renal. Puede empeorar el funcionamiento renal e incremen-
+
+Cilostazol en estado estable.
+
+Inhibidores del citocromo CYP3A4.
+
+tar Ia concentración de metabolitos de Cilostazol en la sangre.
+
+Precauciones importantes:
+
+• En pacientes con infarto cerebral, se debe iniciar la administración de Cilostazol únicamente una
+
+vez que los síntomas del infarto cerebral hayan sido estabilizados. Debe prestarse atención a las
+
+interacciones del fármaco con otros agentes inhibidores de la coagulación y agentes antiagregantes
+
+plaquetarios,  y administrar Cilostazol con cuidado a pacientes con hipertensión no controlada. Se
+
+debe  controlar  por  completo  la  presión  arterial  durante  la  administración  del  fármaco  en  estos
+
+pacientes.
+
+• En pacientes con estenosis de las arterias coronarias, el incremento excesivo de la frecuencia del
+
+pulso  durante  la  administración  de  Cilostazol  puede  producir  angina  de  pecho.    En  estos  casos
+
+deben  tomarse  las  medidas  adecuadas,  por  ejemplo,  disminuir  la  dosis  o  suspender  la
+
+administración del fármaco.
+
+• Cilostazol tiene un efecto inhibidor de PDEIII. En un estudio comparativo controlado con placebo a
+
+largo  plazo  con  agentes  que  tienen  un  efecto  inhibidor  de  PDEIII  (milrinona  y  vesnarinona),  se
+
+registró una tasa de supervivencia menor que la del placebo en pacientes con insuficiencia cardíaca
+
+congestiva  (clasificación  III  o  IV  de  NYHA).  Asimismo,  en  pacientes  sin  insuficiencia  cardíaca
+
+congestiva, no se conoce el pronóstico con la administración a largo plazo de agentes inhibidores
+
+Cilostazol  no  fue  discontinuado  de  inmediato.  No  obstante,  la  agranulocitosis  es  habitualmente
+
+reversible luego de la suspensión de Cilostazol.
+
+Uso con clopidogrel y otros agentes antiplaquetarios:
+
+Cilostazol  inhibe  la  agregación  plaquetaria  pero  de  manera  reversible.  Se  recomienda  tener
+
+precaución en aquellos pacientes con riesgo de sangrado por operaciones o procesos patológicos.
+
+Asimismo,  se  recomienda  tener  precaución  en  pacientes  que  reciben  Cilostazol  y  algún  agente
+
+antiplaquetario o pacientes con trombocitopenia. Si bien no es posible determinar si se produce un
+
+efecto  aditivo  en  el  tiempo  de  sangría  durante  la  administración  concomitante  de  Cilostazol  y
+
+clopidogrel,  se  recomienda  precaución  para  verificar  el  tiempo  de  sangría  durante  la  coadminis-
+
+tración.
+
+Insuficiencia hepática:
+
+Insuficiencia renal:
+
+No se han analizado casos de pacientes con insuficiencia hepática moderada o severa en ensayos
+
+clínicos. Por este motivo se sugiere precaución al administrar Cilostazol en estos pacientes.
+
+No se han estudiado casos de pacientes en diálisis, pero es poco probable que Cilostazol se pueda
+
+quitar  eficazmente  por  diálisis  debido  a  la  alta  fijación  a  las  proteínas  (95  a  98%).  Se  requiere
+
+especial precaución cuando se utiliza Cilostazol en pacientes con insuficiencia renal severa, esto es
+
+con un clearance de creatinina estimado < 25mL/min.
+
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCIÓN
+
+Cilostazol  podría  tener  interacciones  farmacodinámicas  con  otros  inhibidores  de  la  función
+
+plaquetaria así como interacciones farmacocinéticas debidas a los efectos de otras drogas sobre su
+
+metabolismo  por  los  citrocromos  CYP3A4  o  CYP2C19.  La  reducción  de  la  dosis  de  Cilostazol
+
+deberá  considerarse  cuando  se  administre  de  forma  concomitante  con  inhibidores  del  CYP3A4  o
+
+CYP2C19. Cilostazol no parece inhibir el CYP3A4.
+
+Aspirina
+
+La coadministración por un breve plazo (≤ 4 días) de aspirina con Cilostazol incrementó la inhibición
+
+de  la  agregación  plaquetaria  inducida  ex  vivo  en  un  22%  -  37%  en  comparación  con  aspirina  o
+
+Cilostazol solos. La coadministración a corto plazo (≤ 4 días) de aspirina con Cilostazol incrementó
+
+la  inhibición  de  la  agregación  plaquetaria  inducida  ex  vivo  por  ácido  araquidónico  en  un  20%  en
+
+comparación con Cilostazol solo y en un 48% en comparación con aspirina sola. Sin embargo, la
+
+coadministración  de  la  aspirina  con  Cilostazol  a  corto  plazo  no  tuvo  un  impacto  clínicamente
+
+significativo sobre el tiempo de protrombina, el KPTT o el tiempo de sangrado en comparación con
+
+la  aspirina  sola.  Los  efectos  de  la  coadministración  a  largo  plazo  en  la  población  general  son
+
+desconocidos.  En  estudios  clínicos  aleatorizados  a  doble  ciego  controlados  con  placebo,  la
+
+administración de aspirina en dosis de 81 y 325 mg/día junto con Cilostazol por período de 54 a 137
+
+días no se observó un incremento aparente en la incidencia de efectos adversos hemorrágicos en
+
+pacientes  que  tomaban  aspirina  junto  con  Cilostazol  en  comparación  con  los  pacientes  que
+
+tomaban placebo y dosis equivalentes de aspirina.
+
+Las isoenzimas del citocromo P450 que intervienen en el metabolismo de R-warfarina son CYP3A4,
+
+CYP1A2,  y  CYP2C19,  y  la  CYP2C9  en  el  metabolismo  de  la  S-warfarina.  Cilostazol  no  inhibe  el
+
+metabolismo o los efectos farmacológicos (tiempo de protrombina, KPTT, tiempo de sangrado, o la
+
+agregación plaquetaria) de R y S warfarina después de una única dosis de 25 mg de warfarina. El
+
+efecto  de  la  administración  concomitante  de  dosis  múltiples  de  warfarina  y  Cilostazol  sobre  la
+
+farmacocinética y la farmacodinámica de ambos fármacos es desconocida.
+
+Dosis múltiples de clopidogrel no aumentan significativamente las concentraciones plasmáticas de
+
+-Inhibidores  potentes  de  CYP3A4:  una  dosis  de  carga  de  400  mg  de  ketoconazol  (un  potente
+
+inhibidor del CYP3A4) seguida de la administración de dosis únicas de ketoconazol 400 mg y 100
+
+mg de Cilostazol, aumentó la Cmáx de Cilostazol en un 94% y el AUC en un 117%. Es esperable
+
+que  otros  inhibidores  potentes  de  CYP3A4,  tales  como  itraconazol,  fluconazol,  miconazol,
+
+fluvoxamina, fluoxetina, nefazodona y sertralina, tengan un efecto similar (véase Posología).
+
+-Inhibidores moderados del CYP3A4: eritromicina y otros antibióticos macrólidos: eritromicina es un
+
+inhibidor moderado del CYP3A4. La coadministración de eritromicina 500 mg cada 8 horas con una
+
+dosis  única  de  100  mg  de  Cilostazol  aumentó  la  Cmáx  de  Cilostazol  en  un  47%  y  el AUC  en  un
+
+73%.  La  inhibición  del  metabolismo  de  Cilostazol  por  la  eritromicina  aumentó  el  AUC  de
+
+4'-trans-hidroxi-  cilostazol  en  un  141%.  Otros  antibióticos  macrólidos  (por  ejemplo,  claritromicina)
+
+pero no todos (por ejemplo, azitromicina), es esperable que tenga un efecto similar (ver Posología).
+
+Diltiazem: La administración de Diltiazem 180 mg disminuyó el clearance de Cilostazol en un 30%.
+
+La Cmax de Cilostazol aumentó aproximadamente 30% y el AUC aumentó aproximadamente 40%.
+
+Zumo  de  pomelo:  El  zumo  de  pomelo  aumentó  la  Cmáx  de  Cilostazol  en  un  50%,  pero  no  tuvo
+
+efecto en el AUC.
+
+Inhibidores del citocromo CYP2C19
+
+Omeprazol:  La  administración  conjunta  de  omeprazol  no  afectó  significativamente  el  metabolismo
+
+de  Cilostazol,  pero  la  exposición  sistémica  al  3,4-dihidro-Cilostazol  se  incrementó  en  un  69%,
+
+probablemente  como  resultado  de  la  potente  inhibición  del  CYP2C19  por  el  omeprazol  (véase
+
+Posología).
+
+- 98%.
+
+Poblaciones especiales:
+
+Edad y género
+
+ancianos.
+
+Fumadores
+
+Los parámetros farmacocinéticos no se alteran en función del sexo o la edad, incluso en pacientes
+
+de PDEIII, entre ellos Cilostazol.
+
+Reacciones adversas hematológicas:
+
+El análisis farmacocinético poblacional sugiere que fumar disminuye la absorción del Cilostazol en
+
+Se  han  reportado  raros  casos  de  trombocitopenia  o  agranulocitosis  cuando  el  tratamiento  con
+
+Quinidina: La administración concomitante de quinidina con una única dosis de 100mg de Cilostazol
+
+no alteró la farmacocinética de Cilostazol.
+Lovastatina: La administración concomitante de Cilostazol con lovastatina redujo un 15% la C max
+y  AUC  de  Cilostazol.  También  se  observó  una  disminución,  aunque  no  significativa,  en  las
+concentraciones  de  metabolitos  del  Cilostazol.  La  administración  concomitante  de  Cilostazol  con
+lovastatina  aumentó  el AUC  de  lovastatina  y  ß-hidroxi  lovastatina  en  aproximadamente  el  70%.
+Esto es probablemente clínicamente no significativo.
+Embarazo y lactancia
+Embarazo:  El  uso  de  Cilostazol  en  embarazadas  o  mujeres  con  posibilidad  de  embarazo  está
+formalmente contraindicado, ya que se ha observado en animales de experimentación el descenso
+en el peso de los neonatos, así como el incremento en la incidencia de malformaciones cardiovas-
+culares, renales y esqueléticas.
+Lactancia: Las mujeres en tratamiento con Cilostazol deben evitar el amamantamiento ya que en
+animales de experimentación se ha detectado que la droga se excreta en la leche materna.
+Uso pediátrico: No se aconseja el uso de Cilostazol en niños pues su eficacia y seguridad no han
+sido establecida en este grupo etario.
+Uso  en  ancianos:  Los  estudios  farmacocinéticos  no  han  mostrado  efecto  de  la  edad  en  el
+metabolismo, distribución y eliminación de Cilostazol.
+
+REACCIONES ADVERSAS
+Los  eventos  adversos  atribuidos  al  Cilostazol  han  sido  evaluados  ensayos  clínicos  comparativos
+con placebo en pacientes expuestos a una dosis de 50 o 100 mg de la droga dos veces al día.
+En  estos  estudios,  la  cefalea  fue  el  único  efecto  adverso  que  resultó  en  la  interrupción  del
+tratamiento, en ≥ 3% de los pacientes tratados con Cilostazol 50 o 100 mg dos veces al día, lo que
+se produjo con una incidencia de 1,3%, 3,5% y 0,3% en los pacientes tratados con Cilostazol 50 mg
+dos veces al día, 100 mg dos veces al día, o placebo, respectivamente. Otras causas frecuentes de
+discontinuación  del  tratamiento  incluyeron  palpitaciones  y  diarrea,  ambas  en  el  1,1%  de  los
+pacientes tratados con Cilostazol en todas las dosis investigadas frente al 0,1 % de los que recibían
+placebo.
+Los eventos adversos más comúnmente reportados y que ocurrieron en ensayos clínicos en ≥ 2%
+de los pacientes tratados con Cilostazol 50 o 100 mg administrados dos veces al día o con placebo
+se muestran en la tabla más abajo.
+Otros eventos observados con una incidencia ≥ 2 %, pero que ocurrieron en el grupo de placebo al
+menos  tan  frecuentemente  como  con  Cilostazol  100  mg  fueron:  astenia,  hipertensión,  vómitos,
+calambres en las piernas, hipostesia, parestesia, disnea, erupción, hematuria, infección del tracto
+urinario, síndrome gripal, angina de pecho, artritis, y bronquitis.
+
+Evento Adverso (EA) por
+sistema corporal
+
+Cilostazol 50 mg
+dos veces al día
+(% de casos)
+
+Cilostazol 100 mg
+dos veces al día
+(%de casos)
+
+Placebo
+(% de casos)
+
+5
+4
+
+1
+1
+
+10
+4
+
+4
+6
+27
+14
+
+3
+6
+14
+8
+
+5
+7
+34
+10
+
+Cuerpo como un todo
+Dolor abdominal
+Dolor dorsal
+Cefalea
+Infección
+Sistema Cardiovascular
+Palpitaciones
+Taquicardia
+Sistema Digestivo
+Deposiciones anormales
+Diarrea
+Dispepsia
+Flatulencia
+Náusea
+Sistema Metabólico y
+Nutricional
+Edema periférico
+Sistema Musculoesqulético
+Mialgias
+Sistema Nervioso
+Mareos
+Vértigo
+Sistema Respiratorio
+Tos
+Eventos adversos menos frecuentes (< 2 %), que fueron experimentados por pacientes expuestos
+a  Cilostazol  50  mg  o  100  mg  dos  veces  por  día  en  ensayos  clínicos  controlados  y  que  se
+Faringitis
+produjeron con una frecuencia mayor que en el grupo placebo con Cilostazol 100 mg dos veces por
+Rinitis
+
+15
+19
+6
+3
+7
+
+12
+12
+6
+2
+6
+
+4
+10
+7
+
+3
+7
+12
+
+4
+7
+4
+2
+6
+
+1
+10
+
+3
+7
+5
+
+6
+1
+
+9
+3
+
+2
+
+3
+
+4
+
+2
+
+7
+
+9
+
+Elaborado en su planta de Manufactura Centro Industrial Garín.
+Director Técnico: José Luis Tombazzi –Farmacéutico.
+
+                                                                                                                                                 RV 11/16
+
+día, independientemente de la relación de sospecha con la droga, se enumeran a continuación:
+Generales:  Escalofríos,  edema  facial,  fiebre,  edema  generalizado,  malestar  general,  rigidez  de
+cuello, dolor pélvico, hemorragia retroperitoneal.
+Aparato  Cardiovascular:  Fibrilación  auricular,  aleteo  auricular,  infarto  cerebral,  isquemia  cerebral,
+insuficiencia  cardíaca  congestiva,  paro  cardíaco,  hemorragia,  hipotensión,  infarto  de  miocardio,
+isquemia  miocárdica,  arritmia  nodal,  hipotensión  postural,  taquicardia  supraventricular,  síncope,
+varices, vasodilatación, extrasístoles ventriculares, taquicardia ventricular.
+Aparato  Digestivo: Anorexia,  colelitiasis,  colitis,  úlcera  duodenal,  hemorragia  esofágica,  esofagitis,
+duodenitis, aumento de GGT, gastritis, gastroenteritis, hemorragia de encías, hematemesis, melena,
+úlcera péptica, absceso periodontal, hemorragia rectal, úlcera de estómago, edema de la lengua.
+Sistema Endocrino: Diabetes mellitus.
+Sistema Hemático y Linfático: Anemia, equimosis, anemia ferropénica, policitemia, púrpura.
+Metabólicas y nutricionales: Aumento de la creatinina, gota, hiperlipemia, hiperuricemia.
+Sistema Musculoesquelético: Artralgia, dolor de huesos, bursitis.
+Sistema Nervioso: Ansiedad, insomnio, neuralgias.
+Aparato Respiratorio: Asma, epistaxis, hemoptisis, neumonía, sinusitis.
+Piel y anexos: Piel seca, forunculosis, hipertrofia de la piel, urticaria.
+Órganos  de  los  sentidos:  Ambliopía,  ceguera,  conjuntivitis,  diplopía,  dolor  de  oído,  hemorragia
+ocular, hemorragia retiniana, tinnitus.
+Aparato Urogenital: Albuminuria, cistitis, frecuencia urinaria, hemorragia vaginal, vaginitis.
+Otros eventos adversos reportados:
+Trastornos  sanguíneos  y  del  sistema  linfático:  Agranulocitosis,  anemia  aplásica,  granulocitopenia,
+pancitopenia, trombocitopenia, leucopenia, tendencia al sangrado
+Trastornos  cardíacos: Torsades  de  pointes,  prolongación  del  intervalo  QTc  (torsades  de  pointes  y
+prolongación del intervalo QTc ocurrido en pacientes con trastornos cardíacos, por ejemplo bloqueo
+completo  auriculoventricular,  insuficiencia  cardiaca  y  bradiarritmia,  cuando  son  tratados  con
+Cilostazol).
+Trastornos gastrointestinales: Hemorragia gastrointestinal.
+Trastornos generales y alteraciones en el lugar de administración: Dolor, dolor en el pecho, sofocos.
+Trastornos hepatobiliares: Disfunción hepática, pruebas anormales de la función hepática, ictericia
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos: Hematoma extradural y el
+hematoma subdural.
+Laboratorio: Hiperglucemia, hiperuricemia, plaquetopenia, leucopenia, aumento de la urea, aumento
+de la presión arterial
+Trastornos  del  sistema  nervioso:  Hemorragia  intracraneal,  hemorragia  cerebral,  accidente
+cerebrovascular.
+Trastornos respiratorios, torácicos y mediastínicos: Hemorragia pulmonar, neumonía intersticial
+Piel y del tejido subcutáneo: Hemorragias subcutáneas, erupciones cutáneas y prurito incluyendo el
+síndrome de Stevens-Johnson, exantema cutáneo (dermatitis medicamentosa)
+Trastornos  vasculares:  Trombosis  subaguda  (estos  casos  de  trombosis  subaguda  ocurrieron  en
+pacientes  tratados  con  aspirina  y  uso  de  Cilostazol  fuera  del  prospecto  para  la  prevención  de
+complicaciones trombóticas después de la colocación de stents coronarios)
+Ante cualquier inconveniente con el producto Usted puede:
+- comunicarse al 4756-5436 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+-llenar la ficha que está en la Página Web de la ANMAT:
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234
+
+SOBREDOSIS
+La información acerca de la sobredosis aguda con Cilostazol en humanos es limitada. Los signos y
+síntomas de una sobredosis aguda podrían ser: cefalea severa, hipotensión, diarrea, taquicardia y
+arritmias cardíacas. Debido a que Cilostazol se une extensamente a las proteínas plasmáticas, es
+improbable  que  la  droga  pueda  ser  removida  por  hemodiálisis  o  diálisis  peritoneal.  En  caso  de
+sobredosis, el tratamiento, debe iniciarse sin demoras y es sintomático y de sostén.
+Ante  la  eventualidad  de  una  sobredosis  concurrir  al  Hospital  más  cercano  o  comunicarse  a  los
+Centros de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/4962-2247
+Hospital A. Posadas (011) 4658-7777/4654-6648.
+
+CONSERVACION
+Conservar a temperatura ambiente menor a 30o C y en lugar seco.
+
+PRESENTACION
+Envase conteniendo 30 comprimidos.
+
+“MANTENER FUERA DEL ALCANCE DEL LOS NIÑOS”
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+Certificado No 52.669
+
+DENVER FARMA S.A.
+Natalio Querido 2285
+(B1605CYC) Munro, Provincia de Buenos Aires.

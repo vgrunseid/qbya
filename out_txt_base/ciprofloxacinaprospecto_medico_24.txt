@@ -1,0 +1,2085 @@
+CIPROFLOXACINA DENVER FARMA
+CIPROFLOXACINA 500 mg
+Comprimidos recubiertos
+Industria Argentina                                                                                                                                     Venta Bajo Receta Archivada
+
+COMPOSICIÓN
+Cada comprimido recubierto de CIPROFLOXACINA DENVER FARMA 500 mg contiene:
+Ciprofloxacina (como clorhidrato)  500 mg
+Excipientes: lactosa spray, povidona, lauril sulfato de sodio, almidón glicolato de sodio, croscarmellosa sódica, talco, estearato de
+magnesio, hidroxipropilmetilcelulosa, talco, dióxido de titanio, polietilenglicol 600, laca azul brillante,  c.s.
+ACCIÓN TERAPÉUTICA
+Código ATC: J01MA02
+Agente antibacteriano.
+INDICACIONES
+Se deben tener en cuenta las recomendaciones oficiales locales acerca del uso de antimicrobianos antes de indicar quinolonas.
+Debido  a  que  se  han  reportado  reacciones  adversas  serias  asociadas  al  uso  de  quinolonas  se  debe  establecer  claramente  la
+relación riesgo-beneficio para cada indicación, particularmente cuando hubieran opciones terapéuticas alternativas.
+Antes de comenzar la terapia, se debe tener especial atención con la información disponible sobre resistencia a la Ciprofloxacina.
+CIPROFLOXACINA DENVER FARMA está indicado para el tratamiento de las siguientes infecciones.
+Adultos
+• Infecciones del tracto respiratorio inferior debido a bacterias Gram-positivas
+• Exacerbación de la Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+• Infecciones bronco-pulmonares en fibrosis quística o en bronquiectasias
+• Neumonía
+• Otitis media crónica supurativa
+• Exacerbación de la sinusitis crónica, especialmente si fue causada por bacterias Gram-negativas
+• Infecciones del tracto urinario
+• Infecciones del tracto genital
+        • Uretritis y cervicitis gonocócicas causadas por Neisseria gonorrhoeae
+        • Epididimitis y  orquitis incluyendo aquellas causadas por Neisseria gonorrhoeae
+        • Enfermedad inflamatoria de la pelvis causadas por Neisseria gonorrhoeae
+• Infecciones del tracto gastrointestinal (por ej.: diarrea del viajero)
+• Infecciones intraabdominales
+• Infecciones de la piel y de los tejidos blandos causadas por bacterias Gram-negativas
+• Otitis externa maligna
+• Infecciones de los huesos y articulaciones
+• Profilaxis en las infecciones invasivas debido a Neisseria meningitidis
+• Inhalación de Ántrax (profilaxis post exposición y tratamiento curativo)
+La Ciprofloxacina puede ser usada en pacientes neutropénicos con fiebre, en los que se sospecha  una infección bacteriana.
+Niños y Adolescentes
+• Infecciones bronco-pulmonares en enfermedad fibroquística causadas por Pseudomonas aeruginosa
+• Infecciones complicadas del tracto urinario y pielonefritis
+• Inhalación de Antrax (profilaxis post exposición y tratamiento curativo)
+Cuando se considere necesario, Ciprofloxacina puede ser usada en los tratamientos de infecciones severas en niños y adolescentes.
+El  tratamiento  debe  ser  iniciado  por  un  médico  con  experiencia  en  infecciones  de  niños  y  adolescentes  que  padecen  fibrosis
+quística.
+CARACTERÍSTICAS FARMACOLÓGICAS
+Propiedades Farmacodinámicas
+Mecanismo de acción
+Como  agente  antibacteriano  del  grupo  de  las  fluoroquinolona,  la  acción  bactericida  de  la  Ciprofloxacina  se  debe  a  la  inhibición  de
+topoisomerasa II (ADN-Girasa) y topoisomerasa IV, que se requieren para la replicación, transcripción, reparación y recombinación del ADN.
+Relación farmacocinética / farmacodinámica
+La eficacia depende principalmente de la relación de la concentración máxima sérica (Cmáx) y de la concentración de inhibición mínima
+(MIC) de la Ciprofloxacina para un patógeno bacteriano y la relación entre el área bajo la curva (ABC) y el MIC.
+Mecanismo de resistencia
+La resistencia in vitro a la Ciprofloxacina, puede producirse a través de procesos secuenciales de mutaciones en los sitios diana de la
+ADN  girasa  y  la  topoisomerasa  IV.  El  grado  de  resistencia  cruzada  entre  Ciprofloxacina  y  otras  fluoroquinolonas  que  se  produce  es
+variable. Mutaciones únicas puede no resultar en resistencia clínica, mientras que las mutaciones múltiples generalmente resultan en
+resistencia clínica a muchas o todas las drogas de la clase.
+Los mecanismos de resistencia como la impermeabilidad y/o la activación de la bomba de eflujo de la sustancia activa, pueden tener
+efectos  variables  sobre  la  susceptibilidad  a  las  fluoroquinolonas  dependiendo  de  las  propiedades  fisicoquímicas  de  las  distintas
+sustancias  activas  de  la  clase  y  de  la  afinidad  a  los  sistemas  de  transporte  de  cada  sustancia  activa.  Todos  los  mecanismos  de
+resistencia in Vitro son comúnmente observados por aislamiento en análisis clínicos. Los mecanismos de resistencia que inactivan otros
+antibióticos como las barreras de penetración (comúnmente en Pseudomonas aeruginosa) y los mecanismos de eflujo pueden afectar la
+susceptibilidad a la Ciprofloxacina.
+Se ha reportado resistencia mediada por plásmidos y codificada por el gen qnr.
+Espectro de actividad antibacteriana
+Los puntos de corte separan las cepas sensibles de las cepas con sensibilidad intermedia y estas últimas de las cepas resistentes:
+EUCAST recomendaciones
+
+Microorganismos
+
+Enterobacteriaceae
+Pseudomonas spp.
+Acinetobacter spp.
+Staphylococcus spp.1
+Haemophilus influenzae and
+Moraxella catarrhalis
+Neisseria gonorrhoeae
+Neisseria meningitidis
+Especies no relacionadas con
+el punto de corte*
+
+Susceptibles
+
+Resistencia
+
+S ≤ 0.5 mg/L
+S ≤ 0.5 mg/L
+S ≤ 1 mg/L
+S ≤ 1 mg/L
+S ≤ 0.5 mg/L
+
+S ≤ 0.03 mg/L
+S ≤ 0.03 mg/L
+S ≤ 0.5 mg/L
+
+R > 1 mg/L
+R > 1 mg/L
+R > 1 mg/L
+R > 1 mg/L
+R > 0.5 mg/L
+
+R > 0.06 mg/L
+R > 0.06 mg/L
+R > 1 mg/L
+
+1 Staphylococcus spp – el punto de corte para Ciprofloxacina está relacionado con terapia de altas dosis
+* Las especies no relacionadas con el punto de corte han sido determinadas principalmente sobre la base de datos PK/PD y son
+independientes de la distribución del MIC de las especies específicas. Ellas son sólo para el uso en especies a las que no se le han
+dado un punto de corte especifico y no para aquellas especies donde el test de susceptibilidad no este recomendado.
+La prevalencia de la resistencia adquirida puede variar geográficamente y con el tiempo para especies seleccionas siendo aconsejable
+considerar  la  información  local  sobre  resistencia,  particularmente  cuando  se  trata  de  infecciones  severa.  Según  sea  necesario,  se
+debería tener en cuenta el consejo de un experto cuando la prevalencia local de resistencia es tal que la utilidad de los agentes en
+algunos tipos de infección es cuestionable.
+Grupos relevantes de especies de acuerdo a la susceptibilidad a la Ciprofloxacina (Para Streptococcus species ver Advertencias y
+
+Precauciones)
+ESPECIES COMUNMENTE SUSCEPTIBLES
+Microorganismos Aeróbicos Gram-positivos
+Bacillus anthracis (1)
+Microorganismos Aeróbicos Gram-negativos
+Aeromonas spp.
+Brucella spp.
+Citrobacter koseri
+Francisella tularensis
+Haemophilus ducreyi
+Haemophilus influenzae*
+Legionella spp.
+Moraxella catarrhalis*
+Neisseria meningitidis
+Pasteurella spp.
+Salmonella spp.*
+Shigella spp.*
+Vibrio spp.
+Yersinia pestis
+Microorganismos Anaeróbicos
+Mobiluncus
+Otros microorganismos
+Chlamydia trachomatis (S)
+Chlamydia pneumoniae (S)
+Mycoplasma hominis (S)
+Mycoplasma pneumoniae (S)
+ESPECIES PARA LOS CUALES LA RESISTENCIA ADQUIRIDA PUEDE SER UN PROBLEMA
+Microorganismos Aeróbicos Gram-positivos
+Enterococcus faecalis (S)
+Staphylococcus spp.* (2)
+Microorganismos Aeróbicos Gram-negativos
+Acinetobacter baumannii+
+Burkholderia cepacia+*
+Campylobacter spp.+*
+Citrobacter freundii*
+Enterobacter aerogenes
+Enterobacter cloacae*
+Escherichia coli*
+Klebsiella oxytoca
+Klebsiella pneumoniae*
+Morganella morganii*
+Neisseria gonorrhoeae*
+Proteus mirabilis*
+Proteus vulgaris*
+Providencia spp.
+Pseudomonas aeruginosa*
+Pseudomonas fluorescens
+Serratia marcescens*
+Microorganismos Anaeróbicos
+Peptostreptococcus spp.
+Propionibacterium acnes
+MICRORGANISMOS INHERENTEMENTE RESISTENTES
+Microorganismos Aeróbicos Gram-positivos
+Actinomyces
+Enteroccus faecium
+Listeria monocytogenes
+Microorganismos Aeróbicos Gram-negativos
+Stenotrophomonas maltophilia
+Microorganismos Anaeróbicos
+Excepto los listados arriba
+Otros micro-organismos
+Mycoplasma genitalium
+Ureaplasma urealitycum
+* La eficacia clínica ha sido demostrada por cepas susceptibles en indicaciones clínicas aprobadas
++ Velocidad de resistencia ≥ 50% en uno o más países de la Comunidad Europea
+(S) Susceptibilidad natural intermedia en la ausencia de un mecanismo de resistencia adquirido
+(1)  Estudios  realizados  en  infecciones  experimentales  con  animales  debido  a    inhalaciones  de  esporas  de  Bacillus  anthracis;  estos
+estudios  revelan  que  los  antibióticos  iniciados  tempranamente  después  de  la  exposición,  evitan  el  desarrollo  de  la  enfermedad  si  el
+tratamiento está diseñado  con una dosis adecuada para disminuir el número de esporas en el organismo infectado. El uso recomendado
+en humanos se basa primariamente en la susceptibilidad in Vitro y sobre datos de experimentos en animales junto con datos  limitados en
+humanos. Un tratamiento de 2 meses de duración en adultos con Ciprofloxacina oral en dosis 500 mg 2 veces al día, es considerada
+efectiva  para  prevenir  la  infección  de  ántrax  en  humanos.  El  tratamiento  el  médico  debería  basarse  en  documentos  consensuados
+nacional e internacionalmente  para el tratamiento del ántrax.
+(2) La resistencia del S. aureus  a la meticilina comúnmente expresa co-resistencia a las fluoroquinolonas. La tasa de resistencia a la
+meticilina es alrededor de 20 a 50% entre todos las especies de Staphylococcus  y es usualmente más elevada en cepas hospitalarias.
+Propiedades Farmacocinéticas
+Absorción
+Después de la administración de dosis únicas de 250 mg, 500 mg y 750 mg de Ciprofloxacina comprimidos, la droga es absorbida rápida y
+ampliamente, principalmente en el intestino delgado, alcanzándose la concentración sérica máxima después de 1-2 horas.
+Dosis única de 100 mg y 750 mg produce concentraciones séricas máximas (Cmáx), dependiendo de la dosis, con un rango de 0.56 a 3.7
+mg/mL. Las concentraciones séricas aumentan proporcionalmente con dosis superiores a 1000 mg.
+La biodisponibilidad absoluta está aproximadamente entre 70 – 80%.
+Una dosis oral de 500 mg dada cada 12 horas se demostró que produce un área bajo la curva de concentración sérica (ABC) equivalente
+a la que se produce por una infusión intravenosa de 400 mg de Ciprofloxacina administrada durante 60 minutos cada 12 horas.
+Distribución
+La unión de ciprofloxacina con las proteínas es baja (20-30%). La Ciprofloxacina alcanza concentraciones elevadas en una variedad de
+tejidos tales como los pulmonares (fluido epitelial, macrófagos alveolares, biopsia de tejidos), senos, lesiones inflamatorias (líquido de
+las  ampollas),  y  del  tracto  urogenital  (orina,  próstata,  endometrio)  en  dónde  la  concentración  total  excede  las  concentraciones
+alcanzadas en plasma.
+Biotransformación
+Se  han  reportado  concentraciones  bajas  de  4  metabolitos,  los  cuales  fueron  identificados  como:  desetileneciprofloxacina  (M1),
+sulfociprofloxacina (M2), oxociprofloxacina (M3) y formilciprofloxa-cina (M4). Los metabolitos exhiben actividad antimicrobiana in Vitro pero
+en menor grado que Ciprofloxacina. La Ciprofloxacina es un inhibidor moderado de la isoenzimas CYP 450 1A2 isoenzimas.
+
+Eliminación
+La Ciprofloxacina es excretada principalmente sin modificaciones tanto por vía renal y en menor proporción por vía fecal. La vida
+media de eliminación sérica en sujetos con función renal normal es aproximadamente 4 – 7 horas.
+
+Excreción de Ciprofloxacina (% de dosis)
+Administración oral
+Orina
+44.7
+11.3
+
+Ciprofloxacina
+Metabolitos (M1-M4)
+
+Heces
+25.0
+7.5
+
+El  clearance  renal  se  encuentra  entre  180-300  mL/kg/h  y  el  clearance  total  corporal  entre  480-600  mL/kg/h.  Ciprofloxacina  está
+sometida tanto a la filtración glomerular como a la secreción tubular. El deterioro severo de la función renal aumenta la vida media
+de Ciprofloxacina más allá de las 12 horas.
+El clearance no renal de Ciprofloxacina se debe principalmente a la secreción activa trans-intestinal y al metabolismo. El 1% de la
+dosis es excretada por la vía biliar. Ciprofloxacina está presente en la bilis en altas concentraciones.
+Pacientes pediátricos
+Los datos farmacocinéticos en pacientes pediátricos son limitados.
+En un estudio en niños, la Cmáx y ABC no fueron dependientes de la edad (niños de más de 1 año). Se observó un incremento
+notable de la Cmáx y ABC con dosis múltiples (10 mg/kg 3 veces al día).
+En 10 niños con sepsis severa  Cmáx fue 6.1 mg/L (rango 4.6-8.3 mg/L) después de 1 hora de infusión intravenosa de 10 mg/kg en
+niños menores de 1 año, comparado con 7.2 mg/L (rango 4.7 -11.8 mg/L) para niños entre 1 y 5 años de edad. Los valores de ABC
+fueron de 17.4 mg/h/L (rango 11.8 - 32.0 mg/h/L) y 16.5 mg/h/L (rango 11.0 – 23.8 mg/h/L) para los respectivos grupos.
+Estos valores se encuentran dentro del rango reportado para adultos a dosis terapéuticas. Basándose en análisis farmacocinéticos
+de la población de pacientes pediátricos con diferentes  infecciones, la vida media en niños es de aproximadamente 4-5 horas y la
+biodisponibilidad de la suspensión oral está en un rango de 50 a 80%.
+Datos preclínicos sobre seguridad
+Los  datos  no  clínicos  revelan  que  no  hay  especial  peligro  para  humanos  basándose  en  estudios  convencionales  de  toxicidad  a
+dosis única y repetidas, potencial carcinogénico o toxicidad reproductiva.
+Como  otras  quinolonas,  Ciprofloxacina  es  fototóxica  en  animales  en  niveles  de  exposición  clínicamente  relevantes.  Datos  de
+fotomutagenicidad / fotocarcinogenicidad muestran un débil efecto fotomutagénico o fototumorigénico de Ciprofloxacina in Vitro en
+experiencias con animales. Este efecto fue comparable a la de otros inhibidores de la ADN girasa.
+Tolerabilidad articular
+Como  se  ha  reportado  con  otros  inhibidores  de  la  ADN  girasa,  Ciprofloxacina  produce  daño  en  las  articulaciones  de  las
+extremidades que sostienen peso en animales inmaduros. La extensión del daño de los cartílagos varía de acuerdo a la edad, la
+especie y la dosis; el daño puede reducirse disminuyendo el peso sobre las articulaciones. Estudios con animales maduros (ratas,
+perros)  no  revelaron  evidencia  de  lesiones  en  los  cartílagos.  En  un  estudio  en  perros  Beagle  jóvenes,  Ciprofloxacina  produjo
+cambios  articulares  severos  a  dosis  terapéuticas  después  de  2  semanas  de  tratamiento,  los  cuales  fueron  todavía  observados
+durante 5 meses.
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+La  dosis  se  determina  según  la  indicación,  la  severidad  y  la  zona  de  infección,  la  susceptibilidad  a  la  Ciprofloxacina  por  los
+organismos causantes, la función renal de los pacientes, y en niños y adolescentes según su peso corporal.
+La duración del tratamiento depende de la severidad de la enfermedad y de su curso clínico y bacteriológico.
+El  tratamiento  de  las  infecciones  debida  a  ciertas  bacterias  (por  ej.  Pseudomonas  aeruginosa, Acinetobacter  or  Staphylococcus)
+puede requerir dosis más elevadas de Ciprofloxacina y la co-administración de otro agente antibacteriano apropiado.
+El tratamiento de algunas infecciones (por ej. enfermedades inflamatorias pélvicas, infecciones intra-abdominales, infecciones en
+pacientes neutropénicos e infecciones de huesos y articulaciones) puede requerir la co-administración de otros agentes bacterianos
+apropiados dependiendo de los patógenos involucrados.
+Adultos
+
+Dosis diaria en mg
+
+Indicaciones
+
+Duración total del
+tratamiento (Incluyendo
+el posible tratamiento
+parenteral inicial con
+ciprofloxacina)
+
+Infecciones del tracto respiratorio inferior
+
+Infecciones  del
+tracto
+respiratorio
+superior
+
+Exacerbación  aguda  de  sinusitis
+crónica
+Otitis media supurativa crónica
+
+Otitis externa maligna
+
+Infecciones  del
+tracto urinario
+
+Cistitis no complicadas
+
+Cistitis complicadas
+
+Cistitis  complicadas  Pielonefritis  no
+complicada
+Pielonefritis complicada
+
+Prostatitis
+
+Infecciones  del
+tracto genital
+
+Infecciones  del
+tracto
+gastro-
+intestinal e intra-
+abdominales.
+
+por
+
+causada
+
+Uretritis y cervicitis gonocócica
+Enfermedad inflamatoria de
+epidídimo-orquitis y pélvica
+bacterias
+Diarrea
+patógenas incluyendo  Shigella  spp.  y
+otras como Shigella dysenteriae tipo 1
+y
+tratamiento  empírico  de  diarrea
+severa del viajero
+Diarrea
+dysenteriae tipo 1
+Diarrea causada por Vibrio cholerae
+
+causada
+
+Shigella
+
+por
+
+Fiebre tifoidea
+
+Infecciones intra-abdominal causadas
+por bacteria Gram negativa
+
+7 a 14 días
+
+7 a 14 días
+
+7 a 14 días
+
+28 días a 3 meses
+
+500  mg  a  750  mg  2
+veces al día
+500  mg  a  750  mg  2
+veces al día
+500  mg  a  750  mg  2
+veces al día
+750  mg  2  veces  al
+día
+250  mg  a  500  mg  2
+veces al día
+En  mujeres  pre-menopáusicas  500  mg  dosis
+única
+500  mg  2  veces  al
+día
+500  mg  2  veces  al
+día
+500  mg  a  750  mg  2
+veces al día
+
+3 días
+
+7 días
+
+7 días
+
+Al menos durante 10
+días, y se puede
+prolongar hasta 21 días
+en algunas circunstancias
+especificas
+2  a 4  semanas  (aguda)  a
+4 a 6 semanas (crónicas)
+
+500  mg  a  750  mg  2
+veces al día
+500 mg dosis única
+500  mg  a  750  mg  2
+veces al día
+500 mg diarios
+
+500  mg  2  veces  al
+día
+500  mg  2  veces  al
+día
+500  mg  2  veces  al
+día
+500  mg  a  750  mg  2
+veces al día
+
+Al menos 14 días
+
+1 día
+
+5 días
+
+3 días
+
+7 días
+
+5 a 14 días
+
+tratamiento  con  Ciprofloxacina  Denver  Farma  deben  advertir  a  su  médico  si  presentan  síntomas  de  neuropatía  como  dolor,  ardor,
+
+hormigueo, entumecimiento o debilidad para prevenir el desarrollo de una condición irreversible.
+
+Infecciones severas e infecciones mixtas por  gérmenes Gram-positivos y patógenos anaeróbicos
+
+La monoterapia con Ciprofloxacina no es adecuada para el tratamiento de infecciones severas e infecciones que podrían ser causadas por
+
+gérmenes  Gram-positivos  o  patógenos  anaeróbicos.  En  estas  infecciones  Ciprofloxacina  debe  administrarse  conjuntamente  con  otros
+
+agentes antibacterianos apropiados.
+
+Infecciones Estreptocócicas (incluyendo Streptococcus pneumoniae)
+
+La Ciprofloxacina no se recomienda para el tratamiento de infecciones estreptocócicas debido a que su eficacia es limitada en estos casos.
+
+Infecciones del tracto genital
+
+La uretritis o cervicitis gonocócicas,  epididimitis-orquitis y enfermedades con inflamación pelviana pueden ser causadas por ciertas cepas
+
+de Neisseria gonorrhoeae resistentes a las fluoroquinolonas.
+
+De  esta  manera,  Ciprofloxacina  sólo  debería  ser  administrada  para  el  tratamiento  de  uretritis  o  cervicitis  gonocócica    sólo  si  puede
+
+excluirse la existencia de resistencia a la Ciprofloxacina por la Neisseria gonorrhoeae.
+
+Para el epididimitis–orquitis y enfermedades con inflamación pelviana, el uso empírico de  Ciprofloxacina debería ser considerado sólo si
+
+se administra en combinación con otro agente antibacteriano apropiado (por ej. Cefalosporina) a menos que pueda excluirse la resistencia
+
+a la Ciprofloxacina por la Neisseria gonorrhoeae. Si no se observa mejoramiento después de 3 días de tratamiento se debe reconsiderar la
+
+La resistencia de la Escherichia coli, el patógeno que más comúnmente ocasiona las infecciones en el tracto urinario, a las fluoroquino-
+
+lonas, varía según los países. Los médicos deben tener en cuenta la prevalencia local a la resistencia a las fluoroquinolonas por la E. coli.
+
+La administración de una única dosis de Ciprofloxacina para tratar cistitis no complicada en mujeres pre-menopáusicas,  se espera que se
+
+asocie con una menor eficacia que una terapia más prolongada.  Es importante  tener en cuenta el incremento del nivel de resistencia de la
+
+Los datos de eficacia de Ciprofloxacina en el tratamiento de las infecciones intra-abdominales post-quirúrgicas son limitados.
+
+La elección de Ciprofloxacina debería  tener en cuenta la información sobre resistencia a la misma por los patógenos involucrados en el
+
+en el suicidio. En los casos en que pudiera ocurrir tal eventualidad debería discontinuarse el uso de Ciprofloxacina.
+
+Se reportaron casos de polineuropatía (basado en síntomas neurológicos como dolor, ardor, disturbios sensoriales o debilidad muscular,
+
+solos o en combinación) en pacientes que recibían Ciprofloxacina. Debería discontinuarse el tratamiento con Ciprofloxacina en pacientes
+
+que  experimenten  síntomas  de  neuropatía,  incluyendo  dolor,  ardor,  hormigueo,  entumecimiento,  y/o  debilidad,  con  el  fin  de  prevenir  el
+
+Fenitoína
+
+Ciclosporina
+
+Debe observarse precaución cuando se usen fluoroquinolonas, incluida Ciprofloxacina, en aquellos pacientes con factores de riesgo para
+
+Antagonistas de la Vitamina K
+
+desarrollo de una condición irreversible (ver sección Reacciones adversas).
+
+Trastornos cardiacos
+
+prolongación del intervalo QT, como por ejemplo:
+
+• Síndrome congénito de prolongación del QT
+
+• Uso concomitante de drogas que se conoce que prolongan el intervalo QT (por ej. Antiarritmicos Clase IA y III, antidepresivos tricíclicos,
+
+macrólidos, antipsicóticos)
+
+• Desequilibrio electrolítico no corregido (por ej. hipokalemia, hipomagnesemia)
+
+• Enfermedades cardíacas (por ej. insuficiencia cardíaca, infarto del miocardio, bradicardia)
+
+la concentraciones sérica de estos derivados de xantina.
+
+La administración simultanea de Ciprofloxacina y fenitoína puede producir un incremento o reducir los niveles séricos de fenitoína, por lo
+
+cual se recomienda monitorear los niveles de la droga.
+
+Se observó un incremento transitorio en la concentración sérica de la creatinina cuando se administró concomitantemente Ciprofloxacina
+
+y ciclosporina. Por lo cual, en estos pacientes es necesario un control frecuente (2 veces por semanas) de la creatinina sérica.
+
+La administración simultanea de Ciprofloxacina con un antagonista de la vitamina K puede aumentar su efecto anticoagulante. El riesgo
+
+puede variar con la infección subyacente, la edad y el estado general del paciente, de manera que la contribución de la Ciprofloxacina en
+
+el  incremento  del  RIN  (tasa  normalizada  internacional)  es  difícil  de  evaluar.  El  RIN  debe  ser  monitoreado  frecuentemente  durante  y
+
+después la co-administración de Ciprofloxacina con un antagonista de la vitamina K (por ej. warfarina, acenocoumarol, fenprocoumon o
+
+Los pacientes geriátricos y las mujeres pueden ser más sensibles a las medicaciones que prolongan el intervalo QT, por lo cual debería
+
+observarse precaución cuando en ellos se usan fluoroquinolonas, incluyendo Ciprofloxacina.
+
+Se ha demostrado a través de estudios clínicos que el uso concomitante de duloxetina con inhibidores potentes de la isoenzima CYP450
+
+1A2, como fluvoxamina, puede producir un incremento del ABC y Cmáx de duloxetina. Aunque no hay datos clínicos disponibles con la
+
+Hipoglucemia
+
+Sistema gastrointestinal
+
+Como con otras quinolonas se han reportado casos de hipoglucemia, mayormente en pacientes diabéticos y en la población geriátrica. En
+
+Ropinirol
+
+el caso de los pacientes diabéticos se recomienda el monitoreo de la glucosa en sangre.
+
+La ocurrencia de diarrea severa y persistente durante o después del tratamiento (aún varias semanas después del tratamiento) puede
+
+indicar  la  existencia  de  una  colitis  asociada  al  tratamiento  antibiótico  (la  cual  puede  amenazar  la  vida),  requiriendo  un  tratamiento
+
+inmediato.  En  estos  casos  debe  discontinuarse  inmediatamente  el  tratamiento  con  Ciprofloxacina  e  iniciar  una  terapia  adecuada.  Las
+
+drogas anti-peristálticas están contraindicadas en esta situación.
+
+Sistema renal y urinario
+
+Se ha reportado cristaluria relacionada con el uso de Ciprofloxacina (ver sección Reacciones adversas).
+
+Los pacientes que reciben Ciprofloxacina deberían estar bien hidratados y se debería evitar el exceso de alcalinidad en la orina.
+
+Ciprofloxacina, se espera efectos similares si se administran concomitantemente.
+
+En  un  estudio  clínico  se  demostró  que  la  administración  concomitante  de  ropirinol  con  Ciprofloxacina,  un  inhibidor  moderado  de  la
+
+isoenzima CYP450 1A2, produjo un incremento de la Cmáx y ABC de ropirinol en un 60% y 84%, respectivamente.
+
+Se  recomienda  el  monitoreo  de  los  efectos  adversos  relacionados  con  el  ropirinol  y  el  ajuste  a  la  dosis  apropiada  durante  e
+
+inmediatamente después de la co-administración de Ciprofloxacina.
+
+Se  demostró  que  en  sujetos  sanos  a  quienes  le  administraron  conjuntamente  lidocaína  y  Ciprofloxacina,  un  inhibidor  moderado  de
+
+isoenzima CYP450 1A2, se produjo una reducción en el clearence intravenoso de lidocaína en un 22%.
+
+Aunque el tratamiento con lidocaína fue bien tolerado, se puede producir una posible interacción con Ciprofloxacina asociada con efectos
+
+fluindiona).
+
+Duloxetina
+
+Lidocaína
+
+adversos.
+
+Clozapina
+
+Infecciones de los huesos y las articulaciones
+
+Ciprofloxacina  debería  administrarse  en  combinación  con  otros  agentes  antimicrobianos  dependiendo  de  los  resultados  de  los  análisis
+
+Dado que la Ciprofloxacina es principalmente excretada por vía renal sin cambios, es necesario ajustar la dosis en aquellos pacientes con
+
+deterioro de la función renal, y evitar el incremento de las reacciones adversas de la droga debido a acumulación de Ciprofloxacina.
+
+Luego  de  la  administración  concomitante  de  250  mg  de  Ciprofloxacina  con  clozapina  durante  7  días,  las  concentraciones  séricas  de
+
+clozapina y N-desmetilclozapina se incrementaron un 29% y un 31%, respectivamente. Se recomienda la supervisión clínica y el ajuste a
+
+Deterioro de la función renal
+
+Sistema hepatobiliar
+
+Se  han  reportado  casos  de  necrosis  hepática  y  amenaza  de  vida  por  fallo  hepático  en  pacientes  con  deficiencia  de  glucosa  6-fosfato
+
+deshidrogenasa. Se debe evitar la administración de Ciprofloxacina en estos pacientes, al menos que el beneficio sea mayor que el riesgo.
+
+Sildenafil
+
+En este caso, se debe monitorear la posible ocurrencia de hemólisis.
+
+La Cmáx y el ABC del sildenafil se incrementaron aproximadamente 2 veces en sujetos sanos después de una dosis oral concomitante de
+
+50 mg de Ciprofloxacina. Por este motivo se recomienda precaución en la prescripción concomitante  de Ciprofloxacina con sildenafil,
+
+la dosis adecuada de clozapina durante y después de la co-administración con Ciprofloxacina.
+
+El uso en humanos esta basado en datos de susceptibilidad in Vitro y datos experimentales en animales junto con datos limitados en seres
+
+Con  respecto  al  tratamiento  del  ántrax,  los  médicos  deberían  tomar  como  referencia  los  documentos  nacionales  y/o  internacionales
+
+Resistencia
+
+terapia aplicada.
+
+Infecciones del tracto urinario
+
+E. coli a las quinolonas.
+
+Infecciones intra-abdominales
+
+Diarrea del viajero
+
+país que se visita.
+
+microbiológicos.
+
+Inhalación de Ántrax
+
+humanos.
+
+consensuados.
+
+Población pediátrica
+
+El tratamiento con Ciprofloxacina debería ser iniciado solamente por médicos experimentados en el tratamiento de fibrosis quística y/o
+
+infecciones severas en niños y adolescentes.
+
+Se ha demostrado que la Ciprofloxacina causa artropatía en las articulaciones que soportan el peso corporal en animales inmaduros.
+
+Los datos de seguridad de un estudio clínico doble ciego randomizado con Ciprofloxacina en niños (ciprofloxacina: n=335; edad media: 6.3
+
+años; comparadores: n=349; edad media: 6.2 años; rango de edad= 1 a 17 años), revelaron una incidencia de artropatía que se sospecha
+
+debida a la droga (discernido por los signos y síntomas clínicos relacionados con las articulaciones) del 7.2% y 4.6% respectivamente en el
+
+Día +42. La incidencia de artropatía relacionada con la droga para un año de seguimiento fue de 9.0% y 5.7%, respectivamente. Con el
+
+tiempo, el incremento de casos de artropatía relacionada con la droga, entre los grupos, no fue estadísticamente significante. El tratamiento
+
+debería  ser  iniciado  solamente  después  de  una  evaluación  cuidadosa  de  beneficio/  riesgo,  teniendo  en  cuenta  los  posibles  efectos
+
+adversos relacionados con las articulaciones y/o tejidos circundantes.
+
+Infecciones bronco-pulmonar en fibrosis quística
+
+niños de 1 a 5 años.
+
+Infecciones complicadas del tracto urinario y pielonefritis
+
+usarse basándose además  en los resultados de los análisis microbiológicos
+
+Los estudios clínicos realizados incluyen niños y adolescentes de 1 a 17 años.
+
+Otras infecciones especificas severas
+
+Se debería considerar el tratamiento de este tipo de infecciones del tracto urinario con Ciprofloxacina cuando otro tratamiento no pueda
+
+Durante el curso del tratamiento con Ciprofloxacina o luego del mismo, puede aislarse una cepa bacteriana resistente a Ciprofloxacina,
+
+con o sin la existencia de una superinfección clínica aparente. Puede existir un riesgo particular de selección de  bacterias resistentes a
+
+Ciprofloxacina durante un tratamiento prolongado, así como durante el tratamiento de infecciones hospitalarias y /o infecciones causadas
+
+por Staphyloccocus y Pseudomonas sp.
+
+Citocromo P450
+
+Ciprofloxacina  inhibe  CYP1A2  y  de  esta  manera  puede  causar  el  aumento  de  la  concentración  sérica  de  sustancias  administradas
+
+concomitantemente que son metabolizadas por esta enzima (por ej.: teofilina, clozapina, olanzapina, ropinirol, tizanidina, duloxetina). La
+
+co-administración  de  ciprofloxacina  y  tizanidina  está  contraindicada.  Los  pacientes  que  tomen  estas  drogas  concomitantemente  con
+
+Ciprofloxacina deberían ser monitoreados por signos de sobredosis, y puede ser necesario determinar sus concentraciones séricas (por ej.
+
+Teofilina).
+
+Metotrexato
+
+Interacción en los tests
+
+La administración conjunta de Ciprofloxacina y metotrexato no se recomienda.
+
+muestras de pacientes que se encuentran tratados con Ciprofloxacina.
+
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCIÓN
+
+Efectos de otros medicamentos sobre la Ciprofloxacina
+
+Drogas conocidas por prolongar el intervalo QT
+
+tomando en consideración los riesgos y beneficios.
+
+Embarazo y lactancia
+
+Embarazo (Categoría C)
+
+Los  datos  disponibles  acerca  de  la  administración  de  Ciprofloxacina  a  mujeres  embarazadas  indica  que  la  Ciprofloxacina  no  produce
+
+malformaciones o toxicidad en el feto o neonato. Estudios en animales no mostraron efectos dañinos directos o indirectos con respecto a
+
+la  toxicidad  en  la  reproducción.  En  animales  jóvenes  y  prenatales  expuestos  a  quinolonas  se  observaron  efectos  sobre  los  cartílagos
+
+inmaduros, por lo que no se descarta que la droga pueda causar daño en los cartílagos articulares en seres humanos.
+
+La  seguridad  y  efectividad  de  Ciprofloxacina  en  mujeres  embarazadas  no  han  sido  establecidas.  Debido  a  la  ausencia  de  estudios
+
+adecuadamente controlados se desaconseja el empleo de Ciprofloxacina durante la gestación.
+
+Ciprofloxacina se excreta en la leche materna. Debido al potencial riesgo de daño articular, la Ciprofloxacina no debe usarse durante la
+
+Lactancia
+
+lactancia.
+
+Efecto sobre la capacidad de manejo y uso de máquinas
+
+Debido a sus efectos neurológicos, Ciprofloxacina puede afectar el tiempo de reacción. Por lo tanto, la habilidad para manejar y operar
+
+máquinas puede estar disminuida.
+
+REACCIONES ADVERSAS
+
+Los efectos adversos mas comúnmente reportados son las náuseas y la diarrea.
+
+Los  efectos adversos derivados de estudios clínicos y supervisión post-comercialización de la Ciprofloxacina, fueron clasificados por la
+
+categoría de su frecuencia y se listan en el cuadro siguiente. Para el análisis de la frecuencia se tuvo en cuenta tanto la Ciprofloxacina
+
+La Ciprofloxacina, al igual que otras fluoroquinolonas, debe usarse con precaución en pacientes que reciben drogas que se sabe  que
+
+prolongan el intervalo QT (por ej. antiarrítmicos Clase IA y III, antidepresivos tricíclicos, macrólidos, antipsicóticos).
+
+administrada tanto oralmente como por vía intravenosa.
+
+Los estudios clínicos realizados fueron sobre niños y adolescentes de 5 a 17 años, siendo limitada la experiencia  en el tratamiento de
+
+La  actividad  in-vitro  de  Ciprofloxacina  contra  Mycobacterium  tuberculosis  pude  resultar  en  test  bacteriológicos  falsos  negativos  en  las
+
+Infecciones de la piel y los tejidos blandos
+
+Infecciones de los huesos y las articulaciones
+
+500  mg  a  750  mg  2
+veces al día
+500  mg  a  750  mg  2
+veces al día
+
+7 a 14 días
+
+Máx. 3 meses
+
+infecciones
+
+invasivas  causadas  por
+
+Pacientes  neutropénicos  con  fiebre  que  se  sospecha
+que es causada por infección bacteriana
+Ciprofloxacina debería administrarse conjuntamente con
+un agente bacteriano apropiado
+Profilaxis  de
+Neisseria meningitidis
+Inhalación  de  Ántrax  post  exposición,  profilaxis  y
+tratamiento  curativo  para  las  personas  que  pueden
+recibir  tratamiento  por  vía  oral  cuando  es  clínicamente
+apropiado
+La  administración  de  la  droga  debería  comenzar  tan
+pronto como sea posible después de que se sospeche o
+confirme la exposición
+Población pediátrica
+Indicaciones
+
+Dosis diaria mg
+
+500  mg  a  750  mg  2
+veces al día
+
+terapia
+
+La
+puede
+continuarse  durante  todo
+el periodo de neutropenia
+
+500  mg  como  dosis
+única
+500  mg  2  veces  al
+día
+
+1 día
+
+días
+
+60
+confirmación
+exposición
+anthracis
+
+desde
+de
+
+la
+la
+a  Bacillus
+
+Duración total del tratamiento
+(Incluyendo el posible
+tratamiento parenteral inicial
+con ciprofloxacina)
+
+10 a 14 días
+
+10 a 21 días
+
+60  días  desde  la  confirmación  de
+la exposición a Bacillus anthracis
+
+20 mg/kg de peso 2 veces por día
+con un máximo de 750 mg/dosis
+10  mg/kg  a  20  mg/kg  de  peso  2
+veces  por  día  con  un  máximo  de
+750 mg/dosis
+10  mg/kg  a  15  mg/kg  de  peso  2
+veces  por  día  con  un  máximo  de
+500 mg/dosis
+
+Fibrosis quística
+
+Infecciones complicadas del tracto
+urinario y pielonefritis
+
+Inhalación  ántrax  pos-exposición
+profilaxis  y
+tratamiento  curativo
+para  personas  que  pueden  recibir
+el  tratamiento  por  vía  oral  cuando
+es clínicamente apropiado.
+la  droga
+La  administración  de
+debería  comenzar
+tan  pronto
+como sea posible después de que
+se  sospeche  o  confirme
+la
+exposición
+Otras infecciones severas
+
+20 mg/kg de peso 2 veces por día
+con un máximo de 750 mg/dosis
+
+Según el tipo de infección
+
+Pacientes geriátricos: Los pacientes geriátricos deberían recibir una dosis seleccionada de acuerdo con la severidad de la infección y su
+clearance de creatinina.
+Pacientes con deterioro renal y hepático.
+Dosis recomendada para el inicio y mantenimiento para pacientes con deterioro de la función renal:
+
+Creatinina sérica (umol/L)
+
+Dosis oral (mg)
+
+Clearance de creatinina
+(mL/min/1.73m2)
+
+> 60
+30 - 60
+< 30
+Paciente con hemodiálisis
+
+< 124
+124 a 168
+> 169
+> 169
+
+Paciente con diálisis peritoneal
+
+> 169
+
+Ver dosis usual
+250 – 500 mg cada 12 hrs.
+250 – 500 mg cada 24 hrs.
+250  –  500  mg  cada  24  hs.
+(después de diálisis)
+250 – 500 mg cada 24 hrs
+
+Los pacientes con deterioro de la función hepática no requieren ajuste de la dosis.
+La dosificación en niños con deterioro de la función renal y/o hepática  no ha sido estudiada.
+Modo de administración
+Los  comprimidos  deben  ser  tragados  preferentemente  sin  masticar,  con  un  vaso  de  agua  e  independientemente  de  la  ingesta  de
+alimentos. Sin embargo, si la dosis se toma con el estómago vacío la droga se absorbe más rápidamente. La Ciprofloxacina  no  debe ser
+ingerida con productos lácteos (leche, yogurt) o jugos fortificados (jugo de naranja fortificado con calcio).
+En casos severos o en pacientes con dificultad para tragar los comprimidos (pacientes con nutrición enteral), se recomienda una terapia
+con Ciprofloxacina intravenosa hasta que sea posible pasar a la administración oral.
+CONTRAINDICACIONES
+• Hipersensibilidad al principio activo, a otras quinolonas o a alguno de los excipientes de la formulación.
+• La administración concomitante de Ciprofloxacina con tizanidina (ver sección Interacciones con otros medicamentos)
+• Embarazo y lactancia.
+ADVERTENCIAS Y PRECAUCIONES
+Algunos  estudios  epidemiológicos  informan  un  mayor  riesgo  de  aneurisma  aórtico  y  disección  después  del  tratamiento  con
+fluoroquinolonas, particularmente en la población de mayor edad. Por lo tanto, las fluoroquinolonas solo deben usarse después de una
+cuidadosa evaluación del riesgo/beneficio y después de consideración de otras opciones terapéuticas en pacientes con antecedentes
+familiares  positivos  de  aneurisma,  o  en  pacientes  diagnosticados  de  aneurisma  aórtico  preexistente  y  /  o  disección  aórtica,  o  en
+presencia de otros factores de riesgo o afecciones que predisponen al aneurisma aórtico y la disección (por ejemplo, síndrome de
+Marfan, Síndrome vascular de Ehlers-Danlos, arteritis de Takayasu, arteritis de células gigantes, enfermedad de Behcet, hipertensión
+y aterosclerosis). En caso de dolor abdominal repentino, torácico o de espalda, se debe recomendar a los pacientes que consulten de
+inmediato  a  un  servicio  de  urgencias.  Las  quinolonas  se  han  asociado  a  reacciones  adversas  serias  de  larga  duración  (meses  o
+años),  que  pueden  ser  incapacitantes  y  potencialmente  irreversibles  y  que  pueden  afectar  varios  sistemas  simultáneamente
+(musculoesquelético, nervioso, psiquiátrico y de los sentidos). El uso de Ciprofloxacina Denver Farma se debe evitar en pacientes que
+hayan experimentado reacciones adversas graves previamente. El tratamiento de estos pacientes con Ciprofloxacina Denver Farma
+solo debe iniciarse en ausencia de opciones de tratamiento alternativas y después de una cuidadosa evaluación de riesgo/beneficio.
+Ante  la  presencia  de  los  primeros  signos  o  síntomas  de  cualquier  reacción  adversa  seria,  se  debe  discontinuar  inmediatamente  el
+tratamiento.
+Tendinitis y ruptura de tendón
+La  tendinitis  y  la  ruptura  de  tendón,  algunas  veces  bilateral,  pueden  ocurrir  tan  pronto  como  48  horas  después  de  iniciado  el
+tratamiento con quinolonas e incluso hasta varios meses después de la interrupción del tratamiento. El riesgo de tendinitis y ruptura de
+tendón aumenta en pacientes de edad avanzada, pacientes con insuficiencia renal, pacientes con trasplantes de órganos sólidos y
+pacientes tratados con corticosteroides al mismo tiempo. Por lo tanto, el uso concomitante de corticosteroides debería ser evitado. Al
+primer  signo  de  tendinitis  (por  ejemplo,  hinchazón  dolorosa,  inflamación),  el  tratamiento  con  Ciprofloxacina  Denver  Farma  debe
+suspenderse.
+Neuropatía periférica
+Se  han  notificado  casos  de  polineuropatía  sensorial  o  sensoriomotora  en  pacientes  que  reciben  quinolonas.  Los  pacientes  en
+
+Hipersensibilidad
+
+un tratamiento médico adecuado.
+
+Sistema músculo-esquelético
+
+El uso de Ciprofloxacina en otras infecciones severas especificas debería considerar una  evaluación cuidadosa beneficio/riesgo, el fracaso
+
+Formación de complejos quelantes
+
+previo de la terapia convencional, o cuando el análisis microbiológico justifique el uso de Ciprofloxacina.
+
+El uso de Ciprofloxacina para otras infecciones severas no mencionadas anteriormente no ha sido evaluado mediante estudios clínicos y la
+
+experiencia clínica es limitada. Consecuentemente, se aconseja precaución cuando se trate a pacientes con este tipo de infecciones.
+
+La administración simultanea de Ciprofloxacina (oral) y productos conteniendo cationes multivalentes y suplementos minerales (por ej.:
+
+calcio, magnesio, aluminio, hierro), quelantes de  fosfatos poliméricos (por ej.: sevelamer, carbonato de lantano), sucralfato o antiácidos, y
+
+drogas  altamente  buffer  (por  ej.  didanosina)  que  contienen  magnesio,  aluminio  o  calcio,  reducen  la  absorción  de  Ciprofloxacina.
+
+Consecuentemente, Ciprofloxacina debe ser administrada tanto 1-2 horas antes o al menos 4 horas después de estos medicamentos.
+
+La hipersensibilidad y las reacciones alérgicas, incluido anafilaxis y reacciones anafilácticas, puede producirse seguida de una dosis única
+
+(ver sección Reacciones adversas) y puede amenazar la vida. Si se produce esta reacción, Ciprofloxacina debe discontinuarse y aplicarse
+
+Esta restricción no aplica para los antiácidos que bloquean los receptores H2.
+
+Productos alimenticios y lácteos
+
+En pacientes que reciben quinolonas, entre ellas ciprofloxacina, levofloxacina, ofloxacina y moxifloxacina, se han detectado
+
+casos de ruptura de tendones a nivel del hombro, la mano, y especialmente el tendón de Aquiles, que requirieron cirugía o
+
+produjeron  discapacidad  prolongada.  Los  informes  de  vigilancia  post-marketing  indican  que  este  riesgo  es  mayor  en
+
+pacientes que reciben o han recibido tratamiento con corticosteroides, especialmente en los mayores de 65 años.
+
+No debería utilizarse Ciprofloxacina en pacientes con antecedentes de afección tendinosa relacionada con el tratamiento con
+
+quinolonas.  No  obstante,  en  muy  raros  casos,  después  de  un  análisis  microbiológico  del  microorganismo  causante  y  una
+
+evaluación  riesgo/  beneficio,  la  Ciprofloxacina  puede  ser  prescripta  para  el  tratamiento  de  infecciones  severas  en  aquellos
+
+pacientes donde el tratamiento estándar falló, o se produjo resistencia bacteriana y los datos microbiológicos justifican el uso
+
+la absorción de Ciprofloxacina puede verse reducida.
+
+Probenecid
+
+concentraciones séricas de Ciprofloxacina.
+
+Metoclopramida
+
+afecta la biodisponibilidad de la Ciprofloxacina.
+
+Omeprazol
+
+Probenecid  interfiere  en  la  secreción  renal  de  Ciprofloxacina.  La  co-administración  de  probenecid  y  Ciprofloxacina  aumenta  las
+
+Metoclopramida acelera la absorción de Ciprofloxacina (oral) alcanzándose la concentración máxima en menor tiempo. Se observo que no
+
+de la misma.
+
+La  administración  concomitante  de  Ciprofloxacina  y  omeprazol    produce  una  ligera  reducción  de  la  concentración  plasmática  máxima
+
+La tendinitis y la ruptura del tendón (especialmente el tendón de Aquiles), a veces bilateral, puede producirse con Ciprofloxa-
+
+(Cmáx) y del área bajo la curva concentración-tiempo (ABC) de  Ciprofloxacina.
+
+cina aún dentro de las primeras 48 hrs. del tratamiento.
+
+Efecto de la Ciprofloxacina sobre otros medicamentos
+
+La  dieta  de  calcio  como  parte  de  las  comidas  no  afecta  significantemente  la  absorción.  Sin  embargo,  la  administración  conjunta  de
+
+productos lácteos o bebidas fortificadas con minerales (por ej., leche, yogurt, jugo de naranja fortificado con calcio) debería evitarse ya que
+
+La  inflamación  y  la  ruptura  del  tendón  pueden  producirse  aún  varios  meses  después  de  discontinuar  el  tratamiento  con
+
+Ciprofloxacina.  El  riesgo  de  tendinopatia  se  incrementa  en  los  pacientes  geriátricos  o  en  los  pacientes  que  reciben
+
+Tizanidina
+
+tratamiento con corticosteroides (ver sección Reacciones adversas).
+
+Debe discontinuarse el tratamiento con Ciprofloxacina ante cualquier signo de tendinitis (hinchazón dolorosa, inflamación),
+
+manteniendo el miembro afectado en reposo.
+
+La  Ciprofloxacina  debería  ser  usada  con  precaución  en  pacientes  con  miastenia  gravis,  ya  que  pueden  exacerbarse  los  síntomas  (ver
+
+Metrotrexato
+
+Tizanidina no debe ser administrada junto con Ciprofloxacina. En un estudio clínico realizado con sujetos sanos se observó un incremento
+
+de la concentración sérica de tizanidina (Cmáx aumentó 7 veces, rango: 4 a 21 veces, ABC aumentó 10 veces, rango: 6 – 24 veces)
+
+cuando se administraba conjuntamente con Ciprofloxacina. El incremento de la concentración sérica de tizanidina está asociado con un
+
+aumento de sus efectos hipotensores y sedativos.
+
+Cuando  se  administra  concomitantemente  con  Ciprofloxacina,  el  transporte  tubular  renal  del  metrotrexato  puede  verse  inhibido
+
+produciendo un incremento de los niveles plasmáticos de metrotrexato y aumentando el riesgo de reacciones tóxicas asociadas con el
+
+Se ha demostrado que Ciprofloxacina causa reacciones de fotosensibilidad. Debe advertírsele  a los pacientes que toman Ciprofloxacina
+
+metrotrexato.
+
+que eviten la exposición directa a la luz solar o a la radiación UV durante el tratamiento (ver Reacciones adversas).
+
+No se recomienda la administración concomitante.
+
+Las quinolonas en general, incluyendo Ciprofloxacina, se conoce que pueden desencadenar convulsiones o reducir el umbral convulsivo.
+
+Se han reportado casos de status epilepticus. Ciprofloxacina debería ser usada con precaución en pacientes con trastornos del SNC ya
+
+que  pueden  tener  predisposición  a  padecer  convulsiones.  Si  se  produjeran  convulsiones,  debe  discontinuarse  el  tratamiento  con
+
+Ciprofloxacina (ver sección Reacciones adversas). Pueden producirse reacciones psiquiátricas aún después de la primera administración
+
+de Ciprofloxacina. En raros casos, la depresión o psicosis puede llevar a pensamientos suicidas que culminen en un intento de suicidio o
+
+Teofilina
+
+Otros derivados de Xantinas
+
+La administración conjunta de Ciprofloxacina y teofilina puede causar un aumento indeseable de la concentración sérica de teofilina. Esto
+
+puede conducir a efectos adversos debidos a la teofilina que raramente pueden amenazar la vida o ser fatales. Durante la administración
+
+conjunta, se debería chequear la concentración sérica de teofilina y reducir la dosis si es necesario.
+
+Se ha reportado que durante la administración conjunta de Ciprofloxacina y cafeína o pentoxifilina (oxpentifilina) se produjo un aumento de
+
+sección Reacciones adversas).
+
+Fotosensibilidad
+
+Sistema nervioso central (SNC)
+
+Eliminación
+
+La Ciprofloxacina es excretada principalmente sin modificaciones tanto por vía renal y en menor proporción por vía fecal. La vida
+
+media de eliminación sérica en sujetos con función renal normal es aproximadamente 4 – 7 horas.
+
+El  clearance  renal  se  encuentra  entre  180-300  mL/kg/h  y  el  clearance  total  corporal  entre  480-600  mL/kg/h.  Ciprofloxacina  está
+
+sometida tanto a la filtración glomerular como a la secreción tubular. El deterioro severo de la función renal aumenta la vida media
+
+de Ciprofloxacina más allá de las 12 horas.
+
+El clearance no renal de Ciprofloxacina se debe principalmente a la secreción activa trans-intestinal y al metabolismo. El 1% de la
+
+dosis es excretada por la vía biliar. Ciprofloxacina está presente en la bilis en altas concentraciones.
+
+Pacientes pediátricos
+
+Los datos farmacocinéticos en pacientes pediátricos son limitados.
+
+En un estudio en niños, la Cmáx y ABC no fueron dependientes de la edad (niños de más de 1 año). Se observó un incremento
+
+notable de la Cmáx y ABC con dosis múltiples (10 mg/kg 3 veces al día).
+
+En 10 niños con sepsis severa  Cmáx fue 6.1 mg/L (rango 4.6-8.3 mg/L) después de 1 hora de infusión intravenosa de 10 mg/kg en
+
+niños menores de 1 año, comparado con 7.2 mg/L (rango 4.7 -11.8 mg/L) para niños entre 1 y 5 años de edad. Los valores de ABC
+
+fueron de 17.4 mg/h/L (rango 11.8 - 32.0 mg/h/L) y 16.5 mg/h/L (rango 11.0 – 23.8 mg/h/L) para los respectivos grupos.
+
+Estos valores se encuentran dentro del rango reportado para adultos a dosis terapéuticas. Basándose en análisis farmacocinéticos
+
+de la población de pacientes pediátricos con diferentes  infecciones, la vida media en niños es de aproximadamente 4-5 horas y la
+
+biodisponibilidad de la suspensión oral está en un rango de 50 a 80%.
+
+Datos preclínicos sobre seguridad
+
+Los  datos  no  clínicos  revelan  que  no  hay  especial  peligro  para  humanos  basándose  en  estudios  convencionales  de  toxicidad  a
+
+dosis única y repetidas, potencial carcinogénico o toxicidad reproductiva.
+
+Como  otras  quinolonas,  Ciprofloxacina  es  fototóxica  en  animales  en  niveles  de  exposición  clínicamente  relevantes.  Datos  de
+
+fotomutagenicidad / fotocarcinogenicidad muestran un débil efecto fotomutagénico o fototumorigénico de Ciprofloxacina in Vitro en
+
+experiencias con animales. Este efecto fue comparable a la de otros inhibidores de la ADN girasa.
+
+Tolerabilidad articular
+
+Como  se  ha  reportado  con  otros  inhibidores  de  la  ADN  girasa,  Ciprofloxacina  produce  daño  en  las  articulaciones  de  las
+
+extremidades que sostienen peso en animales inmaduros. La extensión del daño de los cartílagos varía de acuerdo a la edad, la
+
+especie y la dosis; el daño puede reducirse disminuyendo el peso sobre las articulaciones. Estudios con animales maduros (ratas,
+
+perros)  no  revelaron  evidencia  de  lesiones  en  los  cartílagos.  En  un  estudio  en  perros  Beagle  jóvenes,  Ciprofloxacina  produjo
+
+cambios  articulares  severos  a  dosis  terapéuticas  después  de  2  semanas  de  tratamiento,  los  cuales  fueron  todavía  observados
+
+durante 5 meses.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+La  dosis  se  determina  según  la  indicación,  la  severidad  y  la  zona  de  infección,  la  susceptibilidad  a  la  Ciprofloxacina  por  los
+
+organismos causantes, la función renal de los pacientes, y en niños y adolescentes según su peso corporal.
+
+La duración del tratamiento depende de la severidad de la enfermedad y de su curso clínico y bacteriológico.
+
+El  tratamiento  de  las  infecciones  debida  a  ciertas  bacterias  (por  ej.  Pseudomonas  aeruginosa, Acinetobacter  or  Staphylococcus)
+
+puede requerir dosis más elevadas de Ciprofloxacina y la co-administración de otro agente antibacteriano apropiado.
+
+El tratamiento de algunas infecciones (por ej. enfermedades inflamatorias pélvicas, infecciones intra-abdominales, infecciones en
+
+pacientes neutropénicos e infecciones de huesos y articulaciones) puede requerir la co-administración de otros agentes bacterianos
+
+apropiados dependiendo de los patógenos involucrados.
+
+Adultos
+
+• Exacerbación de la sinusitis crónica, especialmente si fue causada por bacterias Gram-negativas
+
+ESPECIES PARA LOS CUALES LA RESISTENCIA ADQUIRIDA PUEDE SER UN PROBLEMA
+
+Microorganismos Aeróbicos Gram-positivos
+
+Microorganismos Aeróbicos Gram-negativos
+
+CIPROFLOXACINA DENVER FARMA
+
+CIPROFLOXACINA 500 mg
+
+Comprimidos recubiertos
+
+Industria Argentina                                                                                                                                     Venta Bajo Receta Archivada
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de CIPROFLOXACINA DENVER FARMA 500 mg contiene:
+
+Ciprofloxacina (como clorhidrato)  500 mg
+
+Excipientes: lactosa spray, povidona, lauril sulfato de sodio, almidón glicolato de sodio, croscarmellosa sódica, talco, estearato de
+
+magnesio, hidroxipropilmetilcelulosa, talco, dióxido de titanio, polietilenglicol 600, laca azul brillante,  c.s.
+
+Precauciones)
+
+ESPECIES COMUNMENTE SUSCEPTIBLES
+
+Microorganismos Aeróbicos Gram-positivos
+
+Bacillus anthracis (1)
+
+Microorganismos Aeróbicos Gram-negativos
+
+ACCIÓN TERAPÉUTICA
+
+Código ATC: J01MA02
+
+Agente antibacteriano.
+
+INDICACIONES
+
+Se deben tener en cuenta las recomendaciones oficiales locales acerca del uso de antimicrobianos antes de indicar quinolonas.
+
+Debido  a  que  se  han  reportado  reacciones  adversas  serias  asociadas  al  uso  de  quinolonas  se  debe  establecer  claramente  la
+
+relación riesgo-beneficio para cada indicación, particularmente cuando hubieran opciones terapéuticas alternativas.
+
+Antes de comenzar la terapia, se debe tener especial atención con la información disponible sobre resistencia a la Ciprofloxacina.
+
+CIPROFLOXACINA DENVER FARMA está indicado para el tratamiento de las siguientes infecciones.
+
+Adultos
+
+• Infecciones del tracto respiratorio inferior debido a bacterias Gram-positivas
+
+• Exacerbación de la Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+
+• Infecciones bronco-pulmonares en fibrosis quística o en bronquiectasias
+
+• Neumonía
+
+• Otitis media crónica supurativa
+
+• Infecciones del tracto urinario
+
+• Infecciones del tracto genital
+
+        • Uretritis y cervicitis gonocócicas causadas por Neisseria gonorrhoeae
+
+        • Epididimitis y  orquitis incluyendo aquellas causadas por Neisseria gonorrhoeae
+
+        • Enfermedad inflamatoria de la pelvis causadas por Neisseria gonorrhoeae
+
+• Infecciones del tracto gastrointestinal (por ej.: diarrea del viajero)
+
+• Infecciones intraabdominales
+
+• Infecciones de la piel y de los tejidos blandos causadas por bacterias Gram-negativas
+
+• Otitis externa maligna
+
+• Infecciones de los huesos y articulaciones
+
+• Profilaxis en las infecciones invasivas debido a Neisseria meningitidis
+
+• Inhalación de Ántrax (profilaxis post exposición y tratamiento curativo)
+
+La Ciprofloxacina puede ser usada en pacientes neutropénicos con fiebre, en los que se sospecha  una infección bacteriana.
+
+Niños y Adolescentes
+
+• Infecciones bronco-pulmonares en enfermedad fibroquística causadas por Pseudomonas aeruginosa
+
+• Infecciones complicadas del tracto urinario y pielonefritis
+
+• Inhalación de Antrax (profilaxis post exposición y tratamiento curativo)
+
+Cuando se considere necesario, Ciprofloxacina puede ser usada en los tratamientos de infecciones severas en niños y adolescentes.
+
+El  tratamiento  debe  ser  iniciado  por  un  médico  con  experiencia  en  infecciones  de  niños  y  adolescentes  que  padecen  fibrosis
+
+quística.
+
+CARACTERÍSTICAS FARMACOLÓGICAS
+
+Propiedades Farmacodinámicas
+
+Mecanismo de acción
+
+Relación farmacocinética / farmacodinámica
+
+Mecanismo de resistencia
+
+La eficacia depende principalmente de la relación de la concentración máxima sérica (Cmáx) y de la concentración de inhibición mínima
+
+(MIC) de la Ciprofloxacina para un patógeno bacteriano y la relación entre el área bajo la curva (ABC) y el MIC.
+
+La resistencia in vitro a la Ciprofloxacina, puede producirse a través de procesos secuenciales de mutaciones en los sitios diana de la
+
+ADN  girasa  y  la  topoisomerasa  IV.  El  grado  de  resistencia  cruzada  entre  Ciprofloxacina  y  otras  fluoroquinolonas  que  se  produce  es
+
+variable. Mutaciones únicas puede no resultar en resistencia clínica, mientras que las mutaciones múltiples generalmente resultan en
+
+resistencia clínica a muchas o todas las drogas de la clase.
+
+Los mecanismos de resistencia como la impermeabilidad y/o la activación de la bomba de eflujo de la sustancia activa, pueden tener
+
+efectos  variables  sobre  la  susceptibilidad  a  las  fluoroquinolonas  dependiendo  de  las  propiedades  fisicoquímicas  de  las  distintas
+
+sustancias  activas  de  la  clase  y  de  la  afinidad  a  los  sistemas  de  transporte  de  cada  sustancia  activa.  Todos  los  mecanismos  de
+
+resistencia in Vitro son comúnmente observados por aislamiento en análisis clínicos. Los mecanismos de resistencia que inactivan otros
+
+antibióticos como las barreras de penetración (comúnmente en Pseudomonas aeruginosa) y los mecanismos de eflujo pueden afectar la
+
+susceptibilidad a la Ciprofloxacina.
+
+Espectro de actividad antibacteriana
+
+Se ha reportado resistencia mediada por plásmidos y codificada por el gen qnr.
+
+Los puntos de corte separan las cepas sensibles de las cepas con sensibilidad intermedia y estas últimas de las cepas resistentes:
+
+EUCAST recomendaciones
+
+Aeromonas spp.
+
+Brucella spp.
+
+Citrobacter koseri
+
+Francisella tularensis
+
+Haemophilus ducreyi
+
+Haemophilus influenzae*
+
+Legionella spp.
+
+Moraxella catarrhalis*
+
+Neisseria meningitidis
+
+Pasteurella spp.
+
+Salmonella spp.*
+
+Shigella spp.*
+
+Vibrio spp.
+
+Yersinia pestis
+
+Microorganismos Anaeróbicos
+
+Mobiluncus
+
+Otros microorganismos
+
+Chlamydia trachomatis (S)
+
+Chlamydia pneumoniae (S)
+
+Mycoplasma hominis (S)
+
+Mycoplasma pneumoniae (S)
+
+Enterococcus faecalis (S)
+
+Staphylococcus spp.* (2)
+
+Acinetobacter baumannii+
+
+Burkholderia cepacia+*
+
+Campylobacter spp.+*
+
+Citrobacter freundii*
+
+Enterobacter aerogenes
+
+Enterobacter cloacae*
+
+Escherichia coli*
+
+Klebsiella oxytoca
+
+Klebsiella pneumoniae*
+
+Morganella morganii*
+
+Neisseria gonorrhoeae*
+
+Proteus mirabilis*
+
+Proteus vulgaris*
+
+Providencia spp.
+
+Pseudomonas aeruginosa*
+
+Pseudomonas fluorescens
+
+Serratia marcescens*
+
+Microorganismos Anaeróbicos
+
+Peptostreptococcus spp.
+
+Propionibacterium acnes
+
+Actinomyces
+
+Enteroccus faecium
+
+Listeria monocytogenes
+
+Stenotrophomonas maltophilia
+
+Microorganismos Anaeróbicos
+
+Excepto los listados arriba
+
+Otros micro-organismos
+
+Mycoplasma genitalium
+
+Ureaplasma urealitycum
+
+Como  agente  antibacteriano  del  grupo  de  las  fluoroquinolona,  la  acción  bactericida  de  la  Ciprofloxacina  se  debe  a  la  inhibición  de
+
+topoisomerasa II (ADN-Girasa) y topoisomerasa IV, que se requieren para la replicación, transcripción, reparación y recombinación del ADN.
+
+MICRORGANISMOS INHERENTEMENTE RESISTENTES
+
+Microorganismos Aeróbicos Gram-positivos
+
+Microorganismos Aeróbicos Gram-negativos
+
+* La eficacia clínica ha sido demostrada por cepas susceptibles en indicaciones clínicas aprobadas
+
++ Velocidad de resistencia ≥ 50% en uno o más países de la Comunidad Europea
+
+(S) Susceptibilidad natural intermedia en la ausencia de un mecanismo de resistencia adquirido
+
+(1)  Estudios  realizados  en  infecciones  experimentales  con  animales  debido  a    inhalaciones  de  esporas  de  Bacillus  anthracis;  estos
+
+estudios  revelan  que  los  antibióticos  iniciados  tempranamente  después  de  la  exposición,  evitan  el  desarrollo  de  la  enfermedad  si  el
+
+tratamiento está diseñado  con una dosis adecuada para disminuir el número de esporas en el organismo infectado. El uso recomendado
+
+en humanos se basa primariamente en la susceptibilidad in Vitro y sobre datos de experimentos en animales junto con datos  limitados en
+
+humanos. Un tratamiento de 2 meses de duración en adultos con Ciprofloxacina oral en dosis 500 mg 2 veces al día, es considerada
+
+efectiva  para  prevenir  la  infección  de  ántrax  en  humanos.  El  tratamiento  el  médico  debería  basarse  en  documentos  consensuados
+
+nacional e internacionalmente  para el tratamiento del ántrax.
+
+(2) La resistencia del S. aureus  a la meticilina comúnmente expresa co-resistencia a las fluoroquinolonas. La tasa de resistencia a la
+
+meticilina es alrededor de 20 a 50% entre todos las especies de Staphylococcus  y es usualmente más elevada en cepas hospitalarias.
+
+Propiedades Farmacocinéticas
+
+Absorción
+
+Después de la administración de dosis únicas de 250 mg, 500 mg y 750 mg de Ciprofloxacina comprimidos, la droga es absorbida rápida y
+
+ampliamente, principalmente en el intestino delgado, alcanzándose la concentración sérica máxima después de 1-2 horas.
+
+Dosis única de 100 mg y 750 mg produce concentraciones séricas máximas (Cmáx), dependiendo de la dosis, con un rango de 0.56 a 3.7
+
+mg/mL. Las concentraciones séricas aumentan proporcionalmente con dosis superiores a 1000 mg.
+
+La biodisponibilidad absoluta está aproximadamente entre 70 – 80%.
+
+Una dosis oral de 500 mg dada cada 12 horas se demostró que produce un área bajo la curva de concentración sérica (ABC) equivalente
+
+a la que se produce por una infusión intravenosa de 400 mg de Ciprofloxacina administrada durante 60 minutos cada 12 horas.
+
+La unión de ciprofloxacina con las proteínas es baja (20-30%). La Ciprofloxacina alcanza concentraciones elevadas en una variedad de
+
+tejidos tales como los pulmonares (fluido epitelial, macrófagos alveolares, biopsia de tejidos), senos, lesiones inflamatorias (líquido de
+
+las  ampollas),  y  del  tracto  urogenital  (orina,  próstata,  endometrio)  en  dónde  la  concentración  total  excede  las  concentraciones
+
+Distribución
+
+alcanzadas en plasma.
+
+Biotransformación
+
+Se  han  reportado  concentraciones  bajas  de  4  metabolitos,  los  cuales  fueron  identificados  como:  desetileneciprofloxacina  (M1),
+
+sulfociprofloxacina (M2), oxociprofloxacina (M3) y formilciprofloxa-cina (M4). Los metabolitos exhiben actividad antimicrobiana in Vitro pero
+
+en menor grado que Ciprofloxacina. La Ciprofloxacina es un inhibidor moderado de la isoenzimas CYP 450 1A2 isoenzimas.
+
+1 Staphylococcus spp – el punto de corte para Ciprofloxacina está relacionado con terapia de altas dosis
+
+* Las especies no relacionadas con el punto de corte han sido determinadas principalmente sobre la base de datos PK/PD y son
+
+independientes de la distribución del MIC de las especies específicas. Ellas son sólo para el uso en especies a las que no se le han
+
+dado un punto de corte especifico y no para aquellas especies donde el test de susceptibilidad no este recomendado.
+
+La prevalencia de la resistencia adquirida puede variar geográficamente y con el tiempo para especies seleccionas siendo aconsejable
+
+considerar  la  información  local  sobre  resistencia,  particularmente  cuando  se  trata  de  infecciones  severa.  Según  sea  necesario,  se
+
+debería tener en cuenta el consejo de un experto cuando la prevalencia local de resistencia es tal que la utilidad de los agentes en
+
+algunos tipos de infección es cuestionable.
+
+Grupos relevantes de especies de acuerdo a la susceptibilidad a la Ciprofloxacina (Para Streptococcus species ver Advertencias y
+
+Pacientes geriátricos: Los pacientes geriátricos deberían recibir una dosis seleccionada de acuerdo con la severidad de la infección y su
+
+clearance de creatinina.
+
+Pacientes con deterioro renal y hepático.
+
+Dosis recomendada para el inicio y mantenimiento para pacientes con deterioro de la función renal:
+
+Los pacientes con deterioro de la función hepática no requieren ajuste de la dosis.
+
+La dosificación en niños con deterioro de la función renal y/o hepática  no ha sido estudiada.
+
+Modo de administración
+
+Los  comprimidos  deben  ser  tragados  preferentemente  sin  masticar,  con  un  vaso  de  agua  e  independientemente  de  la  ingesta  de
+
+alimentos. Sin embargo, si la dosis se toma con el estómago vacío la droga se absorbe más rápidamente. La Ciprofloxacina  no  debe ser
+
+ingerida con productos lácteos (leche, yogurt) o jugos fortificados (jugo de naranja fortificado con calcio).
+
+En casos severos o en pacientes con dificultad para tragar los comprimidos (pacientes con nutrición enteral), se recomienda una terapia
+
+con Ciprofloxacina intravenosa hasta que sea posible pasar a la administración oral.
+
+CONTRAINDICACIONES
+
+• Hipersensibilidad al principio activo, a otras quinolonas o a alguno de los excipientes de la formulación.
+
+• La administración concomitante de Ciprofloxacina con tizanidina (ver sección Interacciones con otros medicamentos)
+
+• Embarazo y lactancia.
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Algunos  estudios  epidemiológicos  informan  un  mayor  riesgo  de  aneurisma  aórtico  y  disección  después  del  tratamiento  con
+
+fluoroquinolonas, particularmente en la población de mayor edad. Por lo tanto, las fluoroquinolonas solo deben usarse después de una
+
+cuidadosa evaluación del riesgo/beneficio y después de consideración de otras opciones terapéuticas en pacientes con antecedentes
+
+familiares  positivos  de  aneurisma,  o  en  pacientes  diagnosticados  de  aneurisma  aórtico  preexistente  y  /  o  disección  aórtica,  o  en
+
+presencia de otros factores de riesgo o afecciones que predisponen al aneurisma aórtico y la disección (por ejemplo, síndrome de
+
+Marfan, Síndrome vascular de Ehlers-Danlos, arteritis de Takayasu, arteritis de células gigantes, enfermedad de Behcet, hipertensión
+
+y aterosclerosis). En caso de dolor abdominal repentino, torácico o de espalda, se debe recomendar a los pacientes que consulten de
+
+inmediato  a  un  servicio  de  urgencias.  Las  quinolonas  se  han  asociado  a  reacciones  adversas  serias  de  larga  duración  (meses  o
+
+años),  que  pueden  ser  incapacitantes  y  potencialmente  irreversibles  y  que  pueden  afectar  varios  sistemas  simultáneamente
+
+(musculoesquelético, nervioso, psiquiátrico y de los sentidos). El uso de Ciprofloxacina Denver Farma se debe evitar en pacientes que
+
+hayan experimentado reacciones adversas graves previamente. El tratamiento de estos pacientes con Ciprofloxacina Denver Farma
+
+solo debe iniciarse en ausencia de opciones de tratamiento alternativas y después de una cuidadosa evaluación de riesgo/beneficio.
+
+Ante  la  presencia  de  los  primeros  signos  o  síntomas  de  cualquier  reacción  adversa  seria,  se  debe  discontinuar  inmediatamente  el
+
+tratamiento.
+
+Tendinitis y ruptura de tendón
+
+suspenderse.
+
+Neuropatía periférica
+
+La  tendinitis  y  la  ruptura  de  tendón,  algunas  veces  bilateral,  pueden  ocurrir  tan  pronto  como  48  horas  después  de  iniciado  el
+
+tratamiento con quinolonas e incluso hasta varios meses después de la interrupción del tratamiento. El riesgo de tendinitis y ruptura de
+
+tendón aumenta en pacientes de edad avanzada, pacientes con insuficiencia renal, pacientes con trasplantes de órganos sólidos y
+
+pacientes tratados con corticosteroides al mismo tiempo. Por lo tanto, el uso concomitante de corticosteroides debería ser evitado. Al
+
+primer  signo  de  tendinitis  (por  ejemplo,  hinchazón  dolorosa,  inflamación),  el  tratamiento  con  Ciprofloxacina  Denver  Farma  debe
+
+Se  han  notificado  casos  de  polineuropatía  sensorial  o  sensoriomotora  en  pacientes  que  reciben  quinolonas.  Los  pacientes  en
+
+tratamiento  con  Ciprofloxacina  Denver  Farma  deben  advertir  a  su  médico  si  presentan  síntomas  de  neuropatía  como  dolor,  ardor,
+hormigueo, entumecimiento o debilidad para prevenir el desarrollo de una condición irreversible.
+Infecciones severas e infecciones mixtas por  gérmenes Gram-positivos y patógenos anaeróbicos
+La monoterapia con Ciprofloxacina no es adecuada para el tratamiento de infecciones severas e infecciones que podrían ser causadas por
+gérmenes  Gram-positivos  o  patógenos  anaeróbicos.  En  estas  infecciones  Ciprofloxacina  debe  administrarse  conjuntamente  con  otros
+agentes antibacterianos apropiados.
+Infecciones Estreptocócicas (incluyendo Streptococcus pneumoniae)
+La Ciprofloxacina no se recomienda para el tratamiento de infecciones estreptocócicas debido a que su eficacia es limitada en estos casos.
+Infecciones del tracto genital
+La uretritis o cervicitis gonocócicas,  epididimitis-orquitis y enfermedades con inflamación pelviana pueden ser causadas por ciertas cepas
+de Neisseria gonorrhoeae resistentes a las fluoroquinolonas.
+De  esta  manera,  Ciprofloxacina  sólo  debería  ser  administrada  para  el  tratamiento  de  uretritis  o  cervicitis  gonocócica    sólo  si  puede
+excluirse la existencia de resistencia a la Ciprofloxacina por la Neisseria gonorrhoeae.
+Para el epididimitis–orquitis y enfermedades con inflamación pelviana, el uso empírico de  Ciprofloxacina debería ser considerado sólo si
+se administra en combinación con otro agente antibacteriano apropiado (por ej. Cefalosporina) a menos que pueda excluirse la resistencia
+a la Ciprofloxacina por la Neisseria gonorrhoeae. Si no se observa mejoramiento después de 3 días de tratamiento se debe reconsiderar la
+terapia aplicada.
+Infecciones del tracto urinario
+La resistencia de la Escherichia coli, el patógeno que más comúnmente ocasiona las infecciones en el tracto urinario, a las fluoroquino-
+lonas, varía según los países. Los médicos deben tener en cuenta la prevalencia local a la resistencia a las fluoroquinolonas por la E. coli.
+La administración de una única dosis de Ciprofloxacina para tratar cistitis no complicada en mujeres pre-menopáusicas,  se espera que se
+asocie con una menor eficacia que una terapia más prolongada.  Es importante  tener en cuenta el incremento del nivel de resistencia de la
+E. coli a las quinolonas.
+Infecciones intra-abdominales
+Los datos de eficacia de Ciprofloxacina en el tratamiento de las infecciones intra-abdominales post-quirúrgicas son limitados.
+Diarrea del viajero
+La elección de Ciprofloxacina debería  tener en cuenta la información sobre resistencia a la misma por los patógenos involucrados en el
+país que se visita.
+Infecciones de los huesos y las articulaciones
+Ciprofloxacina  debería  administrarse  en  combinación  con  otros  agentes  antimicrobianos  dependiendo  de  los  resultados  de  los  análisis
+microbiológicos.
+Inhalación de Ántrax
+El uso en humanos esta basado en datos de susceptibilidad in Vitro y datos experimentales en animales junto con datos limitados en seres
+humanos.
+Con  respecto  al  tratamiento  del  ántrax,  los  médicos  deberían  tomar  como  referencia  los  documentos  nacionales  y/o  internacionales
+consensuados.
+Población pediátrica
+El tratamiento con Ciprofloxacina debería ser iniciado solamente por médicos experimentados en el tratamiento de fibrosis quística y/o
+infecciones severas en niños y adolescentes.
+Se ha demostrado que la Ciprofloxacina causa artropatía en las articulaciones que soportan el peso corporal en animales inmaduros.
+Los datos de seguridad de un estudio clínico doble ciego randomizado con Ciprofloxacina en niños (ciprofloxacina: n=335; edad media: 6.3
+años; comparadores: n=349; edad media: 6.2 años; rango de edad= 1 a 17 años), revelaron una incidencia de artropatía que se sospecha
+debida a la droga (discernido por los signos y síntomas clínicos relacionados con las articulaciones) del 7.2% y 4.6% respectivamente en el
+Día +42. La incidencia de artropatía relacionada con la droga para un año de seguimiento fue de 9.0% y 5.7%, respectivamente. Con el
+tiempo, el incremento de casos de artropatía relacionada con la droga, entre los grupos, no fue estadísticamente significante. El tratamiento
+debería  ser  iniciado  solamente  después  de  una  evaluación  cuidadosa  de  beneficio/  riesgo,  teniendo  en  cuenta  los  posibles  efectos
+adversos relacionados con las articulaciones y/o tejidos circundantes.
+Infecciones bronco-pulmonar en fibrosis quística
+Los estudios clínicos realizados fueron sobre niños y adolescentes de 5 a 17 años, siendo limitada la experiencia  en el tratamiento de
+niños de 1 a 5 años.
+Infecciones complicadas del tracto urinario y pielonefritis
+Se debería considerar el tratamiento de este tipo de infecciones del tracto urinario con Ciprofloxacina cuando otro tratamiento no pueda
+usarse basándose además  en los resultados de los análisis microbiológicos
+Los estudios clínicos realizados incluyen niños y adolescentes de 1 a 17 años.
+Otras infecciones especificas severas
+El uso de Ciprofloxacina en otras infecciones severas especificas debería considerar una  evaluación cuidadosa beneficio/riesgo, el fracaso
+previo de la terapia convencional, o cuando el análisis microbiológico justifique el uso de Ciprofloxacina.
+El uso de Ciprofloxacina para otras infecciones severas no mencionadas anteriormente no ha sido evaluado mediante estudios clínicos y la
+experiencia clínica es limitada. Consecuentemente, se aconseja precaución cuando se trate a pacientes con este tipo de infecciones.
+Hipersensibilidad
+La hipersensibilidad y las reacciones alérgicas, incluido anafilaxis y reacciones anafilácticas, puede producirse seguida de una dosis única
+(ver sección Reacciones adversas) y puede amenazar la vida. Si se produce esta reacción, Ciprofloxacina debe discontinuarse y aplicarse
+un tratamiento médico adecuado.
+Sistema músculo-esquelético
+En pacientes que reciben quinolonas, entre ellas ciprofloxacina, levofloxacina, ofloxacina y moxifloxacina, se han detectado
+casos de ruptura de tendones a nivel del hombro, la mano, y especialmente el tendón de Aquiles, que requirieron cirugía o
+produjeron  discapacidad  prolongada.  Los  informes  de  vigilancia  post-marketing  indican  que  este  riesgo  es  mayor  en
+pacientes que reciben o han recibido tratamiento con corticosteroides, especialmente en los mayores de 65 años.
+No debería utilizarse Ciprofloxacina en pacientes con antecedentes de afección tendinosa relacionada con el tratamiento con
+quinolonas.  No  obstante,  en  muy  raros  casos,  después  de  un  análisis  microbiológico  del  microorganismo  causante  y  una
+evaluación  riesgo/  beneficio,  la  Ciprofloxacina  puede  ser  prescripta  para  el  tratamiento  de  infecciones  severas  en  aquellos
+pacientes donde el tratamiento estándar falló, o se produjo resistencia bacteriana y los datos microbiológicos justifican el uso
+de la misma.
+La tendinitis y la ruptura del tendón (especialmente el tendón de Aquiles), a veces bilateral, puede producirse con Ciprofloxa-
+cina aún dentro de las primeras 48 hrs. del tratamiento.
+La  inflamación  y  la  ruptura  del  tendón  pueden  producirse  aún  varios  meses  después  de  discontinuar  el  tratamiento  con
+Ciprofloxacina.  El  riesgo  de  tendinopatia  se  incrementa  en  los  pacientes  geriátricos  o  en  los  pacientes  que  reciben
+tratamiento con corticosteroides (ver sección Reacciones adversas).
+Debe discontinuarse el tratamiento con Ciprofloxacina ante cualquier signo de tendinitis (hinchazón dolorosa, inflamación),
+manteniendo el miembro afectado en reposo.
+La  Ciprofloxacina  debería  ser  usada  con  precaución  en  pacientes  con  miastenia  gravis,  ya  que  pueden  exacerbarse  los  síntomas  (ver
+sección Reacciones adversas).
+Fotosensibilidad
+Se ha demostrado que Ciprofloxacina causa reacciones de fotosensibilidad. Debe advertírsele  a los pacientes que toman Ciprofloxacina
+que eviten la exposición directa a la luz solar o a la radiación UV durante el tratamiento (ver Reacciones adversas).
+Sistema nervioso central (SNC)
+Las quinolonas en general, incluyendo Ciprofloxacina, se conoce que pueden desencadenar convulsiones o reducir el umbral convulsivo.
+Se han reportado casos de status epilepticus. Ciprofloxacina debería ser usada con precaución en pacientes con trastornos del SNC ya
+que  pueden  tener  predisposición  a  padecer  convulsiones.  Si  se  produjeran  convulsiones,  debe  discontinuarse  el  tratamiento  con
+Ciprofloxacina (ver sección Reacciones adversas). Pueden producirse reacciones psiquiátricas aún después de la primera administración
+de Ciprofloxacina. En raros casos, la depresión o psicosis puede llevar a pensamientos suicidas que culminen en un intento de suicidio o
+
+en el suicidio. En los casos en que pudiera ocurrir tal eventualidad debería discontinuarse el uso de Ciprofloxacina.
+Se reportaron casos de polineuropatía (basado en síntomas neurológicos como dolor, ardor, disturbios sensoriales o debilidad muscular,
+solos o en combinación) en pacientes que recibían Ciprofloxacina. Debería discontinuarse el tratamiento con Ciprofloxacina en pacientes
+que  experimenten  síntomas  de  neuropatía,  incluyendo  dolor,  ardor,  hormigueo,  entumecimiento,  y/o  debilidad,  con  el  fin  de  prevenir  el
+desarrollo de una condición irreversible (ver sección Reacciones adversas).
+Trastornos cardiacos
+Debe observarse precaución cuando se usen fluoroquinolonas, incluida Ciprofloxacina, en aquellos pacientes con factores de riesgo para
+prolongación del intervalo QT, como por ejemplo:
+• Síndrome congénito de prolongación del QT
+• Uso concomitante de drogas que se conoce que prolongan el intervalo QT (por ej. Antiarritmicos Clase IA y III, antidepresivos tricíclicos,
+macrólidos, antipsicóticos)
+• Desequilibrio electrolítico no corregido (por ej. hipokalemia, hipomagnesemia)
+• Enfermedades cardíacas (por ej. insuficiencia cardíaca, infarto del miocardio, bradicardia)
+Los pacientes geriátricos y las mujeres pueden ser más sensibles a las medicaciones que prolongan el intervalo QT, por lo cual debería
+observarse precaución cuando en ellos se usan fluoroquinolonas, incluyendo Ciprofloxacina.
+Hipoglucemia
+Como con otras quinolonas se han reportado casos de hipoglucemia, mayormente en pacientes diabéticos y en la población geriátrica. En
+el caso de los pacientes diabéticos se recomienda el monitoreo de la glucosa en sangre.
+Sistema gastrointestinal
+La ocurrencia de diarrea severa y persistente durante o después del tratamiento (aún varias semanas después del tratamiento) puede
+indicar  la  existencia  de  una  colitis  asociada  al  tratamiento  antibiótico  (la  cual  puede  amenazar  la  vida),  requiriendo  un  tratamiento
+inmediato.  En  estos  casos  debe  discontinuarse  inmediatamente  el  tratamiento  con  Ciprofloxacina  e  iniciar  una  terapia  adecuada.  Las
+drogas anti-peristálticas están contraindicadas en esta situación.
+Sistema renal y urinario
+Se ha reportado cristaluria relacionada con el uso de Ciprofloxacina (ver sección Reacciones adversas).
+Los pacientes que reciben Ciprofloxacina deberían estar bien hidratados y se debería evitar el exceso de alcalinidad en la orina.
+Deterioro de la función renal
+Dado que la Ciprofloxacina es principalmente excretada por vía renal sin cambios, es necesario ajustar la dosis en aquellos pacientes con
+deterioro de la función renal, y evitar el incremento de las reacciones adversas de la droga debido a acumulación de Ciprofloxacina.
+Sistema hepatobiliar
+Se  han  reportado  casos  de  necrosis  hepática  y  amenaza  de  vida  por  fallo  hepático  en  pacientes  con  deficiencia  de  glucosa  6-fosfato
+deshidrogenasa. Se debe evitar la administración de Ciprofloxacina en estos pacientes, al menos que el beneficio sea mayor que el riesgo.
+En este caso, se debe monitorear la posible ocurrencia de hemólisis.
+Resistencia
+Durante el curso del tratamiento con Ciprofloxacina o luego del mismo, puede aislarse una cepa bacteriana resistente a Ciprofloxacina,
+con o sin la existencia de una superinfección clínica aparente. Puede existir un riesgo particular de selección de  bacterias resistentes a
+Ciprofloxacina durante un tratamiento prolongado, así como durante el tratamiento de infecciones hospitalarias y /o infecciones causadas
+por Staphyloccocus y Pseudomonas sp.
+Citocromo P450
+Ciprofloxacina  inhibe  CYP1A2  y  de  esta  manera  puede  causar  el  aumento  de  la  concentración  sérica  de  sustancias  administradas
+concomitantemente que son metabolizadas por esta enzima (por ej.: teofilina, clozapina, olanzapina, ropinirol, tizanidina, duloxetina). La
+co-administración  de  ciprofloxacina  y  tizanidina  está  contraindicada.  Los  pacientes  que  tomen  estas  drogas  concomitantemente  con
+Ciprofloxacina deberían ser monitoreados por signos de sobredosis, y puede ser necesario determinar sus concentraciones séricas (por ej.
+Teofilina).
+Metotrexato
+La administración conjunta de Ciprofloxacina y metotrexato no se recomienda.
+Interacción en los tests
+La  actividad  in-vitro  de  Ciprofloxacina  contra  Mycobacterium  tuberculosis  pude  resultar  en  test  bacteriológicos  falsos  negativos  en  las
+muestras de pacientes que se encuentran tratados con Ciprofloxacina.
+INTERACCIONES CON OTROS MEDICAMENTOS Y OTRAS FORMAS DE INTERACCIÓN
+Efectos de otros medicamentos sobre la Ciprofloxacina
+Drogas conocidas por prolongar el intervalo QT
+La Ciprofloxacina, al igual que otras fluoroquinolonas, debe usarse con precaución en pacientes que reciben drogas que se sabe  que
+prolongan el intervalo QT (por ej. antiarrítmicos Clase IA y III, antidepresivos tricíclicos, macrólidos, antipsicóticos).
+Formación de complejos quelantes
+La administración simultanea de Ciprofloxacina (oral) y productos conteniendo cationes multivalentes y suplementos minerales (por ej.:
+calcio, magnesio, aluminio, hierro), quelantes de  fosfatos poliméricos (por ej.: sevelamer, carbonato de lantano), sucralfato o antiácidos, y
+drogas  altamente  buffer  (por  ej.  didanosina)  que  contienen  magnesio,  aluminio  o  calcio,  reducen  la  absorción  de  Ciprofloxacina.
+Consecuentemente, Ciprofloxacina debe ser administrada tanto 1-2 horas antes o al menos 4 horas después de estos medicamentos.
+Esta restricción no aplica para los antiácidos que bloquean los receptores H2.
+Productos alimenticios y lácteos
+La  dieta  de  calcio  como  parte  de  las  comidas  no  afecta  significantemente  la  absorción.  Sin  embargo,  la  administración  conjunta  de
+productos lácteos o bebidas fortificadas con minerales (por ej., leche, yogurt, jugo de naranja fortificado con calcio) debería evitarse ya que
+la absorción de Ciprofloxacina puede verse reducida.
+Probenecid
+Probenecid  interfiere  en  la  secreción  renal  de  Ciprofloxacina.  La  co-administración  de  probenecid  y  Ciprofloxacina  aumenta  las
+concentraciones séricas de Ciprofloxacina.
+Metoclopramida
+Metoclopramida acelera la absorción de Ciprofloxacina (oral) alcanzándose la concentración máxima en menor tiempo. Se observo que no
+afecta la biodisponibilidad de la Ciprofloxacina.
+Omeprazol
+La  administración  concomitante  de  Ciprofloxacina  y  omeprazol    produce  una  ligera  reducción  de  la  concentración  plasmática  máxima
+(Cmáx) y del área bajo la curva concentración-tiempo (ABC) de  Ciprofloxacina.
+Efecto de la Ciprofloxacina sobre otros medicamentos
+Tizanidina
+Tizanidina no debe ser administrada junto con Ciprofloxacina. En un estudio clínico realizado con sujetos sanos se observó un incremento
+de la concentración sérica de tizanidina (Cmáx aumentó 7 veces, rango: 4 a 21 veces, ABC aumentó 10 veces, rango: 6 – 24 veces)
+cuando se administraba conjuntamente con Ciprofloxacina. El incremento de la concentración sérica de tizanidina está asociado con un
+aumento de sus efectos hipotensores y sedativos.
+Metrotrexato
+Cuando  se  administra  concomitantemente  con  Ciprofloxacina,  el  transporte  tubular  renal  del  metrotrexato  puede  verse  inhibido
+produciendo un incremento de los niveles plasmáticos de metrotrexato y aumentando el riesgo de reacciones tóxicas asociadas con el
+metrotrexato.
+No se recomienda la administración concomitante.
+Teofilina
+La administración conjunta de Ciprofloxacina y teofilina puede causar un aumento indeseable de la concentración sérica de teofilina. Esto
+puede conducir a efectos adversos debidos a la teofilina que raramente pueden amenazar la vida o ser fatales. Durante la administración
+conjunta, se debería chequear la concentración sérica de teofilina y reducir la dosis si es necesario.
+Otros derivados de Xantinas
+Se ha reportado que durante la administración conjunta de Ciprofloxacina y cafeína o pentoxifilina (oxpentifilina) se produjo un aumento de
+
+la concentraciones sérica de estos derivados de xantina.
+Fenitoína
+La administración simultanea de Ciprofloxacina y fenitoína puede producir un incremento o reducir los niveles séricos de fenitoína, por lo
+cual se recomienda monitorear los niveles de la droga.
+Ciclosporina
+Se observó un incremento transitorio en la concentración sérica de la creatinina cuando se administró concomitantemente Ciprofloxacina
+y ciclosporina. Por lo cual, en estos pacientes es necesario un control frecuente (2 veces por semanas) de la creatinina sérica.
+Antagonistas de la Vitamina K
+La administración simultanea de Ciprofloxacina con un antagonista de la vitamina K puede aumentar su efecto anticoagulante. El riesgo
+puede variar con la infección subyacente, la edad y el estado general del paciente, de manera que la contribución de la Ciprofloxacina en
+el  incremento  del  RIN  (tasa  normalizada  internacional)  es  difícil  de  evaluar.  El  RIN  debe  ser  monitoreado  frecuentemente  durante  y
+después la co-administración de Ciprofloxacina con un antagonista de la vitamina K (por ej. warfarina, acenocoumarol, fenprocoumon o
+fluindiona).
+Duloxetina
+Se ha demostrado a través de estudios clínicos que el uso concomitante de duloxetina con inhibidores potentes de la isoenzima CYP450
+1A2, como fluvoxamina, puede producir un incremento del ABC y Cmáx de duloxetina. Aunque no hay datos clínicos disponibles con la
+Ciprofloxacina, se espera efectos similares si se administran concomitantemente.
+Ropinirol
+En  un  estudio  clínico  se  demostró  que  la  administración  concomitante  de  ropirinol  con  Ciprofloxacina,  un  inhibidor  moderado  de  la
+isoenzima CYP450 1A2, produjo un incremento de la Cmáx y ABC de ropirinol en un 60% y 84%, respectivamente.
+Se  recomienda  el  monitoreo  de  los  efectos  adversos  relacionados  con  el  ropirinol  y  el  ajuste  a  la  dosis  apropiada  durante  e
+inmediatamente después de la co-administración de Ciprofloxacina.
+Lidocaína
+Se  demostró  que  en  sujetos  sanos  a  quienes  le  administraron  conjuntamente  lidocaína  y  Ciprofloxacina,  un  inhibidor  moderado  de
+isoenzima CYP450 1A2, se produjo una reducción en el clearence intravenoso de lidocaína en un 22%.
+Aunque el tratamiento con lidocaína fue bien tolerado, se puede producir una posible interacción con Ciprofloxacina asociada con efectos
+adversos.
+Clozapina
+Luego  de  la  administración  concomitante  de  250  mg  de  Ciprofloxacina  con  clozapina  durante  7  días,  las  concentraciones  séricas  de
+clozapina y N-desmetilclozapina se incrementaron un 29% y un 31%, respectivamente. Se recomienda la supervisión clínica y el ajuste a
+la dosis adecuada de clozapina durante y después de la co-administración con Ciprofloxacina.
+Sildenafil
+La Cmáx y el ABC del sildenafil se incrementaron aproximadamente 2 veces en sujetos sanos después de una dosis oral concomitante de
+50 mg de Ciprofloxacina. Por este motivo se recomienda precaución en la prescripción concomitante  de Ciprofloxacina con sildenafil,
+tomando en consideración los riesgos y beneficios.
+Embarazo y lactancia
+Embarazo (Categoría C)
+Los  datos  disponibles  acerca  de  la  administración  de  Ciprofloxacina  a  mujeres  embarazadas  indica  que  la  Ciprofloxacina  no  produce
+malformaciones o toxicidad en el feto o neonato. Estudios en animales no mostraron efectos dañinos directos o indirectos con respecto a
+la  toxicidad  en  la  reproducción.  En  animales  jóvenes  y  prenatales  expuestos  a  quinolonas  se  observaron  efectos  sobre  los  cartílagos
+inmaduros, por lo que no se descarta que la droga pueda causar daño en los cartílagos articulares en seres humanos.
+La  seguridad  y  efectividad  de  Ciprofloxacina  en  mujeres  embarazadas  no  han  sido  establecidas.  Debido  a  la  ausencia  de  estudios
+adecuadamente controlados se desaconseja el empleo de Ciprofloxacina durante la gestación.
+Lactancia
+Ciprofloxacina se excreta en la leche materna. Debido al potencial riesgo de daño articular, la Ciprofloxacina no debe usarse durante la
+lactancia.
+Efecto sobre la capacidad de manejo y uso de máquinas
+Debido a sus efectos neurológicos, Ciprofloxacina puede afectar el tiempo de reacción. Por lo tanto, la habilidad para manejar y operar
+máquinas puede estar disminuida.
+
+REACCIONES ADVERSAS
+Los efectos adversos mas comúnmente reportados son las náuseas y la diarrea.
+Los  efectos adversos derivados de estudios clínicos y supervisión post-comercialización de la Ciprofloxacina, fueron clasificados por la
+categoría de su frecuencia y se listan en el cuadro siguiente. Para el análisis de la frecuencia se tuvo en cuenta tanto la Ciprofloxacina
+administrada tanto oralmente como por vía intravenosa.
+
+Sistema de
+órganos
+Infecciones e
+Infestaciones
+
+Trastornos del
+Sistema
+sanguíneo y
+linfático
+
+Trastornos del
+sistema
+inmunológico
+
+Trastornos del
+Metabolismo y la
+Nutrición
+Trastornos
+Psiquiátricos*
+
+Trastornos
+vasculares
+
+Comunes  No comunes
+
+Raros
+
+Muy raros
+
+Frecuencia no
+conocida
+
+Superinfecciones
+micóticas
+
+Eosinofilia
+
+Colitis  asociada  al
+uso  de  antibióticos
+(muy  rara  vez  con
+posible caso fatal)
+Leucopenia
+Anemia
+Neutropenia
+Leucocitosis
+Trombocitopenia
+Trombocitemia
+
+Reacción alérgica,
+Edema alérgico /
+angioedema
+
+Anemia hemolítica
+Agranulocitosis
+Pancitopenia
+(amenaza de vida)
+Depresión de la
+médula ósea
+(amenaza de vida)
+Reacción
+anafiláctica
+Shock  anafiláctico
+(amenaza de vida)
+Reacción  tipo
+Enfermedad del
+Suero
+
+Disminución  del
+apetito
+
+Hiperglucemia
+Hipoglucemia
+
+Hiperactividad
+psicomotora /
+agitación
+
+Confusión y
+desorientación
+Ansiedad
+Sueños anormales
+Depresión
+(posibilidad de ter-
+minar en pensamien-
+tos suicidas o intento
+de suicidio)
+Alucinaciones
+Vasodilatación
+Hipotensión. Sincope
+
+Reacciones
+psicóticas
+(posibilidad de
+terminar en
+pensamientos
+suicidas o intento
+de suicidio)
+
+Vasculitis
+
+Trastornos
+respiratorios,
+torácicos y
+mediastinales
+Trastornos
+gastrointestinales
+
+Náusea
+Diarrea
+
+Trastornos
+Hepatobiliares
+
+Trastornos de la
+piel y los tejidos
+subcutáneos
+
+Trastornos
+Músculo-
+esqueléticos y
+del tejido
+conectivo
+
+Trastornos
+renales y
+urinarios
+
+Trastornos
+Generales y en
+el sitio de
+aplicación
+Análisis clínicos
+
+Disnea (incluido
+condiciones
+asmáticas)
+
+Deterioro hepático
+Ictericia colestásica
+Hepatitis
+
+Reacciones de
+fotosensibilidad
+
+Vómitos
+Dolores gastro-
+intestinales y
+abdominales
+Dispepsia
+Flatulencia
+Aumento de las
+transaminasas
+Aumento de la
+bilirrubina
+
+Rash
+Prurito
+Urticaria
+
+Dolor musculo-
+esquéletico (por
+ej. dolor de las
+extremidades,
+espalda y
+pecho)
+Artralgia
+
+Deterioro renal
+
+Astenia
+Fiebre
+
+Aumento de la
+fosfatasa
+alcalina en
+sangre
+
+Mialgia
+Artritis
+Aumento del tono
+muscular y
+calambres
+
+Fallo renal
+Hematuria
+Cristaluria
+Nefritis túbulo-
+intersticial
+Edema
+Sudoración
+(hiperhidrosis)
+
+Aumento de la
+amilasa
+
+Pancreatitis
+
+Necrosis hepática
+(muy raramente
+progresa a amena-
+za de la vida por
+fallo hepático)
+Petequias
+Eritema multiforme
+Eritema nudoso
+Síndrome de
+Stevens-Johnson
+(potencial amena-
+za de la vida)
+Necrólisis
+epidérmica tóxica
+(potencial amena-
+za de la vida)
+Debilidad muscular
+Tendinitis
+Ruptura del tendón
+(predominantemen
+te el tendón de
+Aquiles)
+Exacerbación de
+los síntomas de la
+miastenia gravis
+
+Pustulosis
+Exantematosa
+aguda generalizada
+
+Incremento del RIN
+(en pacientes
+tratados con
+antagonistas de la
+Vitamina K)
+
+* Casos muy raros de reacciones serias (hasta meses o años) prolongadas, incapacitantes y potencialmente irreversibles que afectan
+varias, a veces múltiples, clases de órganos del sistema y sentidos (incluidas reacciones como tendinitis, rotura del tendón, artralgia,
+dolor  en  extremidades,  trastornos  de  la  marcha,  neuropatías,  depresión,  fatiga,  deterioro  de  la  memoria,  trastornos  del  sueño  y
+deterioro de la audición, visión, gusto y olor) se han reportado en asociación con el uso de quinolonas en algunos casos, independien-
+temente de los factores de riesgo preexistentes.
+
+Población pediátrica
+La incidencia de artropatía, mencionada anteriormente, se refiere a datos obtenidos en estudios clínicos con adultos. Se reportaron
+frecuentemente casos de artropatía en niños.
+Ante cualquier inconveniente con el producto Usted puede:
+- comunicarse al 4756-5436 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+-llenar  la  ficha  que  está  en  la  Página  Web  de  la ANMAT:  http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp  o  llamar  a ANMAT
+responde 0800-333-1234
+
+SOBREDOSIS
+Se ha reportado una sobredosis de 12 g que produjo leves síntomas de toxicidad. Se reportó una sobredosis de 16 g causando fallo
+renal agudo.
+Los  síntomas  de  sobredosis  consisten  en  mareos,  temblor,  dolor  de  cabeza,  cansancio,  convulsiones,  alucinaciones,  confusión,
+malestar abdominal, deterioro renal y hepático, así como cristaluria y hematuria. Se ha reportado toxicidad renal reversible.
+En caso de sobredosis aguda, luego de una cuidadosa evaluación clínica del paciente, de la valoración del tiempo transcurrido desde
+la  ingesta  o  la  administración,  de  la  cantidad  ingerida,  y  descartando  la  contraindicación  de  ciertos  procedimientos,  el  profesional
+decidirá la realización o no del tratamiento general de rescate, incluyendo la evaluación gástrica por lavado gástrico o inducción del
+vómito con las medidas adecuadas de preservación de la vía aérea para evitar la broncoaspiración. Además de las medidas rutinarias
+de emergencia (por ej. rescate de la droga no absorbida con carbón activado), se recomienda monitorear la función renal, incluyendo el
+pH urinario, y acidificar la orina, si se requiere, para prevenir la cristaluria. Los pacientes deben ser mantenidos con buena hidratación.
+Los antiácidos conteniendo calcio y magnesio teóricamente pueden reducir la absorción de la Ciprofloxacina en casos de sobredosis.
+Solamente una cantidad baja de Ciprofloxacina (10%) es eliminada por hemodiálisis o diálisis peritoneal.
+En  casos  de  sobredosis,  se  debe  tratar  los  síntomas,  se  debe  realizar  un  monitoreo  electrocardiográfico  por  la  posibilidad  de  la
+prolongación del intervalo QT.
+Ante la eventualidad de una sobredosificación concurrir al Hospital más cercano o comunicarse a los Centros de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/4962-2247
+Hospital A. Posadas (011) 4658-7777/4654-6648.
+
+MODO DE CONSERVACION
+Conservar a temperatura entre 10o y 30oC.
+
+“MANTENER FUERA DEL ALCANCE DE LOS NIÑOS”
+“Este medicamento debe ser utilizado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse
+sin nueva receta médica.”
+
+PRESENTACION
+CIPROFLOXACINA DENVER FARMA 500 mg se expenden en envases con 10 comprimidos recubiertos.
+Especialidad Medicinal autorizada por el Ministerio de Salud. Certificado No  44.874
+DENVER FARMA S.A. Natalio Querido 2285 (B1605CYC) Munro, Provincia de Buenos Aires.
+Elaborado en su planta de Manufactura Centro Industrial Garín.
+Director Técnico: José Luis Tombazzi –Farmacéutico
+Fecha de la ültima revisión: Enero 2121                                                                                                                                                  RV 04/21
+Disposición ANMAT No:

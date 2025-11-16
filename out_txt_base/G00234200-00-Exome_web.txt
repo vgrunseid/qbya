@@ -1,0 +1,1197 @@
+EXOME®
+APALUTAMIDA 60 mg
+
+Comprimidos Recubiertos
+Venta bajo receta archivada. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de EXOME® contiene:
+Apalutamida ........................................................................................ 60 mg
+Excipientes:
+Hidroxipropilmetilcelulosa acetato succinato ...............................180 mg
+Dióxido de silicio coloidal ..................................................................9,1 mg
+Croscarmelosa sódica ......................................................................... 35 mg
+Celulosa microcristalina................................................................295,5 mg
+Celulosa microcristalina silificada ...............................................116,9 mg
+Estearato de Magnesio vegetal ........................................................ 3,5 mg
+Óxido de hierro amarillo (CI N°77492) ........................................0,247 mg
+Óxido de hierro negro (CI N°77499) ........................................... 0,048 mg
+Talco .................................................................................................2,909 mg
+Polietilenglicol ...............................................................................3,970 mg
+Dióxido de titanio...........................................................................4,914 mg
+Alcohol polivinílico ........................................................................7,862 mg
+Cera Blanca .................................................................................... 0,003 mg
+Cera Carnauba ............................................................................... 0,003 mg
+Goma laca ...................................................................................... 0,006 mg
+
+ACCIÓN TERAPÉUTICA
+
+Grupo farmacoterapéutico: Terapia endócrina, antiandrógeno.
+Código ATC: L02BB05.
+
+INDICACIONES
+
+EXOME® es un inhibidor de receptores androgénicos indicado para el
+tratamiento de pacientes que padecen:
+• cáncer de próstata resistente a la castración no metastásico (CPRC-nm),
+• cáncer de próstata hormonosensible metastásico (CPHSm).
+
+ACCION FARMACOLÓGICA
+
+Mecanismo de acción
+Apalutamida  es  un  inhibidor  selectivo  del  receptor  androgénico  (RA)
+administrado por vía oral que se une directamente al dominio de unión
+de ligando del RA. Apalutamida evita la translocación al núcleo del RA,
+inhibe la unión del ADN, impide la transcripción mediada por el RA y ca-
+rece de actividad agonista del receptor androgénico. El tratamiento con
+apalutamida reduce la proliferación de las células tumorales y aumenta
+la apoptosis consiguiendo una potente actividad antitumoral. Uno de
+los principales metabolitos, N-desmetil apalutamida, demostró in vitro
+un tercio de la actividad de apalutamida.
+
+Efectos farmacodinámicos
+Electrofisiología cardíaca
+Se evaluó el efecto de apalutamida 240 mg una vez al día sobre el inter-
+valo QTc en un estudio abierto, no controlado, multicéntrico y un solo
+grupo dedicado al intervalo QT en 45 pacientes con CPRC. En el esta-
+do estacionario, el cambio medio máximo en el intervalo QTcF desde
+el nivel basal fue de 12,4 ms (límite superior del IC del 90 % bilateral:
+16,0 ms). En un análisis de exposición-intervalo QT, se sugiere un au-
+mento dependiente de la concentración del intervalo QTcF para apalu-
+tamida y su metabolito activo.
+
+FARMACOCINÉTICA
+
+Tras la administración repetida una vez al día, la exposición a apalutamida
+
+(Cmáx y el área bajo la curva de la concentración [(ABC]) aumentó de for-
+ma proporcional a la dosis en todo el rango de dosis de 30 a 480 mg. Tras
+la administración de 240 mg una vez al día, se alcanzó el estado estacio-
+nario de apalutamida después de 4 semanas y la tasa de acumulación
+media  fue  5  veces  superior  a  la  de  la  dosis  única,  aproximadamente.
+En estado estacionario, los valores medios (CV%) de la Cmáx y el ABC de
+apalutamida fueron de 6 μg/ml (28 %) y 100 μg.h/ml (32 %), respecti-
+vamente. Las fluctuaciones diarias de las concentraciones plasmáticas
+de apalutamida fueron bajas, con un cociente medio pico-valle de 1,63.
+Se observó un aumento en el aclaramiento aparente (CL/F) con dosis re-
+petidas, probablemente debido a la inducción del propio metabolismo
+de la apalutamida.
+En estado estacionario, los valores medios (CV%) de la Cmáx y el ABC del
+principal metabolito activo, N-desmetil apalutamida, fueron de 5,9 μg/ml
+(18%) y 124 μg.h/ml (19%), respectivamente. N-desmetil apalutamida
+se  caracteriza  por  un  perfil  de  concentración-tiempo  plano  en  estado
+estacionario con un cociente medio pico-valle de 1,27. El cociente medio
+(CV %) del ABC de metabolito/medicamento original para N-desmetil
+apalutamida tras la administración de dosis repetidas fue de 1,3 (21%),
+aproximadamente. En base a la exposición sistémica, la potencia relati-
+va y las propiedades farmacocinéticas, N-desmetil apalutamida proba-
+blemente contribuyó a la actividad clínica de apalutamida.
+
+Absorción
+Después  de  la  administración  oral,  la  mediana  del  tiempo  hasta  la
+concentración plasmática máxima (tmáx) fue de 2 horas (intervalo: 1 a 5
+horas). La biodisponibilidad oral absoluta media es del 100 %, aproxi-
+madamente, lo que indica que la apalutamida se absorbe de manera
+completa tras la administración oral.
+La  administración  de  apalutamida  a  sujetos  sanos  en  condiciones  de
+ayuno o con una comida rica en grasa no produjo cambios clínicamente
+relevantes en la Cmáx ni el ABC. La mediana del tiempo hasta la tmáx se
+retrasó unas 2 horas con alimento.
+Apalutamida no es ionizable en condiciones de pH fisiológico relevan-
+tes, por lo tanto no se espera que los fármacos reductores de ácido (por
+ejemplo, inhibidor de la bomba de protones, antagonista del receptor
+H2, antiácido) afecten a la solubilidad o la biodisponibilidad de apalu-
+tamida.
+In vitro, apalutamida y su metabolito N-desmetil apalutamida son sus-
+tratos de la gp-P. Dado que apalutamida se absorbe completamente tras
+la administración oral, la gp-P no limita la absorción de apalutamida y,
+por lo tanto, no se esperara que la inhibición o inducción de la gp-P afecte
+a la biodisponibilidad de apalutamida.
+
+Distribución
+El volumen de distribución aparente medio en estado estacionario de
+apalutamida es de 276 l, aproximadamente. El volumen de distribución
+de apalutamida es superior al volumen de agua total del organismo, lo
+que indica su amplia distribución extravascular.
+Apalutamida y N-desmetil apalutamida se unen en un 96 % y un 95 % a
+las proteínas plasmáticas, respectivamente, principalmente se unen a la
+albúmina sérica de forma independiente de la concentración.
+
+Metabolismo
+Tras la administración de una dosis oral única de 240 mg de apalutamida
+marcada con 14C, apalutamida, el metabolito activo, N-desmetil apalu-
+tamida, y un metabolito de ácido carboxílico inactivo representaron la
+mayor parte de la radioactividad de 14C en plasma, con el 45%, 44%, y
+3%, respectivamente del total de 14C-ABC.
+El metabolismo es la principal vía de eliminación de apalutamida. Se
+metaboliza  principalmente  por  el  CYP2C8  y  el  CYP3A4  para  formar
+N-desmetil  apalutamida.  Apalutamida  y  N-desmetil  apalutamida  son
+metabolizadas  a  posteriori  por  una  carboxilesterasa  para  formar  el
+metabolito de ácido carboxílico inactivo. La contribución del CYP2C8 y
+
+el CYP3A4 al metabolismo de apalutamida se estima que es del 58%
+y el 13% después de una dosis única, pero es de esperar que el nivel
+de contribución cambie en estado estacionario  debido a la inducción
+del CYP3A4 por la apalutamida después de la administración repetida.
+
+Eliminación
+Apalutamida, principalmente en forma de sus metabolitos, se elimina
+de manera principal a través de orina. Después de una única adminis-
+tración  oral  de  apalutamida  radiomarcada,  se  recuperó  el  89%  de  la
+radioactividad hasta 70 días después de la administración: el 65% se
+recuperó en la orina (1,2% de la dosis en forma de apalutamida inalterada
+y el 2,7% en forma de N-desmetil apalutamida) y el 24 % se recuperó en
+las heces (1,5% de la dosis en forma de apalutamida inalterada y el 2%
+en forma de N-desmetil apalutamida).
+El aclaramiento oral aparente (CL/F) de apalutamida es de 1,3 l/h des-
+pués  de  una  dosis  única  y  aumenta  a  2,0  l/h  en  estado  estacionario
+tras  la  administración  una  vez  al  día.  La  semivida  eficaz  media  para
+apalutamida en los pacientes es de 3 días en estado estacionario, apro-
+ximadamente.
+Los datos in vitro indican que apalutamida y su metabolito N-desmetil
+apalutamida no son sustratos de la BCRP, el OATP1B1 o el OATP1B3.
+
+Poblaciones especiales
+A continuación, se resumen los efectos de la insuficiencia renal, la insu-
+ficiencia hepática, la edad, la raza y otros factores extrínsecos sobre la
+farmacocinética de apalutamida.
+
+Insuficiencia renal
+No se ha realizado ningún estudio específico de apalutamida en insu-
+ficiencia  renal.  En  los  análisis  de  farmacocinética  por  poblaciones  en
+base a los datos de estudios clínicos en sujetos con cáncer de próstata
+resistente a la castración (CPRC) y en sujetos sanos, no se observaron
+diferencias significativas en la exposición sistémica a apalutamida en-
+tre sujetos con insuficiencia renal previa de leve a moderada (tasa de
+filtración  glomerular  estimada  [TFGe]  entre  30  a  89  ml/min/1,73  m2;
+N=585) y los sujetos con función renal normal al inicio (TFGe ≥ 90 ml/
+min/1,73 m2; N=372). Debido a la falta de datos no se ha establecido el
+posible efecto de la insuficiencia renal grave ni de la enfermedad renal
+terminal (TFGe ≤29 ml/min/1,73 m2).
+
+Insuficiencia hepática
+En un estudio específico sobre la insuficiencia hepática se comparó la
+exposición  sistémica  a  apalutamida  y  N-desmetil  apalutamida  en  su-
+jetos  con  insuficiencia  hepática  leve  al  inicio  (N=8,  Child-Pugh  Clase
+A, puntuación media = 5,3) o insuficiencia hepática moderada (N=8,
+Child-Pugh Clase B, puntuación media = 7,6) frente a los controles sa-
+nos con función hepática normal (N=8). Después de una única dosis oral
+de 240 mg de apalutamida, la razón media geométrica (GMR) del ABC
+y la Cmáx de apalutamida en sujetos con insuficiencia leve fue del 95% y
+el 102%, respectivamente, y la GMR del ABC y la Cmáx de apalutamida
+en sujetos con insuficiencia moderada fue del 113% y el 104%, respec-
+tivamente, comparado con los sujetos control sanos. No se dispone de
+datos farmacocinéticos ni clínicos respecto a apalutamida de pacientes
+con insuficiencia hepática grave (Child-Pugh Clase C).
+
+Etnia y raza
+Según  el  análisis  de  la  farmacocinética  por  poblaciones,  no  se  obser-
+varon  diferencias  clínicamente  relevantes  en  la  farmacocinética  de
+apalutamida  entre  blancos  (caucásicos  o  hispanos  o  latinos;  N=761),
+negros (de ascendencia africana o afroamericanos; N=71), asiáticos (no
+japoneses; N=58) y japoneses (N=58).
+
+Edad
+Los análisis de farmacocinética poblacional mostraron que la edad (in-
+tervalo: 18 a 94 años) no tiene una influencia clínicamente significativa
+sobre la farmacocinética de apalutamida.
+
+POSOLOGÍA - MODO DE ADMINISTRACIÓN
+
+El tratamiento con EXOME® debe ser iniciado y supervisado por un mé-
+dico con experiencia en el tratamiento del cáncer de próstata.
+
+Posología
+La dosis recomendada es de 240 mg (cuatro comprimidos de 60 mg) en
+una sola dosis diaria por vía oral.
+Se debe mantener la castración médica con un análogo de la hormona
+liberadora de gonadotropinas (GnRHa, por sus siglas en inglés) durante
+el tratamiento en pacientes no sometidos a castración quirúrgica.
+Si se olvida una dosis, ésta se debe tomar lo antes posible ese mismo día
+y volver al horario normal al día siguiente. No se deben tomar comprimidos
+
+adicionales para compensar la dosis olvidada.
+
+Modificaciones de la dosis recomendada
+Si el paciente sufre una toxicidad de grado ≥3 o una reacción adversa
+intolerable, se debe interrumpir de forma temporal la administración de
+EXOME® hasta que los síntomas mejoren a grado ≤1 o al grado inicial;
+luego se debe reanudar la administración a la misma dosis o a una dosis
+reducida (180 mg o 120 mg), si está justificado.
+
+Poblaciones especiales
+Insuficiencia renal
+No es necesario ajustar la dosis en pacientes con insuficiencia renal leve
+a moderada.
+Se deben tomar precauciones en pacientes con insuficiencia renal grave
+ya que la apalutamida no se ha estudiado en esta población de pacien-
+tes. Si se inicia el tratamiento, se debe vigilar en los pacientes la ocurren-
+cia de reacciones adversas y reducir la dosis de acuerdo a lo establecido
+en la sección precedente.
+
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática
+leve o moderada previa (Clase A y B de Child-Pugh, respectivamente).
+En pacientes con insuficiencia hepática grave no se recomienda el empleo
+de  apalutamida  ya  que  no  se  dispone  de  datos  en  esta  población  de
+pacientes y la eliminación de la medicación se realiza principalmente
+por vía hepática.
+
+Población de edad avanzada
+No es necesario ajustar la dosis en pacientes de edad avanzada.
+
+Población pediátrica
+El uso de apalutamida en población pediátrica no es relevante.
+
+Modo de administración
+EXOME® se administra por vía oral.
+Los comprimidos se deben tragar enteros y se pueden tomar con o sin
+alimentos.
+
+Modo de administración alternativo
+Para los pacientes con dificultad para tragar los comprimidos enteros, la
+dosis recomendada de comprimidos de EXOME® se puede mezclar con
+compota de manzana.
+1. Mezclar los comprimidos enteros de EXOME® en 4 onzas (120 mili-
+litros) de compota de manzana revolviendo. No aplastar los compri-
+midos.
+
+2. Esperar 15 minutos, revolver la mezcla.
+3. Esperar otros 15 minutos, revolver la mezcla hasta que los comprimi-
+dos se dispersen (mezclados correctamente, sin dejar ningún trozo).
+
+4. Utilizando una cuchara, tragar la mezcla enseguida.
+5. Enjuagar el recipiente con 2 onzas (60 mililitros) de agua y beber el
+contenido de inmediato. Repetir el enjuague con 2 onzas (60 mililitros)
+de agua una segunda vez para asegurarse de que se ha ingerido la
+dosis completa.
+
+Consumir la mezcla en el lapso de una hora desde la preparación. No
+guardar EXOME® mezclado con compota de manzana.
+
+CONTRAINDICACIONES
+
+EXOME® está contraindicado en:
+• Pacientes con hipersensibilidad al principio activo o a alguno de los
+
+excipientes de este producto.
+
+• Mujeres embarazadas o que puedan quedarse embarazadas.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+
+Convulsiones
+EXOME® no está recomendado en pacientes con antecedentes de con-
+vulsiones u otros factores predisponentes, incluidos, pero no limitado
+a, lesión cerebral subyacente, ictus reciente (durante el último año), tu-
+mores cerebrales primarios o metástasis cerebrales. Si se presenta una
+convulsión durante el tratamiento con EXOME®, se debe interrumpir el
+tratamiento de forma permanente. El riesgo de convulsiones puede au-
+mentar en pacientes tratados de forma concomitante con medicamen-
+tos que reducen el umbral convulsivo.
+En estudios clínicos aleatorizados, se observaron convulsiones en el 0,4 %
+de los pacientes tratados con apalutamida y en el 0,2 % de los pacientes
+tratados con placebo. En estos estudios se excluyeron a los pacientes con
+antecedentes de convulsiones o con factores predisponentes.
+No  hay  experiencia  clínica  con  la  reinstauración  del  tratamiento  con
+
+apalutamida en los pacientes que han sufrido una convulsión. Se des-
+conoce si los medicamentos antiepilépticos evitarán las convulsiones en
+los pacientes tratados con apalutamida.
+
+Caídas y fracturas
+Se han descrito caídas y fracturas en los pacientes tratados con apalu-
+tamida. Se debe evaluar el riesgo de fracturas y caídas en los pacientes
+antes de iniciar el tratamiento con EXOME® y se debe seguir vigilando
+y  tratando  a  los  pacientes  según  los  protocolos  clínicos  establecidos,
+valorando el uso de terapias dirigidas al hueso.
+
+Cardiopatía isquémica
+Se  ha  descrito  cardiopatía  isquémica,  incluyendo  episodios  que  cau-
+saron  la  muerte,  en  pacientes  tratados  con  apalutamida.  La  mayoría
+de los pacientes presentaban factores de riesgo cardíacos. Los signos y
+síntomas de cardiopatía isquémica deben ser vigilados en los pacientes
+y el manejo de los factores de riesgo cardiovascular, como hipertensión,
+diabetes o dislipemia, se debe optimizar conforme a la práctica habitual.
+
+Eventos cerebrovasculares isquémicos
+Se observaron eventos cerebrovasculares isquémicos en pacientes que
+recibieron apalutamida. Se deben vigilar signos y síntomas de trastor-
+nos cerebrovasculares y optimizar el manejo de los factores de riesgo
+cardiovasculares.
+
+Enfermedad cardiovascular reciente
+En los estudios clínicos se excluyó a pacientes con enfermedad cardio-
+vascular  clínicamente  significativa  en  los  últimos  6  meses,  incluidos
+angina  grave/inestable,  infarto  de  miocardio,  insuficiencia  cardíaca
+congestiva  sintomática,  acontecimientos  tromboembólicos  arteriales
+o venosos (por ejemplo, embolia pulmonar, accidente cerebrovascular,
+incluidos accidentes isquémicos transitorios), o arritmias ventriculares
+clínicamente  significativas.  Por  lo  tanto,  en  estos  pacientes  no  se  ha
+establecido la seguridad de apalutamida.
+Si se prescribe EXOME®, se debe vigilar a los pacientes con enfermedad
+cardiovascular clínicamente significativa para controlar los factores de
+riesgo, como hipercolesterolemia, hipertrigliceridemia, u otros trastornos
+cardiometabólicos.  Si  fuera  necesario,  tras  iniciar  el  tratamiento  con
+EXOME® se tratará a los pacientes con estos trastornos conforme a los
+protocolos terapéuticos establecidos.
+
+El tratamiento de deprivación de andrógenos puede prolongar el inter-
+valo QT
+Antes de iniciar el tratamiento con  EXOME®, en los pacientes con an-
+tecedentes o factores de riesgo de prolongación del intervalo QT y en
+los pacientes tratados de forma concomitante con medicamentos que
+pueden prolongar el intervalo QT, se debe evaluar la relación beneficio/
+riesgo, incluida la posibilidad de Torsade de pointes.
+
+Uso concomitante con otros medicamentos
+Apalutamida es un potente inductor enzimático y puede reducir la efi-
+cacia de muchos medicamentos de uso común. Por lo tanto, cuando se
+inicie el tratamiento con EXOME® se realizará una revisión de los medi-
+camentos concomitantes. En general, se evitará el uso concomitante de
+apalutamida con medicamentos que son sustratos sensibles de muchas
+enzimas o transportadores metabólicos si su efecto terapéutico es muy
+importante para el paciente, y si no se pueden realizar fácilmente ajustes
+de dosis basados en un seguimiento de la eficacia o de las concentra-
+ciones plasmáticas.
+Se debe evitar la administración conjunta de apalutamida con warfarina
+y anticoagulantes de tipo cumarínico. Si EXOME® se administra de forma
+conjunta  con  un  anticoagulante  metabolizado  por  el  CYP2C9  (tales
+como warfarina o acenocumarol), se deben realizar controles adicionales
+de la Razón Internacional Normalizada (RIN).
+
+Interacciones con otros medicamentos y otras formas de interacción
+La eliminación de apalutamida y la formación de su metabolito activo,
+N-desmetil apalutamida, están mediadas por el CYP2C8 y el CYP3A4
+que  participan  de  forma  similar  en  el  estado  estacionario.  No  se  es-
+peran  cambios  clínicamente  importantes  en  la  exposición  global  por
+interacción  medicamentosa  con  inhibidores  o  inductores  del  CYP2C8
+o el CYP3A4.
+Apalutamida  es  un  inductor  de  enzimas  y  transportadores  y  puede
+conducir a un aumento en la eliminación de muchos medicamentos de
+uso común.
+
+Posible efecto de otros medicamentos sobre la exposición a apalutamida
+Medicamentos que inhiben el CYP2C8
+El CYP2C8 desempeña una función en la eliminación de apalutamida
+y en la formación de su metabolito activo. En un estudio de interacción
+medicamentosa, la Cmáx de apalutamida descendió un 21 %, mientras
+
+que el ABC aumentó un 68 % después de la administración conjunta de
+una dosis única de apalutamida de 240 mg con gemfibrozilo (inhibidor
+potente del CYP2C8). Para las fracciones activas (suma de apalutamida
+más el metabolito activo ajustado por potencia), la Cmáx descendió un
+21 %, mientras que el ABC aumentó un 45 %. No es necesario ajustar
+la  dosis  inicial  cuando  EXOME®  se  administra  conjuntamente  con  un
+inhibidor potente del CYP2C8 (por ejemplo, gemfibrozilo, clopidogrel)
+sin embargo, se debe considerar reducir la dosis de EXOME® en función
+de la tolerabilidad. No se espera que los inhibidores leves o moderados
+del CYP2C8 afecten a la exposición a apalutamida.
+
+Medicamentos que inhiben el CYP3A4
+El CYP3A4 desempeña una función en la eliminación de apalutamida
+y en la formación de su metabolito activo. En un estudio de interacción
+farmacológica,  la  Cmáx  de  apalutamida  descendió  un  22  %  mientras
+que el ABC fue similar después de la administración conjunta de una
+dosis única de EXOME® de 240 mg con itraconazol (inhibidor potente
+del CYP3A4). Para las fracciones activas (suma de apalutamida más el
+metabolito  activo  ajustado  por  potencia),  la  Cmáx  descendió  un  22  %
+mientras que el ABC volvió a ser similar. No es necesario ajustar la dosis
+inicial cuando EXOME® se administra conjuntamente con un inhibidor
+potente del CYP3A4 (por ejemplo, ketoconazol, ritonavir, claritromicina)
+sin embargo, se debe considerar reducir la dosis de EXOME® en función
+de la tolerabilidad. No se espera que los inhibidores leves o moderados
+del CYP3A4 afecten a la exposición a apalutamida.
+
+Medicamentos que inducen el CYP3A4 o el CYP2C8
+Los efectos de los inductores del CYP3A4 o el CYP2C8 sobre la farma-
+cocinética  de  apalutamida  no  se  han  evaluado  in  vivo.  En  base  a  los
+resultados del estudio de interacción medicamentosa con un inhibidor
+potente del CYP3A4 o del CYP2C8 no se espera que los inductores del
+CYP3A4 o el CYP2C8 tengan efectos clínicamente relevantes sobre la
+farmacocinética de apalutamida o de las fracciones activas, por lo que
+no es necesario ajustar la dosis cuando EXOME® se administra conjunta-
+mente con inductores del CYP3A4 o el CYP2C8.
+
+Posible efecto de apalutamida sobre la exposición a otros medicamentos
+Apalutamida es un potente inductor enzimático y aumenta la síntesis
+de muchas enzimas y transportadores; por lo tanto, se espera que haya
+interacción con muchos medicamentos de uso común que son sustratos
+de  las  enzimas  o  de  los  transportadores.  La  reducción  de  las  concen-
+traciones plasmáticas puede ser considerable, y puede dar lugar a una
+pérdida o reducción del efecto clínico. También hay un riesgo de que la
+formación de metabolitos activos aumente.
+
+Enzimas que metabolizan fármacos
+Los estudios in vitro demostraron que apalutamida y N-desmetil apa-
+lutamida  son  inductores  de  moderados  a  potentes  del  CYP3A4  y  el
+CYP2B6, son inhibidores moderados del CYP2B6 y el CYP2C8, e inhibi-
+dores leves del CYP2C9, el CYP2C19 y el CYP3A4. Apalutamida y N-des-
+metil apalutamida no afectan al CYP1A2 ni al CYP2D6 a concentraciones
+terapéuticamente relevantes. No se ha evaluado in vivo el efecto de apa-
+lutamida sobre los sustratos del CYP2B6 y actualmente se desconoce el
+efecto neto. Cuando los sustratos de CYP2B6 (por ejemplo, efavirenz) se
+administran con EXOME®, se deben vigilar las reacciones adversas y eva-
+luar la pérdida de eficacia del sustrato, pudiéndose requerir un ajuste de
+dosis del sustrato para mantener concentraciones plasmáticas óptimas.
+En el ser humano, apalutamida es un inductor potente del CYP3A4 y el
+CYP2C19, y un inductor débil del CYP2C9. En un estudio de interacción
+medicamentosa en el que se utilizó una combinación de medicamen-
+tos, la administración conjunta de apalutamida con dosis orales únicas
+de sustratos sensibles del CYP dio como resultado una disminución de
+un 92 % del ABC de midazolam (sustrato del CYP3A4), de un 85 % del
+ABC  de  omeprazol  (sustrato  del  CYP2C19),  y  de  un  46  %  del  ABC  de
+S-warfarina (sustrato del CYP2C9). Apalutamida no provocó cambios clí-
+nicamente importantes en la exposición a sustratos del CYP2C8. El uso
+concomitante de EXOME® con medicamentos metabolizados principal-
+mente por el CYP3A4 (por ejemplo, darunavir, felodipino, midazolam,
+simvastatina),  el  CYP2C19  (por  ejemplo,  diazepam,  omeprazol),  o  el
+CYP2C9 (por ejemplo, warfarina, fenitoína) puede reducir la exposición
+a  estos  medicamentos.  Se  recomienda  sustituir  estos  medicamentos
+por otros cuando sea posible o evaluar la pérdida de eficacia si se man-
+tiene el medicamento. Si se administra con warfarina, se debe vigilar el
+RIN durante el tratamiento con EXOME®.
+La inducción del CYP3A4 por apalutamida sugiere que la UDP-glucuro-
+nosiltransferasa (UGT) también se puede inducir activando el receptor
+de pregnano X (PXR) nuclear. La administración simultánea de EXOME®
+con medicamentos que son sustratos de la UGT (por ejemplo, levotiroxina,
+ácido  valproico)  puede  reducir  la  exposición  a  estos  medicamentos.
+Cuando  los  sustratos  de  la  UGT  se  administran  conjuntamente  con
+EXOME®, se debe evaluar la pérdida de eficacia del sustrato y se puede
+
+requerir un ajuste de dosis del sustrato para mantener unas concentra-
+ciones plasmáticas óptimas.
+
+Transportadores de fármacos
+Se ha demostrado que clínicamente apalutamida es un inductor débil
+de la glucoproteína P (gp-P), de la proteína de resistencia del cáncer de
+mama (BCRP, por sus siglas en inglés) y del polipéptido transportador de
+aniones orgánicos 1B1 (OATP1B1, por sus siglas en inglés). En un estudio
+de interacción medicamentosa en el que se utilizó una combinación de
+medicamentos,  la  administración  conjunta  de  apalutamida  con  dosis
+orales  únicas  de  sustratos  sensibles  de  transportadores  dio  como  re-
+sultado una disminución de un 30 % del ABC de fexofenadina (sustrato
+de la gp-P) y de un 41 % del ABC de rosuvastatina (sustrato de BCRP/
+OATP1B1), pero no afectó a la Cmáx. El uso concomitante de EXOME® con
+medicamentos que son sustratos de la gp-P (por ejemplo, colchicina, da-
+bigatrán etexilato, digoxina), la BCRP o el OATP1B1 (por ejemplo, lapa-
+tinib, metotrexato, rosuvastatina, repaglinida) puede reducir la exposi-
+ción a estos medicamentos. Cuando los sustratos de la gp-P, la BCRP o el
+OATP1B1 se administran conjuntamente con EXOME®, se debe evaluar
+la pérdida de eficacia del sustrato y se puede requerir un ajuste de dosis
+del sustrato para mantener unas concentraciones plasmáticas óptimas.
+Según los datos obtenidos in vitro, no se puede descartar la inhibición
+del  transportador  de  cationes  orgánicos  2  (OCT2,  por  sus  siglas  en
+inglés), el transportador de aniones orgánicos 3 (OAT3, por sus siglas
+en inglés) y los transportadores de extrusión de múltiples fármacos y
+toxinas (MATE, por sus siglas en inglés) por apalutamida y su metabolito
+N-desmetil  apalutamida.  No  se  ha  observado  inhibición  in  vitro  del
+transportador de aniones orgánicos 1 (OAT1).
+
+Análogo de la GnRH
+En sujetos con CPHSm que recibieron acetato de leuprolida (un análogo
+de  la  GnRH),  la  administración  conjunta  con  apalutamida  no  tuvo  un
+efecto aparente sobre la exposición a leuprolida en el estado estacionario.
+
+Medicamentos que prolongan el intervalo QT
+Debido a que el tratamiento de deprivación de andrógenos puede pro-
+longar el intervalo QT, se debe evaluar de forma cuidadosa el uso con-
+comitante de EXOME® con medicamentos que se sabe que prolongan
+el intervalo QT o medicamentos capaces de inducir Torsade de pointes
+tales como los antiarrítmicos de clase IA (por ejemplo, quinidina, diso-
+piramida)  o  de  clase  III  (por  ejemplo,  amiodarona,  sotalol,  dofetilida,
+ibutilida), metadona, moxifloxacina, antipsicóticos (por ejemplo, halo-
+peridol), etc.
+
+Población pediátrica
+Los estudios de interacciones se han realizado sólo en adultos.
+
+Carcinogénesis, mutagénesis, trastornos de la fertilidad y de la
+reproducción y otros datos preclínicos sobre seguridad
+Apalutamida demostró no ser genotóxico en una serie estándar de en-
+sayos in vitro e in vivo.
+No se han realizado estudios a largo plazo en animales para evaluar el
+potencial carcinogénico de apalutamida.
+Es probable que el tratamiento con apalutamida afecte a la fertilidad
+masculina  según  los  resultados  de  estudios  de  toxicología  a  dosis
+repetidas  que  fueron  consistentes  con  la  actividad  farmacológica  de
+apalutamida. En los estudios de toxicología a dosis repetidas en ratas y
+perros macho se observó atrofia, aspermia/hipospermia, degeneración
+y/o hiperplasia o hipertrofia del sistema reproductivo a dosis correspon-
+dientes  a  exposiciones  iguales,  aproximadamente,  a  la  exposición  en
+humanos según el ABC.
+En un estudio de fertilidad en ratas macho, se observó un descenso de
+la concentración y la motilidad de los espermatozoides, de la tasa de
+copulación y la fertilidad (al aparearse con hembras no tratadas) además
+de un menor peso de las glándulas sexuales secundarias y del epidídimo
+después de 4 semanas de administración a dosis que corresponden a
+exposiciones  iguales,  aproximadamente,  a  la  exposición  en  humanos
+según el ABC. Los efectos sobre las ratas macho se revirtieron 8 semanas
+después de la última administración de apalutamida.
+
+Anticoncepción en hombres y mujeres
+Se desconoce si apalutamida o sus metabolitos están presentes en el se-
+men. EXOME® puede tener efectos perjudiciales en el feto en desarrollo.
+Los pacientes que mantengan relaciones sexuales con mujeres en edad
+fértil, deben usar un preservativo además de otro método anticonceptivo
+de alta eficacia durante el tratamiento y hasta 3 meses después de la
+última dosis de EXOME®.
+
+Embarazo
+EXOME® está contraindicado en mujeres embarazadas o que puedan
+quedarse  embarazadas.  Por  su  mecanismo  de  acción,  la  apalutamida
+
+puede provocar daños al feto cuando se administra durante el emba-
+razo. No hay datos relativos al uso de apalutamida en mujeres embara-
+zadas. No se han realizado estudios para la reproducción en animales
+con apalutamida.
+
+Lactancia
+Se desconoce si apalutamida o sus metabolitos se excretan en la leche
+materna. No se puede excluir el riesgo en lactantes. EXOME® no se debe
+utilizar durante la lactancia.
+
+Fertilidad
+Los estudios realizados en animales indican que la apalutamida puede
+reducir la fertilidad en los hombres con capacidad reproductiva.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La  influencia  de  la  apalutamida  sobre  la  capacidad  para  conducir  y
+utilizar máquinas es nula o insignificante. No obstante, se han descrito
+convulsiones en pacientes que toman apalutamida. Se debe informar
+de este riesgo a los pacientes a la hora de conducir o utilizar máquinas.
+
+Poblaciones especiales
+Empleo en población pediátrica
+No se ha establecido la seguridad y eficacia de apalutamida en pacientes
+pediátricos. No se dispone de datos. El uso de apalutamida en población
+pediátrica no es relevante.
+
+Empleo en pacientes de edad avanzada
+No es necesario ajustar la dosis en pacientes de edad avanzada. No se
+observaron diferencias generales en eficacia entre los pacientes mayores
+y los más jóvenes. En estudios clínicos, las caídas en los pacientes que
+recibieron apalutamida con terapia de deprivación androgénica fueron
+elevadas en las personas mayores, sucediendo en el 8 % de los pacientes
+menores de 65 años, el 10 % de los pacientes de entre 65 y 74 años, y el
+19 % de los pacientes con 75 años de edad o más.
+
+Empleo en insuficiencia renal
+No es necesario ajustar la dosis en pacientes con insuficiencia renal leve
+a moderada.
+Se deben tomar precauciones en pacientes con insuficiencia renal grave
+ya que la apalutamida no se ha estudiado en esta población de pacien-
+tes. Si se inicia el tratamiento, se debe vigilar en los pacientes la ocurren-
+cia de reacciones adversas y reducir la dosis de acuerdo a lo establecido
+en la sección POSOLOGÍA - MODO DE ADMINISTRACIÓN.
+
+Empleo en insuficiencia hepática
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática
+leve o moderada previa (Clase A y B de Child-Pugh, respectivamente).
+En pacientes con insuficiencia hepática grave no se recomienda el em-
+pleo de apalutamida ya que no se dispone de datos en esta población de
+pacientes y la eliminación de la medicación se realiza principalmente
+por vía hepática.
+
+REACCIONES ADVERSAS
+
+Las reacciones adversas más frecuentes son fatiga (26 %), erupción (26 %
+de todos los grados y 6 % de grado 3 o 4), hipertensión (22 %), sofocos
+(18 %), artralgia (17 %), diarrea (16 %), caídas (13 %) y pérdida de peso
+(13 %). Otras reacciones adversas importantes incluyen fracturas (11 %)
+e hipotiroidismo (8 %).
+A continuación se enumeran las reacciones adversas aparecidas durante
+el tratamiento con apalutamida, agrupadas según el sistema de clasi-
+ficación de órganos y por frecuencia. Las frecuencias se definen de la
+siguiente forma: frecuentes (mayor del 10%); ocasionales (1% al 10%);
+raras (menor del 1%); frecuencia no conocida (no puee estimarse a partir
+de los datos disponibles). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada intervalo de frecuencia.
+
+Trastornos endocrinos
+Ocasionales: hipotiroidismo (incluye hipotiroidismo, hormona estimu-
+lante del tiroides en sangre elevada, tiroxina disminuida, tiroiditis au-
+toinmune, tiroxina libre disminuida, triyodotironina disminuida).
+Trastornos del metabolismo y de la nutrición
+Frecuentes:  apetito  disminuido.  Ocasionales:  hipercolesterolemia,
+hipertrigliceridemia.
+Trastornos del sistema nervioso
+Ocasionales: eventos cerebrovasculares isquémicos, disgeusia. Raras:
+convulsión (incluye mordedura de lengua).
+Trastornos cardíacos
+Ocasionales:  cardiopatía  isquémica  (incluye  angina  de  pecho,  angina
+
+inestable,  infarto  de  miocardio,  infarto  agudo  de  miocardio,  oclusión
+arterial  coronaria,  estenosis  arterial  coronaria,  síndrome  coronario
+agudo, arteriosclerosis coronaria, prueba de esfuerzo cardíaco anormal,
+aumento de troponina, isquemia miocárdica). Frecuencia no conocida:
+prolongación del intervalo QT.
+Trastornos vasculares
+Frecuentes: sofocos, hipertensión.
+Trastornos respiratorios, torácicos y del mediastino
+Frecuencia no conocida: neumopatía intersticial (reacción adversa pos-
+comercialización).
+Trastornos gastrointestinales
+Frecuentes: diarrea.
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes:  erupción.  Ocasionales:  prurito.  Frecuencia  no  conocida:
+necrólisis epidérmica tóxica (reacción adversa poscomercialización).
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Frecuentes:  fractura  (incluye  fractura  de  costilla,  fractura  de  vértebra
+lumbar, fractura por compresión vertebral, fractura vertebral, fractura
+de pie, fractura de cadera, fractura de húmero, fractura de vértebra torá-
+cica, fractura de miembro superior, fractura de sacro, fractura de mano,
+fractura de pubis, fractura de acetábulo, fractura de tobillo, fractura por
+compresión, fractura del cartílago costal, fractura de los huesos de la
+cara, fractura de miembro inferior, fractura osteoporótica, fractura de
+muñeca,  fractura  por  avulsión,  fractura  de  peroné,  fractura  de  coxis,
+fractura de pelvis, fractura de radio, fractura de esternón, fractura por
+estrés, fractura por traumatismo, fractura de vértebra cervical, fractura
+del cuello del fémur, fractura de tibia), artralgia. Ocasionales: espasmo
+muscular.
+Trastornos generales y alteraciones en el lugar de administración
+Frecuentes: fatiga.
+Exploraciones complementarias
+Frecuentes: pérdida de peso.
+Lesiones,  intoxicaciones  y  complicaciones  de  procedimientos  tera-
+péuticos
+Frecuentes: caída.
+
+Descripción de reacciones adversas seleccionadas
+Erupción cutánea
+El tipo de erupción cutánea asociado a apalutamida descrito con mayor
+frecuencia  es  macular  o  maculopapular.  La  erupción  cutánea  incluye
+erupción,  erupción  maculopapular,  erupción  generalizada,  urticaria,
+erupción prurítica, erupción maculosa, conjuntivitis, eritema multifor-
+me, erupción papular, exfoliación de la piel, erupción genital, erupción
+eritematosa, estomatitis, erupción medicamentosa, úlcera bucal, erup-
+ción pustulosa, ampolla, pápula, penfigoide, erosión de la piel, derma-
+titis y erupción vesicular. Se notificaron reacciones adversas de erupción
+cutánea en el 26 % de los pacientes tratados con apalutamida. Se no-
+tificaron casos de erupción cutánea de grado 3 (que se definen como
+los que afectan > 30 % del área de superficie corporal [ASC]) durante el
+tratamiento con apalutamida en el 6 % de los pacientes.
+La  mediana  de  días  hasta  la  aparición  de  la  erupción  cutánea  fue  de
+83 días. La erupción se resolvió en el 78 % de los pacientes, con una
+mediana de 78 días hasta la resolución. Los medicamentos utilizados in-
+cluyeron corticoides tópicos, antihistamínicos orales y el 19 % de los pa-
+cientes recibió corticoides sistémicos. Entre los pacientes con erupción
+cutánea, el tratamiento se interrumpió en el 28 % y se redujo la dosis en
+el 14 % de los pacientes. La erupción cutánea volvió a aparecer en el 59 %
+de los pacientes a los que se les interrumpió el tratamiento. La erupción
+cutánea fue causa de interrupción del tratamiento con apalutamida en
+el 7 % de los pacientes afectados.
+
+Caídas y fracturas
+En un estudio clínico, se notificaron fracturas en el 11,7 % de los pacien-
+tes tratados con apalutamida y el 6,5 % de los pacientes tratados con
+placebo.  En  ambos  grupos  de  tratamiento,  la  mitad  de  los  pacientes
+sufrió una caída en los 7 días previos al acontecimiento de fractura. Se
+notificaron caídas en el 15,6 % de los pacientes tratados con apalutamida
+frente al 9,0 % de los pacientes tratados con placebo.
+
+Cardiopatía isquémica
+En un estudio aleatorizado de pacientes con CPRCnm, se produjo car-
+diopatía isquémica en el 4 % de los pacientes tratados con apalutamida
+y en el 3 % de los tratados con placebo. En un estudio aleatorizado en
+pacientes con CPHSm, se produjo cardiopatía isquémica en el 4 % de los
+pacientes tratados con apalutamida y en el 2 % de los tratados con pla-
+cebo. En estos estudios, 6 pacientes (0,5 %) tratados con apalutamida y
+2 pacientes (0,2 %) tratados con placebo fallecieron por una cardiopatía
+isquémica.
+
+eventos cerebrovasculares en el 4,7 % de los pacientes tratados con apa-
+lutamida y en el 0,8 % de los pacientes tratados con placebo. En un estudio
+aleatorizado en pacientes con CPHSm, los eventos cerebrovasculares se
+observaron en el 1,9 % de los pacientes tratados con apalutamida y en el
+2,1 % de los pacientes tratados con placebo. En ambos estudios, fallecie-
+ron 3 pacientes (0,2 %) tratados con apalutamida y 2 pacientes (0,2 %)
+tratados con placebo a causa de un evento cerebrovascular.
+
+Hipotiroidismo
+Se notificó hipotiroidismo en el 8 % de los pacientes tratados con apalu-
+tamida y el 2 % de los pacientes tratados con placebo, en base a los aná-
+lisis de hormona estimulante del tiroides (TSH, por sus siglas en inglés)
+cada 4 meses. No se produjeron acontecimientos adversos de grado 3 o
+4. Se observó hipotiroidismo en el 30 % de los pacientes que ya estaban
+recibiendo tratamiento restitutivo de la hormona tiroidea en el grupo de
+apalutamida y en el 3 % de los pacientes del grupo de placebo. En los
+pacientes sin tratamiento restitutivo de la hormona tiroidea, se observó
+hipotiroidismo en el 7 % de los pacientes tratados con apalutamida y en
+el 2 % de los pacientes tratados con placebo.
+Cuando esté clínicamente indicado, se debe iniciar o ajustar la dosis del
+tratamiento restitutivo de la hormona tiroidea.
+
+Notificación de Sospecha de Reacciones Adversas
+Es importante notificar la sospecha de reacciones adversas al medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+la relación beneficio/riesgo del medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reac-
+ciones adversas a través del Sistema Nacional de Farmacovigilancia al si-
+guiente  link:  https://www.argentina.gob.ar/anmat/farmacovigilancia/
+notificanos/eventosadversos y/o al Departamento de Farmacovigilancia
+de Gador S.A. vía e-mail a farmacovigilancia@gador.com o telefónica-
+mente al 0800-220-2273.
+
+Siguiendo  pautas  internacionales,  el  producto  EXOME®  se  encuentra
+adherido a un Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia
+diseñadas  para  identificar,  caracterizar,  prevenir  o  minimizar  riesgos
+relacionados a productos medicinales, y la evaluación de la efectividad
+de esas intervenciones.
+
+SOBREDOSIFICACIÓN
+
+No se conoce ningún antídoto específico para la sobredosis con apaluta-
+mida. En caso de sobredosis, se debe interrumpir la administración de
+EXOME® y se deben adoptar las medidas de soporte generales hasta que
+la toxicidad clínica se reduzca o se resuelva. Todavía no se han observado
+reacciones adversas en caso de sobredosis, se espera que dichas reac-
+ciones sean similares a las reacciones adversas incluidas en la sección
+correspondiente.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+Optativamente otros Centros de Intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar en su envase original a temperatura ambiente hasta 30°C.
+
+PRESENTACIÓN
+
+Envases conteniendo 120 comprimidos recubiertos.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”
+
+Eventos cerebrovasculares isquémicos
+En un estudio aleatorizado de pacientes con CPRCnm, se manifestaron
+
+Este  medicamento  está  sujeto  a  seguimiento  adicional,  lo  que
+agilizará la detección de nueva información sobre su seguridad.
+
+Información para el paciente
+
+COMPOSICIÓN
+Cada comprimido recubierto de EXOME® contiene:
+Apalutamida .....................................................................................60 mg
+Excipientes:
+Hidroxipropilmetilcelulosa acetato succinato ............................180 mg
+Dióxido de silicio coloidal .............................................................. 9,1 mg
+Croscarmelosa sódica ......................................................................35 mg
+Celulosa microcristalina............................................................ 295,5 mg
+Celulosa microcristalina silificada ............................................116,9 mg
+Estearato de Magnesio vegetal .....................................................3,5 mg
+Óxido de hierro amarillo (CI N°77492) .................................... 0,247 mg
+Óxido de hierro negro (CI N°77499) ........................................0,048 mg
+Talco ............................................................................................. 2,909 mg
+Polietilenglicol ........................................................................... 3,970 mg
+Dióxido de titanio........................................................................4,914 mg
+Alcohol polivinílico .................................................................... 7,862 mg
+Cera Blanca .................................................................................0,003 mg
+Cera Carnauba ............................................................................0,003 mg
+Goma laca ...................................................................................0,006 mg
+
+Lea esta información antes de comenzar a tomar el medicamento,
+aun cuando simplemente haya repetido la receta (o antes de em-
+pezar a usarlo y cada vez que renueve su receta). Puede haber in-
+formación nueva (o alguna información puede haber cambiado).
+
+Recuerde que su médico le recetó este medicamento sólo a usted.
+No lo administre (o recomiende) a ninguna otra persona.
+
+Esta información no reemplaza el hablar con su médico acerca de
+su enfermedad o el tratamiento.
+
+Este medicamento debe ser indicado por su médico y prescripto
+bajo una receta médica.
+
+1) ¿Qué es EXOME® y para qué se utiliza?
+EXOME® es un medicamento que contiene el principio activo apalu-
+tamida.
+Se usa para tratar a hombres adultos con cáncer de próstata que:
+• tiene  metástasis  en  otras  partes  del  cuerpo  y  todavía  responde  a
+tratamientos médicos o quirúrgicos que reducen el nivel de testos-
+terona (también llamado cáncer de próstata hormonosensible).
+• no tiene metástasis en otras partes del cuerpo y ya no responde al
+tratamiento médico o quirúrgico que reduce el nivel de testosterona
+(también llamado cáncer de próstata resistente a la castración).
+EXOME®  actúa  bloqueando  la  actividad  de  las  hormonas  llamadas
+andrógenos  (como  la  testosterona).  Los  andrógenos  pueden  causar
+el  crecimiento  del  cáncer.  Al  bloquear  el  efecto  de  los  andrógenos,
+apalutamida  hace  que  las  células  del  cáncer  de  próstata  dejen  de
+crecer y dividirse.
+
+2) ¿Qué necesita saber antes de empezar a utilizar EXOME®?
+Su médico le examinará y revisará su historia clínica completa. Será
+sometido a un seguimiento estricto durante el tratamiento.
+
+No tome EXOME® si:
+• es alérgico a apalutamida o a alguno de los demás componentes de
+
+este medicamento,
+
+• es usted mujer y está embarazada o puede quedarse embarazada
+(para más información, ver más adelante la sección de Embarazo y
+anticoncepción).
+
+No tome este medicamento si algo de lo anterior le aplica a usted. Si no
+está seguro, consulte a su médico antes de tomar este medicamento.
+
+Advertencias y precauciones
+Consulte a su médico antes de empezar a utilizar EXOME® si:
+• ha sufrido alguna vez crisis epilépticas o convulsiones,
+• está  tomando  algún  medicamento  para  prevenir  la  formación  de
+
+coágulos (por ejemplo, warfarina, acenocumarol),
+
+• padece cualquier enfermedad cardíaca o de los vasos sanguíneos,
+
+incluidos problemas del ritmo cardíaco (arritmia).
+
+Se  han  observado  caídas  en  los  pacientes  que  toman  apalutamida.
+Tome  precauciones  especiales  para  reducir  el  riesgo  de  caídas.  Se
+han observado fracturas de huesos en los pacientes que toman apau-
+tamida.
+Algunas personas han sufrido un bloqueo de las arterias del corazón
+o del cerebro que incluso podrían causar la muerte durante el trata-
+miento con apalutamida. Su médico le vigilará para detectar signos
+y  síntomas  de  problemas  cardíacos  o  cerebrovasculares  durante  el
+tratamiento con EXOME®.
+
+Llame a su médico o acuda inmediatamente al centro de urgencias
+más cercano si siente alguno/s de los siguientes síntomas:
+• dolor en el pecho o molestia en reposo o en actividad,
+• dificultad para respirar,
+• adormecimiento o debilidad en la cara, brazos o piernas,
+• dificultad para hablar o para entender,
+• problemas visuales en uno o en ambos ojos,
+• mareos,  pérdida  de  equilibrio  o  coordinación  o  dificultad  para
+
+caminar.
+
+Si está tomando algún medicamento, consulte a su médico para ver
+si se asocian a un mayor riesgo de convulsiones, hemorragia o proble-
+mas cardíacos o vasculares.
+Si algo de lo anterior le aplica a usted (o no está seguro), consulte a
+su médico antes de
+tomar EXOME®.
+
+Uso de EXOME® con otros medicamentos
+Informe  a  su  médico  si  está  tomando,  ha  tomado  recientemente
+o  pudiera  tener  que  tomar  cualquier  otro  medicamento,  ya  que
+EXOME® puede afectar al funcionamiento de otros medicamentos.
+También, otros medicamentos pueden afectar al funcionamiento de
+EXOME®.
+Informe a su médico si está tomando medicamentos para:
+• reducir el nivel de lípidos en sangre (por ejemplo, gemfibrozilo),
+• tratar infecciones bacterianas (por ejemplo, moxifloxacina, claritro-
+
+micina),
+
+• tratar infecciones por hongos (por ejemplo, itraconazol, ketoconazol),
+• tratar la infección por el VIH (por ejemplo, ritonavir, efavirenz, daru-
+
+navir),
+
+• tratar la ansiedad (por ejemplo, midazolam, diazepam),
+• tratar la epilepsia (por ejemplo, fenitoína, ácido valproico),
+• tratar la enfermedad por reflujo gastroesofágico (trastornos en los
+que hay demasiado ácido en el estómago) (por ejemplo, omeprazol),
+• prevenir los coágulos de sangre (por ejemplo, warfarina, clopido-
+
+grel, dabigatrán etexilato),
+
+• tratar la alergia al polen y las alergias (por ejemplo, fexofenadina),
+• reducir los niveles de colesterol (por ejemplo, “estatinas” como ro-
+
+suvastatina, simvastatina),
+
+• tratar problemas cardíacos o reducir la tensión arterial (por ejemplo,
+
+digoxina, felodipino),
+
+• tratar problemas del ritmo cardíaco (por ejemplo, quinidina, disopi-
+
+ramida, amiodarona, sotalol, dofetilida, ibutilida),
+
+• tratar problemas de tiroides (por ejemplo, levotiroxina),
+• tratar la gota (por ejemplo, colchicina),
+• reducir el azúcar en sangre (por ejemplo, repaglinida),
+• tratar el cáncer (por ejemplo, lapatinib, metotrexato),
+• tratar la dependencia a opiáceos o el dolor (por ejemplo, metadona),
+• tratar enfermedades mentales graves (por ejemplo, haloperidol).
+Debe hacer una lista de los nombres de los medicamentos que está
+tomando y mostrársela a su médico cuando empiece a tomar un me-
+dicamento nuevo. Indique a su médico que está tomando EXOME® si
+su médico quiere comenzar cualquier tratamiento nuevo. Puede ser
+necesario cambiar la dosis de los medicamentos que está tomando.
+
+Niños y adolescentes
+Este  medicamento  no  se  debe  utilizar  en  niños  ni  adolescentes  de
+menos de 18 años de edad.
+Si un niño o una persona joven toma EXOME® de forma accidental:
+• acuda inmediatamente al hospital
+• lleve este prospecto con usted para mostrarlo al médico de urgencias.
+
+Información sobre embarazo y anticoncepción para hombres y
+mujeres
+Información para las mujeres
+Las mujeres embarazadas, que puedan quedarse embarazadas o en
+periodo de lactancia no deben tomar EXOME®. EXOME® puede dañar
+al feto.
+
+Información para los hombres: siga estos consejos durante el trata-
+miento y hasta 3 meses después de dejarlo
+• Si mantiene relaciones sexuales con una mujer embarazada: use un
+
+preservativo para proteger al feto.
+
+• Si mantiene relaciones sexuales con una mujer que puede quedarse
+embarazada: use un preservativo y otro método anticonceptivo de
+eficacia alta.
+
+Use anticonceptivos durante el tratamiento y hasta 3 meses después
+de dejarlo. Consulte a su médico si tiene alguna pregunta sobre an-
+ticoncepción.
+EXOME® puede reducir la fertilidad masculina.
+
+Conducción y uso de máquinas
+No es probable que este medicamento afecte a su capacidad de con-
+ducir o usar cualquier herramienta o máquina. Los efectos secundarios
+de  EXOME®  incluyen  convulsiones.  Si  usted  tiene  riesgo  mayor  de
+convulsiones, consulte a su médico.
+
+EXOME® contiene sodio
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por
+cada dosis de 240 mg (4 comprimidos).
+
+3) ¿Cómo utilizar EXOME®?
+Siga exactamente las instrucciones de administración de este medica-
+mento indicadas por su médico. En caso de duda, consulte de nuevo
+a su médico.
+
+Cuánto debe tomar
+La dosis recomendada de EXOME® es de 240 mg (cuatro comprimidos
+de 60 mg) una vez al día. Su médico puede reducir esta dosis de ser
+necesario.
+
+Cómo tomar EXOME®
+• Tome este medicamento por vía oral.
+• Puede tomar EXOME® con alimento o entre las comidas.
+• Trague los comprimidos enteros.
+
+Si usted tiene dificultad para tragar los comprimidos enteros, la do-
+sis recomendada de comprimidos de EXOME® se puede mezclar con
+compota de manzana.
+1. Mezcle los comprimidos enteros de EXOME® en 4 onzas (120 mi-
+lilitros) de compota de manzana revolviendo. No aplaste los com-
+primidos.
+
+2. Espere 15 minutos y revuelva la mezcla.
+3. Espere otros 15 minutos y revuelva la mezcla hasta que los com-
+primidos se dispersen (se mezclen correctamente, sin dejar ningún
+trozo).
+
+4. Utilizando una cuchara, trague la mezcla enseguida.
+5. Enjuague el recipiente con 2 onzas (60 mililitros) de agua y beba el
+contenido de inmediato. Repita el enjuague con 2 onzas (60 milili-
+tros) de agua una segunda vez para asegurarse de que ha ingerido
+la dosis completa.
+
+Consuma la mezcla en el lapso de una hora desde la preparación. No
+guarde EXOME® mezclado con compota de manzana.
+Su médico puede recetarle otros medicamentos mientras usted está
+tomando EXOME®.
+
+Si olvidó tomar EXOME®
+Si olvida tomar EXOME®, tome la dosis habitual en cuanto se dé cuenta.
+• Si olvidó tomar EXOME® durante todo el día, tome la dosis habitual
+
+al día siguiente.
+
+• Si olvidó tomar EXOME® durante más de un día, consulte de inme-
+
+diato a su médico.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+4) ¿Cuáles son los efectos adversos de EXOME®?
+Al igual que todos los medicamentos, EXOME® puede producir efectos
+adversos, aunque no todas las personas los sufran.
+
+Deje de tomar EXOME® y busque atención médica de inmediato
+si nota alguno de los siguientes síntomas:
+• parches rojizos no elevados en forma de diana o circulares en el tronco,
+a menudo con ampollas centrales, descamación de la piel, úlceras
+en la boca, garganta, nariz, genitales y ojos. Estas erupciones cutá-
+neas graves pueden ir precedidas de fiebre y síntomas similares a los
+de la gripe (necrólisis epidérmica tóxica).
+
+• dolor en el pecho o molestia en reposo o en actividad,
+• dificultad para respirar,
+• adormecimiento o debilidad en la cara, brazos o piernas,
+• dificultad para hablar o para entender,
+• problemas visuales en uno o en ambos ojos,
+• mareos, pérdida de equilibrio o coordinación o dificultad para caminar.
+
+Efectos adversos graves
+Informe  de  inmediato  a  su  médico  si  observa  alguno  de  los  si-
+guientes  efectos  adversos  graves,  su  médico  puede  suspender  el
+tratamiento:
+• crisis  epiléptica  o  convulsión:  son  raros  (pueden  afectar  hasta  1
+de cada 100 personas). Su médico suspenderá el tratamiento con
+EXOME® si usted sufre una convulsión durante el tratamiento.
+
+• caídas o fracturas (huesos rotos): son frecuentes (pueden afectar a
+más de 1 de cada 10 personas). Su médico puede hacerle un segui-
+miento más estrecho si usted tienes riesgo de fracturas.
+
+• enfermedad cardíaca: es ocasional (puede afectar hasta 1 de cada
+10 personas). Su médico le vigilará para detectar signos y síntomas
+de problemas cardíacos durante el tratamiento. Llame a su médico o
+acuda inmediatamente al centro de urgencias más cercano si tiene
+dolor en el pecho o molestias en reposo o con actividad o falta de
+aliento durante su tratamiento con EXOME®.
+
+• Enfermedad cerebrovascular: es ocasional (puede afectar hasta 1 de
+cada 10 personas). Llame a su médico o acuda inmediatamente al
+centro de urgencias más cercano si tiene adormecimiento o debili-
+dad en la cara, brazos o piernas, dificultad para hablar o para enten-
+der, problemas visuales en uno o en ambos ojos, mareos, pérdida de
+equilibrio o coordinación o dificultad para caminar.
+
+Informe de inmediato a su médico si observa alguno de los efectos
+adversos graves mencionados anteriormente.
+
+Otros efectos secundarios incluyen
+Frecuentes (pueden afectar a más de 1 de cada 10 personas):
+• sentirse muy cansado
+• dolor articular
+• erupción cutánea
+• disminución del apetito
+• presión arterial alta
+• sofocos
+• diarrea
+• fracturas de huesos
+• caídas
+• pérdida de peso.
+Ocasionales (pueden afectar hasta 1 de cada 10 personas):
+• espasmos musculares
+• sensación de picazón
+• alteración del sentido del gusto
+• análisis de sangre que muestran nivel alto de colesterol en sangre
+• análisis de sangre que muestran nivel alto de un tipo grasa que se
+
+No tome una dosis doble para compensar las dosis olvidadas.
+
+conoce como “triglicéridos” en sangre
+
+Si interrumpe el tratamiento con EXOME®
+No deje de tomar EXOME® sin consultar primero con su médico.
+
+Si toma más EXOME® del que debe
+Si toma más del que debe, deje de tomar EXOME® y póngase en con-
+tacto con su médico. Puede tener un mayor riesgo de sufrir efectos
+secundarios.
+
+• enfermedad cardíaca
+• enfermedad cerebrovascular
+• tiroides poco activa que puede hacerle sentirse más cansado y que
+le cueste arrancar por las mañanas, y en los análisis de sangre tam-
+bién se puede detectar una tiroides poco activa.
+
+No conocida (la frecuencia no puede estimarse a partir de los datos
+disponibles):
+
+• resultado anormal de la actividad del corazón en un ECG (electrocar-
+
+diograma)
+
+• erupción cutánea potencialmente mortal con ampollas y descama-
+
+ción en gran parte del cuerpo (necrólisis epidérmica tóxica)
+
+• problemas pulmonares (neumopatía intersticial).
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto no deseado, consulte a su mé-
+dico, incluso si se trata de posibles efectos adversos que no aparecen
+en este prospecto. También puede comunicarse al Departamento de
+Farmacovigilancia  Gador  S.A,  a  farmacovigilancia@gador.com  o  al
+0800-220-2273(CARE).
+
+“Ante cualquier inconveniente con el producto usted puede llenar la
+ficha que está en la Página Web de la ANMAT:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/
+pacientes, o llamar a ANMAT responde al 0800-333-1234”
+
+Mediante la comunicación de efectos no deseados usted puede con-
+tribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este
+medicamento.
+
+Presentación
+Envases conteniendo 120 comprimidos recubiertos.
+
+Este folleto resume la información más importante de EXOME®,
+para mayor información y ante cualquier duda CONSULTE CON
+SU MÉDICO.
+
+No utilice este medicamento si el envase está dañado.
+Ud. puede tomar EXOME® hasta el último día del mes indicado
+en el envase. No tome EXOME® luego de la fecha de vencimiento.
+
+“Ante cualquier inconveniente con el producto usted puede lle-
+nar la ficha que está en la Página Web de la ANMAT:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notifi-
+canos/pacientes, o llamar a ANMAT responde al 0800-333-1234”.
+
+Siguiendo pautas internacionales, EXOME® se encuentran ad-
+herido al Plan de Gestión de Riesgos (PGR).
+PGR: es un programa estratégico de seguridad para minimizar
+los riesgos potenciales conocidos de un producto, preservando
+sus beneficios terapéuticos.
+
+5) ¿Cómo debo conservar EXOME®?
+Conservar  en  su  envase  original  a  temperatura  ambiente  hasta
+30°C.
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000
+
+Elaborado en Ruta 8, Km 60, Calle 10, Parque Industrial Pilar, Bs. As.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 59.532
+
+Fecha de última revisión: 09/2021
+
+G00234200-00

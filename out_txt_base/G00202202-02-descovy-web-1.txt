@@ -1,0 +1,2992 @@
+DESCOVY®
+EMTRICITABINA 200 mg
+TENOFOVIR ALAFENAMIDA 10 mg
+
+DESCOVY®
+EMTRICITABINA 200 mg
+TENOFOVIR ALAFENAMIDA 25 mg
+Comprimidos recubiertos
+Venta bajo receta archivada. Industria Canadiense
+
+COMPOSICIÓN
+
+3.2 FARMACOLOGÍA CLÍNICA
+
+Cada comprimido recubierto de DESCOVY® 200 mg/10 mg contiene:
+Emtricitabina ............................................................................... 200 mg
+Tenofovir alafenamida fumarato ........................... ......................11,2 mg
+(equivalente a 10 mg de tenofovir alafenamida)
+Excipientes: Celulosa microcristalina, Croscarmelosa sódica, Estearato
+de magnesio, Alcohol polivinílico parcialmente hidrolizado*, Dióxido de
+titanio*, Polietilenglicol 3350*, Talco, Oxido de hierro negro ............ c.s.
+* Se refiere a los componentes del Opadry II Gris 85F97517.
+
+Cada comprimido recubierto de DESCOVY® 200 mg/25 mg contiene:
+Emtricitabina ............................................................................... 200 mg
+Tenofovir alafenamida fumarato ....................................................28 mg
+(equivalente a 25 mg de tenofovir alafenamida)
+Excipientes:  Celulosa  microcristalina,  Croscarmelosa  sódica,  Estearato
+de magnesio, Alcohol polivinílico parcialmente hidrolizado*, Dióxido de
+titanio*, Polietilenglicol 3350*, Talco, Indigo carmín laca alumínica ... c.s.
+* Se refiere a los componentes del Opadry II Azul 85F105057.
+
+1. ACCIÓN TERAPÉUTICA
+
+3.2.1 Mecanismo de acción
+Emtricitabina es un inhibidor de la transcriptasa inversa análogo de nucleó-
+sidos (ITIAN) y un análogo nucleósido de 2’-desoxicitidina. Emtricitabina
+es fosforilada por enzimas celulares para formar emtricitabina trifosfato.
+Emtricitabina trifosfato inhibe la replicación del VIH a través de su incorpo-
+ración en el Acido desoxirribonucleico (ADN) viral mediante la transcriptasa
+inversa (TI) del VIH, lo que produce la interrupción de la cadena de ADN.
+Emtricitabina muestra actividad frente al VIH-1, el VIH-2 y el VHB.
+Tenofovir alafenamida es un inhibidor de la transcriptasa inversa análo-
+go de nucleótidos (ITIAN) y un profármaco fosfonoamidato de tenofovir
+(análogo de 2’-desoxiadenosina monofosfato). Tenofovir alafenamida es
+permeable en las células y, debido a su mayor estabilidad plasmática y
+activación intracelular mediante hidrólisis por la catepsina A, tenofovir
+alafenamida es más eficaz que tenofovir disoproxil fumarato a la hora de
+concentrar tenofovir en las células mononucleares de sangre periférica
+(PBMCs) o las células diana del VIH incluyendo los linfocitos y los macró-
+fagos. Tenofovir intracelular es fosforilado a continuación al metabolito
+farmacológicamente activo tenofovir difosfato. Tenofovir difosfato inhi-
+be la replicación del VIH mediante su incorporación en el ADN viral por la
+TI del VIH, lo que produce la interrupción de la cadena de ADN.
+Tenofovir muestra actividad frente al VIH-1, el VIH-2 y el VHB.
+
+Grupo farmacoterapéutico: Antiviral para uso sistémico; antivirales para
+el tratamiento de infecciones por VIH y combinaciones.
+
+3.2.2 Propiedades farmacocinéticas
+
+Código ATC: J05AR17.
+
+2. INDICACIONES Y USO
+
+DESCOVY® está indicado en combinación con otros fármacos antirretro-
+virales para el tratamiento de adultos y adolescentes (de 12 años de edad
+o mayores con un peso corporal de 35 kg o más) infectados con el virus
+de la inmunodeficiencia humana tipo 1 (VIH-1) (ver las secciones 3.2 y 4).
+
+3. CARACTERÍSTICAS/PROPIEDADES FARMACOLÓGICAS
+
+3.1 DESCRIPCIÓN
+Los comprimidos de DESCOVY® contienen emtricitabina y tenofovir ala-
+fenamida fumarato.
+Emtricitabina es un inhibidor de la transcriptasa inversa análogo de nu-
+cleósidos (ITIAN) y un análogo nucleósido de 2’-desoxicitidina. Tenofovir
+alafenamida es un inhibidor de la transcriptasa inversa análogo de nu-
+cleótidos (ITIAN) y un profármaco fosfonoamidato de tenofovir (análogo
+de 2’-desoxiadenosina monofosfato).
+DESCOVY® 200 mg/10mg; comprimido recubierto, de color gris, en for-
+ma rectangular, marcado en una de las caras con “GSI” y en la otra cara
+del comprimido con “210”.
+DESCOVY®  200  mg/25mg;  comprimido  recubierto,  de  color  azul,  en
+forma rectangular, marcado en una de las caras con “GSI” y en la otra
+cara del comprimido con “225”.
+Los comprimidos de DESCOVY® se administran por vía oral.
+
+Absorción
+Emtricitabina se absorbe de forma rápida y extensa después de la ad-
+ministración  oral  con  unas  concentraciones  plasmáticas  máximas  de
+1 a 2 horas después de la dosis. Después de la administración oral de
+dosis múltiples de emtricitabina a 20 sujetos infectados por el VIH-1, las
+concentraciones plasmáticas máximas (Cmáx) en estado estacionario de
+
+curva de la concentración plasmática frente al tiempo durante un inter-
+valo de dosificación de 24 horas (AUC) fue de 10,0 ± 3,1 μg•h/ml. La
+media de la concentración plasmática valle en estado estacionario a las
+24 horas de la dosis fue igual o mayor que la media del valor IC90 in vitro
+para la actividad anti-VIH-1.
+La exposición sistémica a emtricitabina no se vio afectada cuando emtri-
+citabina fue administrada con alimentos.
+Después  de  la  administración  de  alimentos  a  sujetos  sanos,  las  con-
+centraciones plasmáticas máximas se observaron aproximadamente 1
+hora después de la dosis para tenofovir alafenamida administrado como
+F/TAF (25 mg) o E/C/F/TAF (10 mg). Las medias de la Cmáx y la AUCúltima
+(media ± DE) después de una dosis única de 25 mg de tenofovir ala-
+fenamida administrada en DESCOVY® con alimentos fueron de 0,21 ±
+0,13 μg/ml y de 0,25 ± 0,11 μg•h/ml, respectivamente. Las medias de
+la Cmáx y la AUCúltima después de una dosis única de 10 mg de tenofovir
+alafenamida administrado en E/C/F/TAF fueron de 0,21 ± 0,10 μg/ml y
+de 0,25 ± 0,08 μg•h/ml, respectivamente.
+Con respecto a las condiciones de ayuno, la administración de tenofovir
+alafenamida con una comida de alto contenido graso (~800 kcal, 50%
+de grasa) dio lugar a una disminución de la Cmáx de tenofovir alafenami-
+da (15-37%) y a un aumento del AUCúltima (17-77%).
+
+Distribución
+La unión in vitro de emtricitabina a proteínas plasmáticas fue <4% y re-
+
+ml. A la concentración plasmática máxima, la relación de concentración
+media del fármaco entre plasma y sangre fue de aproximadamente 1,0 y
+la relación de concentración media del fármaco entre semen y plasma fue
+de aproximadamente 4,0.
+La unión in vitro de tenofovir a proteínas plasmáticas fue <0,7% y fue
+
+unión ex vivo de tenofovir alafenamida a proteínas plasmáticas en las
+muestras  recogidas  durante  los  estudios  clínicos  fue  de  aproximada-
+mente el 80%.
+
+Biotransformación
+Los estudios in vitro indican que emtricitabina no es un inhibidor de las
+enzimas CYP humanas. Tras la administración de [14C] emtricitabina, se
+obtuvo una recuperación completa de la dosis de emtricitabina en la orina
+(aproximadamente el 86%) y las heces (aproximadamente el 14%). El 13%
+de la dosis se recuperó en la orina en forma de tres aparentes metabolitos.
+La biotransformación de emtricitabina comprende la oxidación del radical
+tiólico, para dar los diastereómeros 3’-sulfóxido (~ el 9% de la dosis), y la
+conjugación con el ácido glucurónico, para formar el 2’-O-glucurónido (~
+el 4% de la dosis). No hubo otros metabolitos identificables.
+El metabolismo es la ruta de eliminación principal de tenofovir alafena-
+mida en los seres humanos, suponiendo >80% de una dosis oral. Los
+estudios in vitro han mostrado que tenofovir alafenamida se metaboliza
+a  tenofovir  (metabolito  principal)  por  medio  de  la  catepsina  A  en  las
+CMSP (incluyendo linfocitos y otras células diana del VIH) y los macró-
+fagos y por medio de la carboxilesterasa-1 en los hepatocitos. In vivo,
+tenofovir alafenamida se hidroliza en las células para formar tenofovir
+(metabolito principal), que es fosforilado al metabolito activo tenofovir
+difosfato. En los estudios clínicos humanos, una dosis oral de 10 mg de
+tenofovir alafenamida (administrado con emtricitabina y elvitegravir y
+cobicistat) dio lugar a unas concentraciones de tenofovir difosfato más
+de 4 veces superiores en las CMSPs y menos del 90% de la concentración
+de tenofovir en plasma en comparación con una dosis oral de 245 mg de
+tenofovir disoproxil (en forma de fumarato) (administrado con emtricita-
+bina y elvitegravir y cobicistat).
+In vitro, tenofovir alafenamida no es metabolizado por CYP1A2, CYP2C8,
+CYP2C9,  CYP2C19  o  CYP2D6.  Tenofovir  alafenamida  es  metabolizado
+mínimamente por CYP3A4. Cuando se administra de forma concomitan-
+te con el conocido inductor moderado de CYP3A efavirenz, la exposición
+a tenofovir alafenamida no se ve afectada significativamente. Después
+de la administración de tenofovir alafenamida, la radioctividad [14C] en
+plasma mostró un perfil dependiente del tiempo, siendo tenofovir ala-
+fenamida la especie más abundante en las primeras horas iniciales y el
+ácido úrico en el periodo restante.
+
+Eliminación
+Emtricitabina se excreta fundamentalmente por el riñón y la dosis se re-
+cupera por completo en la orina (aproximadamente 86%) y en las heces
+(aproximadamente 14%). El trece por ciento de la dosis de emtricitabina
+se recoge en la orina en forma de tres metabolitos. El aclaramiento sisté-
+mico de emtricitabina alcanza un promedio de 307 ml/min. Después de
+la administración oral, la semivida de eliminación de emtricitabina es de
+aproximadamente 10 horas.
+La excreción renal de tenofovir alafenamida intacto es una ruta menor,
+con < 1% de la dosis eliminada por la orina. Tenofovir alafenamida se
+elimina  principalmente  después  de  la  metabolización  a  tenofovir.  Te-
+nofovir alafenamida y tenofovir tienen una mediana de semivida plas-
+mática de 0,51 y 32,37 horas, respectivamente. Tenofovir se elimina del
+organismo a través de los riñones por filtración glomerular y secreción
+tubular activa.
+
+Edad, sexo y raza
+No se ha identificado ninguna diferencia farmacocinética clínicamente
+relevante en relación con la edad, el sexo o la raza para emtricitabina o
+tenofovir alafenamida.
+
+Población pediátrica
+Las exposiciones a emtricitabina y tenofovir alafenamida (administrados
+con elvitegravir y cobicistat) alcanzadas en 24 pacientes pediátricos de
+12 a <18 años de edad que recibieron emtricitabina y tenofovir alafe-
+namida administrados con elvitegravir y cobicistat en el estudio GS US
+292 0106 fueron similares a las exposiciones alcanzadas en adultos que
+nunca habían recibido tratamiento (Tabla 1).
+
+Tabla 1. Farmacocinética de emtricitabina y tenofovir alafenami-
+da  en  adolescentes  y  adultos  que  nunca  habían  recibido  trata-
+miento con antirretrovirales
+
+Adolescentes
+
+Adultos
+
+FTCa
+
+TAFb
+
+TFVb
+
+FTCa
+
+TAFc
+
+TFVc
+
+AUCtau
+(ng•h/ml)
+
+14.424,4
+(23,9)
+
+242,8
+(57,8)
+
+Cmáx
+(ng/ml)
+
+Ctau
+(ng/ml)
+
+2.265,0
+(22,5)
+
+121,7
+(46,2)
+
+102,4
+(38,9)b
+
+N/A
+
+275,8
+(18,4)
+
+14,6
+(20,0)
+
+10,0
+(19,6)
+
+11.714,1
+(16,6)
+
+206,4
+(71,8)
+
+2.056,3
+(20,2)
+
+162,2
+(51,1)
+
+95,2
+(46,7)
+
+N/A
+
+292,6
+(27,4)
+
+15,2
+(26,1)
+
+10,6
+(28,5)
+
+E/C/F/TAF = elvitegravir/cobicistat/emtricitabina/tenofovir alafenamida fumarato.
+FTC = emtricitabina; TAF = tenofovir alafenamida fumarato; TFV = tenofovir.
+N/A = no aplicable.
+Los datos se presentan como medias (%CV).
+a. n = 24 adolescentes (GS-US-292-0106); n = 19 adultos (GS-US-292-0102).
+b. n = 23 adolescentes (GS-US-292-0106, análisis PK poblacional).
+c.  n  =  539  (TAF)  u  841  (TFV)  adultos  (GS-US-292-0111  y  GS-US-292-0104,
+análisis PK poblacional).
+
+Insuficiencia renal
+No se observaron diferencias clínicamente relevantes en la farmacociné-
+tica de tenofovir alafenamida o tenofovir entre los individuos sanos y los
+pacientes con insuficiencia renal grave (ClCr estimado >15 pero <30 ml/
+min) en los estudios de tenofovir alafenamida. No existen datos farmaco-
+cinéticos sobre tenofovir alafenamida en pacientes con un ClCr estimado
+<15 ml/min. La exposición sistémica media a emtricitabina fue mayor en
+
+Insuficiencia hepática
+La farmacocinética de emtricitabina no se ha estudiado en sujetos con
+insuficiencia hepática; sin embargo, emtricitabina no sufre un metabo-
+lismo significativo a través de las enzimas hepáticas, por lo que el efecto
+de la insuficiencia hepática debería ser escasa.
+No se observaron cambios clínicamente relevantes en la farmacocinéti-
+ca de tenofovir alafenamida o su metabolito tenofovir en pacientes con
+insuficiencia hepática leve o moderada. En pacientes con insuficiencia
+hepática  grave,  las  concentraciones  plasmáticas  totales  de  tenofovir
+alafenamida y tenofovir son menores que las observadas en sujetos con
+función hepática normal. Cuando se corrige por la unión a proteínas,
+las concentraciones plasmáticas no unidas (libres) de tenofovir alafena-
+mida en la insuficiencia hepática grave y función hepática normal son
+similares.
+
+Infección concomitante por el virus de la hepatitis B y/o de la hepatitis C
+No se ha evaluado por completo la farmacocinética de emtricitabina y
+tenofovir alafenamida en los pacientes con infección concomitante por
+el VHB y/o el VHC.
+
+3.2.3 Microbiología
+
+Actividad antiviral in vitro
+Emtricitabina  y  tenofovir  alafenamida  demostraron  actividad  antiviral
+sinérgica  en  los  cultivos  celulares.  No  se  observó  antagonismo  con
+emtricitabina o tenofovir alafenamida cuando se combinaron con otros
+fármacos antirretrovirales.
+La actividad antiviral de emtricitabina frente a aislamientos clínicos y de la-
+boratorio del VIH-1 se evaluó en líneas celulares linfoblastoides, en la línea
+celular MAGI-CCR5 y en PBMCs. Los valores de la concentración efectiva
+-
+al 50% (CE50
+citabina mostró actividad antiviral en cultivos celulares frente a los clados
+del VIH-1 A, B, C, D, E, F y G (con valores de CE50
+presentó actividad específica de cepa frente al VIH-2 (con valores de CE50
+
+La  actividad  antiviral  de  tenofovir  alafenamida  frente  a  aislamientos
+clínicos y de laboratorio del subtipo B del VIH-1 se evaluó en líneas celu-
+lares linfoblastoides, PBMCs, células monocíticas/macrofágicas prima-
+rias y linfocitos T CD4+. Los valores de la CE50 de tenofovir alafenamida
+oscilaron entre 2,0 y 14,7 nM. Tenofovir alafenamida mostró actividad
+antiviral en cultivos celulares frente a todos los grupos del VIH-1 (M, N
+y O), incluyendo los subtipos A, B, C, D, E, F y G (con valores de CE50 de
+0,10 a 12,0 nM) y mostró actividad específica de cepa frente al VIH-2 (con
+valores de CE50 de 0,91 a 2,63 nM).
+
+Resistencia
+In vitro
+La  sensibilidad  reducida  a  emtricitabina  se  asocia  con  mutaciones
+M184V/I en la TI del VIH-1.
+Los aislamientos del -VIH-1 con sensibilidad reducida a tenofovir alafe-
+
+namida expresan una mutación K65R en la TI del VIH-1; además, se ha
+observado de forma transitoria una mutación K70E en la TI del VIH-1.
+
+Pacientes que no han recibido tratamiento previo
+En un análisis combinado de pacientes que no habían recibido tratamien-
+to antirretroviral previo tratados con emtricitabina y tenofovir alafenami-
+da (10 mg) administrados con elvitegravir y cobicistat como comprimido
+de combinación a dosis fija en los estudos de fase 3 GS-US-292-0104 y
+GS-US-292-0111, se realizó una genotipificación en los aislamientos del
+VIH-1 del plasma de todos los pacientes con ARN del VIH-1 >400 copias/ml
+en el momento del fracaso virológico confirmado, en la semana 144 o en
+el momento en el que se interrumpió de forma temprana la medicación
+del estudio. Hasta la semana 144, el desarrollo de una o más mutacio-
+nes asociadas a resistencia primaria a emtricitabina, tenofovir alafena-
+mida o elvitegravir fue observado en aislamientos del VIH-1 de 12 de 22
+pacientes con datos genotípicos evaluables apareados al inicio y luego
+del fracaso del tratamiento con E/C/F/TAF (12 de 866 pacientes [1,4%])
+en comparación con 12 de 20 aislamientos con fracaso del tratamiento
+de los pacientes con datos genotípicos evaluables del grupo de E/C/F/TDF
+(12 de 867 pacientes [1,4%]). En el grupo tratado con E/C/F/TAF, las mu-
+taciones que surgieron fueron M184V/I (n = 11) y K65R/N (n = 2) en la TI
+y T66T/A/I/V (n = 2), E92Q (n = 4), Q148Q/R (n = 1) y N155H (n = 2) en
+la integrasa. De los aislamientos de VIH de los 12 pacientes que desarro-
+llaron resistencia en el grupo tratado con E/C/F/TDF, las mutaciones que
+surgieron fueron M184V/I (n = 9) y K65R/N (n = 4) y L210W (n = 1) en la
+TI y E92Q/V (n = 4) y Q148R (n = 2), y N155H/S (n=3) en la integrasa. La
+mayoría de los aislamientos del VIH-1 de los pacientes de ambos grupos
+de tratamiento que desarrollaron mutaciones de resistencia a elvitegra-
+vir en la integrasa también desarrollaron mutaciones de resistencia a
+emtricitabina en la TI.
+
+Pacientes coinfectados con VIH y VHB
+En un estudio clínico en pacientes con VIH virológicamente suprimidos
+coinfectados con hepatitis B crónica, que recibieron emtricitabina y te-
+nofovir alafenamida, administrados con elvitegravir y cobicistat en un
+comprimido de combinación de dosis fija (E/C/F/TAF), durante 48 sema-
+nas (GS-US-292-1249, n = 72), 2 pacientes calificaron para el análisis
+de resistencia. En estos 2 pacientes, no se identificaron sustituciones de
+aminoácidos asociadas con resistencia a ninguno de los componentes
+de E/C/F/TAF en el VIH-1 o VHB.
+
+Resistencia cruzada en pacientes infectados por el VIH-1, que no habían
+recibido tratamiento previo o suprimidos virológicamente
+Los virus resistentes a emtricitabina con la sustitución M184V/I mostra-
+ron resistencia cruzada con lamivudina, pero conservaron la sensibili-
+dad a didanosina, estavudina, tenofovir y zidovudina.
+Las mutaciones K65R y K70E redundan en una sensibilidad reducida a
+abacavir,  didanosina,  lamivudina,  emtricitabina  y  tenofovir,  pero  con-
+servan la sensibilidad a zidovudina.
+El VIH-1 resistente a multinucleósidos con una mutación de inserción
+doble T69S o con un complejo de mutación Q151M incluyendo K65R
+mostró una sensibilidad reducida a tenofovir alafenamida.
+
+4. POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+El tratamiento debe ser iniciado por un médico con experiencia en el
+tratamiento de la infección por el VIH.
+
+Posología
+Adultos y adolescentes de 12 años de edad o mayores con un peso de
+35 kg o más
+DESCOVY® se debe administrar tal como se indica en la Tabla 2.
+
+Tabla 2: Dosis de DESCOVY® en función del tercer fármaco del ré-
+gimen de tratamiento contra el VIH
+
+Dosis de DESCOVY®
+
+DESCOVY® 200/10 mg una vez al día
+
+DESCOVY® 200/25 mg una vez al día
+
+Tercer fármaco del régimen de
+tratamiento contra el VIH
+(ver sección 7.2)
+
+Atazanavir con ritonavir o cobicistat
+Darunavir con ritonavir o cobicistat1
+Lopinavir con ritonavir
+
+Dolutegravir, efavirenz, maraviroc,
+nevirapina, rilpivirina, raltegravir
+
+1. DESCOVY® 200/10 mg en combinación con darunavir 800 mg y cobicistat
+150 mg, administrado como comprimido de combinación a dosis fija, se estu-
+dió en sujetos que nunca habían recibido tratamiento, ver sección 3.2.
+
+Si el paciente omite una dosis de DESCOVY® en el plazo de 18 horas
+
+desde  la  hora  normal  de  administración,  debe  tomar  DESCOVY®  lo
+antes  posible  y  continuar  la  pauta  habitual  de  administración.  Si  un
+paciente omite una dosis de DESCOVY® por más de 18 horas, no debe
+tomar la dosis omitida y simplemente debe continuar la pauta habitual
+de administración.
+Si el paciente vomita en el plazo de 1 hora después de tomar DESCOVY®,
+debe tomar otro comprimido.
+
+Pacientes de edad avanzada
+No se requiere un ajuste de la dosis de DESCOVY® en pacientes de edad
+avanzada (ver la sección 3.2).
+
+Insuficiencia renal
+No se requiere un ajuste de la dosis de DESCOVY® en adultos o adoles-
+centes (de al menos 12 años de edad y al menos 35 kg de peso corporal)
+con un aclaramiento de creatinina estimado (ClCr) ≥30 ml/min.
+DESCOVY® no se debe iniciar en pacientes con un ClCr estimado <30 ml/
+min, ya que no hay datos disponibles sobre el uso de DESCOVY® en esta
+población (ver la sección 3.2).
+El tratamiento con DESCOVY® se debe suspender en los pacientes cuyo
+ClCr estimado descienda por debajo de 30 ml/min durante el tratamien-
+to (ver la sección 3.2).
+
+Insuficiencia hepática
+No  se  requiere  un  ajuste  de  la  dosis  de  DESCOVY®  en  pacientes  con
+insuficiencia hepática.
+
+Población pediátrica
+No se ha establecido todavía la seguridad y eficacia de DESCOVY® en
+niños menores de 12 años de edad o que pesen <35 kg. No se dispone
+de datos.
+
+Forma de administración
+DESCOVY® se debe tomar por vía oral, una vez al día con o sin alimen-
+tos (ver sección 3.2.2). El comprimido recubierto no se debe masticar,
+triturar ni partir.
+
+5. FORMAS FARMACÉUTICAS Y CONCENTRACIONES
+
+DESCOVY® 200 mg/10mg
+Comprimido recubierto, de color gris, en forma rectangular, marcado en
+una de las caras con “GSI” y en la otra cara del comprimido con “210”.
+Cada comprimido contiene 200 mg de emtricitabina y tenofovir alafena-
+mida fumarato equivalente a 10 mg de tenofovir alafenamida.
+
+DESCOVY® 200 mg/25mg
+Comprimido recubierto, de color azul, en forma rectangular, marcado
+en una de las caras con “GSI” y en la otra cara del comprimido con “225”.
+Cada comprimido contiene 200 mg de emtricitabina y tenofovir alafena-
+mida fumarato equivalente a 25 mg de tenofovir alafenamida.
+
+6. CONTRAINDICACIONES
+
+Hipersensibilidad a los principios activos o a alguno de los excipientes.
+
+7. ADVERTENCIAS Y PRECAUCIONES
+
+7.1 GENERALES
+A  pesar  de  que  se  ha  probado  que  la  supresión  viral  debida  al  trata-
+miento antirretroviral eficaz reduce sustancialmente el riesgo de trans-
+misión sexual, no se puede excluir un riesgo residual. Se deben tomar
+precauciones,  conforme  a  las  directrices  nacionales,  para  prevenir  la
+transmisión.
+
+Pacientes coinfectados por el VIH y el virus de la hepatitis B o C
+Los pacientes con hepatitis B o C crónica, tratados con terapia antirretro-
+viral tienen un riesgo mayor de padecer reacciones adversas hepáticas
+graves y potencialmente mortales.
+No se ha establecido la seguridad y eficacia de DESCOVY® en pacientes
+coinfectados por el VIH-1 y el virus de la hepatitis C (VHC). Tenofovir ala-
+fenamida es activo contra el virus de la hepatitis B (VHB).
+La interrupción del tratamiento con DESCOVY® en pacientes coinfecta-
+dos por VIH y VHB puede asociarse con exacerbaciones agudas graves
+de la hepatitis. En pacientes coinfectados por VIH y VHB que interrum-
+pen el tratamiento con DESCOVY® hay que efectuar un seguimiento es-
+trecho, clínico y de laboratorio, durante al menos varios meses después
+de suspender el tratamiento.
+
+Enfermedad hepática
+No se ha establecido la seguridad y eficacia de DESCOVY® en pacientes
+con  trastornos  hepáticos  significativos  subyacentes  (ver  las  secciones
+3.2.2 y 4).
+Los pacientes con insuficiencia hepática preexistente, incluyendo hepati-
+tis crónica activa, tienen una frecuencia aumentada de alteración de la fun-
+ción hepática durante la terapia antirretroviral combinada (TARC) y deben
+ser monitorizados de acuerdo con las prácticas habituales. Si hay eviden-
+cia de empeoramiento de la enfermedad hepática en dichos pacientes, se
+tendrá que considerar la interrupción o suspensión del tratamiento.
+
+Peso y parámetros metabólicos
+Durante el tratamiento antirretroviral se puede producir un aumento en
+el peso y en los niveles de glucosa y lípidos en la sangre. Tales cambios
+podrían estar relacionados en parte con el control de la enfermedad y
+en parte con el estilo de vida. Existe cierta evidencia que muestra que la
+hiperlipidemia podría estar, en algunos casos, relacionada con el trata-
+miento, mientras que para el aumento de peso no existe una evidencia
+sólida que lo relacione con algún tratamiento en particular. Para moni-
+torizar los niveles de lípidos y de glucosa en la sangre, se hace referencia
+a pautas establecidas en las guías de tratamiento del VIH. Los trastornos
+lipídicos se deben tratar como se considere clínicamente apropiado.
+
+con  infección  avanzada  por  VIH  y/o  exposición  prolongada  a  la  TARC,
+aunque se considera que la etiología es multifactorial (incluyendo uso
+de corticosteroides, consumo de alcohol, inmunodepresión grave, ín-
+dice de masa corporal elevado). Se debe aconsejar a los pacientes que
+consulten al médico si experimentan molestias o dolor articular, rigidez
+articular o dificultad para moverse.
+
+Nefrotoxicidad
+No se puede excluir un posible riesgo de nefrotoxicidad resultante de la
+exposición crónica a niveles bajos de tenofovir debida a la administra-
+ción de tenofovir alafenamida (ver sección 7.3).
+
+Administración concomitante de otros medicamentos
+No  se  recomienda  la  administración  concomitante  de  DESCOVY®
+con  ciertos  anticonvulsivos  (p.  ej.,  carbamazepina,  oxcarbazepina,
+fenobarbital y fenitoína), antimicobacterianos (p. ej., rifampicina, ri-
+fabutina, rifapentina), boceprevir, hierba de San Juan e inhibidores de
+la proteasa (IPs) del VIH distintos de atazanavir, lopinavir y darunavir
+(ver sección 7.2).
+DESCOVY® no se debe administrar de forma concomitante con medi-
+camentos  que  contengan  tenofovir  alafenamida,  tenofovir  disoproxil
+(en forma de fumarato), emtricitabina, lamivudina o adefovir dipivoxil.
+
+Disfunción mitocondrial tras la exposición in utero
+Los análogos de nucleós(t)idos pueden afectar la función mitocondrial
+en  grado  variable,  siendo  más  pronunciado  con  stavudina,  didanosi-
+na  y  zidovudina.  Ha  habido  informes  de  disfunción  mitocondrial  en
+lactantes  VIH-negativos  expuestos  in  utero  y/o  post-parto  a  análogos
+de  nucleósidos;  estos  se  referían  principalmente  a  tratamientos  que
+contenían zidovudina. Las principales reacciones adversas notificadas
+son trastornos hematológicos (anemia, neutropenia) y trastornos meta-
+bólicos (hiperlactacidemia, hiperlipasemia). Estas reacciones fueron a
+menudo transitorias. Raramente se notificaron trastornos neurológicos
+de aparición tardía (hipertonía, convulsión, comportamiento anormal).
+Actualmente no se sabe si tales trastornos neurológicos son transitorios
+o permanentes. Se deberá considerar estos hallazgos en cualquier niño
+expuesto in utero a análogos de nucleós(t)idos que presente hallazgos
+clínicos  severos  de  etiología  desconocida,  particularmente  hallazgos
+neurológicos. Estos hallazgos no afectan a las recomendaciones nacio-
+nales actuales de utilizar tratamiento antirretroviral en mujeres embara-
+zadas para prevenir la transmisión vertical del VIH.
+
+Síndrome de reconstitución inmune
+En pacientes infectados con VIH con inmunodeficiencia severa al mo-
+mento  de  instaurar  tratamiento  con  TARC,  puede  surgir  una  reacción
+inflamatoria  a  los  gérmenes  oportunistas  asintomáticos  o  latentes  y
+provocar enfermedades graves o empeoramiento de los síntomas. Nor-
+malmente estas reacciones se han observado en las primeras semanas o
+meses después del inicio de la TARC. Algunos ejemplos relevantes de es-
+tas reacciones incluyen: retinitis por citomegalovirus, infecciones mico-
+bacterianas generalizadas y/o localizadas y neumonía por Pneumocystis
+jirovecii. Se debe evaluar cualquier síntoma inflamatorio y establecer un
+tratamiento cuando sea necesario.
+Se han notificado también trastornos autoinmunitarios (como la enfer-
+medad  de  Graves  y  hepatitis  autoinmune)  en  caso  de  reconstitución
+inmunitaria;  no  obstante,  el  tiempo  hasta  el  inicio  notificado  es  más
+variable  y  estos  acontecimientos  se  pueden  producir  muchos  meses
+después del inicio del tratamiento.
+
+Pacientes que albergan mutaciones del VIH-1
+DESCOVY® se debe evitar en pacientes con VIH-1 previamente tratados
+con antirretrovirales que albergan la mutación K65R (ver sección 3.2).
+
+Terapia triple con nucleósidos
+Ha habido informes de una elevada tasa de fracaso virológico y de apa-
+rición de resistencias en una fase temprana cuando tenofovir disoproxil
+fumarato se combinaba con lamivudina y abacavir, así como con lamivu-
+dina y didanosina en una pauta posológica de una vez al día. Por lo tanto,
+los mismos problemas pueden aparecer si DESCOVY® se administra con
+un tercer análogo de nucleósidos.
+
+Infecciones oportunistas
+Los pacientes que reciban DESCOVY® o cualquier otra terapia antirre-
+troviral pueden continuar adquiriendo infecciones oportunistas y otras
+complicaciones de la infección por el VIH y deben permanecer, por lo
+tanto,  bajo  la  observación  clínica  estrecha  de  médicos  expertos  en  el
+tratamiento de pacientes con enfermedades asociadas al VIH.
+
+Osteonecrosis
+Se han notificado casos de osteonecrosis, especialmente en pacientes
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+Los pacientes deben saber que se ha notificado mareo durante el trata-
+miento con DESCOVY®.
+
+7.2 INTERACCIONES FARMACOLÓGICAS
+Los estudios de interacciones se han realizado solo en adultos.
+DESCOVY® no se debe administrar de forma concomitante con medi-
+camentos  que  contengan  tenofovir  alafenamida,  tenofovir  disoproxil
+(en forma de fumarato), emtricitabina, lamivudina o adefovir dipivoxil.
+
+Emtricitabina
+Los estudios de interacciones medicamentosas farmacocinéticas clíni-
+cos e in vitro han mostrado que el potencial de interacciones mediadas
+por el CYP entre emtricitabina y otros medicamentos es bajo. La admi-
+nistración  concomitante  de  emtricitabina  con  medicamentos  que  se
+eliminan mediante secreción tubular activa puede aumentar las concen-
+traciones de emtricitabina y/o del medicamento administrado de forma
+concomitante. Los medicamentos que reducen la función renal pueden
+aumentar las concentraciones de emtricitabina.
+
+Tenofovir alafenamida
+Tenofovir alafenamida es transportado por la glicoproteína P (P-gp) y
+la proteína de resistencia de cáncer de mama (BCRP, por sus siglas en
+inglés). Los medicamentos que afectan notablemente a la actividad de
+la P-gp y BCRP pueden producir cambios en la absorción de tenofovir
+alafenamida. Se prevé que los medicamentos que inducen la actividad
+de la P-gp (p. ej. rifampicina, rifabutina, carbamazepina, fenobarbital)
+reduzcan  la  absorción  de  tenofovir  alafenamida,  dando  lugar  a  una
+concentración  plasmática reducida de tenofovir alafenamida, lo que
+puede redundar en una pérdida del efecto terapéutico de DESCOVY®
+y la aparición de resistencias. Se prevé que la administración concomi-
+tante de DESCOVY® con otros medicamentos que inhiben la actividad
+de  la  P-gp  y  BCRP  (p. ej.  cobicistat,  ritonavir,  ciclosporina)  aumente
+la absorción y la concentración plasmática de tenofovir alafenamida.
+En base  a los datos de un estudio  in vitro, no se prevé que la admi-
+nistración concomitante de tenofovir alafenamida con inhibidores de
+la xantina oxidasa (p. ej. febuxostat) aumente la exposición sistémica
+a tenofovir in vivo.
+Tenofovir alafenamida no es un inhibidor de CYP1A2, CYP2B6, CYP2C8,
+CYP2C9, CYP2C19 o CYP2D6 in vitro. No es un inhibidor de CYP3A4 in
+vivo. Tenofovir alafenamida es un sustrato de OATP1B1 y de OATP1B3 in
+vitro. La distribución de tenofovir alafenamida en el organismo puede
+verse afectada por la actividad de OATP1B1 y de OATP1B3.
+
+Otras interacciones
+Tenofovir alafenamida no es un inhibidor de la uridina difosfato glucuro-
+nosiltransferasa (UGT) 1A1 humana in vitro. No se sabe si tenofovir alafe-
+namida es un inhibidor de otras enzimas UGT. Emtricitabina no inhibió
+la reacción de glucuronidación de un sustrato UGT no específico in vitro.
+Las  interacciones  entre  los  componentes  de  DESCOVY®  y  los  medi-
+camentos  potencialmente  administrados  de  forma  concomitante  se
+enumeran en la Tabla 3 (el aumento está indicado como “↑”; la dismi-
+nución, como “↓”; la ausencia de cambios, como “↔”). Las interacciones
+descritas  se  basan  en  estudios  realizados  con  DESCOVY®  o  con  los
+componentes de DESCOVY® en forma de fármacos individuales y/o en
+combinación,  o  son  interacciones  medicamentosas  potenciales  que
+pueden ocurrir con DESCOVY®.
+
+Tabla  3:  Interacciones  entre  los  componentes  individuales  de
+DESCOVY® y otros medicamentos
+
+Medicamento
+por áreas
+terapéuticas1
+
+Efectos sobre las concentra-
+ciones de medicamento.
+Cambio porcentual medio en
+AUC, Cmáx, Cmín
+
+2
+
+Comentario clínico
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+La dosis de DESCOVY®
+depende del antirretro-
+viral concomitante (ver
+sección 4).
+
+No se recomienda la ad-
+ministración concomitante
+de DESCOVY® y rifabutina,
+rifampicina o rifapentina.
+
+La administración concomi-
+tante con boceprevir tiene
+el potencial de afectar de
+forma adversa a la activa-
+ción intracelular y la eficacia
+clínica antiviral de tenofovir
+alafenamida, por lo que no
+se recomienda la adminis-
+tración concomitante de
+DESCOVY® y boceprevir.
+No es necesario ajustar
+la dosis de ledipasvir o
+sofosbuvir. La dosis de
+DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4).
+
+No es necesario ajustar
+la dosis de ledipasvir o
+sofosbuvir. La dosis de
+DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4).
+
+ANTIINFECCIOSOS
+Antifúngicos
+Ketoconazol
+Itraconazol
+
+Fluconazol
+Isavuconazol
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+Se prevé que la administración
+concomitante de ketoconazol o
+itraconazol, que son inhibidores
+potentes de la P-gp, aumente
+las concentraciones plasmáticas
+de tenofovir alafenamida.
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+La administración concomitante
+de fluconazol o isavuconazol
+puede aumentar las concentra-
+ciones plasmáticas de tenofovir
+alafenamida.
+
+Antimicobacterianos
+Rifabutina
+Rifampicina
+Rifapentina
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+La administración concomitante
+de rifampicina, rifabutina y
+rifapentina, todos los cuales son
+inductores de la P-gp, puede
+reducir las concentraciones
+plasmáticas de tenofovir
+alafenamida, lo que puede
+provocar una pérdida del efecto
+terapéutico y la aparición de
+resistencias.
+
+Medicamentos contra el virus de la hepatitis C
+Boceprevir
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+
+Ledipasvir
+(90 mg una
+vez al día)/
+sofosbuvir
+(400 mg una
+vez al día),
+emtricitabina
+(200 mg una
+vez al día)/
+tenofovir
+alafenamida
+(10 mg una
+vez al día)3
+
+Ledipasvir
+(90 mg una
+vez al día)/
+sofosbuvir
+(400 mg una
+vez al día),
+emtricitabina
+(200 mg una
+vez al día)/
+tenofovir
+alafenamida
+(25 mg una
+vez al día)4
+
+Ledipasvir:
+AUC: ↑ 79%
+Cmáx: ↑ 65%
+Cmín: ↑ 93%
+Sofosbuvir:
+AUC: ↑ 47%
+Cmáx: ↑ 29%
+Metabolito de sofosbuvir
+GS-331007:
+AUC: ↑ 48%
+Cmáx: ↔
+Cmín: ↑ 66%
+Emtricitabina:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+Ledipasvir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Sofosbuvir:
+AUC: ↔
+Cmáx: ↔
+Metabolito de sofosbuvir
+GS-331007:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Emtricitabina:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↑ 32%
+Cmáx: ↔
+
+No se necesita ajustar la
+dosis de sofosbuvir, velpa-
+tasvir o voxilaprevir. La dosis
+de DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4)
+
+No se necesita ajustar la
+dosis de sofosbuvir, velpa-
+tasvir o voxilaprevir. La dosis
+de DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4)
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+Sofosbuvir
+(400 mg una
+vez al día)/
+velpatasvir
+(100 mg una
+vez al día),
+emtricitabina
+(200 mg una
+vez al día)/
+tenofovir
+alafenamida
+(10 mg una
+vez al día)3
+
+Sofosbuvir/
+velpatasvir/
+voxilaprevir
+(400 mg/
+100 mg/
+100 mg+
+100 mg una
+vez al día)7/
+emtricitabina
+(200 mg una
+vez al día)/
+tenofovir
+alafenamida
+(10 mg una
+vez al día)3
+
+Sofosbuvir/
+velpatasvir/
+voxilaprevir
+(400 mg/
+100 mg/
+100 mg+
+100 mg una
+vez al día)7/
+ emtricitabina
+(200 mg una
+vez al día)/
+tenofovir
+alafenamida
+(25 mg una
+vez al día)4
+
+Sofosbuvir:
+AUC: ↑ 37%
+Cmáx: ↔
+Metabolito de sofosbuvir
+GS-331007:
+AUC: ↑ 48%
+Cmáx: ↔
+Cmín: ↑ 58%
+Velpatasvir:
+AUC: ↑ 50%
+Cmáx: ↑ 30%
+Cmín: ↑ 60%
+Emtricitabina:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↓ 20%
+Sofosbuvir:
+AUC: ↔
+Cmáx: ↑ 27%
+Metabolito de sofosbuvir
+GS-331007:
+AUC: ↑ 43%
+Cmáx: ↔
+Velpatasvir:
+AUC: ↔
+Cmín: ↑ 46%
+Cmáx: ↔
+Voxilaprevir:
+AUC: ↑ 171%
+Cmín: ↑ 350%
+Cmáx: ↑ 92%
+Emtricitabina:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↓ 21%
+Sofosbuvir:
+AUC: ↔
+Cmáx: ↔
+Metabolito de sofosbuvir
+GS-331007:
+AUC: ↔
+Cmín: ↔
+Velpatasvir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+Voxilaprevir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+Emtricitabina:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+Tenofovir alafenamida:
+AUC: ↑ 52%
+Cmáx: ↑ 32%
+
+ANTIRRETROVIRALES
+Inhibidores de la proteasa del VIH
+Atazanavir/
+cobicistat
+(300 mg/150
+mg una vez al
+día), tenofovir
+alafenamida
+(10 mg)
+Atazanavir/
+ritonavir
+(300/100 mg
+una vez al
+día), tenofovir
+alafenamida
+(10 mg)
+Darunavir/
+cobicistat
+(800/150 mg
+una vez al
+día), tenofovir
+alafenamida
+(25 mg una
+vez al día)5
+
+Tenofovir alafenamida:
+AUC: ↑ 75%
+Cmáx: ↑ 80%
+Atazanavir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↑ 91%
+Cmáx: ↑ 77%
+Atazanavir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+Tenofovir:
+AUC: ↑ 224%
+Cmáx: ↑ 216%
+Cmín: ↑ 221%
+Darunavir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+Tenofovir:
+AUC: ↑ 105%
+Cmáx: ↑ 142%
+Darunavir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+Tenofovir alafenamida:
+AUC: ↑ 47%
+Cmáx: ↑ 119%
+Lopinavir:
+AUC: ↔
+Cmáx: ↔
+Cmín: ↔
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+Tipranavir/ritonavir provoca
+inducción de la P-gp. Se prevé
+que la exposición a tenofovir
+alafenamida disminuya cuando
+tipranavir/ritonavir se administra
+en combinación con DESCOVY®.
+Se desconocen sus efectos.
+
+Darunavir/
+ritonavir
+(800/100 mg
+una vez al
+día), tenofovir
+alafenamida
+(10 mg una
+vez al día)
+
+Lopinavir/
+ritonavir (800/
+200 mg una
+vez al día),
+tenofovir
+alafenamida
+(10 mg una
+vez al día)
+Tipranavir/
+ritonavir
+
+Otros
+inhibidores de
+la proteasa
+
+Otros antirretrovirales contra el VIH
+Tenofovir alafenamida:
+Dolutegravir
+AUC: ↔
+(50 mg una
+Cmáx: ↔
+vez al día),
+Dolutegravir:
+tenofovir
+AUC: ↔
+alafenamida
+Cmáx: ↔
+(10 mg una
+vez al día)3
+Cmín: ↔
+Rilpivirina
+Tenofovir alafenamida:
+(25 mg una
+AUC: ↔
+Cmáx: ↔
+vez al día),
+Rilpivirina:
+tenofovir
+AUC: ↔
+alafenamida
+Cmáx: ↔
+(25 mg una
+Cmín: ↔
+vez al día)
+Tenofovir alafenamida:
+Efavirenz
+AUC: ↓ 14%
+(600 mg una
+Cmáx: ↓ 22%
+vez al día),
+tenofovir
+alafenamida
+(40 mg una
+vez al día)4
+Maraviroc
+Nevirapina
+Raltegravir
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+No se prevé que la exposición
+a tenofovir alafenamida se
+vea afectada por maraviroc,
+nevirapina o raltegravir, ni que
+afecte a las rutas metabólicas
+y de excreción de maraviroc,
+nevirapina o raltegravir.
+
+ANTICONVULSIVOS
+Oxcarbazepina
+Fenobarbital
+Fenitoína
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+La administración concomitante
+de oxcarbazepina, fenobarbital
+o fenitoína, todos los cuales son
+inductores de la P-gp, puede
+reducir las concentraciones
+plasmáticas de tenofovir alafena-
+mida, lo que puede provocar una
+pérdida del efecto terapéutico y
+la aparición de resistencias.
+Tenofovir alafenamida:
+AUC: ↓ 55%
+Cmáx: ↓ 57%
+La administración concomitante
+de carbamazepina, un inductor
+de la P-gp, reduce las concentra-
+ciones plasmáticas de tenofovir
+alafenamida, lo que puede
+provocar una pérdida del efecto
+terapéutico y la aparición de
+resistencias.
+
+Carbamazepina
+(ajustada
+desde 100 mg
+hasta 300 mg
+dos veces al
+día), emtricita-
+bina/tenofovir
+alafenamida
+(200 mg/
+25 mg una vez
+al día)5,6
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+No se recomienda la admi-
+nistración concomitante con
+DESCOVY®.
+
+No hay datos disponibles
+para realizar recomendacio-
+nes de dosificación para la
+administración concomitan-
+te con otros inhibidores de
+la proteasa.
+
+La dosis recomendada de
+DESCOVY® es de 200/25 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/25 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/25 mg
+una vez al día.
+
+La dosis recomendada de
+DESCOVY® es de 200/25 mg
+una vez al día.
+
+No se recomienda la admi-
+nistración concomitante de
+DESCOVY® y oxcarbazepina,
+fenobarbital o fenitoína.
+
+No se recomienda la admi-
+nistración concomitante de
+DESCOVY® y carbamazepina.
+
+No es necesario ajustar la
+dosis de sertralina. La dosis
+de DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4).
+
+No se recomienda la admi-
+nistración concomitante de
+DESCOVY® con hierba de
+San Juan.
+
+La dosis recomendada de
+DESCOVY® es de 200/10 mg
+una vez al día.
+
+No se necesita ajustar la
+dosis del norgestimato/
+etinilestradiol. La dosis de
+DESCOVY® depende del
+antirretroviral concomitante
+(ver sección 4)
+
+No es necesario ajustar la
+dosis de midazolam. La do-
+sis de DESCOVY® depende
+del antirretroviral concomi-
+tante (ver sección 4).
+
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+Sertralina:
+AUC: ↑ 9%
+Cmáx: ↑ 14%
+
+ANTIDEPRESIVOS
+Sertralina
+(50 mg una
+vez al día),
+tenofovir
+alafenamida
+(10 mg una
+vez al día)3
+MEDICAMENTOS A BASE DE PLANTAS
+Hierba de
+San Juan
+(Hypericum
+perforatum)
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+La administración concomitante
+de hierba de San Juan, un in-
+ductor de la P-gp, puede reducir
+las concentraciones plasmáticas
+de tenofovir alafenamida,
+lo que puede provocar una
+pérdida del efecto terapéutico y
+la aparición de resistencias.
+
+INMUNOSUPRESORES
+Ciclosporina
+
+Interacción no estudiada con
+ninguno de los componentes
+de DESCOVY®.
+Se prevé que la administración
+concomitante de ciclosporina,
+un potente inhibidor de la P-gp,
+aumente las concentraciones
+plasmáticas de tenofovir
+alafenamida.
+ANTICONCEPTIVOS ORALES
+Norelgestromina:
+Norgestimato
+AUC: ↔
+(0,180/0,215/
+Cmin: ↔
+0,250 mg una
+Cmáx: ↔
+vez al día),
+Norgestrel:
+etinilestradiol
+AUC: ↔
+(0,025 mg
+Cmín: ↔
+una vez al día),
+Cmáx: ↔
+emtricitabina/
+Etinilestradiol:
+tenofovir
+AUC: ↔
+alafenamida
+Cmín: ↔
+(200/25 mg
+una vez al día)5
+Cmáx: ↔
+SEDANTES/HIPNÓTICOS
+Midazolam
+administrado
+por vía oral
+(dosis única
+de 2,5 mg),
+tenofovir
+alafenamida
+(25 mg una
+vez al día)
+Midazolam ad-
+ministrado por
+vía intravenosa
+(dosis única de
+1 mg), tenofovir
+alafenamida
+(25 mg una vez
+al día)
+
+Midazolam:
+AUC: ↔
+Cmáx: ↔
+
+Midazolam:
+AUC: ↔
+Cmáx: ↔
+
+1. Cuando se aportan dosis, son las dosis empleadas en estudios clínicos de
+interacciones medicamentosas.
+2.  Cuando  se  dispone  de  datos  procedentes  de  estudios  de  interacciones
+medicamentosas.
+3. Estudio realizado con un comprimido de combinación a dosis fija de elvite-
+gravir/cobicistat/emtricitabina/tenofovir alafenamida.
+4. Estudio realizado con un comprimido de combinación a dosis fija de emtrici-
+tabina/rilpivirina/tenofovir alafenamida.
+5. Estudio realizado con DESCOVY®.
+6.  En  este  estudio  emtricitabina/tenofovir  alafenamida  se  administró  con
+alimentos.
+7. Estudio llevado a cabo con 100 mg adicionales de voxilaprevir para alcanzar
+las exposiciones de voxilaprevir previstas en pacientes infectados con VHC.
+
+7.3 TOXICOLOGÍA PRECLÍNICA
+Los  datos  de  los  estudios  no  clínicos  de  emtricitabina  no  muestran
+riesgos especiales para los seres humanos según los estudios conven-
+cionales  de  farmacología  de  seguridad,  toxicidad  a  dosis  repetidas,
+genotoxicidad, potencial carcinogénico y toxicidad para la reproducción
+y el desarrollo. Emtricitabina ha demostrado un potencial carcinogénico
+bajo en ratones y ratas.
+Los estudios no clínicos de tenofovir alafenamida en ratas y perros mos-
+traron los huesos y el riñón como los órganos diana primarios para la
+toxicidad. La toxicidad ósea fue observada en forma de reducción de la
+
+DMO en ratas y perros a unas exposiciones a tenofovir al menos cua-
+tro veces superiores a las esperadas después de la administración de
+DESCOVY®. Hubo una mínima infiltración de histiocitos presente en el
+ojo de perros a exposiciones a tenofovir alafenamida y tenofovir aproxi-
+madamente 4 y 17 veces superiores, respectivamente, a las esperadas
+después de la administración de DESCOVY®.
+Tenofovir alafenamida no fue mutagénico ni clastogénico en los estu-
+dios convencionales de genotoxicidad.
+Dado  que  existe  una  menor  exposición  a  tenofovir  en  ratas  y  ratones
+después de la administración de tenofovir alafenamida en comparación
+con tenofovir disoproxil fumarato, los estudios de carcinogenicidad y un
+estudio peri-postnatal en ratas fueron realizados solamente con tenofo-
+vir disoproxil fumarato. Los estudios convencionales de potencial carci-
+nogénico y toxicidad para la reproducción y el desarrollo no mostraron
+riesgos  especiales  para  los  seres  humanos.  Los  estudios  de  toxicidad
+para la reproducción en ratas y conejos no mostraron ningún efecto en
+los  parámetros  de  apareamiento,  fertilidad  y  embarazo  ni  en  ningún
+parámetro  fetal.  No  obstante,  tenofovir  disoproxil  fumarato  redujo  el
+índice de viabilidad y peso de las crías en un estudio peri-postnatal de
+toxicidad a dosis tóxicas para la madre.
+
+7.4 USO EN POBLACIONES ESPECÍFICAS
+
+Embarazo
+
+Registros de embarazos con antirretrovirales
+A fin de monitorear los resultados fetales de las mujeres embarazadas
+expuestas a DESCOVY®, se ha establecido un registro de embarazos con
+antirretrovirales (Antiretroviral Pregnancy Registry, APR). Se recomienda
+a los médicos que registren a las pacientes en el sitio web: www.apregis-
+try.com, o que lo comuniquen llamando al +54 11 4858 9000 (extensión
+229) o enviando un correo electrónico a farmacovigilancia@gador.com.
+No  hay  estudios  adecuados  y  bien  controlados  de  DESCOVY®  o  de
+sus componentes en mujeres embarazadas. No hay datos o estos son
+limitados  (datos  en  menos  de  300  embarazos)  en  relación  al  uso  de
+tenofovir alafenamida en mujeres embarazadas. No obstante, existen
+un elevado número de datos en mujeres embarazadas (datos en más de
+1.000 embarazos expuestos) que indican que emtricitabina no produce
+malformaciones ni toxicidad fetal/neonatal.
+Los estudios en animales no sugieren efectos perjudiciales directos ni
+indirectos  de  emtricitabina  en  términos  de  parámetros  de  fertilidad,
+embarazo, desarrollo fetal, parto o desarrollo postnatal. Los estudios de
+tenofovir alafenamida realizados en animales no han mostrado eviden-
+cia de efectos perjudiciales en los parámetros de fertilidad, embarazo o
+desarrollo fetal (ver sección 7.3).
+DESCOVY® solo se debe usar durante el embarazo si el beneficio poten-
+cial justifica el riesgo potencial para el feto.
+
+Lactancia
+Se  desconoce  si  tenofovir  alafenamida  se  excreta  en  la  leche  materna.
+Emtricitabina se excreta en la leche materna. En estudios en animales se
+ha observado que tenofovir se excreta en la leche. No hay datos suficientes
+sobre los efectos de emtricitabina y tenofovir en recién nacidos/niños. Por
+tanto, DESCOVY® no se debe utilizar durante la lactancia.Para evitar la
+transmisión del VIH al niño, se recomienda que las mujeres que presentan
+infección por VIH no amamanten a sus hijos bajo ningún concepto.
+
+Fertilidad
+No hay datos de fertilidad relativos al uso de DESCOVY® en seres huma-
+nos. En los estudios en animales no se observaron efectos de emtricita-
+bina y tenofovir alafenamida sobre los parámetros de apareamiento ni
+de fertilidad (ver sección 7.3).
+
+Uso pediátrico
+Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+
+Uso geriátrico
+Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+
+Insuficiencia renal e insuficiencia hepática
+Ver secciones Posología y forma de administración (4) y Farmacocinética
+(3.2.2).
+
+8. ESTUDIOS CLÍNICOS
+
+No se han realizado estudios de eficacia y seguridad con DESCOVY® en
+pacientes que no han recibido tratamiento previo.
+
+La  eficacia  clínica  de  DESCOVY®  fue  establecida  a  partir  de  estudios
+realizados con emtricitabina y tenofovir alafenamida cuando se adminis-
+traban con elvitegravir y cobicistat como comprimido de combinación a
+dosis fija E/C/F/TAF.
+
+Pacientes infectados por el VIH-1 que no han recibido tratamiento
+previo
+En los estudios GS-US-292-0104 y GS-US-292-0111, los pacientes fueron
+asignados aleatoriamente en una proporción 1:1 a recibir emtricitabina
+200 mg y tenofovir alafenamida 10 mg (n = 866) una vez al día o em-
+tricitabina 200 mg/tenofovir disoproxil (en forma de fumarato) 245 mg
+(n = 867) una vez al día, ambos administrados con elvitegravir 150 mg
++ cobicistat 150 mg como comprimido de combinación a dosis fija. La
+media de edad fue de 36 años (intervalo: 18-76), el 85% eran hombres,
+el 57% blancos, el 25% negros y el 10% asiáticos. El 19% de los pacientes
+fueron identificados como hispanos/latinos. La media del ARN del VIH-1
+plasmático basal fue de 4,5 log10 copias/ml (intervalo: 1,3-7,0) y el 23%
+tenía cargas virales basales de >100.000 copias/ml. La media del recuen-
+to basal de células CD4+ fue de 427 células/mm3 (intervalo: 0 1.360) y el
+13% tenía un recuento de células CD4+ <200 células/mm3.
+E/C/F/TAF demostró superioridad estadística en cuanto a la consecución
+de un ARN del VIH-1 <50 copias/ml al compararlo con E/C/F/TDF en la
+semana 144. La diferencia porcentual fue del 4,2% (IC del 95%; 0,6%
+a 7,8%). Los resultados combinados de los tratamientos a las 48 y 144
+semanas se muestran en la Tabla 4.
+
+Tabla  4.  Resultados  virológicos  combinados  de  los  estudios
+GS-US-292-0104 y GS-US-292-0111 en las semanas 48 y 144a,b
+
+Semana 48
+
+Semana 144
+
+E/C/F/TAF
+(n = 866)
+
+E/C/F/TDFe
+(n = 867)
+
+E/C/F/TAF
+(n = 866)
+
+E/C/F/TDF
+ (n = 867)
+
+ARN del VIH-1 <50
+copias/ml
+
+92%
+
+90%
+
+84%
+
+80%
+
+Diferencia entre
+tratamientos
+
+2,0%
+(IC del 95%: -0,7% a 4,7%)
+
+4,2%
+(IC del 95%: 0,6% a 7,8%)
+
+ARN del VIH-1 ≥50
+copias/mLc
+
+Ausencia de datos
+virológicos en la ven-
+tana de la semana 48
+
+Abandonaron la
+medicación del estudio
+debido a AA o muerted
+
+Abandonaron la
+medicación del estudio
+debido a otros motivos
+y último ARN del VIH-1
+disponible
+<50 copias/mLe
+
+Datos ausentes
+durante la ventana
+pero en tratamiento
+con la medicación del
+estudio
+
+Proporción (%) de pa-
+cientes con ARN del
+VIH-1 <50 copias/ml
+por subgrupo
+
+Edad
+<50 años
+
+≥50 años
+
+Sexo
+Hombres
+
+Mujeres
+
+Raza
+Negra
+
+Distinta de la negra
+
+Carga viral basal
+≤100.000 copias/ml
+
+>100.000 copias/ml
+
+4%
+
+4%
+
+1%
+
+4%
+
+6%
+
+2%
+
+5%
+
+4%
+
+11%
+
+16%
+
+1%
+
+3%
+
+2%
+
+4%
+
+9%
+
+11%
+
+1%
+
+< 1%
+
+1%
+
+1%
+
+716/777
+(92%)
+84/89
+(94%)
+
+674/733
+(92%)
+126/133
+(95%)
+
+197/223
+(88%)
+603/643
+(94%)
+
+629/670
+(94%)
+171/196
+(87%)
+
+680/753
+(90%)
+104/114
+(91%)
+
+673/740
+(91%)
+111/127
+(87%)
+
+177/213
+(83%)
+607/654
+(93%)
+
+610/672
+(91%)
+174/195
+(89%)
+
+647/777
+(83%)
+82/89
+(92%)
+
+616/733
+(84%)
+113/133
+(85%)
+
+168/223
+(75%)
+561/643
+(87%)
+
+567/670
+(85%)
+162/196
+(83%)
+
+602/753
+(80%)
+92/114
+(81%)
+
+603/740
+(81%)
+91/127
+(72%)
+
+152/213
+(71%)
+542/654
+(83%)
+
+537/672
+(80%)
+157/195
+(81%)
+
+Recuento basal de
+células CD4+
+<200 células/mm3
+
+≥200 células/mm3
+
+ARN del VIH-1 <20
+copias/ml
+
+96/112
+(86%)
+703/753
+(93%)
+
+104/117
+(89%)
+680/750
+(91%)
+
+93/112
+(83%)
+635/753
+(84%)
+
+94/117
+(80%)
+600/750
+(80%)
+
+84,4%
+
+84,0%
+
+81,1%
+
+75,8%
+
+Diferencia entre
+tratamientos
+
+0,4%
+(IC del 95%: -3,0% a 3,8%)
+
+5,4%
+(IC del 95%: 1,5% a 9,2%)
+
+E/C/F/TAF = elvitegravir/cobicistat/emtricitabina/tenofovir alafenamida.
+E/C/F/TDF = elvitegravir/cobicistat/emtricitabina/tenofovir disoproxil fumarato.
+a. La ventana de la semana 48 fue entre los días 294 y 377 (inclusive); la venta-
+na de la semana 144 fue entre los días 966 y 1049 (inclusive).
+b.  En  ambos  estudios  se  estratificó  a  los  pacientes  según  su  ARN  del  VIH-1
+basal  (≤100.000  copias/ml,  >100.000  copias/ml  a  ≤400.000  copias/ml  o
+
+c. Incluye a los pacientes que tenían ≥50 copias/ml en la ventana de la semana
+48 ó 144; los pacientes que abandonaron precozmente debido a ausencia o
+pérdida de la eficacia, los pacientes que abandonaron por motivos distintos de
+un acontecimiento adverso (AA), muerte o ausencia o pérdida de la eficacia y
+que en el momento del abandono tenían un valor viral ≥50 copias/ml.
+d. Incluye a los pacientes que abandonaron debido a un AA o a la muerte
+en cualquier momento desde el día 1 hasta la ventana temporal, si esto dio
+lugar  a  una  ausencia  de  datos  virológicos  sobre  el  tratamiento  durante  la
+ventana especificada.
+e. Incluye a los pacientes que abandonaron por motivos distintos de un AA,
+muerte o ausencia o pérdida de la eficacia, p. ej., que retiraron el consentimien-
+to, se perdieron para el seguimiento, etc.
+
+El incremento medio con respecto a la situación basal en el recuento de
+células CD4+ fue de 230 células/mm3 en los pacientes que recibieron
+E/C/F/TAF y de 211 células/mm3 en los pacientes que recibieron E/C/F/
+TDF (p = 0,024) en la Semana 48, y de 326 células/mm3 en los tratados
+con E/C/F/TAF y 305 células/mm3 en los pacientes tratados con E/C/F/
+TDF (p=0,06) en la Semana 144.
+La  eficacia  clínica  de  DESCOVY®  en  pacientes  que  no  han  recibido
+tratamiento previo también fue establecida a partir de un estudio rea-
+lizado  con  emtricitabina  y  tenofovir  alafenamida  (10  mg)  cuando  se
+administraban con darunavir (800 mg) y cobicistat como comprimido
+de combinación a dosis fija (D/C/F/TAF). En el estudio GS-US-299-0102,
+los pacientes fueron asignados aleatoriamente en una proporción 2:1 a
+recibir la combinación a dosis fija D/C/F/TAF una vez al día (n = 103) o
+darunavir y cobicistat y emtricitabina/tenofovir disoproxil fumarato una
+vez al día (n = 50). Las proporciones de pacientes con ARN del VIH-1
+en plasma <50 copias/ml y <20 copias/ml se muestran en la Tabla 5.
+
+Tabla 5: Resultados virológicos del estudio GS-US-299-0102 en la
+semana 24 y 48a
+
+Semana 24
+
+Semana 48
+
+D/C/F/TAF
+(n = 103)
+
+D/C/F/TAF
+(n = 103)
+
+Darunavir,
+cobicistat y
+emtrici-
+tabina/
+tenofovir
+disoproxil
+fumarato
+(n = 50)
+
+Darunavir,
+cobicistat y
+emtrici-
+tabina/
+tenofovir
+disoproxil
+fumarato
+(n = 50)
+
+75%
+
+74%
+
+77%
+
+84%
+
+3,3%
+(IC del 95%: -11,4% a
+18,1%)
+
+-6,2%
+(IC del 95%: -19,9%
+a 7,4%)
+
+20%
+
+24%
+
+16%
+
+12%
+
+5%
+
+1%
+
+2%
+
+0
+
+8%
+
+1%
+
+4%
+
+2%
+
+4%
+
+2%
+
+7%
+
+2%
+
+ARN del VIH-1 <50
+copias/ml
+
+Diferencia entre
+tratamientos
+
+ARN del VIH-1 ≥50
+copias/mLb
+
+Ausencia de datos
+virológicos en la ven-
+tana de la semana 48
+
+Abandonaron la
+medicación del estudio
+debido a AA o muertec
+
+Abandonaron la
+medicación del estudio
+debido a otros motivos
+y último ARN del
+VIH-1 disponible
+<50 copias/mLd
+
+Datos ausentes
+durante la ventana
+pero en tratamiento
+con la medicación del
+estudio
+
+ARN del VIH-1 < 20
+copias/ml
+
+Diferencia entre
+tratamientos
+
+0
+
+0
+
+0
+
+0
+
+55%
+
+62%
+
+63%
+
+76%
+
+-3,5%
+(IC del 95%: -19,8% a
+12,7%)
+
+-10,7%
+(IC del 95%: -26,3%
+a 4,8%)
+
+D/C/F/TAF = darunavir/cobicistat/emtricitabina/tenofovir alafenamida
+a. La ventana de la semana 48 fue entre los días 294 y 377 (ambos inclusive).
+b. Incluye a los pacientes que tenían ≥50 copias/ml en la ventana de la semana
+48, los pacientes que abandonaron precozmente debido a ausencia o pérdida
+de la eficacia, los pacientes que abandonaron por motivos distintos de un acon-
+tecimiento adverso (AA), muerte, ausencia o pérdida de la eficacia y que en el
+momento del abandono tenían un valor viral ≥50 copias/ml.
+c. Incluye a los pacientes que abandonaron debido a un AA o a la muerte en cual-
+quier momento desde el día 1 hasta la ventana temporal, si esto dio lugar a una au-
+sencia de datos virológicos sobre el tratamiento durante la ventana especificada.
+D. Incluye a los pacientes que abandonaron por motivos distintos de un AA,
+muerte, ausencia o pérdida de la eficacia, p. ej., que retiraron el consentimien-
+to, se perdieron para el seguimiento, etc.
+
+Pacientes infectados por el VIH-1 suprimidos virológicamente
+En el estudio GS-US-311-1089, se evaluaron la eficacia y la seguridad de
+cambiar desde emtricitabina/tenofovir disoproxil fumarato a DESCOVY®
+mientras se mantenía el tercer fármaco antirretroviral en un estudio alea-
+torizado doble ciego de adultos infectados por el VIH-1 suprimidos viro-
+lógicamente (n = 663). Los pacientes debían haber estado suprimidos
+de forma estable (ARN del VIH-1 <50 copias/ml) con su régimen basal
+durante  al  menos  6  meses  y  tenían  un  VIH-1  sin  mutaciones  de  resis-
+tencia a emtricitabina o tenofovir alafenamida antes de incorporarse al
+estudio. Los pacientes fueron asignados aleatoriamente en una propor-
+ción 1:1 a cambiar desde su tratamiento basal a DESCOVY® (n = 333), o
+a permanecer con su régimen basal de emtricitabina/tenofovir disoproxil
+fumarato (n = 330). Los pacientes fueron estratificados según la clase
+del tercer fármaco de su régimen de tratamiento previo. En el momento
+basal, el 46% de los pacientes recibían emtricitabina/tenofovir disoproxil
+fumarato en combinación con un IP potenciado y el 54% de los pacientes
+recibían emtricitabina/tenofovir disoproxil fumarato en combinación con
+un tercer fármaco no potenciado.
+En la Tabla 6 se muestran los resultados terapéuticos del estudio GS-
+US-311-1089 a lo largo de 48 semanas.
+
+Tabla 6: Resultados virológicos del estudio GS-US-311-1089 en las
+semanas 48a y 96b
+
+Semana 48
+
+Semana 96
+
+Régimen
+con
+DESCOVY®
+(n = 333)
+
+Régimen
+con
+DESCOVY®
+(n = 333)
+
+Régimen
+con emtri-
+citabina/
+tenofovir
+disoproxil
+fumarato
+(n = 330)
+
+Régimen
+con emtri-
+citabina/
+tenofovir
+disoproxil
+fumarato
+(n = 330)
+
+ARN del VIH-1 <50
+copias/ml
+
+94%
+
+93%
+
+89%
+
+89%
+
+Diferencia entre
+tratamientos
+
+1,3%
+(IC del 95%: -2,5% a 5,1%)
+
+ -0,5%
+(IC del 95%: -5,3% a 4,4%)
+
+ARN del VIH-1 ≥50
+copias/mLc
+
+Ausencia de datos
+virológicos en la ven-
+tana de la semana
+48 ó 96
+
+Abandonaron la
+medicación del estudio
+debido a AA o muerted
+
+Abandonaron la
+medicación del estudio
+debido a otros motivos
+y último ARN del VIH-1
+disponible
+<50 copias/mLe
+
+Datos ausentes
+durante la ventana
+pero en tratamiento
+con la medicación del
+estudio
+
+< 1%
+
+5%
+
+2%
+
+2%
+
+5%
+
+1%
+
+2%
+
+9%
+
+2%
+
+1%
+
+10%
+
+2%
+
+3%
+
+5%
+
+7%
+
+9%
+
+< 1%
+
+0
+
+0
+
+<1%
+
+Proporción (%) de pa-
+cientes con ARN del
+VIH-1 <50 copias/
+ml con el régimen de
+tratamiento previo
+
+IPs potenciados
+
+Otros terceros fármacos
+
+142/155
+(92%)
+
+172/178
+(97%)
+
+140/151
+(93%)
+
+167/179
+(93%)
+
+133/155
+(86%)
+
+162/178
+(91%)
+
+133/151
+(88%)
+
+161/179
+(90%)
+
+IP = inhibidor de la proteasa
+a. La ventana de la semana 48 fue entre los días 294 y 377 (inclusive).
+b. La ventana de la semana 96 fue entre los días 630 y 713 (inclusive).
+c. Incluye a los pacientes que tenían ≥50 copias/ml en la ventana de la semana
+48 o semana 96, los pacientes que abandonaron precozmente debido a ausen-
+cia o pérdida de la eficacia, los pacientes que abandonaron por motivos distin-
+tos de un acontecimiento adverso (AA), muerte o ausencia o pérdida de la efi-
+cacia y que en el momento del abandono tenían un valor viral ≥50 copias/ml.
+d. Incluye a los pacientes que abandonaron debido a un AA o a la muerte en
+cualquier momento desde el día 1 hasta la ventana temporal, si esto dio lugar
+a una ausencia de datos virológicos sobre el tratamiento durante la ventana
+especificada.
+e. Incluye a los pacientes que abandonaron por motivos distintos de un AA,
+muerte o ausencia o pérdida de la eficacia, p. ej., que retiraron el consentimien-
+to, se perdieron para el seguimiento, etc.
+
+En  el  estudio  GS-US-311-1717,  los  pacientes  que  estaban  virológica-
+mente suprimidos (ARN del VIH-1 <50 copias/ml) bajo tratamiento con
+su régimen de abacavir/ lamivudina durante al menos 6 meses, fueron
+aleatorizados en una proporción 1:1 a cambiar a DESCOVY® (N = 280)
+mientras mantenían su tercer fármaco basal o a permanecer bajo su tra-
+tamiento basal con abacavir/lamivudina (N = 276).
+Los pacientes fueron estratificados según la clase del tercer fármaco en
+su régimen de tratamiento anterior. A nivel basal, el 30% de los pacien-
+tes recibían abacavir/lamivudina en combinación con un inhibidor de la
+proteasa potenciado y el 70% de los pacientes recibían abacavir/lami-
+vudina en combinación con un tercer fármaco no potenciado. Las tasas
+de éxito virológico en la semana 48 fueron: Régimen con DESCOVY®:
+89,7% (227 de 253 sujetos); Régimen con Abacavir/lamivudina: 92,7%
+(230  de  248  sujetos).  En  la  semana  48,  cambiar  a  un  régimen  con
+DESCOVY®  fue  no  inferior  respecto  de  permanecer  bajo  el  régimen
+basal  con  abacavir/lamivudina  para  mantener  un  ARN  del  VIH-1  <50
+copias/ml.
+
+Pacientes  infectados  por  el  VIH-1  con  insuficiencia  renal  leve  o
+moderada
+En el estudio GS-US-292-0112, se evaluaron la eficacia y la seguridad de
+emtricitabina y tenofovir alafenamida en un estudio clínico abierto en el
+que se cambió a 242 pacientes infectados por el VIH-1 con insuficiencia
+renal leve o moderada (eTFGCG: 30 69 ml/min) a emtricitabina y tenofovir
+alafenamida (10 mg) administrados con elvitegravir y cobicistat como
+comprimido de combinación a dosis fija. Los pacientes habían estado
+suprimidos virológicamente (ARN del VIH-1 <50 copias/ml) durante al
+menos 6 meses antes de cambiar.
+La media de la edad fue de 58 años (intervalo: 24 82), con 63 pacientes
+(26%) ≥65 años. El 79% eran hombres, el 63% blancos, el 18% negros y
+el 14% asiáticos. El 13% de los pacientes fueron identificados como his-
+panos/latinos. La mediana de la eTFG basal fue de 56 ml/min y el 33% de
+los pacientes tenía una eTFG entre 30 y 49 ml/min. La media del recuen-
+to basal de células CD4+ fue de 664 células/ mm3 (intervalo: 126 1.813).
+En la semana 144, el 83,1% (197/237 pacientes) mantenía un ARN del
+VIH-1 <50 copias/ml después de cambiar a emtricitabina y tenofovir ala-
+fenamida administrados con elvitegravir y cobicistat como comprimido
+de combinación en dosis fija.
+
+Pacientes coinfectados con VIH y VHB
+En el estudio abierto GS-US-292-1249 se evaluaron la eficacia y la se-
+guridad  de  emtricitabina  y  tenofovir  alafenamida  administrados  con
+elvitegravir y cobicistat como comprimido de combinación en dosis fija
+(E/C/F/TAF) en pacientes adultos coinfectados por el VIH-1 y hepatitis B
+crónica. Sesenta y nueve de los 72 pacientes recibieron tratamiento an-
+tirretroviral previo que contenía TDF. Al inicio del tratamiento con E/C/F/
+TAF, los 72 pacientes presentaron supresión del VIH (ARN del VIH-1 <50
+copias/ml) durante al menos 6 meses, con o sin supresión del ADN del
+VHB, y tenían la función hepática compensada. La media de edad era de
+50 años (rango 28-67), el 92% de los pacientes eran varones y el 69%
+eran blancos, el 18% negros y el 10%, asiáticos. La media del recuento
+basal  de  células  CD4+  fue  de  636  células/mm3  (rango  263-1498).  El
+86% de los pacientes (62/72) presentaron supresión del VHB (ADN del
+VHB <29 UI/ml) y el 42% (30/72) fueron HbeAg-positivos a nivel basal.
+
+De los pacientes que eran HbeAg-positivos a nivel basal, 1/30 (3,3%)
+presentó seroconversión a anti-HBe en la semana 48. De los pacientes
+que eran HbsAg-positivos a nivel basal, 3/70 (4,3%) presentaron sero-
+conversión a anti-HBs en la semana 48.
+En la semana 48, el 92% de los pacientes (66/72) mantenía un ARN del
+VIH-1 <50 copias/ml después de cambiar a emtricitabina y tenofovir ala-
+fenamida  administrados  con  elvitegravir  y  cobicistat  como  comprimido
+de combinación en dosis fija. El cambio medio en el recuento de células
+CD4+ en la semana 48 con respecto al recuento basal fue de -2 células/
+mm3. El 92% de los pacientes (66/72) tenía ADN del VHB <29 UI/ml en la
+semana 48, usando un análisis de datos ausentes = fracaso en la semana
+48. De los 62 pacientes con supresión del VHB a nivel basal, la supresión
+se mantuvo en 59 y en 3 hubo faltante de datos. De los 10 pacientes que
+no presentaron supresión del VHB a nivel basal (ADN del VHB ≥29 UI/ml),
+7 pacientes lograron supresión, 2 siguieron detectables y 1 presentaba
+datos faltantes.
+Existen datos clínicos limitados sobre el uso de E/C/F/TAF en pacientes
+coinfectados con VIH/VHB que no habìan recibido tratamiento anterior.
+
+Cambios en las mediciones de la densidad mineral ósea
+En los estudios realizados con pacientes que no habían recibido trata-
+miento previo, emtricitabina y tenofovir alafenamida administrados con
+elvitegravir  y  cobicistat,  como  comprimido  de  combinación  en  dosis
+fija, se asociaron con menores reducciones de la densidad mineral ósea
+(DMO) en comparación con E/C/F/TDF hasta las 144 semanas de trata-
+miento según determinación mediante análisis de absorciometría con
+rayos X de doble energía (DEXA) de la cadera (variación media: -0,8%
+comparado con -3,4%, p <0,001) y de la columna lumbar (variación me-
+dia: -0,9% comparado con -3,0 %, p <0,001). En un estudio separado,
+emtricitabina  y  tenofovir  alafenamida  administrados  con  darunavir  y
+cobicistat como comprimido de combinación en dosis fija también se
+asociaron con menores reducciones en la DMO (según determinación
+mediante análisis DEXA de cadera y espina lumbar) hasta las 48 sema-
+nas de tratamiento en comparación con darunavir, cobicistat, emtricita-
+bina y tenofovir disoproxil fumarato.
+En un estudio con pacientes adultos virológicamente suprimidos, se ob-
+servaron mejorías en la DMO hasta las 96 semanas después de cambiar
+a DESCOVY® de un tratamiento que contenía TDF, comparado con cam-
+bios mínimos al mantener el régimen con TDF, evaluado mediante aná-
+lisis DEXA de cadera (variación media respecto del valor basal de 1,9%
+vs. -0,3%, p <0,001) y de columna lumbar (variación media respecto del
+nivel basal de 2,2% vs. -0,2%, p <0,001).
+En  un  estudio  con  pacientes  adultos  virológicamente  suprimidos,  la
+DMO no varió de forma significativa durante 48 semanas después de
+cambiar  a  DESCOVY®  de  un  tratamiento  que  contenía  abacavir/lami-
+vudina  comparado  con  mantener  el  régimen  que  contenía  abacavir/
+lamivudina,  evaluado  mediante  análisis  DEXA  de  cadera  (variación
+media respecto del valor basal de 0,3% vs. 0,2%, p = 0,55) y de columna
+lumbar (variación media respecto del valor basal de 0,1% comparado
+con <0,1%, p = 0,78).
+
+Cambios en las mediciones de la función renal
+En los estudios realizados con pacientes que no habían recibido trata-
+miento previo, emtricitabina y tenofovir alafenamida administrados con
+elvitegravir y cobicistat como comprimido de combinación en dosis fija
+hasta  las  144  semanas  se  asociaron  con  un  menor  impacto  sobre  los
+parámetros de seguridad renal (medidos después de las 144 semanas
+de tratamiento por eTFGCG y el cociente proteína/creatinina en orina y
+después de 96 semanas de tratamiento por el cociente albúmina/creati-
+nina en orina) en comparación con E/C/F/TDF. Durante las 144 semanas
+de tratamiento, ningún sujeto interrumpió el tratamiento con E/C/F/TAF
+debido a un acontecimiento adverso renal aparecido durante el trata-
+miento  comparado  con  12  sujetos  que  interrumpieron  el  tratamiento
+con E/C/F/TDF (p <0,001).
+En un estudio separado en pacientes sin tratamiento previo, emtricita-
+bina y tenofovir alafenamida administrados con darunavir y cobicistat
+como  comprimido  de  combinación  en  dosis  fija  se  asociaron  con  un
+menor impacto sobre los parámetros de seguridad renal hasta las 48
+semanas  de  tratamiento  comparado  con  darunavir  y  cobicistat  admi-
+nistrados con emtricitabina/tenofovir disoproxil fumarato (ver también
+sección 4.4).
+En  un  estudio  en  pacientes  adultos  virológicamente  suprimidos,  las
+mediciones de la proteinuria tubular fueron similares en los pacientes
+que cambiaron a un régimen con DESCOVY® comparado con los pacien-
+tes que se mantuvieron en el régimen basal con abacavir/lamivudina.
+En la semana 48, la mediana de la variación porcentual en el cociente
+proteína de unión al retinol/creatinina en orina fue del 4% en el grupo
+de DESCOVY® y del 16% en los pacientes que seguían recibiendo el régi-
+men basal con abacavir/lamivudina, y en el cociente beta-2 microglobu-
+lina/creatinina en orina fue del 4% comparado con el 5%.
+
+Población pediátrica
+En el estudio GS-US-292-0106, se evaluaron la eficacia, la seguridad y la
+farmacocinética de emtricitabina y tenofovir alafenamida en un estudio
+abierto con 50 adolescentes infectados por el VIH-1 que no habían recibi-
+do antes tratamiento y que recibieron emtricitabina y tenofovir alafenami-
+da (10 mg) administrados con elvitegravir y cobicistat como comprimido
+de combinación a dosis fija. Los pacientes tenían una media de edad de
+15 años (intervalo: 12-17) y el 56% eran mujeres, el 12% eran asiáticos y
+el 88% eran negros. En el momento basal, la mediana del ARN del VIH-1
+plasmático fue de 4,7 log10 copias/ml, la mediana del recuento de célu-
+las CD4+ fue de 456 células/ mm3 (intervalo: 95-1.110) y la mediana de
+CD4+% fue del 23% (intervalo: 7-45%). En conjunto, el 22% tenía un ARN
+del VIH-1 plasmático basal >100.000 copias/ml. A las 48 semanas, el 92%
+(46/50) alcanzaron un ARN del VIH-1 <50 copias/ml, de forma similar a
+las tasas de respuesta en los estudios con adultos infectados por el VIH-1
+que nunca habían recibido tratamiento. El aumento medio con respecto
+al valor basal en el recuento de células CD4+ en la semana 48 fue de 224
+células/mm3. No se detectaron resistencias emergentes a E/C/F/TAF hasta
+la semana 48.
+
+9. REACCIONES ADVERSAS
+
+Resumen del perfil de seguridad
+La evaluación de las reacciones adversas se basa en los datos de segu-
+ridad de todos los estudios de fase 2 y 3 en los que 3.112 pacientes in-
+fectados por el virus del VIH-1 recibieron medicamentos que contenían
+emtricitabina y tenofovir alafenamida y de la experiencia poscomercia-
+lización. En los estudios clínicos con 866 pacientes adultos que nunca
+habían recibido tratamiento y que fueron tratados con emtricitabina y
+tenofovir alafenamida junto con elvitegravir y cobicistat como compri-
+mido de combinación a dosis fija de elvitegravir 150 mg/cobicistat 150
+mg/emtricitabina 200 mg/tenofovir alafenamida (en forma de fumara-
+to) 10 mg (E/C/F/TAF) hasta las 144 semanas, las reacciones adversas
+notificadas con mayor frecuencia fueron diarrea (7%), náuseas (11%), y
+cefalea (6%).
+
+Tabla de reacciones adversas
+Las reacciones adversas de la Tabla 7 se muestran según el sistema de
+clasificación de órganos y frecuencia. Las frecuencias se definen como
+sigue: muy frecuentes (≥1/10), frecuentes (≥1/100 a <1/10) y poco fre-
+cuentes (≥1/1.000 a <1/100).
+
+Tabla 7: Tabla de reacciones adversas1
+
+Frecuencia
+
+Reacción adversa
+
+Trastornos de la sangre y del sistema linfático
+
+Poco frecuentes:
+
+Trastornos psiquiátricos
+
+Frecuentes:
+
+anemia2
+
+sueños anormales
+
+Trastornos del sistema nervioso
+
+Frecuentes:
+
+cefalea, mareo
+
+Trastornos gastrointestinales
+
+Muy frecuentes:
+
+Frecuentes:
+
+náuseas
+
+diarrea, vómitos, dolor abdominal,
+flatulencia
+
+Poco frecuentes:
+
+dispepsia
+
+Trastornos de la piel y del tejido subcutáneo
+
+Frecuentes:
+
+Poco frecuentes:
+
+erupción
+
+angioedema3,4, prurito, urticaria4
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Poco frecuentes:
+
+artralgia
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Frecuentes:
+
+fatiga
+
+1. Exceptuando el angioedema, la anemia y la urticaria (ver las notas al pie 2,
+3 y 4), todas las reacciones adversas fueron identificadas a partir de estudios
+clínicos de productos que contenían F/TAF. Las frecuencias se obtuvieron a par-
+tir de estudios clínicos de fase 3 con E/C/F/TAF en 866 pacientes adultos que
+nunca habían recibido tratamiento a lo largo de 144 semanas de tratamiento
+(GS-US-292-0104 y GS-US-292-0111).
+2. Esta reacción adversa no se observó en los estudios clínicos de productos
+que contenían F/TAF, pero fue identificada a partir de estudios clínicos o de
+la  experiencia  poscomercialización  para  emtricitabina  cuando  se  utilizó  con
+otros antirretrovirales.
+
+3. Esta reacción adversa fue identificada mediante la vigilancia poscomerciali-
+zación de los medicamentos que contenían emtricitabina.
+4. Esta reacción adversa se identificó a través de la vigilancia poscomercializa-
+ción de los medicamentos que contenían tenofovir alafenamida.
+
+Descripción de las reacciones adversas seleccionadas
+
+Síndrome de reconstitución inmune
+Al inicio de la TARC, en los pacientes infectados por VIH con deficiencia
+inmunitaria  grave,  puede  aparecer  una  reacción  inflamatoria  frente  a
+infecciones  oportunistas  latentes  o  asintomáticas.  Se  han  notificado
+también trastornos autoinmunitarios (como la enfermedad de Graves y
+hepatitis autoinmune); no obstante, el tiempo hasta el inicio notificado
+es más variable y estos efectos pueden producirse muchos meses des-
+pués del inicio del tratamiento (ver sección 7.1).
+
+Osteonecrosis
+Se han notificado casos de osteonecrosis, especialmente en pacientes
+con factores de riesgo generalmente reconocidos, enfermedad avanza-
+da por VIH o exposición prolongada a la TARC. Se desconoce la frecuen-
+cia de esta reacción adversa (ver sección 7.1).
+
+Cambios en las pruebas de laboratorio de lípidos
+En  los  estudios  en  pacientes  no  tratados  anteriormente,  tanto  en  el
+grupo  de  tratamiento  que  contenía  tenofovir  alafenamida  fumarato
+como  en  el  que  contenía  tenofovir  disoproxil  fumarato  se  observaron
+aumentos, con respecto a los valores basales en ayunas, de colesterol
+total, colesterol ligado a lipoproteínas de baja densidad (LDL), colesterol
+ligado a lipoproteínas de alta densidad (HDL) y triglicéridos en la sema-
+na 144. La mediana del aumento con respecto al valor basal de dichos
+parámetros fue mayor en el grupo tratado con E/C/F/TAF que en el tra-
+tado con elvitegravir 150 mg/cobicistat 150 mg/emtricitabina 200 mg/
+tenofovir disoproxil (en forma de fumarato) 245 mg (E/C/F/TDF) en la
+semana 144 (p <0,001 para la diferencia entre los grupos de tratamien-
+to para el colesterol total en condiciones de ayuno, el colesterol directo
+ligado a LDL y HDL y los triglicéridos). La mediana (Q1, Q3) del cambio
+con respecto al valor basal en el cociente colesterol total/colesterol HDL
+en la semana 144 fue de 0,2 (-0,3, 0,5) en el grupo tratado con E/C/F/
+TAF y de 0,1 (-0,4, 0,6) en el grupo tratado con E/C/F/TDF (p <0,006 para
+la diferencia entre los grupos de tratamiento).
+En un estudio de pacientes virológicamente suprimidos que cambiaron
+de  emtricitabina/tenofovir  disoproxil  fumarato  a  DESCOVY®  mante-
+niendo  el  tercer  fármaco  antirretroviral  (Estudio  GS-US-311-1089),  se
+observaron aumentos respecto del valor basal en los parámetros lipídi-
+cos en ayunas de colesterol total, colesterol LDL directo y triglicéridos en
+el grupo tratado con DESCOVY® comparado con la escasa variación en el
+grupo de emtricitabina/tenofovir disoproxil fumarato (p≤0,009 para la
+diferencia entre los grupos en las variaciones respecto del valor basal).
+En  la  semana  96  en  ambos  grupos  de  tratamiento  se  observó  escasa
+variación respecto de los valores basales en la mediana de colesterol
+HDL y glucosa en ayunas, o en el cociente de colesterol total/colesterol
+HDL en ayunas. Ninguna de las variaciones se consideró clínicamente
+significativa.
+En  un  estudio  en  pacientes  adultos  virológicamente  suprimidos  que
+cambiaron de abacavir/lamivudina a DESCOVY® manteniendo el tercer
+farmaco antirretroviral (estudio GS-US-311-1717), se observaron varia-
+ciones mínimas en los parámetros lipídicos.
+
+Parámetros metabólicos
+El peso y los niveles de glucosa y lípidos en la sangre pueden aumentar
+durante el tratamiento antirretroviral (ver sección 7.1).
+
+Población pediátrica
+La seguridad de emtricitabina y tenofovir alafenamida fue evaluada a lo
+largo de 48 semanas en un estudio clínico abierto (GS-US-292-0106) en
+el que pacientes pediátricos infectados por el VIH-1 de 12 a <18 años de
+edad que nunca habían recibido tratamiento recibieron emtricitabina y
+tenofovir alafenamida en combinación con elvitegravir y cobicistat como
+comprimido de combinación a dosis fija. El perfil de seguridad de emtrici-
+tabina y tenofovir alafenamida administrado con elvitegravir y cobicistat
+en 50 pacientes adolescentes fue similar al de los adultos (ver sección 8).
+
+Otras poblaciones especiales
+
+Pacientes con insuficiencia renal
+La seguridad de emtricitabina y tenofovir alafenamida fue evaluada a lo
+largo de 144 semanas en un estudio clínico abierto (GS-US-292-0112)
+en el que 248 pacientes infectados por el VIH-1 que nunca habían reci-
+bido tratamiento (n = 6), o eran pacientes suprimidos virológicamente
+(n  =  242),  con  insuficiencia  renal  leve  o  moderada  (tasa  de  filtración
+
+glomerular estimada mediante el método de Cockcroft-Gault [eTFGCG]:
+30 69 ml/min) recibieron emtricitabina y tenofovir alafenamida en com-
+binación con elvitegravir y cobicistat como comprimido de combinación
+a dosis fija. El perfil de seguridad en pacientes con insuficiencia renal
+leve o moderada fue similar al de los pacientes con función renal normal
+(ver sección 8).
+
+Pacientes coinfectados por el VIH y el VHB
+La seguridad de emtricitabina y tenofovir alafenamida en combinación
+con elvitegravir y cobicistat como comprimido de combinación a dosis fija
+(elvitegravir/cobicistat/ emtricitabina/tenofovir alafenamida [E/C/F/TAF])
+fue evaluada en 72 pacientes coinfectados por VIH/VHB actualmente en
+tratamiento  del  VIH  en  un  estudio  clínico  abierto  (GS-US-292-1249),
+hasta la semana 48, en la que los pacientes fueron cambiados de otro
+régimen antirretroviral (que incluyó tenofovir disoproxil fumarato [TDF]
+en 69 de 72 pacientes) a E/C/F/TAF. Según estos datos limitados, el perfil
+de seguridad de emtricitabina y tenofovir alafenamida en combinación
+con elvitegravir y cobicistat en un comprimido combinado en dosis fija,
+en  pacientes  coinfectados  por  VIH/VHB  fue  similar  al  de  los  pacientes
+monoinfectados por el VIH-1 (ver sección 8).
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar la sospecha de reacciones adversas al medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+la relación beneficio/riesgo del medicamento. Se invita a los profesiona-
+les sanitarios a notificar las sospechas de reacciones adversas a través
+del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos y/o al Departa-
+mento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilan-
+cia@gador.com o telefónicamente al 0800-220-2273.
+
+10. SOBREDOSIFICACIÓN
+
+Emtricitabina  se  puede  eliminar  mediante  hemodiálisis,  que  elimina
+aproximadamente el 30% de la dosis de emtricitabina en un periodo de
+diálisis de 3 horas iniciado en un plazo de 1,5 horas después de la admi-
+nistración de emtricitabina. Tenofovir se elimina eficazmente mediante
+hemodiálisis con un coeficiente de extracción de aproximadamente el
+54%. Se desconoce si emtricitabina o tenofovir se pueden eliminar con
+diálisis peritoneal.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+11. PRESENTACIÓN
+
+DESCOVY® se presenta en envases conteniendo 30 comprimidos recu-
+biertos.
+
+CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar a temperatura inferior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad. Man-
+tener el frasco perfectamente cerrado.
+La eliminación del medicamento no utilizado y de todos los materiales
+que hayan estado en contacto con él se realizará de acuerdo con la nor-
+mativa local.
+No utilice este medicamento después de la fecha de vencimiento que
+aparece en el envase. La fecha de caducidad es el último día del mes
+que se indica.
+
+En caso de sobredosis, se debe vigilar al paciente por si hay evidencia de
+toxicidad (ver sección 9). El tratamiento de la sobredosis de DESCOVY®
+consiste en medidas generales de apoyo, incluyendo la monitorización de
+los signos vitales así como la observación del estado clínico del paciente.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica.”
+
+Información para el paciente
+
+Composición
+
+Cada comprimido recubierto de DESCOVY® 200 mg/10 mg contiene:
+Emtricitabina ........................................................................... 200 mg
+Tenofovir alafenamida fumarato ..............................................11,2 mg
+(equivalente a 10 mg de tenofovir alafenamida)
+Excipientes: Celulosa microcristalina, Croscarmelosa sódica, Estea-
+rato  de  magnesio,  Alcohol  polivinílico  parcialmente  hidrolizado*,
+Dióxido de titanio*, Polietilenglicol 3350*, Talco, Oxido de hierro
+negro ......................................................................................... c.s.
+* Se refiere a los componentes del Opadry II Gris 85F97517.
+
+Cada comprimido recubierto de DESCOVY® 200 mg/25 mg contiene:
+Emtricitabina ........................................................................... 200 mg
+Tenofovir alafenamida fumarato ................................................28 mg
+(equivalente a 25 mg de tenofovir alafenamida)
+Excipientes: Celulosa microcristalina, Croscarmelosa sódica, Estea-
+rato  de  magnesio,  Alcohol  polivinílico  parcialmente  hidrolizado*,
+Dióxido de titanio*, Polietilenglicol 3350*, Talco, Indigo carmín laca
+alumínica ..................................................................................... c.s.
+* Se refiere a los componentes del Opadry II Azul 85F105057.
+
+Lea todo el prospecto detenidamente antes de empezar a to-
+mar  este  medicamento,  porque  contiene  información  impor-
+tante para usted.
+ » Conserve este prospecto, ya que puede tener que volver a leerlo.
+ » Si tiene alguna duda, consulte a su médico o farmacéutico.
+ » Este medicamento se le ha recetado solamente a usted, y no debe
+dárselo a otras personas aunque tengan los mismos síntomas que
+usted, ya que puede perjudicarles.
+
+ » Si  experimenta  efectos  adversos,  consulte  a  su  médico  o  farma-
+céutico, incluso si se trata de efectos adversos que no aparecen en
+este prospecto.
+
+¿Cuál es la información más importante que debo conocer
+sobre DESCOVY®?
+
+Embarazo y lactancia
+•  Si  está  embarazada  o  en  periodo  de  lactancia,  cree  que  podría
+estar embarazada o tiene intención de quedarse embarazada, con-
+sulte a su médico antes de utilizar este medicamento.
+
+•  Utilice un método eficaz de contracepción mientras esté to-
+
+mando DESCOVY®.
+
+Consulte a su médico o farmacéutico antes de utilizar cualquier medi-
+camento si está embarazada.
+Si  tomó  DESCOVY®  durante  el  embarazo,  su  médico  podrá  indicar
+análisis  de  sangre  regulares  y  otros  estudios  de  diagnóstico  para
+controlar  el  desarrollo  de  su  hijo.  En  niños  cuyas  madres  tomaron
+ITIAN durante el embarazo, el beneficio de la protección frente al VIH
+superó el riesgo de efectos secundarios.
+No amamante a su hijo durante el tratamiento con DESCOVY®.
+Esto se debe a que algunos de los principios activos de este medica-
+mento pasan a la leche materna. Se recomienda que no dé el pecho
+para evitar que transmita el virus al niño mediante la leche materna.
+
+Conducción y uso de máquinas
+DESCOVY® puede causar mareo. Si nota mareo durante el tratamien-
+to con DESCOVY®, no conduzca ni maneje herramientas o máquinas.
+
+¿Qué es DESCOVY®?
+
+DESCOVY® contiene dos fármacos:
+•  elvitegravir, un medicamento antirretroviral conocido como inhi-
+
+bidor de la integrasa (ITIAN).
+
+•  tenofovir alafenamida, un medicamento antirretroviral conoci-
+do como nucleótido inhibidor de la transcriptasa inversa (INtTI).
+
+DESCOVY® bloquea la acción de la enzima transcriptasa inversa, que
+es esencial para la multiplicación del virus. Por tanto, DESCOVY® re-
+duce la cantidad de VIH presente en el organismo.
+DESCOVY® en combinación con otros medicamentos se usa para el
+tratamiento de la infección por el virus de la inmunodeficiencia
+humana 1 (VIH-1) en adultos y adolescentes de 12 años de edad o
+mayores, que pesen 35 kg o más.
+
+¿Quiénes no deben tomar DESCOVY®?
+
+No tome DESCOVY®:
+•  Si es alérgico a elvitegravir, tenofovir alafenamida o a alguno
+de los demás componentes de este medicamento (incluidos en la
+sección ¿Cuáles son los componentes de DESCOVY®?).
+
+¿Qué debo informar a mi médico antes de tomar DESCOVY®?
+
+Advertencias y precauciones
+Tiene que permanecer bajo supervisión de su médico mientras esté
+tomando DESCOVY®.
+Mientras esté tomando este medicamento aún puede transmitir el
+VIH a los demás, aunque el tratamiento antiviral eficaz reduzca el
+riesgo. Consulte a su médico sobre qué precauciones son necesarias
+para no infectar a otras personas. Este medicamento no es una cura
+para la infección por el VIH. Mientras usted esté tomando DESCOVY®
+podrá seguir padeciendo infecciones u otras enfermedades asocia-
+das con la infección por el VIH.
+
+Consulte a su médico antes de empezar a tomar DESCOVY®
+•  Si tiene problemas del hígado o antecedentes de enferme-
+dad del hígado, incluyendo hepatitis. Los pacientes con enfer-
+medad del hígado incluyendo hepatitis crónica B o C, tratados con
+antirretrovirales,  tienen  un  riesgo  mayor  de  complicaciones  del
+hígado  severas  y  potencialmente  mortales.  Si  padece  infección
+por hepatitis B, su médico considerará cuidadosamente el mejor
+régimen de tratamiento para usted.
+Si padece infección por hepatitis B, los problemas hepáticos pueden
+empeorar después de interrumpir la administración de DESCOVY®.
+Es importante que no deje de tomar DESCOVY® sin hablar antes con
+su médico: ver sección ¿Cómo debo tomar DESCOVY®? No interrum-
+pa el tratamiento con DESCOVY®.
+
+Mientras esté tomando DESCOVY®
+Una vez que empiece a tomar DESCOVY®, esté atento a:
+•  Signos de inflamación o infección.
+•  Dolor articular, rigidez o problemas óseos.
+
+ Si nota cualquiera de estos síntomas, informe a su médico
+inmediatamente. Para más información, ver sección ¿Cuáles son los
+posibles efectos secundarios de DESCOVY®?
+
+Aunque  no  se  han  observado  problemas  renales  con  DESCOVY®,
+existe la posibilidad de que pueda experimentar problemas renales
+si toma DESCOVY® durante un período de tiempo prolongado.
+
+Niños y adolescentes
+No administre este medicamento a niños de 11 años de edad o
+menores o que pesen menos de 35 kg. No se ha estudiado todavía el
+uso de DESCOVY® en niños de 11 años de edad o menores.
+
+Toma de DESCOVY con otros medicamentos
+
+Informe a su médico o farmacéutico si está tomando, ha toma-
+do  recientemente  o  pudiera  tener  que  tomar  cualquier  otro
+medicamento.  DESCOVY®  puede  interaccionar  con  otros  medica-
+mentos. Como consecuencia, los niveles sanguíneos de DESCOVY® o
+de otros medicamentos pueden verse afectados. Esto puede impedir
+
+que sus medicamentos funcionen correctamente o empeorar sus po-
+sibles efectos adversos. En algunos casos, su médico puede tener que
+ajustar la dosis o comprobar sus concentraciones sanguíneas.
+
+Medicamentos utilizados para tratar la infección por el virus de
+la hepatitis B
+No debe tomar DESCOVY® con medicamentos que contengan:
+•  Tenofovir alafenamida.
+•  Tenofovir disoproxil.
+•  Lamivudina.
+•  Adefovir dipivoxil.
+
+ Consulte con su médico si está tomando alguno de estos me-
+
+dicamentos.
+
+Otros tipos de medicamentos
+Consulte con su médico si está tomando:
+•  Antibióticos,  utilizados  para  tratar  las  infecciones  bacterianas
+
+incluyendo la tuberculosis, que contengan:
+ ~ Rifabutina, claritromicina y telitromicina.
+
+•  Medicamentos antivirales utilizados para tratar la hepatitis C:
+
+ ~ Boceprevir.
+
+•  Medicamentos antivirales utilizados para tratar el VIH:
+
+ ~ Emtricitabina y tipranavir.
+
+•  Anticonvulsivos,  utilizados  para  tratar  la  epilepsia,  como  por
+
+ejemplo:
+ ~ Carbamazepina, oxcarbazepina, fenobarbital y fenitoína.
+
+•  Medicamentos a base de plantas utilizados para tratar la depre-
+
+sión y la ansiedad que contengan:
+ ~ Hierba de San Juan (Hypericum perforatum).
+
+ Informe a su médico si está tomando estos u otros medica-
+mentos. No interrumpa su tratamiento sin consultar con su médico.
+
+¿Cómo debo tomar DESCOVY®?
+
+Siga  exactamente  las  instrucciones  de  administración  de  este  me-
+dicamento  indicadas  por  su  médico.  En  caso  de  duda,  consulte  de
+nuevo a su médico o farmacéutico.
+
+La dosis recomendada es
+Adultos: un comprimido al día con o sin alimentos.
+Adolescentes de 12 años de edad o mayores, que pesen al menos
+35 kg: un comprimido al día con o sin alimentos.
+
+No mastique, triture ni parta el comprimido.
+Tome siempre la dosis recomendada por su médico. Esto es para
+asegurar que su medicamento sea completamente efectivo, y para re-
+ducir el riesgo de desarrollo de resistencia al tratamiento. No cambie
+la dosis salvo que su médico le diga que lo haga.
+
+Si toma más DESCOVY® del que debe
+Si  toma  accidentalmente  más  de
+la  dosis  recomendada  de
+DESCOVY®,  puede  correr  mayor  riesgo  de  experimentar  posibles
+efectos adversos con este medicamento (ver sección ¿Cuáles son los
+posibles efectos secundarios de DESCOVY®?).
+Consulte inmediatamente a su médico o acuda al servicio de urgen-
+cias más cercano. Lleve consigo el frasco de comprimidos para que
+pueda describir fácilmente qué ha tomado.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones”.
+
+Si olvidó tomar DESCOVY®
+Es importante que no olvide una dosis de DESCOVY®.
+Si olvida una dosis:
+•  Si se da cuenta dentro de las 18 horas posteriores a la hora a
+la que normalmente toma DESCOVY®, tiene que tomar el compri-
+mido tan pronto como sea posible. Tome el comprimido siempre
+con alimentos. Luego tome la dosis siguiente de la forma habitual.
+•  Si se da cuenta 18 horas o más después de la hora a la que nor-
+malmente toma DESCOVY®, no tome la dosis olvidada. Espere y
+
+tome la siguiente dosis, con alimentos, a la hora habitual.
+
+Si vomita antes de que transcurra 1 hora tras haber tomado
+DESCOVY®, tome otro comprimido con alimentos.
+
+No interrumpa el tratamiento con DESCOVY®
+No interrumpa el tratamiento con DESCOVY® sin hablar antes
+con  su  médico.  Interrumpir  DESCOVY®  puede  afectar  gravemente
+su respuesta a tratamientos futuros. Si se interrumpe DESCOVY® por
+algún motivo, consulte con su médico antes de reiniciar la toma de
+comprimidos de DESCOVY®.
+Cuando vea que le queda poca cantidad de DESCOVY®, acuda a
+su médico. Esto es muy importante, ya que la cantidad de virus puede
+empezar a aumentar si el medicamento se interrumpe incluso durante
+un corto periodo de tiempo. Es posible que entonces la enfermedad se
+vuelva más difícil de tratar.
+Si tiene tanto una infección por VIH como hepatitis B, es espe-
+cialmente  importante  no  suspender  su  tratamiento  con  DESCOVY®
+sin  antes  hablar  con  su  médico.  Puede  necesitar  hacerse  análisis
+de  sangre  durante  varios  meses  tras  suspender  el  tratamiento.  En
+algunos pacientes con enfermedad hepática avanzada o cirrosis, no
+se recomienda suspender el tratamiento ya que esto puede producir
+un empeoramiento de su hepatitis, situación que puede ser potencial-
+mente mortal.
+
+ Hable con su médico inmediatamente acerca de síntomas nue-
+vos o inusuales tras suspender su tratamiento, particularmente sínto-
+mas que asocie con la infección por el virus de la hepatitis B.
+Si tiene cualquier otra duda sobre el uso de este medicamento, pre-
+gunte a su médico o farmacéutico.
+
+¿Qué debo evitar mientras tomo DESCOVY®?
+No dé el pecho durante el tratamiento con DESCOVY®. Ver sec-
+ción ¿Cuál es la información más importante que debo conocer sobre
+DESCOVY®?
+No tome ningún otro medicamento que contenga uno o mas de
+los principios activos de DESCOVY®. No tome los medicamentos
+mencionados en la sección ¿Qué debo informar a mi médico antes de
+tomar DESCOVY®?
+No  conduzca  ni  maneje  máquinas  si  se  siente  cansado  después  de
+tomar el medicamento.
+
+¿Cuáles son los posibles efectos secundarios de DESCOVY®?
+Al igual que todos los medicamentos, este medicamento puede pro-
+ducir efectos adversos, aunque no todas las personas los sufran.
+
+Posibles efectos adversos graves: informe a un médico inme-
+diatamente
+•  Cualquier  signo  de  inflamación  o  infección.  En  algunos  pa-
+cientes con infección avanzada por el VIH (SIDA) y que han sufrido
+infecciones oportunistas en el pasado (infecciones que ocurren en
+personas  con  un  sistema  inmunitario  débil),  se  pueden  producir
+signos  y  síntomas  de  inflamación  por  infecciones  previas  poco
+después de iniciar el tratamiento antirretroviral. Se cree que estos
+síntomas se deben a una mejoría de la respuesta inmunitaria del
+organismo, que le permite combatir infecciones que podrían haber
+estado presentes sin síntomas obvios.
+
+•  Se pueden producir también trastornos autoinmunitarios (el sis-
+tema inmunitario ataca a los tejidos sanos del organismo), después
+de que empiece a tomar medicamentos para la infección por el VIH.
+Los trastornos autoinmunitarios se pueden producir muchos meses
+después del inicio del tratamiento. Esté atento a cualquier síntoma
+de infección u otros síntomas, como:
+ ~ Debilidad muscular.
+ ~ Debilidad que se inicia en las manos y los pies y se desplaza hacia
+
+el tronco.
+
+ ~ Palpitaciones, temblor o hiperactividad
+
+ Si nota cualquiera de los efectos adversos descritos más arri-
+
+ba, informe a su médico inmediatamente.
+
+Efectos adversos muy frecuentes
+(Pueden afectar a más de 1 de cada 10 personas)
+•  Ganas de vomitar (náuseas).
+
+Efectos adversos frecuentes
+(Pueden afectar hasta 1 de cada 10 personas)
+•  Sueños anormales.
+
+•  Dolor de cabeza.
+•  Mareo.
+•  Diarrea.
+•  Vómitos.
+•  Dolor de estómago.
+•  Gases (flatulencia).
+•  Erupción.
+•  Cansancio (fatiga).
+
+Efectos adversos poco frecuentes
+(pueden afectar hasta 1 de cada 100 personas)
+•  Baja cantidad de glóbulos rojos (anemia).
+•  Problemas digestivos que generan molestias después de las comi-
+
+das (dispepsia).
+
+•  Hinchazón de la cara, labios, lengua o garganta (angioedema).
+•  Picazón (prurito).
+•  Erupción (urticaria).
+•  Dolor en las articulaciones (artralgia).
+
+ Si considera que alguno de los efectos adversos que sufre es
+
+grave, informe a su médico.
+
+Otros efectos que se pueden observar durante el tratamiento
+contra el VIH
+La frecuencia de los siguientes efectos adversos no es conocida (la fre-
+cuencia no puede estimarse a partir de los datos disponibles).
+•  Problemas óseos. Algunos pacientes tratados con medicamentos
+antirretrovirales combinados como DESCOVY® pueden desarrollar
+una  enfermedad  de  los  huesos  llamada  osteonecrosis  (muerte
+del tejido óseo debida a una pérdida del suministro de sangre al
+hueso). Tomar este tipo de medicamentos durante un tiempo pro-
+longado, tomar corticosteroides, beber alcohol, tener un sistema
+inmunitario muy débil y tener sobrepeso pueden ser algunos de los
+muchos factores de riesgo para desarrollar esta enfermedad. Los
+signos de osteonecrosis son:
+ ~ Rigidez articular.
+ ~ Molestias y dolor articular (especialmente de la cadera, la rodilla
+
+y el hombro).
+
+ ~ Dificultades para moverse.
+
+ Si nota cualquiera de estos síntomas, informe a su médico.
+
+Durante el tratamiento del VIH puede haber un aumento en el peso
+y en los niveles de glucosa y lípidos en la sangre. Esto puede estar
+en parte relacionado con la recuperación de la salud y con el estilo
+de vida y en el caso de los lípidos en la sangre, algunas veces con los
+medicamentos  para  el  VIH  por  sí  mismos.  Su  médico  le  controlará
+estos cambios.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico,
+incluso si se trata de posibles efectos adversos que no aparecen en
+este prospecto.
+“Ante cualquier inconveniente con el producto usted puede llenar la
+ficha que está en la Página Web de la ANMAT:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos,  o  llamar  a
+ANMAT responde al 0800-333-1234”.  También puede comunicarse
+al Departamento de Farmacovigilancia Gador S.A., a farmacovigilan-
+cia@gador.com o al teléfono 0800-220-2273.
+Mediante la comunicación de efectos no deseados usted puede con-
+tribuir  a  proporcionar  más  información  sobre  la  seguridad  de  este
+medicamento.
+
+¿Cómo debo conservar DESCOVY®?
+
+Conservar a temperatura inferior a 30°C.
+Mantener  este  medicamento  fuera  de  la  vista  y  del  alcance  de  los
+niños.
+No utilice este medicamento después de la fecha de caducidad que
+aparece en la caja y en el frasco. La fecha de caducidad es el último día
+del mes que se indica.
+Conservar en el embalaje original para protegerlo de humedad. Man-
+tener el frasco perfectamente cerrado.
+Los medicamentos no se deben tirar por los desagües ni a la basura.
+Pregunte a su farmacéutico cómo deshacerse de los envases y de los
+medicamentos que ya no necesita. De esta forma, ayudará a proteger
+el medio ambiente.
+
+Información general sobre DESCOVY®
+
+DESCOVY® 200 mg/10mg
+Comprimido recubierto, de color gris, en forma rectangular, marcado
+en una de las caras con “GSI” y en la otra cara del comprimido con “210”.
+
+DESCOVY® 200 mg/25mg
+Comprimido recubierto, de color azul, en forma rectangular, marcado
+en una de las caras con “GSI” y en la otra cara del comprimido con “225”.
+
+DESCOVY® se presenta en frascos de 30 comprimidos (con un dese-
+cante de gel de sílice que debe conservarse en el frasco para ayudar a
+proteger los comprimidos). El desecante de gel de sílice está conteni-
+do en un sobre o recipiente separado, y no se debe tomar.
+
+¿Cuáles son los componentes de DESCOVY®?
+
+Composición de DESCOVY® 200 mg/10 mg
+
+Los principios activos son:
+Emtricitabina y tenofovir alafenamida. Cada comprimido recubierto
+de DESCOVY® contiene 200 mg de emtricitabina y tenofovir alafena-
+mida fumarato equivalente a 10 mg de tenofovir alafenamida.
+
+Los demás componentes son:
+Núcleo: Celulosa microcristalina, croscarmelosa sódica, estearato de
+magnesio.
+Cubierta:  Alcohol  polivinílico  parcialmente  hidrolizado,  dióxido  de
+titanio, macrogol 3350, talco, óxido de hierro negro.
+
+Composición de DESCOVY® 200 mg/25 mg
+
+Los principios activos son
+Emtricitabina y tenofovir alafenamida. Cada comprimido recubierto
+de DESCOVY® contiene 200 mg de emtricitabina y tenofovir alafena-
+mida fumarato equivalente a 25 mg de tenofovir alafenamida.
+
+Los demás componentes son
+Núcleo: Celulosa microcristalina, croscarmelosa sódica, estearato de
+magnesio.
+Cubierta:  Alcohol  polivinílico,  dióxido  de  titanio,  macrogol  3350,
+talco,índigo carmín laca alumínica.
+
+© 2020 Gilead Sciences, Inc. Todos los derechos reservados.
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica.”
+
+“MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS”.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A.
+
+Elaborado en Patheon Inc., 2100 Syntex Court, Mussussauga, Ontario, Canadá.
+
+Representado, Comercializado y Distribuido por Gador S.A.
+
+Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Ciencias Farmacéuticas.
+
+E.M.A.M.S. Certificado N° 58.285
+
+Fecha de la última revisión: 03/2020
+
+AR-JUN19-EU-JUN19
+
+G00202202-02

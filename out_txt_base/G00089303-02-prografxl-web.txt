@@ -1,0 +1,2312 @@
+PROGRAF® XL
+TACROLIMUS 0,5; 1; 3 y 5 mg
+Cápsulas de acción prolongada
+Venta bajo receta archivada                                                                                                                                                                                                Industria irlandesa
+
+COMPOSICIÓN
+Cada cápsula de PROGRAF® XL 0,5 mg contiene:
+Tacrolimus
+Excipientes:
+0,15 mg
+Hipromelosa
+0,15 mg
+Etilcelulosa
+53,64 mg
+Lactosa monohidrato
+0,55 mg
+Estearato de magnesio
+Componentes  de  la  cápsula  de  gelatina  dura:  gelatina,  dióxido  de
+titanio,  óxido  de  hierro  amarillo,  óxido  de  hierro  rojo,  lauril  sulfato
+de sodio.
+Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+0,5 mg
+
+1 mg
+
+Cada cápsula de PROGRAF® XL 1 mg contiene:
+Tacrolimus
+Excipientes:
+0,3 mg
+Hipromelosa
+0,3 mg
+Etilcelulosa
+107,28 mg
+Lactosa monohidrato
+Estearato de magnesio
+1,1 mg
+Componentes  de  la  cápsula  de  gelatina  dura:  gelatina,  dióxido  de
+titanio,  óxido  de  hierro  amarillo,  óxido  de  hierro  rojo,  lauril  sulfato
+de sodio.
+Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+3 mg
+
+Cada cápsula de PROGRAF® XL 3 mg contiene:
+Tacrolimus
+Excipientes:
+Hipromelosa
+0,9 mg
+Etilcelulosa
+0,9 mg
+Lactosa monohidrato
+321,84 mg
+3,3 mg
+Estearato de magnesio
+Componentes  de  la  cápsula  de  gelatina  dura:  gelatina,  dióxido  de
+titanio,  óxido  de  hierro  amarillo,  óxido  de  hierro  rojo,  lauril  sulfato
+de sodio.
+Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+Cada cápsula PROGRAF® XL 5 mg contiene:
+Tacrolimus                                                                                                              5 mg
+Excipientes:
+Hipromelosa                                                                                                      1,5 mg
+Etilcelulosa                                                                                                         1,5 mg
+Lactosa monohidrato                                                                                536,4 mg
+Estearato de magnesio                                                                                   5,5 mg
+Componentes  de  la  cápsula  de  gelatina  dura:  gelatina,  dióxido  de
+titanio,  óxido  de  hierro  amarillo,  óxido  de  hierro  rojo,  lauril  sulfato
+de sodio.
+Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+ACCIÓN TERAPÉUTICA
+Inmunosupresor del grupo de los macrólidos.
+
+CÓDIGO ATC
+L04AD02
+
+INDICACIONES
+Profilaxis del rechazo de aloinjertos en adultos receptores de aloinjertos
+renales y hepáticos. Tratamiento del rechazo de aloinjertos resistente al
+tratamiento con otros medicamentos inmunosupresores en pacientes
+adultos.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de acción
+El ingrediente activo de PROGRAF® XL es el tacrolimus, un macrólido
+con potente actividad inmunosupresora in vitro e in vivo. La evidencia
+experimental demuestra que el tacrolimus inhibe la formación de lin-
+focitos citotóxicos, que son los principales responsables del rechazo del
+injerto. El tacrolimus suprime la activación de los linfocitos T y la proli-
+feración de los linfocitos B dependientes de linfocitos T cooperadores,
+además la formación de linfocinas (como la interleucina 2, la interleuci-
+na 3 y el interferón γ) y la expresión del receptor de la interleucina 2. La
+evidencia experimental sugiere que el tacrolimus se une a la proteína
+intracelular  FKBP-12.  Se  forma,  entonces,  un  complejo  de  tacroli-
+mus-FKBP12, calcio, calmodulina y calcineurina y se inhibe la actividad
+fosfatasa de la calcineurina. El complejo tacrolimus-FKBP-12 se une a la
+calcineurina en forma específica y competitiva y la inhibe, lo que condu-
+ce a la inhibición dependiente del calcio de las vías de transducción de
+señales de los linfocitos T, y el posterior impedimento de la transcripción
+de un conjunto diferenciado de genes para linfocinas.
+
+PROPIEDADES FARMACOCINÉTICAS
+Absorción
+En el hombre se ha demostrado que el tacrolimus puede ser absorbido
+a través del tracto gastrointestinal. Por lo general, el tacrolimus dispo-
+nible se absorbe rápido. PROGRAF® XL es una formulación de acción
+prolongada  del  tacrolimus  que  produce  un  perfil  de  absorción  oral
+prolongado, con un tiempo promedio hasta la máxima concentración
+sanguínea (Cmáx) de aproximadamente 2 horas.
+
+La  absorción  es  variable,  y  la  media  de  la  biodisponibilidad  oral  del
+tacrolimus (investigada con la formulación PROGRAF) se encuentra en
+el intervalo del 20% al 25% (intervalo individual en pacientes adultos:
+6% - 43%). La biodisponibilidad oral de PROGRAF® XL disminuyó cuan-
+do éste fue administrado después de una comida. Tanto la tasa como
+el grado de absorción de PROGRAF® XL se redujeron al administrarlo
+junto con alimentos.
+
+El flujo biliar no influye en la absorción del tacrolimus; por lo tanto, el
+tratamiento con PROGRAF® XL puede iniciarse por vía oral. Existe una
+fuerte  correlación  entre  el  ABC  y  los  niveles  mínimos  sanguíneos  de
+PROGRAF® XL en estado de equilibrio. Por este motivo, el monitoreo
+de los niveles mínimos sanguíneos ofrece una buena estimación de la
+exposición sistémica.
+
+Distribución
+El tacrolimus es una sustancia de baja tasa de aclaramiento. En personas
+sanas, la tasa promedio del aclaramiento corporal total calculado a par-
+tir de concentraciones sanguíneas fue de 2,25 L/h. En pacientes adultos
+trasplantados de hígado, riñón y corazón se han observado valores de
+aclaramiento corporal total de 4,1 L/h, 6,7 L/h y 3,9 L/h, respectivamen-
+te. Se considera que las mayores tasas de aclaramiento observadas des-
+pués de trasplantes son consecuencia de ciertos factores, como bajos
+valores de hematocrito y proteínas (que dan lugar al aumento de la frac-
+ción libre del tacrolimus) o los aumentos del metabolismo provocados
+por los corticoesteroides.
+
+En la circulación sistémica, el tacrolimus se une firmemente a los eri-
+trocitos  en  grado  considerable  y  produce  un  cociente  de  distribución
+de sangre entera/plasma de aproximadamente 20:1. En el plasma, el
+tacrolimus  se  une  con  alta  afinidad  (>  98,8%)  preferentemente  a  las
+proteínas plasmáticas, en especial a la α-1-glucoproteína ácida y la al-
+búmina sérica.
+
+El  tacrolimus  se  distribuye  ampliamente  en  el  cuerpo.  A  partir  de  las
+concentraciones plasmáticas, el volumen de distribución en estado de
+equilibrio  es  de  aproximadamente  1,300  L  (en  personas  sanas).  Los
+resultados  correspondientes  basados  en  determinaciones  en  sangre
+entera mostraron un promedio de 47,6 L.
+
+zar una exposición suficiente al fármaco en el período inmediatamente
+posterior al trasplante. Dado que tacrolimus es una sustancia con baja
+tasa de aclaramiento, puede que transcurran varios días antes de que se
+alcance el estado de equilibrio después de hacer ajustes de dosis en el
+tratamiento con PROGRAF® XL.
+
+Metabolismo
+El  tacrolimus  sufre  un  metabolismo  extenso  en  el  hígado,  principal-
+mente por el citocromo P450-3A4 (CYP3A4) y el citocromo P450-3A5
+(CYP3A5);  también  es  metabolizado  considerablemente  en  la  pared
+intestinal. Se han identificado varios metabolitos. Se ha demostrado in
+vitro que solo uno de estos metabolitos presenta actividad inmunosu-
+presora parecida a la del tacrolimus. Los demás metabolitos muestran
+actividad inmunosupresora débil o nula. En la circulación sistémica solo
+uno de los metabolitos inactivos está presente en bajas concentracio-
+nes. Por lo tanto, los metabolitos no contribuyen a la actividad farma-
+cológica del tacrolimus.
+
+Eliminación
+Tras la administración oral e intravenosa de tacrolimus marcado con C14,
+la mayor parte del marcador radioactivo se eliminó en las heces. Aproxi-
+madamente el 2% de la radioactividad se eliminó en la orina. Se detectó
+menos del 1% de tacrolimus no metabolizado en la orina y las heces, lo
+que indica que el fármaco se metaboliza casi totalmente antes de ser
+eliminado;  la  bilis  es  la  principal  vía  de  eliminación.  La  semivida  del
+tacrolimus es prolongada y variable. En individuos sanos, la semivida
+promedio en sangre completa es de aproximadamente 43 horas.
+
+POSOLOGÍA Y ADMINISTRACIÓN
+Consideraciones generales
+El  tratamiento  con  PROGRAF®  XL  requiere  un  monitoreo  minucioso
+realizado  por  personal  debidamente  certificado  y  equipado.  La  pres-
+cripción  de  este  medicamento  y  cualquier  cambio  en  el  tratamiento
+inmunosupresor  deberán  estar  a  cargo  exclusivamente  de  médicos
+experimentados  en  dichos  tratamientos  y  en  el  manejo  de  pacientes
+trasplantados.
+
+Las  dosis  iniciales  recomendadas  que  se  presentan  más  abajo  es-
+tán  destinadas  a  servir  únicamente  como  guía.  El  tratamiento  con
+PROGRAF® XL deberá basarse principalmente en evaluaciones clínicas
+individuales de rechazo y tolerabilidad en cada paciente, con ayuda del
+monitoreo de los niveles sanguíneos. Si se observan signos clínicos de
+rechazo, debe considerarse la posibilidad de modificar el tratamiento
+inmunosupresor.
+
+Los riesgos relativos de toxicidad y ausencia de eficacia están relaciona-
+dos con las concentraciones mínimas de tacrolimus en sangre entera.
+Por lo tanto, se recomienda monitorear las concentraciones mínimas en
+sangre entera para facilitar la evaluación clínica de toxicidad y ausencia
+de eficacia.
+
+PROGRAF® XL suele administrarse junto con otros inmunosupresores en
+las primeras etapas del período postrasplante. La dosis de tacrolimus
+podría variar en función del tratamiento inmunosupresor que se elija así
+como del tipo de trasplante de órgano.
+
+Conversión a otra formulación
+En pacientes estables convertidos de PROGRAF cápsulas (dos veces al
+día) a PROGRAF® XL (una vez al día) con una proporción 1:1 (mg:mg)
+respecto a la dosis diaria total, la exposición sistémica al tacrolimus con
+(ABC0-24) PROGRAF® XL fue aproximadamente un 10% menor que con
+PROGRAF. La relación entre los niveles mínimos de tacrolimus (C24) y la
+exposición sistémica (ABC0-24) de las dos formulaciones (PROGRAF® XL
+y PROGRAF) es similar. Al realizar la conversión de PROGRAF cápsulas a
+PROGRAF® XL, deberán determinarse los niveles mínimos de tacrolimus
+antes de la conversión y, en las dos semanas siguientes a la conversión
+deberán ajustarse las dosis para garantizar que se mantengan unas ex-
+posiciones sistémicas similares.
+
+En  pacientes  con  trasplante  de  riñón  e  hígado  de  novo,  los  valores
+del  ABC0-24  de  tacrolimus  para  PROGRAF®  XL  el  día  1  fueron  30%  y
+50%  inferiores,  respectivamente,  en  comparación  con  las  cápsulas
+de liberación inmediata (PROGRAF) en dosis equivalentes. El día 4, la
+exposición sistémica (determinada en función de los niveles mínimos)
+en  los  pacientes  con  trasplante  de  hígado  y  riñón  es  similar  entre  las
+dos formulaciones. Se recomienda monitorear minuciosamente y con
+frecuencia los niveles mínimos de tacrolimus durante las primeras dos
+semanas postrasplante de tratamiento con PROGRAF® XL, para garanti-
+
+En  los  pacientes  que  no  puedan  tomar  medicación  oral  durante  el
+período  inmediatamente  posterior  al  trasplante,  el  tratamiento  con
+tacrolimus se puede iniciar por vía intravenosa (PROGRAF 5 mg/mL en
+concentrado para solución para infusión) a una dosis aproximada de 1/5
+de la dosis oral recomendada para esa indicación.
+
+Pautas para la correcta administración
+Se recomienda administrar la dosis oral  diaria de PROGRAF® XL una
+vez al día por las mañanas. Las cápsulas duras de acción prolongada
+de PROGRAF® XL deben tomarse inmediatamente después de sacarlas
+del envase blíster. Debe indicarse a los pacientes que no ingieran el
+desecante.  Las  cápsulas  deben  tragarse  enteras  con  líquido  (preferi-
+blemente agua).
+Para maximizar la absorción, PROGRAF® XL por lo general deberá ad-
+ministrarse con el estómago vacío, o al menos 1 hora antes o 2-3 horas
+después de ingerir alimentos (consulte Propiedades farmacocinéticas).
+Toda dosis omitida por la mañana deberá tomarse lo antes posible ese
+mismo día. No deberá tomarse una dosis doble la mañana siguiente.
+
+Duración de los tratamientos
+Es imprescindible mantener la inmunosupresión para prevenir el rechazo
+del trasplante. Por este motivo, no es posible establecer un límite en
+cuanto a la duración del tratamiento por vía oral.
+
+Recomendaciones de administración: trasplante de riñón
+Profilaxis para rechazo del trasplante
+El tratamiento oral con PROGRAF® XL debe iniciarse con una dosis de
+0,20-0,30 mg/kg/día administrada una vez al día por las mañanas. La
+administración  debe  iniciarse  dentro  de  las  24  horas  posteriores  a  la
+finalización de la intervención quirúrgica.
+
+Ajuste de la dosis durante el período postrasplante
+Durante  el  período  postrasplante  es  habitual  ajustar  la  dosis  de
+PROGRAF® XL. En algunos casos es posible suspender el tratamiento
+inmunosupresor  concomitante  y  administrar  solo  PROGRAF®  XL  en
+monoterapia.
+
+Recomendaciones de administración: trasplante de hígado
+Profilaxis para rechazo del trasplante
+El tratamiento oral con PROGRAF® XL debe iniciarse con una dosis de
+0,10-0,20 mg/kg/día administrada una vez al día por las mañanas. La
+administración debe iniciarse aproximadamente 12-18 horas después
+de finalizada la intervención quirúrgica.
+
+Ajuste de la dosis durante el período postrasplante
+Durante  el  período  postrasplante  es  habitual  reducir  la  dosis  de
+PROGRAF® XL. En algunos casos es posible suspender el tratamiento
+inmunosupresor concomitante y administrar solo PROGRAF® XL en mo-
+noterapia. Los cambios en el estado del paciente después del trasplante
+podrían  influir  en  la  farmacocinética  del  tacrolimus  y  requerir  ajustes
+ulteriores de la dosis.
+
+Recomendaciones  sobre  posología:  conversión  de  pacientes  tratados
+con PROGRAF a PROGRAF® XL
+Los pacientes con aloinjertos que reciban tratamiento de mantenimiento
+con PROGRAF cápsulas dos veces al día y que requieran conversión a
+PROGRAF® XL una vez al día deberán ser convertidos en una proporción
+1:1 (mg:mg) respecto a la dosis diaria total. PROGRAF® XL debe admi-
+nistrarse por las mañanas.
+
+Tratamiento  del  rechazo  de  aloinjertos  después  de  un  trasplante  de
+riñón o hígado en pacientes en fase de mantenimiento con tacrolimus
+Para manejar los episodios de rechazo se ha recurrido al aumento de
+las  dosis  de  tacrolimus  y  al  agregado  de  tratamientos  inmunosupre-
+sores  concomitantes.  Si  se  observan  signos  de  toxicidad  (tales  como
+reacciones adversas graves), puede que sea necesario reducir la dosis
+de PROGRAF® XL.
+
+Tratamiento  del  rechazo  de  aloinjertos  después  de  un  trasplante  de
+riñón o hígado en pacientes en fase de mantenimiento con otros inmu-
+nosupresores
+Para realizar la conversión de otros inmunosupresores a PROGRAF® XL
+
+una vez al día, debe iniciarse el tratamiento con las respectivas dosis
+orales iniciales recomendadas en trasplantes de riñón e hígado como
+profilaxis del rechazo del trasplante.
+
+Tratamiento  del  rechazo  de  aloinjertos  después  de  un  trasplante  de
+corazón en pacientes en fase de mantenimiento con otros inmunosu-
+presores
+Los pacientes adultos convertidos a PROGRAF® XL deberán recibir una
+dosis oral inicial de 0,15 mg/kg/día una vez al día por las mañanas.
+
+Tratamiento del rechazo de aloinjertos después del trasplante de otros
+aloinjertos
+Aunque  no  se  dispone  de  experiencia  en  estudios  clínicos  con
+PROGRAF® XL en pacientes con trasplante de pulmón, páncreas o in-
+testinos,  PROGRAF  se  ha  administrado  a  pacientes  con  trasplante  de
+pulmón en dosis orales iniciales de 0,10 - 0,15 mg/kg/día; en pacientes
+con trasplante de páncreas en dosis orales iniciales de 0,2 mg/kg/día, y
+en trasplantes intestinales en dosis orales iniciales de 0,3 mg/kg/día.
+
+Ajustes de la dosis en poblaciones específicas de pacientes
+Pacientes con insuficiencia hepática
+Puede que sea necesario reducir la dosis en pacientes que sufran dis-
+función hepática grave, para mantener los niveles sanguíneos mínimos
+dentro de los límites recomendados.
+
+Pacientes con insuficiencia renal
+La función renal no afecta la farmacocinética del tacrolimus, por lo que
+normalmente no es necesario hacer ajustes de la dosis. Sin embargo,
+debido a la capacidad nefrotóxica del tacrolimus, se recomienda moni-
+torear meticulosamente la función renal (con determinaciones seriadas
+de la creatinina sérica, cálculo del aclaramiento de creatinina y monito-
+reo de la diuresis).
+
+Raza
+En comparación con los pacientes de raza caucásica, los pacientes de
+raza negra podrían requerir dosis más altas de tacrolimus para poder
+lograr niveles mínimos similares.
+
+Sexo
+No existen pruebas de que los hombres y las mujeres requieran dosis
+distintas para poder lograr niveles mínimos similares.
+
+Pacientes pediátricos
+No se ha confirmado aún la seguridad ni la eficacia de PROGRAF® XL
+en niños menores de 18 años. Se cuenta con algunos datos, pero no se
+pueden formular recomendaciones posológicas.
+
+Pacientes de edad avanzada
+En la actualidad no hay datos disponibles que indiquen que haya que
+ajustar las dosis en pacientes de edad avanzada.
+
+Conversión de ciclosporina a PROGRAF® XL
+Debe  procederse  con  cuidado  al  cambiar  a  los  pacientes  de  un  trata-
+miento  con  ciclosporina  a  un  tratamiento  con  tacrolimus  (consulte
+Reacciones adversas y advertencias). El tratamiento con PROGRAF® XL
+deberá  iniciarse  después  de  evaluar  las  concentraciones  sanguíneas
+de ciclosporina y el estado clínico del paciente. En presencia de altos
+niveles  sanguíneos  de  ciclosporina  deberá  demorarse  el  tratamiento.
+En la práctica, el tratamiento con tacrolimus se inicia 12-24 horas des-
+pués  de  suspender  el  tratamiento  con  ciclosporina.  Dado  que  puede
+haberse visto afectado el aclaramiento de la ciclosporina, se deberán
+seguir monitoreando sus niveles sanguíneos después de la conversión.
+Comúnmente se ha dejado un intervalo de 24 horas entre la suspensión
+de la ciclosporina y el inicio del tacrolimus.
+
+Recomendaciones respecto a la mediana de las concentraciones
+en los niveles mínimos en sangre entera
+La dosis deberá basarse principalmente en evaluaciones clínicas indivi-
+duales de rechazo y tolerancia en cada paciente, con ayuda del monitoreo
+de  los  niveles  sanguíneos  mínimos  del  tacrolimus  en  sangre  entera.
+Para  facilitar  la  optimización  de  la  dosis  hay  varias  técnicas  de  inmu-
+noensayo que permiten determinar las concentraciones de tacrolimus
+en sangre entera. Deberá realizarse una comparación cuidadosa entre
+las concentraciones publicadas en la literatura y los valores individuales
+determinados  en  la  práctica  clínica,  tomando  en  cuenta  los  métodos
+analíticos utilizados. En la práctica clínica actual se determinan los valo-
+res en sangre entera mediante métodos inmunoanalíticos.
+La relación entre los niveles mínimos de tacrolimus (C24) y la exposición
+
+sistémica (ABC0-24) de las dos formulaciones (PROGRAF® XL y PROGRAF)
+es similar.
+
+Deben  monitorearse  los  niveles  sanguíneos  mínimos  de  tacrolimus
+durante el período postrasplante. Los niveles sanguíneos mínimos de
+PROGRAF® XL deberán determinarse aproximadamente 24 horas des-
+pués de la administración de la dosis, justo antes de la dosis siguiente.
+En las primeras dos semanas postrasplante se recomienda monitorear
+el nivel mínimo con frecuencia, y luego monitorearlo periódicamente
+durante  la  fase  de  mantenimiento.  También  deberán  monitorearse
+minuciosamente los niveles sanguíneos mínimos del tacrolimus en los
+siguientes casos: tras la conversión de PROGRAF a PROGRAF® XL; des-
+pués de hacer ajustes de la dosis; cuando haya cambios en el tratamien-
+to  inmunosupresor,  o  si  se  administran  simultáneamente  sustancias
+que podrían alterar las concentraciones del tacrolimus en sangre entera
+(consulte Interacciones farmacológicas). La frecuencia del monitoreo de
+los niveles sanguíneos deberá basarse en las necesidades clínicas. Dado
+que PROGRAF® XL es un medicamento con una tasa de aclaramiento
+lento, puede que transcurran varios días hasta lograr el estado de equi-
+librio deseado después de hacer ajustes en la dosis.
+
+El análisis de los estudios clínicos indica que puede manejarse eficaz-
+mente a la mayoría de los pacientes si los niveles sanguíneos mínimos
+del  tacrolimus  se  mantienen  por  debajo  de  20  ng/mL.  Al  interpretar
+niveles en sangre entera debe tomarse en cuenta el estado clínico del
+paciente. En la práctica clínica, durante las primeras etapas del período
+posoperatorio los niveles mínimos en sangre entera detectados suelen
+ser de 5-20 ng/mL en pacientes trasplantados de hígado y 10-20 ng/
+mL en pacientes trasplantados de riñón y corazón. Posteriormente, du-
+rante la fase de mantenimiento, las concentraciones sanguíneas de los
+pacientes trasplantados de hígado, riñón y corazón deben mantenerse
+entre 5-15 ng/mL.
+
+CONTRAINDICACIONES
+PROGRAF® XL está contraindicado en pacientes con hipersensibilidad al
+tacrolimus u otros macrólidos o a cualquiera de los excipientes.
+
+ADVERTENCIAS ESPECIALES Y PRECAUCIONES DE EMPLEO
+Error de medicación
+Se  han  producido  errores  de  medicación  consistentes  en  cambios
+involuntarios, accidentales o no supervisados entre las formulaciones
+de tacrolimus de acción inmediata y de liberación prolongada que han
+provocado reacciones adversas graves (incluso el rechazo del injerto) u
+otras  reacciones  adversas  posiblemente  derivadas  de  una  exposición
+excesiva  o  subóptima  al  tacrolimus.  Los  pacientes  deben  recibir  una
+única formulación de tacrolimus, con el esquema posológico diario co-
+rrespondiente, y los cambios de formulación o de esquema solo deben
+hacerse bajo la estrecha supervisión de un especialista en trasplantes.
+Aún no se dispone de datos clínicos sobre el uso de la formulación de
+liberación prolongada PROGRAF® XL en el tratamiento del rechazo de
+aloinjertos  resistente  al  tratamiento  con  otros  inmunosupresores  en
+pacientes adultos.
+Aún no se dispone de datos clínicos sobre el uso de PROGRAF® XL en la
+profilaxis del rechazo del trasplante en adultos receptores de un aloin-
+jerto cardíaco.
+Durante el período postrasplante inmediato, se deben vigilar en forma
+rutinaria los siguientes parámetros: presión arterial, ECG, estado neuro-
+lógico y visual, glucemia en ayunas, electrolitos (sobre todo el potasio),
+pruebas de funcionamiento hepático y renal, parámetros hemáticos y
+de coagulación y valores de proteínas plasmáticas. Si se observan cam-
+bios de interés clínico, debe considerarse la conveniencia de ajustar el
+esquema inmunosupresor.
+
+Sustancias con potencial de interacción
+Los inhibidores o inductores de la CYP3A4 solo se deben administrar de
+manera concomitante con tacrolimus tras consultar con un especialista
+en trasplantes debido a que el potencial de interacción farmacológica
+podría  producir  reacciones  adversas  graves,  incluidos  el  rechazo  o  la
+toxicidad.
+
+Inhibidores de la CYP3A4
+El uso concomitante con inhibidores de la CYP3A4 puede aumentar los
+niveles  sanguíneos  de  tacrolimus,  lo  que  podría  provocar  reacciones
+adversas graves, que incluyen la nefrotoxicidad, neurotoxicidad y pro-
+longación del QT. Se recomienda evitar el uso concomitante de inhibi-
+dores  potentes  de  la  CYP3A4  (como  ritonavir,  cobicistat,  ketoconazol,
+itraconazol,  posaconazol,  voriconazol,  telitromicina,  claritromicina  o
+josamicina)  con  tacrolimus.  Si  no  se  puede  evitar,  deben  vigilarse  las
+
+concentraciones  sanguíneas  del  tacrolimus  con  frecuencia  desde  los
+primeros días de la administración concomitante, bajo la supervisión de
+un especialista en trasplantes, para ajustar su dosis, si corresponde, a fin
+de mantener una exposición similar al tacrolimus.
+También se deben monitorear atentamente la función renal, el ECG (in-
+cluido el intervalo QT) y el estado clínico del paciente.
+El ajuste de la dosis debe basarse en la situación particular de cada pa-
+ciente. Es posible que se requiera una reducción inmediata de la dosis
+al inicio del tratamiento.
+
+De manera similar, la suspensión de los inhibidores de la CYP3A4 puede
+afectar la tasa de metabolismo del tacrolimus, lo que puede provocar
+niveles sanguíneos subterapéuticos de tacrolimus. Esto requiere el mo-
+nitoreo y la supervisión de un especialista en trasplantes.
+
+Inductores de la CYP3A4
+El  uso  concomitante  de  inductores  de  la  CYP3A4  puede  reducir  los
+niveles  sanguíneos  de  tacrolimus,  lo  que  puede  aumentar  el  riesgo
+de  rechazo  del  trasplante.  Se  recomienda  evitar  el  uso  concomitante
+de  inductores  potentes  de  la  CYP3A4  (como  rifampicina,  fenitoína  o
+carbamazepina) con tacrolimus. Si no se puede evitar, deben vigilarse
+las concentraciones sanguíneas del tacrolimus con frecuencia desde los
+primeros días de la administración concomitante, bajo la supervisión de
+un especialista en trasplantes, para ajustar su dosis, si corresponde, a fin
+de mantener una exposición similar al tacrolimus. También debe moni-
+torearse minuciosamente la función del injerto.
+De manera similar, la suspensión de los inductores de la CYP3A4 puede
+afectar la tasa de metabolismo del tacrolimus, lo que puede provocar
+niveles  sanguíneos  supraterapéuticos  de  tacrolimus.  Esto  requiere  el
+monitoreo y la supervisión de un especialista en trasplantes.
+
+Glicoproteína-P
+Se debe tener precaución cuando se coadministre tacrolimus con fárma-
+cos que inhiben la glicoproteína-P, ya que puede producirse un aumento
+de los niveles de tacrolimus. Los niveles de tacrolimus en sangre entera y
+la condición clínica del paciente deben ser monitoreados de cerca. Pue-
+de ser necesario un ajuste de la dosis de tacrolimus.
+
+Productos de fitoterapia
+Los  pacientes  tratados  con  PROGRAF®  XL  deben  abstenerse  de  con-
+sumir productos de fitoterapia que contengan hipérico (hierba de San
+Juan, Hypericum perforatum) u otros productos de fitoterapia, debido
+a la posibilidad de que se produzcan interacciones que den lugar a una
+disminución de las concentraciones sanguíneas del tacrolimus y de su
+efecto clínico, o a un aumento de dichas concentraciones y del riesgo de
+toxicidad por tacrolimus.
+
+Uso en pacientes que reciben ciclosporina
+Debe evitarse la coadministración de ciclosporina y tacrolimus y debe
+tenerse  precaución  cuando  se  administre  tacrolimus  a  pacientes  que
+hayan estado tomando ciclosporina.
+
+Hiperpotasemia
+Se  ha  informado  hiperpotasemia  con  el  uso  de  tacrolimus.  Se  deben
+controlar los niveles de potasio en suero. Se debe evitar el uso conco-
+mitante  de  diuréticos  ahorradores  de  potasio  o  la  ingesta  elevada  de
+potasio.
+
+Nefrotoxicidad
+El  tacrolimus  puede  provocar  insuficiencia  renal  postrasplante  en  los
+pacientes. La insuficiencia renal aguda, sin que se tome ninguna acción,
+puede derivar en una insuficiencia renal crónica. Se debe controlar aten-
+tamente a los pacientes con insuficiencia renal ya que es posible que
+se  deba  reducir  o  suspender  transitoriamente  la  dosis  de  tacrolimus.
+La insuficiencia renal aguda sin un tratamiento eficaz puede progresar
+y convertirse en insuficiencia renal crónica, que se caracteriza por dis-
+función renal progresiva, aumento de los niveles de urea en sangre y
+proteinuria. Debe evitarse el uso concomitante de tacrolimus con medi-
+camentos con efectos nefrotóxicos conocidos. Cuando no pueda evitarse,
+se deben monitorear atentamente los niveles sanguíneos mínimos de
+tacrolimus y la función renal y, de ocurrir una nefrotoxicidad, debe ana-
+lizarse reducir la dosis.
+La  coadministración  del  tacrolimus  con  ciertos  fármacos  de  efectos
+neurotóxicos conocidos puede aumentar el riesgo de aparición de tales
+efectos.
+
+Vacunas
+Los inmunosupresores pueden afectar la respuesta a las vacunas. Du-
+
+rante el tratamiento con tacrolimus, la vacunación podría ser menos efi-
+caz. Se debe evitar el uso de vacunas con organismos vivos atenuados.
+
+Trastornos gastrointestinales
+Se han comunicado casos de perforación gastrointestinal en pacientes
+tratados con tacrolimus. Debido a que la perforación gastrointestinal es
+un evento médico importante capaz de provocar una situación grave o
+potencialmente mortal, una vez que aparezcan síntomas o signos sospe-
+chosos debe contemplarse la instauración inmediata de los tratamientos
+pertinentes.
+
+Las concentraciones sanguíneas del tacrolimus pueden cambiar signifi-
+cativamente durante los episodios de diarrea, por lo cual se recomienda
+una mayor vigilancia de las concentraciones de tacrolimus durante tales
+episodios.
+
+Trastornos cardíacos
+En  pacientes  tratados  con  PROGRAF  se  han  observado  casos  poco
+frecuentes  de  hipertrofia  ventricular  o  de  hipertrofia  septal  (noti-
+ficados  como  miocardiopatías)  que  podrían  aparecer  también  con
+PROGRAF®  XL.  En  su  mayoría  se  trató  de  casos  reversibles  que  se
+produjeron  con  concentraciones  sanguíneas  valle  de  tacrolimus  muy
+superiores a las concentraciones máximas recomendadas. Se ha obser-
+vado que la preexistencia de cardiopatías, el uso de corticosteroides, la
+hipertensión arterial, la disfunción renal o hepática, las infecciones, la
+sobrecarga de líquidos y el edema son factores que aumentan el riesgo
+de aparición de estos trastornos clínicos. Por lo tanto, los pacientes de
+alto  riesgo  sometidos  a  una  inmunosupresión  importante  deben  ser
+supervisados  con  técnicas  como  la  ecocardiografía  o  el  ECG  antes  y
+después del trasplante (por ejemplo, primero a los 3 meses y después
+a los 9-12 meses). En caso de observarse anomalías, debe contemplar-
+se la conveniencia de reducir la dosis de PROGRAF® XL o de cambiar el
+tratamiento  a  otro  inmunosupresor.  El  tacrolimus  puede  prolongar  el
+intervalo QT y causar taquicardia ventricular helicoidal (Torsade de poin-
+tes). Debe tenerse precaución en los pacientes que presenten factores
+de riesgo de prolongación del intervalo QT, como por ejemplo aquellos
+con antecedentes personales o familiares de prolongación del intervalo
+QT,  insuficiencia  cardíaca  congestiva,  bradiarritmias  y  desequilibrios
+electrolíticos.  También  debe  tenerse  precaución  en  los  pacientes  con
+diagnóstico  o  sospecha  de  síndrome  congénito  de  QT  prolongado  o
+de prolongación adquirida del QT, así como en los pacientes que estén
+recibiendo tratamientos concomitantes conocidos por prolongar el in-
+tervalo  QT,  por  inducir  desequilibrios  electrolíticos  o  por  aumentar  la
+exposición al tacrolimus.
+
+Trastornos linfoproliferativos y neoplasias malignas
+En  pacientes  tratados  con  tacrolimus  se  ha  descrito  la  aparición  de
+trastornos  linfoproliferativos  asociados  al  virus  de  Epstein-Barr  (EBV).
+La  coadministración  de  ciertos  inmunosupresores,  como  por  ejemplo
+los anticuerpos antilinfocíticos (tales como el basiliximab o el daclizu-
+mab), aumenta el riesgo de aparición de trastornos linfoproliferativos
+asociados al EBV. Se ha descrito que los pacientes que no presentan el
+antígeno de la cápside viral (VCA) del EBV corren más riesgo de desarro-
+llar trastornos linfoproliferativos, por lo que en este grupo de pacientes
+debe  determinarse  la  presencia  o  ausencia  del  VCA  del  EBV  antes  de
+iniciar el tratamiento con PROGRAF® XL. Se recomienda una vigilancia
+estrecha mediante la reacción en cadena de la polimerasa (PCR) para el
+EBV durante el tratamiento. La positividad al EBV por PCR puede persistir
+por varios meses y no es, por sí misma, indicativa de la existencia de un
+linfoma o un trastorno linfoproliferativo.
+Como sucede con otros inmunosupresores, debido al riesgo de apari-
+ción de cambios cutáneos malignos, debe restringirse la exposición a
+la luz solar y a la luz ultravioleta mediante el uso de ropa protectora y de
+protectores solares con un factor de protección elevado.
+Como sucede con otros inmunosupresores potentes, se desconoce cuál
+es el riesgo de aparición de neoplasias malignas secundarias.
+
+Síndrome de encefalopatía posterior reversible (SEPR)
+En pacientes tratados con tacrolimus se han descrito casos de aparición
+del  síndrome  de  encefalopatía  posterior  reversible  (SEPR).  Si  un  pa-
+ciente  tratado  con  tacrolimus  presenta  síntomas  indicadores  de  SEPR
+(p.  ej.,  dolor  de  cabeza,  alteración  del  estado  mental,  convulsiones  y
+alteraciones visuales), deberá hacerse un estudio radiológico (p. ej., una
+resonancia magnética). Si se diagnostica el SEPR, se aconseja instaurar
+medidas suficientes de control de la presión arterial y de las convulsio-
+nes, así como suspender de inmediato la administración sistémica de
+tacrolimus. La mayoría de los pacientes se recupera por completo una
+vez tomadas las medidas pertinentes.
+
+Infecciones que incluyen infecciones oportunistas
+Los pacientes tratados con inmunosupresores, entre ellos PROGRAF® XL,
+corren  más  riesgo  de  contraer  infecciones  oportunistas  (bacterianas,
+fúngicas, virales y protozoarias), entre las cuales figuran la infección por
+CMV, la nefropatía asociada al virus BK y la leucoencefalopatía multifo-
+cal progresiva (LMP) asociada al virus JC. Los pacientes también corren
+más riesgo de contraer infecciones con hepatitis vírica (por ejemplo, la
+reactivación de la hepatitis B y C y la infección de novo, así como la he-
+patitis E, que podría volverse crónica). Estas infecciones se deben a me-
+nudo a un elevado grado total de inmunosupresión y pueden provocar
+problemas médicos graves o mortales, incluido el rechazo del injerto,
+que los médicos deben tener en cuenta al efectuar el diagnóstico dife-
+rencial en los pacientes inmunosuprimidos que presenten deterioro del
+funcionamiento renal o síntomas neurológicos.
+
+Trastornos oculares
+Se ha informado la ocurrencia de trastornos oculares, a veces con pérdi-
+da de visión, en pacientes tratados con tacrolimus. En algunos casos se
+ha informado su resolución al cambiar a un tratamiento inmunosupre-
+sor alternativo. Debe advertirse a los pacientes que informen cualquier
+cambio en la agudeza visual, la visión de los colores, visión borrosa o
+defecto  del  campo  visual.  En  tales  casos,  se  recomienda  realizar  una
+evaluación  inmediata  y  derivar  al  paciente  a  un  oftalmólogo,  según
+corresponda.
+
+Microangiopatía trombótica (MAT) (incluidos síndrome urémico hemolí-
+tico (SUH) y púrpura trombocitopénica trombótica (PTT))
+Debe considerarse el diagnóstico de MAT, incluidos púrpura tromboci-
+topénica trombótica (PTT) y síndrome urémico hemolítico (SUH), que a
+veces llevan a insuficiencia renal o a un desenlace fatal, en los pacientes
+que presentan anemia hemolítica, trombocitopenia, fatiga, manifesta-
+ción neurológica fluctuante, disfunción renal y fiebre. Si se diagnostica
+MAT, se requiere un tratamiento inmediato y debe considerarse la sus-
+pensión de tacrolimus a criterio del médico tratante.
+La administración concomitante de tacrolimus con un inhibidor de blan-
+co de la rapamicina en mamíferos (mTOR) (p. ej., sirolimus, everolimus)
+puede  aumentar  el  riesgo  de  microangiopatía  trombótica  (incluidos
+síndrome urémico hemolítico y púrpura trombocitopénica trombótica).
+
+Eritroblastopenia
+En pacientes tratados con tacrolimus se han notificado casos de eritro-
+blastopenia.  Todos  los  pacientes  presentaban  factores  de  riesgo  para
+ella, como por ejemplo infección por el parvovirus B19, enfermedades
+subyacentes o tratamiento concomitante con medicamentos asociados
+a la eritroblastopenia.
+
+Poblaciones especiales
+La experiencia en pacientes de raza diferente a la caucásica y en pacien-
+tes con riesgo inmunitario elevado (p. ej., pacientes retrasplantados o
+evidencia de anticuerpos reactivos contra el panel, ARP) es limitada.
+
+Pacientes pediátricos
+Dada la escasez de los datos de seguridad y/o eficacia disponibles, no
+está recomendado el uso de PROGRAF® XL en niños menores de 18 años.
+
+Pacientes con insuficiencia hepática
+En los pacientes con insuficiencia hepática grave puede ser necesario
+reducir la dosis de PROGRAF® XL.
+
+Excipientes
+Dado que PROGRAF® XL contiene lactosa, los pacientes con intolerancia
+hereditaria a galactosa, insuficiencia total de lactasa o malabsorción de
+glucosa o galactosa no deben tomar este medicamento. La tinta que se
+emplea para las leyendas marcadas en las cápsulas de PROGRAF® XL
+contiene lecitina de soja. En los pacientes hipersensibles al maní o a la
+soja, el riesgo y la gravedad de tal hipersensibilidad deberán sopesarse
+frente al beneficio que conlleve el uso de PROGRAF® XL. Este medica-
+mento  contiene  menos  de  1  mmol  de  sodio  (23  mg)  por  cápsula,  es
+decir, es esencialmente “exento de sodio”.
+
+INTERACCIÓN CON OTROS MEDICAMENTOS Y OTRAS FORMAS
+DE INTERACCIÓN
+
+Interacciones metabólicas
+El tacrolimus presente en la circulación sistémica se metaboliza a través
+de la CYP3A4 hepática, y también hay pruebas de su metabolismo gas-
+trointestinal a través de la CYP3A4 de la pared intestinal. El uso concomi-
+
+tante de medicamentos o productos de fitoterapia de efecto inhibidor o
+inductor de la CYP3A4 conocido puede afectar el metabolismo del tacro-
+limus y de ese modo aumentar o disminuir la concentración sanguínea
+del tacrolimus. De manera similar, la suspensión de tales medicamentos
+o productos de fitoterapia puede afectar la tasa de metabolismo del ta-
+crolimus y, por lo tanto, sus niveles en sangre.
+
+Los estudios farmacocinéticos se ha observado que el aumento de los
+niveles de tacrolimus en sangre cuando se lo coadministra con inhibi-
+dores de la CYP3A4 se debe sobre todo al aumento de la biodisponibi-
+lidad oral del tacrolimus provocado por la inhibición del metabolismo
+gastrointestinal, mientras que el efecto sobre la depuración hepática es
+menos marcado.
+
+Siempre que se coadministren sustancias capaces de alterar el metabo-
+lismo mediado por la CYP3A4, es muy recomendable vigilar estrecha-
+mente las concentraciones sanguíneas de tacrolimus bajo la supervisión
+de un especialista en trasplantes, así como monitorear la función del
+injerto, la prolongación del intervalo QT (mediante un ECG), el funcio-
+namiento renal y otros efectos secundarios, incluida la neurotoxicidad,
+y ajustar o interrumpir según corresponda la dosis del tacrolimus para
+mantener  exposiciones  similares  de  este.  De  manera  similar,  debe
+monitorearse atentamente a los pacientes que empleen tacrolimus de
+manera concomitante con múltiples sustancias que afecten la CYP3A4,
+dado que podrían aumentarse o contrarrestarse los efectos en la expo-
+sición al tacrolimus.
+
+La siguiente tabla enumera los medicamentos que tienen efecto sobre
+tacrolimus. Los ejemplos de interacciones medicamentosas no preten-
+den ser inclusivos ni exhaustivos y, por lo tanto, se deberá consultar el
+prospecto  de  cada  medicamento  que  se  coadministra  con  tacrolimus
+para  verificar  la  información  relativa  a  la  ruta  metabólica,  las  vías  de
+interacción, los riesgos potenciales y las medidas específicas que deben
+adoptarse en relación con la administración concomitante. (Ver Tabla).
+
+La administración concomitante de tacrolimus con un inhibidor de blan-
+co de la rapamicina en mamíferos (mTOR) (p. ej., sirolimus, everolimus)
+puede aumentar el riesgo de microangiopatía trombótica (incluidos sín-
+drome urémico hemolítico y púrpura trombocitopénica trombótica) (ver
+sección advertencias especiales y precauciones de empleo).
+
+El tratamiento con tacrolimus puede causar hiperpotasemia o agravar la
+hiperpotasemia existente, por lo que se debe evitar la ingesta elevada
+de potasio y el uso de diuréticos ahorradores de potasio (p. ej., amilori-
+da, triamtereno o espironolactona). (ver sección advertencias especiales
+y precauciones de empleo). Se debe tener precaución cuando tacroli-
+mus se coadministra con otros agentes que aumentan el potasio en sue-
+ro,  como  trimetoprima  y  cotrimoxazol  (trimetoprima/sulfametoxazol),
+ya que se sabe que la trimetoprima actúa como un diurético ahorrador
+de potasio, como la amilorida. Se recomienda realizar un monitoreo mi-
+nucioso del potasio en suero.
+
+Efecto del tacrolimus sobre el metabolismo de otros medicamentos
+El tacrolimus es un inhibidor conocido de la CYP3A4; por lo tanto, su
+uso concomitante con medicamentos que se metabolicen a través de
+CYP3A4 puede afectar el metabolismo de dichos medicamentos.
+
+La semivida de la ciclosporina se prolonga cuando se coadministra tacro-
+limus, y pueden presentarse efectos nefrotóxicos sinérgicos o aditivos.
+Por ello, no se recomienda la coadministración de ciclosporina y tacro-
+limus y debe tenerse precaución al administrar tacrolimus a pacientes
+que hayan estado tomando ciclosporina.
+Se  ha  demostrado  que  el  tacrolimus  aumenta  la  concentración  san-
+guínea de la fenitoína. Dado que el tacrolimus puede disminuir la de-
+puración de los anticonceptivos esteroideos y provocar así una mayor
+exposición  a  las  hormonas,  se  debe  tener  especial  cuidado  al  decidir
+métodos anticonceptivos.
+
+Se  tiene  poca  información  sobre  las  interacciones  entre  el  tacrolimus
+y las estatinas. Los datos clínicos indican que la coadministración del
+tacrolimus no altera en lo esencial la farmacocinética de las estatinas.
+Los datos obtenidos en animales indican que el tacrolimus podría dis-
+minuir  la  depuración  del  pentobarbital  y  la  antipirina  y  aumentar  la
+semivida de estos fármacos.
+
+Ácido micofenólico. Se debe tener cuidado al cambiar la terapia com-
+binada de la ciclosporina, que interfiere con la recirculación enterohe-
+pática del ácido micofenólico, a tacrolimus (que carece de este efecto),
+
+Medicamentos que tienen efectos sobre tacrolimus
+
+Clase o nombre del
+medicamento/sustancia
+
+Efecto de la
+interacción farmacológica
+
+Recomendaciones relativas
+a la coadministración
+
+Pomelo o jugo de pomelo
+
+Puede aumentar las concentraciones mínimas
+en sangre de tacrolimus y aumentar el riesgo
+de que ocurran reacciones adversas graves (p.
+ej., neurotoxicidad, prolongación del QT) [ver
+sección advertencias especiales y precauciones
+de empleo].
+
+Evitar el pomelo y el jugo de pomelo.
+
+Ciclosporina
+
+Puede aumentar las concentraciones mínimas
+en sangre de tacrolimus y pueden presentarse
+efectos nefrotóxicos sinérgicos o aditivos.
+
+Se debe evitar el uso concomitante de ciclos-
+porina y tacrolimus [ver sección advertencias
+especiales y precauciones de empleo].
+
+Productos con efectos nefrotóxicos o
+neurotóxicos conocidos:
+
+Pueden potenciar los efectos nefrotóxicos o
+neurotóxicos de tacrolimus.
+
+aminoglucósidos, inhibidores de la
+girasa, vancomicina, sulfametoxazol +
+trimetoprima, AINE1, ganciclovir, aciclovir,
+anfotericina B, ibuprofeno, cidofovir,
+foscarnet
+
+Inhibidores potentes de la CYP3A4:
+
+agentes antifúngicos (p. ej., ketoconazol,
+itraconazol, posaconazol, voriconazol),
+antibióticos macrólidos (p. ej., telitromi-
+cina, troleandomicina, claritromicina, jo-
+samicina), inhibidores de la proteasa
+del VIH (p. ej., ritonavir, nelfinavir,
+saquinavir), inhibidores de la proteasa
+del VHC (p. ej., telaprevir, boceprevir y la
+combinación de ombitasvir y paritaprevir
+con ritonavir, cuando se utiliza con y sin
+dasabuvir), nefazodona, el potenciador
+farmacocinético cobicistat y los inhibido-
+res de quinasas idelalisib, ceritinib.
+
+También se han observado fuertes
+interacciones con el antibiótico macrólido
+eritromicina.
+
+Inhibidores de la CYP3A4 moderados
+o débiles:
+
+agentes antifúngicos (p. ej., fluconazol,
+isavuconazol, clotrimazol, miconazol),
+antibióticos macrólidos (p. ej., azitro-
+micina), bloqueadores de los canales
+de calcio (p. ej., nifedipino, nicardipino,
+diltiazem, verapamilo), amiodarona,
+danazol, etinilestradiol, lansoprazol,
+omeprazol, los antivirales VHC elbasvir/
+grazoprevir y glecaprevir/pibrentasvir, el
+antiviral CMV letermovir y los inhibidores
+de la tirosina quinasa nilotinib, crizotinib
+e imatinib, y productos fitoterapéuticos
+(chinos) que contienen extractos de Schi-
+sandra sphenanthera
+
+In vitro, se ha demostrado que las
+siguientes sustancias son potenciales
+inhibidores del metabolismo del tacroli-
+mus: bromocriptina, cortisona, dapsona,
+ergotamina, gestodeno, lidocaína,
+mefenitoína, midazolam, nilvadipino,
+noretisterona, quinidina, tamoxifeno
+
+Se recomienda evitar el uso concomitante de
+tacrolimus con medicamentos con efectos ne-
+frotóxicos conocidos. Cuando no se pueda evitar
+la coadministración, se deben monitorear la
+función renal y otros efectos adversos y ajustar
+la dosis de tacrolimus en caso de ser necesario.
+
+Se recomienda evitar el uso concomitante. Si
+no se puede evitar la coadministración de un
+inhibidor potente de la CYP3A4, se debe evaluar
+la necesidad de omitir la dosis de tacrolimus
+el día en que se inicia la administración del
+inhibidor potente de la CYP3A4. Reanudar la
+administración de tacrolimus al día siguiente
+a una dosis reducida, según su concentración
+en sangre. Los cambios en la dosis y en la fre-
+cuencia de administración de tacrolimus deben
+identificarse y ajustarse, si fuera necesario, en
+función de las concentraciones mínimas de
+tacrolimus, que se deben evaluar al inicio, mo-
+nitorear con frecuencia durante el tratamiento
+(desde los primeros días) y reevaluar una vez
+que se complete el inhibidor del CYP3A4 y
+con posterioridad. Una vez finalizado, la dosis
+y la frecuencia de administración apropiadas
+de tacrolimus deben basarse en las concen-
+traciones de tacrolimus en sangre. Se deben
+monitorear atentamente la función renal, el ECG
+para detectar una prolongación del QT y otros
+efectos adversos.
+
+Monitorear frecuentemente las concentraciones
+mínimas en sangre de tacrolimus desde los pri-
+meros días de la administración concomitante.
+Reducir la dosis de tacrolimus, si es necesa-
+rio [ver sección posología y administración].
+Monitorear atentamente la función renal, el ECG
+para detectar una prolongación del QT y otros
+efectos adversos.
+
+Puede aumentar las concentraciones mínimas
+en sangre de tacrolimus y aumentar el riesgo
+de reacciones adversas graves (p. ej., nefrotoxi-
+cidad, neurotoxicidad, prolongación del QT), lo
+que requiere un minucioso monitoreo [ver
+sección advertencias especiales y precauciones
+de empleo].
+
+Se pueden producir aumentos rápidos y
+pronunciados en los niveles de tacrolimus ya
+entre el primer y el tercer día de la administración
+concomitante, a pesar de la reducción inmediata
+de la dosis de tacrolimus. La exposición global
+al tacrolimus puede aumentar más de 5 veces.
+Cuando se coadministran combinaciones de rito-
+navir, la exposición al tacrolimus puede aumentar
+más de 50 veces.
+Es posible que casi todos los pacientes requieran
+una reducción de la dosis de tacrolimus y también
+puede ser necesario interrumpirlo tempora-
+riamente.
+
+El efecto en las concentraciones sanguíneas de
+tacrolimus puede perdurar durante varios días
+una vez finalizada la coadministración.
+
+Pueden aumentar las concentraciones mínimas
+en sangre de tacrolimus y aumentar el riesgo de
+reacciones adversas graves (p. ej., neurotoxicidad,
+prolongación del QT) [ver sección advertencias
+especiales y precauciones de empleo]. Puede
+ocurrir un aumento rápido del nivel de tacrolimus.
+
+Pueden aumentar las concentraciones mínimas
+en sangre de tacrolimus y aumentar el riesgo de
+reacciones adversas graves (p. ej., neurotoxicidad,
+prolongación del intervalo QT) [ver sección adver-
+tencias especiales y precauciones de empleo].
+
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y reducir la dosis de tacro-
+limus, si es necesario [ver sección posología y
+administración].
+Monitorear atentamente la función renal, el ECG
+para detectar una prolongación del QT y otros
+efectos adversos.
+
+Inductores potentes de la CYP3A4:
+
+rifampicina, fenitoína, carbamazepina,
+apalutamida, enzalutamida, mitotano o
+hierba de San Juan (Hypericum per-
+foratum)
+
+Pueden reducir las concentraciones mínimas en
+sangre de tacrolimus y aumentar el riesgo de
+rechazo [ver sección advertencias especiales y
+precauciones de empleo].
+
+El efecto máximo sobre las concentraciones
+sanguíneas de tacrolimus puede alcanzarse en la
+primera o segunda semana posterior a la coadmi-
+nistración. El efecto puede permanecer entre 1 a
+2 semanas una vez completado el tratamiento.
+
+Inductores moderados de la CYP3A4:
+
+metamizol (dipirona), fenobarbital,
+isoniazida, rifabutina, efavirenz, etravirina,
+nevirapina; inductores débiles de la
+CYP3A4: flucloxacilina
+Caspofungina
+
+Canabidiol (Inhibidor gp-P)
+
+Productos con alta afinidad conocida por
+las proteínas plasmáticas, p. ej.: AINE,
+anticoagulantes orales, antidiabéticos
+orales
+
+Agentes procinéticos: metoclopramida,
+cimetidina e hidróxido de magne-
+sio-aluminio
+
+Pueden reducir las concentraciones mínimas en
+sangre de tacrolimus y aumentar el riesgo de
+rechazo [ver sección advertencias especiales y
+precauciones de empleo].
+
+Pueden reducir las concentraciones mínimas en
+sangre de tacrolimus y aumentar el riesgo de
+rechazo. No se ha confirmado el mecanismo de
+interacción.
+
+Ha habido informes de aumento de los niveles
+sanguíneos de tacrolimus durante el uso conco-
+mitante de tacrolimus con canabidiol. Esto puede
+deberse a la inhibición de la glicoproteina P
+intestinal, lo que lleva a una mayor biodisponibili-
+dad de tacrolimus.
+
+El tacrolimus se une en elevado porcentaje a las
+proteínas plasmáticas. Debe tenerse en cuenta la
+posibilidad de interacciones con otros principios
+activos de gran afinidad conocida por las proteínas
+plasmáticas.
+Pueden aumentar las concentraciones mínimas
+en sangre de tacrolimus y aumentar el riesgo de
+reacciones adversas graves (p. ej., neurotoxicidad,
+prolongación del QT).
+
+Dosis de mantenimiento de los corti-
+costeroides
+
+Pueden reducir las concentraciones mínimas en
+sangre de tacrolimus y aumentar el riesgo de
+rechazo [ver sección advertencias especiales y
+precauciones de empleo].
+
+Dosis elevadas de prednisolona o
+metilprednisolona
+
+Pueden afectar los niveles sanguíneos de tacroli-
+mus (aumento o reducción) cuando se administra
+para el tratamiento del rechazo agudo.
+
+Tratamiento antiviral de acción directa
+(AAD)
+
+Puede afectar la farmacocinética de tacrolimus
+mediante cambios en la función hepática durante
+el tratamiento AAD, relacionado con el aclaramien-
+to del virus de la hepatitis. Puede producirse una
+reducción de los niveles sanguíneos de tacrolimus.
+
+Sin embargo, el potencial inhibidor de la CYP3A4
+de algunos AAD puede contrarrestar ese efecto o
+provocar un aumento de los niveles sanguíneos
+de tacrolimus.
+
+Se recomienda evitar el uso concomitante. Si
+no se puede evitar, es posible que los pacientes
+requieran un aumento de la dosis de tacroli-
+mus. Los cambios en la dosis de tacrolimus se
+deben identificar y ajustar, si es necesario, en
+función de las concentraciones mínimas de
+tacrolimus, las que se deben evaluar al inicio,
+monitorear con frecuencia durante el tratamien-
+to (desde los primeros días) y reevaluar cuando
+se complete la administración del inductor de
+la CYP3A4 y con posterioridad. Una vez finaliza-
+do el uso del inductor de la CYP3A4, es posible
+que sea necesario ajustar gradualmente la
+dosis de tacrolimus. Monitorear atentamente la
+función del injerto.
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y aumentar la dosis de
+tacrolimus si es necesario [ver sección posología
+y administración].
+Monitorear atentamente la función del injerto.
+
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y aumentar la dosis de
+tacrolimus si es necesario [ver sección posología
+y administración].
+Monitorear atentamente la función del injerto.
+Tacrolimus y canabidiol se deben coadministrar
+con precaución y se deben monitorear de cerca
+los efectos secundarios. Monitoree las concentra-
+ciones mínimas de tacrolimus en sangre entera y
+ajuste la dosis de tacrolimus si es necesario [ver
+secciones Posología y Administración y Adverten-
+cias especiales y precauciones de empleo]
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y ajustar la dosis de
+tacrolimus si es necesario [ver sección posología
+y administración].
+
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y reducir la dosis de
+tacrolimus si es necesario [ver sección posología
+y administración].
+Monitorear atentamente la función renal, la
+prolongación del QT mediante ECG y otros
+efectos adversos.
+Monitorear las concentraciones mínimas en
+sangre de tacrolimus y aumentar la dosis de
+tacrolimus si es necesario [ver sección posología
+y administración].
+Monitorear atentamente la función del injerto.
+Monitorear las concentraciones mínimas en san-
+gre de tacrolimus y ajustar la dosis de tacrolimus
+si es necesario.
+
+Monitorear las concentraciones mínimas en san-
+gre de tacrolimus y ajustar la dosis de tacrolimus,
+si es necesario, para garantizar la continuidad de
+la eficacia y la seguridad.
+
+dado que podría provocar cambios en la exposición al ácido micofenó-
+lico. Los medicamentos que interfieren con el ciclo enterohepático del
+ácido micofenólico pueden reducir el nivel de plasma y la eficacia del
+ácido micofenólico. Se recomienda realizar el monitoreo farmacológico
+terapéutico del ácido micofenólico al cambiar de la ciclosporina al ta-
+crolimus y viceversa.
+
+Los inmunosupresores pueden afectar la respuesta a las vacunas. Du-
+rante el tratamiento con tacrolimus, la vacunación podría ser menos efi-
+caz. Se debe evitar el uso con vacunas de organismos vivos atenuados.
+
+Fertilidad, embarazo y lactancia
+Embarazo
+Los datos obtenidos en seres humanos indican que el tacrolimus atravie-
+sa la placenta y los infantes expuestos al tacrolimus en el útero pueden
+correr el riesgo de nacer prematuros, tener defectos de nacimiento/ano-
+malías congénitas, bajo peso al nacer y sufrimiento fetal. Sin embargo,
+se han descrito casos de aborto espontáneo. A fecha de hoy, no se dispo-
+ne de datos epidemiológicos pertinentes adicionales.
+
+El tacrolimus puede aumentar la hiperglicemia en las mujeres emba-
+razadas que tienen diabetes (lo cual incluye diabetes gestacional). Se
+
+deben vigilar los niveles de glucemia de la madre periódicamente. El ta-
+crolimus puede exacerbar la hipertensión en las mujeres embarazadas y
+aumentar la preeclampsia. Se debe vigilar y controlar la presión arterial.
+Las mujeres y los hombres con capacidad reproductora deben tener en
+cuenta el uso de métodos anticonceptivos apropiados antes de iniciar el
+tratamiento con tacrolimus.
+
+Raros:
+
+Desconocidos:
+
+de  coagulación  y  hemorragia  anormales,  microan-
+giopatía trombótica.
+púrpura trombocitopénica trombótica, hipoprotrom-
+binemia.
+eritroblastopenia, agranulocitosis, anemia hemolíti-
+ca, neutropenia febril.
+
+El tratamiento con tacrolimus de mujeres embarazadas debe conside-
+rarse cuando no haya opciones más seguras y los beneficios previstos
+justifiquen el posible riesgo que conlleva para el feto. En caso de expo-
+sición en el útero, se recomienda vigilar al recién nacido para descartar
+posibles eventos adversos derivados del tacrolimus (sobre todo los de
+tipo renal).  Existe riesgo de parto prematuro (< 37 semanas), que se
+observó con una incidencia de 66 de 123 nacimientos, es decir, 53,7%
+(aunque los datos indican que la mayoría de los recién nacidos tenían un
+peso normal para su edad gestacional), y de hiperpotasemia en el recién
+nacido (que se observó con una incidencia de 8 de 111 recién nacidos, es
+decir, 7,2%) y que se normaliza de forma espontánea.
+
+En ratas y conejos, el tacrolimus causó toxicidad embriofetal en dosis
+que dieron lugar a toxicidad en las madres.
+
+Lactancia
+Sobre  la  base  de  los  informes,  el  tacrolimus  se  excreta  en  la  leche
+materna humana. No se han evaluado los efectos del tacrolimus en el
+lactante ni en la producción de leche. Como no es posible descartar efec-
+tos perjudiciales para el recién nacido, las mujeres que estén tomando
+PROGRAF® XL no deben amamantar durante el tratamiento.
+
+Trastornos del sistema inmunitario
+En pacientes tratados con tacrolimus se han observado reacciones alér-
+gicas y anafilactoides.
+
+Trastornos endocrinos
+Raros:
+
+hirsutismo.
+
+Trastornos del metabolismo y de la nutrición
+Muy frecuentes:   diabetes  mellitus,  estados  hiperglucémicos,  hiper-
+
+Frecuentes:
+
+potasemia.
+acidosis  metabólica,  otras  anomalías  electrolíticas,
+hiponatremia, sobrecarga de líquidos, hiperuricemia,
+hipomagnesemia,  hipopotasemia,  hipocalcemia,
+disminución del apetito, hipercolesterolemia, hiper-
+lipidemia, hipertrigliceridemia, hipofosfatemia.
+
+Poco frecuentes:   deshidratación,  hipoglucemia,  hipoproteinemia,
+
+hiperfosfatemia.
+
+Trastornos psiquiátricos
+Muy frecuentes:
+Frecuentes:
+
+ insomnio.
+confusión y desorientación, depresión, síntomas de
+ansiedad,  alucinaciones,  trastornos  mentales,  áni-
+mo deprimido, trastornos y alteraciones del estado
+de ánimo, pesadillas.
+trastorno psicótico.
+
+Fertilidad
+Se ha observado en ratas un efecto negativo del tacrolimus sobre la fer-
+tilidad de los machos en forma de reducción de las cifras y la movilidad
+de los espermatozoides.
+
+Poco frecuentes:
+
+Efectos  sobre  la  capacidad  para  manejar  vehículos  y  maqui-
+narias
+El tacrolimus puede causar perturbaciones visuales y neurológicas. No
+se han realizado estudios sobre los efectos del tacrolimus en la capaci-
+dad para manejar vehículos y máquinas.
+
+REACCIONES ADVERSAS
+El perfil de reacciones adversas de los inmunosupresores suele ser difícil
+de  precisar  debido  a  la  enfermedad  subyacente  y  al  uso  conjunto  de
+muchos medicamentos.
+
+Las reacciones adversas comunicadas con más frecuencia (aparecidas en
+>10% de los pacientes) son temblor, insuficiencia renal, estados hiper-
+glucémicos, diabetes mellitus, hiperpotasemia, infecciones, hiperten-
+sión arterial e insomnio.
+
+La frecuencia de las reacciones adversas se define de la siguiente mane-
+ra: muy frecuentes (≥1/10); frecuentes (de ≥1/100 a <1/10); poco fre-
+cuentes (de ≥1/1000 a <1/100); raras (de ≥1/10,000 a <1/1000); muy
+raras (<1/10,000); frecuencia desconocida (no puede calcularse con los
+datos disponibles). Dentro de cada grupo de frecuencia, las reacciones
+adversas se presentan por orden de mayor a menor gravedad.
+
+Infecciones e infestaciones
+Como  es  bien  conocido  para  otros  inmunosupresores  potentes,  los
+pacientes  tratados  con  tacrolimus  suelen  correr  mayor  riesgo  de  in-
+fecciones  (virales,  bacterianas,  fúngicas  o  protozoarias).  El  curso  de
+las  infecciones  preexistentes  puede  empeorar,  y  pueden  presentarse
+infecciones tanto generalizadas como locales. En pacientes tratados con
+inmunosupresores, entre ellos PROGRAF® XL, se han descrito casos de
+infección por CMV, nefropatía asociada al virus BK y de leucoencefalopa-
+tía multifocal progresiva (LMP) asociada al virus JC.
+
+Neoplasias benignas, malignas y no especificadas (incluidos quistes y
+pólipos)
+Los pacientes tratados con inmunosupresores tienen mayor riesgo de
+contraer cáncer. En asociación con el tratamiento con tacrolimus se han
+comunicado neoplasias benignas y malignas, como por ejemplo trastor-
+nos linfoproliferativos asociados al EBV y cáncer de piel.
+
+Trastornos de la sangre y del sistema linfático
+Frecuentes:               anemia, trombocitopenia, leucocitopenia, análisis
+                                       de glóbulos rojos anormal, leucocitosis.
+Poco frecuentes:  coagulopatías,  pancitopenia,  neutropenia,  análisis
+
+Trastornos del sistema nervioso
+Muy frecuentes:   cefalea, temblor.
+Frecuentes:
+
+trastornos del sistema nervioso, convulsiones, alte-
+raciones  de  la  consciencia,  neuropatías  periféricas,
+mareo,  parestesias  y  disestesias,  dificultad  para  la
+escritura.
+
+Poco frecuentes:   encefalopatía,  hemorragias  del  sistema  nervioso
+central y accidentes cerebrovasculares, coma, altera-
+ciones del habla y del lenguaje, parálisis y paresia,
+amnesia.
+hipertonía.
+miastenia.
+síndrome de encefalopatía posterior reversible (SEPR).
+
+Raros:
+Muy raros:
+No conocidos:
+
+Trastornos oculares
+Frecuentes:
+Poco frecuentes:   cataratas.
+ceguera.
+Raros:
+neuropatía óptica.
+Desconocida:
+
+trastornos oculares, visión borrosa, fotofobia.
+
+Trastornos del oído y del laberinto
+Frecuentes:
+Poco frecuentes:   hipoacusia.
+Raros:
+Muy raros:
+
+acúfenos.
+
+sordera neurosensorial.
+deficiencia auditiva.
+
+Trastornos cardíacos
+Frecuentes:
+
+Poco frecuentes:
+
+Raros:
+Muy raros:
+
+trastornos isquémicos de las arterias coronarias, ta-
+quicardia
+insuficiencia cardíaca, arritmias ventriculares y paro
+cardíaco, arritmias supraventriculares, miocardiopa-
+tías, hipertrofia ventricular, palpitaciones.
+ derrame pericárdico.
+Torsade de pointes.
+
+Trastornos vasculares
+Muy frecuentes:   hipertensión.
+Frecuentes:
+
+ eventos tromboembólicos e isquémicos, trastornos
+vasculares  hipotensores,  hemorragias,  vasculopa-
+tías periféricas.
+
+Poco frecuentes:   trombosis venosa profunda en extremidades, shock,
+
+infarto.
+
+Trastornos respiratorios, torácicos y mediastínicos
+Frecuentes:
+
+alteraciones del parénquima pulmonar, disnea, de-
+rrame pleural, tos, faringitis, congestión e inflama-
+
+Poco frecuentes:
+
+Raros:
+
+ción nasal.
+insuficiencia respiratoria, trastornos del aparato res-
+piratorio, asma.
+síndrome de dificultad respiratoria aguda.
+
+Trastornos gastrointestinales
+Muy frecuentes:   diarrea, náuseas.
+Frecuentes:
+
+signos  y  síntomas  gastrointestinales,  vómitos,  do-
+lores  gastrointestinales  y  abdominales,  trastornos
+inflamatorios  gastrointestinales,  hemorragias  gas-
+trointestinales, perforación y úlcera gastrointestinal,
+ascitis, estomatitis y úlceras, estreñimiento, signos y
+síntomas  dispépticos,  flatulencia,  hinchazón  y  dis-
+tensión abdominal, heces blandas
+Poco frecuentes:  pancreatitis  aguda  y  crónica,  íleo  paralítico,  enfer-
+medad  por  reflujo  gastroesofágico,  alteración  del
+vaciamiento gástrico.
+pseudoquiste pancreático, subíleo.
+
+Raros:
+
+Trastornos hepatobiliares
+Frecuentes:
+
+Raros:
+
+Muy raros:
+
+trastornos de las vías biliares, daño hepatocelular y
+hepatitis, colestasis e ictericia .
+enfermedad hepática venooclusiva, trombosis de la
+arteria hepática.
+insuficiencia hepática.
+
+Trastornos de la piel y del tejido celular subcutáneo
+Frecuentes:
+Poco frecuentes:   dermatitis, fotosensibilidad.
+Raros:
+Muy raros:
+
+necrólisis epidérmica tóxica (síndrome de Lyell).
+síndrome de Stevens-Johnson.
+
+erupción, prurito, alopecia, acné, diaforesis.
+
+Trastornos osteomusculares y del tejido conjuntivo
+Frecuentes:
+
+artralgia, lumbalgia, espasmos musculares, dolor en
+las extremidades*.
+
+Poco frecuentes:  artropatías.
+Raros:
+
+disminución de la movilidad.
+
+Trastornos renales y urinarios
+Muy frecuentes:   disfunción renal.
+Frecuentes:
+
+insuficiencia  renal,  insuficiencia  renal  aguda,  ne-
+fropatía  tóxica,  necrosis  tubular  renal,  alteraciones
+urinarias, oliguria, síntomas vesicouretrales.
+
+Poco frecuentes:   síndrome urémico hemolítico, anuria.
+Muy raros:
+
+nefropatía, cistitis hemorrágica.
+
+Trastornos del aparato reproductor y de la mama
+Poco frecuentes:  dismenorrea y hemorragia uterina.
+
+Trastornos generales y alteraciones en el lugar de administración
+Frecuentes:
+
+alteraciones  febriles,  dolor  y  malestar,  estados
+asténicos, edema, alteración de la percepción de la
+temperatura corporal.
+
+Poco  frecuentes:  afección  seudogripal,  nerviosismo,  sensación  de
+anomalía, insuficiencia multiorgánica, sensación de
+opresión en el pecho, intolerancia a la temperatura.
+caída, úlcera, tensión torácica, sed.
+aumento del tejido adiposo.
+
+Raros:
+Muy raros:
+
+Exploraciones complementarias
+Muy frecuentes:   pruebas de funcionamiento hepático anormales.
+Frecuentes:
+
+aumento de la fosfatasa alcalina sanguínea, aumen-
+to de peso.
+
+Poco frecuentes:   aumento  de  la  amilasa,  parámetros  electrocar-
+diográficos  anormales,  parámetros  de  frecuencia
+cardíaca  y  pulso  anormales,  disminución  de  peso,
+aumento de la lactato-deshidrogenasa sanguínea
+ecocardiograma anormal, prolongación del QT en el
+electrocardiograma.
+
+Muy raros:
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimien-
+tos terapéuticos
+Frecuentes:
+
+disfunción primaria del injerto.
+
+Se  han  producido  errores  de  medicación  consistentes  en  cambios
+involuntarios, accidentales o no supervisados entre las formulaciones
+
+de tacrolimus de liberación inmediata y de acción prolongada, y se han
+comunicado algunos casos de rechazo del trasplante asociados con esos
+errores (no es posible calcular la frecuencia con los datos disponibles).
+
+* En casos aislados, se ha comunicado dolor en las extremidades como
+parte del síndrome del dolor inducido por inhibidores de la calcineurina
+(CIPS, por sus siglas en inglés), que normalmente presenta dolor bila-
+teral y simétrico, intenso y ascendente en las extremidades inferiores.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar sospechas de reacciones adversas después de la
+autorización del medicamento, para permitir un monitoreo continuo de
+su relación beneficio/riesgo.
+
+Se invita a los profesionales de la salud a notificar sospechas de reaccio-
+nes adversas a través del Sistema Nacional de Farmacovigilancia:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/
+eventosadversos y/o al Departamento de Farmacovigilancia de GADOR S.A.,
+por  correo  electrónico:  farmacovigilancia@gador.com  o  por  teléfono:
+0800-220-2273.
+
+SOBREDOSIS
+La  experiencia  respecto  a  las  sobredosis  es  escasa.  Se  han  notificado
+varios casos de sobredosis accidental de tacrolimus; los síntomas obser-
+vados concuerdan con los mencionados en la sección Reacciones adver-
+sas (a saber: temblor; cefalea; náuseas y vómitos; infecciones; urticaria;
+letargo; aumento del nivel sanguíneo de nitrógeno ureico; elevación de
+las concentraciones séricas de creatinina, y aumento de los niveles de
+alanina-aminotransferasa).
+
+No existe un antídoto específico para el tacrolimus. Si se produce una
+sobredosis, deben instaurarse las medidas de apoyo habituales junto
+con un tratamiento sintomático. Debido a su alto peso molecular, baja
+solubilidad en agua y alta afinidad por las proteínas plasmáticas y los
+eritrocitos, debe suponerse que el tacrolimus no será dializable. Se han
+comunicado casos de uso oral de carbón activado en el tratamiento de
+sobredosis agudas, pero la experiencia no ha sido suficiente como para
+justificar una recomendación de empleo.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital
+más cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247.
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777.
+Optativamente, otros Centros de Intoxicaciones”.
+
+PRESENTACIONES
+Envases que contienen:
+-  PROGRAF® XL 0,5 mg, 1 mg y 5 mg se presenta en envases contenien-
+
+do 30 y 50 cápsulas de acción prolongada.
+
+-  PROGRAF® XL 3 mg se presenta en envases conteniendo 30, 50 y 100
+
+cápsulas de acción prolongada.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+PROGRAF® XL cápsulas: mantener es su envase original, a temperatura
+ambiente (entre 15oC y 30oC), en un lugar seco. Las capsulas están enva-
+sadas en blísteres con cubierta protectora de aluminio.
+
+Precauciones especiales de eliminación y otras manipulaciones
+Debido a los efectos inmunosupresores del tacrolimus, durante la pre-
+paración, debe evitarse la inhalación o el contacto directo con la piel o
+las  membranas  mucosas  de  las  formulaciones  inyectables  o  el  polvo
+contenido en los productos con tacrolimus. En caso de contacto, debe
+lavarse la piel y enjuagar el ojo o los ojos afectados.
+
+Importante:
+Las cápsulas de PROGRAF® XL deben usarse dentro de los 12 me-
+ses, una vez abierto el envase de aluminio.
+Las cápsulas deben ser ingeridas inmediatamente una vez reti-
+radas del blíster.
+NO INGERIR EL DESECANTE QUE SE ENCUENTRA EN EL INTERIOR
+DEL ENVOLTORIO DE ALUMINIO.
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica.”
+
+“MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS”
+
+Información para el paciente
+
+LEA ATENTAMENTE ESTE PROSPECTO EN SU TOTALIDAD ANTES
+DE COMENZAR A TOMAR EL MEDICAMENTO YA QUE CONTIENE
+INFORMACIÓN IMPORTANTE PARA USTED.
+
+•  Conserve este prospecto. Tal vez necesite volver a leerlo.
+•  Si tiene preguntas, consulte a su médico, farmacéutico o enfermero.
+•  Este  medicamento  ha  sido  recetado  únicamente  para  usted.  No
+lo comparta con otras personas. Podría hacerles daño, incluso si
+presentan los mismos signos de enfermedad que usted.
+
+•  Si presenta efectos secundarios, hable con su médico, farmacéu-
+tico o enfermero. Esto incluye cualquier efecto secundario posi-
+ble que no haya sido enumerado en este prospecto. Consulte la
+sección 4.
+
+CONTENIDO DE ESTE FOLLETO
+
+1. QUÉ ES PROGRAF® XL Y PARA QUÉ SE USA
+2. QUÉ DEBE SABER ANTES DE TOMAR PROGRAF® XL
+3. CÓMO TOMAR PROGRAF® XL
+4. POSIBLES EFECTOS SECUNDARIOS
+5. CÓMO ALMACENAR PROGRAF® XL
+6. CONTENIDO DEL ENVASE Y OTRA INFORMACIÓN
+
+1.  QUÉ ES PROGRAF® XL Y PARA QUÉ SE USA
+
+PROGRAF® XL es un inmunosupresor que contiene el principio acti-
+vo tacrolimus. Después de su trasplante de órgano (hígado, riñón),
+el  sistema  inmunitario  de  su  cuerpo  tratará  de  rechazar  el  nuevo
+órgano. PROGRAF® XL está indicado para controlar la respuesta del
+sistema inmunitario a fin de permitir que su cuerpo acepte el órgano
+trasplantado.
+
+También podrían indicarle PROGRAF® XL en caso de que su cuerpo
+esté rechazando el hígado, riñón, corazón u otro órgano trasplanta-
+do, si los tratamientos que usted recibió no pudieron controlar esta
+respuesta inmunitaria después de su trasplante.
+
+PROGRAF® XL está indicado para adultos.
+
+2.   QUÉ DEBE SABER ANTES DE TOMAR PROGRAF® XL
+
+No tome PROGRAF® XL:
+•  si tiene alergia (hipersensibilidad) al tacrolimus o a alguno de los
+demás componentes de PROGRAF® XL (mencionados en la sec-
+ción 6);
+
+•  si  es  alérgico  (hipersensible)  a  cualquier  antibiótico  que  perte-
+nezca al subgrupo de antibióticos macrólidos (p. ej., eritromicina,
+claritromicina, josamicina).
+
+Advertencias y precauciones
+PROGRAF y PROGRAF® XL contienen un principio activo llamado ta-
+crolimus. La diferencia entre ellos es que PROGRAF se toma dos veces
+al día mientras que PROGRAF® XL se toma una vez al día; las cápsulas
+de PROGRAF® XL permiten que el tacrolimus se libere de forma pro-
+longada (liberación más lenta a lo largo de más tiempo). PROGRAF y
+PROGRAF® XL no son intercambiables.
+
+Hable  con  su  médico,  farmacéutico  o  enfermero  antes  de  tomar
+PROGRAF® XL:
+•  si usa cualquiera de los medicamentos mencionados más adelante,
+
+en la sección “PROGRAF® XL y otros medicamentos”;
+
+su médico si desarrolla fiebre, moretones debajo de la piel (que
+pueden tener el aspecto de puntos rojos), cansancio inexplicable,
+confusión, color amarillento de la piel o los ojos, disminución de la
+excreción de orina, pérdida de la visión y convulsiones (ver sección
+4). Cuando tacrolimus se toma junto con sirolimus o everolimus, el
+riesgo de desarrollar estos síntomas puede aumentar.
+
+Evite  tomar  remedios  de  fitoterapia,  por  ej.,  hierba  de  San  Juan
+(Hypericum perforatum) o cualquier otro producto fitoterápico dado
+que podría afectar la efectividad y la dosis de PROGRAF® XL que ne-
+cesita recibir. En caso de duda, consulte a su médico antes de tomar
+cualquier producto o remedio de fitoterapia.
+
+Puede que el médico tenga que ajustarle la dosis de PROGRAF® XL.
+
+Usted  debe  mantener  contacto  regular  con  su  médico.  Ocasional-
+mente, puede que su médico tenga que solicitar análisis de sangre y
+orina así como pruebas del corazón y los ojos, para establecer la dosis
+correcta de PROGRAF® XL.
+
+Los  inmunosupresores  podrían  aumentar  el  riesgo  de  cáncer  de  la
+piel, por lo que usted deberá limitar su exposición a la luz solar y los
+rayos ultravioleta (UV) mientras tome PROGRAF® XL.
+
+Póngase  ropa  protectora  adecuada  y  aplíquese  un  filtro  solar  con
+factor de protección alto.
+
+Precauciones para su manipulación:
+Durante su preparación, debe evitar el contacto directo con cualquier
+parte del cuerpo, como la piel o los ojos, o respirar cerca de las solucio-
+nes inyectables o el polvo contenido en los productos con tacrolimus.
+En caso de contacto, lávese la piel y los ojos.
+
+Niños y adolescentes
+No se recomienda el uso de PROGRAF® XL en niños y adolescentes
+menores de 18 años de edad.
+
+PROGRAF® XL y otros medicamentos
+Informe  al  médico,  farmacéutico  o  enfermero  si  usa  o  ha  usado
+recientemente  cualquier  otro  medicamento,  incluso  los  que  se  ob-
+tienen sin necesidad de receta médica y los preparados de hierbas.
+
+No se recomienda tomar PROGRAF® XL junto con ciclosporina (otro
+medicamento  indicado  para  la  prevención  del  rechazo  de  órganos
+trasplantados).
+
+Si necesita consultar a un médico que no sea su especialista
+en  trasplantes,  infórmele  que  está  tomando  tacrolimus.  Es
+probable que su médico precise realizar una consulta con su
+especialista en trasplantes si debiera tomar otro medicamen-
+to que podría aumentar o disminuir el nivel de tacrolimus en
+sangre.
+
+Los  niveles  sanguíneos  de  PROGRAF®  XL  pueden  verse  afectados
+por  otros  medicamentos  que  usted  use;  asimismo,  los  niveles
+sanguíneos de otros medicamentos pueden verse afectados por el
+tratamiento con PROGRAF® XL. Estas interacciones podrían requerir
+la  interrupción  del  tratamiento  con  PROGRAF®  XL  o  el  aumento  o
+disminución de su dosis.
+
+•  si tiene o ha tenido problemas del hígado;
+•  si tiene diarrea durante más de un día;
+•  si tiene fuertes dolores abdominales acompañados o no de otros
+
+síntomas, como escalofríos, fiebre, náuseas o vómitos;
+
+•  si sufre una alteración de la actividad eléctrica del corazón llamada
+
+Algunos  pacientes  han  experimentado  un  aumento  en  los  niveles
+de  tacrolimus  en  sangre  mientras  tomaban  otros  medicamentos.
+Esto  podría  tener  efectos  secundarios  graves,  como  problemas  de
+los riñones, problemas del sistema nervioso y alteraciones del ritmo
+cardíaco (ver sección 4).
+
+“prolongación del QT”;
+
+•  si tiene o ha sufrido lesiones en los vasos sanguíneos más pequeños
+(conocidas como microangiopatía trombótica, púrpura tromboci-
+topénica  trombótica  y  síndrome  hemolítico  urémico).  Informe  a
+
+Los niveles de PROGRAF® XL en sangre pueden verse afectados tan
+pronto como comience a tomar otro medicamento; por lo tanto, puede
+ser necesario controlar el nivel de PROGRAF® XL en sangre durante
+
+los primeros días de haber comenzado a tomar otro medicamento y
+frecuentemente mientras continúe el tratamiento con el otro medi-
+camento.  Algunos  medicamentos  pueden  provocar  la  disminución
+de  los  niveles  de  tacrolimus  en  sangre,  lo  que  podría  aumentar  el
+riesgo de rechazo del órgano trasplantado. En particular, informe a
+su médico si usa o ha usado recientemente medicamentos como los
+siguientes:
+
+•  antifúngicos  y  antibióticos  (especialmente  los  denominados  ma-
+crólidos) indicados para tratar infecciones (por ejemplo, ketocona-
+zol,  fluconazol,  itraconazol,  posaconazol,  voriconazol,  clotrimazol,
+isavuconazol, miconazol, caspofungina, telitromicina, eritromicina,
+claritromicina,  josamicina,  azitromicina,  rifampicina,  rifabutina,
+isoniazida y flucloxacilina).
+
+•  inhibidores  de  la  proteasa  del  VIH  (por  ejemplo,  ritonavir,  nel-
+finavir,  saquinavir),  el  medicamento  de  refuerzo  cobicistat  y  los
+comprimidos de combinación, o los inhibidores no nucleósidos de
+la transcriptasa inversa del VIH (efavirenz, etravirina, nevirapina),
+indicados para tratar la infección por el VIH.
+
+•  inhibidores de la proteasa del VHC, indicados para tratar la infec-
+ción por hepatitis C (por ejemplo, telaprevir, boceprevir, la com-
+binación de ombitasvir/paritaprevir/ritonavir con o sin dasabuvir,
+elbasvir/grazoprevir y glecaprevir/pibrentasvir).
+
+•  nilotinib  e  imatinib,  idelalisib,  ceritinib,  crizotinib,  apalutamida,
+enzalutamida o mitotano (que se utiliza para tratar ciertos tipos de
+cáncer).
+
+•  ácido micofenólico, que se utiliza para suprimir el sistema inmuni-
+
+tario como prevención del rechazo del trasplante.
+
+•  medicamentos  para  las  úlceras  gástricas  y  el  reflujo  ácido  (por
+
+ejemplo, omeprazol, lansoprazol o cimetidina).
+
+•  antieméticos, indicados para tratar las náuseas y los vómitos (por
+
+ejemplo, metoclopramida).
+
+•  cisaprida o el antiácido hidróxido de magnesio-aluminio, indica-
+
+dos para tratar el ardor estomacal.
+
+•  la  píldora  anticonceptiva  u  otros  tratamientos  hormonales  con
+
+etinilestradiol o con danazol.
+
+•  medicamentos  indicados  para  tratar  la  presión  arterial  alta  o
+problemas del corazón (por ejemplo, nifedipina, nicardipina, dil-
+tiazem y verapamilo).
+
+•  medicamentos  antiarrítmicos  indicados  para  controlar  las  arrit-
+mias (irregularidades de los latidos del corazón) (amiodarona).
+•  medicamentos conocidos como “estatinas”, indicados para tratar
+
+los altos niveles de colesterol y triglicéridos.
+
+•  carbamazepina, fenitoína o fenobarbital, indicados para tratar la
+
+epilepsia.
+
+•  metamizol (dipirona), empleado para tratar el dolor y la fiebre
+•  los corticoesteroides prednisolona y metilprednisolona, pertene-
+cientes a la clase de corticoesteroides indicados para tratar infla-
+maciones  o  deprimir  el  sistema  inmunitario  (por  ejemplo,  en  el
+rechazo de trasplantes).
+
+•  nefazodona, indicada para tratar la depresión.
+•  letermovir  como  antiviral  para  la  infección  por  citomegalovirus
+
+(CMV).
+
+•  preparados herbarios que contengan la hierba de San Juan (Hype-
+
+ricum perforatum) o extractos de Schisandra sphenanthera.
+
+•  cannabidiol  (entre  sus  usos  se  incluye  el  tratamiento  contra  las
+
+convulsiones).
+
+Informe a su médico si está recibiendo un tratamiento para la hepa-
+titis C. El tratamiento con medicamentos para la hepatitis C podría
+alterar  su  función  hepática  y  afectar  los  niveles  de  tacrolimus  en
+sangre. Los niveles de tacrolimus en sangre podrían caer o aumen-
+tar en función de los medicamentos que le prescriban para la hepa-
+titis C. Es probable que su médico necesite controlar atentamente
+los niveles de tacrolimus en sangre y realizar los ajustes necesarios
+a la dosis de PROGRAF® XL una vez que comience el tratamiento
+de la hepatitis C.
+
+Dígale a su médico si toma o tiene que tomar ibuprofeno (indicado
+para tratar la fiebre, inflamaciones y dolor), antibióticos (cotrimoxa-
+zol, vancomicina o antibióticos aminoglucósidos, como la gentami-
+cina), anfotericina B (indicada para tratar infecciones por hongos) o
+antivirales  (indicados  para  tratar  infecciones  virales,  por  ejemplo,
+aciclovir,  ganciclovir,  cidofovir,  foscarnet).  Si  se  toman  junto  con
+PROGRAF® XL, estos medicamentos podrían empeorar problemas de
+los riñones o del sistema nervioso.
+
+Dígale a su médico si toma sirolimus o everolimus. Cuando tacroli-
+mus se toma junto con sirolimus o everolimus. el riesgo de desarrollar
+microangiopatía trombótica, púrpura trombocitopénica trombótica y
+síndrome hemolítico urémico puede aumentar (ver sección 4).
+
+Mientras  usted  tome  PROGRAF®  XL,  informe  a  su  médico  si  toma
+suplementos de potasio o ciertos diuréticos indicados para tratar la
+insuficiencia cardíaca, la hipertensión y enfermedades renales (por
+ejemplo, amilorida, triamtereno o espironolactona); o los antibióti-
+cos trimetoprima o cotrimoxazol que pueden aumentar los niveles de
+potasio en sangre, antiinflamatorios no esteroides (AINE), indicados
+para tratar la fiebre, inflamaciones y dolor (por ejemplo, ibuprofeno);
+anticoagulantes (diluyentes de la sangre), o antidiabéticos de admi-
+nistración por vía oral.
+
+Si  precisa  recibir  alguna  vacuna,  consulte  con  su  médico  antes  de
+vacunarse.
+
+PROGRAF® XL con comidas y bebidas
+Mientras reciba tratamiento con PROGRAF® XL, evite comer pomelo
+(y beber su jugo) porque esta fruta puede afectar los niveles sanguí-
+neos del medicamento.
+
+Embarazo y lactancia
+Si está embarazada, sospecha que lo está o está buscando el embara-
+zo, pídale consejos a su médico antes de tomar PROGRAF® XL.
+
+PROGRAF® XL pasa a la leche materna. Por lo tanto, usted no deberá
+amamantar mientras tome PROGRAF® XL.
+
+Manejo de vehículos y maquinarias
+No maneje ni use ninguna herramienta o maquinaria si después de
+tomar PROGRAF® XL siente mareos o sueño, o tiene problemas para
+ver con claridad. Estos efectos son más frecuentes al también beber
+alcohol.
+
+PROGRAF® XL contiene lactosa y lecitina (soja)
+PROGRAF®  XL  contiene  lactosa  (azúcar  lácteo).  Si  usted  tiene  un
+diagnóstico médico de intolerancia a ciertos azúcares, consulte con
+su médico antes de tomar este medicamento.
+
+La  tinta  de  impresión  empleada  en  las  cápsulas  de  PROGRAF®  XL
+contiene lecitina de soja. Si usted le tiene alergia al maní o la soja,
+consulte  con  su  médico  para  determinar  si  conviene  que  use  este
+medicamento.
+
+3.   CÓMO TOMAR PROGRAF® XL
+
+Tome siempre PROGRAF® XL exactamente según las indicaciones de
+su médico. Si tiene dudas, consulte con su médico, farmacéutico o
+enfermero.  Este  medicamento  deberá  recetárselo  únicamente  un
+médico que tenga experiencia en el tratamiento de pacientes tras-
+plantados.
+
+Asegúrese de recibir el mismo tipo de medicamento de tacrolimus
+cada vez que recoja su receta médica (a  menos que el especialista
+en  trasplantes  haya  decidido  cambiarle  a  otro  tipo  de  tacrolimus).
+Este medicamento debe tomarse una vez al día. Si el aspecto de este
+medicamento es distinto de lo habitual o si las instrucciones de ad-
+ministración han cambiado, consulte lo antes posible con el médico
+o farmacéutico para asegurarse de tener el medicamento correcto.
+
+Su médico se basará en su peso corporal para calcular la dosis inicial
+que usted necesite para prevenir el rechazo de su órgano trasplan-
+tado. En general, las dosis diarias iniciales que se toman inmediata-
+mente después del trasplante oscilan de 0,10 a 0,30 mg por kg de
+peso  corporal  al  día,  según  el  órgano  trasplantado.  Puede  que  se
+usen estas mismas dosis para el tratamiento del rechazo.
+
+Su dosis dependerá de su estado general y de los demás inmunosu-
+presores que usted esté tomando.
+
+Una vez que se inicie su tratamiento con PROGRAF® XL, el médico
+encargará análisis de sangre frecuentes para definir la dosis correc-
+ta. Posteriormente, el médico requerirá análisis de sangre regulares
+para definir la dosis correcta y para hacerle ajustes ocasionales. Por lo
+
+general, el médico le reducirá la dosis de PROGRAF® XL una vez que
+su estado se haya estabilizado. El médico le dirá exactamente cuántas
+cápsulas debe tomar usted.
+
+–  Perforación gastrointestinal: fuertes dolores abdominales acom-
+pañados o no de otros síntomas, como escalofríos, fiebre, náuseas
+o vómitos.
+
+Tendrá  que  tomar  PROGRAF®  XL  todos  los  días  mientras  necesite
+tomar inmunosupresores para prevenir el rechazo de su órgano tras-
+plantado. Es importante que usted se mantenga en contacto regular
+con su médico.
+
+PROGRAF® XL se toma por vía oral una vez al día, por las mañanas.
+Tome PROGRAF® XL con el estómago vacío o entre 2 y 3 horas des-
+pués de comer. Espere al menos 1 hora hasta la siguiente comida.
+Tome las cápsulas inmediatamente después de sacarlas del blíster.
+Las cápsulas deben tragarse enteras con un vaso de agua inmedia-
+tamente una vez retiradas del blíster. No se trague el desecante que
+está dentro de la envoltura metálica.
+
+Si toma más PROGRAF® XL de lo que debería
+Si toma accidentalmente demasiado PROGRAF® XL, comuníquese de
+inmediato con su médico o con el departamento de emergencias del
+hospital más cercano.
+
+“Ante la eventualidad de una sobredosificación, concurrir al Hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente, otros centros de intoxicaciones”.
+
+Si se olvida de tomar PROGRAF® XL
+Si se olvida de tomar las cápsulas de PROGRAF® XL en la mañana,
+tómelas lo antes posible ese mismo día. No tome una dosis doble la
+mañana siguiente.
+
+Si deja de tomar PROGRAF® XL
+La interrupción de su tratamiento con PROGRAF® XL podría aumentar
+el riesgo de rechazo del órgano trasplantado.
+
+No suspenda su tratamiento a menos que su médico le diga que lo
+haga.
+
+Si tiene cualquier otra duda sobre el uso de este medicamento, con-
+sulte con su médico, farmacéutico o enfermero.
+
+4.
+
+ POSIBLES EFECTOS SECUNDARIOS
+
+Al igual que todos los medicamentos, PROGRAF® XL puede producir
+efectos secundarios (aunque no todas las personas los sufren).
+
+PROGRAF® XL disminuye la respuesta de defensa del cuerpo (el siste-
+ma inmunitario), que no será igual de eficaz para combatir las infec-
+ciones. Por lo tanto, puede que usted tenga una mayor propensión
+a  las  infecciones  mientras  tome  PROGRAF®  XL.  Ciertas  infecciones
+podrían ser graves o fatales y podrían incluir infecciones bacterianas,
+virales, por hongos, parasitarias o de otro tipo.
+
+Informe a su médico de inmediato si presenta signos de infección que
+incluyan los siguientes:
+•  Fiebre, tos, garganta irritada, sensación de debilidad o habitual-
+
+mente indispuesto.
+
+•  Pérdida de memoria, dificultad para pensar, dificultad para cami-
+nar o pérdida de visión. Estos podrían deberse a una infección cere-
+bral grave, poco común y potencialmente fatal (leucoencefalopatía
+multifocal progresiva o LMP).
+
+Pueden surgir efectos intensos, entre ellos reacciones alérgicas y ana-
+filácticas. Se han notificado casos de tumores benignos y malignos
+después del tratamiento con PROGRAF® XL.
+
+Informe a su médico de inmediato si tiene o sospecha que tiene
+alguno de los siguientes efectos secundarios graves:
+
+Efectos secundarios graves frecuentes (podrían afectar a hasta 1 de
+cada 10 personas):
+
+–  Insuficiencia del órgano trasplantado.
+–  Visión borrosa.
+
+Efectos secundarios graves poco frecuentes (podrían afectar a hasta
+1 de cada 100 personas):
+
+–  Microangiopatía  trombótica  (lesiones  en  los  vasos  sanguíneos
+más  pequeños),  incluido  síndrome  urémico  hemolítico,  una
+afección que presenta los siguientes síntomas: excreción de orina
+escasa o nula (fallo renal agudo), cansancio extremo, coloración
+amarillenta de la piel o los ojos (ictericia) y presencia de cardenales
+o sangrado anormales y signos de infección.
+
+Efectos secundarios graves raros (podrían afectar a hasta 1 de cada
+1 000 personas):
+
+–  Púrpura  trombocitopénica  trombótica:  una  afección  que  se  ca-
+racteriza  por  lesiones  en  los  vasos  sanguíneos  más  pequeños  y
+la presencia de fiebre y formación de cardenales debajo de la piel
+que pueden tener el aspecto de puntos rojos, con o sin cansancio
+extremo sin razón aparente, confusión, color amarillento de la piel
+o los ojos (ictericia), con síntomas de fallo renal agudo (excreción
+de orina baja o nula), pérdida de la visión y convulsiones.
+
+–  Necrólisis epidérmica tóxica: erosión y formación de ampollas en
+la piel o las membranas mucosas, piel enrojecida e inflamada que
+se puede desprender en superficies extensas del cuerpo.
+
+–  Ceguera.
+
+Efectos secundarios graves muy raros (podrían afectar a hasta 1 de
+cada 10 000 personas):
+
+–  Síndrome  de  Stevens-Johnson:  dolor  cutáneo  generalizado  sin
+razón aparente, hinchazón facial, enfermedad grave con ampollas
+en la piel, la boca, los ojos y los genitales, habón urticarial, hincha-
+zón de la lengua, erupción cutánea de color rojo o púrpura que se
+extiende, descamación.
+
+–  Torsades de pointes: cambio de la frecuencia cardíaca que puede
+estar acompañado o no de otros síntomas, como dolor torácico (an-
+gina), pérdida de conocimiento, vértigo o náuseas, palpitaciones
+(percepción del latido cardíaco) y dificultad para respirar.
+
+Efectos secundarios graves, frecuencia no conocida (no puede esti-
+marse a partir de los datos disponibles la frecuencia):
+
+–  Infecciones  oportunistas  (bacteriana,  por  hongos,  viral  o  proto-
+
+zoaria): diarrea prolongada, fiebre o garganta irritada.
+
+–  Se han notificado casos de tumores benignos y malignos con pos-
+terioridad al tratamiento como resultado de la inmunosupresión.
+–  Se  han  notificado  casos  de  aplasia  eritrocitaria  pura  (reducción
+muy  fuerte  del  número  de  glóbulos  rojos),  anemia  hemolítica
+(reducción del número de glóbulos rojos a causa de anomalías de
+desintegración,  acompañada  de  cansancio)  y  neutropenia  febril
+(disminución de los glóbulos blancos que combaten las infeccio-
+nes, acompañado de fiebre). No se conoce con exactitud con qué
+frecuencia ocurren estos efectos secundarios. Es probable que no
+presente ninguno de estos síntomas o, dependiendo de la grave-
+dad de su estado, puede sentir: fatiga, apatía, lividez anormal de
+la piel (palidez), falta de aliento, mareos, dolor de cabeza, dolor
+torácico y frío en manos y pies.
+
+–  Casos de agranulocitosis (reducción muy fuerte del número de gló-
+bulos blancos acompañada de úlceras en la boca, fiebre e infección
+o infecciones). Es probable que no tenga ningún síntoma o que de
+repente presente fiebre, rigores y garganta irritada.
+
+–  Reacciones alérgicas y anafilácticas acompañadas de los siguien-
+tes  síntomas:  erupción  pruriginosa  repentina  (habón  urticarial),
+hinchazón de manos, pies, tobillos, rostro, labios, boca o garganta
+(que puede provocar dificultad para tragar o respirar) y puede te-
+ner sensación de perder el conocimiento.
+
+–  Síndrome  de  encefalopatía  posterior  reversible  (SEPR):  dolor  de
+cabeza, confusión, fluctuaciones del estado de ánimo, ataques y
+alteraciones de la visión. Estos podrían ser signos de un trastorno
+conocido  como  síndrome  de  encefalopatía  posterior  reversible,
+que se ha informado en algunos pacientes tratados con tacrolimus.
+
+–  Neuropatía óptica (anormalidad del nervio óptico): problemas de
+visión, como visión borrosa, cambios en la visión de los colores,
+dificultad para ver detalles o restricción del campo de visión.
+
+Los siguientes efectos secundarios, que podrían ser graves, también
+podrían ocurrir luego de recibir PROGRAF® XL:
+
+Efectos secundarios muy frecuentes (podrían afectar a más de 1 de
+cada 10 personas):
+
+•  Aumento  del  nivel  sanguíneo  de  azúcar;  diabetes  mellitus;  au-
+
+mento del nivel sanguíneo de potasio.
+
+•  Dificultades para dormir.
+•  Temblores, dolor de cabeza.
+•  Aumento de la presión arterial.
+•  Anomalías de las pruebas de función hepática.
+•  Diarrea, náuseas.
+•  Problemas de los riñones.
+
+Efectos secundarios frecuentes (podrían afectar a hasta 1 de cada
+10 personas):
+
+•  Reducción  de  los  recuentos  de  glóbulos  sanguíneos  (plaquetas,
+glóbulos rojos o blancos); aumento del número de glóbulos blan-
+cos; alteraciones de los números de glóbulos rojos (observados en
+los análisis de sangre).
+
+•  Reducción de los niveles sanguíneos de magnesio, fosfato, pota-
+sio, calcio o sodio; sobrecarga de líquidos; aumento de los nive-
+les sanguíneos de ácido úrico o lípidos; disminución del apetito;
+aumento de la acidez de la sangre; otras alteraciones de las sales
+sanguíneas (observadas en los análisis de sangre).
+
+•  Síntomas  de  ansiedad;  confusión  y  desorientación;  depresión;
+fluctuaciones  del  estado  de  ánimo;  pesadillas;  alucinaciones;
+trastornos mentales.
+
+•  Ataques;  perturbaciones  de  la  conciencia;  hormigueo  y  entu-
+mecimiento (a veces con dolor) de las manos y los pies; mareos;
+disminución de la capacidad para escribir; trastornos del sistema
+nervioso.
+
+•  Mayor sensibilidad a la luz; trastornos oculares.
+•  Zumbido en los oídos.
+•  Reducción del flujo sanguíneo en los vasos cardíacos; aceleración
+
+de los latidos cardíacos.
+
+•  Sangrado;  obstrucción  parcial  o  total  de  los  vasos  sanguíneos;
+
+reducción de la presión arterial.
+
+•  Falta de aliento; alteraciones del tejido pulmonar; acumulación de
+líquido alrededor del pulmón; faringitis; tos; síntomas parecidos a
+los de la gripe.
+
+•  Inflamación o úlceras causantes de dolor abdominal o diarrea; san-
+grado en el estómago; inflamación o úlceras en la boca; acumu-
+lación de líquido en el abdomen; vómitos; dolores abdominales;
+indigestión;  estreñimiento;  flatulencia;  distensión  abdominal;
+heces blandas; problemas estomacales.
+
+•  Trastornos de las vías biliares; amarilleo de la piel a causa de proble-
+mas del hígado; daño del tejido hepático; inflamación del hígado.
+•  Picazón; sarpullido; caída del pelo; acné; aumento de la transpira-
+
+ción.
+
+•  Dolor  en  las  articulaciones,  extremidades  o  espalda;  espasmos
+
+musculares.
+
+•  Insuficiencia renal; reducción de la producción de orina; proble-
+
+mas o dolor al orinar.
+
+•  Debilidad  general;  fiebre;  acumulación  de  líquido  en  el  cuerpo;
+dolor y molestias; aumento del nivel sanguíneo de la enzima fos-
+fatasa alcalina; aumento de peso; alteración de la percepción de la
+temperatura.
+
+Efectos secundarios poco frecuentes (podrían afectar a hasta 1 de
+cada 100 personas):
+
+•  Alteraciones de la coagulación de la sangre; reducción del número
+de todos los tipos de glóbulos sanguíneos (observada en los análisis
+de sangre).
+•  Deshidratación.
+•  Reducción de las proteínas o azúcar en sangre; aumento del nivel
+
+de fosfato en sangre.
+
+•  Coma; sangrado en el cerebro; accidente cerebrovascular; paráli-
+sis; trastorno cerebral; anomalías del habla y el lenguaje; proble-
+
+mas de la memoria.
+
+•  Opacidad del cristalino del ojo; problemas de la audición.
+•  Irregularidades o interrupción de los latidos cardíacos; reducción
+del funcionamiento del corazón; trastorno o dilatación del múscu-
+lo cardíaco; latidos cardíacos más fuertes; anomalías del electro-
+cardiograma; anomalías de la frecuencia cardíaca y el pulso.
+
+•  Coágulo de sangre en una vena de una extremidad; shock.
+•  Dificultades  para  respirar;  trastornos  de  las  vías  respiratorias;
+
+asma.
+
+•  Obstrucción del intestino; aumento del nivel sanguíneo de la enzi-
+ma amilasa; reflujo del contenido del estómago hacia la garganta;
+retraso del vaciado estomacal.
+
+•  Inflamación de la piel; sensación de ardor en presencia de luz solar
+•  Trastornos de las articulaciones.
+•  Incapacidad para orinar; menstruación dolorosa y anomalías del
+
+flujo menstrual.
+
+•  Insuficiencia multiorgánica; enfermedad parecida a la gripe; au-
+mento de la sensibilidad al frío y al calor; sensación de presión en
+el pecho; sensación de inquietud; sentirse raro; aumento del nivel
+de la enzima lactato deshidrogenasa en sangre; pérdida de peso.
+
+Efectos secundarios raros (podrían afectar a hasta 1 de cada 1000
+personas):
+
+•  Pequeños sangrados en la piel causados por coágulos sanguíneos.
+•  Aumento de la rigidez muscular.
+•  Sordera.
+•  Acumulación de líquido alrededor del corazón.
+•  Dificultad aguda para respirar.
+•  Formación de quistes en el páncreas.
+•  Problemas del flujo sanguíneo en el hígado.
+•  Enfermedad grave con ampollas en la piel, la boca, los ojos y los
+
+genitales; aumento de la cantidad de vello.
+
+•  Sed; caídas; sensación de opresión en el pecho; disminución de la
+
+movilidad; úlcera.
+
+Efectos secundarios muy raros (podrían afectar a hasta 1 de cada 10
+000 personas):
+
+•  Debilidad muscular.
+•  Exploración cardíaca anormal.
+•  Insuficiencia hepática.
+•  Micción dolorosa con sangre en la orina.
+•  Aumento del tejido graso.
+
+Notificación de efectos secundarios
+Si sufre cualquier tipo de efecto secundario indeseable, infórmeselo
+a su médico (incluso si se trata de posibles efectos secundarios que
+no se mencionen en este folleto). También puede comunicarse con
+el Departamento de Farmacovigilancia de Gador S.A. por teléfono:
+0800 220 2273 (CARE) o por correo electrónico: farmacovigilancia@
+gador.com.
+
+“Si  tiene  algún  problema  con  el  producto,  complete  el  formulario
+que  aparece  en  el  sitio  web  de  la  ANMAT:  https://www.argentina.
+gob.ar/anmat/farmacovigilancia/notificanos/pacientes;  o  llame  a
+ANMAT Responde al 0800-333-1234”.
+
+Al notificar los efectos indeseables, podrá ayudar a aportar más infor-
+mación sobre la seguridad de este medicamento.
+
+5.   CÓMO ALMACENAR PROGRAF® XL
+
+Mantenga PROGRAF® XL fuera del alcance de los niños
+PROGRAF® XL cápsulas: mantener es su envase original, a temperatu-
+ra ambiente (entre 15oC y 30oC), en un lugar seco. Las cápsulas están
+envasadas en blísteres con cubierta protectora de aluminio.
+
+Importante:
+Las capsulas de PROGRAF® XL deben usarse dentro de los 12
+meses, una vez abierto el envase de aluminio.
+Las cápsulas deben ser ingeridas inmediatamente una vez re-
+tiradas del blíster.
+NO INGERIR EL DESECANTE QUE SE ENCUENTRA EN EL INTERIOR
+DEL ENVOLTORIO DE ALUMINIO.
+
+No use PROGRAF® XL una vez transcurrida la fecha de vencimiento
+que figura en el envase y en el blíster como EXP. La fecha de expira-
+ción se refiere al último día del mes que figura en el envase.
+
+No deseche ningún medicamento por los desagües ni en la basura
+doméstica.  Pregúntele  a  su  farmacéutico  cómo  debe  desechar  los
+medicamentos que ya no use. De esta forma, ayudará a proteger el
+medio ambiente.
+
+6. CONTENIDO DEL ENVASE Y OTRA INFORMACIÓN
+
+Contenido de PROGRAF® XL
+
+Cápsulas de PROGRAF® XL 0,5 mg
+•  Cada cápsula de PROGRAF® XL 0,5 mg contiene 0,5 mg de tacro-
+
+limus.
+
+•  Los excipientes son:
+
+◦	 Hipromelosa, etilcelulosa, lactosa monohidrato y estearato de
+
+magnesio.
+
+◦	 Cápsula de gelatina dura: gelatina, dióxido de titanio, óxido de
+hierro amarillo, óxido de hierro rojo y laurilsulfato de sodio.
+
+◦	 Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+Cápsulas de PROGRAF® XL 1 mg
+•  Cada cápsula de PROGRAF® XL 1 mg contiene 1 mg de tacrolimus.
+•  Los excipientes son:
+
+◦	 Hipromelosa, etilcelulosa, lactosa monohidrato y estearato de
+
+magnesio.
+
+◦	 Cápsula de gelatina dura: gelatina, dióxido de titanio, óxido de
+
+hierro amarillo, óxido de hierro rojo y laurilsulfato de sodio.
+
+◦	 Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+Cápsulas de PROGRAF® XL 3 mg
+•  Cada cápsula de PROGRAF® XL 3 mg contiene 3 mg de tacrolimus.
+•  Los excipientes son:
+
+◦	 Hipromelosa, etilcelulosa, lactosa monohidrato y estearato de
+
+magnesio.
+
+◦	 Cápsula de gelatina dura: gelatina, dióxido de titanio, óxido de
+hierro amarillo, óxido de hierro rojo y laurilsulfato de sodio.
+
+◦	 Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+Cápsulas de PROGRAF® XL 5 mg
+•  Cada cápsula de PROGRAF® XL 5 mg contiene 5 mg de tacrolimus.
+•  Los excipientes son:
+
+◦	 Hipromelosa, etilcelulosa, lactosa monohidrato y estearato de
+
+magnesio.
+
+◦	 Cápsula de gelatina dura: gelatina, dióxido de titanio, óxido de
+hierro amarillo, óxido de hierro rojo y laurilsulfato de sodio.
+
+◦	 Tinta de impresión de la cápsula: Opacode S-1-15083.
+
+Aspecto de PROGRAF® XL y contenido del envase
+PROGRAF® XL cápsulas de 0,5; 1; 3 y 5 mg se suministran en blísteres
+dentro de un envoltorio de aluminio protector, incluido un desecante
+que protege las capsulas de la humedad. No ingerir el desecante.
+
+Recordatorio
+“Este medicamento ha sido prescripto solo para su problema médico
+actual. No lo recomiende a otras personas”.
+
+“MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS”
+
+Fabricado por: Astellas Ireland Ltd., Killorglin, Condado Kerry, V93 FC86 Irlanda.
+
+GADOR S.A.
+
+Representado, Comercializado y Distribuido por Gador S.A.
+
+Darwin 429, C.A.B.A. (C1414CUI) Tel.: 4858-9000.
+
+E.M.A.M.S. Certificado N° 45.589.
+
+Director Técnico: Jorge Naquit, Farmacéutico.
+
+PROGRAF® es una marca registrada de Astellas Pharma Inc.
+
+369110-PXL-ARG
+Fecha de la última revisión: noviembre 2023
+
+G00089303-02

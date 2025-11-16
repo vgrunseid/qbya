@@ -1,0 +1,1227 @@
+Venta bajo receta archivada
+Industria Norteamericana
+
+COMPOSICIÓN
+Cada frasco ampolla de polvo liofilizado de AMBISOME® contiene:
+Anfotericina B (en liposomas) ............................................ 50 mg
+Excipientes: Sacarosa, Fosfatidilcolina Hidrogenada de soja, Dies-
+tearoilfosfatidilglicerol, Colesterol, Succinato disódico hexahidra-
+tado, Alfa tocoferol ................................................................. c.s.
+
+1 ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: Antimicóticos para uso sistémico, anti-
+bióticos; código ATC: J02AA01.
+La anfotericina B es un antibiótico antifúngico poliénico macrocícli-
+co producido por Streptomyces nodosus.
+2 INDICACIONES Y USO
+AMBISOME® está indicado en adultos y niños desde 1 mes hasta
+los 18 años de edad para:
+• El tratamiento de micosis sistémicas y/o profundas graves.
+• El tratamiento de la leishmaniasis visceral en pacientes inmuno-
+competentes, tanto adultos como niños.
+• El  tratamiento  empírico  de  presuntas  infecciones  fúngicas  en
+pacientes con neutropenia febril, cuando la fiebre no responda al
+tratamiento con antibióticos de amplio espectro, y los estudios per-
+tinentes no logren determinar un origen bacteriano o viral.
+Algunas de las infecciones tratadas exitosamente con AMBISOME®
+son: candidiasis diseminada, aspergilosis, mucormicosis, micetoma
+crónico, meningitis criptocócica y leishmaniasis visceral.
+AMBISOME® no debe utilizarse para el tratamiento de las formas
+comunes de micosis clínicamente inaparentes que solo se evidencian
+mediante pruebas cutáneas o serológicas positivas.
+3  CARACTERÍSTICAS FARMACOLÓGICAS/PROPIEDADES
+3.1 DESCRIPCIÓN
+Vial  conteniendo  polvo  liposomal  para  solución  para  perfusión,  y
+filtro de 5 micras.
+Pasta o polvo liofilizado, estéril, de color amarillo.
+Cada vial contiene 50 mg de anfotericina B encapsulada en liposo-
+mas como principio activo. Después de la reconstitución, el concen-
+trado contiene 4 mg/ml de anfotericina B.
+3.2 FARMACOLOGÍA CLÍNICA
+3.2.1 Farmacodinámica
+Mecanismo de acción y efectos farmacodinámicos
+La  anfotericina  B  es  un  antibiótico  antifúngico  poliénico  macrocí-
+clico  producido  por  Streptomyces  nodosus.  La  anfotericina  B  es
+fungistática o fungicida según la concentración que se alcance en
+los líquidos corporales y la sensibilidad del hongo. Se cree que la
+molécula  actúa  ligando  los  esteroles  presentes  en  la  membrana
+celular fúngica, lo que provoca una variación en la permeabilidad
+de la membrana y permite la filtración de distintas moléculas pe-
+queñas. Las membranas celulares de los mamíferos también con-
+tienen esteroles, y se ha sugerido que el daño que la anfotericina
+B  produce  en  las  células  humanas  y  fúngicas  podría  compartir
+mecanismos comunes. La parte lipófila de la anfotericina permite
+que la molécula se integre en la bicapa lipídica de los liposomas.
+Los liposomas son vesículas esféricas cerradas, formadas a partir
+de una variedad de sustancias anfipáticas, tales como fosfolípidos.
+Los fosfolípidos se disponen en membranas bicapa al exponerse a
+soluciones acuosas.
+3.2.2 Farmacocinética
+El  perfil  farmacocinético  de  AmBisome  (anfotericina  liposomal  B
+(L-AmB)),  basado  en  las  concentraciones  plasmáticas  totales  de
+anfotericina B, se determinó en pacientes con cáncer y neutropenia
+febril y en pacientes con trasplante de médula ósea, que recibieron
+perfusiones de 1 hora de duración de entre 1,0 y 7,5 mg/kg/día de
+
+AMBISOME ®
+ANFOTERICINA B EN LIPOSOMAS 50 mg
+
+Inyectable liofilizado
+
+0,10 l/kg (± 0,07) a 0,44 l/kg (± 0,27)
+
+7,3 μg/ml (± 3,8) a 83,7 μg/ml (± 43,0)
+6,3 h (± 2,0) a 10,7 h (± 6,4)
+27 μg.h/ml (± 14) a 555 μg.h/ml (± 311)
+11 ml/h/kg (± 6) a 51 ml/h/kg (± 44)
+
+L-AmB durante 3 a 20 días. L-AmB tiene un perfil farmacocinéti-
+co significativamente diferente del informado en la literatura para
+las presentaciones convencionales de anfotericina B, con mayores
+concentraciones  plasmáticas  (Cmáx)  de  anfotericina  B  y  un  mayor
+tiempo de exposición (AUC0-24) en comparación con la anfotericina
+B  convencional.  Los  valores  de  los  parámetros  farmacocinéticos
+de  L-AmB  (media  ±  desviación  estándar)  obtenidos  después  de
+la  primera  y  última  dosis  se  encuentran  dentro  de  los  siguientes
+intervalos:
+  Cmáx
+  T1/2
+  AUC0-24
+  Depuración (CI)
+  Volumen de
+  distribución (Vss)
+Los valores farmacocinéticos mínimo y máximo no están relacio-
+nados  necesariamente  con  las  dosis  mínima  y  máxima,  respecti-
+vamente. Tras la administración de L-AmB, el estado estacionario
+se alcanzó rápidamente (generalmente en los cuatro primeros días
+de dosificación).
+Absorción
+La farmacocinética de anfotericina B después de la primera dosis
+de L-AmB no es lineal, ya que las concentraciones de anfotericina B
+son mayores que lo proporcional al incremento de la dosis. Se cree
+que esta respuesta no proporcional a la dosis se debe a la satura-
+ción de la depuración de L-AmB por el sistema reticuloendotelial.
+No hubo acumulación significativa del fármaco en plasma después
+de la administración repetida de 1 a 7,5 mg/kg/día.
+Distribución
+El  volumen  de  distribución  en  el  día  1  y  en  estado  estacionario
+sugiere  que  la  anfotericina  B  se  distribuye  extensamente  en  los
+tejidos.
+Eliminación
+Después  de  la  administración  repetida  de  L-AmB,  la  semivida  de
+eliminación  terminal  (t1⁄2β)  de  anfotericina  B  fue  de  aproximada-
+mente  7  horas.  No  se  ha  estudiado  la  excreción  de  L-AmB.  Se
+desconocen las vías metabólicas de la anfotericina B y de L-AmB.
+Debido al tamaño de los liposomas, no hay filtración glomerular ni
+eliminación renal de L-AmB, lo que evita que la anfotericina B inte-
+ractúe con las células de los túbulos distales y reduce el potencial
+de nefrotoxicidad observado con las presentaciones de la anfoteri-
+cina B convencional.
+Poblaciones especiales
+Insuficiencia renal
+El efecto de la insuficiencia renal en la farmacocinética de L-AmB
+no se ha estudiado formalmente. Los datos sugieren que no es ne-
+cesario ajustar la dosis en los pacientes que reciben hemodiálisis o
+procedimientos de filtración; sin embargo, se debe evitar la admi-
+nistración de L-AmB durante tales procedimientos.
+Relación entre farmacocinética y farmacodinámica
+Mecanismo de resistencia
+La resistencia intrínseca, aunque se presenta rara vez, podría de-
+berse principalmente a la disminución del nivel de ergosterol o a un
+cambio en el lípido diana, lo que reduciría la unión de la anfotericina
+B a la membrana celular.
+Puntos de corte
+Aún no se han definido los puntos de corte según el comité EUCAST
+para L-AmB; sin embargo, la sensibilidad a L-AmB puede ser dis-
+tinta a la sensibilidad al desoxicolato de anfotericina B. La anfote-
+ricina B, el componente antifúngico de L-AmB, exhibe actividad in
+vitro frente a muchas especies de hongos: la mayoría de las cepas
+
+de  Histoplasma  capsulatum,  Coccidioides  immitis,  Candida  spp.,
+Blastomyces  dermatidis,  Rhodotorula,  Cryptococcus  neoformans,
+Sporothrix schenkii y Aspergillus fumigatus, Penicillium marneffi, y
+miembros del grupo de mohos mucormicetos, que incluyen Mucor
+mucedo, Rhizomucor y Rhizopus oryzae.
+La  mayoría  de  las  especies  de  hongos  clínicamente  importantes
+parecen ser sensibles a la anfotericina B, aunque se han notificado
+casos raros de resistencia intrínseca; por ejemplo, en algunas ce-
+pas de S. schenckii, C. glabrata, C. krusei, C. tropicalis, C. lusitaniae,
+C. parapsilosis y Aspergillus terreus.
+L-AmB  ha  demostrado  ser  eficaz  en  modelos  animales  de  leish-
+maniasis visceral (causada por Leishmania infantum y Leishmania
+donovani).
+4 POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Posología
+Tratamiento de las micosis:
+El tratamiento generalmente comienza con una dosis diaria de 1,0
+mg/kg de peso corporal, y se aumenta gradualmente a 3,0 mg/kg,
+según se necesite. Actualmente no se dispone de datos suficientes
+para definir la dosis total que se requiere ni la duración necesaria
+del  tratamiento  para  la  remisión  de  las  micosis.  Sin  embargo,  el
+uso  habitual  ha  consistido  en  una  dosis  acumulada  de  1,0  a  3,0
+g  de  anfotericina  B  en  forma  de  AMBISOME®  en  el  transcurso
+de 3 a 4 semanas. La posología de la anfotericina B en forma de
+AMBISOME® debe ajustarse conforme a los requerimientos espe-
+cíficos de cada paciente.
+Mucormicosis
+La dosis inicial recomendada es de 5 mg/kg/día. La duración del
+tratamiento  debe  determinarse  sobre  una  base  individual.  Cursos
+de  hasta  6-8  semanas  se  utilizan  comúnmente  en  la  práctica
+clínica;  una  mayor  duración  de  la  terapia  puede  requerirse  para
+infecciones  más  profundas  o  en  casos  de  ciclos  prolongados  de
+quimioterapia o neutropenia.  Aunque se han usado dosis mayores
+de 5 mg/kg y hasta un máximo de 10 mg/kg en estudios clínicos
+y en la práctica clínica, los datos sobre la seguridad y eficacia de
+AMBISOME® para el tratamiento de la mucormicosis en estas dosis
+más altas son limitados. Por lo tanto, debe hacerse una evaluación
+del riesgo: beneficio individual para cada paciente para determinar
+si  los  beneficios  potenciales  del  tratamiento  son  mayores  que  el
+riesgo conocido de toxicidad a dosis mayores de AMBISOME® (ver
+sección 5).
+Tratamiento de la leishmaniasis visceral:
+Se  puede  utilizar  una  dosis  total  de  21,0  a  30,0  mg/kg  de  peso
+corporal  administrada  en  el  transcurso  de  10  a  21  días  para  el
+tratamiento de esta enfermedad. A la fecha, no se dispone de in-
+formación  completa  acerca  de  los  detalles  referentes  a  la  dosis
+óptima y al eventual desarrollo de resistencia. Este producto debe
+administrarse bajo supervisión médica estricta.
+Tratamiento empírico de la neutropenia febril:
+La  dosis  diaria  recomendada  es  de  3  mg/kg  de  peso  corporal  al
+día.  Se  debe  continuar  el  tratamiento  hasta  que  la  temperatura
+registrada se mantenga normalizada durante 3 días consecutivos.
+En cualquier caso, el tratamiento debe suspenderse después de 42
+días como máximo.
+Población pediátrica
+AMBISOME® se ha utilizado exitosamente para el tratamiento de
+infecciones fúngicas sistémicas en niños y de presuntas infeccio-
+nes fúngicas en niños con neutropenia febril, sin informes de acon-
+tecimientos adversos inusuales. AMBISOME® ha sido estudiado en
+pacientes pediátricos de un mes a 18 años de edad. Las dosis utili-
+zadas en estos estudios clínicos fueron las mismas que se utilizaron
+en adultos, basadas en mg/kg de peso corporal.
+AMBISOME® no está recomendado para uso en niños menores de
+1 mes, debido a la escasez de datos sobre seguridad y eficacia.
+Ancianos
+No es necesario modificar la dosis ni la frecuencia de administración.
+Insuficiencia renal
+AMBISOME® ha sido administrado en estudios clínicos a un gran
+número de pacientes con insuficiencia renal preexistente, en dosis
+iniciales  que  varían  de  1  a  3  mg/kg/día,  y  no  ha  sido  necesario
+ajustar la dosis ni la frecuencia de la administración [véase Adver-
+tencias y precauciones (7.1)].
+Insuficiencia hepática
+No  se  dispone  de  datos  para  efectuar  recomendaciones  de  dosis
+en pacientes con insuficiencia hepática [véase Advertencias y pre-
+
+cauciones (7.1)].
+Método de administración
+AMBISOME®  debe  administrarse  en  infusión  intravenosa  durante
+un período de 30 a 60 minutos. Para administrar dosis superiores
+a  5  mg/kg/día,  se  recomienda  perfundir  por  vía  intravenosa  du-
+rante  un  período  de  2  horas  [véase Advertencias  y  precauciones
+(7.1)]. La concentración recomendada para la perfusión intraveno-
+sa es de 0.20 mg/ml a 2.00 mg/ml de anfotericina B en forma de
+AMBISOME®.
+Para obtener instrucciones para la reconstitución y dilución del pro-
+ducto antes de su administración, ver la sección siguiente.
+•  Precauciones  especiales  para  la  preparación,  el  desecho  y
+otras formas de manipulación
+Lea detenidamente toda esta sección y la sección 7.1 antes de
+comenzar la reconstitución.
+AMBISOME®  no  es  intercambiable  con  otros  productos  que
+contengan anfotericina.
+AMBISOME®  debe  reconstituirse  utilizando  agua  estéril  para
+preparaciones  inyectables  (sin  un  agente  bacteriostático)  y
+diluirse en una solución de dextrosa (5%, 10% o 20%) exclusi-
+vamente para perfusión.
+El  uso  de  cualquier  solución  distinta  de  las  recomendadas,  o  la
+presencia  de  un  agente  bacteriostático  (p.  ej.  alcohol  bencílico)
+en  la  solución,  puede  causar  la  formación  de  precipitados  de
+AMBISOME®.
+AMBISOME® NO es compatible con soluciones salinas y no debe
+reconstituirse ni diluirse con soluciones salinas, ni tampoco admi-
+nistrarse por una vía intravenosa que se haya usado previamente
+para soluciones salinas, a menos que la vía se enjuague previamen-
+te con una solución de dextrosa (5%, 10% o 20%) para perfusión.
+Si esto no es factible, AMBISOME® debe administrarse por una vía
+intravenosa diferente.
+NO mezcle AMBISOME® con otros productos medicinales o elec-
+trolitos.
+Se  debe  seguir  estrictamente  una  técnica  aséptica  en  todas  las
+manipulaciones,  ya  que  AMBISOME®  no  contiene  ningún  agente
+bacteriostático ni conservante como tampoco los llevan los mate-
+riales especificados para la reconstitución y dilución.
+AMBISOME® debe ser reconstituido por personal adecuadamente
+capacitado.
+Los viales de AMBISOME®, que contienen 50 mg de anfotericina B,
+se preparan del siguiente modo:
+
+1. Añadir 12 ml de agua estéril para preparaciones inyectables a
+cada vial de AMBISOME®, para obtener una preparado que con-
+tenga 4 mg/ml de anfotericina B.
+2. INMEDIATAMENTE  después  de  añadir  el  agua,  AGITAR  EL
+VIAL  DE  FORMA  VIGOROSA  durante  30  segundos  para  que
+AMBISOME® se disperse por completo. Una vez reconstituido, el
+concentrado es una dispersión amarilla translúcida. Inspeccionar
+visualmente el vial para confirmar que no contenga material par-
+ticulado  y  seguir  agitándolo  hasta  obtener  una  dispersión  com-
+pleta.  No  utilizar  si  se  observa  alguna  precipitación  de  material
+extraña.
+3. Calcular  la  cantidad  de  AMBISOME®  reconstituido  (4  mg/ml)
+para su dilución posterior (véase la tabla 1).
+4. Para obtener la solución para perfusión, el producto reconsti-
+tuido de AMBISOME® se diluye con una cantidad en volumen de
+entre una (1) y diecinueve (19) partes de solución de solución de
+dextrosa (5%, 10% o 20%) para perfusión, a fin de obtener una
+concentración final en el intervalo recomendado de 2,00 mg/ml a
+0,20 mg/ml, de anfotericina en forma de AMBISOME® (véase la
+tabla 1).
+5. Con  una  jeringa  estéril,  aspirar  el  volumen  calculado  de
+AMBISOME® reconstituido. Utilizando el filtro de 5 micrómetros
+proporcionado,  instilar  el  preparado  de  AMBISOME®  en  un  re-
+cipiente estéril con la cantidad correcta de solución de dextrosa
+(5%, 10% o 20%) para perfusión.
+
+Para la perfusión intravenosa de AMBISOME®, se puede utilizar un
+filtro de membrana en la vía de infusión. Sin embargo, el diámetro
+medio de los poros del filtro no debe ser menor de 1,0 micrómetro.
+(Ver Tabla 1)
+Cualquier porción del producto que no se haya utilizado o material re-
+sidual deberá desecharse de acuerdo con la normativa local vigente.
+• Incompatibilidades
+AMBISOME®  es  incompatible  con  soluciones  salinas,  y  no  puede
+mezclarse con otros productos medicinales o electrolitos.
+
+Tabla 1: Ejemplo de la preparación de la solución de AMBISOME® para perfusión en dosis de 3 mg/kg/día en solución de dextrosa
+al 5% para perfusión.
+
+Peso
+(kg)
+
+Número
+de viales
+
+Cantidad de
+AMBISOME® (mg)
+a retirar para su
+dilución posterior
+
+Volumen de
+AMBISOME®
+reconstituido (ml)*
+
+Para obtener
+una concentración de 0,20 mg/ml
+(dilución 1 en 20)
+
+Para obtener
+una concentración de 2,00mg/ml
+(dilución 1 en 2)
+
+1
+2
+3
+4
+5
+6
+
+  10
+  25
+  40
+  55
+  70
+  85
+* Cada vial de AMBISOME® (50 mg) se reconstituye con 12 ml de agua para preparaciones inyectables a fin de obtener una concentración de 4 mg/ml
+de anfotericina B.
+
+7,5
+18,75
+30
+41,25
+52,5
+63,75
+
+15
+37,5
+60
+82,5
+105
+127,5
+
+30
+75
+120
+165
+210
+255
+
+Volumen necesario
+de dextrosa al
+5% (ml)
+142,5
+356,25
+570
+783,75
+997,5
+1211,25
+
+Volumen total (ml;
+AMBISOME® más
+dextrosa al 5%)
+150
+375
+600
+825
+1050
+1275
+
+Volumen necesario
+de dextrosa al
+5% (ml)
+7,5
+18,75
+30
+41,25
+52,5
+63,75
+
+Volumen total (ml;
+AMBISOME® más
+dextrosa al 5%)
+
+Este  medicamento  no  debe  mezclarse  con  otros  medicamentos,
+excepto aquellos indicados en la sección anterior.
+5 FORMAS FARMACÉUTICAS Y CONCENTRACIONES
+Polvo estéril para solución para perfusión.
+Cada vial contiene 50 mg de anfotericina (50.000 unidades) encap-
+sulada en liposomas. Después de la reconstitución, el concentrado
+contiene 4 mg/ml de anfotericina B.
+6 CONTRAINDICACIONES
+Hipersensibilidad al principio activo o a alguno de los excipientes
+indicados en la sección 10 a no ser que, en opinión del médico, la
+enfermedad que requiere tratamiento sea potencialmente mortal y
+sensible solamente al tratamiento con AMBISOME®.
+7 ADVERTENCIAS Y PRECAUCIONES
+7.1 GENERALES
+Anafilaxis y reacciones anafilactoides
+Se han informado anafilaxia y reacciones anafilactoides asociadas
+con  la  perfusión  de  AMBISOME®.  Pueden  producirse  reacciones
+de  tipo  alérgicas,  entre  ellas  reacciones  graves  relacionadas  con
+la perfusión, durante la administración de productos que contienen
+anfotericina, incluido AMBISOME® [véase Reacciones adversas (9)].
+Por lo tanto, se recomienda administrar una dosis de prueba antes
+de iniciar un nuevo ciclo de tratamiento. Con este objetivo, se puede
+perfundir una pequeña cantidad de AMBISOME® (p. ej., 1 mg) en
+el transcurso de unos 10 minutos, detener la perfusión y observar
+atentamente al paciente durante los siguientes 30 minutos. Si no se
+han  producido  reacciones  alérgicas  ni  anafilácticas/anafilactoides
+graves, se puede continuar la perfusión de la dosis de AMBISOME®.
+Si se produce una reacción alérgica o anafiláctica/anafilactoide gra-
+ve, se debe detener inmediatamente la perfusión y el paciente no
+deberá recibir más perfusiones de AMBISOME®.
+Reacciones relacionadas con la perfusión
+Pueden producirse otras reacciones graves relacionadas con la per-
+fusión durante la administración de productos que contienen anfo-
+tericina B, incluido AMBISOME® [véase Reacciones adversas (9)].
+Aunque las reacciones relacionadas con la perfusión no suelen ser
+graves, se deberá considerar la posibilidad de adoptar medidas de
+precaución para la prevención o el tratamiento de estas reacciones
+en  pacientes  que  reciban  tratamiento  con  AMBISOME®.  Medidas
+como disminuir la velocidad de perfusión (administración durante
+2 horas) o administrar dosis rutinarias de difenhidramina, paraceta-
+mol, meperidina y/o hidrocortisona han demostrado ser efectivas en
+la prevención o el tratamiento de estas reacciones.
+Toxicidad renal
+AMBISOME® ha demostrado ser considerablemente menos tóxico
+que la anfotericina B convencional, particularmente en lo que res-
+pecta a la nefrotoxicidad; sin embargo, sigue existiendo la posibili-
+dad de que ocurran reacciones adversas renales.
+En  los  estudios  que  comparan  una  dosis  de  3  mg/kg  diarios  de
+AMBISOME®  con  dosis  superiores  (5,  6  o  10  mg/kg  diarios),  se
+observó que las tasas de incidencia del aumento de la creatinina
+sérica, hipopotasemia e hipomagnesemia fueron considerablemen-
+te mayores en los grupos tratados con las dosis altas.
+En  particular,  se  debe  ser  precavido  en  los  casos  que  requieran
+tratamiento  prolongado.  Los  electrolitos  séricos,  en  particular  el
+potasio  y  el  magnesio,  como  también  las  funciones  renal,  hepá-
+
+tica y hematopoyética, deberán evaluarse regularmente mediante
+pruebas de laboratorio por lo menos una vez a la semana. Esto es
+particularmente importante en los pacientes que reciben medica-
+mentos nefrotóxicos de manera concomitante [véase Interacciones
+medicamentosas  (7.2)].  La  función  renal  debe  ser  vigilada  estre-
+chamente en estos pacientes. Debido al riesgo de hipopotasemia,
+es  posible  que  se  requiera  un  suplemento  adecuado  de  potasio
+durante el ciclo de administración de AMBISOME®. Si se produjera
+una disminución clínicamente significativa de la función renal o un
+empeoramiento  de  los  otros  parámetros,  debería  considerarse  la
+posibilidad de reducir la dosis o de interrumpir el tratamiento tem-
+poral o definitivamente.
+Toxicidad pulmonar
+Se ha informado toxicidad pulmonar aguda en pacientes tratados
+con anfotericina B (en forma de complejo de desoxicolato sódico)
+durante o poco después de recibir transfusiones de leucocitos. Se
+recomienda dejar transcurrir la mayor cantidad de tiempo posible
+entre una perfusión y otra, y vigilar la función pulmonar.
+Pacientes diabéticos:
+AMBISOME® contiene aproximadamente 900 mg de sacarosa por
+vial.  Esto  debería  tenerse  en  cuenta  cuando  se  tratan  pacientes
+diabéticos.
+Efectos sobre la capacidad para conducir y utilizar maquinaria: No
+hay estudios en relación a los efectos sobre la capacidad para con-
+ducir y utilizar maquinarias. Algunas de las reacciones adversas de
+AMBISOME® descritas a continuación pueden afectar la capacidad
+para conducir y utilizar maquinarias.
+7.2 INTERACCIONES MEDICAMENTOSAS
+No  se  han  realizado  estudios  específicos  de  interacciones  medi-
+camentosas  con  AMBISOME®.  Sin  embargo,  se  sabe  que  los  si-
+guientes productos medicinales interactúan con la anfotericina B y
+podrían hacerlo con AMBISOME®:
+Agentes antineoplásicos:
+El uso concurrente de agentes antineoplásicos puede potenciar el
+riesgo de toxicidad renal, broncoespasmo e hipotensión. La admi-
+nistración  concomitante  de  antineoplásicos  debe  realizarse  con
+precaución.
+Corticoides, corticotropina (ACTH) y diuréticos:
+El uso concurrente de corticoides, ACTH y diuréticos (de asa y tiazi-
+das) puede potenciar la hipopotasemia.
+Glucósidos digitálicos:
+La  hipopotasemia  inducida  por  AMBISOME®  puede  potenciar  la
+toxicidad de los digitálicos.
+Antifúngicos:
+No  hay  evidencia  de  que  el  uso  de  flucitosina  con  AMBISOME®
+resulte beneficioso. Si bien se ha informado una sinergia entre la
+anfotericina y la flucitosina, su uso simultáneo puede aumentar la
+toxicidad de la flucitosina, al aumentar posiblemente su captación
+celular y/o deteriorar su excreción renal.
+Transfusiones de leucocitos:
+Se ha informado toxicidad pulmonar aguda en pacientes tratados
+con anfotericina B (en forma de complejo de desoxicolato sódico)
+durante o poco después de recibir transfusiones leucocitarias. Se
+recomienda dejar transcurrir la mayor cantidad de tiempo posible
+entre una perfusión y otra, y vigilar la función pulmonar.
+
+Medicaciones nefrotóxicas:
+La administración concomitante de AMBISOME® con otros fárma-
+cos nefrotóxicos (por ejemplo, ciclosporina, aminoglucósidos, poli-
+mixinas, tacrolimus y pentamidina) puede aumentar el potencial de
+toxicidad renal inducida por medicamentos en algunos pacientes.
+Sin embargo, en los pacientes que recibieron ciclosporina y/o ami-
+noglucósidos  de  manera  concomitante,  AMBISOME®  se  asoció  a
+una nefrotoxicidad significativamente menor en comparación con la
+anfotericina B. Se recomienda un control regular de la función renal
+en los pacientes que reciban AMBISOME® con algún medicamento
+nefrotóxico.
+Miorrelajantes:
+La  hipopotasemia  inducida  por  AMBISOME®  puede  aumentar  el
+efecto curariforme de los miorrelajantes (por ejemplo, tubocurarina).
+7.3 TOXICOLOGÍA PRECLÍNICA
+En  los  estudios  de  toxicidad  subcrónica  realizados  en  perros  (1
+mes),  conejos  (1  mes)  y  ratas  (3  meses)  con  dosis  iguales  o,  en
+algunas especies, menores que las dosis clínicas terapéuticas de
+1 a 3 mg/kg/día, los órganos afectados por la toxicidad de L-AmB
+fueron el hígado y los riñones. También se observó trombocitopenia.
+Todos  ellos  son  dianas  conocidas  para  la  toxicidad  de  la  anfote-
+ricina B.
+L-AmB no fue mutagénico en bacterias ni en mamíferos.
+No se han realizado estudios de carcinogenia con L-AmB.
+No se observaron efectos adversos sobre la función reproductora
+masculina o femenina en ratas.
+7.4 USO EN POBLACIONES ESPECÍFICAS
+7.4.1 Fertilidad
+Los estudios en animales no indican efectos perjudiciales directos
+o indirectos con respecto a la toxicidad reproductiva [Véase Toxico-
+logía preclínica (7.3)].
+7.4.2 Embarazo
+No  se  ha  establecido  la  seguridad  de  AMBISOME®  en  mujeres
+embarazadas.
+Las infecciones fúngicas sistémicas han sido tratadas con éxito en
+mujeres embarazadas con anfotericina B convencional sin efectos
+evidentes sobre el feto, pero el número de casos notificados es in-
+suficiente para establecer cualquier conclusión sobre la seguridad
+de AMBISOME® en el embarazo.
+AMBISOME® solo deberá utilizarse durante el embarazo si los po-
+sibles beneficios superan los riesgos potenciales para la madre y
+el feto.
+7.4.3 Lactancia
+Se  desconoce  si  AMBISOME®  se  excreta  en  la  leche  mater-
+na  humana.  Para  decidir  si  amamantar  o  no  mientras  se  recibe
+AMBISOME®, se deberá tener en cuenta el riesgo potencial para el
+niño, como también las ventajas de la lactancia materna para él y el
+beneficio del tratamiento con AMBISOME® para la madre.
+8 ESTUDIOS CLÍNICOS
+La  eficacia  de  AMBISOME®  ha  sido  establecida  en  una  serie  de
+estudios clínicos, para el tratamiento de infecciones micóticas sis-
+témicas, el tratamiento empírico de la fiebre de etiología desconoci-
+da en pacientes neutropénicos y el tratamiento de la leishmaniasis
+visceral. Entre ellos se incluyen estudios comparativos aleatoriza-
+dos de AMBISOME® frente a la anfotericina B convencional para el
+tratamiento de aspergilosis y candidiasis confirmadas, en los que
+ambos productos medicinales exhibieron una eficacia equivalente.
+Los resultados obtenidos en un ensayo clínico doble ciego aleatori-
+zado, realizado en pacientes adultos y pediátricos con neutropenia
+febril  afectados  por  una  presunta  infección  fúngica,  demostraron
+que  la  administración  de  3  mg/kg/día  de  AMBISOME®  es  tan
+eficaz  como  el  uso  de  la  anfotericina  B  convencional.  La  eficacia
+de AMBISOME® en el tratamiento de la leishmaniasis visceral ha
+quedado  claramente  demostrada  en  una  población  numerosa  de
+pacientes inmunocompetentes e inmunocomprometidos.
+Infecciones fúngicas invasivas por hongos filamentosos (IFFI,
+por sus siglas en inglés), incluyendo Aspergillus spp.:
+La eficacia de AMBISOME® como tratamiento de primera línea en
+adultos y niños (> 30 días de edad) inmunocomprometidos, la ma-
+yoría de ellos neutropénicos, con IFFI comprobadas o probables, se
+ha demostrado en un estudio aleatorizado, prospectivo y multicén-
+trico (estudio AmBiLoad). Se monitoreó a los pacientes durante 12
+semanas. Se comparó un régimen posológico habitual de 3 mg/kg/
+día (N=107) con un régimen posológico que comprendía una dosis
+de carga de 10 mg/kg/día (N=94) durante los primeros 14 días de
+
+(3  mg/kg/día)  exhibió
+
+tratamiento. Las tasas globales de respuesta favorable fueron del
+50 % de los sujetos en el grupo que recibió el régimen posológico
+habitual y del 46 % de los sujetos en el grupo que recibió una dosis
+de  carga  en  el  conjunto  de  análisis  por  intención  de  tratar  modi-
+ficado.  Las  diferencias  no  fueron  estadísticamente  significativas.
+La mediana de tiempo transcurrido hasta la remisión de la fiebre
+fue  similar  en  ambos  grupos  (6  y  5  días,  respectivamente).  Doce
+semanas  después  de  recibir  la  primera  dosis  de  AMBISOME®,  la
+sobrevida  fue  del  72%  en  el  grupo  que  recibió  el  régimen  poso-
+lógico habitual y del 59% en el que recibió la dosis de carga; esta
+diferencia no fue estadísticamente significativa.
+Candidiasis invasiva:
+AMBISOME®
+la  misma  eficacia  que
+MICAFUNGIN® (micafungina) (100 mg/día [peso corporal > 40 kg] o
+2 mg/kg/día [peso corporal ≤ 40 kg]) como tratamiento de primera
+línea para la candidemia y la candidiasis invasiva en un estudio de
+no inferioridad, aleatorizado, doble ciego y multinacional, realizado
+en adultos y niños. AMBISOME® y MICAFUNGIN® se administraron
+durante una mediana de 15 días. La tasa global de respuesta favo-
+rable fue del 89,5 % (170/190) en el grupo de AMBISOME® y del
+89,6 % (181/202) en el grupo de MICAFUNGIN® (conjunto de aná-
+lisis por protocolo). El subestudio pediátrico, en el que participaron
+98 pacientes, 57 de ellos menores de 2 años de edad (incluyendo
+a  19  bebés  prematuros),  exhibió  las  siguientes  tasas  globales  de
+respuesta  favorable:  88,1  %  (37/42)  para  AMBISOME®  y  85,4  %
+(35/41) para MICAFUNGIN® (conjunto de análisis por protocolo).
+Mucormicosis invasiva (zigomicosis):
+No hay estudios clínicos aleatorizados a gran escala en mucormi-
+cosis.
+El  grupo  de  trabajo  de  zigomicosis  de  la  Confederación  Europea
+de  Micología  Médica  (ECMM)  recogió  prospectivamente  casos  de
+pacientes  con  zigomicosis,  130  pacientes  recibieron  anfotericina
+liposomal B (L-AmB) como tratamiento de primera línea, o bien sola
+(68) o en combinación. En pacientes que la recibieron como la única
+medicación antifúngica, la tasa de supervivencia fue de 68%. En los
+pacientes que se curaron, la duración mediana del tratamiento fue
+de 55 días (rango 14 a 169 días) y la dosis diaria mediana fue de
+5 mg/kg (rango 3 a 10 mg/kg), (Skiada et al; Clin Microbiol Infect
+2011;17 (12):1859-67).
+En un estudio piloto prospectivo de dosis alta (10 mg/kg/día) de an-
+fotericina B liposomal para el tratamiento inicial de la mucormico-
+sis, 29 pacientes que recibieron 10 mg/kg/día tuvieron una duración
+de tratamiento mediana de 13,5 días (rango 0-28 días). El punto de
+valoración primario era el éxito del tratamiento en la semana 4 o al
+final  del  tratamiento  (si  era  anterior)  y  12  (36%)  de  33  pacientes
+evaluables respondieron, incluyendo 18% con respuesta completa;
+la tasa de respuesta aumentó a 45% en la semana 12. La tasa de
+supervivencia era de 62% en la semana 12 y 47% en la semana 24
+(Lanternier et al; J Antimicrob Chemother 2015; 70(11):3116-23).
+Población pediátrica
+El perfil farmacodinámico de AMBISOME® en pacientes pediátricos
+es consistente con el descrito en pacientes adultos.
+9 REACCIONES ADVERSAS
+Resumen de las reacciones adversas
+Las  siguientes  reacciones  adversas  han  sido  atribuidas  a
+AMBISOME®, de acuerdo con los datos de los estudios clínicos y la
+experiencia durante la comercialización. La frecuencia está basada
+en el análisis de los datos agrupados obtenidos de estudios clínicos
+en los que 688 pacientes recibieron tratamiento con AMBISOME®;
+se desconoce la frecuencia de las reacciones adversas identifica-
+das a partir de la experiencia durante la comercialización. A conti-
+nuación se presentan las reacciones adversas clasificadas por clase
+de órgano o sistema según la terminología MedDRA, y ordenadas
+por frecuencia. En cada intervalo de frecuencia, las reacciones ad-
+versas se presentan en orden decreciente de gravedad.
+Las frecuencias se definen como:
+Frecuente (> 10 %)
+Ocasional (1% al 10%)
+Rara (< 1%)
+Desconocida (no puede calcularse con los datos disponibles)
+Trastornos de la sangre y del sistema linfático
+Rara: trombocitopenia
+Desconocida: anemia
+Trastornos del sistema inmunitario
+Rara: reacción anafilactoide
+Desconocida: reacciones anafilácticas, hipersensibilidad
+
+Trastornos del metabolismo y de la nutrición
+Frecuente: hipopotasemia
+Ocasional:  hiponatremia,  hipocalcemia,  hipomagnesemia,  hiper-
+glucemia
+Trastornos del sistema nervioso
+Ocasional: dolor de cabeza
+Rara: convulsiones
+Trastornos cardíacos
+Ocasional: taquicardia
+Desconocida: paro cardíaco, arritmia
+Trastornos vasculares
+Ocasional: hipotensión, vasodilatación, rubefacción
+Trastornos respiratorios, torácicos y mediastínicos
+Ocasional: disnea
+Rara: broncoespasmo
+Trastornos gastrointestinales
+Frecuente: náuseas, vómitos
+Ocasional: diarrea, dolor abdominal
+Trastornos hepatobiliares
+Ocasional: resultados anormales en las pruebas de función hepáti-
+ca, hiperbilirrubinemia, fosfatasa alcalina elevada
+Trastornos de la piel y del tejido subcutáneo
+Ocasional: erupción cutánea
+Desconocida: edema angioneurótico
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Ocasional: dolor de espalda
+Desconocida: rabdomiólisis (asociada a hipopotasemia), dolor mus-
+culoesquelético (descrito como artralgia o dolor de huesos)
+Trastornos renales y urinarios
+Ocasional: creatinina elevada, urea elevada en sangre
+Desconocida: falla renal, insuficiencia renal
+Trastornos  generales  y  alteraciones  en  el  lugar  de  adminis-
+tración
+Frecuente: escalofríos intensos, pirexia
+Ocasional: dolor en el pecho
+Descripción de reacciones adversas seleccionadas
+Reacciones relacionadas con la perfusión
+Las reacciones más frecuentes relacionadas con la perfusión que
+se  prevén  durante  la  administración  de  AMBISOME®  son  fiebre
+y  escalofríos  moderados/intensos.  Otras  reacciones  menos  fre-
+cuentes  relacionadas  con  la  perfusión  pueden  consistir  en  uno
+o más de los siguientes síntomas: opresión o dolor en el pecho,
+disnea,  broncoespasmo,  rubefacción,  taquicardia,  hipotensión  y
+dolor  musculoesquelético  (descrito  como  artralgia,  dolor  de  es-
+palda  o  dolor  de  huesos).  Estos  síntomas  remiten  rápidamente
+al detener la perfusión y puede que no aparezcan con cada dosis
+subsiguiente, o cuando se administra la perfusión más lentamente
+(durante el transcurso de 2 horas). Además, las reacciones rela-
+cionadas  con  la  perfusión  también  pueden  prevenirse  adminis-
+trando previamente ciertos medicamentos. Pese a lo anterior, las
+reacciones graves relacionadas con la perfusión pueden necesitar
+la suspensión permanente de AMBISOME® [véase Advertencias y
+precauciones (7.1)].
+En dos estudios doble ciego comparativos, los pacientes tratados
+con  AMBISOME®  presentaron  una  incidencia  significativamente
+menor de reacciones relacionadas con la perfusión en comparación
+con los tratados con anfotericina B convencional o anfotericina B
+en complejo lipídico.
+Según muestran los datos agrupados de estudios clínicos aleato-
+rizados y controlados, en los que se comparó AMBISOME® con la
+anfotericina B convencional en más de 1000 pacientes, las reaccio-
+nes adversas notificadas fueron considerablemente menos graves
+y menos frecuentes en los pacientes tratados con AMBISOME® que
+en los pacientes tratados con anfotericina B convencional.
+Toxicidad renal
+La mayoría de los pacientes que reciben anfotericina B convencio-
+nal por vía intravenosa presenta cierto grado de nefrotoxicidad. En
+un estudio doble ciego en el que participaron 687 pacientes, la in-
+cidencia de nefrotoxicidad con AMBISOME® (medida por un incre-
+mento de la creatinina sérica superior a 2,0 veces el valor basal) fue
+de aproximadamente la mitad de la observada con la anfotericina B
+convencional. En otro estudio doble ciego en el que participaron 244
+pacientes, la incidencia de nefrotoxicidad con AMBISOME® (medida
+por un incremento de la creatinina sérica superior a 2,0 veces el
+valor basal) fue de aproximadamente la mitad de la observada con
+la anfotericina B en complejo lipídico.
+
+Interferencia en el ensayo químico del fósforo:
+Pueden aparecer falsas elevaciones del fosfato sérico cuando las
+muestras de pacientes tratados con AMBISOME® se analizan con
+el ensayo PHOSm (p. ej. utilizado en analizadores Beckman Coulter,
+entre ellos Synchron LX20). Este ensayo se realiza para la determi-
+nación  cuantitativa  del  fósforo  inorgánico  en  muestras  de  suero,
+plasma u orina humanos.
+Informe de reacciones adversas sospechosas
+El informe de reacciones adversas sospechosas después de la
+autorización del producto medicinal es importante. Permite un
+monitoreo  continuo  del  balance  beneficio/riesgo  del  produc-
+to  medicinal.  Se  solicita  a  los  profesionales  de  la  salud  que
+informe  sobre  cualesquier  reacción  adversa  sospechosa  a
+través de:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notifica-
+nos/eventosadversos y/o al Departamento de Farmacovigilancia de
+GADOR S.A. vía email a farmacovigilancia@gador.com o telefónica-
+mente al 0800-220-2273.
+10 SOBREDOSIFICACIÓN
+No  se  ha  definido  la  toxicidad  de  AMBISOME®  debida  a  sobre-
+dosis  aguda.  Si  se  produjera  una  sobredosis,  se  deberá  cesar
+su  administración  inmediatamente.  Controle  cuidadosamente
+el  estado  clínico  del  paciente,  incluyendo  las  funciones  renal  y
+hepática,  los  electrolitos  séricos  y  el  estado  hematológico.  Ni  la
+hemodiálisis ni la diálisis peritoneal parecen afectar la eliminación
+de AMBISOME®.
+Poblaciones especiales (incluyendo la población pediátrica):
+No  se  encuentra  disponible  información  adicional  en  poblaciones
+especiales.
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hos-
+pital más cercano o comunicarse con los centros de Toxicología:
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Hospital Alejandro Posadas: (011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+11 CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+Conservar en su envase original a temperatura inferior a 25oC.
+AMBISOME®,  reconstituido  o  diluido  debe  utilizarse  inmediata-
+mente.
+Los tiempos y las condiciones de conservación en uso, previos a
+la administración, son responsabilidad del usuario, y normalmente
+no deberían ser mayores que 24 horas a una temperatura de 2oC a
+8°C, a menos que la reconstitución se haya realizado en condicio-
+nes asépticas controladas y validadas.
+Sin embargo, se han demostrado los siguientes datos de estabilidad
+química y física:
+Viales de vidrio, hasta 24 horas a 25±2 ̊C expuestos a luz ambiental.
+Viales de vidrio y jeringas de polipropileno, hasta 7 días a 2oC-8 ̊C.
+No congelar
+NO CONSERVAR viales parcialmente utilizados para uso en futuros
+pacientes.
+Período de validez tras la dilución con glucosa:
+Bolsas de perfusión de PVC o poliolefina: 25oC±2oC expuesto a luz
+ambiental o a 2oC-8 ̊C. No congelar. Véase la siguiente tabla para
+las recomendaciones.
+Tabla 2
+
+Diluyente
+
+Dilución
+
+Concen-
+tración de
+anfotericina
+B en mg/ml
+
+Dextrosa al 5 %
+
+ 1 en 2
+1 en 8
+1 en 20
+Dextrosa al 10 %  1 en 2
+Dextrosa al 20 %  1 en 2
+
+2,0
+0,5
+0,2
+2,0
+2,0
+
+Duración
+máxima de
+almacena-
+miento a
+2oC-8 ̊C
+  7 días
+  7 días
+  4 días
+48 horas
+48 horas
+
+Duración
+máxima de
+almacena-
+miento a
+25oC±2 ̊C
+48 horas
+48 horas
+24 horas
+72 horas
+72 horas
+
+12 PRESENTACIONES
+AMBISOME® se presenta en envases conteniendo: 1 frasco ampolla
+con liofilizado y un filtro de 5 micras.
+
+“Este  medicamento  debe  ser  usado  bajo  prescripción  y  vigi-
+lancia médica y no puede repetirse sin nueva receta médica”.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”
+
+INFORMACIÓN PARA EL PACIENTE
+
+COMPOSICIÓN
+Cada frasco ampolla de polvo liofilizado de AMBISOME® contiene:
+Anfotericina B (en liposomas) .......................................... 50 mg
+Excipientes: Sacarosa, Fosfatidilcolina Hidrogenada de soja, Dies-
+tearoilfosfatidilglicerol, Colesterol, Succinato disódico 6 H2O, Alfa
+tocoferol ..................................................................................c.s.
+Lea todo este prospecto detenidamente antes de recibir este
+medicamento  ya  que  contiene  información  importante  para
+usted.
+Conserve este prospecto. Puede que necesite volver a leerlo.
+Si tiene alguna otra duda, CONSULTE A SU MÉDICO.
+Si usted presenta cualquier efecto secundario, consulte a su mé-
+dico. Esto incluye cualquier efecto secundario posible no indicado
+en la lista en este prospecto.
+
+¿Qué es AMBISOME® y para qué se utiliza?
+AMBISOME® es un antibiótico antifúngico. El principio activo de
+AMBISOME® es la anfotericina B.
+AMBISOME®  se  administra  como  perfusión  en  una  vena  (por
+goteo) en el hospital, por un médico o un enfermero.
+AMBISOME® se utiliza para el tratamiento de infecciones graves
+causadas por hongos:
+• Infecciones  fúngicas  (por  hongos)  en  uno  o  más  órganos
+profundos del cuerpo.
+• Sospecha de infecciones fúngicas en pacientes con fiebre y
+neutropenia. La neutropenia es la disminución del número de un
+tipo de glóbulos blancos llamados neutrófilos. Estos son importan-
+tes  para  combatir  las  infecciones.  La  neutropenia  puede  ser  un
+efecto secundario de los tratamientos contra el cáncer.
+Antes de administrarle AMBISOME®, su médico verificará que la
+fiebre  no  se  deba  a  bacterias  o  virus.  Para  entonces,  es  proba-
+ble que usted ya haya recibido uno o más antibióticos. Un cuadro
+febril que persiste a pesar del tratamiento puede deberse a una
+infección fúngica. Sin embargo, esto es difícil de confirmar con las
+pruebas actualmente disponibles.
+• Leishmaniasis visceral, una enfermedad causada por un pará-
+sito.
+Lo que usted necesita saber antes de recibir AMBISOME®
+Antes de su primer tratamiento
+Antes  del  primer  tratamiento,  es  posible  que  su  médico  le  ad-
+ministre  una  pequeña  dosis  de  AMBISOME®.  Luego,  esperará
+durante aproximadamente 30 minutos para ver si usted presenta
+una reacción alérgica, antes de continuar administrándole la dosis
+completa de la perfusión.
+
+Advertencias y precauciones
+Su médico no le administrará AMBISOME®
+• Si usted es alérgico (hipersensible) a la anfotericina B o a cual-
+quiera de los demás componentes de AMBISOME®. Sin embargo,
+si su afección pone en riesgo su vida, se le podrá administrar
+AMBISOME®  si  su  médico  estima  que  este  medicamento  es  el
+único que puede ayudarlo.
+• Si usted ha presentado antes una reacción alérgica (anafilác-
+tica o anafilactoide) grave a AMBISOME®. Los síntomas de este
+tipo de reacciones alérgicas inmediatas y potencialmente morta-
+les  incluyen:  rubefacción  (rubor),  picazón  (comezón),  náuseas,  e
+hinchazón de la cara, la boca, la lengua y las vías respiratorias, a
+menudo suficiente para causar dificultad para respirar.
+
+Su médico tendrá especial cuidado con AMBISOME®
+• Si usted presenta una reacción alérgica (anafiláctica) gra-
+ve. Si esto ocurre, su médico detendrá la perfusión.
+• Si usted presenta otras reacciones relacionadas con la per-
+fusión. Si esto ocurre, su médico puede reducir la velocidad de
+administración de la perfusión para que usted reciba AMBISOME®
+durante un período de tiempo más prolongado (aproximadamen-
+te 2 horas). Su médico también podrá darle medicamentos para
+prevenir  o  tratar  las  reacciones  relacionadas  con  la  perfusión,
+tales  como  difenhidramina  (un  antihistamínico),  paracetamol,
+meperidina  (un  analgésico)  y/o  hidrocortisona  (un  medicamento
+antiinflamatorio que actúa reduciendo la respuesta de su sistema
+inmunitario).
+• Si  usted  está  tomando  otros  medicamentos  que  pue-
+dan  dañar  los  riñones,  consulte  Uso  de  otros  medicamentos.
+
+AMBISOME® puede dañar los riñones. Su médico o enfermero le
+extraerán muestras de sangre periódicamente. El objetivo es anali-
+zar la creatinina (un compuesto químico de la sangre que refleja el
+funcionamiento de los riñones) y los niveles de electrolitos (en es-
+pecial, potasio y magnesio), ya que estos pueden verse alterados
+si  tiene  problemas  renales.  Esta  precaución  es  particularmente
+importante si usted está tomando otros medicamentos que pue-
+dan causar daño a los riñones. Sus muestras de sangre también se
+utilizarán para detectar cambios en el hígado y en la capacidad del
+organismo para producir nuevas células sanguíneas y plaquetas.
+• Si  los  resultados  de  los  análisis  de  sangre  muestran  un
+cambio en el funcionamiento de los riñones u otros cambios
+importantes.  Si  esto  ocurre,  su  médico  puede  administrarle  una
+dosis más baja de AMBISOME® o suspender el tratamiento.
+• Si los resultados de los análisis de sangre muestran que su
+nivel de potasio es bajo. Si esto ocurre, su médico puede rece-
+tarle un suplemento de potasio para que lo tome mientras reciba
+tratamiento con AMBISOME®.
+• Si usted recibe una transfusión de glóbulos blancos. Pue-
+den surgir problemas repentinos y graves en los pulmones si se
+le administra la perfusión de AMBISOME® durante o poco tiempo
+después de una transfusión de glóbulos blancos. Su médico re-
+comendará dejar transcurrir la mayor cantidad de tiempo posible
+entre una perfusión y otra. Esto reducirá el riesgo de problemas
+pulmonares, y se vigilará el funcionamiento de los pulmones.
+• Si usted ha tenido una falla renal y está recibiendo diálisis.
+Su médico puede iniciar el tratamiento con AMBISOME® una vez
+terminado el procedimiento.
+• Si usted es diabético. AMBISOME® contiene aproximadamen-
+te 900 mg de sacarosa (azúcar) por vial. Informe a su médico si
+usted es diabético.
+
+Otros medicamentos y AMBISOME®
+Informe  a  su  médico  si  está  utilizando  o  ha  utilizado  reciente-
+mente cualquier otro medicamento. Esto incluye los medicamen-
+tos y productos herbarios que haya adquirido sin receta.
+
+Medicamentos que pueden causar daño renal:
+• Medicamentos que inhiben el sistema inmunitario (inmuno-
+supresores), como la ciclosporina y el tacrolimus.
+• Ciertos  antibióticos  llamados  aminoglucósidos  (incluyendo
+gentamicina, neomicina y estreptomicina) y polimixinas.
+• Pentamidina, un medicamento utilizado para tratar la neumonía
+en pacientes con SIDA y leishmaniasis.
+Informe a su médico si está utilizando cualquiera de estos me-
+dicamentos. AMBISOME® puede empeorar el daño producido por
+estos medicamentos a los riñones. Si usted está tomando cualquiera
+de estos medicamentos, su médico o enfermero le extraerán mues-
+tras de sangre periódicamente para controlar sus riñones.
+
+Medicamentos que pueden reducir sus niveles de potasio:
+• Corticoides, medicamentos antiinflamatorios que actúan dismi-
+nuyendo la respuesta de su sistema inmunitario.
+• Corticotropina  (ACTH),  utilizada  para  controlar  la  cantidad  de
+corticoides producidos por el cuerpo. El organismo genera corti-
+coides en respuesta al estrés.
+• Diuréticos, medicamentos que aumentan el volumen de orina
+que produce el cuerpo. Uno de ellos es la furosemida.
+• Glucósidos digitálicos, medicamentos producidos a partir de
+la  planta  digital  (dedalera),  utilizados  para  tratar  la  insuficiencia
+cardíaca.  AMBISOME®  puede  empeorar  los  efectos  secundarios
+de la digital, tales como alteraciones en el ritmo cardíaco.
+• Relajantes  musculares  usados  habitualmente  durante  una
+cirugía,  como  la  tubocurarina.  AMBISOME®  puede  aumentar  el
+efecto relajante muscular.
+
+Otros medicamentos:
+• Medicamentos antifúngicos, como la flucitosina. AMBISOME®
+puede  empeorar  los  efectos  secundarios  de  la  flucitosina.  Esto
+incluye cambios en la capacidad del organismo para producir nue-
+vas células sanguíneas, lo que puede reflejarse en los análisis de
+sangre.
+• Ciertos medicamentos anticancerosos, como el metotrexato,
+la doxorrubicina, la carmustina y la ciclofosfamida. El uso de este
+
+tipo de medicamentos junto con AMBISOME® puede causar daños
+en los riñones, silbidos en el pecho o dificultades para respirar, y
+reducción de la presión arterial.
+• Transfusiones  de  glóbulos  blancos  (leucocitos).  Pueden
+surgir  problemas  repentinos  y  graves  en  los  pulmones  si  se  le
+administra  la  perfusión  de  AMBISOME®  durante  o  poco  tiempo
+después de una transfusión de glóbulos blancos. Su médico re-
+comendará dejar transcurrir la mayor cantidad de tiempo posible
+entre una perfusión y otra. Esto reducirá el riesgo de problemas
+pulmonares, y se vigilará el funcionamiento de los pulmones.
+
+Embarazo y lactancia
+Si  usted  está  embarazada,  o  está  amamantando,  cree  que  está
+embarazada o tiene planes de quedar embarazada, consulte a su
+médico antes de tomar este medicamento.
+Su médico le recetará este medicamento solamente si considera
+que los beneficios del tratamiento superan los riesgos para usted
+y su bebé o el feto en gestación.
+Conducción y uso de máquinas
+No conduzca ni use máquinas
+Algunos  de  los  posibles  efectos  secundarios  de  AMBISOME®
+podrían  alterar  su  capacidad  para  conducir  vehículos  o  utilizar
+máquinas de manera segura.
+AMBISOME® contiene azúcar
+Informe a su médico si usted es diabético. AMBISOME® contiene
+aproximadamente 900 mg de azúcar (sacarosa) por vial.
+
+¿Cómo se administra AMBISOME®?
+AMBISOME®  siempre  le  será  administrado  por  un  médico  o  un
+enfermero. Se administra en una vena (por goteo). AMBISOME®
+no debe administrarse mediante ningún otro método.
+Para preparar la perfusión, AMBISOME® debe disolverse en agua
+estéril  para  preparaciones  inyectables  y  luego  diluirse  con  una
+solución que contiene dextrosa.
+AMBISOME® no debe mezclarse con soluciones salinas (sales) ni
+con otros productos medicinales o electrolitos.
+AMBISOME® no es intercambiable por otros productos que con-
+tengan anfotericina.
+Antes de su primer tratamiento
+Antes  del  primer  tratamiento,  es  posible  que  su  médico  le  ad-
+ministre  una  pequeña  dosis  de  AMBISOME®.  Luego,  esperará
+durante aproximadamente 30 minutos para ver si usted presenta
+una reacción alérgica, antes de continuar administrándole la dosis
+completa de la perfusión.
+Uso en adultos
+La dosis de AMBISOME® se basará en su peso corporal.
+Infecciones  fúngicas  en  uno  o  más  órganos  profundos  del
+cuerpo:
+El tratamiento normalmente comienza con 1 mg por kg de peso
+corporal, todos los días durante 2 a 4 semanas. Su médico puede
+decidir aumentarle la dosis hasta un máximo de 3 mg por kg de
+peso corporal.
+Para mucormicosis la dosis inicial es normalmente de 5 mg por kg
+de peso corporal por día. La duración de la terapia será determi-
+nada individualmente por su médico.
+Sospecha de infecciones fúngicas en pacientes con fiebre y
+neutropenia:
+La dosis diaria recomendada es de 3 mg por kg de peso corporal
+al día. Se le administrará AMBISOME® hasta que su temperatura
+se haya mantenido normal durante 3 días consecutivos. Sin em-
+bargo,  AMBISOME®  no  debe  administrarse  durante  más  de  42
+días seguidos.
+Leishmaniasis visceral:
+Se le podría administrar una dosis total de entre 21 y 30 mg por kg de
+peso corporal en el transcurso de 10 a 21 días. Su médico decidirá
+la dosis de AMBISOME® que usted deberá recibir y la cantidad de
+días durante los cuales se le administrará.
+
+Uso en niños y adolescentes
+AMBISOME®  ha  sido  utilizado  para  tratar  a  niños.  La  dosis  de
+AMBISOME®  para  el  tratamiento  de  niños  se  calcula  por  kg  de
+peso corporal, igual que en los adultos.
+No  se  recomienda  AMBISOME®  para  bebés  menores  de  1  mes
+de edad.
+Uso en pacientes ancianos
+No es necesario cambiar la dosis ni la frecuencia de la perfusión
+
+en pacientes ancianos.
+Uso en pacientes con problemas renales
+AMBISOME® se ha administrado a pacientes con problemas rena-
+les en dosis que van de 1 a 5 mg por kg de peso corporal al día. No
+es necesario cambiar la dosis ni la frecuencia de la perfusión. Su
+médico o enfermero le extraerán muestras de sangre periódica-
+mente para determinar si presenta cambios en el funcionamiento
+de los riñones durante el tratamiento con AMBISOME®.
+¿Cuánto tiempo durará la perfusión?
+Normalmente,  la  perfusión  tomará  entre  30  y  60  minutos.  En  el
+caso de dosis mayores que 5 mg por kg de peso corporal al día, la
+perfusión podría tardar hasta 2 horas.
+Si usted recibe una dosis mayor de AMBISOME® que la que
+debería
+Usted debería consultar a su médico inmediatamente si cree que
+recibió demasiado AMBISOME®.
+Si tiene preguntas adicionales sobre el uso de este producto, con-
+sulte a su médico.
+
+Posibles efectos secundarios
+Como todos los medicamentos, AMBISOME® puede causar efec-
+tos secundarios, aunque no todas las personas los presentan.
+Efectos secundarios durante la perfusión
+Usted puede presentar efectos secundarios durante la perfusión:
+• Frecuentes (estos pueden afectar a más de 1 de cada 10 per-
+sonas): fiebre, escalofríos y temblores.
+• Los efectos secundarios relacionados con la perfusión pre-
+sentados con menor frecuencia incluyen: opresión en el pecho,
+dolor en el pecho, falta de aire, dificultad para respirar (posible-
+mente con silbidos en el pecho), rubefacción, frecuencia cardíaca
+más rápida que lo normal, presión arterial baja y dolor musculoes-
+quelético (descrito como dolor de articulaciones, dolor de espalda
+o dolor de huesos).
+Estos efectos secundarios desaparecen rápidamente al detener la
+perfusión. Puede que estas reacciones no ocurran con perfusiones
+posteriores de AMBISOME® o si la perfusión se administra más
+lentamente (durante el transcurso de 2 horas). Su médico podrá
+darle  otros  medicamentos  para  prevenir  las  reacciones  relacio-
+nadas  con  la  perfusión  o  tratar  los  síntomas  si  presenta  alguna
+de ellas. Si usted presenta una reacción grave relacionada con la
+perfusión, su médico detendrá la administración de AMBISOME®,
+y usted no deberá volver a recibir este tratamiento en el futuro.
+
+Efectos secundarios frecuentes
+Estos pueden afectar a más de 1 de cada 10 personas:
+• Niveles bajos de potasio en la sangre, lo que provoca sensación
+de cansancio, confusión, debilidad muscular o calambres
+• Sensación de náuseas o vómitos
+• Fiebre, escalofríos o temblores
+Efectos secundarios ocasionales
+Estos pueden afectar a hasta 1 de cada 10 personas:
+• Niveles bajos de magnesio, calcio o sodio en la sangre, lo que
+provoca sensación de cansancio, confusión y debilidad muscular o
+calambres
+• Niveles altos de azúcar en la sangre
+• Dolor de cabeza
+• Frecuencia cardíaca más rápida que lo normal
+• Dilatación  (ensanchamiento)  de  los  vasos  sanguíneos,  lo  que
+provoca reducción de la presión arterial y rubefacción
+• Falta de aire
+• Diarrea
+• Dolor de estómago (abdominal)
+• Erupción cutánea
+• Dolor de pecho
+• Dolor de espalda
+• Resultados anormales de la función hepática o renal en los aná-
+lisis de sangre o de orina
+Efectos secundarios raros
+Estos pueden afectar a hasta 1 de cada 100 personas:
+• Sangrado en la piel, sangrado prolongado y formación de more-
+tones inusual después de una lesión
+• Reacción alérgica (anafilactoide) grave
+• Ataques o crisis convulsivas (convulsiones)
+• Dificultad para respirar, posiblemente con silbidos en el pecho.
+Otros efectos secundarios
+No se sabe con qué frecuencia ocurren estos efectos secundarios:
+
+• Anemia (niveles bajos de glóbulos rojos en la sangre), con sínto-
+mas de cansancio excesivo, falta de aire después de una actividad
+ligera y palidez en el rostro
+• Reacciones alérgicas (anafilácticas) o de hipersensibilidad graves
+• Ataques cardíacos y cambios en el ritmo cardíaco
+• Falla renal y problemas renales. Los signos incluyen cansancio y
+menor volumen de orina
+• Hinchazón intensa de la piel alrededor de los labios, los ojos o la
+lengua
+• Degradación de músculos
+• Dolor de huesos y dolor de articulaciones
+
+Interferencia en los resultados del análisis sanguíneo del fós-
+foro. Pueden registrarse aumentos falsos de los niveles de fosfato
+en la sangre cuando las muestras de los pacientes tratados con
+AMBISOME® se analizan con un método específico llamado en-
+sayo PHOSm.
+Si los resultados de su análisis muestran niveles elevados de fos-
+fato, puede ser necesario hacer análisis adicionales utilizando un
+método diferente para confirmar los resultados.
+Si  usted  nota  algún  efecto  secundario  que  le  preocupa,  ya  sea
+que esté incluido o no en este prospecto, informe a su médico.
+Estos  no  son  todos
+los  posibles  efectos  secundarios  de
+AMBISOME®.  Para  mayor  información,  pregunte  a  su  médico  o
+farmacéutico.
+Llame  a  su  médico  para  informarse  acerca  de  los  efectos  cola-
+terales.
+
+Comunicación de efectos no deseados
+Si experimenta cualquier efecto no deseado, consulte a su médico,
+
+incluso si se trata de efectos adversos que no aparecen en el pros-
+pecto. También puede ponerse en contacto con el Departamento
+de  Farmacovigilancia  de  GADOR  S.A.,  llamando  al  teléfono  +54
+(11) 4858-9000 o enviando un correo electrónico a farmacovigi-
+lancia@gador.com.
+“Ante cualquier inconveniente con el producto el paciente puede
+llenar la ficha que está en la Página Web de ANMAT: https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes o
+llamar a ANMAT responde 0800-333-1234”.
+Al comunicar los efectos indeseados observados usted puede ayu-
+dar a adquirir mayor conocimiento con respecto a la seguridad de
+este producto medicinal.
+
+¿Cómo almacenar AMBISOME®?
+AMBISOME® se almacena en la farmacia del hospital.
+Mantener fuera del alcance y de la vista de los niños.
+No utilizar AMBISOME® después de la fecha indicada en la eti-
+queta después de (VENC.). La fecha de vencimiento se refiere al
+último día del mes.
+Conservar a temperatura inferior a 25°C.
+No  conservar  viales  parcialmente  utilizados  para  uso  en  futuros
+pacientes.
+
+Información general acerca de AMBISOME®
+AMBISOME®  es  un  polvo  liofilizado  (secado  mediante  congela-
+ción),  estéril,  de  color  amarillo  brillante  para  solución  para  per-
+fusión.
+Cada vial contiene 50 mg del principio activo anfotericina B.
+AMBISOME® se presenta en envases conteniendo: 1 frasco ampo-
+lla con liofilizado y un filtro de 5 micras.
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com/productos
+o solicítela por correo electrónico: info@gador.com
+
+Elaborado por Gilead Science Inc., San Dimas, CA 91773 – USA y/o Gilead Science Inc., 1800 Wheeler Avenue, La Verne, CA  91750.
+Importado y Distribuido y Comercializado por: GADOR S.A. Darwin 429 - C1414CUI – C.A.B.A.- Tel: 4858-9000.
+D.T.: Jorge N. Naquit, Farmacéutico y Lic. En Ciencias Farmacéuticas.
+E.M.A.M.S. Certificado N° 43344
+Fecha de última revisión: 05/2018
+AR-PY-NOV17-UK-MAR17
+
+G00226200-00

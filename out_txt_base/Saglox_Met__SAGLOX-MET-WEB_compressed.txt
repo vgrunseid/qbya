@@ -1,0 +1,1018 @@
+SAGLOX® MET 5/850
+EMPAGLIFLOZINA 5,000 mg
+METFORMINA CLORHIDRATO 850,000 mg
+SAGLOX® MET 5/1000
+EMPAGLIFLOZINA 5,000 mg
+METFORMINA CLORHIDRATO 1000,00 mg
+SAGLOX® MET 12,5/850
+EMPAGLIFLOZINA 12,500 mg
+METFORMINA CLORHIDRATO 850,000 mg
+SAGLOX® MET 12,5/1000
+EMPAGLIFLOZINA 12,500 mg
+METFORMINA CLORHIDRATO 1000,000 mg
+
+COMPRIMIDOS
+RECUBIERTOS
+
+COMPRIMIDOS
+RECUBIERTOS
+
+COMPRIMIDOS
+RECUBIERTOS
+
+COMPRIMIDOS
+RECUBIERTOS
+
+Venta Bajo Receta
+
+     Industria Argentina
+
+FÓRMULAS
+SAGLOX MET 5/850:
+Cada comprimido recubierto contiene: Empagliflozina 5,000 mg, Metformina Clorhidrato
+850,000 mg. Excipientes: celulosa microcristalina 339,800 mg, copovidona 79,750 mg,
+crospovidona 152,250 mg, estearato de magnesio 23,200 mg, opadry II blanco 39,950
+mg (alcohol polivinílico parcialmente hidrolizado 15,9800 mg, dióxido de titanio 9,9875
+mg, polietilenglicol 3000 8,0699 mg, talco 5,9126 mg), óxido de hierro amarillo (CI N°
+77492) 0,050 mg.
+
+SAGLOX MET 5/1000
+Cada comprimido recubierto contiene: Empagliflozina 5,000 mg, Metformina Clorhidrato
+1000,00 mg. Excipientes: celulosa microcristalina 231,000 mg; copovidona 82,500 mg,
+crospovidona 157,500 mg, estearato de magnesio 24,000 mg, opadry II blanco 45,625
+mg (alcohol polivinílico parcialmente hidrolizado 18,2500 mg, dióxido de titanio 11,4063
+mg, polietilenglicol 3000 9,21625 mg, talco 6,7525 mg), óxido de hierro amarillo (CI N°
+77492) 4,375 mg.
+
+SAGLOX MET 12,5/850
+Cada comprimido recubierto contiene: Empagliflozina 12,500 mg, Metformina
+Clorhidrato 850,000 mg. Excipientes: celulosa microcristalina 332,300 mg, copovidona
+79,750 mg, crospovidona 152,250 mg, estearato de magnesio 23,200 mg, opadry II
+blanco 39,950 mg (alcohol polivinílico parcialmente hidrolizado 15,9800 mg, dióxido
+de titanio 9,9875 mg, polietilenglicol 3000 8,0699 mg, talco 5,9126 mg), óxido de hierro
+rojo (CI N° 77491) 0,043 mg, óxido de hierro negro (CI N° 77499) 0,007 mg.
+
+SAGLOX MET 12,5/1000
+Cada comprimido recubierto contiene: Empagliflozina 12,500 mg, Metformina Clorhidra-
+to 1000,000 mg. Excipientes: celulosa microcristalina 223,500 mg, copovidona 82,500
+mg, crospovidona 157,500 mg, estearato de magnesio 24,000 mg, opadry II blanco
+47,500 mg (alcohol polivinílico parcialmente hidrolizado 19,0000 mg, dióxido de titanio
+11,8750 mg, polietilenglicol 3000 9,5950 mg, talco 7,0300 mg), óxido de hierro rojo (CI
+N° 77491) 2,200 mg, óxido de hierro negro (CI N° 77499) 0,300 mg.
+
+ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: Combinaciones de fármacos hipoglucemiantes orales.
+CÓDIGO ATC: A10BD20
+
+INDICACIONES
+SAGLOX MET está indicado como tratamiento complementario de un régimen de dieta
+y ejercicio físico para mejorar el control glucémico en pacientes adultos con diabetes
+mellitus tipo 2.
+•Cuando el tratamiento con empagliflozina y metformina resulta adecuado.
+•En los que no se logra un control adecuado con su dosis máxima tolerada de
+metformina sola.
+•En los que no se logra un control adecuado con empagliflozina o metformina en
+combinación con otros hipoglucemiantes, incluida la insulina.
+•Que ya están recibiendo tratamiento con empagliflozina y metformina coadministradas
+como comprimidos con cada fármaco por separado.
+
+Prevención de eventos cardiovasculares:
+SAGLOX MET está indicado en pacientes adultos con diabetes mellitus tipo 2 y
+alto riesgo cardiovascular en los casos en que el tratamiento con empagliflozina y
+metformina resulta adecuado, y se requiere de empagliflozina para reducir el riesgo
+de:
+•Mortalidad por todas las causas al reducir la muerte cardiovascular y
+•Muerte cardiovascular u hospitalización por insuficiencia cardíaca.
+
+ACCIÓN FARMACOLÓGICA
+La empagliflozina es un inhibidor competitivo, selectivo, reversible y altamente potente
+del SGLT-2 (transportador de sodio-glucosa tipo 2), con un valor de IC50 de 1,3 nM.
+Tiene una selectividad 5000 veces mayor frente al SGLT-1 humano (IC50 de 6278 nM),
+responsable de la absorción de glucosa en los intestinos. También se demostró una
+elevada selectividad para otros transportadores de glucosa (GLUT) responsables de
+la homeostasis de la glucosa en los diferentes tejidos.
+La expresión de SGLT-2 en los riñones es elevada, mientras que en otros tejidos este
+transportador está ausente o su expresión es muy baja. Este transportador es el princi-
+pal responsable de la reabsorción de glucosa del filtrado glomerular hacia el torrente
+sanguíneo. En los pacientes con diabetes mellitus tipo 2 (DMT2) e hiperglucemia, la
+cantidad de glucosa que se filtra y se reabsorbe es mayor.
+La empagliflozina mejora el control glucémico en los pacientes con diabetes mellitus
+tipo 2 mediante la reducción de reabsorción de glucosa renal. La cantidad de glucosa
+eliminada por el riñón a través de este mecanismo glucurético varía en función de la
+concentración de glucosa en sangre y la TFGe (tasa de filtración glomerular estimada).
+Mediante la inhibición del SGLT-2 en los pacientes con DMT2 e hiperglucemia, el exceso
+de glucosa se excreta a través de la orina.
+En los pacientes con DMT2, la excreción de glucosa urinaria se incrementó inmediata-
+mente después de la primera dosis de empagliflozina y se mantiene durante el
+intervalo de 24 horas entre dosis. El aumento de la excreción de glucosa urinaria se
+mantuvo al final del período de tratamiento de 4 semanas, con un valor promedio de
+aproximadamente 78 g/día con dosis de empagliflozina de 25 mg administradas en
+una toma diaria. Este incremento de la excreción de glucosa urinaria condujo a una
+reducción inmediata de los niveles de glucosa plasmática en los pacientes con DMT2.
+La empagliflozina mejora los niveles plasmáticos de glucosa tanto pre como posprandia-
+les.
+El mecanismo de acción de la empagliflozina es independiente de la función de
+
+las células beta y la vía metabólica de insulina, y esto contribuye a que el riesgo de
+hipoglucemia con este fármaco sea bajo.
+Se observó una mejoría de los marcadores sustitutos de la función de las células beta,
+incluyendo el HOMA-β (Homeostasis Model Assessment-B) y el cociente proinsulina-in-
+sulina. Además, la excreción de glucosa urinaria desencadena un fenómeno de pérdida
+calórica, asociado con pérdida de grasa corporal y reducción del peso corporal.
+La glucosuria que se observa con la empagliflozina está acompañada de una ligera
+diuresis que podría contribuir a una reducción moderada y sostenida de la presión
+arterial.
+La metformina es una biguanida con efectos antihiperglucémicos, que reduce los
+valores de glucosa plasmática tanto basales como posprandiales. Este fármaco no
+estimula la secreción de insulina y, por ende, no provoca hipoglucemia.
+El clorhidrato de metformina puede actuar a través de 3 mecanismos de acción:
+(1) Reducción de la producción de glucosa hepática, mediante la inhibición de la
+gluconeogénesis y la glucogenólisis;
+(2) En los músculos, incrementando la sensibilidad a la insulina, lo cual se traduce en
+una mejor captación y utilización de la glucosa periférica; y
+(3) Retardo de la absorción intestinal de la glucosa.
+El clorhidrato de metformina estimula la síntesis de glucógeno intracelular a través de
+su acción sobre la glucógeno sintasa.
+El clorhidrato de metformina aumenta la capacidad de transporte de todos los tipos de
+transportadores de glucosa (GLUT) de membrana conocidos hasta la fecha.
+En los seres humanos, independientemente de su acción sobre la glucemia, el clorhidra-
+to de metformina ejerce efectos favorables sobre el metabolismo de los lípidos. Esto ha
+sido demostrado en dosis terapéuticas en estudios clínicos controlados a mediano o
+largo plazo: el clorhidrato de metformina reduce los niveles de colesterol total, colesterol
+LDL y triglicéridos.
+
+FARMACOCINÉTICA
+Empagliflozina
+Absorción
+La farmacocinética de empagliflozina ha sido ampliamente caracterizada en voluntarios
+sanos y en pacientes con DMT2. Tras la administración por vía oral, la empagliflozina
+se absorbió rápidamente, con concentraciones plasmáticas pico alcanzadas en una
+mediana de Tmax de 1,5 horas posdosis. A partir de ese momento, las concentraciones
+plasmáticas se redujeron siguiendo un patrón bifásico con una fase de distribución
+rápida y una fase terminal relativamente lenta. Los valores plasmáticos medios en
+estado de equilibrio dinámico para AUC y Cmax fueron 1870 nmol.h y 259 nmol/l con
+empagliflozina 10 mg y 4740 nmol.h/L y 687 nmol/L con empagliflozina 25 mg una vez
+al día, respectivamente. La exposición sistémica de la empagliflozina se incrementó de
+manera proporcional a la dosis. Los parámetros farmacocinéticos de las dosis únicas
+de empagliflozina fueron similares a aquellos del estado de equilibrio dinámico, lo que
+sugiere una farmacocinética lineal en lo que al tiempo se refiere. No hubo ninguna
+diferencia clínicamente relevante en la farmacocinética de empagliflozina entre los
+voluntarios sanos y los pacientes con diabetes mellitus tipo 2.
+La farmacocinética de una dosis de 5 mg de empagliflozina administrada dos veces al
+día y de dosis de 10 mg de empagliflozina administrada una vez al día se comparó en
+sujetos sanos. La exposición total (AUCss) de empagliflozina a lo largo de un período de
+24 horas con dosis de 5 mg administradas dos veces al día fue similar a la observada
+en el caso del régimen de dosis de 10 mg administrada una vez al día. Tal como se
+esperaba, el régimen de dosis de empagliflozina 5 mg administradas dos veces al día
+en comparación con el régimen de dosis de empagliflozina de 10 mg administrada una
+vez al día condujo a valores más bajos de Cmax y a valores más altos de concentración
+plasmática valle (Cmin) de empagliflozina.
+La administración de 25 mg de empagliflozina tras la ingesta de una comida de alto
+contenido de grasas y alto contenido calórico condujo a un ligero descenso de la
+exposición; el AUC se redujo en aproximadamente un 16% y la Cmax se redujo en apro-
+ximadamente un 37%, en comparación con los valores preprandiales registrados en
+ayunas. Este efecto de la ingesta de alimentos que se observó sobre la farmacocinética
+de la empagliflozina no se consideró clínicamente relevante, con lo cual la empagliflozi-
+na puede tomarse con las comidas o alejado de ellas.
+Distribución
+El volumen de distribución aparente en estado de equilibrio dinámico se estimó en
+un valor de 73,8 L, sobre la base de un análisis de farmacocinética poblacional. Tras
+la administración de una solución oral de [14C]-empagliflozina a sujetos sanos, el
+particionamiento en los glóbulos rojos fue de aproximadamente el 36,8% y el índice
+de unión a las proteínas plasmáticas fue del 86,2%.
+Biotransformación
+No se identificó ningún metabolito mayor de la empagliflozina en el plasma humano;
+los metabolitos más abundantes fueron tres conjugados glucurónidos (glucurónidos
+2-O-, 3-O- y 6-O). La exposición sistémica de cada metabolito fue de menos del 10%
+del total del material relacionado con el fármaco.
+Los estudios in vitro sugirieron que la principal vía metabólica de la empagliflozina en
+los seres humanos es la glucuronidación a través de las uridinas 5'-difosfo-glucuronosil-
+transferasas, UGT1A3, UGT1A8, UGT1A9 y UGT2B7.
+Eliminación
+La vida media de eliminación terminal aparente de la empagliflozina se estimó en un
+valor de 12,4 hs, y la depuración oral aparente fue de 10,6 L/h sobre la base del análisis
+de farmacocinética poblacional. Las variabilidades intersujeto y residuales de la depura-
+ción oral de la empagliflozina fueron del 39,1% y del 35,8%, respectivamente. Con un
+régimen de una toma diaria, las concentraciones plasmáticas en estado de equilibrio
+dinámico de la empagliflozina se alcanzaron para la quinta dosis. En concordancia con
+su vida media, en el estado de equilibrio dinámico se observó una acumulación de hasta
+un 22%, con respecto al AUC plasmático. Tras la administración de una solución oral de
+[14C]-empagliflozina a sujetos sanos, aproximadamente el 95,6% de la radioactividad
+relacionada con el fármaco fue eliminada en las heces (41,2%) o en la orina (54,4%).
+La mayor parte de la radioactividad relacionada con el fármaco recuperada en las
+heces correspondía al fármaco original inalterado y aproximadamente la mitad de la
+radioactividad relacionada con el fármaco excretada en la orina era fármaco original
+inalterado.
+
+Poblaciones específicas
+Insuficiencia renal
+En los pacientes con insuficiencia renal leve (TFGe: 60 a < 90 ml/min/1,73 m2),
+moderada (TFGe: 30 a < 60 ml/min/1,73 m2), severa (TFGe: < 30 ml/min/1,73 m2) y
+en los pacientes con falla renal/ ESRD (enfermedad renal en estadio final), el valor
+de AUC de la empagliflozina se incrementó aproximadamente un 18%, un 20%,
+un 66% y un 48%, respectivamente, en comparación con los sujetos con función
+renal normal. Los niveles plasmáticos pico de empagliflozina fueron similares en los
+sujetos con insuficiencia renal moderada y en los sujetos con falla renal terminal en
+comparación con los pacientes con función renal normal. Los niveles plasmáticos
+pico de empagliflozina fueron aproximadamente un 20% más altos en los sujetos
+con insuficiencia renal leve y severa en comparación con los sujetos con función
+renal normal. En concordancia con el estudio de fase I, el análisis de farmacocinética
+poblacional indicó que la depuración oral aparente de la empagliflozina se redujo con
+un descenso en el TFGe que condujo a un incremento en la exposición al fármaco. No
+se recomienda ningún ajuste de la posología en los pacientes con insuficiencia renal
+sobre la base de los datos de farmacocinética observados.
+
+Insuficiencia hepática
+En los sujetos con insuficiencia hepática leve, moderada y severa de acuerdo con la cla-
+sificación de Child-Pugh, el AUC de la empagliflozina se incrementó aproximadamente
+un 23%, 47% y 75% y la Cmax se incrementó aproximadamente un 4%, 23% y 48%,
+respectivamente, en comparación con los sujetos con función hepática normal. No se
+recomienda ningún ajuste de la posología en los pacientes con insuficiencia hepática
+sobre la base de los datos de farmacocinética observados.
+
+1
+
+2
+
+Índice de masa corporal (IMC)
+No se requiere ningún ajuste de la posología en función del IMC. El índice de masa
+corporal no tuvo ningún efecto clínicamente relevante sobre la farmacocinética de la
+empagliflozina en función de lo determinado mediante el análisis de farmacocinética
+poblacional.
+
+debe evaluar la TFG antes de iniciar el tratamiento con productos que contengan
+metformina y, al menos, una vez al año a partir de entonces. En pacientes expuestos
+a un mayor riesgo de progresión de la insuficiencia renal y en pacientes de edad
+avanzada, se debe evaluar la función renal con mayor frecuencia, p. ej., cada 3-6
+meses.
+Tabla: Posología para pacientes con insuficiencia renal*
+
+Género
+No se requiere ningún ajuste de la posología en función del género. El género no tuvo
+ningún efecto clínicamente relevante sobre la farmacocinética de la empagliflozina en
+función de lo determinado mediante el análisis de farmacocinética poblacional.
+
+TFGe
+ml/min
+60-89
+
+Raza
+No se requiere ningún ajuste de la posología en función de la raza. Sobre la base del
+análisis de farmacocinética poblacional, se estimó que el AUC fue un 13,5% más alto
+en los pacientes asiáticos con un IMC de 25 kg/m2 en comparación con los pacientes
+de raza no asiática con un IMC de 25 kg/m2.
+
+Pacientes geriátricos
+La edad no tuvo ninguna repercusión clínicamente significativa sobre la farmacocinética
+de la empagliflozina en función de lo determinado mediante el análisis de farmacocinéti-
+ca poblacional.
+
+Pacientes pediátricos
+No se han realizado estudios para caracterizar la farmacocinética de la empagliflozina
+en pacientes pediátricos.
+
+Metformina
+Absorción
+Tras una dosis oral de metformina, el Tmax se alcanza en 2,5 horas. La biodisponibilidad
+absoluta de un comprimido de 500 mg o de 850 mg de clorhidrato de metformina es de
+aproximadamente un 50-60% en los sujetos sanos. Luego de una dosis oral, la fracción
+no absorbida recuperada en las heces fue del 20-30%.
+Tras la administración oral, la absorción del clorhidrato de metformina es saturable
+e incompleta. Se presume que la farmacocinética de la absorción del clorhidrato de
+metformina es no lineal.
+Con las dosis y los regímenes posológicos recomendados del clorhidrato de metformi-
+na, las concentraciones plasmáticas en estado de equilibrio dinámico se alcanzan
+dentro de un lapso de 24 a 48 horas y por lo general son inferiores a 1 μg/ml. En los
+estudios clínicos controlados, los niveles plasmáticos máximos (Cmax) del clorhidrato
+de metformina no superaron los 5 μg/ml, ni siquiera con las dosis máximas.
+La ingesta de alimentos reduce el grado de absorción y demora ligeramente la absor-
+ción del clorhidrato de metformina. Luego de la administración de una dosis de 850
+mg, se observó una concentración plasmática pico un 40% más baja, un descenso del
+25% en el AUC y una prolongación de 35 minutos en el tiempo hasta la concentración
+plasmática pico. Se desconoce la relevancia clínica de estos descensos.
+Distribución
+El grado de unión a las proteínas plasmáticas es insignificante. El clorhidrato de
+metformina experimenta partición hacia los eritrocitos. El valor pico en sangre es
+menor que el pico plasmático y aparece aproximadamente en el mismo tiempo. Es
+muy probable que los glóbulos rojos representen un compartimiento de distribución
+secundario. El volumen medio de distribución (Vd) se ubicó en el rango de 63 a 276
+L.
+Biotransformación
+El clorhidrato de metformina se excreta principalmente inalterado en la orina. No se han
+identificado metabolitos en los seres humanos.
+Eliminación
+La depuración renal del clorhidrato de metformina es > 400 ml/min, lo que indica que
+el clorhidrato de metformina se elimina mediante filtración glomerular y secreción
+tubular. Luego de una dosis oral, la vida media de eliminación terminal aparente es
+de aproximadamente 6,5 horas. En presencia de un deterioro de la función renal, la
+depuración renal se reduce en forma proporcional a la disminución de la depuración
+de creatinina y, por lo tanto, la vida media de eliminación se prolonga, lo que conduce
+a niveles incrementados de clorhidrato de metformina en el plasma.
+
+Poblaciones especiales
+Insuficiencia renal
+Los datos disponibles de sujetos con insuficiencia renal moderada son escasos y no
+pudo hacerse una estimación confiable de la exposición sistémica a la metformina en
+este subgrupo en comparación con sujetos con función renal normal. Por ende, la dosis
+deberá adaptarse según consideraciones de eficacia clínica/tolerabilidad.
+Pacientes pediátricos
+Estudio de dosis únicas: Tras la administración de dosis únicas de metformina de
+500 mg, los pacientes pediátricos han evidenciado un perfil farmacocinético similar al
+observado en adultos sanos.
+Estudio de dosis múltiples: Tras la administración de dosis repetidas de 500 mg dos
+veces al día durante 7 días en pacientes pediátricos, la concentración plasmática pico
+(Cmax) y la exposición sistémica (AUC0-t) fueron aproximadamente un 33% y un 40%
+más bajas, respectivamente, en comparación con adultos diabéticos que recibieron
+dosis repetidas de 500 mg dos veces al día durante 14 días. Este aspecto tiene una
+relevancia clínica limitada, puesto que la dosis se ajusta en forma individual para cada
+caso en particular en función del control glucémico logrado.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Adultos con función renal normal (Tasa de filtración glomerular estimada TFG≥90
+ml/min)
+La dosis recomendada es un comprimido dos veces al día. La posología debe individu-
+alizarse en función del régimen actual del paciente, la efectividad y la tolerabilidad, sin
+exceder la dosis diaria máxima recomendada de 25 mg de empagliflozina y sin superar
+la dosis diaria máxima recomendada de metformina
+• En los pacientes en los que no se logra un control adecuado con metformina sola o
+en combinación con otros productos, entre ellos insulina, la dosis inicial recomendada
+de SAGLOX MET debe aportar empagliflozina en dosis de 5 mg administradas dos
+veces al día (dosis diaria total de 10 mg) y una dosis de metformina que sea similar
+a la que ya está recibiendo el paciente. En los pacientes que toleran una dosis diaria
+total de empagliflozina de 10 mg, la dosis se puede aumentar a una dosis diaria total
+de empagliflozina de 25 mg.
+
+• Los pacientes que ya estén siendo tratados con empagliflozina deben continuar
+
+recibiendo la misma dosis diaria de empagliflozina.
+
+• Los pacientes que pasen de un régimen de comprimidos separados de empagliflozina
+(dosis diaria total de 10 mg o 25 mg) y de metformina a un régimen de SAGLOX MET
+deben recibir la misma dosis diaria de empagliflozina y de metformina que ya estén
+recibiendo, o la dosis de metformina lo más cercana posible que sea terapéuticamente
+adecuada.
+
+Cuando SAGLOX MET se usa en combinación con una sulfonilurea y/o con insulina,
+puede ser necesario el uso de una dosis menor de la sulfonilurea y/o de la insulina para
+reducir el riesgo de que se produzca un cuadro de hipoglucemia.
+
+Para las diferentes dosis de metformina, SAGLOX MET se encuentra disponible en las
+concentraciones de 5 mg de empagliflozina más 850 mg o 1000 mg de clorhidrato de
+metformina o bien 12,5 mg de empagliflozina más 850 mg o 1000 mg de clorhidrato de
+metformina.
+
+SAGLOX MET debe tomarse junto con las comidas para reducir los efectos indeseables
+gastrointestinales asociados con la metformina.
+
+Pacientes con insuficiencia renal
+No se recomienda un ajuste de la dosis en pacientes con insuficiencia renal leve. Se
+
+3
+
+antihipertensivos, diuréticos y AINE) se debe iniciar con precaución en los pacientes
+tratados con metformina.
+Otros factores de riesgo para la acidosis láctica son la ingesta excesiva de alcohol, la
+insuficiencia hepática, la diabetes mal controlada, la cetosis, el ayuno prolongado y cual-
+quier trastorno asociado con hipoxia, así como el uso concomitante de medicamentos
+que puedan causar acidosis láctica.
+Se debe informar a los pacientes y/o a las personas que los cuidan acerca del riesgo
+de acidosis láctica.
+La acidosis láctica se caracteriza por disnea acidótica, dolor abdominal, calambres
+musculares, astenia e hipotermia, seguidos de coma. En caso de que se sospeche
+de la presencia de síntomas, el paciente debe dejar de tomar metformina y buscar
+atención médica inmediata.
+Los parámetros diagnósticos de laboratorio son descenso de los valores de pH
+sanguíneo (<7,35), aumento de los niveles plasmáticos de lactato (>5 mmol/l) y
+aumento del anión gap y del cociente lactato/piruvato.
+
+Administración de un medio de contraste yodado
+La administración intravascular de medios de contraste yodados puede provocar
+nefropatía inducida por el contraste, que puede ocasionar la acumulación de metformina
+y puede aumentar el riesgo de acidosis láctica. La administración de metformina se
+debe interrumpir con anterioridad al procedimiento de diagnóstico por imágenes, o al
+momento de su realización, y deben dejarse transcurrir como mínimo 48 horas antes
+de reanudarlo, siempre que se haya reevaluado la función renal y comprobado que es
+estable.
+
+Fascitis necrotizante del perineo (gangrena de Fournier)
+Se han informado casos posteriores a la comercialización de fascitis necrotizante del
+perineo (también denominada “gangrena de Fournier”), en hombres y mujeres con
+diabetes mellitus tratada con inhibidores del SGLT2, como por ejemplo empagliflozina.
+Es una infección necrotizante rara pero seria y puede ser letal. Entre los resultados
+serios se incluyen internación, intervenciones quirúrgicas múltiples y muerte.
+Se debe evaluar la formulación del diagnóstico de fascitis necrotizante en pacientes
+tratados con SAGLOX MET que refieran dolor o sensibilidad, eritema, inflamación en la
+zona genital o del perineo, fiebre, malestar general. En caso de que se sospeche dicho
+diagnóstico, la administración de SAGLOX MET se debe discontinuar y se debe instituir
+un tratamiento de inmediato (incluso antibióticos de amplio espectro e intervención
+quirúrgica para eliminar el tejido afectado).
+
+Función renal
+Debido al mecanismo de acción, la eficacia de la empagliflozina depende de la función
+renal.
+Se debe evaluar la TFG antes de iniciar el tratamiento y periódicamente a partir de
+entonces. SAGLOX MET está contraindicado en pacientes con TFG <30 ml/min y se
+debe interrumpir de forma temporal en presencia de trastornos que alteren la función
+renal.
+
+Función cardíaca
+Los pacientes con insuficiencia cardíaca tienen un mayor riesgo de padecer hipoxia
+e insuficiencia renal. En pacientes con insuficiencia cardíaca crónica estable, puede
+utilizarse SAGLOX MET con un control periódico de la función cardíaca y la función
+renal.
+En pacientes con insuficiencia cardíaca inestable y aguda, el uso de SAGLOX MET está
+contraindicado debido al componente de la metformina.
+
+Lesión hepática
+Se han notificado casos de lesión hepática con el uso de empagliflozina en ensayos
+clínicos. No se ha establecido una relación causal entre la empagliflozina y la lesión
+hepática.
+
+Pacientes de edad avanzada
+Los pacientes de 75 años de edad o más pueden tener un riesgo incrementado de
+depleción de volumen, por lo tanto, SAGLOX MET debe prescribirse con precaución
+en estos pacientes. La experiencia terapéutica en pacientes de 85 años de edad o más
+es limitada. No se recomienda el inicio del tratamiento en dicha población.
+En vista de que la metformina se excreta por vía renal, y los pacientes de edad avanzada
+tienen una tendencia hacia un deterioro de la función renal, debe efectuarse un control
+periódico de la función renal en los pacientes de edad avanzada que reciban tratamiento
+con SAGLOX MET.
+
+Uso en pacientes con riesgo de depleción de volumen
+Sobre la base del modo de acción de los inhibidores del SGLT-2, la diuresis osmótica
+que acompaña a la glucosuria terapéutica puede conducir a un ligero descenso de la
+presión arterial. Por lo tanto, debe tenerse precaución en los pacientes en los cuales
+un descenso en la presión arterial inducido por la empagliflozina podría suponer un
+riesgo, como ser pacientes con enfermedad cardiovascular conocida, pacientes en
+tratamiento con antihipertensivos con antecedentes de hipotensión o pacientes de 75
+años de edad o más.
+En el caso de patologías que pueden conducir a una pérdida de líquidos (p. ej.,
+enfermedad gastrointestinal), se recomienda un monitoreo cuidadoso del estado de
+volumen (p. ej., examen físico, mediciones de presión arterial, pruebas de laboratorio,
+incluyendo nivel de hematocrito) y de los electrolitos en los pacientes que reciben
+empagliflozina. Debe considerarse la interrupción temporal del tratamiento hasta que
+se corrija la pérdida de líquidos.
+
+Infecciones de las vías urinarias
+En los estudios combinados, doble ciego, controlados con placebo, de 18 a 24 semanas
+de duración, la frecuencia general de infecciones de las vías urinarias informada como
+un evento adverso fue más alta en los pacientes tratados con empagliflozina 10 mg más
+metformina en comparación con la observada en el caso de los pacientes tratados con
+placebo más metformina o empagliflozina 25 mg más metformina.
+Se han informado casos posteriores a la comercialización de infecciones complicadas
+de las vías urinarias, incluso pielonefritis y urosepsis, en pacientes tratados con
+empagliflozina. Debe considerarse la interrupción temporal del tratamiento en los
+pacientes con infecciones complicadas de las vías urinarias.
+
+Cirugía
+SAGLOX MET debe interrumpirse al momento de la realización de una cirugía con
+anestesia general, raquídea o epidural. El tratamiento podrá reiniciarse luego de que
+haya transcurrido un mínimo de 48 horas desde la cirugía o la reanudación de la
+alimentación oral, y siempre que se haya reevaluado la función renal y comprobado
+que es estable.
+
+Insuficiencia cardíaca
+La experiencia en la clase I-II de la New York Heart Association (NYHA) es limitada, y
+no existe experiencia en estudios clínicos con empagliflozina en la clase III-IV de la
+NYHA. En el ensayo EMPA-REG OUTCOME, en el 10,1% de los pacientes se notificó
+insuficiencia cardíaca basal. La reducción de la muerte cardiovascular en estos
+pacientes fue coherente con la población total del ensayo.
+
+Análisis de orina
+Debido a su mecanismo de acción, los pacientes que están tomando SAGLOX MET
+presentarán un resultado positivo para la glucosa en la orina.
+
+Amputación de miembros inferiores
+Se ha observado un incremento en los casos de amputación de miembros inferiores
+(principalmente de los dedos de los pies) en ensayos clínicos a largo plazo en curso
+con otro inhibidor de SGLT2. Se desconoce si esto constituye un efecto de clase. Al
+
+Metformina
+
+Empagliflozina
+
+La dosis diaria máxima es de 3000 mg*.
+Se puede considerar la reducción de la
+dosis en relación al deterioro de la función
+renal.
+La dosis diaria máxima es de 2000 mg.
+La dosis inicial es, a lo sumo, la mitad de
+la dosis máxima.
+La dosis diaria máxima es de 1000 mg.*
+La dosis inicial es, a lo sumo, la mitad de
+la dosis máxima.
+El uso de metformina está contraindicado
+
+La dosis diaria máxima es
+de 25 mg. No se requiere
+un ajuste de la dosis.
+
+No se requiere un ajuste
+de la dosis.
+
+No se requiere un ajuste
+de la dosis.
+
+No se recomienda el uso
+de empagliflozina.
+
+45-59
+
+30-44
+
+<30
+
+*Si no se dispone de la dosis adecuada de SAGLOX MET se deben utilizar los monocompo-
+nentes individuales en lugar de la combinación de dosis fija.
+
+Insuficiencia hepática
+Este medicamento no se debe utilizar en pacientes con insuficiencia hepática.
+
+Pacientes de edad avanzada
+Debido a su mecanismo de acción, una disminución de la función renal provocará
+una reducción de la eficacia de la empagliflozina. Como la metformina se excreta por
+los riñones y los pacientes de edad avanzada tienen más posibilidades de presentar
+una disminución de la función renal, SAGLOX MET se debe utilizar con precaución
+en estos pacientes. La monitorización de la función renal es necesaria para ayudar a
+prevenir la acidosis láctica asociada a la metformina, especialmente en pacientes de
+edad avanzada. En pacientes de 75 años de edad o mayores se debe tener en cuenta
+que existe un mayor riesgo de hipovolemia. Dado que la experiencia terapéutica
+con la empagliflozina es limitada en pacientes de 85 años de edad o mayores, no se
+recomienda iniciar el tratamiento en esta población.
+
+Dosis omitidas
+Si el paciente olvida una dosis, deberá tomarla tan pronto como lo recuerde. Sin
+embargo, no debe tomar una dosis doble en una misma toma. Si ese fuera el caso,
+deberá omitir la dosis olvidada.
+
+Población pediátrica
+No se recomienda el uso de SAGLOX MET en niños y adolescentes menores de 18
+años de edad, dada la falta de datos respecto de su seguridad y eficacia.
+
+CONTRAINDICACIONES
+• Hipersensibilidad a los principios activos empagliflozina y/o metformina, o a cualquiera
+
+de los excipientes.
+
+• Cualquier tipo de acidosis metabólica aguda (como acidosis láctica, cetoacidosis
+
+diabética).
+
+• Precoma diabético
+• Insuficiencia renal grave (Clcr <30 ml/min o TFGe < 30ml/min/1,73m2), debido al
+
+componente metformina.
+
+• Cuadros agudos con el potencial de alterar la función renal, como: deshidratación,
+infección severa, shock, administración intravascular de medios de contraste
+yodados.
+
+• Afección que pueda provocar hipoxia tisular (especialmente afección aguda, o
+empeoramiento de afección crónica), como: insuficiencia cardíaca descompensada,
+insuficiencia respiratoria, infarto de miocardio reciente, shock.
+• Insuficiencia hepática, intoxicación alcohólica aguda, alcoholismo.
+
+ADVERTENCIAS
+Generalidades
+SAGLOX MET no debe utilizarse en pacientes con diabetes tipo 1.
+
+Cetoacidosis diabética
+Se han notificado casos raros de cetoacidosis diabética (CAD), incluidos casos
+potencialmente mortales y con desenlace mortal, en pacientes tratados con inhibidores
+del SGLT2, incluida la empagliflozina. En algunos de estos casos, la presentación
+del cuadro clínico fue atípico, con un ascenso moderado de los niveles de glucosa
+en sangre, por debajo de 14 mmol/l (250 mg/dl). Se desconoce si la CAD puede
+ocurrir con mayor probabilidad con dosis mayores de empagliflozina. El riesgo de
+cetoacidosis diabética se debe considerar en caso de síntomas inespecíficos como
+náuseas, vómitos, anorexia, dolor abdominal, sed excesiva, dificultad para respirar,
+confusión, fatiga o somnolencias inusuales. Se debe evaluar a los pacientes de forma
+inmediata para detectar la cetoacidosis en caso de que aparezcan estos síntomas,
+independientemente del nivel de glucosa en sangre.
+En pacientes en los que se sospeche o diagnostique CAD, el tratamiento con empagli-
+flozina se debe suspender inmediatamente.
+Se debe interrumpir el tratamiento en pacientes hospitalizados para intervenciones
+quirúrgicas mayores o por enfermedades médicas agudas graves. Se recomienda
+controlar las cetonas en estos pacientes. Se prefiere la determinación de los niveles
+de cuerpos cetónicos en sangre a la determinación en orina. El tratamiento con
+empagliflozina se puede reiniciar cuando los valores de cuerpos cetónicos sean
+normales y el estado del paciente se haya estabilizado.
+Antes de iniciar empagliflozina, se deben considerar los antecedentes del paciente que
+puedan predisponer a cetoacidosis.
+Los pacientes que pueden tener un riesgo mayor de CAD son aquellos pacientes con
+baja reserva de células beta funcionales (p. ej., pacientes con diabetes tipo 2 con
+péptido C bajo o con diabetes autoinmune latente del adulto (LADA) o pacientes con
+antecedentes de pancreatitis), pacientes con trastornos que den lugar a una ingesta
+restringida de alimentos o a una deshidratación grave, pacientes cuyas dosis de
+insulina estén reducidas y pacientes con mayores necesidades de insulina debido a
+una enfermedad médica aguda, cirugía o abuso de alcohol. Los inhibidores del SGLT2
+se deben usar con precaución en estos pacientes.
+No se recomienda reiniciar el tratamiento con un inhibidor del SGLT2, en pacientes con
+CAD mientras estaban en tratamiento con un inhibidor del SGLT2, a menos que se haya
+identificado y resuelto claramente otro factor desencadenante.
+No se ha establecido la seguridad y eficacia de empagliflozina en pacientes con
+diabetes tipo 1 y no se debe utilizar empagliflozina para el tratamiento de pacientes
+con diabetes tipo 1. Los datos limitados de los ensayos clínicos sugieren que la
+CAD se produce con frecuencia cuando se trata a pacientes con diabetes tipo 1 con
+inhibidores del SGLT2.
+
+Acidosis láctica
+La acidosis láctica, una complicación metabólica muy rara, pero seria, se produce
+con mayor frecuencia durante el empeoramiento agudo de la función renal, en caso
+de enfermedad cardiorrespiratoria o septicemia. La acumulación de metformina se
+produce durante el empeoramiento agudo de la función renal e incrementa el riesgo
+de acidosis láctica.
+En caso de deshidratación (diarrea o vómitos intensos, fiebre o reducción de la ingesta
+de líquidos), la metformina se debe interrumpir de forma temporal y se recomienda
+contactar a un profesional sanitario.
+El uso de medicamentos que puedan alterar de manera aguda la función renal (como
+
+4
+
+igual que para todos los pacientes diabéticos, es importante aconsejar a los pacientes
+acerca del cuidado rutinario preventivo de los pies.
+
+PRECAUCIONES
+Interacciones medicamentosas
+Empagliflozina
+Interacciones farmacodinámicas
+Diuréticos
+El efecto de la empagliflozina puede sumarse al efecto diurético de los diuréticos
+tiazídicos y los diuréticos de asa, y puede incrementar el riesgo de deshidratación e
+hipotensión.
+
+Insulina y secretagogos de la insulina
+La insulina y los secretagogos de la insulina, como las sulfonilureas, pueden aumentar
+el riesgo de hipoglucemia. Por ende, puede requerirse una dosis menor de insulina o
+de un secretagogo de la insulina para reducir el riesgo de hipoglucemia cuando se los
+utiliza en combinación con la empagliflozina.
+
+Interferencia con la determinación del 1,5-anhydroglucitol (1,5-AG)
+No se recomienda el monitoreo del control glucémico con el dosaje de 1,5-AG dado
+que las mediciones de 1,5-AG no son confiables para evaluar el control glucémico
+en pacientes que toman inhibidores del SGLT2. Utilizar métodos alternativos para
+monitorear el control glucémico.
+Interacciones farmacocinéticas
+Efectos de otros medicamentos sobre la empagliflozina
+Los datos in vitro sugieren que la principal vía metabólica de la empagliflozina en
+humanos es la glucuronidación por las uridinas 5'-difosfoglucuronosiltransferasas
+UGT1A3, UGT1A8, UGT1A9 y UGT2B7. La empagliflozina es un sustrato de los
+transportadores de captación humanos OAT3, OATP1B1, y OATP1B3, pero no de
+OAT1 y OCT2. La empagliflozina es un sustrato de la glicoproteína-P (gp-P) y la
+proteína de resistencia al cáncer de mama (BCRP).
+La administración conjunta de empagliflozina con probenecid, un inhibidor de las
+enzimas UGT y del OAT3, dio lugar a un aumento del 26% en las concentraciones
+plasmáticas máximas (Cmax) de empagliflozina y a un aumento del 53 % en el área bajo
+la curva concentración-tiempo (AUC). Estos cambios no se consideraron clínicamente
+significativos.
+No se ha estudiado el efecto de la inducción de la UGT (p. ej., inducción por la
+rifampicina o por la fenitoína) sobre la empagliflozina. No se recomienda el tratamiento
+concomitante con inductores de las enzimas UGT debido al riesgo potencial de que
+disminuya la eficacia. Si se debe administrar de forma concomitante un inductor de
+estas enzimas UGT, se recomienda vigilar el control de la glucemia para valorar la
+respuesta a la empagliflozina.
+Un estudio de interacción con gemfibrozil, un inhibidor in vitro de los transportadores
+OAT3 y OATP1B1/1B3, mostró que la Cmax de empagliflozina aumentaba en un 15%
+y que el AUC aumentaba en un 59% después de la administración conjunta. Estos
+cambios no se consideraron clínicamente significativos.
+La inhibición de los transportadores OATP1B1/1B3 mediante la administración conjunta
+de rifampicina dio lugar a un aumento del 75% en la Cmax y a un aumento del 35% en el
+AUC de la empagliflozina.
+Estos cambios no se consideraron clínicamente significativos.
+La exposición a empagliflozina fue similar con y sin la administración conjunta de
+verapamilo, un inhibidor de la gp-P, lo que indica que la inhibición de la gp-P no tiene
+un efecto clínicamente relevante sobre la empagliflozina.
+Los estudios de interacción sugieren que la farmacocinética de la empagliflozina no
+se vio influida por la administración conjunta de metformina, glimepirida, pioglitazona,
+sitagliptina, linagliptina, warfarina, verapamilo, ramipril, simvastatina, torasemida e
+hidroclorotiazida.
+
+Efectos de la empagliflozina sobre otros medicamentos
+De acuerdo a los estudios in vitro, la empagliflozina no inhibe, inactiva ni induce las
+isoformas del CYP450. La empagliflozina no inhibe la UGT1A1, la UGT1A3, la UGT1A8,
+la UGT1A9 ni la UGT2B7.
+Por lo tanto, se considera improbable que se produzcan interacciones farmacológicas
+que impliquen a las principales isoformas del CYP450 y la UGT con empagliflozina y a
+los sustratos de estas enzimas administrados de forma conjunta.
+
+La empagliflozina no inhibe la gp-P a dosis terapéuticas. De acuerdo a los estudios
+in vitro, se considera improbable que la empagliflozina provoque interacciones con
+principios activos que sean sustratos de la gp P. La administración conjunta
+de digoxina, un sustrato de la gp-P, con empagliflozina dio lugar a un aumento del 6
+% en el AUC y un aumento del 14% en la Cmax de la digoxina. Estos cambios no se
+consideraron clínicamente significativos.
+La empagliflozina no inhibe in vitro a los transportadores de captación humanos,
+tales como OAT3, OATP1B1 y OATP1B3 a concentraciones plasmáticas clínicamente
+relevantes y, como tales, las interacciones farmacológicas con sustratos de estos
+transportadores de captación se consideran improbables.
+Los estudios de interacción realizados en voluntarios sanos sugieren que la empagli-
+flozina no tuvo ningún efecto clínicamente relevante sobre la farmacocinética de la
+metformina, la glimepirida, la pioglitazona, la sitagliptina, la linagliptina, la simvastatina,
+la warfarina, el ramipril, la digoxina, los diuréticos y los anticonceptivos orales.
+Metformina
+Uso concomitante no recomendado
+Alcohol
+La intoxicación alcohólica está asociada con un mayor riesgo de acidosis láctica,
+especialmente en caso de ayuno, desnutrición o insuficiencia hepática.
+
+Medios de contraste yodados
+La administración de metformina se debe interrumpir con anterioridad al procedimiento
+de diagnóstico por imágenes, o al momento de su realización, y deben dejarse
+transcurrir como mínimo 48 horas antes de reanudarlo, siempre que se haya reevaluado
+la función renal y comprobado que es estable.
+
+Combinaciones que requieren precauciones de empleo
+Algunos medicamentos pueden afectar de forma adversa la función renal, lo que puede
+incrementar el riesgo de acidosis láctica, p. ej., los AINEs, incluidos los inhibidores
+selectivos de la ciclooxigenasa (COX) II, los inhibidores de la ECA, los antagonistas del
+receptor de la angiotensina II y los diuréticos, en especial, los diuréticos del asa. Cuando
+se inicien o se utilicen estos productos en combinación con metformina, es necesario
+supervisar de manera estrecha la función renal.
+
+Insulina y secretagogo de insulina.
+La insulina y los secretagogos de insulina, como las sulfonilureas, pueden aumentar el
+riesgo de hipoglucemia. Por lo tanto, puede necesitarse una dosis más baja de insulina
+o de un secretagogo de insulina para disminuir el riesgo de hipoglucemia cuando éstos
+se usan en combinación con metformina.
+
+Transportadores de cationes orgánicos (OCT)
+La metformina es un sustrato de ambos transportadores OCT1 y OCT2. La coadminis-
+tración de metformina con:
+• Los inhibidores de OCT1 (como el verapamilo) pueden reducir la eficacia de la
+
+metformina.
+
+• Los inductores de OCT1 (como la rifampicina) pueden aumentar la absorción
+
+gastrointestinal y la eficacia de la metformina.
+
+• Los inhibidores de OCT2 (como cimetidina, dolutegravir, ranolazina, trimetoprima,
+vandetanib, isavuconazol) pueden disminuir la eliminación renal de metformina y,
+por lo tanto, conducir a un aumento de la concentración plasmática de metformina.
+• Los inhibidores de OCT1 y OCT2 (como crizotinib, olaparib) pueden alterar la eficacia
+
+y la eliminación renal de la metformina.
+
+5
+
+6
+
+Por lo tanto, se recomienda precaución, especialmente en pacientes con insuficiencia
+renal, cuando estos fármacos son coadministrados con metformina, ya que la
+concentración plasmática de metformina puede aumentar. Si es necesario, se puede
+considerar el ajuste de la dosis de metformina, ya que los inhibidores / inductores de
+los OCT pueden alterar la eficacia de la metformina.
+
+Embarazo
+No hay datos sobre el uso de este medicamento o de empagliflozina en mujeres
+embarazadas. Los estudios realizados en animales muestran que la empagliflozina
+atraviesa la placenta durante la última fase de la gestación en un grado muy limitado,
+pero no indican efectos perjudiciales directos ni indirectos en lo que respecta al
+desarrollo embrionario temprano. No obstante, los estudios realizados en animales
+han mostrado efectos adversos en el desarrollo posnatal. Datos limitados sugieren
+que el uso de metformina en mujeres embarazadas no está asociado a un mayor
+riesgo de malformaciones congénitas. Los estudios realizados en animales con la
+combinación de empagliflozina y metformina o con metformina en monoterapia solo
+han mostrado toxicidad para la reproducción a dosis más altas de metformina.
+Cuando la paciente planea quedarse embarazada, y durante el embarazo, se
+recomienda que la diabetes no se trate con este medicamento, sino que se utilice
+insulina para mantener los niveles de glucosa en sangre lo más cercanos posible a
+los valores normales para disminuir el riesgo de malformaciones fetales asociadas a
+niveles anormales de glucosa en sangre.
+
+Lactancia
+La metformina se excreta en la leche materna en los seres humanos. No se observó
+ningún efecto adverso en los neonatos/lactantes alimentados con leche materna. Se
+desconoce si la empagliflozina se excreta en la leche humana.
+Los datos preclínicos disponibles obtenidos en animales han indicado la excreción
+de empagliflozina en la leche. No se puede excluir la posibilidad de un riesgo para
+los neonatos/lactantes humanos. Se recomienda interrumpir la lactancia durante el
+tratamiento con SAGLOX MET
+
+Fertilidad
+No se han llevado a cabo estudios sobre el efecto de SAGLOX MET o sus componentes
+individuales sobre la fertilidad en los seres humanos.
+Los estudios en animales efectuados con los componentes individuales no indican
+efectos nocivos directos ni indirectos en lo que a la fertilidad se refiere.
+
+Uso en Pediatría
+Este medicamento no está recomendado para niños y adolescentes menores de 18
+años, debido a que no se ha estudiado en estos pacientes.
+
+Efectos sobre la capacidad para conducir vehículos y operar maquinaria
+La influencia de SAGLOX MET sobre la capacidad para conducir y utilizar máquinas es
+pequeña. Se debe advertir a los pacientes que tomen las debidas precauciones para
+evitar una hipoglucemia mientras conducen y utilizan máquinas, sobre todo cuando
+SAGLOX MET se use en combinación con una sulfonilurea y/o con insulina.
+
+REACCIONES ADVERSAS
+El evento adverso informado con mayor frecuencia en los estudios clínicos con la
+combinación de empagliflozina y metformina fue la hipoglucemia, el cual dependió
+del tipo de tratamiento de base utilizado en los respectivos estudios.
+No se identificó ningún efecto secundario adicional en los estudios clínicos realizados
+con empagliflozina más metformina en comparación con las reacciones adversas de
+los componentes individuales.
+
+Tabla: Reacciones adversas informadas en pacientes que recibieron monoterapia de
+empagliflozina o tratamiento combinado de empagliflozina y metformina en estudios
+doble ciego controlados con placebo de hasta 24 semanas de duración, (independien-
+temente de la relación causal informada por el investigador), y reacciones adversas
+derivadas de la experiencia posterior a la comercialización con monoterapia de
+empagliflozina o tratamiento combinado de empagliflozina y metformina, clasificados
+por sistema y órgano (SOC) del MedDRA y por término preferente del MedDRA
+
+Clasificación por órganos
+y sistemas (SOC)
+Infecciones e infestaciones  Moniliasis vaginal, vulvovaginitis, balanitis y otras
+
+Empagliflozina y metformina
+Reacciones adversas
+
+infecciones genitales1, 2
+Infección de las vías urinarias1, 2 (incluso pielonefritis y
+urosepsis)6
+Fascitis necrotizante del perineo (gangrena de
+Fournier)2,6
+Náuseas3
+Vómitos3
+Diarrea3
+Dolor abdominal3
+Pérdida de apetito3
+Estreñimiento
+Hipoglucemia (cuando se usa con una sulfonilurea o
+con insulina)1
+Acidosis láctica3
+Disminución de la absorción de vitamina B12 3, 4
+Cetoacidosis6
+Valores anómalos en las pruebas de función
+hepática3, Hepatitis3
+Alteración del sentido del gusto3
+
+Prurito2,3
+Reacciones alérgicas cutáneas (p. ej. exantema6,
+urticaria3, 6, eritema3)
+Angioedema 2,6
+Depleción de volumen2
+Aumento de la micción2
+Disuria2
+
+Trastornos
+gastrointestinales5
+
+Trastornos del
+metabolismo y de
+la nutrición
+
+Trastornos hepatobiliares
+
+Trastornos del sistema
+nervioso
+Trastornos de la piel y del
+tejido subcutáneo
+
+Trastornos vasculares
+Trastornos renales y
+urinarios
+
+Trastornos generales y en
+el sitio de aplicación
+Parametros de Laboratorio   Disminución de la tasa de filtración glomerular1
+
+Sed2
+
+Aumento de la creatinina en sangre1
+Aumento del hematocrito2
+Aumento de lípidos plasmáticos2
+
+1 Ver las subsecciones siguientes para obtener información adicional.
+2 Reacciones adversas identificadas de la monoterapia de empagliflozina.
+3 Reacciones adversas identificadas, sobre la base del SmPC de metformina para la UE
+4 El tratamiento prolongado con metformina se ha asociado con una disminución de la
+absorción de vitamina B12, lo cual podría dar lugar a una deficiencia de vitamina B12
+clínicamente significativa (p. ej., anemia megaloblástica).
+5 Los síntomas gastrointestinales como las náuseas, los vómitos, la diarrea, el dolor
+abdominal y la falta de apetito se producen con la mayor frecuencia durante el inicio del
+tratamiento y se resuelven espontáneamente en la mayoría de los casos.
+6 Reacciones adversas identificadas a partir de la experiencia posterior a la comercialización.
+
+Hipoglucemia
+La frecuencia de la hipoglucemia dependió de la terapia de base utilizada en los
+respectivos estudios y fue similar a la observada con placebo cuando la empagliflozina
+se administró como complemento de un régimen de metformina y como complemento
+de un régimen de pioglitazona +/- metformina, y como complemento de un régimen de
+linagliptina + metformina. La frecuencia de pacientes con hipoglucemia se incrementó
+en pacientes tratados con empagliflozina en comparación con el placebo cuando se la
+administró como complemento de un régimen de metformina más sulfonilurea, y como
+complemento de un régimen de insulina +/- metformina y +/- sulfonilurea.
+Hipoglucemia grave (eventos que requieren asistencia)
+La frecuencia general de pacientes con eventos de hipoglucemia grave fue baja (<1%)
+y similar para empagliflozina para placebo con una terapia de base de metformina.
+La frecuencia de hipoglucemia grave dependió de la terapia de base utilizada en los
+respectivos estudios.
+
+Infección de las vías urinarias
+La frecuencia general de eventos adversos de infección de las vías urinarias fue
+más alta en los pacientes tratados con empagliflozina 10 mg más metformina (8,8%)
+en comparación con empagliflozina 25 mg más metformina (6,6%) o placebo más
+metformina (7,8%). De manera similar a lo observado en el caso del placebo, el
+evento de infección de las vías urinarias fue informado con mayor frecuencia para la
+combinación de empagliflozina más metformina en los pacientes con antecedentes de
+infecciones urinarias crónicas o recurrentes. La intensidad de las infecciones de las vías
+urinarias fue similar a la observada con placebo. Los eventos de infecciones urinarias
+se informaron con mayor frecuencia en relación con el régimen de empagliflozina 10
+mg más metformina, en comparación con placebo, en las pacientes de sexo femenino,
+pero no así en el caso de empagliflozina 25 mg más metformina. Las frecuencias de
+infecciones de las vías urinarias fueron bajas en el caso de los pacientes de sexo
+masculino y estuvieron equilibradas entre los grupos de tratamiento.
+
+Moniliasis vaginal, vulvovaginitis, balanitis y otras infecciones genitales
+Los eventos de moniliasis vaginal, vulvovaginitis, balanitis y otras infecciones genitales
+fueron informados con mayor frecuencia para empagliflozina 10 mg más metformina
+(4,0%) y para empagliflozina 25 mg más metformina (3,9%) en comparación con
+placebo más metformina (1,3%), y fueron informados con mayor frecuencia para
+empagliflozina más metformina en comparación con el placebo en las pacientes de
+sexo femenino. La diferencia en términos de frecuencia fue menos pronunciada en los
+pacientes de sexo masculino. Las infecciones genitales fueron de intensidad leve y
+moderada, y en ninguno de los casos fueron de intensidad severa.
+
+Aumento de la micción
+Tal como era de esperar por su mecanismo de acción, se observó un aumento de
+la micción (según lo evaluado por la búsqueda por término preferente, que incluye
+polaquiuria, poliuria y nicturia) con mayor frecuencia en los pacientes tratados con
+empagliflozina 10 mg más metformina (3,0%) y empagliflozina 25 mg más metformina
+(2,9%) en comparación con aquellos que recibieron placebo más metformina (1,4%).
+El aumento de la micción fue mayormente de intensidad leve o moderada.
+La frecuencia de la nicturia informada fue comparable entre el placebo y empagliflozina,
+ambos con un régimen de base de metformina (<1%).
+Depleción de volumen
+La frecuencia general de depleción de volumen (lo que incluye los términos predefini-
+dos de descenso de la presión arterial (ambulatoria), descenso de la presión arterial
+sistólica, deshidratación, hipotensión, hipovolemia, hipotensión ortostática y síncope)
+fue baja y comparable a la observada en el caso de placebo (empagliflozina 10 mg
+más metformina (0,6%), empagliflozina 25 mg más metformina (0,3%) y placebo más
+metformina (0,1%). El efecto de la empagliflozina sobre la excreción urinaria de la
+glucosa está asociado con un mecanismo de diuresis osmótica, el cual podría afectar
+la hidratación en los pacientes de 75 años de edad o más.
+En los pacientes de ≥ 75 años de edad, los eventos de depleción de volumen han sido
+informados en un único paciente tratado con empagliflozina 25 mg más metformina.
+
+Aumento de la creatinina en sangre y disminución de la tasa de filtración glomerular
+La frecuencia global de pacientes con aumento de la creatinina en sangre y disminución
+de la tasa de filtración glomerular fue similar entre empagliflozina y placebo como
+tratamiento complementario de un régimen con metformina (aumento de la creatinina
+en sangre: empagliflozina 10 mg 0,5%, empagliflozina 25 mg 0,1%, placebo 0,4%;
+disminución de la tasa de filtración glomerular: empagliflozina 10 mg 0,1%, empagliflozi-
+na 25 mg 0%, placebo 0,2%).
+En estos estudios doble ciego, controlados con placebo de 24 semanas de duración,
+se observaron aumentos transitorios iniciales en los niveles de creatinina (cambio medio
+del nivel basal luego de 12 semanas: empagliflozina 10 mg 0,02 mg/dl, empagliflozina 25
+mg 0,02 mg/dl) y disminuciones transitorias iniciales en las tasas de filtración glomerular
+estimadas (cambio medio del nivel basal luego de 12 semanas: empagliflozina 10 mg
+-1,46 ml/min/1,73 m2, empagliflozina 25 mg -2,05 ml/min/1,73 m2) . En los estudios
+a largo plazo, estos cambios, en general, fueron reversibles durante el tratamiento
+continuo o luego de la interrupción del fármaco.
+
+SOBREDOSIFICACIÓN
+Durante los estudios clínicos controlados que se efectuaron en sujetos sanos, dosis
+únicas de hasta 800 mg de empagliflozina, equivalentes a 32 veces la dosis diaria
+máxima recomendada, fueron bien toleradas.
+No se ha observado hipoglucemia con dosis de clorhidrato de metformina de hasta 85
+g, si bien se han producido cuadros de acidosis láctica en dichas circunstancias. Una
+sobredosis de gran magnitud de clorhidrato de metformina o la presencia de riesgos
+concomitantes puede dar lugar a un cuadro de acidosis láctica. La acidosis láctica es
+una emergencia médica y debe ser tratada en el hospital.
+En el caso de una sobredosis, debe iniciarse el tratamiento de soporte que sea pertinen-
+te en función del estado clínico del paciente. El método más efectivo para eliminar del
+organismo el lactato y el clorhidrato de metformina es la hemodiálisis, en tanto que la
+remoción de la empagliflozina mediante hemodiálisis no ha sido estudiada
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o
+comunicarse con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Esta especialidad medicinal está libre de gluten.
+
+PRESENTACIÓN
+Envase conteniendo 60 comprimidos recubiertos.
+
+Fecha de última revisión: agosto 2024.
+
+FORMA DE CONSERVACIÓN
+- Conservar en lugar seco, desde 15 °C hasta 25 °C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+Especialidad Medicinal autorizada por el Ministerio de Salud de la Nación.
+Certificado N° 60.202
+Laboratorios CASASCO S.A.I.C. - Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires,
+Argentina.
+
+Descripción de las reacciones adversas seleccionadas.
+Las frecuencias que se indican a continuación se calcularon para las reacciones
+adversas independientemente de la causalidad.
+
+E-6741-01 / D7081 / Act.: 03/2024
+
+7
+
+8

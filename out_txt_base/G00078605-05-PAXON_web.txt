@@ -1,0 +1,887 @@
+PAXON® 50 - PAXON® 100
+LOSARTAN POTASICO 50 - 100 mg
+
+Comprimidos recubiertos
+Venta bajo receta. Industria Argentina.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de PAXON® 50 contiene:
+Losartán potásico .......................................................................... 50 mg
+Excipientes:  Almidón  de  maíz,  Dióxido  de  silicio  coloidal,  Lactosa
+monohidrato, Celulosa microcristalina, Croscaramelosa sódica, Lauril
+sulfato de sodio, Estearato de magnesio, Opadry II 85F28751 blanco,
+Opaglos GS 2-0700 ............................................................................ c.s.
+
+Cada comprimido recubierto de PAXON® 100 contiene:
+Losartán potásico ....................................................................... 100 mg
+Excipientes:  Almidón  de  maíz,  Dióxido  de  silicio  coloidal,  Lactosa
+monohidrato, Celulosa microcristalina, Croscaramelosa sódica, Lauril
+sulfato de sodio, Estearato de magnesio, Opadry II 85F28751 blanco,
+Opaglos GS 2-0700 ............................................................................ c.s.
+
+ACCIÓN TERAPEÚTICA
+
+Antagonista selectivo del receptor de la angiotensina II. Antihiperten-
+sivo. Vasodilatador.
+
+Código ATC: C09CA01.
+
+INDICACIONES
+
+Hipertensión arterial e insuficiencia cardiaca
+Hipertensión arterial
+Losartán ha demostrado disminuir el riesgo combinado de morbimor-
+talidad cardiovascular en pacientes hipertensos con hipertrofia ventri-
+cular izquierda. Esto no ha sido observado en pacientes de raza negra.
+Losartán ha demostrado retardar la progresión de enfermedad renal en
+pacientes hipertensos diabéticos tipo 2 (que presentaban aumentos de
+la creatininemia y proteinuria).
+
+Insuficiencia cardiaca
+Losartán  está  indicado  en  pacientes  con  insuficiencia  cardiaca  en  el
+caso que el tratamiento con inhibidores de la enzima convertidora de
+angiotensina (IECA) no se considere adecuado.
+
+ACCIÓN FARMACOLÓGICA
+
+Losartán es el primer derivado de una generación de fármacos llama-
+dos “antagonistas del receptor de la angiotensina II” (ARAII). PAXON®
+desarrolla un efecto antihipertensivo gradual y prolongado. PAXON® es
+una sustancia sintética de estructura química original de naturaleza no
+péptica, bifeniltetrazol, que por su semejanza estructural compite con
+el receptor específico de la angiotensina II inhibiendo de esta manera
+su unión con este agonista endógeno. Los estudios in vitro e in vivo han
+demostrado que tanto losartán como su metabolito farmacológicamen-
+te activo, el ácido 5-carboxílico (E-3174), bloquean todas las acciones de
+importancia fisiológica de la angiotensina II. Losartán no tiene ningún
+efecto agonista. Losartán se une selectivamente a los receptores AT1 y no
+se une ni bloquea a otros receptores. A diferencia de los IECA, no inhibe a
+la enzima que degrada la bradiquinina y no produce tos.
+
+Estudio LIFE
+El estudio LIFE (Losartan Intervention For Endpoint reduction in hyperten-
+sion) fue un estudio aleatorio, triple ciego y activo, realizado en 9.193 pa-
+cientes hipertensos de 55 a 80 años con hipertrofia ventricular izquierda
+confirmada por electrocardiograma. Los pacientes fueron aleatorizados
+a 50 mg de losartán una vez al día o 50 mg de atenolol una vez al día.
+Si no se alcanzaba la presión arterial deseada (<140/90 mm de Hg), se
+añadía primero hidroclorotiazida (12,5 mg) y, si era necesario, entonces
+se incrementaba la dosis de losartán o atenolol hasta 100 mg una vez al
+día. Si era necesario para alcanzar la presión arterial deseada, se añadían
+
+otros antihipertensivos, a excepción de los inhibidores de la ECA, anta-
+gonistas de la angiotensina II o betabloqueantes. La duración media del
+seguimiento fue de 4,8 años. El objetivo principal fue la combinación de
+morbimortalidad cardiovascular determinada por una reducción en la in-
+cidencia combinada de muerte cardiovascular, accidente cerebrovascular
+e infarto de miocardio. La presión arterial disminuyó significativamente a
+niveles similares en los dos grupos. El tratamiento con losartán produjo
+una  reducción  del  riesgo  del  13,0%  (p=0,021,  IC  del  95%  0,77-0,98),
+comparado con atenolol en los pacientes que alcanzaban el objetivo prin-
+cipal combinado. Esto se atribuye principalmente a una reducción en la
+incidencia de accidente cerebrovascular. El tratamiento con losartán redu-
+jo el riesgo de accidente cerebrovascular en un 25% en relación a atenolol
+(p=0,001, IC del 95% 0,63- 0,89). Los índices de muerte cardiovascular
+e infarto de miocardio no fueron significativamente diferentes entre los
+grupos de tratamiento.
+
+Raza
+En el estudio LIFE, los pacientes de raza negra tratados con losartán tu-
+vieron un mayor riesgo de experimentar el objetivo principal combinado,
+es  decir,  acontecimientos  cardiovasculares  (p.  ej.  infarto  de  miocardio,
+muerte  cardiovascular)  y  especialmente  accidente  cerebrovascular  que
+los pacientes de raza negra tratados con atenolol. Por tanto, los resultados
+observados con losartán en comparación con atenolol en el estudio LIFE
+en relación a la morbimortalidad cardiovascular no son aplicables a pa-
+cientes de raza negra con hipertensión e hipertrofia ventricular izquierda.
+
+Estudio RENAAL
+La  reducción  de  los  objetivos  en  la  diabetes  no  insulinodependiente
+con el estudio RENAAL (Reduction of Endpoints in NIDDM with the An-
+giotensin II Receptor Antagonist Losartan) fue un estudio controlado,
+realizado a nivel mundial en el que se incluyeron 1.513 pacientes con
+diabetes tipo 2 con proteinuria, con o sin hipertensión. 751 pacientes
+fueron tratados con losartán. El objetivo del estudio fue demostrar un
+efecto nefroprotector de losartán potásico más allá del beneficio sobre
+la reducción de la presión arterial. Los pacientes con proteinuria y una
+creatinina sérica de 1,3-3,0 mg/dl fueron aleatorizados a recibir 50 mg
+de losartán una vez al día, aumentando la dosis si era necesario, hasta
+alcanzar la respuesta de la presión arterial, o a placebo, con un trata-
+miento antihipertensivo convencional previo, excluyendo inhibidores
+de la ECA y antagonistas de la angiotensina II. Los investigadores fueron
+instruidos para aumentar la medicación del estudio hasta 100 mg al
+día cuando era apropiado; el 72% de los pacientes tomaron la dosis de
+100 mg al día durante la mayor parte del estudio. Se permitía añadir
+otros  fármacos  antihipertensivos  (diuréticos,  antagonistas  del  calcio,
+bloqueantes alfa o beta y también antihipertensivos de acción central)
+como tratamiento suplementario dependiendo del requerimiento en
+ambos grupos. Se siguió a los pacientes hasta durante 4,6 años (media
+de 3,4 años). El objetivo principal del estudio fue un objetivo combina-
+do que incluía la duplicación de la creatinina sérica, insuficiencia renal
+terminal (necesidad de diálisis o trasplante) o muerte. Los resultados
+demostraron  que  el  tratamiento  con  losartán  (327  acontecimientos)
+comparado  con  placebo  (359  acontecimientos)  provocó  una  reduc-
+ción del riesgo del 16,1% (p=0,022) en el número de pacientes que
+alcanzaron  el  objetivo  principal  combinado.  Para  los  componentes
+individuales y combinados del objetivo principal, los resultados mos-
+traron  una  reducción  significativa  del  riesgo  en  el  grupo  tratado  con
+losartán: reducción del riesgo del 25,3% (p=0,006) en el componente
+duplicación de la creatinina sérica; una reducción del riesgo del 28,6%
+(p=0,002) en el componente progresión a insuficiencia renal terminal;
+una reducción del riesgo del 19,9% (p=0,009) en la combinación de los
+componentes progresión a insuficiencia renal terminal o muerte; y una
+reducción del riesgo del 21,0% (p=0,01) en la combinación de los com-
+ponentes duplicación de la creatinina sérica o progresión a insuficien-
+cia renal terminal. El índice de mortalidad por todas las causas no fue
+significativamente  diferente  entre  los  dos  grupos  de  tratamiento.  En
+este estudio losartán fue por lo general bien tolerado, como se demos-
+tró con un índice de interrupción del tratamiento a causa de reacciones
+adversas que fue comparable al del grupo placebo.
+
+Estudio HEAAL
+El estudio HEAAL (Heart Failure Endpoint Evaluation of Angiotensin II
+Antagonist Losartan) fue un estudio clínico controlado, realizado a nivel
+mundial en 3.834 pacientes con insuficiencia cardiaca (clase II-IV de la
+NYHA), en pacientes entre 18 y 98 años, que eran intolerantes al trata-
+miento  con  inhibidores  de  la  ECA.  Los  pacientes  fueron  aleatorizados
+para recibir 50 mg de losartán una vez al día o 150 mg de losartán, con
+un tratamiento convencional previo, excluyendo inhibidores de la ECA.
+Se siguió a los pacientes durante más de 4 años (media de 4,7 años). El
+objetivo principal del estudio era un objetivo combinado de muerte por
+todas las causas u hospitalización por insuficiencia cardiaca. Los resulta-
+dos mostraron que el tratamiento con losartán 150 mg (828 aconteci-
+mientos) comparado con losartán 50 mg (889 acontecimientos), resultó
+en una reducción del riesgo del 10,1% (p=0,027, intervalo de confianza
+del 95% 0,82-0,99) en el número de pacientes que alcanzaron el obje-
+tivo principal combinado. Esto se atribuye principalmente a una reduc-
+ción  de  la  incidencia  de  hospitalización  por  insuficiencia  cardiaca.  El
+tratamiento con 150 mg de losartán redujo el riesgo de hospitalización
+por insuficiencia cardiaca en un 13,5% en relación a 50 mg de losartán
+(p=0,025, intervalo de confianza del 95% 0,76-0,98). La tasa de muerte
+por todas las causas no fue significativamente diferente entre los grupos
+de tratamiento. La insuficiencia renal, la hipotensión y la hiperpotasemia
+fueron más frecuentes en el grupo de 150 mg que en el de 50 mg, pero
+estos acontecimientos adversos no provocaron significativamente más
+interrupciones del tratamiento en el grupo de 150 mg.
+
+Estudios ELITE I y ELITE II
+En el estudio ELITE, realizado durante más de 48 semanas de duración
+en 722 pacientes con insuficiencia cardiaca (Clase II-IV de la NYHA) no
+se observaron diferencias entre los pacientes tratados con losartán y los
+tratados con captopril, en relación al objetivo principal de un cambio a
+largo  plazo  en  la  función  renal.  En  el  análisis  del  estudio  ELITE,  que
+comparó  losartán  y  captopril,  losartán  redujo  el  riesgo  de  mortalidad
+que no fue confirmado en el posterior estudio ELITE II que se describe a
+continuación. En el estudio ELITE II, se comparó 50 mg de losartán una
+vez al día (dosis inicial de 12,5 mg, aumentada a 25 mg y luego a 50 mg,
+una vez al día) con 50 mg de captopril tres veces al día (dosis inicial de
+12,5 mg, aumentada a 25 mg y luego a 50 mg, tres veces al día). El obje-
+tivo primario de este estudio prospectivo fue la mortalidad por todas las
+causas. En este estudio, 3.152 pacientes con insuficiencia cardiaca (Clase
+II-IV de la NYHA) fueron seguidos durante casi 2 años (media: 1,5 años)
+para determinar si losartán era superior a captopril en la reducción de la
+mortalidad por todas las causas. El objetivo primario no mostró una dife-
+rencia estadísticamente significativa entre losartán y captopril en cuanto
+a reducir la mortalidad por todas las causas. En ambos estudios clínicos
+controlados con comparador (no controlados con placebo), en pacientes
+con insuficiencia cardiaca, la tolerabilidad de losartán fue superior a la
+de captopril, medida en base a una incidencia significativamente menor
+de abandonos del tratamiento por reacciones adversas y una incidencia
+significativamente menor de tos. En el ELITE II, se observó un aumento de
+la mortalidad en el pequeño subgrupo (22% de todos los pacientes con
+insuficiencia cardiaca) que tomaba betabloqueantes al principio.
+
+FARMACOCINÉTICA
+
+Luego de su administración oral losartán sufre una biotransformación
+hepática (efecto de primer paso) que reduce significativamente su absor-
+ción sistémica a un 33% y produce un metabolito activo, el ácido 5-car-
+boxílico (E-3174) que posee larga vida media y contribuye a prolongar su
+acción antihipertensiva durante las 24 horas con una sola toma diaria. La
+vida media plasmática es de 2,3 horas para el losartán y de 6 a 9 horas
+para el metabolito activo. Presenta alta unión a las proteínas plasmáticas
+(>99%). La absorción digestiva del fármaco no es afectada por la pre-
+sencia de alimentos en el estómago. Luego de la administración de una
+única dosis oral de losartán 50 mg, el pico plasmático máximo se alcanza
+a los 60 minutos. Presenta un volumen de distribución de 34 litros apro-
+ximadamente. No presenta acumulación con la administración continua
+y prolongada. La excreción del losartán marcado con 14C mostró un 35%
+de eliminación por la orina y un 58% por las heces.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Hipertensión
+La dosificación inicial y de mantenimiento usual para la mayoría de los
+pacientes es de 50 mg una vez al día. Algunos pacientes pueden requerir
+dosis de 100 mg una vez al día. El efecto antihipertensivo máximo se alcan-
+za tres a seis semanas después de iniciar el tratamiento. En los pacientes
+que tienen disminuido el volumen intravascular (por ej. los tratados con
+dosis altas de diuréticos) se debe considerar una dosificación inicial de 25
+
+mg una vez al día (ver ADVERTENCIAS Y PRECAUCIONES). No es necesario
+hacer ningún ajuste inicial de la dosificación en los pacientes de edad avan-
+zada o con deterioro renal, incluyendo los que se encuentran en diálisis. Se
+debe considerar una dosificación inicial más baja en los pacientes con an-
+tecedentes de deterioro hepático (ver ADVERTENCIAS Y PRECAUCIONES).
+PAXON® puede administrarse en combinación con otros antihipertensivos.
+
+Insuficiencia cardíaca
+La dosis inicial de PAXON® en pacientes con insuficiencia cardiaca es de
+12,5 mg una vez al día. La dosis debe titularse a intervalos semanales
+duplicando la dosis en base a la respuesta y tolerabilidad hasta alcanzar
+la dosis habitual de mantenimiento de 50 mg una vez al día. PAXON®
+puede administrarse con o sin alimentos.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad al principio activo o a alguno de los excipientes.
+Segundo  y  tercer  trimestre  de  embarazo  (ver  secciones  Embarazo  y
+lactancia).
+
+Insuficiencia hepática grave
+El uso concomitante de PAXON® con medicamentos con aliskirén está
+contraindicado en pacientes con diabetes mellitus o insuficiencia renal
+(TFG < 60 ml/min/1,73 m2).
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Hipersensibilidad
+Angioedema
+Se debe realizar un cuidadoso seguimiento de aquellos pacientes con
+antecedentes de angioedema (hinchazón de la cara, labios, garganta
+y/o lengua).
+
+Hipotensión y alteración del equilibrio hidroelectrolítico
+En aquellos pacientes con depleción de volumen y/o de sodio debido
+a  tratamiento  enérgico  con  diuréticos,  restricción  de  sal  en  la  dieta,
+diarrea  o  vómitos,  puede  producirse  hipotensión  sintomática,  espe-
+cialmente después de la primera dosis o tras realizar un aumento de la
+dosis. Estos cuadros deben corregirse antes de iniciar la administración
+de losartán, o bien se utilizará una dosis inicial más baja.
+
+Alteración del equilibrio electrolítico
+Las alteraciones del equilibrio electrolítico son frecuentes en pacientes
+con insuficiencia renal, con o sin diabetes y deberán ser solucionadas.
+En un ensayo clínico realizado en pacientes con diabetes tipo 2 y nefro-
+patía, la incidencia de hiperpotasemia fue mayor en el grupo tratado
+con losartán en comparación con el grupo que recibió placebo. Por tan-
+to, deben controlarse cuidadosamente las concentraciones plasmáticas
+de potasio, así como los valores de aclaramiento de creatinina, espe-
+cialmente en aquellos pacientes con insuficiencia cardiaca y un acla-
+ramiento de creatinina entre 30-50 ml/min. No se recomienda el uso
+concomitante de losartán junto con diuréticos ahorradores de potasio,
+suplementos de potasio y sustitutos de la sal que contengan potasio.
+
+Insuficiencia hepática
+Teniendo en cuenta los datos farmacocinéticos que muestran un aumen-
+to importante de las concentraciones plasmáticas de losartán en pacien-
+tes cirróticos, debe considerarse el uso de una dosis menor en pacientes
+con historial de insuficiencia hepática. No existe experiencia terapéutica
+con losartán en pacientes con insuficiencia hepática grave. Por tanto, no
+se debe administrar losartán a pacientes con insuficiencia hepática grave.
+
+Insuficiencia renal
+Como consecuencia de la inhibición del sistema renina-angiotensina,
+se  han  notificado  casos  de  alteraciones  en  la  función  renal,  incluida
+insuficiencia  renal  (en  particular,  en  pacientes  cuya  función  renal  es
+dependiente del sistema renina-angiotensina-aldosterona, tales como
+aquellos  con  insuficiencia  cardiaca  grave  o  con  disfunción  renal  pre-
+existente). Al igual que con otros medicamentos que afectan al sistema
+renina-angiotensina-aldosterona, también se han comunicado aumen-
+tos de los niveles de urea en sangre y de creatinina sérica en pacientes
+con estenosis bilateral de la arteria renal o estenosis de la arteria de
+un solo riñón; estos cambios en la función renal pueden ser reversibles
+después  de  interrumpir  el  tratamiento.  Losartán  debe  utilizarse  con
+precaución  en  pacientes  con  estenosis  bilateral  de  la  arteria  renal  o
+estenosis de la arteria de un solo riñón.
+
+Trasplante renal
+No hay experiencia en pacientes con trasplante renal reciente.
+
+Hiperaldosteronismo primario
+De forma general los pacientes con aldosteronismo primario no respon-
+derán a aquellos medicamentos antihipertensivos que actúan inhibien-
+do el sistema renina-angiotensina. Por tanto, no se recomienda el uso
+de losartán en estos pacientes.
+
+Cardiopatía coronaria y enfermedad cerebrovascular
+Al  igual  que  con  cualquier  antihipertensivo,  la  disminución  excesiva
+de la presión arterial en pacientes con enfermedad cardiovascular is-
+quémica o enfermedad cerebrovascular puede provocar un infarto de
+miocardio o un accidente cerebrovascular.
+
+Insuficiencia cardiaca
+En  pacientes  con  insuficiencia  cardiaca,  con  o  sin  insuficiencia  renal,
+existe –al igual que con otros medicamentos que actúan sobre el sis-
+tema renina-angiotensina– un riesgo de hipotensión arterial grave, e
+insuficiencia renal (con frecuencia aguda). No hay suficiente experien-
+cia  clínica  con  losartán  en  pacientes  con  insuficiencia  cardiaca  y  con
+insuficiencia renal grave concomitante, en pacientes con insuficiencia
+cardiaca grave (clase IV de la NYHA), así como en pacientes con insu-
+ficiencia  cardiaca  y  arritmias  cardiacas  sintomáticas  potencialmente
+mortales. Por tanto, losartán debe usarse con precaución en estos gru-
+pos de pacientes. La combinación de losartán con un betabloqueante
+debe usarse con precaución.
+
+Estenosis aórtica y de la válvula mitral, cardiomiopatía hipertró-
+fica obstructiva
+Como  con  otros  vasodilatadores,  se  debe  tener  especial  precaución
+en  pacientes  que  tengan  estenosis  aórtica  o  mitral  o  cardiomiopatía
+hipertrófica obstructiva.
+
+Otras advertencias y precauciones
+Se ha observado que losartán y otros antagonistas de la angiotensina
+al igual que los inhibidores de la ECA son aparentemente menos efi-
+caces disminuyendo la presión arterial en pacientes de raza negra que
+en pacientes que no son de raza negra. Probablemente este hecho sea
+debido a la mayor prevalencia de estados de niveles bajos de renina en
+la población hipertensa de raza negra.
+
+Bloqueo dual del sistema renina-angiotensina-aldosterona (SRAA)
+Existe evidencia de que el uso concomitante de inhibidores de la en-
+zima convertidora de angiotensina, antagonistas de los receptores de
+angiotensina II o aliskirén aumenta el riesgo de hipotensión, hiperpota-
+semia y disminución de la función renal (incluyendo insuficiencia renal
+aguda). En consecuencia, no se recomienda el bloqueo dual del SRAA
+mediante la utilización combinada de inhibidores de la enzima conver-
+tidora de angiotensina, antagonistas de los receptores de angiotensina
+II o aliskirén. Si se considera imprescindible la terapia de bloqueo dual,
+ésta sólo se debe llevar a cabo bajo la supervisión de un especialista y
+sujeta a una estrecha y frecuente monitorización de la función renal, los
+niveles de electrolitos y la presión arterial. No se deben utilizar de forma
+concomitante los inhibidores de la enzima convertidora de angiotensi-
+na y los antagonistas de los receptores de angiotensina II en pacientes
+con nefropatía diabética.
+
+Este medicamento contiene lactosa
+Los  pacientes  con  intolerancia  hereditaria  a  galactosa,  insuficiencia
+de lactasa de Lapp (insuficiencia observada en ciertas poblaciones de
+Laponia) o malabsorción de glucosa o galactosa no deben tomar este
+medicamento.
+
+Interacciones medicamentosas
+Debe tenerse especial precaución al usar concomitantemente losartán
+con los siguientes medicamentos:
+Rifampicina, fluconazol: se observó reducción del metabolito activo del
+losartán, al administrarlo en forma concomitante con estas moléculas.
+Diuréticos ahorradores de potasio, suplementos de potasio, sustitutos
+de la sal que contengan potasio: al igual que con otros fármacos que
+bloquean  los  efectos  de  la  angiotensina  II,  el  uso  concomitante  con
+losartán puede producir hiperpotasemia.
+Indometacina: este AINE puede atenuar el efecto del losartán.
+
+Interacciones con pruebas de laboratorio
+Se  reportó  en  forma  ocasional  hiperpotasemia,  aumentos  de  la  TGO
+reversibles con la suspensión del tratamiento.
+
+Carcinogénesis, tumorogénesis y mutagénesis
+Losartán no presentó efectos carcinogénicos en dosis máximas tolera-
+das en ratas y ratones.
+No se observaron alteraciones mutagénicas (in vitro) ni aberraciones
+cromosómicas (in vivo e in vitro).
+
+Embarazo y lactancia
+Aunque no hay experiencia con el uso de PAXON® en mujeres embara-
+zadas, los estudios preclínicos realizados con losartán han demostrado
+lesiones ó muertes fetales y neonatales que podrían estar mediadas far-
+macológicamente por los efectos sobre el sistema renina-angiotensina.
+En el feto humano la perfusión renal, que depende del desarrollo del
+sistema renina-angiotensina, se inicia en el segundo trimestre por lo
+que el riesgo para el feto aumenta si PAXON® se administra durante el
+segundo o el tercer trimestre del embarazo. Además, cuando se utiliza
+durante el segundo y el tercer trimestre del embarazo, los medicamen-
+tos  que  actúan  directamente  sobre  el  sistema  renina-angiotensina
+pueden  causar  daños  o  incluso  la  muerte  del  feto.  Si  la  paciente  se
+embaraza  durante  el  tratamiento,  PAXON®  debe  ser  suspendido.  No
+se sabe si losartán es excretado con la leche materna. Se debe realizar
+una evaluación riesgo/beneficio en el caso de mujeres en períodos de
+lactancia que tienen indicación de recibir PAXON®.
+
+Empleo en Pediatría
+6 meses - menos de 6 años
+No se ha establecido la seguridad y la eficacia en niños con edad entre
+6 meses y menores de 6 años. No se recomienda el uso de losartán en
+niños menores de 6 años de edad debido a la escasez de datos disponi-
+bles en estos grupos de pacientes.
+
+6 a 18 años
+En aquellos pacientes que pueden tragar comprimidos, la dosis reco-
+mendada es 25 mg una vez al día en pacientes de >20 a <50 kg. (En
+casos excepcionales, se puede aumentar la dosis hasta un máximo de
+50 mg una vez al día). La dosis se ajustará en función de la respuesta de
+la presión arterial. En pacientes de más de 50 kg, la dosis habitual es de
+50 mg una vez al día. En casos excepcionales, se puede ajustar la dosis
+hasta un máximo de 100 mg una vez al día. En pacientes pediátricos no
+se han estudiado dosis mayores de 1,4 mg/kg (o superiores a 100 mg)
+al día. No se recomienda su uso en niños con índice de filtración glo-
+merular <30 ml/min/1,73 m2 debido a la ausencia de datos. Tampoco
+se recomienda losartán en niños con insuficiencia hepática.
+
+Uso en pacientes de edad avanzada
+Normalmente no es necesario realizar ajuste de la dosis en pacientes
+de edad avanzada aunque en aquellos pacientes mayores de 75 años
+deberá valorarse iniciar el tratamiento con la dosis de 25 mg.
+
+Raza
+Los beneficios observados con losartán en pacientes hipertensos con
+hipertrofia ventricular izquierda, en términos de morbimortalidad car-
+diovascular, no fueron demostrados en pacientes de raza negra.
+
+REACCIONES ADVERSAS
+
+La  frecuencia  de  las  reacciones  adversas  incluidas  a  continuación  se
+define  utilizando  la  siguiente  convención:  muy  frecuentes  (≥1/10);
+frecuentes (≥1/100 a <1/10); poco frecuentes (≥1/1.000 a <1/100);
+raras (≥1/10.000 a <1/1.000); muy raras (<1/10.000); frecuencia no
+conocida (no puede estimarse a partir de los datos disponibles).
+Trastornos  de  la  sangre  y  del  sistema  linfático:  Frecuentes:  anemia.
+Frecuencia no conocida: trombocitopenia.
+Trastornos del sistema inmunológico: Raras: reacciones de hipersensi-
+bilidad, reacciones anafilácticas, angioedema y vasculitis.
+Trastornos psiquiátricos: Frecuencia no conocida: depresión.
+Trastornos del sistema nervioso: Frecuentes: mareos. Poco frecuentes:
+somnolencia, cefalea, trastorno del sueño. Raras: parestesia. Frecuen-
+cia no conocida: migraña, disgeusia.
+Trastornos del oído y del laberinto: Frecuentes: vértigo. Frecuencia no
+conocida: acúfenos.
+Trastornos cardiacos. Poco frecuentes: palpitaciones, angina de pecho.
+Raras: síncope, fibrilación auricular, accidente cerebrovascular.
+Trastornos vasculares. Frecuentes: hipotensión (ortostática).
+Trastornos  respiratorios,  torácicos  y  mediastínicos:  Poco  frecuentes:
+disnea, tos.
+Trastornos gastrointestinales. Poco frecuentes: dolor abdominal, estre-
+ñimiento, diarrea, náuseas, vómitos.
+Trastornos  hepatobiliares.  Frecuencia  no  conocida:  pancreatitis,  ano-
+malías de la función hepática. Raras: hepatitis.
+Trastornos de la piel y del tejido subcutáneo: Poco frecuente: urticaria,
+prurito, erupción. Frecuencia no conocida: fotosensibilidad.
+Trastornos musculoesqueléticos y del tejido conjuntivo: Frecuencia no
+conocida: mialgia, artralgia, rabdomiólisis.
+Trastornos del aparato reproductor y de la mama: Frecuencia no conoci-
+da: disfunción eréctil/impotencia.
+Trastornos  generales  y  alteraciones  en  el  lugar  de  administración:
+
+Frecuentes:  astenia,  fatiga.  Poco  frecuentes:  edema.  Frecuencia  no
+conocida: malestar general.
+Exploraciones  complementarias:  Raras:  elevación  de  la  alanina  ami-
+notransferasa (ALT). Frecuentes: aumento de la urea sanguínea, de la
+creatinina y del potasio sérico, hipoglucemia. Frecuencia no conocida:
+hiponatremia.
+
+Trastornos renales y urinarios
+Como  consecuencia  de  la  inhibición  del  sistema  renina-angiotensi-
+na-aldosterona, se han notificado cambios en la función renal, inclu-
+yendo insuficiencia renal en pacientes de riesgo; estos cambios en la
+función renal pueden ser reversibles al interrumpir el tratamiento.
+
+Notificación de sospecha de reacciones adversas
+Es  importante  notificar  la  sospecha  de  reacciones  adversas  al  medica-
+mento tras su autorización. Ello permite una supervisión continuada de la
+relación beneficio/riesgo del medicamento. Se invita a los profesionales
+sanitarios  a  notificar  las  sospechas  de  reacciones  adversas  a  través  del
+Sistema  Nacional  de  Farmacovigilancia  al  siguiente  link:  https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos
+y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail a
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+No  se  han  realizado  estudios  de  los  efectos  sobre  la  capacidad  para
+conducir y utilizar máquinas. Sin embargo, al conducir o manejar ma-
+quinaria debe tenerse en cuenta que durante el tratamiento antihiper-
+tensivo pueden aparecer mareos o somnolencia, en particular al inicio
+del tratamiento o cuando se aumente la dosis.
+
+SOBREDOSIFICACIÓN
+
+No hay datos suficientes de sobredosis en humanos. Podría presentar-
+se hipotensión y taquicardia o bradicardia (por estimulación vagal) que
+deberán ser tratadas con medidas de soporte. Tanto losartán como su
+metabolito activo no son dializables.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+
+Optativamente otros centros de intoxicaciones”.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+
+Conservar a temperatura ambiente inferior a 25°C.
+
+PRESENTACIONES
+
+PAXON® 50: Envases conteniendo 30 y 60 comprimidos recubiertos.
+PAXON® 100: Envases conteniendo 30 y 60 comprimidos recubiertos.
+
+Información para el paciente
+
+Composición
+Cada comprimido recubierto de PAXON® 50 contiene:
+Losartán potásico ...................................................................... 50 mg
+Excipientes: Almidón de maíz, Dióxido de silicio coloidal, Lactosa mo-
+nohidrato,  Celulosa  microcristalina,  Croscaramelosa  sódica,  Lauril
+sulfato de sodio, Estearato de magnesio, Opadry II 85F28751 blanco,
+Opaglos GS 2-0700 ........................................................................ c.s.
+
+Cada comprimido recubierto de PAXON® 100 contiene:
+Losartán potásico .................................................................... 100 mg
+Excipientes: Almidón de maíz, Dióxido de silicio coloidal, Lactosa mo-
+nohidrato,  Celulosa  microcristalina,  Croscaramelosa  sódica,  Lauril
+sulfato de sodio, Estearato de magnesio, Opadry II 85F28751 blanco,
+Opaglos GS 2-0700 ........................................................................ c.s.
+
+Su  médico  le  ha  prescripto  PAXON®.  Antes  de  empezar  a  tomar
+este medicamento, lea la siguiente información detenidamente. La
+misma tiene el propósito de guiarlo con respecto al uso seguro de
+este medicamento. Esta información no reemplaza las indicaciones
+de su médico. Si usted posee alguna duda sobre PAXON® consulte
+a su médico. Este medicamento se le ha prescripto solo a Usted, y no
+deberá compartirlo con otras personas, ya que puede ser perjudicial.
+Si presenta efectos adversos consulte a su médico, incluso si se trata
+de efectos adversos no incluidos en esta información.
+
+¿Qué es PAXON® y para qué se utiliza?
+Losartan (PAXON®) pertenece a un grupo de medicamentos denomi-
+nados antagonistas de los receptores de la angiotensina II.
+La angiotensina II es una sustancia producida en el organismo que se
+une a unos receptores presentes en los vasos sanguíneos, provocando
+que éstos se estrechen. Esto provoca un aumento de la presión arterial.
+Losartan impide la unión de la angiotensina II a estos receptores, lo que
+origina que los vasos sanguíneos se relajen, lo que a su vez disminuye
+la presión arterial. Losartan disminuye el empeoramiento de la función
+renal en pacientes con presión arterial alta y diabetes tipo 2.
+PAXON® se utiliza:
+•  Para tratar a pacientes con presión arterial elevada (hipertensión)
+
+en adultos y en niños y adolescentes de 6 a 18 años.
+
+•  Para proteger el riñón en pacientes hipertensos con diabetes tipo
+2 y resultados de análisis de laboratorio que indican insuficiencia
+
+renal y proteinuria ≥0,5 g al día (situación en la que la orina contie-
+ne una cantidad anormal de proteínas).
+
+•  Para tratar pacientes con insuficiencia cardiaca crónica, cuando su
+médico considera que el tratamiento con medicamentos específi-
+cos, llamados inhibidores de la enzima convertidora de angiotensi-
+na (inhibidores de la ECA, medicamentos utilizados para disminuir
+la presión arterial elevada) no son adecuados. Si su insuficiencia
+cardiaca ha sido estabilizada con un inhibidor de la ECA, no debe
+cambiar a losartan.
+
+•  En pacientes con la presión arterial elevada y aumento del grosor
+del ventrículo izquierdo del corazón, PAXON® ha demostrado que
+disminuye el riesgo de accidente cerebrovascular (indicación LIFE).
+
+¿Qué necesita saber antes de empezar a tomar PAXON®?
+
+No tome PAXON®:
+•  Si es alérgico a losartan o a cualquiera de los demás componentes
+
+de este medicamento.
+
+•  Si está embarazada de más de 3 meses (también es mejor evitar
+PAXON® al principio del embarazo, ver Embarazo y lactancia).
+
+•  Si la función de su hígado está seriamente dañada.
+•  Si tiene diabetes o insuficiencia renal y le están tratando con un
+medicamento para bajar la presión arterial que contiene aliskirén.
+
+Advertencias y precauciones
+Consulte a su médico antes de empezar a tomar PAXON®.
+Debe informar a su médico si cree que está embarazada (o pudiera
+estarlo). No se recomienda PAXON® al principio del embarazo, y no
+debe tomarse si está embarazada de más de 3 meses, ya que, si se
+utiliza en esta etapa, puede causar graves daños a su hijo (ver Em-
+barazo y lactancia).
+Antes de tomar PAXON®, es importante que informe a su médico:
+•  Si ha tenido antecedentes de angioedema (hinchazón de la cara,
+
+labios, lengua y/o garganta).
+
+•  Si tiene vómitos excesivos o diarrea, que provoquen una pérdida
+
+excesiva de fluido y/o sal de su cuerpo.
+
+•  Si está tomando diuréticos (medicamentos que aumentan la can-
+tidad de agua que pasa por sus riñones) o si sigue una dieta con
+restricción de sal que provoque una pérdida excesiva de líquidos
+o sal en su cuerpo.
+
+•  Si  sabe  que  tiene  estrechamiento  o  bloqueo  de  los  vasos  san-
+guíneos que van a sus riñones o si ha sufrido recientemente un
+trasplante de riñón.
+
+•  Si su función hepática está alterada.
+•  Si tiene insuficiencia cardiaca con o sin alteración renal o arritmias
+cardiacas  concomitantes  potencialmente  mortales.  Es  necesario
+prestar  atención  especial  cuando  esté  siendo  tratado  al  mismo
+tiempo con un betabloqueante.
+
+•  Si tiene problemas en las válvulas de su corazón o en el músculo
+
+del corazón.
+
+•  Si tiene una cardiopatía coronaria (causada por un flujo sanguíneo
+reducido en los vasos sanguíneos del corazón) o una enfermedad
+cerebrovascular (causada por una reducida circulación de la sangre
+en el cerebro).
+
+•  Si tiene hiperaldosteronismo primario (un síndrome asociado con
+una elevada secreción de la hormona aldosterona por la glándula
+suprarrenal debido a una alteración de esta glándula).
+
+•  Si está tomando alguno de los siguientes medicamentos utilizados
+para tratar la presión arterial alta (hipertensión): o un inhibidor de
+la enzima convertidora de angiotensina (IECA) (por ejemplo ena-
+lapril, lisinopril, ramipril), en particular si sufre problemas renales
+relacionados con la diabetes, o aliskirén.
+
+Puede que su médico le controle la función renal, la presión arterial
+y los niveles de electrolitos en la sangre (por ejemplo, potasio), a in-
+tervalos regulares.
+
+Niños y adolescentes
+PAXON® se ha estudiado en niños. Para más información, hable con
+su médico.
+No se recomienda PAXON® para su uso en niños que tienen proble-
+mas de riñón o de hígado, ya que hay limitados datos disponibles en
+estos grupos de pacientes. No se recomienda PAXON® para su uso en
+niños menores de 6 años de edad, ya que no se ha demostrado que
+funcione en este grupo de edad.
+
+Toma de PAXON® con otros medicamentos
+Informe  a  su  médico  si  está  tomando,  ha  tomado  recientemente  o
+podría tener que tomar cualquier otro medicamento.
+Mientras esté en tratamiento con PAXON®, tenga particular precau-
+ción si toma alguno de los siguientes medicamentos:
+•  Otros  medicamentos  que  disminuyen  la  presión  arterial,  ya  que
+pueden  producir  una  reducción  adicional  de  la  presión  arterial.
+La presión arterial también puede disminuirse por algunos de los
+siguientes medicamentos/clase de medicamentos: antidepresivos
+tricíclicos, antipsicóticos, baclofeno, amifostina.
+
+•  Medicamentos que retienen potasio o que pueden aumentar los
+niveles  de  potasio  (p.  ej.  Suplementos  de  potasio,  sustitutos  de
+la  sal  que  contengan  potasio  o  medicamentos  ahorradores  de
+potasio como ciertos diuréticos [amilorida, triamtereno, espirono-
+lactona] o heparina).
+
+•  Medicamentos antiinflamatorios no esteroideos, como indometa-
+cina, incluyendo inhibidores de la COX-2 (medicamentos que re-
+ducen la inflamación y que pueden utilizarse para aliviar el dolor),
+ya que pueden disminuir el efecto reductor de la presión arterial
+que produce losartan.
+
+Puede que su médico deba modificar su dosis y/o tomar otras precauciones:
+•  Si está tomando un inhibidor de la enzima convertidora de angio-
+
+tensina (IECA) o aliskirén.
+
+•  Si su función renal está alterada, el uso concomitante de estos me-
+dicamentos puede producir un empeoramiento de la función renal.
+Los medicamentos que contienen litio no deben utilizarse en com-
+binación con losartan sin que su médico realice un cuidadoso segui-
+miento. Puede ser apropiado tomar medidas de precaución especia-
+les (p. ej. análisis de sangre).
+
+Toma de PAXON® con alimentos y bebidas
+PAXON® puede tomarse con o sin alimentos.
+
+Embarazo y lactancia
+
+Embarazo
+Debe informar a su médico si cree que está embarazada (o pudiera
+estarlo). Normalmente, su médico le recomendará que deje de tomar
+PAXON® antes de quedarse embarazada o tan pronto como sepa que
+está embarazada y le aconsejará que tome otro medicamento distinto
+de PAXON®. No se recomienda PAXON® al principio del embarazo,
+y no debe tomarse si está embarazada de más de 3 meses, ya que
+puede causar graves daños a su hijo si se utiliza después del tercer
+mes de embarazo.
+
+Lactancia
+Informe a su médico si está dando el pecho o está a punto de empezar
+a darlo. No se recomienda PAXON® a madres que estén dando el pecho
+y su médico puede elegir otro tratamiento para usted si desea dar el
+pecho. Especialmente si su hijo es un recién nacido o nació prematuro.
+Consulte a su médico o farmacéutico antes de utilizar este medicamento.
+
+Conducción y uso de máquinas
+No se han realizado estudios de los efectos sobre la capacidad para
+conducir y utilizar máquinas. Es poco probable que PAXON® afecte a
+su capacidad para conducir o utilizar máquinas. Sin embargo, como
+muchos medicamentos utilizados para tratar la presión arterial alta,
+losartan puede provocar mareos o somnolencia en algunas personas.
+Si experimenta mareos o somnolencia, consulte con su médico antes
+de realizar dichas actividades.
+
+¿Cómo tomar PAXON®?
+Siga exactamente las instrucciones de administración de este medi-
+camento indicadas por su médico o farmacéutico. En caso de duda,
+consulte de nuevo a su médico o farmacéutico. Su médico decidirá
+la  dosis  apropiada  de  PAXON®,  dependiendo  de  su  estado  y  de  si
+está  tomando  otros  medicamentos.  Es  importante  seguir  tomando
+PAXON® mientras se lo prescriba su médico para mantener un control
+constante de la presión arterial.
+
+Pacientes adultos con presión arterial elevada
+Normalmente  el  tratamiento  empieza  con  50  mg  de  losartan  (un
+comprimido  de  PAXON®  50  mg)  una  vez  al  día.  El  máximo  efecto
+reductor de la presión arterial se alcanza a las 3-6 semanas de comen-
+zar el tratamiento. Después, en algunos pacientes, la dosis puede au-
+mentarse hasta 100 mg de losartan (2 comprimidos de PAXON® 50
+mg o 1 comprimido de PAXON® 100 mg) una vez al día. Si estima que
+la acción de PAXON® es demasiado fuerte o débil, por favor, informe
+a su médico o farmacéutico.
+
+Uso en niños y adolescentes
+
+Niños menores de 6 años de edad
+No se recomienda PAXON® para su uso en niños menores de 6 años
+de edad, ya que no se ha demostrado que funcione en este grupo
+de edad.
+
+Niños con edades entre 6 y 18 años
+La dosis de inicio recomendada en pacientes que pesan entre 20 y 50
+kg es 0,7 mg de losartan por kg de peso, administrada una vez al día
+(hasta 25 mg de PAXON®). El médico puede aumentar la dosis si la
+presión arterial no está controlada.
+Otra(s) forma(s) farmacéutica(s) de este medicamento puede(n) ser
+más adecuadas para los niños; pregunte a su médico o farmacéutico.
+
+Pacientes adultos con presión arterial elevada y diabetes tipo 2
+Normalmente  el  tratamiento  empieza  con  50  mg  de  losartan  (un
+comprimido de PAXON® 50 mg) una vez al día. Después, la dosis pue-
+de aumentarse a 100 mg de losartan (2 comprimidos de PAXON® 50
+mg o 1 comprimido de PAXON® 100 mg) una vez al día dependiendo
+de la respuesta de su presión arterial. Losartán puede administrar-
+se  junto  con  otros  medicamentos  que  reducen  la  presión  arterial
+(p. ej. diuréticos, antagonistas del calcio, alfa o beta bloqueantes y
+medicamentos de acción central), así como con insulina y otros me-
+dicamentos  frecuentemente  utilizados  para  disminuir  el  nivel  de
+glucosa  en  la  sangre  (p.  ej.,  sulfonilureas,  glitazonas  e  inhibidores
+de la glucosidasa).
+
+Pacientes adultos con insuficiencia cardiaca
+Normalmente  el  tratamiento  empieza  con  12,5  mg  de  losartan  una
+vez al día. Normalmente, la dosis se va aumentando de forma gradual,
+semanalmente (es decir, 12,5 mg al día durante la primera semana, 25
+mg al día durante la segunda semana, 50 mg al día durante la tercera
+semana, 100 mg al día durante la cuarta semana, 150 mg al día durante
+la  quinta  semana),  hasta  una  dosis  de  mantenimiento  determinada
+por su médico. Puede usarse una dosis máxima de 150 mg de losartan
+(por ejemplo, 3 comprimidos de PAXON® 50 mg o 1 comprimido de
+PAXON® 100 mg y otro de PAXON® 50 mg) una vez al día. En el trata-
+miento de la insuficiencia cardiaca, losartan normalmente se combina
+con un diurético (medicamento que aumenta la cantidad de agua que
+pasa por sus riñones) y/o digitalis (medicamento que ayuda a que su
+corazón sea más fuerte y más eficiente) y/o un betabloqueante.
+
+Posología en grupos de pacientes especiales
+El médico puede recomendar una dosis menor, especialmente al em-
+pezar el tratamiento en ciertos pacientes, como aquellos tratados con
+diuréticos a dosis altas, en pacientes con insuficiencia hepática o en
+pacientes mayores de 75 años. No se recomienda el uso de losartan
+en pacientes con insuficiencia hepática grave.
+
+Administración
+Los comprimidos deben tomarse con un vaso de agua. Debe intentar
+tomar su dosis diaria aproximadamente a la misma hora cada día. Es
+importante que siga tomando PAXON® hasta que su médico le diga
+lo contrario.
+
+Si toma más PAXON® del que debe
+Si  accidentalmente  toma  demasiados  comprimidos,  contacte  a  su
+médico inmediatamente. Los síntomas de sobredosis son presión ar-
+terial baja, aumento del ritmo cardiaco, y posiblemente disminución
+del ritmo cardiaco.
+
+Si olvidó tomar PAXON®
+Si accidentalmente olvida una dosis, simplemente tome la siguiente
+dosis con normalidad. No tome una dosis doble para compensar las
+dosis olvidadas. Si tiene cualquier otra duda sobre el uso de este me-
+dicamento, pregunte a su médico.
+
+Posibles efectos adversos
+Al igual que todos los medicamentos, PAXON® puede producir efec-
+tos adversos, aunque no todas las personas los sufran. Si experimenta
+lo siguiente, deje de tomar los comprimidos de losartan e informe a
+su  médico  inmediatamente  o  vaya  al  servicio  de  urgencias  de  su
+hospital más cercano: una reacción alérgica grave (erupción, picazón,
+hinchazón de la cara, labios, boca o garganta que pueden causar difi-
+cultad al tragar o respirar).
+Este es un efecto adverso grave pero raro, que afecta a más de 1 pa-
+ciente de 10.000, pero a menos de 1 paciente de 1.000. Puede nece-
+sitar atención médica urgente u hospitalización. Los efectos adversos
+de los medicamentos se clasifican según lo siguiente:
+
+Frecuentes (pueden afectar hasta a 1 de cada 10 pacientes): mareos,
+presión arterial baja (especialmente después de pérdida excesiva de
+agua del cuerpo dentro de los vasos sanguíneos, p. ej. en pacientes con
+insuficiencia cardiaca grave o en tratamiento con dosis altas de diuréti-
+cos), efectos ortostáticos relacionados con la dosis, como disminución
+de la presión arterial que se produce después de levantarse tras estar
+tumbado o sentado, debilidad, fatiga, poco azúcar en la sangre (hipo-
+
+glucemia), demasiado potasio en la sangre (hiperpotasemia), cambios
+en la función del hígado, incluyendo fallo renal, número reducido de
+glóbulos rojos (anemia), aumento de la urea en sangre, de la creatinina
+y el potasio séricos en pacientes con insuficiencia cardiaca.
+Poco frecuentes (pueden afectar hasta a 1 de cada 100 pacientes):
+somnolencia,  dolor  de  cabeza,  trastornos  del  sueño,  sensación  de
+latidos  del  corazón  muy  rápidos  (palpitaciones),  dolor  fuerte  en  el
+pecho  (angina  de  pecho),  dificultad  para  respirar  (disnea),  dolor
+abdominal, estreñimiento, diarrea, náuseas, vómitos, ronchas (urti-
+caria), picazón (prurito), erupción, hinchazón localizada (edema), tos.
+
+Raras (pueden afectar hasta a 1 de cada 1.000 pacientes): hipersen-
+sibilidad, angioedema, inflamación de los vasos sanguíneos (vascu-
+litis, incluyendo púrpura de Schonlein-Henoch), entumecimiento o
+sensación de hormigueo (parestesia), desmayo (síncope), latidos del
+corazón muy rápidos e irregulares (fibrilación atrial), ataque cerebral
+(accidente cerebrovascular), inflamación del hígado (hepatitis), ele-
+vación de los niveles de la alanino aminotransferasa (ALT) en sangre,
+que normalmente se resuelve al interrumpir el tratamiento.
+
+Frecuencia no conocida (la frecuencia no puede estimarse a partir de
+los datos disponibles): número reducido de plaquetas, migraña, ano-
+malías en la función hepática, dolor muscular y en las articulaciones,
+síntomas parecidos a la gripe, dolor de espalda e infección del tracto
+urinario, mayor sensibilidad a la luz del sol (fotosensibilidad), dolor
+muscular de origen desconocido con orina de color oscuro (color del
+te) (rabdomiólisis), impotencia, inflamación del páncreas (pancreati-
+tis), bajos niveles de sodio en sangre (hiponatremia), depresión, por
+lo general, sentirse mal (malestar), zumbido, ruido o chasquido en los
+oídos (acúfenos), alteración del gusto (disgeusia). Los efectos adver-
+sos en niños son similares a los observados en adultos.
+
+“Ante  cualquier  inconveniente  con  el  producto  el  paciente  puede
+llenar la ficha que está en la página web de la ANMAT: https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes o
+llamar a ANMAT responde 0800-333-1234”.
+
+PAXON® contiene lactosa. Si su médico le ha indicado que padece
+una intolerancia a ciertos azúcares, consulte con él antes de tomar
+este medicamento.
+
+CONDICIONES DE CONSERVACIÓN
+
+Conservar a temperatura ambiente inferior a 25°C.
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Gador S.A. Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Licenciado
+en Ciencias Farmacéuticas. E.M.A.M.S. Certificado N° 44.390. Fecha de última revisión: 11/2016
+G00078605-05

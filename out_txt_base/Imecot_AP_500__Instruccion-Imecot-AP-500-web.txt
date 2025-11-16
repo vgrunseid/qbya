@@ -1,0 +1,1612 @@
+IMECOT®  AP 500
+METFORMINA
+CLORHIDRATO
+
+Venta Bajo Receta
+Industria Argentina
+
+COMPRIMIDOS RECUBIERTOS
+DE LIBERACIÓN PROLONGADA
+
+FÓRMULA
+Cada comprimido recubierto de liberación prolongada x 500 contiene:
+Metformina clorhidrato 500,000 mg. Excipientes: Hidroxipropilmetilcelulosa K100 M 97,500
+mg; Fosfato tricálcico 81,250 mg; Povidona K-30 68,500 mg; Estearato de Magnesio 3,750
+mg;  Hidroxipropilmetilcelulosa  E15  6,000  mg;  Polietilenglicol  6000  2,800  mg;  Dióxido  de
+Titanio 5,200 mg; Talco 5,000 mg.
+
+ACCIÓN TERAPÉUTICA
+Antihiperglucemiante oral.
+Cód. ATC: A10BA
+
+INDICACIONES
+IMECOT AP 500 está indicado como un adyuvante de la dieta y el ejercicio para mejorar el
+control de la glucemia en adultos con diabetes mellitus tipo 2.
+
+ACCIÓN FARMACOLÓGICA
+Es un hipoglucemiante oral del grupo de las biguanidas. La fórmula estructural es como se
+muestra:
+
+El  clorhidrato  de  metformina  es  un  compuesto  cristalino  blanco  a  blanquecino  con  una
+fórmula  abreviada  de  C4H11N5·HCL  y  un  peso  molecular  de  165,63.  El  clorhidrato  de
+metformina  es  muy  soluble  en  agua  y  es  prácticamente  insoluble  en  acetona,  éter  y
+cloroformo.  El  pKa  de  la  metformina  es  12,4.  El  pH  de  una  solución  acuosa  al  1%  de
+clorhidrato  de  metformina  es  6,68.  Mecanismo  de  acción:  la  metformina  es  un  agente
+antihiperglucemiante que mejora la tolerancia a la glucosa en pacientes con diabetes tipo 2,
+disminuyendo tanto la glucosa plasmática basal como la postprandial. Sus mecanismos de
+acción farmacológicos son diferentes a los de otras clases de agentes antihiperglucemian-
+tes orales.
+La  metformina  disminuye  la  producción  hepática  de  glucosa,  disminuye  la  absorción
+intestinal  de  glucosa  y  mejora  la  sensibilidad  a  la  insulina  mediante  el  aumento  de  la
+captación y utilización periférica de la glucosa. A diferencia de las sulfonilureas, la metformi-
+na no produce hipoglucemia ni en pacientes con diabetes tipo 2 ni en individuos normales
+(excepto en circunstancias especiales, ver PRECAUCIONES) y no causa hiperinsulinemia.
+En la terapia con metformina, la secreción de insulina permanece sin cambios mientras que
+los niveles de insulina en ayunas y la respuesta de insulina plasmática a lo largo del día en
+realidad pueden disminuir.
+
+FARMACOCINÉTICA
+Absorción y biodisponibilidad
+La biodisponibilidad absoluta de un comprimido de metformina de 500 mg administrado en
+condiciones de ayuno es aproximadamente del 50% al 60%. Estudios utilizando dosis orales
+únicas de metformina de 500 mg a 1500 mg, indican que no hay una proporcionalidad con
+el aumento de las dosis, lo cual es debido más bien a una absorción disminuida que a una
+alteración en la eliminación. Los alimentos disminuyen ligeramente el grado y la velocidad
+de absorción de la metformina, como se demuestra por un pico de concentración plasmáti-
+ca media (Cmáx) un 40% menor, un área bajo la curva (AUC) de concentración plasmática
+versus  tiempo  un  25%  menor,  y  una  prolongación  de  35  minutos  del  tiempo  al  pico  de
+concentración plasmática (Tmáx) siguientes a la administración de un solo comprimido de
+metformina  de  850  mg  con  alimentos,  comparado  con  la  misma  dosis  de  comprimido
+administrada en ayunas. La relevancia clínica de esta disminución es desconocida. Tras una
+dosis oral única de Metformina AP, los niveles de los picos plasmáticos son aproximadamen-
+te  20%  más  bajos  comparados  con  la  misma  dosis  de  Metformina,  sin  embargo,  la
+extensión  de  la  absorción  (medida  mediante  AUC)  es  similar  a  Metformina.  En  el  estado
+estacionario, el AUC y la Cmáx son menos proporcionales a la dosis para Metformina AP
+dentro del rango  de 500 mg a 2000 mg  administrados una vez al día. Los niveles de los
+picos plasmáticos son aproximadamente 0,6, 1,1, 1,4, y 1,8 g/ml para las dosis una vez al
+día  de  500,  1000,  1500,  y  2000  mg,  respectivamente.  La  extensión  de  la  absorción  de
+Metformina AP (medida mediante el AUC) a partir de una dosis una vez al día de 2000 mg
+es similar a la misma dosis diaria total administrada como comprimidos de Metformina de
+1000  mg  dos  veces  por  día.  Después  de  la  administración  repetida  de  Metformina  AP,  la
+metformina  no  se  acumula  en  plasma.  La  variabilidad  de  la  Cmáx  y  AUC  de  metformina
+intra-sujeto  a  partir  de  Metformina  AP  es  comparable  a  la  de  Metformina.  Aunque  la
+extensión de la absorción de metformina (medida mediante AUC) a partir del comprimido de
+Metformina AP aumentó aproximadamente un 50% cuando se administró con alimentos, no
+hubo efecto de los alimentos en la Cmáx y Tmáx de metformina. Tanto las comidas altas
+como bajas en grasa tuvieron el mismo efecto en la farmacocinética de Metformina AP.
+Distribución
+La metformina se une a las proteínas plasmáticas en forma no significativa, en contraste con
+las  sulfonilureas,  las  cuales  están  unidas  a  proteínas  en  más  del  90%.  La  metformina  se
+distribuye dentro de los eritrocitos, muy probablemente en función del tiempo. A las dosis
+clínicas  habituales  y  los  esquemas  de  dosificación  de  Metformina,  las  concentraciones
+plasmáticas del estado estacionario de metformina se alcanzan dentro de las 24 a 48 horas
+y son generalmente < 1 g/ml. Durante los estudios clínicos controlados de Metformina, los
+niveles plasmáticos máximos de metformina no excedieron de 5 g/ml, aún a dosis máximas.
+Metabolismo y eliminación
+Estudios en individuos normales con dosis única intravenosa demuestran que la metformina
+es excretada sin cambios en la orina y no sufre metabolismo hepático (no se han identifica-
+do  metabolitos  en  humanos)  ni  excreción  biliar.  La  depuración  renal  (ver  Tabla  1)  es
+aproximadamente 3,5 veces mayor que la depuración de creatinina, lo cual indica que la
+secreción  tubular  es  la  ruta  principal  de  eliminación  de  metformina.  Siguiendo  a  la
+administración oral, aproximadamente el 90% del fármaco absorbido es eliminado por vía
+renal dentro de las primeras 24 horas, con una vida media de eliminación del plasma de
+aproximadamente 6,2 horas. En sangre, la vida media de eliminación es aproximadamente
+17,6  horas,  sugiriendo  que  la  masa  eritrocitaria  podría  ser  un  compartimiento  de
+distribución.
+Poblaciones especiales:
+Pacientes  con  Diabetes  tipo  2  En  presencia  de  función  renal  normal,  no  hay  diferencias
+entre  la  farmacocinética  de  dosis  única  o  múltiple  de  metformina  entre  pacientes  con
+diabetes tipo 2 e individuos normales (Ver Tabla 1), ni tampoco hay ninguna acumulación de
+metformina en ninguno de los grupos a las dosis clínicas habituales. La farmacocinética de
+Metformina AP en pacientes con diabetes tipo 2 es comparable a la de adultos normales
+sanos
+Insuficiencia renal
+En  pacientes  con  función  renal  disminuida  (basado  en  la  medida  de  la  depuración  de
+creatinina),  la  vida  media  en  plasma  y  sangre  de  metformina  está  prolongada  y  la
+depuración  renal  está  disminuida  en  proporción  a  la  disminución  en  la  depuración  de
+creatinina (ver tabla 1; ver también ADVERTENCIAS).
+Insuficiencia hepática
+No  se  han  llevado  a  cabo  estudios  farmacocinéticos  de  metformina  en  pacientes  con
+insuficiencia hepática.
+Geriatría
+Los datos limitados de estudios farmacocinéticos controlados de Metformina en individuos
+mayores sanos sugieren que la depuración plasmática de metformina está disminuida, la
+vida media está prolongada, y la Cmáx está aumentada, comparado con individuos jóvenes
+sanos. A partir de estos datos, parece que el cambio en la farmacocinética de metformina
+con el envejecimiento se explica primariamente por un cambio en la función renal (ver Tabla
+1). El tratamiento con Metformina (comprimidos de clorhidrato de metformina) y Metformina
+AP  500  (comprimidos  de  clorhidrato  de  metformina  de  liberación  extendida)  no  debe
+iniciarse  en  pacientes  de  80  años  de  edad  a  menos  que  la  medida  de  la  depuración  de
+creatinina demuestre que la función renal no se encuentra reducida (ver ADVERTENCIAS,
+DOSIFICACIÓN y ADMINISTRACIÓN).
+
+1
+
+*Todos  los  pacientes  con  glibenclamida,  20  mg/día,  al  inicio.  **Estadísticamente  no
+significativo.
+La  magnitud  de  la  caída  en  la  concentración  de  glucosa  en  ayunas  siguiente  a  la
+instauración de la terapia con comprimidos de clorhidrato de metformina fue proporcional
+al nivel de la hiperglucemia en ayunas. Los pacientes con diabetes tipo 2 con concentra-
+ción  de  glucosa  en  ayunas  mayores  experimentaron  mayores  caídas  en  la  glucosa
+plasmática y en la hemoglobina glicosilada. En los estudios clínicos, metformina, solo o en
+combinación con una sulfonilurea, disminuyó los niveles medios de triglicéridos en ayunas,
+colesterol total, colesterol LDL y no tuvo efectos adversos sobre los niveles de otros lípidos
+(ver Tabla 4).
+
+Tabla 4. Resumen de los Cambios Porcentuales Medios con Respecto al Valor Basal de las
+Principales Variables de Lípidos Séricos a la Visita Final (estudios de 29 semanas).
+
+metformina vs
+placebo
+
+metformin
+a (n=141)
+
+Placeb
+o
+(n=145)
+
+glibenclamida /metformina Combinados vs
+Monoterapia
+
+metformin
+a (n=110)
+
+metformina/glibenclamid
+a (n=213) g
+
+glibenclamid
+a (n=209)
+
+Colesterol
+total (mg/dl)
+Basal
+
+Cambio
+medio  %  a
+la  VISITA
+FINAL
+Triglicéridos
+totales
+(mg/dl)
+Basal
+
+Cambio
+medio  %  a
+la  VISITA
+FINAL
+Colesterol
+LDL (mg/dl)
+Basal
+
+Cambio
+medio  %  a
+la  VISITA
+FINAL
+Colesterol
+HDL
+(mg/dl)
+Basal
+
+Cambio
+medio  %  a
+la  VISITA
+FINAL
+
+211,0
+
+212,3
+
+213,1
+
+215,6
+
+219,6
+
+-5%
+
+1%
+
+ -2%
+
+-4%
+
+1%
+
+236,1 –
+
+203,5
+
+242,5
+
+16%
+
+1%
+
+ -3%
+
+215,0
+
+ -8%
+
+266,1
+
+4%
+
+135,4
+
+138,5
+
+134,3
+
+136,0
+
+137,5
+
+ -8%
+
+1%
+
+-4%
+
+ -6%
+
+ 3%
+
+39,0
+
+40,5
+
+37,2
+
+39,0
+
+37.0
+
+2%
+
+ -1%
+
+5%
+
+3%
+
+1%
+
+En contraste con las sulfonilureas, el peso corporal de los individuos con metformina tendió
+a permanecer estable o aún a disminuir de alguna manera (ver Tablas 2 y 3). Un estudio a
+doble ciego, controlado por placebo de 24 semanas de metformina más insulina vs insulina
+más  placebo  fue  conducido  en  pacientes  con  diabetes  tipo  2  que  habían  fracasado  en
+lograr un control adecuado de la glucemia con insulina sola (ver Tabla 5). Los pacientes
+randomizados a recibir metformina más insulina lograron una reducción en la HbA1c de
+2,10% comparados con una reducción de 1,56 % en la HbA1c lograda con insulina más
+placebo. La mejora en el control de la glucemia fue lograda a la visita final del estudio con
+16% menos insulina, 93,0 U/día vs 110,6 U/día, metformina más insulina vs insulina más
+placebo, respectivamente, p=0,04.
+
+Tabla 6. Resumen de los Cambios Medios con Respecto al Valor Basal* en HbA1c, Glucosa
+Plasmática en Ayunas, y Peso Corporal a la Visita Final (estudio de 16 semanas).
+
+Metformina formulación de acción prolongada
+500
+mg
+una  vez  al
+día al día
+(n=115)
+8,2
+-0,4
+
+1500  mg
+una  vez  al
+día una vez
+(n=111)
+8,3
+-0,9
+
+1000 mg
+una  vez
+al día
+(n=115)
+8,4
+-0,6
+
+(n=125)
+8,4
+-0,8
+
+2000 mg
+Una  vez  al
+día
+
+1000  mg
+dos veces
+al día
+(n=112)
+8,4
+-1,1
+
+<0,001
+(n=126)
+182,7
+-15,2
+
+<0,001
+(n=118)
+183,7
+-19,3
+
+<0,001
+(n=120)
+178,9
+-28,5
+
+<0,001
+(n=132)
+181,0
+-29,9
+
+<0,001
+(n=122)
+181,6
+-33,6
+
+Placebo
+
+(n=111)
+8,4
+0,1
+
+-
+(n=113)
+179,6
+7,6
+
+la
+
+la
+
+<0,001
+(n=125)
+
+<0,001
+(n=119)
+
+<0,001
+(n=17)
+
+<0,001
+(n=131)
+
+<0,001
+(n=119)
+
+-
+(n=113)
+
+87,0
+-,045
+
+86,6
+-0,45
+
+85,2
+0,0
+
+88,4
+-0,45
+
+87,0
+-0,90
+
+87,9
+-0,45
+
+NS**
+
+NS**
+
+NS**
+
+NS**
+
+NS**
+
+-
+
+a
+
+HbA1c(%)
+Basal
+Cambio
+VISITA FINAL
+Valor de pa
+GPA (mg/dl)
+Basal
+Cambio
+VISITA FINAL
+Valor de pa
+Peso
+(kg)
+Basal
+Cambio
+VISITA
+Valor de p
+
+a
+
+corporal
+
+la
+a
+FINAL
+
+*Todos los pacientes en terapia de dieta al inicio a Todas las comparaciones vs Placebo
+**Estadísticamente no significativo
+
+Comparado  con  el  placebo,  la  mejora  en  el  control  de  la  glucemia  se  vio  en  todos  los
+niveles de dosis de Metformina bajo formulación de acción prolongada y el tratamiento no
+estuvo asociado a ningún cambio significativo en el peso (ver DOSIFICACIÓN y ADMINIS-
+TRACIÓN  para  recomendaciones  de  dosificación  para  Metformina  y  Metformina  AP)  Se
+realizo  un  estudio  a  doble  ciego,  randomizado,  de  24  semanas,  de  Metformina  bajo
+formulación  de  acción  prolongada  tomada  una  vez  al  día  con  la  comida  de  la  noche,  y
+comprimidos de clorhidrato de metformina, tomado dos veces al día (con el desayuno y la
+comida  de  la  noche),  en  pacientes  con  diabetes  tipo  2  que  habían  sido  tratados  con
+metformina  500  mg  dos  veces  al  día  por  al  menos  8  semanas  previo  al  ingreso  en  el
+estudio. La dosis de metformina no había sido necesariamente titulada para lograr un nivel
+específico  de  control  de  glucemia  previo  al  ingreso  al  estudio.  Los  pacientes  calificaban
+para el estudio, si la HbA1c era 8,5% y la GPA era 200 mg/dl. Los cambios en el control de
+la glucemia y el peso corporal se muestran en la Tabla 7.
+
+Tabla 7. Resumen de los Cambios Medios con Respecto al Valor Basal* en HbA1c, Glucosa
+Plasmática  en  Ayunas,  y  Peso  Corporal  a  la  semana  12  y  a  la  Visita  Final  (estudio  de  24
+semanas).
+
+Hemoglobina A1c (%)
+Basal
+Cambio a las 12 semanas
+(IC 95%)
+Cambio a la VISITA FINAL
+(IC 95%)
+GPA (mg/dl)
+Basal
+Cambio a las 12 semanas
+(IC 95%)
+Cambio a la VISITA FINAL
+(IC 95%)
+Peso corporal (kg)
+Basal
+Cambio a las 12 semanas
+(IC 95%)
+Cambio a la VISITA FINAL
+(IC 95%)
+
+Metformina 500 mg
+Dos Veces al Día
+
+(n=67)
+7,06
+0,14
+(-0,03;0,31)
+0,14a
+(-0,04;0,31)
+(n=69)
+127,2
+12,9
+(6,5;19,4)
+14,0
+(7,0;21,0))
+(n=71)
+95,2
+0,0
+(-0,4;1,5)
+0,0
+(-0,4;2,2)
+
+formulación  de
+
+1500 mg Una
+Vez al Día
+(n=66)
+7,02
+0,04
+(-0,08;0,15)
+0,13
+ (-0,02;0,28)
+
+Metformina
+acción prolongada
+1000 mg Una
+Vez al Día
+(n=72)
+6,99
+0,23
+(0,10;0,36)
+0,27
+(0,11;0,43)
+(n=72)
+131,0
+9,5
+(4,4;14,6)
+11,5
+(4,4;18,6)
+(n=74)
+91,6
+0,0
+(0,0;2,0)
+0,45
+(-0,2;2,4)
+
+(n=70)
+131,4
+3,7
+(-0,4;7,8)
+7,6
+(1,0;14,2)
+(n=71)
+87,0
+0,0
+(-0,4;1,8)
+0,0
+(-0,4;2,0)
+
+* Todos los pacientes con 500 mg Metformina dos veces al día al inicio. a n=68.
+
+Después de 12 semanas de tratamiento, hubo un aumento en la HbA1c media en todos los
+grupos;  en  el  grupo  de  Metformina  bajo  formulación  de  acción  prolongada  1000  mg,  el
+
+3
+
+522(139)
+
+600(132)
+
+1,79(0,94)
+
+2,64(0,82)
+
+2,75(0,81)
+
+2,01(0,42)
+
+1,60(0,38)
+
+1,03(0,33)
+
+Tmaxc (hs)
+
+Cmaxb (g/ml)
+
+Depuracion renal
+(ml/min)
+
+Tabla  1.  Medias  seleccionadas  de  parámetros  farmacocinéticos  después  de  dosis  orales
+únicas o múltiples de metformina
+Grupo  de  Individuos:
+dosis  de  metforminaa
+(número de sujetos)
+Adultos  sanos,  no
+diabéticos
+500  mg  dosis  única
+(24)
+850  mg  dosis  única
+(74)d
+850 mg tres veces al
+día por 19 dosise (9)
+Adultos  con  diabetes
+tipo 2
+850  mg  dosis  única
+(23)
+850 mg tres veces al
+día por 19 dosise (9)
+Mayoresf,
+adultos
+sanos  no  diabéticos
+850  mg  dosis  única
+(12)
+Adultos con deterioro
+renal
+850 mg dosis única
+Leve(CLcr  g  61-90
+ml/min)(5)
+Moderado(CLcr  31-60
+ml/min)(4)
+Severo  (CLcr  10-30
+ml/min)(6)
+
+1,90(0,62)
+
+2,45(0,70)
+
+4,12(1,83)
+
+1,86(0,52)
+
+3,93(0,92)
+
+3,75(0,50)
+
+3,32(1,08)
+
+2,71(1,05)
+
+3,20(0,45)
+
+4,01(1,10)
+
+2,01(1,22)
+
+1,48(0,5)
+
+642(173)
+
+491(138)
+
+550(160)
+
+384(122)
+
+412(98)
+
+130(90)
+
+108(57)
+
+A Todas las dosis administradas en ayunas excepto las primeras 18 dosis de los estudios de
+dosis múltiples.
+b Concentración plasmática en el pico.
+C Tiempo al pico de concentración plasmática.
+d Resultados combinados (medias promedio) de cinco estudios: edad media 32 años (rango
+23-59 años).
+e Estudio cinético realizado siguiendo a la dosis 19 administrada en ayunas.
+f Sujetos mayores, edad promedio 71 años (rango 65-81 años).
+g CLcr = depuración de creatinina normalizada a una superficie corporal de 1,73 m2.
+
+Pediatría
+Después de la administración de una dosis única oral de un comprimido de Metformina 500
+mg con alimentos, la media geométrica de la Cmáx y el AUC de metformina difirieron menos
+de 5% entre los pacientes pediátricos con diabetes tipo 2 (12 a 16 años de edad) y adultos
+sanos agrupados por sexo y peso (20 a 45 años de edad), todos con función renal normal.
+Sexo
+Los  parámetros  farmacocinéticos  de  metformina  no  difirieron  significativamente  entre
+individuos normales y pacientes con diabetes tipo 2 cuando se analizaron de acuerdo al sexo
+(hombres = 19, mujeres = 16). En forma similar en estudios clínicos controlados en pacientes
+con  diabetes  tipo  2,  el  efecto  antihiperglucemiante  de  Metformina  fue  comparable  entre
+hombres y mujeres.
+Raza
+No se llevaron a cabo estudios de los parámetros farmacocinéticos de metformina de acuerdo
+a la raza. En estudios clínicos controlados de metformina en pacientes con diabetes tipo 2, el
+efecto antihiperglucemiante fue comparable en blancos (n=249), negros (n=51) e hispánicos
+(n=24).
+Estudios clínicos
+En  un  estudio  clínico  multicéntrico,  doble  ciego,  controlado  por  placebo,  que  incluyó
+pacientes  obesos  con  diabetes  tipo  2  cuya  hiperglucemia  no  estaba  adecuadamente
+controlada  con  el  manejo  dietario  solamente  (glucosa  plasmática  en  ayunas  [GPA]  de
+aproximadamente  240  mg/dl),  el  tratamiento  con  metformina  (hasta  2550  mg/día)  por  29
+semanas, produjo disminuciones medias netas significativas tanto en la glucosa plasmática en
+ayunas  como  en  la  postprandial  (GPP)  y  en  la  Hemoglobina  A1c  (HbA1c)  de  59  mg/dl,  83
+mg/dl, y 1,8%, respectivamente, comparado con el grupo placebo (ver Tabla 2).
+
+Tabla 2. Metformina vs. Placebo Resumen de las medias de cambio con respecto al valor
+inicial* en la glucosa plasmática en ayunas, la HbA1c y el peso corporal en la visita final
+(estudio de 29 semanas).
+
+Metformina (n=141)
+
+Placebo (n=145)
+
+Valor de p
+
+GPA (mg/dl)
+Basal
+Cambio a la VISITA
+FINAL
+Hemoglobina A1c
+(%)
+Basal
+Cambio a la VISITA
+FINAL
+Peso corporal (kg)
+Basal
+Cambio a la VISITA
+FINAL
+
+241,5
+-53,0
+
+8,4
+-1,4
+
+91,1
+-0,45
+
+237,7
+6,3
+
+8,2
+0,4
+
+93,4
+-0,9
+
+NS**
+0,001
+
+NS**
+0,001
+
+NS**
+NS**
+
+* Todos los pacientes con terapia de dieta al inicio. ** Estadísticamente no significativo.
+
+Un estudio a doble ciego, controlado por placebo, de 29 semanas, de metformina y glibencla-
+mida solos y en combinación, fue conducido en pacientes obesos con diabetes de tipo 2 que
+habían fracasado en lograr un control adecuado de la glucemia durante la terapia con dosis
+máximas  de  glibenclamida  (GPA  basal  de  aproximadamente  250  mg/ml)  (ver  Tabla  3).  Los
+pacientes  randomizados  a  la  rama  combinada  comenzaron  la  terapia  con  500  mg  de
+metformina  y  20  mg  de  glibenclamida.  Al  final  de  cada  semana  de  las  primeras  cuatro
+semanas del estudio, a estos pacientes se les aumentaron sus dosis de metformina en 500 mg
+si  habían  fracasado  en  alcanzar  la  glucosa  plasmática  en  ayunas  deseada.  Después  de  la
+semana  cuatro,  dichos  ajustes  de  dosis  fueron  hechos  mensualmente,  aunque  a  ningún
+paciente  se  le  permitió  exceder  los  2500  mg  de  metformina.  Los  pacientes  en  la  rama  de
+metformina solo siguieron el mismo esquema de titulación. Al final del estudio, aproximada-
+mente el 70% de los pacientes en el grupo de combinación estaban tomando 2000 mg de
+metformina/ 20 mg de glibenclamida o 2500 mg de metformina/ 20 mg de glibenclamida. Los
+pacientes randomizados a continuar con glibenclamida experimentaron empeoramiento del
+control de la glucemia, con aumentos medios en PGA, GPP, y HbA1c de 14 mg/dl, 3 mg/dl, y
+0,2  %,  respectivamente.  En  contraste,  aquellos  randomizados  a  metformina  (hasta  2500
+mg/día) experimentaron una ligera mejoría, con reducciones medias en GPA, GPP, y HbA1c de
+1 mg/dl, 6 mg/dl, y 0,4% respectivamente. La combinación de metformina y glibenclamida fue
+efectiva en reducir los niveles de GPA, GPP y HbA1c en 63 mg/dl, 65 mg/dl, y 1,7% respectiva-
+mente. Comparados con los resultados del tratamiento sólo con glibenclamida, las diferencias
+netas con el tratamiento de combinación fueron -77 mg/dl, -68 mg/dl, y -1,9%, respectivamen-
+te, (ver Tabla 3).
+
+Tabla  3.  Terapia  Combinada  metformina/glibenclamida  (comb)  vs  Monoterapia  con
+glibenclamida (glib) o metformina (met): Resumen de los Cambios Medios a partir del Valor
+Basal*  en  Glucosa  Plasmática  en  Ayunas  (GPA),  HbA1c  y  Peso  Corporal  a  la  Visita  Final
+(estudio de 29 semanas)
+
+Comb
+(n=213)
+
+Glib
+(n=209)
+
+met
+(n=210)
+
+Valores de p
+glib
+Comb
+
+vs
+
+met
+Comb
+
+vs
+
+met
+Glib
+
+vs
+
+(mg/dl)
+
+GPA
+Basal
+Cambio  a
+la
+VISITA FINAL
+Hemoglobina
+A1c (%)
+Basal
+Cambio  a
+la
+VISITA FINAL
+Peso  corporal
+(kg) Basal
+Cambio  a
+la
+VISITA FINAL
+
+250,5 –
+
+247,5
+
+253,9
+
+NS**
+
+NS**
+
+NS**
+
+63,5
+
+13,7
+
+-0,9
+
+0,001
+
+0,001
+
+0,025
+
+8,8
+-1,7
+
+8,5
+0,2
+
+91,6
+
+0,0
+
+92,0
+
+ 0,0
+
+8,9
+-0,4
+
+92,5
+
+-3,6
+
+NS**
+0,001
+
+NS**
+0,001
+
+NS**
+
+NS**
+
+0,007
+0,001
+
+N
+S**
+
+0,011
+
+0,001
+
+0,001
+
+población. Cualquier ajuste de dosis debe basarse en una evaluación cuidadosa de la función
+renal. Generalmente, los pacientes ancianos, debilitados y mal nutridos no deben ser titulados a
+la dosis máxima de IMECOT AP. El monitoreo de la función renal es necesario para ayudar en la
+prevención de acidosis láctica, particularmente en los mayores. (Ver ADVERTENCIAS).
+
+CONTRAINDICACIONES
+IMECOT AP está contraindicados en pacientes con:
+1. Enfermedad renal o disfunción renal (por ej.:, sugerido por niveles de creatinina 1,5 mg/dl
+[hombres],  1,4  mg/dl  [mujeres]  o  depuración  anormal  de  creatinina)  lo  cual  también  puede
+resultar de condiciones tales como colapso cardiovascular (shock), infarto agudo de miocardio
+y septicemia (ver ADVERTENCIAS y PRECAUCIONES).
+2. Hipersensibilidad conocida al clorhidrato de metformina.
+3. Acidosis metabólica aguda o crónica, incluyendo cetoacidosis diabética, con o sin coma. La
+cetoacidosis  diabética  debe  ser  tratada  con  insulina.  IMECOT  AP  deben  discontinuarse
+temporalmente en pacientes sometidos a estudios radiológicos que incluyan la administración
+intravascular  de  materiales  de  contraste  iodados,  dado  que  el  uso  de  tales  materiales  podría
+resultar en alteración aguda de la función renal (ver también PRECAUCIONES).
+
+ADVERTENCIAS
+Acidosis Láctica
+La acidosis láctica es una complicación metabólica rara y severa que puede ocurrir debido a la
+acumulación de metformina durante el tratamiento con IMECOT AP; cuando ésta ocurre, es fatal
+en aproximadamente el 50% de los casos.
+La  acidosis  láctica  puede  también  ocurrir  en  asociación  con  un  número  de  condiciones
+fisiopatológicas, incluyendo diabetes mellitus, y cuando quiera que haya una hipoperfusión e
+hipoxemia  tisular  significativa.  La  acidosis  láctica  está  caracterizada  por  niveles  elevados  de
+lactato en sangre (>5 mmol/l), pH sanguíneo disminuido, trastornos electrolíticos con anión gap
+aumentado, y una relación lactato/piruvato aumentada. Cuando la metformina está involucrada
+como la causa de acidosis láctica, se encuentran niveles plasmáticos de metformina >5 ug/ml.
+La incidencia informada de acidosis láctica en pacientes que reciben clorhidrato de metformina
+es  muy  baja  (aproximadamente  0,03  casos/1000  pacientes-año,  con  aproximadamente  0,015
+casos fatales/ 1000 pacientes-año).
+En  más  de  20.000  pacientes-año  de  exposición  a  metformina  en  estudios  clínicos,  no  hubo
+informes  de  acidosis  láctica.  Los  casos  informados  han  ocurrido  primariamente  en  pacientes
+diabéticos  con  insuficiencia  renal  significativa,  incluyendo  tanto  enfermedad  renal  intrínseca
+como hipoperfusión renal, a menudo en el escenario de múltiples problemas médico/quirúrgi-
+cos concomitantes y medicaciones múltiples concomitantes.
+Los pacientes con falla cardíaca congestiva que requieren manejo farmacológico, en particular
+aquellos con falla cardíaca congestiva aguda o inestable, quienes se encuentran en riesgo de
+hipoperfusión e hipoxemia, tienen un riesgo aumentado de acidosis láctica.
+El  riesgo  de  la  acidosis  láctica  se  incrementa  con  el  grado  de  disfunción  renal  y  la  edad  del
+paciente. El riesgo de la acidosis láctica puede, por lo tanto, ser significantemente disminuido
+mediante el monitoreo regular de la función renal en los pacientes que toman IMECOT AP y por
+el uso de las dosis efectivas mínimas de IMECOT AP. En particular, el tratamiento de los mayores
+debe acompañarse de un monitoreo cuidadoso de la función renal.
+El tratamiento con IMECOT AP no debe ser iniciado en pacientes 80 años de edad a menos que
+la medida de la depuración de creatinina demuestre que la función renal no está reducida, dado
+que estos pacientes son más susceptibles de desarrollar acidosis láctica. Además, IMECOT AP
+deben  ser  rápidamente  suspendidos  en  presencia  de  cualquier  condición  asociada  con
+hipoxemia, deshidratación o sepsis.
+Dado que una función hepática deteriorada puede limitar significativamente la capacidad para
+depurar  lactato,  IMECOT  AP  deben  generalmente  ser  evitados  en  pacientes  con  evidencia
+clínica o de laboratorio de enfermedad hepática. Los pacientes deben ser advertidos contra el
+consumo excesivo de alcohol, tanto agudo como crónico, cuando toman IMECOT AP, dado que
+el alcohol potencia los efectos del clorhidrato de metformina sobre el metabolismo del lactato.
+Además, IMECOT AP deben ser discontinuados temporalmente previo a cualquier estudio por
+radiocontraste  intravascular  y  cualquier  procedimiento  quirúrgico  (ver  también  PRECAUCIO-
+NES). El inicio de la acidosis láctica es a menudo sutil, y se acompaña solamente de síntomas
+inespecíficos tales como malestar, mialgias, distrés respiratorio, aumento de la somnolencia y
+malestar  abdominal  inespecífico.  Puede  haber  hipotermia,  hipotensión  y  bradiarritmias
+resistentes asociadas con una acidosis más marcada.
+El paciente y el médico del paciente deben estar advertidos de la posible importancia de tales
+síntomas y el paciente debe estar advertido de notificar a su médico inmediatamente si éstos
+ocurren (ver también PRECAUCIONES).
+IMECOT AP deben ser retirados hasta que la situación sea aclarada. Pueden resultar de utilidad
+los electrolitos séricos, cetonas, glucosa sanguínea y, si está indicado, pH sanguíneo, niveles de
+lactato y hasta niveles de metformina en sangre. Una vez que un paciente está estabilizado en
+cualquier nivel de dosis de IMECOT AP, es poco probable que los síntomas gastrointestinales,
+que  son  comunes  durante  el  inicio  de  la  terapia,  estén  relacionados  con  el  fármaco.  La
+ocurrencia  tardía  de  síntomas  gastrointestinales  podría  deberse  a  acidosis  láctica  u  otra
+enfermedad seria.
+Los niveles de lactato plasmático venoso en ayunas por encima del límite normal superior pero
+menores a 5 mmol/l en pacientes que toman o IMECOT AP no necesariamente indican acidosis
+láctica  inminente  y  pueden  ser  explicados  por  otros  mecanismos,  tales  como  una  diabetes
+pobremente controlada u obesidad, actividad física vigorosa, o problemas técnicos en la toma
+de muestra (ver también PRECAUCIONES).
+Debe sospecharse acidosis láctica en cualquier paciente diabético con acidosis metabólica y en
+ausencia  de  evidencia  de  cetoacidosis  (cetonuria  y  cetonemia).  La  acidosis  láctica  es  una
+emergencia médica que debe ser tratada en un marco hospitalario. En un paciente con acidosis
+láctica  que  está  tomando  IMECOT  AP,  el  fármaco  debe  ser  inmediatamente  discontinuado  y
+deben instalarse rápidamente medidas de soporte general.
+Debido  a  que  el  clorhidrato  de  metformina  es  dializable  (con  una  depuración  de  hasta  170
+ml/min bajo buenas condiciones hemodinámicas), se recomienda la hemodiálisis urgente para
+corregir  la  acidosis  y  eliminar  la  metformina  acumulada.  Dicho  manejo  a  menudo  da  como
+resultado una rápida reversión de los síntomas y recuperación (Ver también CONTRAINDICA-
+CIONES y PRECAUCIONES).
+
+PRECAUCIONES
+Evolución macrovascular:
+No  hubo  estudios  clínicos  que  establecieran  evidencia  concluyente  de  reducción  del  riesgo
+macrovascular con IMECOT AP o cualquier otro fármaco antidiabético.
+Monitoreo de la función renal
+Se sabe que la metformina es sustancialmente excretada por el riñón, y el riesgo de acumula-
+ción de metformina y acidosis láctica aumenta con el grado de deterioro de la función renal. Así,
+pacientes  con  niveles  de  creatinina  sérica  por  encima  del  límite  superior  a  lo  normal  para  su
+edad no deben recibir IMECOT AP. En pacientes con edad avanzada, IMECOT AP deben ser
+cuidadosamente titulados para establecer la dosis mínima para un efecto glucémico adecuado,
+debido a que el envejecimiento se asocia con función renal disminuida. En pacientes mayores,
+particularmente  en  aquellos  80  años  de  edad,  la  función  renal  debe  ser  monitoreada
+regularmente  y,  generalmente,  IMECOT  AP  no  debe  ser  titulado  a  la  dosis  máxima  (ver
+ADVERTENCIAS y DOSIFICACIÓN Y ADMINISTRACION).
+Antes del inicio de la terapia con IMECOT AP y después de eso al menos anualmente, debe
+evaluarse la función renal y asegurar que sea normal. En los pacientes en quienes se anticipa el
+desarrollo  de  disfunción  renal,  ésta  debe  evaluarse  más  frecuentemente  y  discontinuarse
+IMECOT AP si se presenta evidencia de deterioro renal.
+Uso de medicaciones concomitantes que pueden afectar la función renal o la disposición de la
+metformina:
+La(s) medicación(es) concomitante(s) que pueden afectar la función renal o producir un cambio
+hemodinámico significativo o que pueden interferir con la disposición de la metformina, tales
+como  fármacos  catiónicos  que  son  eliminados  por  secreción  tubular  renal  (ver  PRECAUCIO-
+NES: Interacciones de fármacos), deben utilizarse con precaución.
+Estudios radiológicos que incluyeron el uso de materiales de contraste iodados (por ejemplo,
+urograma  intravenoso,  colangiografía  intravenosa,  angiografía,  y  escaneo  por  tomografía
+computada (TC) con material de contraste intravascular).
+Estudios de contraste intravascular con materiales iodados pueden conducir a alteración aguda
+de la función renal y han sido asociados con acidosis láctica en pacientes que reciben metformi-
+na (ver CONTRAINDICACIONES).
+Además, en los pacientes a quienes se les planea realizar alguno de dichos estudios, IMECOT
+AP  debe  discontinuarse  al  momento  o  previo  al  procedimiento  y  suspender  por  48  horas
+subsiguientes al mismo y reinstaurarse sólo luego de que la función renal haya sido reevaluada
+y  se  encuentre  normal.  Estados  hipóxicos:  el  colapso  cardiovascular  (shock)  de  cualquier
+causa,  la  falla  cardiaca  congestiva  aguda,  el  infarto  agudo  de  miocardio  y  otras  condiciones
+caracterizadas  por  la  hipoxemia  han  sido  asociadas  con  acidosis  láctica  y  pueden  causar
+azoemia prerrenal. Cuando dichos eventos ocurren en pacientes en terapia con IMECOT AP, el
+fármaco debe ser rápidamente discontinuado.
+Procedimientos quirúrgicos
+La terapia con IMECOT AP debe ser suspendida temporalmente ante cualquier procedimiento
+quirúrgico,  (excepto  procedimientos  menores  no  asociados  con  restricción  en  la  ingesta  de
+alimentos  y  líquidos)  y  no  debe  reinstaurarse  hasta  que  la  ingesta  del  paciente  se  haya
+reanudado y la función renal haya sido evaluada como normal.
+Ingesta  de  alcohol:  se  sabe  que  el  alcohol  potencia  el  efecto  de  la  metformina  sobre  el
+metabolismo  del  lactato.  Por  lo  tanto,  los  pacientes  deben  ser  advertidos  contra  la  ingesta
+excesiva de alcohol, crónica o aguda, mientras recibe IMECOT AP. Función hepática deteriora-
+da: dado que la función hepática deteriorada ha sido relacionada con algunos casos de acidosis
+láctica,  IMECOT  AP  debe  generalmente  ser  evitado  en  paciente  con  evidencia  clínica  o  de
+laboratorio de enfermedad hepática.
+Niveles de vitamina B12:
+En los estudios clínicos controlados de metformina de 29 semanas de duración, se observó en
+aproximadamente  el  7%  de  los  pacientes  una  disminución  a  niveles  subnormales  de  niveles
+previamente  normales  de  vitamina  B12,  sin  manifestaciones  clínicas.  Sin  embargo,  dicha
+
+2
+
+5
+
+disminución, posiblemente debida a interferencia con la absorción de la vitamina B12 a partir
+del  complejo  B12-factor  intrínseco,  está  muy  raramente  asociada  con  anemia  y  parece  ser
+rápidamente reversible con la discontinuación de metformina o la suplementación con vitamina
+B12.  Se  aconseja  la  medición  anual  de  los  parámetros  hematológicos  en  pacientes  con
+IMECOT AP y cualquier anormalidad aparente debe investigarse y manejarse apropiadamente.
+Ciertos  individuos  (aquellos  con  ingesta  o  absorción  inadecuada  de  calcio  o  vitamina  B12)
+parecen  estar  predispuestos  a  desarrollar  niveles  subnormales  de  vitamina  B12.  En  estos
+pacientes, pueden ser de utilidad las medidas de rutina de vitamina B12 con intervalos de dos
+o tres años.
+Cambios en el estado clínico de pacientes con diabetes tipo 2 previamente controlada
+Un paciente con diabetes de tipo 2 previamente bien controlada con IMECOT AP que desarrolla
+anormalidades  de  laboratorio  o  enfermedad  clínica  (especialmente  enfermedad  vaga  o
+pobremente definida) debe ser rápidamente evaluado para evidencia de desarrolla anormalida-
+des  de  laboratorio  o  enfermedad  clínica  (especialmente  enfermedad  vaga  o  pobremente
+definida) debe ser rápidamente evaluado para evidencia de cetoacidosis o acidosis láctica. La
+evaluación debe incluir electrolitos séricos y cetonas, glucosa sanguínea y si está indicado, pH
+sanguíneo,  lactato,  piruvato  y  niveles  de  metformina.  Si  ocurre  acidosis  de  cualquier  forma,
+IMECOT AP debe ser detenido inmediatamente e iniciarse otras medidas correctivas apropiadas
+(ver también ADVERTENCIAS).
+Hipoglucemia
+Bajo circunstancias habituales de uso, en pacientes que reciben solo IMECOT AP, no ocurre
+hipoglucemia,  pero  podría  ocurrir  cuando  la  ingesta  calórica  es  deficiente,  o  durante  el  uso
+concomitante  con  otros  agentes  hipoglucemiantes  (tales  como  sulfonilureas  e  insulina)  o
+etanol. Los pacientes ancianos, debilitados o malnutridos, y aquellos con insuficiencia adrenal
+o  pituitaria  o  con  intoxicación  por  alcohol  son  particularmente  susceptibles  a  los  efectos
+hipoglucemiantes.
+La  hipoglucemia  puede  ser  difícil  de  reconocer  en  los  ancianos,  y  en  personas  que  toman
+fármacos bloqueantes beta-adrenérgicos. Pérdida del control de la glucosa sanguínea: cuando
+un paciente estabilizado en cualquier régimen está expuesto a estrés tal como fiebre, trauma,
+infección o cirugía, puede ocurrir una pérdida temporaria del control de la glucemia. En tales
+momentos, puede ser necesario suspender IMECOT AP y administrar insulina temporalmente.
+IMECOT AP puede reinstaurarse después de que el episodio agudo sea resuelto.
+La efectividad de los fármacos antidiabéticos en el descenso de la glucosa sanguínea a un nivel
+deseado disminuye en muchos pacientes a lo largo de un período de tiempo. Este fenómeno,
+el  cual  puede  ser  debido  a  la  progresión  de  la  enfermedad  subyacente  o  a  una  respuesta
+disminuida al fármaco, se conoce como falla secundaria, para distinguirlo de la falla primaria, en
+la  que  el  fármaco  es  inefectivo  durante  la  terapia  inicial.  Si  ocurriera  falla  secundaria  con  la
+monoterapia  con  IMECOT  AP  o  sulfonilurea,  la  terapia  combinada  con  IMECOT  AP  y
+sulfonilurea podría dar como resultado una respuesta.
+Si  ocurriera  falla  secundaria  en  la  terapia  combinada  IMECOT  AP/sulfonilurea,  podría  ser
+necesario considerar alternativas terapéuticas que incluyan el inicio de terapia con insulina.
+Pruebas de laboratorio
+La respuesta a todas las terapias para diabetes debe ser monitoreada por medidas periódicas
+de los niveles de glucosa y de hemoglobina glicosilada, con la meta de disminuir estos niveles
+hacia el rango normal. Durante la titulación inicial de la dosis, la glucosa en ayunas puede ser
+usada  para  determinar  la  respuesta  terapéutica.  Después  de  eso,  tanto  la  glucosa  como  la
+hemoglobina glicosilada deben ser monitoreadas. Las medidas de la hemoglobina glicosilada
+pueden ser especialmente útiles para la evaluación del control a largo plazo.
+El monitoreo inicial y periódico de los parámetros hematológicos (por ej. hemoglobina/hemato-
+crito e índices hematimétricos) y de la función renal (creatinina sérica) deben ser realizados al
+menos con una frecuencia anual. Aunque la anemia megaloblástica ha sido vista raramente con
+la terapia con metformina, si es sospechada debe excluirse deficiencia de vitamina B12.
+
+Interacciones medicamentosas
+Glibenclamida
+En un estudio de interacción de dosis única en pacientes con diabetes tipo 2, la coadministra-
+ción de metformina y glibenclamida no dio como resultado ningún cambio en la farmacocinética
+ni en la farmacodinamia de metformina. Se observaron disminuciones en el AUC y la Cmáx de
+glibenclamida, pero fueron altamente variables. La naturaleza de dosis única de este estudio y
+la falta de correlación entre los niveles de glibenclamida en sangre y los efectos farmacodinámi-
+cos, hace incierto el significado clínico de esta interacción (ver DOSIFICACION y ADMINISTRA-
+CION: Terapia concomitante con IMECOT AP y sulfonilurea oral en pacientes adultos).
+Furosemida
+Un estudio de interacción farmacológica metformina-furosemida de dosis única en individuos
+adultos  saludables  demostró  que  los  parámetros  farmacocinéticos  de  ambos  compuestos
+fueron afectados por la coadministración. La furosemida aumentó la Cmáx en plasma y sangre
+de metformina en un 22% y el AUC en sangre en un 15%, sin ningún cambio significativo en la
+depuración renal de metformina. Cuando se administró con metformina, la Cmáx y el AUC de
+furosemida fueron 31% y 12% más pequeños, respectivamente, que cuando se administró sola,
+y la vida media terminal disminuyó en un 32% sin ningún cambio significativo en la depuración
+renal de furosemida. No existe información disponible acerca de la interacción de metformina y
+furosemida cuando se coadministran en forma crónica.
+Nifedipina
+Un  estudio  de  interacción  farmacológica  metformina-nifedipina  de  dosis  única  en  voluntarios
+normales  saludables  demostró  que  la  coadministración  de  nifedipina  aumentó  la  Cmáx
+plasmática y el AUC de metformina en un 20% y 9% respectivamente, y aumentó la cantidad
+excretada en la orina. El Tmáx y la vida media no fueron afectados. La nifedipina parece mejorar
+la absorción de metformina. La metformina tuvo efectos mínimos sobre la nifedipina.
+Fármacos catiónicos
+Los fármacos catiónicos (por ej. amilorida, digoxina, morfina, procainamida, quinidina, quinina,
+ranitidina,  triamtireno,  trimetoprima  o  vancomicina)  que  son  eliminados  mediante  secreción
+tubular renal, teóricamente tienen el potencial para interaccionar con la metformina al competir
+por los sistemas comunes de transporte tubular renal. Tal interacción ha sido observada entre
+metformina y cimetidina oral en voluntarios normales en estudios de interacción de los fármacos
+metformina y cimetidina tanto de dosis única como múltiple, con un 60% de aumento en las
+concentraciones del pico de metformina en plasma y en sangre entera y un 40% de aumento en
+el  AUC  para  metformina  en  plasma  y  sangre  entera.  No  hubo  cambio  en  la  vida  media  de
+eliminación en el estudio de dosis única. La metformina no tuvo efectos sobre la farmacocinética
+de cimetidina. Aunque tales interacciones permanecen teóricas (excepto para cimetidina), se
+recomienda el monitoreo cuidadoso del paciente y el ajuste de la dosis de IMECOT AP y /o el
+fármaco  interferente  en  pacientes  que  están  tomando  medicaciones  catiónicas  que  son
+excretadas por la vía del sistema secretor tubular proximal renal.
+Otros:
+Ciertos fármacos tienden a producir hiperglucemia y pueden conducir a la falta de control de la
+glucemia. Estos fármacos incluyen las tiazidas y otros diuréticos, corticosteroides, fenotiazinas,
+productos tiroideos estrógenos, anticonceptivos orales, fenitoína, ácido nicotínico, simpaticomi-
+méticos, fármacos bloqueantes de los canales de calcio, e isoniazida.
+Cuando tales fármacos son administrados a un paciente que recibe IMECOT AP, el mismo debe
+ser observado cuidadosamente para la pérdida del control de la glucosa sanguínea.
+Cuando tales fármacos son retirados de un paciente que recibe IMECOT AP, el paciente debe
+ser observado cuidadosamente para hiperglucemia. En voluntarios sanos, la farmacocinética
+de  metformina  y  propranolol  y  de  metformina  e  ibuprofeno  no  fueron  afectadas  cuando  se
+coadministraron en estudios de interacción de dosis única.
+La metformina se une a las proteínas del plasma en una proporción insignificante y es por esto
+menos  probable  que  interactúe  con  fármacos  de  alta  unión  a  proteínas  como  salicilatos,
+sulfonamidas,  cloranfenicol  y  probenecid,  en  comparación  con  las  sulfonilureas,  las  que  se
+encuentran ampliamente unidas a proteínas plasmáticas.
+
+Carcinogénesis, mutagénesis, deterioro de la fertilidad
+Estudios  de  carcinogenicidad  a  largo  plazo  han  sido  realizados  en  ratas  (duración  de  la
+dosificación de 104 semanas) y ratones (duración de la dosificación de 91 semanas) a dosis de
+hasta e incluyendo 900 mg/kg/día y 1500 mg/kg/día, respectivamente. Estas dosis son ambas
+aproximadamente  cuatro  veces  la  dosis  máxima  recomendada  en  humanos  de  2000  mg
+basadas en comparaciones de área de superficie corporal.
+No  se  encontró  evidencia  de  carcinogenicidad  con  metformina  en  ratones  machos  ni  en
+hembras.  En  forma  similar,  no  se  observó  potencial  tumorigénico  con  metformina  en  ratas
+machos.  Hubo,  sin  embargo,  una  incidencia  aumentada  de  pólipos  benignos  de  estroma
+uterino en ratas hembras tratadas con 900 mg/kg/día.
+No hubo evidencia de potencial mutagénico de metformina en las siguientes pruebas in vitro:
+prueba de Ames (S. typhimurium), prueba de mutación de genes (células de linfoma de ratón),
+o pruebas de aberraciones cromosómicas (linfocitos humanos).
+Los resultados de la prueba de micronúcleos en ratón también fueron negativos. La fertilidad de
+ratones machos o hembras no se vio afectada por metformina cuando se administró a dosis tan
+altas como 600 mg/kg/día, lo cual es aproximadamente tres veces la dosis máxima recomenda-
+da en humanos basado en comparaciones de área de superficie corporal.
+Embarazo
+Efectos teratogénicos:
+Embarazo categoría B
+Información  reciente  sugiere  fuertemente  que  los  niveles  anormales  de  glucosa  en  sangre
+durante el embarazo están asociados a una incidencia más alta de anormalidades congénitas.
+La  mayoría  de  los  expertos  recomiendan  que  se  utilice  insulina  durante  el  embarazo  para
+mantener los niveles de glucosa en sangre tan cercanos a lo normal como sea posible. Dado
+que los estudios de reproducción no siempre son predictivos de la respuesta humana, IMECOT
+AP no debe ser utilizado durante el embarazo a menos que sean claramente necesarios.
+No hay estudios adecuados y bien controlados en mujeres embarazadas con IMECOT AP. La
+metformina  no  fue  teratogénica  en  ratas  y  conejos  a  dosis  de  hasta  600  mg/kg/día.  Esto
+representa una exposición de alrededor de dos y seis veces la dosis máxima recomendada en
+humanos de 2000 mg basado en comparaciones de área de superficie corporal para ratas y
+conejos,  respectivamente.  La  determinación  de  las  concentraciones  fetales  demostró  una
+barrera placentaria parcial a la metformina.
+Lactancia
+
+6
+
+aumento  con  respecto  al  valor  basal  de  0,23%  fue  estadísticamente  significativo  (ver
+DOSIFICACION y ADMINISTRACIÓN). Los cambios en los parámetros lipídicos en el estudio
+previamente  descripto  controlado  por  placebo,  de  dosis-respuesta  para  Metformina  bajo
+formulación de acción prolongada se muestran en la Tabla 8.
+
+Tabla 8. Resumen de los Cambios Porcentuales Medios con Respecto al valor Basal* de las
+Principales  Variables  de  Lípidos  a  la  Visita  Final  (estudio  de  16  semanas)  Metformina
+formulación de acción prolongada
+
+Metformina formulación de acción prolongada
+2000 mg
+500  mg
+Una  vez  al
+una vez al
+día
+día al día
+(n=120)
+210,3
+1,0%
+
+1500  mg
+una  vez  al
+día una vez
+(n=110)
+214,6
+0,7%
+
+1000 mg
+una  vez
+al día
+(n=113)
+218,1
+1,7%
+
+(n=126)
+204,4
+-1,6%
+
+1000  mg
+dos veces
+al día
+(n=117)
+208,2 -
+2,6%
+
+Placebo
+
+(n=110)
+208,6
+2,6%
+
+(n=120)
+220,2
+14,5%
+
+(n=113)
+211,9
+9,4%
+
+(n=109)
+198,0
+15,1%
+
+(n=126)
+194,2
+14,9%
+
+(n=117)
+179,0
+9,4%
+
+(n=107)
+211,7
+10,9%
+
+(n=119)
+131,0 -
+1,4%
+
+(n=113)
+134,9 -
+1,6%
+
+(n=109)
+135,8 -
+3,5%
+
+(n=126)
+125,8 -
+3,3%
+
+(n=117)
+131,4 -
+5,5%
+
+(n=107)
+131,9
+3,2%
+
+(n=120)
+40,8
+6,2%
+
+(n=108)
+41,6
+8,6%
+
+(n=108)
+40,6
+5,5%
+
+(n=125)
+40,2
+6,1%
+
+(n=117)
+42,4
+7,l1%
+
+(n=108)
+39,4
+5,8%
+
+(mg/dl)
+Cambio
+la
+
+total
+Colesterol
+(mg/dl)
+Basal
+Cambio medio % a
+la VISITA FINAL
+Triglicéridos
+totales
+Basal
+medio  %  a
+VISITA FINAL
+LDL
+Colesterol
+(mg/dl)
+Basal
+Cambio medio % a
+la  VISITA  FINAL
+(n=119)
+Colesterol HDL
+(mg/dl) Basal
+Cambio medio %
+a la VISITA FINAL
+
+* Todos los pacientes en terapia de dieta al inicio.
+
+Los cambios en los parámetros lipídicos en el estudio previamente descripto de metformina y
+Metformina bajo formulación de acción prolongada se muestran en la Tabla 9.
+
+formulación  de
+
+Metformina 500
+mg Dos Veces
+al Día
+
+Tabla 9. Resumen de los Cambios Medios Porcentuales con Respecto al Valor Basal* en las
+Principales Variables de Lípidos a la Visita Final (estudios de 24 semanas).
+Metformina
+acción prolongada
+1000 mg Una
+Vez al Día
+(n=70)
+201,9
+1,3%
+(n=70)
+169,2
+25,3%
+(n=70)
+126,2
+-3,3%
+(n=70)
+41,7
+1,0%
+
+Colesterol total (mg/dl)
+Basal
+Cambio medio % a la VISITA FINAL (n=68)
+Triglicéridos totales (mg/dl)
+Basal
+Cambio medio % a la VISITA FINAL
+Colesterol LDL (mg/dl)
+Basal
+Cambio medio % a la VISITA FINAL (n=68)
+Colesterol HDL (mg/dl)
+Basal
+Cambio medio % a la VISITA FINAL (n=68)
+
+1500 mg Una
+Vez al Día
+(n=66)
+201,6
+0,1%
+(n=66)
+206,8
+33,4%
+(n=66)
+115,7
+-3,7%
+(n=65)
+44,6
+-2,1%
+
+(n=68)
+199,0
+0,1%
+(n=68)
+178,0
+6,3%
+(n=68)
+122,1
+-1,3%
+(n=68)
+41,9
+4,8%
+
+* Todos los pacientes con Metformina 500 mg dos veces al día al inicio.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+No hay un régimen de dosis fija para el manejo de la hiperglucemia en pacientes con diabetes
+de tipo 2 con IMECOT AP o cualquier otro agente farmacológico. La dosificación de IMECOT
+AP debe individualizarse sobre la base tanto de la efectividad como de la tolerancia, mientras
+no se excedan las dosis diarias máximas recomendadas. La dosis diaria máxima recomenda-
+da de IMECOT AP en adultos es 2000 mg.
+IMECOT AP debe ser administrado generalmente una vez al día con la comida de la noche.
+IMECOT AP debe comenzarse a una dosis baja, con un escalamiento gradual de la dosis,
+para  reducir  los  efectos  colaterales  gastrointestinales  y  para  permitir  la  identificación  de  la
+dosis  mínima  requerida  para  el  control  adecuado  de  la  glucemia  del  paciente.  Durante  la
+iniciación  del  tratamiento  y  la  titulación  de  la  dosis  (ver  ESQUEMA  DE  DOSIFICACION
+RECOMENDADO),  la  glucosa  plasmática  en  ayunas  debe  utilizarse  para  determinar  la
+respuesta  terapéutica  a  IMECOT  AP  e  identificar  la  dosis  mínima  efectiva  para  el  paciente.
+Después de eso, la hemoglobina glicosilada debe medirse a intervalos de aproximadamente
+tres  meses.  La  meta  terapéutica  debe  ser  disminuir  los  niveles  de  glucosa  plasmática  en
+ayunas y de hemoglobina glicosilada a lo normal o cercano a lo normal mediante el uso de la
+menor  dosis  efectiva  de  IMECOT  AP,  tanto  cuando  se  utilizan  como  monoterapia  como
+cuando  se  utilizan  combinados  con  sulfonilureas  o  insulina.  El  monitoreo  de  la  glucosa  en
+sangre y la hemoglobina glicosilada también permitirá la detección de falla primaria, es decir,
+descenso inadecuado de los niveles de glucosa en sangre a la dosis máxima recomendada
+de medicación, y falla secundaria, es decir, pérdida de la respuesta adecuada de descenso de
+glucosa  en  sangre  después  de  un  período  inicial  de  efectividad.  La  administración  a  corto
+plazo de IMECOT AP puede ser suficiente durante períodos de pérdida transitoria del control
+en pacientes usualmente bien controlados con dieta solamente.
+Los  comprimidos  de  IMECOT  AP  deben  ser  tragados  enteros  y  nunca  triturados  o
+masticados.
+Ocasionalmente, los componentes inactivos de IMECOT AP serán eliminados en las heces
+como  una  masa  blanda,  hidratada.  Esquema  de  dosificación  recomendado:  adultos-  en
+general, las respuestas clínicamente significativas no se ven a dosis menores de 1500 mg por
+día. Sin embargo, se aconseja una dosis de inicio más baja y aumentar gradualmente la dosis
+para minimizar los síntomas gastrointestinales. La dosis usual de inicio de IMECOT AP es 500
+mg  una  vez  al  día,  dado  con  las  comidas.  Los  incrementos  de  dosis  deben  hacerse  en
+aumentos de a 500 mg semanalmente, hasta un máximo de 2000 mg una vez al día, con la
+comida de la noche. Si no se logra el control de la glucemia con IMECOT AP 2000 mg una vez
+al día, debe considerarse IMECOT AP 1000 mg dos veces al día.
+En  un  estudio  randomizado,  los  pacientes  que  al  momento  eran  tratados  con  metformina
+fueron cambiados a Metformina bajo formulación de acción prolongada. Los resultados de
+este ensayo sugieren que los pacientes que reciben metformina pueden ser cambiados en
+forma segura a Metformina bajo formulación de acción prolongada una vez al día a la misma
+dosis diaria total, hasta 2000 mg una vez al día. Siguiendo a un cambio desde metformina a
+Metformina  bajo  formulación  de  acción  prolongada,  el  control  de  la  glucemia  debe  ser
+monitoreado cuidadosamente y el ajuste de la dosis hecho en forma concordante.
+La  seguridad  y  efectividad  de  Metformina  bajo  formulación  de  acción  prolongada  en
+pacientes pediátricos no ha sido establecida. Transferencia desde otra terapia antidiabética:
+cuando se transfieren pacientes desde agentes hipoglucemiantes orales estándares distintos
+de  clorpropamida  a  IMECOT  AP,  generalmente  no  es  necesario  un  período  de  transición.
+Cuando se transfieren pacientes desde clorpropamida, debe ejercerse cuidado durante las
+primeras dos semanas, debido a la retención prolongada de clorpropamida en el organismo,
+que conduce a superposición de los efectos de los fármacos y posible hipoglucemia.
+TERAPIA  CONCOMITANTE  CON  IMECOT  AP  Y  SULFONILUREAS  ORALES  EN  PACIENTES
+ADULTOS.
+En pacientes que no han respondido por cuatro semanas a la dosis máxima de monoterapia
+con IMECOT AP debe darse consideración a la adición gradual de sulfonilurea oral mientras
+se continúa con IMECOT AP a la máxima dosis, aún si ha ocurrido previamente falla primaria
+o  secundaria  con  la  sulfonilurea,  Los  datos  de  interacción  fármaco-fármaco  clínica  y
+farmacocinética están al momento disponibles sólo para metformina más glibenclamida. Con
+terapia concomitante de IMECOT AP y sulfonilureas, el control deseado de la glucosa puede
+obtenerse mediante el ajuste de la dosis de cada fármaco. Con la terapia concomitante con
+IMECOT AP y sulfonilurea, el riesgo de hipoglucemia asociada con la terapia con sulfonilurea
+continúa y podría aumentar. Deben tomarse precauciones apropiadas.
+Si  los  pacientes  no  han  respondido  satisfactoriamente  en  uno  a  tres  meses  de  terapia
+concomitante con la dosis máxima de IMECOT AP y la dosis máxima de una sulfonilurea oral,
+considerar alternativas terapéuticas que incluyan el cambio a insulina con o sin IMECOT AP.
+Terapia concomitante con IMECOT AP e insulina en pacientes adultos: la dosis de insulina
+debe  ser  continuada  al  momento  por  sobre  la  iniciación  de  la  terapia  con  IMECOT  AP.  La
+terapia con IMECOT AP debe iniciarse con 500 mg una vez al día en pacientes en terapia con
+insulina.  Para  pacientes  que  no  responden  adecuadamente,  la  dosis  de  IMECOT  AP  debe
+aumentarse en 500 mg después de aproximadamente una semana y en 500 mg cada semana
+después de eso hasta lograr un control adecuado de la glucemia.
+La dosis diaria máxima recomendada es 2500 mg para IMECOT y 2000 mg para IMECOT AP.
+Se  recomienda  que  la  dosis  de  insulina  sea  disminuida  en  un  10  %  a  un  25%  cuando  la
+concentración  de  glucosa  plasmática  en  ayunas  disminuya  a  menos  de  120  mg/dL,  en
+pacientes que reciben insulina más IMECOT AP concomitante.
+Los ajustes adicionales deben individualizarse basados en la respuesta de disminución de la
+glucosa.
+Poblaciones específicas de pacientes:
+IMECOT AP no se recomiendan para su uso en embarazo.
+IMECOT AP no está recomendado en pacientes pediátricos por debajo de 17 años de edad.
+La  dosificación  de  inicio  y  de  mantenimiento  de  IMECOT  AP  debe  ser  conservadora  en
+pacientes  de  edad  avanzada,  debido  al  potencial  de  una  función  renal  disminuida  en  esa
+
+Los estudios en ratas lactantes muestran que la metformina se excreta por la leche y alcanza
+niveles comparables a los del plasma.
+Estudios similares no han sido conducidos en madres en lactancia. Dado que puede existir un
+potencial para hipoglucemia en lactantes, debe tomarse una decisión sobre si discontinuar la
+lactancia  o  discontinuar  el  fármaco,  tomando  en  cuenta  la  importancia  del  fármaco  para  la
+madre. Si se discontinúa IMECOT AP, y si la dieta sola es inadecuada para controlar la glucosa
+en sangre, debe considerarse la terapia con insulina.
+Uso en Pediatría
+La seguridad y la efectividad de IMECOT AP en pacientes pediátricos no han sido establecidas.
+Uso geriátrico
+Los  estudios  clínicos  controlados  de  metformina  no  incluyeron  números  suficientes  de
+pacientes  mayores  para  determinar  si  responden  en  forma  diferente  a  los  pacientes  más
+jóvenes, aunque otras experiencias clínicas informadas no han identificado diferencias entre las
+respuestas de los pacientes mayores y los más jóvenes.
+Se sabe que la metformina es sustancialmente excretada por el riñón y dado que el riesgo de
+reacciones  adversas  serias  al  fármaco  es  mayor  en  pacientes  con  función  renal  deteriorada,
+IMECOT AP sólo debe ser utilizado en pacientes con función renal normal (ver CONTRAINDICA-
+CIONES,  ADVERTENCIAS,  y  FARMACOLOGÍA  CLÍNICA:  Farmacocinética)  debido  a  que  el
+envejecimiento está asociado con función renal reducida, IMECOT AP debe ser utilizado con
+precaución a medida que la edad aumenta. Debe tenerse cuidado en la selección de la dosis y
+basarse en un monitoreo cuidadoso y regular de la función renal.
+Generalmente, los pacientes mayores no deben titularse hasta la dosis máxima de IMECOT AP
+(ver también ADVERTENCIAS y DOSIFICACIÓN Y ADMINISTRACIÓN).
+
+REACCIONES ADVERSAS
+En un estudio clínico a doble ciego, de metformina en pacientes con diabetes tipo 2, un total de
+141 pacientes recibieron terapia con metformina (hasta 2550 mg/día) y 145 pacientes recibieron
+placebo. Las reacciones adversas informadas en más del 5% de los pacientes con metformina y
+que  fueron  más  comunes  en  los  pacientes  tratados  con  metformina  que  en  los  tratados  con
+placebo, se enumeran en la Tabla 10.
+
+Tabla 10. Reacciones Adversas Más Comunes (>5,0 por ciento) en un Estudio Clínico
+Controlado por Placebo de Monoterapia con Metformina*
+
+Reacción adversa
+
+Diarrea
+Nauseas/vómitos
+Flatulencia
+Astenia
+Indigestión
+Molestias abdominales
+Dolor de cabeza
+
+Monoterapia con
+Metformina (n=141)
+
+Placebo (n=145)
+
+% de pacientes
+
+53,2
+25,5
+12,1
+9,2
+7,1
+6,4
+5,7
+
+11,7
+8,3
+5,5
+5,5
+4,1
+4,8
+4,8
+
+*Reacciones  que  fueron  más  comunes  en  los  pacientes  tratados  con  metformina  que  en  los
+tratados con placebo. La diarrea condujo a la discontinuación de la medicación del estudio en
+6%  de  los  pacientes  tratados  con  metformina.  Adicionalmente,  las  siguientes  reacciones
+adversas  fueron  informadas  en  1,0-5,0%  de  los  pacientes  con  metformina  y  fueron  más
+comúnmente  informadas  con  metformina  que  con  placebo:  heces  anormales,  hipoglucemia,
+mialgia,  vértigo,  disnea,  trastornos  en  las  uñas,  rash,  aumento  de  la  sudoración,  disgeusia,
+malestar  torácico,  escalofríos,  síndrome  gripal,  rubor,  palpitaciones.  En  estudios  clínicos
+realizados  en  pacientes  con  diabetes  de  tipo  2  con  Metformina  bajo  formulación  de  acción
+prolongada  controlados  activamente  y  por  placebo.  Las  reacciones  adversas  informadas  en
+más del 5% y que fueron más comunes que en los tratados con placebo, se enumeran en la
+Tabla 11.
+
+Tabla 11. Reacciones Adversas Más Comunes (>5,0 Por ciento) en Estudios Clínicos
+Controlados por Placebo de Metformina formulación de acción prolongada *
+
+Reacción adversa
+Diarrea
+Nauseas/vómitos
+
+Metformina formulación de
+acción prolongada (n=781)
+
+Placebo (n=195)
+
+% de pacientes
+
+9,6
+6,5
+
+2,6
+1,5
+
+*Reacciones  que  fueron  más  comunes  en  los  pacientes  tratados  con  Metformina  bajo
+formulación  de  acción  prolongada  que  en  los  tratados  con  placebo.  La  diarrea  condujo  a  la
+discontinuación de la medicación del estudio en 0,6% de los pacientes tratados con Metformina
+bajo  formulación  de  acción  prolongada.  Adicionalmente,  las  siguientes  reacciones  adversas
+fueron  informadas  en  1,0-5,0%  de  los  pacientes  de  Metformina  bajo  formulación  de  acción
+prolongada y fueron más comúnmente informadas con Metformina bajo formulación de acción
+prolongada  que  con  placebo:  dolor  abdominal,  constipación,  distensión  abdominal,
+dispepsia/acidez, flatulencia, mareos, dolor de cabeza, infección del tracto respiratorio superior,
+disgeusia. Pacientes pediátricos. En estudios clínicos con metformina en pacientes pediátricos
+con diabetes de tipo 2, el perfil de reacciones adversas fue similar al observado en adultos.
+
+SOBREDOSIFICACIÓN
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse
+con los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+Esta especialidad medicinal está libre de gluten.
+
+PRESENTACIÓN
+Envases con 30 y 60 comprimidos recubiertos de liberación prolongada.
+
+Fecha de última revisión: septiembre de 2020
+
+FORMA DE CONSERVACIÓN
+- Conservar a temperatura ambiente entre 15 y 30 °C. Proteger de la humedad.
+- Mantener alejado del alcance de los niños.
+
+Dirección  Técnica:  Dr.  Alejandro  D.  Santarelli  –  Farmacéutico.  ESPECIALIDAD  MEDICINAL
+AUTORIZADA POR EL MINISTERIO DE SALUD DE LA NACION.
+Certificado N° 46.975. Laboratorios CASASCO S.A.I.C. - Boyacá 237 -   C.A.B.A. - Argentina.
+
+E-0000-01 / D0000 / Act.: 06/2021
+
+4
+
+7
+
+8

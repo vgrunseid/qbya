@@ -1,0 +1,989 @@
+Venta bajo receta
+Industria Portuguesa
+
+Comprimidos recubiertos
+Vía de administración: Oral
+
+ETABYX®
+LEVETIRACETAM 500 mg / 1000 mg
+
+COMPOSICIÓN
+Cada comprimido recubierto de ETABYX® 500 contiene:
+Levetiracetam ................................................................................................... 500 mg
+Excipientes: Almidón  de  maíz  116  mg,  Povidona  15  mg, Talco  10  mg,  Sílice  coloidal
+anhidra  8  mg,  Estearato  de  magnesio  1  mg, Alcohol  polivinílico  10,4  mg,  Dióxido  de
+titanio 6,22 mg, Polietilenglicol 4000 5,25 mg, Talco 3,85 mg, Óxido de hierro amarillo
+(CI N° 77492) 0,28 mg.
+Cada comprimido recubierto de ETABYX® 1000 contiene:
+Levetiracetam ................................................................................................. 1000 mg
+Excipientes: Almidón  de  maíz  232  mg,  Povidona  30  mg, Talco  20  mg,  Sílice  coloidal
+anhidra 16 mg, Estearato de magnesio 2 mg, Alcohol polivinílico 20,8 mg, Dióxido de
+titanio 13 mg, Polietilenglicol 4000 10,5 mg, Talco 7,7 mg.
+
+ACCIÓN TERAPÉUTICA
+Anticonvulsivante. Código ATC: N03AX14.
+
+INDICACIONES
+Monoterapia
+ETABYX® está indicado como monoterapia en el tratamiento de las crisis de inicio par-
+cial con o sin generalización secundaria en pacientes adultos y adolescentes mayores
+de 16 años con un nuevo diagnóstico de epilepsia.
+Terapia concomitante
+ETABYX® está indicado en el tratamiento de las crisis de inicio parcial con o sin genera-
+lización secundaria en adultos y niños con epilepsia.
+ETABYX® está indicado en el tratamiento de las crisis mioclónicas en adultos y adoles-
+centes mayores de 12 años con Epilepsia Mioclónica Juvenil.
+ETABYX®  está  indicado  en  el  tratamiento  de  las  crisis  tónico-clónicas  generalizadas
+primarias  en  adultos  y  adolescentes  mayores  de  12  años  con  Epilepsia  Generalizada
+Idiopática.
+
+FARMACOLOGÍA CLÍNICA
+Farmacodinamia
+El  principio  activo,  levetiracetam,  es  un  derivado  de  la  pirrolidona  (S-enantiómero  de
+α-etil-2-oxo-1-pirrolidina acetamida), no relacionado químicamente con otros principios
+activos antiepilépticos existentes.
+El  mecanismo  de  acción  de  levetiracetam  está  todavía  por  dilucidar,  pero  parece  ser
+diferente  de  los  mecanismos  de  acción  de  los  antiepilépticos  actuales.  Los  estudios
+in vivo e in vitro sugieren que levetiracetam no altera la neurotransmisión normal y las
+características básicas de la célula.
+Estudios in vitro muestran que levetiracetam afecta los niveles intraneuronales de Ca2+
+mediante inhibición parcial de las corrientes de Ca2+ tipo N, y reduciendo la liberación
+de  Ca2+  de  la  reserva  intraneuronal. Además,  invierte  parcialmente  la  reducción  de
+corrientes dependientes de GABA y glicina inducidas por zinc y ß-carbolinas. Por otra
+parte,  estudios  in  vitro  muestran  que  levetiracetam  se  une  a  un  punto  específico  en
+el  tejido  cerebral  de  roedor.  Este  punto  de  unión  específico  es  la  proteína  2A  de  las
+vesículas sinápticas, el cual parece estar involucrado en la fusión de vesículas y en la
+exocitosis de neurotransmisores. Levetiracetam y sus análogos han mostrado un orden
+de afinidad por la unión a la proteína 2A de las vesículas sinápticas que se correlaciona
+con la potencia de la protección contra los ataques epilépticos en el modelo audiogénico
+de epilepsia en ratón. Este hallazgo sugiere que la interacción entre levetiracetam y la
+proteína 2A de las vesículas sinápticas parece contribuir en el mecanismo de acción del
+fármaco como antiepiléptico.
+Farmacocinética
+Levetiracetam es un compuesto muy soluble y permeable. El perfil farmacocinético es
+lineal y con poca variabilidad intra- e inter-individual. No hay modificación del clearance
+después  de  la  administración  repetida.  No  hay  evidencia  de  variabilidad  relevante  de
+género, raza o circadiana. El perfil farmacocinético en voluntarios sanos y en pacientes
+con epilepsia es comparable. Debido a que su absorción es completa y lineal, se pue-
+den predecir los niveles plasmáticos, expresados como mg/kg de peso corporal, tras la
+administración oral de levetiracetam. Por consiguiente, no se necesita monitorizar los
+niveles plasmáticos de levetiracetam.
+En  adultos  y  niños  se  ha  mostrado  una  correlación  significativa  entre  las  concentra-
+ciones  en saliva  y  en  plasma (tasa de concentraciones saliva/plasma van de 1  a 1,7
+para la formulación de comprimidos y para la formulación de solución oral tras 4 horas
+después de la dosis).
+Adultos y adolescentes
+Absorción
+Levetiracetam se absorbe rápidamente después de su administración oral. La biodispo-
+nibilidad oral absoluta es cercana al 100%. El pico de nivel plasmático (Cmáx) se alcanza
+a las 1,3 horas de su administración. Los niveles plasmáticos estables se obtienen a los
+dos días con la pauta de administración de dos veces al día. Los valores normales del
+pico plasmático (Cmáx) después de una dosis simple de 1.000 mg y de una dosis repetida
+de 1.000 mg dos veces al día son del 31 y 43 μg/ml respectivamente. El grado de absor-
+ción es dosis-independiente y no está alterado por los alimentos.
+Distribución
+No se dispone de datos de distribución tisular en humanos. Ni levetiracetam ni su me-
+tabolito primario se unen de forma significativa a las proteínas plasmáticas (<10%). El
+volumen de distribución del levetiracetam es aproximadamente de 0,5 a 0,7 l/kg, valor
+cercano al volumen total del agua corporal.
+Biotransformación
+Levetiracetam no se metaboliza extensamente en humanos. La vía metabólica principal
+(24% de la dosis) es la hidrólisis enzimática del grupo acetamida. La formación del me-
+tabolito primario, ucb L057, no está soportada por las isoformas del citocromo P450 he-
+pático. La hidrólisis del grupo acetamida fue mesurable en un gran número de tejidos, in-
+cluyendo las células sanguíneas. El metabolito ucb L057 es farmacológicamente inactivo.
+Se  identificaron  también  dos  metabolitos  minoritarios.  Uno  estaba  formado  por  la  hi-
+droxilación del anillo de la pirrolidona (1,6% de la dosis) y el otro por la apertura del anillo
+de la pirrolidona (0,9% de la dosis). Otros compuestos no identificados representaban
+solamente el 0,6% de la dosis. No se evidenció interconversión enantiomérica in vivo
+para levetiracetam o para su metabolito primario.
+Los estudios in vitro han mostrado que levetiracetam y su metabolito principal no inhi-
+ben las isoformas principales del citocromo P450 hepático humano (CYP3A4, 2A6, 2C9,
+2C19, 2D6, 2E1 y 1A2), la glucuronil transferasa (UGT1A1 y UGT1A6) y la actividad de
+la epóxido hidroxilasa. Además, levetiracetam no afecta la glucuronidación in vitro del
+ácido valproico. En cultivos de hepatocitos humanos, levetiracetam tuvo poco o ningún
+efecto sobre el CYP1A2, SULT1E1 o UGT1A1. Levetiracetam provocó una leve inducción
+del CYP2B6 y del CYP3A4. Los datos de interacciones in vitro e in vivo con anticoncepti-
+vos orales, digoxina y warfarina indican que no se espera que exista una inducción en-
+zimática significativa in vivo. Por consiguiente, es muy poco probable que levetiracetam
+interaccione con otras sustancias, o viceversa.
+Eliminación
+La vida media plasmática en adultos fue de 7±1 horas y no varió con la dosis, con la
+vía de administración o con la administración repetida. El clearance corporal total medio
+fue de 0,96 ml/min/kg. La ruta mayoritaria de excreción fue por vía urinaria, alcanzando
+una  media  del  95%  de  la  dosis  (aproximadamente  un  93%  de  la  dosis  se  excretaba
+dentro  de  las  primeras  48  horas).  La  excreción  por  vía  fecal  representaba  solamente
+el 0,3% de la dosis.
+La excreción urinaria acumulada de levetiracetam y de su metabolito primario durante
+las primeras 48 horas alcanzó, respectivamente, el 66% y el 24% de la dosis. El clearan-
+ce renal de levetiracetam y de ucb L057 es de 0,6 y de 4,2 ml/min/kg respectivamente,
+lo  que  indica  que  levetiracetam  se  excreta  por  filtración  glomerular  con  subsiguiente
+reabsorción tubular y que el metabolito primario se excreta también por secreción tu-
+bular activa en adición a la filtración glomerular. La eliminación de levetiracetam está
+correlacionada con el clearance de creatinina.
+Poblaciones especiales
+Pacientes de edad avanzada
+En la vejez, la vida media se incrementa alrededor de un 40% (10 a 11 horas). Esto está
+relacionado con la disminución de la función renal en esta población.
+Insuficiencia renal
+El clearance corporal aparente está correlacionado con el clearance de creatinina, tanto
+para levetiracetam como para su metabolito primario. Así, en pacientes con insuficiencia
+renal  moderada  o  grave  se  recomienda  ajustar  la  dosis  diaria  de  mantenimiento  de
+levetiracetam en base al clearance de creatinina.
+En sujetos adultos con patología renal terminal anúrica la vida media fue aproximada-
+mente de 25 y de 3,1 horas durante los períodos interdiálisis e intradiálisis respectiva-
+mente. La fracción de levetiracetam eliminada durante una sesión de diálisis normal de
+4 horas fue de un 51%.
+Insuficiencia hepática
+En sujetos con insuficiencia hepática leve o moderada no hubo modificación relevante
+del clearance de levetiracetam. En la mayoría de los sujetos con insuficiencia hepática
+grave el clearance de levetiracetam se redujo en más del 50% como consecuencia de la
+insuficiencia renal concomitante.
+Población pediátrica
+Niños (de 4 a 12 años)
+Después de la administración de una dosis oral única (20 mg/kg) a niños epilépticos (de
+6 a 12 años), la vida media de levetiracetam fue de 6,0 horas. El clearance corporal apa-
+rente ajustado al peso fue alrededor de un 30% más alto que en los adultos epilépticos.
+Tras la administración de dosis orales repetidas (de 20 a 60 mg/kg/día) a niños epilép-
+ticos (de 4 a 12 años), levetiracetam se absorbió rápidamente. El pico de concentración
+plasmática se observó entre 0,5 y 1,0 horas después de la administración. Se observa-
+ron incrementos lineales y proporcionales a la dosis para los picos de concentraciones
+plasmáticas y el área bajo la curva. La vida media de eliminación fue aproximadamente
+de 5 horas. El clearance corporal aparente fue de 1,1 ml/min/kg.
+Lactantes y niños (de 1 mes a 4 años)
+Tras la administración de dosis únicas (20 mg/kg) de solución oral 100 mg/ml a niños
+epilépticos (de 1 mes a 4 años), levetiracetam fue rápidamente absorbido y los picos de
+concentraciones plasmáticas se observaron aproximadamente 1 hora tras la administra-
+ción. Los resultados farmacocinéticos indicaron que la vida media era inferior (5,3 horas)
+que para adultos (7,2 horas) y el clearance aparente era más rápido (1,5 ml/min/kg) que
+para adultos (0,96 ml/min/kg).
+En  el  análisis  farmacocinético  poblacional  realizado  en  pacientes  desde  1  mes  a  16
+años de edad, el peso corporal estuvo significativamente relacionado con el clearance
+aparente (aumento en el clearance con aumento del peso corporal) y con el volumen de
+distribución aparente. La edad también tuvo influencia sobre ambos parámetros. Este
+efecto fue pronunciado para los lactantes más pequeños y decreció al ir aumentando la
+edad hasta hacerse insignificante alrededor de los 4 años de edad.
+En ambos análisis farmacocinéticos poblacionales hubo alrededor de un 20% de au-
+mento en el clearance aparente de levetiracetam cuando se administró conjuntamente
+con un medicamento antiepiléptico inductor enzimático.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+Monoterapia en adultos y adolescentes mayores de 16 años
+La dosis inicial recomendada es de 250 mg dos veces al día, la cual debe aumentarse
+hasta  la  dosis  terapéutica  inicial  de  500  mg  dos  veces  al  día  tras  dos  semanas  de
+tratamiento. La dosis puede aumentarse en función de la respuesta clínica con 250 mg
+dos veces al día cada 2 semanas. La dosis máxima es de 1.500 mg dos veces al día.
+Terapia concomitante en adultos (≥18 años) y adolescentes (de 12 a 17 años) con
+un peso de 50 kg o superior
+La dosis terapéutica inicial es de 500 mg dos veces al día. Esta dosis se puede ins-
+taurar desde el primer día de tratamiento. Dependiendo de la respuesta clínica y de la
+tolerabilidad, la dosis diaria se puede incrementar hasta 1.500 mg dos veces al día. La
+modificación de la dosis se puede realizar con aumentos o reducciones de 500 mg dos
+veces al día cada dos a cuatro semanas.
+Poblaciones especiales
+Pacientes de edad avanzada (65 años y mayores)
+Se recomienda ajustar la dosis en los pacientes de edad avanzada con función renal
+comprometida (ver Insuficiencia renal).
+Insuficiencia renal
+La dosis diaria se debe individualizar de acuerdo con la función renal.
+La tabla siguiente indica como debe ajustarse la dosificación en pacientes adultos. Para
+utilizar esta tabla de dosificación se necesita una estimación del clearance de creatinina
+(CLcr), en ml/min, del paciente. El CLcr, en ml/min, se puede estimar a partir de la deter-
+minación de la creatinina sérica (mg/dl) para adultos y adolescentes que pesen 50 kg o
+más utilizando la fórmula siguiente:
+
+CLcr(ml/min) =
+
+[140 – edad (años)] x peso (kg)
+
+72 x creatinina sérica
+
+mg
+(        )
+dl
+
+(x 0,85 para mujeres)
+
+Entonces se ajusta el CLcr para el área de la superficie corporal (ASC) como sigue:
+
+CLcr(ml/min/1,73 m2) =
+
+CLcr(ml/min)
+
+ASC del sujeto (m2)
+
+x 1,73
+
+Ajuste de la dosificación en pacientes adultos y adolescentes con un peso supe-
+rior a 50 kg con insuficiencia renal
+
+Grupo
+
+Normal
+
+Leve
+
+Moderada
+
+Grave
+
+Pacientes con enfermedad
+renal terminal bajo diálisis(1)
+
+Clearence de creatinina
+(ml/min/1,73 m2)
+
+Dosificación y frecuencia
+
+>80
+
+50-79
+
+30-49
+
+<30
+
+-
+
+500 mg a 1500 mg
+dos veces por día
+
+500 mg a 1000 mg
+dos veces por día
+
+250 mg a 750 mg
+dos veces por día
+
+250 mg a 500 mg
+dos veces por día
+
+500 mg a 1000 mg
+una vez por día(2)
+
+(1) Se recomienda una dosis de carga de 750 mg en el primer día de tratamiento con levetiracetam.
+(2) Después de la diálisis se recomienda una dosis suplementaria de 250 a 500 mg.
+
+En niños con insuficiencia renal, la dosis de levetiracetam debe ser ajustada en base a la
+función renal, puesto que el clearance de levetiracetam está relacionado con la función
+renal. Esta recomendación se basa en un estudio en pacientes adultos con insuficiencia
+renal.  El  CLcr  en  ml/min  1,73  m2  se  puede  estimar  a  partir  de  la  determinación  de
+la creatinina sérica (mg/dl) para adolescentes jóvenes, Y niños utilizando la siguiente
+fórmula (fórmula Schwartz):
+
+CLcr(ml/min/1,73 m2) =
+
+Altura (cm) x ks
+
+Creatinina sérica
+
+mg
+(        )
+dl
+
+ks= 0,45 en recién nacidos a término hasta 1 año de edad; ks= 0,55 en niños menores de 13
+años y en adolescentes femeninas; ks= 0,7 en adolescentes varones.
+
+Ajuste de la dosificación en niños y adolescentes con un peso inferior a 50 kg con
+insuficiencia renal
+
+Grupo
+
+Normal
+
+Leve
+
+Moderada
+
+Grave
+
+Pacientes con enfermedad
+renal terminal bajo diálisis
+
+Aclaramiento de creatinina
+(ml/min/1,73 m2)
+
+>80
+
+50-79
+
+30-49
+
+<30
+
+-
+
+Dosis y frecuencia(1)
+Niños a partir de 6 años y adoles-
+centes que pesen menos de 50 kg
+
+10 a 30 mg/kg (0,10 a 0,30 ml/kg)
+dos veces al día
+
+10 a 20 mg/kg (0,10 a 0,20 ml/kg)
+dos veces al día
+
+5 a 15 mg/kg (0,05 a 0,15 ml/kg)
+dos veces al día
+
+5 a 10 mg/kg (0,05 a 0,10 ml/kg)
+dos veces al día
+
+10 a 20 mg/kg (0,10 a 0,20 ml/kg)
+una vez al día(2)(3)
+
+(1) Levetiracetam solución oral se debe utilizar para administrar dosis por debajo de 250 mg y
+para pacientes que no puedan tragar los comprimidos.
+(2) Se recomienda una dosis de carga de 15 mg/kg (0,15 ml/kg) en el primer día de tratamiento
+con levetiracetam.
+(3) Después de la diálisis se recomienda una dosis suplementaria de 5 a 10 mg/kg (0,05 a 0,10 ml/kg).
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve a mode-
+rada. En pacientes con insuficiencia hepática grave, el clearance de creatinina puede
+subestimar el grado de insuficiencia renal. Por lo tanto, se recomienda una reducción
+del  50%  de  la  dosis  de  mantenimiento  diario  cuando  el  clearance  de  creatinina  es
+<60 ml/min/1,73 m2.
+Población pediátrica
+El  médico  debe  prescribir  la  forma  farmacéutica,  presentación  y  concentración  más
+apropiada de acuerdo con la edad, el peso y la dosis.
+La formulación en comprimidos no está adaptada para su administración en lactantes y
+niños menores de 6 años. Levetiracetam solución oral es la formulación más adecuada
+para la administración en esta población.
+Monoterapia
+No  se  ha  establecido  la  seguridad  y  eficacia  de  levetiracetam  como  monoterapia  en
+niños y adolescentes menores de 16 años.
+Terapia  concomitante  en  niños  a  partir  de  6  años  y  adolescentes  con  un  peso
+inferior de 50kg
+Se debe utilizar la mínima dosis eficaz. La dosis inicial para un niño o adolescente de
+25 kg debe ser de 20 mg/kg/ día, con una dosis máxima de 60 mg/kg/día dos veces al
+día. La dosis en niños con un peso de 50 kg o superior es la misma que la de adultos.
+Dosis recomendada para niños a partir de los 6 años y adolescentes
+
+Peso
+
+25 kg
+
+Dosis inicial 10 mg/kg
+dos veces al día
+
+Dosis máxima 30 mg/kg
+dos veces al día
+
+250 mg dos veces al día
+
+750 mg dos veces al día
+
+A partir de 50 kg(1)
+
+500 mg dos veces al día
+
+1500 mg dos veces al día
+
+(1) La dosis en niños y adolescentes con un peso de 50 kg o superior es la misma que en adultos.
+Modo de administración
+Los comprimidos recubiertos con película se administran por vía oral, con una cantidad
+suficiente de líquido y pueden administrarse con o sin alimentos. La posología diaria se
+divide en dosis iguales repartidas en dos tomas al día.
+Suspensión del tratamiento
+De acuerdo con la práctica clínica habitual, si se ha de suspender la medicación con
+levetiracetam  se  recomienda  retirarlo  de  forma  gradual  (p.  ej.,  en  adultos  y  adoles-
+centes que pesen más de 50 kg: reducciones de 500 mg dos veces al día cada dos a
+cuatro semanas.
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo, a otros derivados de la pirrolidona o a alguno de
+los excipientes.
+
+ADVERTENCIAS
+Suicidio
+Se han notificado casos de suicidio, intento de suicidio y pensamientos y comportamien-
+tos suicidas en pacientes tratados con fármacos antiepilépticos (incluyendo levetirace-
+tam). Un metaanálisis de ensayos controlados con placebo, aleatorizados, con fármacos
+antiepilépticos ha mostrado un pequeño aumento del riesgo de pensamientos y compor-
+tamientos suicidas. Se desconoce el mecanismo de este riesgo.
+Por tanto, los pacientes deben ser monitorizados para detectar signos de depresión y/o
+pensamientos y comportamientos suicidas y debe considerarse el tratamiento adecua-
+do. Se debe aconsejar a los pacientes (y a sus cuidadores) que consulten con su médico
+si aparecen signos de depresión y/o pensamientos suicidas.
+Insuficiencia renal
+La administración de levetiracetam a pacientes con insuficiencia renal puede requerir el
+ajuste de la dosis. En pacientes con insuficiencia hepática grave se recomienda valorar
+la función renal antes de la selección de la dosis.
+Lesión renal aguda
+El uso de levetiracetam se ha asociado muy raramente con lesión renal aguda, con un
+tiempo de aparición que va desde unos días a varios meses.
+Comportamientos anómalos y agresivos
+Levetiracetam  puede  causar  síntomas  psicóticos  y  anomalías  en  el  comportamiento,
+como  irritabilidad  y  agresividad.  Los  pacientes  tratados  con  levetiracetam  deben  ser
+controlados por si desarrollan síntomas psiquiátricos que indiquen cambios de ánimo
+y/o personalidad. Si se observan estos comportamientos, se debe considerar la adap-
+tación del tratamiento o la interrupción gradual (ver Posología, modo de administración:
+suspensión del tratamiento).
+
+PRECAUCIONES
+Recuentos de células sanguíneas
+Se  han  descrito  casos  raros  de  disminución  en  los  recuentos  de  células  sanguíneas
+(neutropenia,  agranulocitosis,  leucopenia,  trombocitopenia  y  pancitopenia)  asociados
+con la administración de levetiracetam, generalmente al principio del tratamiento. En pa-
+cientes que experimenten debilidad importante, pirexia, infecciones recurrentes o tras-
+tornos de la coagulación se recomienda un recuento de células sanguíneas completo.
+Empeoramiento de las crisis epilépticas
+Como sucede en el caso de otros tipos de antiepilépticos, levetiracetam puede agravar,
+en raras ocasiones, la frecuencia o la intensidad de las crisis epilépticas. Este efecto
+paradójico  se  notificó  principalmente  durante  el  primer  mes  después  del  inicio  o  del
+aumento de la dosis de levetiracetam y fue reversible tras la interrupción o la reducción
+de la dosis del fármaco. Se debe advertir a los pacientes que consulten a su médico de
+inmediato en caso de agravamiento de la epilepsia.
+Prolongación del intervalo QT en el electrocardiograma
+Se han observado casos raros de prolongación del intervalo QT en el ECG durante la
+post-comercialización. Levetiracetam se debe usar con cuidado en pacientes con pro-
+longación del intervalo QTc, en pacientes tratados de forma concomitante con fármacos
+que afecten al intervalo QTc o en pacientes con enfermedades cardíacas preexistentes
+o alteraciones electrolíticas de importancia.
+Interacciones medicamentosas
+Medicamentos antiepilépticos
+Los datos de los estudios clínicos, realizados en adultos antes de la comercialización, in-
+dican que levetiracetam no influye en las concentraciones séricas de los medicamentos
+antiepilépticos conocidos (fenitoína, carbamazepina, ácido valproico, fenobarbital, lamo-
+trigina, gabapentina y primidona) y que estos medicamentos antiepilépticos no influyen
+en la farmacocinética de levetiracetam.
+Como en adultos, no hay una evidencia clara de interacciones farmacológicas clínicamen-
+te significativas en pacientes pediátricos que hayan tomado hasta 60 mg/kg/día de leve-
+tiracetam. Una evaluación retrospectiva de las interacciones farmacocinéticas en niños
+y adolescentes con epilepsia (de 4 a 17 años) confirmó que la terapia coadyuvante con
+levetiracetam administrado por vía oral, no tuvo influencia en las concentraciones séricas
+en estado de equilibrio de carbamazepina y valproato. Sin embargo, los datos sugieren un
+incremento del clearance de levetiracetam del 20% en niños que toman medicamentos
+antiepilépticos que sean inductores enzimáticos. No es necesario ajuste de dosis.
+Probenecid
+Se ha comprobado que probenecid (500 mg cuatro veces al día), agente bloqueante de
+la secreción tubular renal, inhibe el clearance renal del metabolito primario, pero no el de
+levetiracetam. Con todo, los niveles de este metabolito se mantienen bajos.
+Metotrexato
+Se  ha  notificado  que  la  administración  concomitante  de  Levetiracetam  y  metotrexato
+disminuye el clearence de metotrexato, lo que conduce a un aumento/prolongación de
+la concentración plasmática de metotrexato a niveles potencialmente tóxicos. Se deben
+vigilar cuidadosamente los niveles plasmáticos de metotrexato y levetiracetam en pa-
+cientes tratados en forma concomitante con estos dos fármacos.
+Laxantes
+Al administrar de forma concomitante el laxante osmótico macrogol con levetiracetam
+por vía oral, se han notificado casos aislados de la disminución de la eficacia de levetira-
+cetam. Por ello, no se debe tomar macrogol por vía oral al menos durante una hora antes
+o una hora después de tomar levetiracetam.
+Anticonceptivos orales y otras interacciones farmacocinéticas
+Dosis diarias de 1.000 mg de levetiracetam no influenciaron la farmacocinética de los
+anticonceptivos orales (etinilestradiol y levonorgestrel); no se modificaron los paráme-
+tros  endocrinos  (hormona  luteinizante  y  progesterona).  Dosis  diarias  de  2.000  mg  de
+levetiracetam no influenciaron la farmacocinética de la digoxina y de la warfarina; no se
+modificó el tiempo de protrombina. La coadministración con digoxina, anticonceptivos
+orales y warfarina no tuvo influencia sobre la farmacocinética del levetiracetam.
+Alimentos y alcohol
+El grado de absorción del levetiracetam no se alteró por los alimentos, aunque la veloci-
+dad de absorción se redujo ligeramente.
+No se dispone de datos sobre la interacción del levetiracetam con alcohol.
+Carcinogénesis, mutagénesis, daño a la fertilidad
+Los datos de los estudios no clínicos no muestran riesgos especiales para los seres hu-
+manos según los estudios convencionales de farmacología de seguridad, genotoxicidad
+y potencial carcinogénico. Los efectos adversos no observados en los estudios clínicos,
+pero vistos en la rata y en menor grado en el ratón a niveles de exposición similares a
+los niveles de exposición humanos y con posible repercusión en el uso clínico, fueron
+modificaciones hepáticas que indican una respuesta adaptativa con incremento de peso
+e hipertrofia centrolobular, infiltración de grasa e incremento de las enzimas hepáticas
+en plasma. No se observó ningún efecto adverso sobre el rendimiento reproductivo o la
+fertilidad en ratas macho o hembra a dosis de hasta 1.800 mg/kg/día (6 veces la dosis
+diaria máxima recomendada en humanos en base a los mg/m2 o a la exposición) en
+los padres y en la generación F1. Se realizaron dos estudios de desarrollo embriofetal
+(EFD) en ratas a 400, 1200 y 3600 mg/kg/día. A 3600 mg/kg/día, sólo en uno de los dos
+estudios EFD hubo una ligera disminución en el peso fetal asociada con un aumento
+mínimo  de  variaciones  en  el  esqueleto/anomalías  menores.  No  hubo  efecto  sobre  la
+embriomortalidad y no aumentó la incidencia de malformaciones. El NOAEL (nivel sin
+efecto adverso observable) fue 3600 mg/kg/día para ratas hembra preñadas (12 veces
+la dosis diaria máxima recomendada en humanos (MRHD) en base a los mg/m2) y 1200
+mg/kg/día para los fetos.
+Se realizaron cuatro estudios de desarrollo embriofetal en conejos cubriendo dosis de
+200, 600, 800, 1200 y 1800 mg/kg/día. El nivel de dosis de 1800 mg/kg/día indujo una
+marcada toxicidad materna y un descenso del peso fetal asociado con un aumento en
+la incidencia de fetos con anomalías cardiovasculares/esqueléticas. El NOAEL fue <200
+mg/kg/día para las madres y 200 mg/kg/día para los fetos (igual a la MRHD en base a
+los mg/m2).
+Se realizó un estudio de desarrollo peri- y post-natal en ratas con dosis de levetiracetam
+de 70, 350 y 1800 mg/kg /día. El NOAEL fue ≥ 1800 mg/kg/día para las hembras F0 y
+para la supervivencia, crecimiento y desarrollo de las crías F1 hasta el destete (6 veces
+la MRHD en base a los mg/m2).
+Estudios en ratas y perros neonatos y jóvenes demostraron que no había efectos adver-
+sos en ninguno de los parámetros estándar de desarrollo o maduración a dosis hasta
+1800 mg/kg/día (6-17 veces la MRHD en base a los mg/m2).
+En  los  estudios  en  animales  no  se  detectó  impacto  sobre  la  fertilidad.  No  hay  datos
+clínicos disponibles, se desconoce el posible riesgo en humanos.
+Mujeres en edad fértil
+Las mujeres en edad fértil deben recibir el consejo del especialista. Cuando una mujer
+esté planeando quedarse embarazada se debe revisar el tratamiento con levetiracetam.
+Al igual que con todos los medicamentos antiepilépticos, se debe evitar la retirada brus-
+ca de levetiracetam, ya que puede conducir a la aparición de crisis que pueden tener
+consecuencias graves para la mujer y para el feto. Siempre que sea posible es preferible
+la monoterapia, ya que el tratamiento con múltiples medicamentos antiepilépticos puede
+estar asociado con un mayor riesgo de malformaciones congénitas que con la monote-
+rapia, dependiendo de los antiepilépticos asociados.
+Embarazo
+La  gran  cantidad  de  datos  poscomercialización  en  mujeres  embarazadas  expuestas
+a  monoterapia  con  levetiracetam  (más  de  1800,  entre  los  que  hay  más  de  1500  ex-
+posiciones ocurridas durante el 1er trimestre) no sugiere un aumento en el riesgo de
+malformaciones congénitas graves. Sólo hay una evidencia limitada disponible sobre el
+desarrollo neurológico de niños expuestos a monoterapia con Levetiracetam en el útero.
+Sin embargo, los estudios epidemiológicos actuales (en aproximadamente 100 niños)
+no sugieren un riesgo aumentado de trastornos del desarrollo neurológico o retrasos.
+Levetiracetam se puede usar durante el embarazo, si tras una cuidadosa evaluación, se
+considera clínicamente necesario. En ese caso, se recomienda la dosis efectiva más baja.
+Los cambios fisiológicos durante el embarazo pueden afectar a las concentraciones de
+levetiracetam. Se ha observado la disminución de las concentraciones plasmáticas de
+levetiracetam  durante  el  embarazo.  Esta  disminución  es  más  pronunciada  durante  el
+tercer trimestre (hasta el 60% de la concentración inicial antes del embarazo). Debe ase-
+gurarse un control clínico adecuado de la mujer embarazada tratada con levetiracetam.
+Lactancia
+Levetiracetam se excreta en la leche materna humana, por lo que no se recomienda la
+lactancia natural. Sin embargo, si durante el periodo de lactancia es necesario el trata-
+miento con levetiracetam, debe considerarse la relación beneficio/riesgo del tratamiento
+teniéndose en cuenta la importancia de la lactancia natural.
+Empleo en pediatría
+La formulación en comprimidos no está adaptada para su administración en lactantes
+y niños menores de 6 años.
+Los datos disponibles en niños no sugieren ningún efecto en el crecimiento ni en la pu-
+bertad. No obstante, siguen sin conocerse los efectos a largo plazo sobre el aprendizaje,
+inteligencia, crecimiento, función endocrina, pubertad y fertilidad en niños.
+
+Empleo en ancianos
+Se recomienda ajustar la dosis en los pacientes de edad avanzada con función renal
+comprometida (ver Posología, Poblaciones especiales: Insuficiencia renal).
+Insuficiencia renal
+La administración de levetiracetam a pacientes con insuficiencia renal puede requerir el
+ajuste de la dosis. (Ver Posología, Poblaciones especiales: insuficiencia renal).
+Insuficiencia hepática
+No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve a moderada.
+En pacientes con insuficiencia hepática grave, el clearance de creatinina puede subestimar
+el grado de insuficiencia renal. Por lo tanto, se recomienda una reducción del 50% de la
+dosis de mantenimiento diario cuando el clearance de creatinina es <60 ml/min/1,73 m2
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de Levetiracetam sobre la capacidad para conducir y utilizar máquinas es
+pequeña o moderada. Debido a las posibles diferencias de sensibilidad individual algu-
+nos pacientes pueden experimentar somnolencia u otros síntomas relacionados con el
+sistema nervioso central, especialmente al inicio del tratamiento o después de un incre-
+mento de la dosis. Por tanto, se recomienda precaución a los pacientes cuando realicen
+tareas que requieran habilidad específica, p. ej. conducir vehículos o utilizar maquinaria.
+Se aconseja a los pacientes no conducir o utilizar maquinaria hasta que se compruebe
+que su capacidad para realizar estas actividades no queda afectada.
+
+REACCIONES ADVERSAS
+Las reacciones adversas descritas con más frecuencia fueron fatiga, somnolencia, ce-
+falea, mareos y nasofaringitis.
+Lista tabulada de reacciones adversas
+A continuación, se describen las reacciones adversas observadas en los ensayos clínicos
+(en  adultos,  adolescentes,  niños  y  lactantes  mayores  de  1  mes)  y  en  la  experiencia
+post-comercialización clasificada por Órganos y Sistemas y por frecuencia. La frecuen-
+cia  se  define  de  la  siguiente  manera:  muy  frecuentes  (≥1/10);  frecuentes  (≥1/100  a
+<1/10); poco frecuentes (≥1/1.000 a <1/100); raras (≥1/10.000 a <1/1.000); muy raras
+(<1/10.000).
+Infecciones e infestaciones
+Muy frecuentes: nasofaringitis.
+Raras: infección.
+Trastornos de la sangre y del sistema linfático
+Poco frecuentes: trombocitopenia, leucopenia.
+Raras: neutropenia, pancitopenia, agranulocitosis.
+Trastornos del sistema inmunológico
+Raras: reacción de hipersensibilidad al medicamento con eosinofilia y síntomas sistémi-
+cos (DRESS), hipersensibilidad (incluyendo angioedema y anafilaxis).
+Trastornos del metabolismo y de la nutrición
+Frecuentes: anorexia.
+Poco frecuentes: aumento de peso, pérdida de peso.
+Raras: hiponatremia.
+Trastornos psiquiátricos
+Frecuentes: depresión, hostilidad/agresividad, ansiedad, insomnio, nerviosismo/irritabilidad.
+Poco frecuentes: intento de suicidio, ideación suicida, alteraciones psicóticas, comporta-
+miento anormal, alucinaciones, colera, estado confusional, ataque de pánico, inestabili-
+dad emocional/ cambios de humor, agitación.
+Raras: suicidio completado, trastornos de personalidad, pensamiento anormal, delirio.
+Trastornos del sistema nervioso
+Muy frecuentes: somnolencia, cefalea.
+Frecuentes: convulsión, mareo, letargo, temblor, trastorno del equilibrio.
+Poco frecuentes: amnesia, deterioro de la memoria, coordinación anormal/ataxia, pares-
+tesia, alteración de la atención.
+Raras:  hipercinesia,  coreoatetosis,  discinesia,  alteracion  de  la  marcha,  encefalopatía,
+crisis epilépticas agravadas.
+Trastornos oculares
+Poco frecuentes: diplopía, visión borrosa.
+Trastornos del oído y del laberinto
+Frecuentes: vértigo.
+Trastornos cardiacos
+Raras: prolongación del intervalo QT en el electrocardiograma.
+Trastornos respiratorios, torácicos y mediastínicos
+Frecuentes: tos.
+Trastornos gastrointestinales
+Frecuentes: dolor abdominal, diarrea, dispepsia, náuseas, vómitos.
+Raras: pancreatitis.
+Trastornos hepatobiliares
+Poco frecuente: pruebas anormales de la función hepática.
+Raras: fallo hepático, hepatitis.
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes: rash.
+Poco frecuentes: alopecia, eczema, prurito.
+Raras: necrolisis epidermica toxica, síndrome de Stevens Johnson, eritema multiforme.
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuentes: debilidad muscular, mialgia.
+Raras: rabdomiólisis y aumento de creatinfosfoquinasa sanguínea*.
+* La prevalencia es significativamente mayor en pacientes japoneses en comparación con pa-
+cientes no japoneses.
+Trastornos generales y alteraciones en el lugar de administración
+Frecuentes: astenia/fatiga.
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+Poco frecuentes: lesión.
+
+Trastornos renales y urinarios
+Raras: lesión renal aguda.
+Descripción de algunas reacciones adversas seleccionadas
+El riesgo de anorexia es mayor cuando topiramato se administra junto con levetiracetam.
+En varios casos de alopecia, se observó una recuperación al suspender el tratamiento
+con levetiracetam. En algunos de los casos de pancitopenia se identificó la supresión
+de la medula ósea.
+Los  casos  de  encefalopatía  generalmente  ocurrieron  al  principio  del  tratamiento  (de
+varios días a varios meses) y fueron reversibles tras la interrupción del tratamiento.
+Población pediátrica
+En pacientes de 1 mes a menos de 4 años de edad, un total de 190 pacientes han sido
+tratados con levetiracetam en los ensayos de extensión abierta y controlados con pla-
+cebo. Sesenta (60) de estos pacientes fueron tratados con levetiracetam en los ensayos
+controlados con placebo. En pacientes de 4-16 de edad, un total de 645 pacientes han
+sido tratados con levetiracetam en los ensayos controlados por placebo y de extensión
+abierta. 233 de estos pacientes fueron tratados con levetiracetam en los ensayos contro-
+lados por placebo. En ambos rangos de edad pediátricos, estos datos se complementan
+con la experiencia post comercialización de uso del levetiracetam.
+Además 101 lactantes menores de 12 meses han sido expuestos en un estudio de se-
+guridad post autorización. No se identificó ningún problema de seguridad nuevo para
+lactantes menores de 12 meses de edad con epilepsia.
+El perfil de reacciones adversas de levetiracetam es, en general, similar en todos los gru-
+pos de edad y en todas las indicaciones aprobadas en epilepsia. Los resultados de se-
+guridad en los ensayos clínicos controlados por placebo en pacientes pediátricos coinci-
+dieron con el perfil de seguridad de levetiracetam en adultos excepto por las reacciones
+adversas psiquiátricas y de comportamiento, las cuales fueron más frecuentes en niños
+que en adultos. En niños y adolescentes de 4 a 16 años de edad, vómitos (muy frecuente
+11,2%), agitación (frecuente 3,4%) cambios de humor (frecuente 2,1%), inestabilidad
+emocional  (frecuente  1,7%),  agresividad  (frecuente  8,2%),  comportamiento  anormal
+(frecuente 5,6%) y letargo (frecuente 3,9%), fueron notificados más frecuentemente que
+en otros rangos de edad o que el perfil de seguridad global. En lactantes y niños de un
+mes a menos de 4 años de edad, irritabilidad (muy frecuente 11,7%), y coordinación
+anormal (frecuente 3,3%) fueron notificados más frecuentemente que en otros grupos
+de edad o en el perfil de seguridad global.
+Un estudio de seguridad pediátrica doble ciego controlado con placebo con diseño de
+no-inferioridad ha evaluado los efectos cognitivos y neuropsicológicos de levetiracetam
+en niños de 4 a 16 años de edad con crisis de inicio parcial. Se concluyó que levetirace-
+tam no era diferente (no era inferior) a placebo con respecto al cambio en la puntuación
+en la escala Leiter-R Attention and Memory, Memory Screen Composite desde el inicio
+en  la  población  por  protocolo.  Los  resultados  relacionados  con  la  función  emocional
+y  el  comportamiento,  medidos  de  forma  estandarizada  y  sistemática  usando  un  ins-
+trumento validado (cuestionario CBCL de Achenbach), indicaron un empeoramiento del
+comportamiento agresivo en los pacientes tratados con levetiracetam. Sin embargo, los
+sujetos que tomaron levetiracetam en el ensayo de seguimiento a largo plazo abierto no
+experimentaron un empeoramiento, en promedio, en su función emocional y compor-
+tamiento;  en  concreto,  las  medidas  del  comportamiento  agresivo  no  empeoraron  con
+respecto al inicio.
+Notificación de sospechas de reacciones adversas
+Es importante notificar las sospechas de reacciones adversas al medicamento tras su
+autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del
+medicamento.
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adver-
+sas a través del Sistema Nacional de Farmacovigilancia al siguiente link: https://www.
+argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos  y/o  al  Departa-
+mento de Farmacovigilancia de Gador S.A. vía e-mail a farmacovigilancia@gador.com o
+telefónicamente al 0800-220-2273.
+
+SOBREDOSIS
+Síntomas
+Se ha observado somnolencia, agitación, agresión, nivel de consciencia disminuido, de-
+presión respiratoria y coma con sobredosis de levetiracetam.
+Tratamiento de la sobredosificación
+En  la  sobredosis  aguda  puede  vaciarse  el  contenido  del  estómago  por  lavado  gástri-
+co o por inducción de la emesis. No hay un antídoto específico para levetiracetam. El
+tratamiento  de  la  sobredosificación  será  sintomático  y  puede  incluir  hemodiálisis.  La
+eficacia de la eliminación por diálisis es del 60% para el levetiracetam y del 74% para
+el metabolito primario.
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital  más  cercano  o
+comunicarse con los centros de toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONSERVACIÓN Y ALMACENAMIENTO
+Conservar a temperatura no mayor a 30°C.
+
+PRESENTACIONES
+ETABYX® 500: Envase conteniendo 30 comprimidos recubiertos (3 blisters con 10 com-
+primidos recubiertos) y envase conteniendo 60 comprimidos recubiertos (6 blisters con
+10 comprimidos recubiertos).
+ETABYX®  1000:  Envase  conteniendo  30  comprimidos  recubiertos  (3  blisters  con  10
+comprimidos recubiertos).
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”.
+
+INFORMACIÓN PARA EL PACIENTE
+
+COMPOSICIÓN
+Cada comprimido recubierto de ETABYX® 500 contiene:
+Levetiracetam ............................................................................................... 500 mg
+Excipientes: Almidón de maíz 116 mg, Povidona 15 mg, Talco 10 mg, Sílice coloidal
+anhidra 8 mg, Estearato de magnesio 1 mg, Alcohol polivinílico 10,4 mg, Dióxido de
+titanio 6,22 mg, Polietilenglicol 4000 5,25 mg, Talco 3,85 mg, Óxido de hierro amarillo
+(CI N°77492) 0,28 mg.
+Cada comprimido recubierto de ETABYX® 1000 contiene:
+Levetiracetam ............................................................................................. 1000 mg
+Excipientes: Almidón de maíz 232 mg, Povidona 30 mg, Talco 20 mg, Sílice coloidal
+anhidra 16 mg, Estearato de magnesio 2 mg, Alcohol polivinílico 20,8 mg, Dióxido de
+titanio 13 mg, Polietilenglicol 4000 10,5 mg, Talco 7,7 mg.
+
+1) ¿CUÁL ES LA INFORMACIÓN MÁS IMPORTANTE QUE DEBO SABER SOBRE ESTE
+PRODUCTO?
+ » Sírvase  leer  esta  información  antes  de  comenzar  a  tomar  el  medicamento,  aun
+cuando simplemente haya repetido la receta (o antes de empezar a usarlo y cada
+vez que renueve su receta). Puede haber información nueva (o alguna información
+puede haber cambiado).
+
+ » Si tiene alguna duda, consulte a su médico.
+ » Este medicamento se le ha recetado solamente a usted, y no debe dárselo a otras
+personas aunque tengan los mismos síntomas que usted, ya que puede perjudicarles.
+ » Si experimenta efectos adversos, consulte a su médico, incluso si se trata de efec-
+
+tos adversos que no aparecen en este prospecto.
+
+ » Esta información no reemplaza el hablar con su médico acerca de su enfermedad
+
+o el tratamiento.
+
+ » Este medicamento debe ser indicado por su médico y prescripto bajo una receta médica.
+
+2) ¿QUÉ ES ETABYX® Y PARA QUÉ SE UTILIZA?
+ETABYX®  es  un  medicamento  antiepiléptico  (un  medicamento  para  el  tratamiento
+de crisis en epilepsia).
+ETABYX® se utiliza:
+En  monoterapia  (sin  necesidad  de  otro  medicamento  antiepiléptico):  en  pacientes
+adultos y adolescentes mayores de 16 años de edad con epilepsia diagnosticada re-
+cientemente para tratar las crisis de inicio parcial con o sin generalización secundaria.
+Conjuntamente con otros medicamentos antiepilépticos para tratar:
+Las crisis de inicio parcial con o sin generalización en pacientes adultos y niños con
+epilepsia.
+Las crisis mioclónicas en pacientes mayores de 12 años con epilepsia mioclónica juvenil.
+Las crisis tónico-clónicas generalizadas primarias en pacientes a partir de 12 años de
+edad con epilepsia idiopática generalizada.
+
+3) ¿QUÉ NECESITA SABER ANTES DE EMPEZAR A TOMAR ETABYX® Y DURANTE
+EL TRATAMIENTO?
+
+¿Quiénes no deben tomar ETABYX®?
+Si  es  alérgico (hipersensible) a levetiracetam  o a  cualquiera de  los  demás compo-
+nentes de ETABYX®.
+
+¿Qué debo informar a mi médico antes de tomar ETABYX®?
+Antes de tomar ETABYX®, dígale a su médico:
+Si usted padece problemas de riñón, siga las instrucciones de su médico quien deci-
+dirá si debe ajustarle la dosis a tomar.
+Si observa cualquier disminución en el crecimiento de su hijo o un desarrollo de la
+pubertad inesperado, contacte con su médico.
+Un pequeño número de personas en tratamiento con antiepilépticos tales como leve-
+tiracetam han tenido pensamientos de hacerse daño o suicidarse. Si tiene cualquier
+síntoma de depresión y/o pensamientos suicidas, contacte con su médico.
+Si  tiene  antecedentes  médicos  o  familiares  de  ritmo  cardíaco  irregular  (visible  en
+elelectrocardiograma), o si tiene una enfermedad y/o toma un tratamiento que le haga
+propenso a arritmias cardíacas o desequilibrios de sales.
+Informe a su médico si alguno de los siguientes efectos adversos se agrava o dura
+más de unos pocos días:
+•  Pensamientos  anormales,  sensación  de  irritabilidad  o  reacciona  de  forma  más
+agresiva de lonormal o si usted o su familia y amigos notan cambios importantes
+en el estado de ánimo o comportamiento.
+
+•  Agravamiento  de  la  epilepsia:  En  raras  ocasiones,  las  crisis  epilépticas  pueden
+empeorar o producirse con más frecuencia, principalmente durante el primer mes
+después del inicio del tratamiento o del aumento de la dosis. Si experimenta alguno
+de estos síntomas nuevos mientras toma ETABYX®, acuda a un médico tan pronto
+como sea posible.
+
+•  Embarazo  y  lactancia:  Si  está  embarazada  o  en  periodo  de  lactancia,  cree  que
+podría  estar  embarazada  o  tiene  intención  de  quedarse  embarazada,  consulte  a
+su médico antes de utilizar este medicamento. Levetiracetam sólo se puede uti-
+lizar durante el embarazo si, después de una cuidadosa evaluación, su médico lo
+considera necesario.
+No debe abandonar su tratamiento sin comentarlo antes con su médico.
+No se puede excluir completamente el riesgo de defectos de nacimiento para el bebé.
+No se recomienda la lactancia natural durante el tratamiento.
+
+•  Niños  y  adolescentes:  El  tratamiento  en  monoterapia  con  Levetiracetam  no  está
+
+indicado en niños y adolescentes menores de 16 años.
+
+¿Puedo tomar ETABYX® con otros medicamentos?
+Informe a su médico, si está utilizando o ha utilizado recientemente otros medicamen-
+tos, incluso los adquiridos sin receta.
+Como medida de seguridad no tome ETABYX® con alcohol.
+No tome macrogol (medicamento utilizado como laxante) durante una hora antes y
+una hora después de tomar levetiracetam ya que podría perder su efecto.
+
+4) ¿CÓMO TOMAR ETABYX®?
+Siga exactamente las instrucciones de administración de ETABYX® indicadas por su
+médico. Consulte a su médico si tiene dudas.
+Levetiracetam se debe tomar dos veces al día, una vez por la mañana y otra por la
+noche, aproximadamente a la misma hora cada día. Tome el número de comprimidos
+que le haya recetado su médico.
+Para su información, las dosis orientativas son:
+Monoterapia
+Adultos y adolescentes ≥ 16 años: dosis inicial: 250 mg dos veces/día. Dosis máxima:
+1500 mg dos veces/día.
+Terapia concomitante
+•  Adultos y adolescentes (12-17 años con peso de 50 kg o superior): dosis inicial: 500
+
+mg dos veces/día. Dosis máxima: 1500 mg dos veces/día.
+
+•  Niños (de 6 a 11 años). y adolescentes (de 12 a 17 años) con un peso inferior a
+los 50 kg: Su médico le prescribirá la forma farmacéutica de levetiracetam más
+apropiada según la edad, el peso y la dosis.
+
+Forma de administración
+Trague los comprimidos de ETABYX® con una cantidad suficiente de líquido (p. ej. un
+vaso de agua). ETABYX® se puede tomar con o sin alimentos. Tras la administración
+oral de levetiracetam se puede apreciar su sabor amargo.
+Duración del tratamiento
+Levetiracetam se utiliza como un tratamiento crónico. Debe continuar con el trata-
+miento con Levetiracetam durante el tiempo indicado por su médico.
+
+No deje su tratamiento sin la recomendación de su médico ya que pueden aumentar
+sus crisis. Si su médico decide suspender su tratamiento con levetiracetam, él/ella le
+dará las instrucciones para la retirada gradual de levetiracetam.
+Al igual que sucede con otros medicamentos antiepilépticos, la finalización del trata-
+miento con levetiracetam debe efectuarse de forma gradual para evitar un incremento
+de las crisis.
+Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico.
+
+¿Qué debo hacer en caso de sobredosis?
+En caso de sobredosis o ingestión accidental, consulte inmediatamente al efector de
+emergencias más próximo, o llame al Servicio de Información Toxicológica:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Los posibles efectos adversos de una sobredosis de levetiracetam son somnolencia,
+agitación, agresividad, disminución de la alerta, inhibición de la respiración y coma.
+Contacte con su médico si ha tomado más comprimidos de los que debiera. Su médi-
+co establecerá el mejor tratamiento posible de la sobredosis.
+
+¿Qué debo hacer si dejo de tomar una dosis?
+Contacte con su médico si ha dejado de tomar una o más dosis.
+No tome una dosis doble para compensar las dosis olvidadas.
+
+5) ¿CUÁLES SON LOS EFECTOS ADVERSOS QUE PUEDE TENER ETABYX®?
+Al igual que todos los medicamentos, ETABYX® puede tener efectos adversos, aunque
+no todas las personas los sufran.
+Comunique a su médico si tiene alguno de los efectos adversos siguientes y le preocupa.
+Algunos  de  los  efectos  adversos  como  sensación  de  sueño,  dolor  de  cabeza,  sen-
+sación  de  debilidad  (fatiga)  y  mareos  pueden  ser  más  frecuentes  cuando  se  inicia
+el  tratamiento  o  se  aumenta  la  dosis.  Sin  embargo,  estos  efectos  adversos  deben
+disminuir con el tiempo.
+Informe a su médico inmediatamente, o vaya al servicio de urgencias de su hospital
+más cercano si experimenta:
+•  Debilidad, mareo o dificultad para respirar, ya que éstos pueden ser signos de una
+
+reacción alérgica (anafiláctica) grave.
+
+•  Hinchazón de la cara, labios, lengua o garganta (edema de Quincke).
+•  Síntomas de gripe y erupción en la cara seguido de una erupción prolongada con
+temperatura elevada, niveles de enzimas hepáticos elevados en tests sanguíneos y
+un aumento en un tipo de células blancas sanguíneas (eosinofilia) y nódulos linfá-
+ticos agrandados (Reacción de hipersensibilidad al medicamento con eosinofilia y
+síntomas sistémicos (DRESS)).
+
+•  Síntomas como bajo volumen de orina, cansancio, náuseas, vómitos, confusión e
+hinchazón de piernas, brazos o pies, ya que puede ser un signo de disminución
+súbita de la función renal.
+
+•  Una erupción cutánea que puede formar ampollas y puede aparecer como peque-
+ñas  dianas  (puntos  centrales  oscuros  rodeados  por  un  área  más  pálida,  con  un
+anillo oscuro alrededor del borde) (eritema multiforme).
+
+•  Una erupción generalizada con ampollas y descamación de la piel, especialmente
+
+alrededor de la boca, nariz, ojos y genitales (síndrome de Stevens-Johnson).
+
+•  Una forma más grave que causa descamación de la piel en más del 30% de la
+
+superficie corporal (necrólisis epidérmica tóxica).
+
+•  Signos  de  cambios  mentales  graves  o  si  alguien  a  su  alrededor  nota  signos  de
+confusión, somnolencia (adormecimiento), amnesia (pérdida de memoria), deterio-
+ro de la memoria (olvidos), comportamiento anormal u otros signos neurológicos
+incluyendo movimientos involuntarios o incontrolados. Éstos pueden ser síntomas
+de encefalopatía.
+
+Los efectos adversos más frecuentemente notificados son:
+Muy frecuentes
+•  Somnolencia (sensación de sueño).
+•  Dolor de cabeza.
+•  Nasofaringitis.
+Frecuentes
+•  Anorexia (pérdida de apetito).
+•  Ansiedad, depresión, hostilidad o agresividad, insomnio, nerviosismo o irritabilidad
+•  Mareos (sensación de inestabilidad), convulsiones, temblor (temblor involuntario),
+
+trastorno del equilibrio, letargo (falta de energía y entusiasmo).
+
+•  Vértigo (sensación de rotación).
+•  Tos.
+•  Dolor  abdominal,  náuseas,  dispepsia  (digestión  pesada,  ardor  y  acidez),  diarrea,
+
+vómitos.
+
+•  Erupción en la piel.
+•  Astenia/fatiga (sensación de debilidad).
+Estos no son todos los efectos adversos de ETABYX®, para mayor información con-
+sulte con su médico.
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte con su médico incluso si se
+trata de posibles efectos adversos que no aparecen en este prospecto. Mediante la
+comunicación de efectos adversos puede contribuir a proporcionar más información
+sobre la seguridad de este medicamento.
+Conducción y uso de máquinas
+Levetiracetam puede alterar su capacidad para conducir o manejar herramientas o
+maquinaria, puesto que puede producirle sensación de sueño. Esto es más probable
+al inicio del tratamiento o cuando se aumenta la dosis. No debería conducir o utilizar
+maquinaria hasta que se compruebe que su capacidad para realizar estas actividades
+no está afectada.
+
+6) ¿CÓMO DEBO CONSERVAR ETABYX®?
+Conservar a temperatura no mayor a 30°C.
+No utilice este medicamento si el envase está dañado.
+Ud. puede tomar ETABYX® hasta el último día del mes indicado en el envase. No tome
+ETABYX® luego de la fecha de vencimiento.
+Este medicamento no requiere condiciones especiales de conservación.
+Los medicamentos no se deben tirar por los desagües ni a la basura. En caso de duda
+pregunte a su farmacéutico cómo deshacerse de los envases y de los medicamentos
+que no necesita. De esta forma ayudará a proteger el medio ambiente.
+
+7) PRESENTACIONES
+ETABYX®  500:  Envase  conteniendo  30  comprimidos  recubiertos  (3  blisters  con  10
+comprimidos recubiertos) y envase conteniendo 60 comprimidos recubiertos (6 blis-
+ters con 10 comprimidos recubiertos).
+ETABYX® 1000: Envase conteniendo 30 comprimidos recubiertos (3 blisters con 10
+comprimidos recubiertos).
+
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está
+en  la  página  web  de  ANMAT:  https://www.argentina.gob.ar/anmat/farmacovigilancia/
+notificanos/pacientes o llamar a ANMAT responde 0800-333-1234”.
+
+“MANTENER TODOS LOS MEDICAMENTOS
+FUERA DEL ALCANCE DE LOS NIÑOS”.
+
+Obtenga mayor información visitando nuestro sitio en internet: www.gador.com/productos
+o solicítela por correo electrónico: info@gador.com
+
+Elaborado en: Medinfar Manufacturing S.A., Parque Industrial Armando Martins Tavares, Rua Outeiro Da Armada N° 5, Condeixa-A-Nova,
+3150-194 Sebal, Portugal. Acondicionado en: Atlantic Pharma Productos Farmacéuticos S.A., Rúa da Tapada grande N° 2, Abrunheira,
+Sintra, CP2710, Portugal. Medinfar Manufacturing, S.A., Parque Industrial Armando Martins Tavares, Rua Outeiro Da Armada N° 5,
+Condeixa-A-Nova, 3150-194 Sebal, Portugal. Titular: Qualix Pharma S.L. Representado, importado y comercializado por: Gador S.A.,
+Darwin 429, C1414CUI, C.A.B.A., Tel.: 4858-9000. D.T.: Jorge N. Naquit, Farmacéutico y Lic. en Ciencias Farmacéuticas.
+E.M.A.M.S. Certificado N° 59.482
+Fecha de última revisión: 01/2023
+
+Pr.Etabyx.500-1000mg.v01

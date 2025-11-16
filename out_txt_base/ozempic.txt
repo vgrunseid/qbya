@@ -1,0 +1,1645 @@
+PROYECTO DE PROSPECTO PROFESIONAL
+
+OZEMPIC®
+Semaglutida
+0,25; 0,50 mg/dosis
+1 mg/dosis
+Solución inyectable en lapicera prellenada
+
+INDUSTRIA DANESA
+
+VENTA BAJO RECETA
+
+COMPOSICIÓN
+Ozempic® 0,25; 0,50 mg/dosis
+1 ml de solución contiene 1,34 mg de semaglutida*. Una lapicera prellenada contiene
+2 mg de semaglutida* en 1,5 ml de solución.
+
+Ozempic® 1 mg/dosis
+1 ml de solución contiene 1,34 mg de semaglutida*. Una lapicera prellenada contiene
+4 mg de semaglutida* en 3,0 ml de solución.
+
+*Producida  por  tecnología  de  ADN  recombinante  en  células  de  Saccharomyces
+cerevisiae.
+
+Excipientes:
+clorhídrico/hidróxido de sodio (para ajustar pH), agua para inyectables.
+
+propilenglicol,
+
+dihidrato,
+
+disódico
+
+fosfato
+
+fenol,
+
+ácido
+
+FORMA FARMACÉUTICA
+Solución inyectable en lapicera prellenada.
+Solución transparente e incolora o casi incolora, solución isotónica; pH=7,4.
+
+ACCION TERAPÉUTICA
+Grupo farmacoterapéutico: agonista del receptor del péptido similar al glucagón 1
+(GLP-1)
+Clasificación ATC: A10BJ06
+
+INDICACIONES TERAPÉUTICAS
+Ozempic® está indicado como tratamiento adyuvante de la dieta y el ejercicio para
+adultos cuyo control de la diabetes mellitus tipo 2 es insuficiente:
+
+como  monoterapia  en  casos  de contraindicación  o  intolerancia  a  la
+metformina.
+en combinación con  otros medicamentos para  el tratamiento de la diabetes
+(ver  sección  “Datos  de  eficacia  clínica  y  seguridad”  para  resultados  de
+combinaciones investigadas en estudios clínicos).
+
+PROPIEDADES FARMACOLÓGICAS
+Propiedades farmacodinámicas
+Mecanismo de acción
+Semaglutida es un análogo del péptido similar al glucagón tipo 1 (GLP-1) con un 94%
+de  homología  de  secuencia  con  el  GLP-1  humano.  El  GLP-1  es  una  hormona
+fisiológica.  Semaglutida actúa como un agonista del receptor de GLP-1 que se une
+selectivamente y activa el receptor de  GLP-1,  el  receptor blanco del GLP-1 nativo.
+Los  receptores  de  GLP-1  se  expresan  en  el  páncreas,  cerebro,  corazón,  sistema
+vascular, sistema inmunológico y en los riñones.
+
+En comparación con el GLP-1 nativo, semaglutida posee una vida media prolongada
+de  aproximadamente  1  semana  que  la  hace  adecuada  para  su  administración
+
+subcutánea una vez por semana. El principal mecanismo de prolongación es la unión
+a la albúmina cuyo resultado es una disminución del clearance renal y una protección
+contra la degradación metabólica. Además, semaglutida está estabilizada frente a la
+degradación por la enzima DPP-4.
+
+Semaglutida reduce el nivel de glucosa en sangre a través de un mecanismo glucosa-
+dependiente,  estimulando  la  secreción  de  insulina  y  disminuyendo  la  secreción  de
+glucagón. Cuando el nivel de glucosa en sangre es elevado, se estimula la secreción
+de  insulina  y  se  inhibe  la  secreción  de  glucagón.  El  mecanismo  de  reducción  de
+glucosa en sangre también conlleva un leve retraso en el vaciamiento gástrico en la
+fase  posprandial  temprana.  Durante  la  hipoglucemia,  semaglutida  disminuye  la
+secreción de insulina sin alterar la secreción de glucagón.
+
+Semaglutida  reduce  el  peso  corporal  y  la  masa  grasa  corporal  a  través  de  una
+disminución de la ingesta calórica. El mecanismo involucra una reducción general del
+apetito, que incluye un aumento de la saciedad y una reducción de la sensación de
+hambre.  La  insulinorresistencia  se  reduce.  Esto probablemente  sucede  debido  a  la
+reducción del peso corporal.
+
+Datos farmacodinámicos
+Todas las evaluaciones farmacodinámicas se realizaron después de 12 semanas de
+tratamiento (incluyendo el aumento de dosis) en estado estacionario con semaglutida
+1 mg una vez por semana.
+
+Glucemia en ayunas y posprandial
+En  pacientes  con  diabetes  tipo  2,  el  tratamiento  con  semaglutida  1  mg  produjo
+reducciones en la glucemia en términos de un cambio absoluto con respecto al inicio
+(mmol/l)  y  una  reducción  relativa  en  comparación  con  el  placebo  (%)  para  la
+glucemia en  ayunas  (1,6  mmol/l;  reducción  del  22%),  glucemia posprandial  de  2
+horas (4,1 mmol/l;  reducción del 37%), glucemia promedio de 24 horas (1,7 mmol/l;
+reducción del 22%) y picos de glucemia posprandial durante 3 comidas (0,6 – 1,1
+mmol/l) en comparación con el placebo.
+
+Semaglutida disminuyó la glucemia en ayunas después de la primera dosis.
+
+Función de las células beta y secreción de insulina
+Semaglutida, en comparación con el placebo, mejoró la primera y la segunda fase de
+la respuesta a insulina, con un aumento de 3 y 2 veces, respectivamente, luego de
+la  administración  de  un  bolo  intravenoso  de  glucosa.  Semaglutida  aumentó  la
+capacidad secretora máxima de las células beta en comparación con el placebo luego
+de una prueba de estimulación con arginina en pacientes con diabetes mellitus tipo
+2. Además, el tratamiento con semaglutida aumentó las concentraciones de insulina
+en ayunas en comparación con el placebo.
+
+Secreción de glucagón
+En  pacientes  con  diabetes  mellitus  tipo  2,  semaglutida  produjo  las  siguientes
+reducciones  relativas  de  glucagón  en  comparación  con  el  placebo:  glucagón  en
+ayunas  (8-21%),  respuesta  posprandial  del  glucagón  (14-15%)  y  concentración
+media de glucagón de 24 horas (12%).
+
+Secreción de insulina y de glucagón dependiente de la glucosa
+Semaglutida redujo las concentraciones elevadas de glucosa en sangre al estimular
+la  secreción  de  insulina  y  disminuir  la  secreción  de  glucagón  de  una  manera
+dependiente  de  glucosa.  Con  semaglutida,  la  tasa  de  secreción  de  insulina  en
+pacientes con diabetes mellitus tipo 2 fue comparable con la de sujetos sanos.
+
+Durante  la  hipoglucemia  inducida,  semaglutida  en  comparación  con  el  placebo  no
+modificó las respuestas contrarreguladoras del aumento de glucagón y no afectó la
+disminución de péptido C en pacientes con diabetes mellitus tipo 2.
+
+Vaciamiento gástrico
+Semaglutida causó un leve retraso en el vaciamiento gástrico posprandial temprano,
+reduciendo de este modo la velocidad con que la glucosa aparece en la circulación
+después de las comidas.
+
+Apetito, ingesta energética y selección de alimentos
+Semaglutida, en comparación con el placebo, disminuyó la ingesta energética de 3
+comidas consecutivas a voluntad en un 18 a 35%. Esto  se  vio respaldado por una
+supresión del apetito inducida por semaglutida tanto en ayunas como en el período
+posprandial, mejoró el control de la ingesta de alimentos, produjo menos antojos y
+una preferencia relativamente menor por alimentos ricos en grasa.
+
+Lípidos en sangre en ayunas y posprandiales
+Semaglutida, en comparación con el placebo, disminuyó los niveles de triglicéridos y
+colesterol VLDL (lipoproteínas de muy baja densidad) en ayunas en un 12% y 21%,
+respectivamente. La respuesta posprandial de triglicéridos y colesterol VLDL luego de
+una comida rica en grasa se redujo en >40%.
+
+Electrofisiología cardíaca (QTc)
+El efecto de semaglutida sobre la repolarización cardíaca se evaluó en un exhaustivo
+estudio  clínico  de  QTc.  Semaglutida  no  prolongó  los  intervalos  QTc  a  dosis
+supraterapéuticas (hasta 1,5 mg en estado estacionario).
+
+Datos de eficacia clínica y seguridad
+La eficacia y seguridad de las dosis de 0,50 mg y 1 mg de Ozempic® administradas
+una  vez  por  semana  se  evaluó  en  seis  estudios aleatorizados  y  controlados  que
+incluyeron 7.215 pacientes con diabetes mellitus tipo 2 (de los cuales 4.107 fueron
+tratados con Ozempic®). El objetivo primario de cinco de estos estudios (SUSTAIN 1-
+5) fue la evaluación de la eficacia glucémica mientras que el objetivo primario de uno
+de los estudios (SUSTAIN 6) fue la evaluación de la seguridad cardiovascular.
+
+Se  realizó  un  estudio  adicional  de  fase  3b  (SUSTAIN  7)  con  1.201  pacientes  para
+comparar  la  eficacia  y  seguridad  de  las  dosis  de 0,50  mg  y  1  mg de  Ozempic®
+administradas una vez por semana con las dosis de 0,75 mg y 1,5 mg de dulaglutida
+administradas una vez por semana, respectivamente. Otro estudio clínico de fase 3b
+(SUSTAIN  9),  incluyó  a  302  pacientes y  su  objetivo  fue  evaluar  la  eficacia  y  la
+seguridad de  semaglutida  añadida  a un  tratamiento  existente  con  un  inhibidor  del
+SGLT2 (con o sin metformina o sulfonilurea) en pacientes con diabetes tipo 2.
+
+El  tratamiento  con  Ozempic® demostró  una  reducción sostenida,  estadísticamente
+superior y clínicamente significativa de la HbA1C (ver Figura 1) y del peso corporal
+por  hasta  2  años  en  comparación con  el  placebo  y  el  tratamiento  control  activo
+(sitagliptina, insulina glargina, exenatida de liberación prolongada y dulaglutida).
+
+Figura 1: Valor de HbA1c (%) – Cambio estimado al final del tratamiento en
+comparación con los  valores  iniciales de SUSTAIN 1-7 + 9 (Ozempic® 0,50
+mg  gris  oscuro,  Ozempic® 1  mg  negro,  comparador blanco  y  placebo  gris
+claro)
+
+La eficacia de Ozempic® no se vio afectada por la edad, el sexo, el origen étnico, el
+IMC al inicio, el peso corporal (kg) al inicio, la duración de la diabetes ni el nivel de
+compromiso de la función renal.
+
+Los  resultados  se  relacionan  con  la  fase  de  tratamiento  en  todos  los  participantes
+aleatorizados  en  cada  caso  (análisis  basados  en  modelos  mixtos  para  mediciones
+repetidas o imputación múltiple).
+
+Se realizó también un estudio de fase 3b de 52 semanas (SUSTAIN 11) para evaluar
+el efecto de semaglutida en comparación con insulina aspártica (administrada en bolo
+con las tres comidas principales), ambas como complemento de la metformina y la
+insulina glargina (100 U/ml) optimizada.
+
+SUSTAIN 1 – Monoterapia
+
+En SUSTAIN 1, un estudio doble ciego, controlado con placebo, de 30 semanas, 388
+pacientes con un control glucémico inadecuado con dieta y ejercicio fueron tratados
+con Ozempic® 0,50 mg u Ozempic® 1 mg una vez por semana o placebo.
+
+Tabla 1 - SUSTAIN 1: Resultados a la semana 30
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto al placebo (IC 95%)
+
+Pacientes (%) que alcanzaron HbA1c <7%
+Diferencia  (odds  ratio) con  respecto  al  placebo  (IC
+95%)
+
+Ozempic®
+0,50 mg
+128
+
+Ozempic®
+1 mg
+130
+
+8,1
+-1,5
+-1,4
+[-1,7; -1,1]a
+74b
+16,9
+[8,4; 33,9]
+
+8,1
+-1,6
+-1,5
+[-1,8; -1,2]a
+72b
+15,7
+[8,0; 30,8]
+
+Placebo
+
+129
+
+8,0
+0,0
+
+-
+
+25
+
+-
+
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto al placebo (IC 95%)
+
+89,8
+-3,7
+-2,7
+[-3,9; -1,6]a
+
+96,9
+-4,5
+-3,6
+[-4,7; -2,4]a
+
+89,1
+-1,0
+
+-
+
+ap<0,0001 (2 colas) para superioridad, ajustado por multiplicidad según las pruebas jerárquicas de HbA1c
+y peso corporal.
+bp<0,0001 para diferencia de tratamiento, no ajustado por multiplicidad.
+
+SUSTAIN  2 - Ozempic® vs. sitagliptina en  combinación  con 1-2 medicamentos
+antidiabéticos orales: metformina y/o tiazolidinedionas
+
+En  SUSTAIN  2,  un  estudio doble  ciego  de  56  semanas,  1.231  pacientes fueron
+tratados con Ozempic® 0,50 mg u Ozempic® 1 mg una vez por semana o sitagliptina
+100  mg  una  vez  al  día,  todos  en  combinación  con  metformina  (94%)  y/o
+tiazolidinedionas (6%).
+
+Tabla 2 - SUSTAIN 2: Resultados a la semana 56
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+Inicial (media)
+Cambio desde el inicio a la semana 56
+
+Diferencia con respecto a sitagliptina (IC 95%)
+
+Pacientes (%) que alcanzaron HbA1c <7%
+Diferencia (odds ratio) con respecto a sitagliptina
+(IC 95%)
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 56
+
+Diferencia con respecto a sitagliptina (IC 95%)
+
+Ozempic®
+0,50 mg
+409
+
+Ozempic®
+1 mg
+409
+
+Sitagliptina
+100 mg
+407
+
+8,0
+-1,3
+-0,8
+[-0,9; -0,6]a
+69b
+4,2
+[3,02; 5,74]
+
+8,0
+-1,6
+-1,1
+[-1,2; -0,9]a
+78b
+7,9
+[5,59; 11,22]
+
+89,9
+-4,3
+-2,3
+[-3,1; -1,6]a
+
+89,2
+-6,1
+-4,2
+[-4,9; -3,5]a
+
+8,2
+-0,5
+
+-
+
+36
+
+-
+
+89,3
+-1,9
+
+-
+
+ap<0,0001 (2 colas) para superioridad, ajustado por multiplicidad según las pruebas jerárquicas de HbA1c
+y peso corporal.
+bp<0,0001 para diferencia de tratamiento, no ajustado por multiplicidad.
+
+SUSTAIN 9 – Ozempic® vs. placebo, ambos añadidos a un tratamiento existente con
+un inhibidor de SGLT2 ± metformina o una sulfonilurea
+
+En un estudio doble ciego, controlado con placebo, de 30 semanas, se aleatorizaron
+302  pacientes  con  diabetes mellitus tipo  2  inadecuadamente  controlados  con  un
+inhibidor de SGLT2, con o sin metformina o sulfonilurea, para recibir Ozempic® 1 mg
+una vez a la semana o placebo.
+
+Tabla 3 - SUSTAIN 9: Resultados a la semana 30
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto a placebo (IC 95%)
+
+Pacientes (%) que alcanzaron HbA1c <7%
+
+Diferencia (odds ratio) con respecto a placebo (IC 95%)
+
+Ozempic®
+1 mg
+151
+
+8,0
+-1,5
+-1,42
+[-1,61; -1,24]a
+78,7
+27,32b
+[12,80; 58,30]
+
+Placebo
+
+151
+
+8,1
+-0,1
+
+-
+
+18,7
+
+-
+
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto a placebo (IC 95%)
+
+89,6
+-4,7
+-3,81
+[-4,70; -2,93]a
+
+93,8
+-0,9
+
+-
+
+a p<0,0001 (2 colas) para superioridad, ajustado para la multiplicidad en función del análisis jerárquico
+del valor de la HbA1c y el peso corporal.
+b p<0,0001 para la diferencia entre tratamientos, sin ajuste por multiplicidad.
+
+SUSTAIN 7 – Ozempic® vs. dulaglutida, ambos en combinación con metformina
+
+En  un  estudio  abierto  de  40  semanas,  1.201  pacientes  tratados  con  metformina
+fueron aleatorizados para recibir Ozempic® 0,50 mg o 1 mg una vez por semana o
+dulaglutida 0,75 mg o 1,5 mg una vez a la semana. El estudio comparó las dosis de
+0,50 mg de semaglutida con 0,75 mg de dulaglutida y 1 mg de semaglutida con 1,5
+mg de dulaglutida.
+
+Tabla 4 - SUSTAIN 7: Resultados a la semana 40
+
+Semaglutida
+0,50 mg
+
+Semaglutida
+1 mg
+
+Dulaglutida
+0,75 mg
+
+Población  con  intención  de  tratar
+(IDT) (N)
+HbA1c (%)
+Inicial (media)
+Cambio desde el inicio a la semana
+40
+Diferencia
+dulaglutida (IC 95%)
+Pacientes  (%)  que  alcanzaron
+HbA1c <7%
+Diferencia
+(odds
+respecto a dulaglutida (IC 95%)
+
+respecto
+
+ratio)
+
+con
+
+con
+
+a
+
+Peso corporal (kg)
+
+Inicial (media)
+Cambio desde el inicio a la semana
+40
+Diferencia
+dulaglutida (IC 95%)
+
+respecto
+
+con
+
+a
+
+301
+
+8,3
+
+-1,5
+
+300
+
+8,2
+
+-1,8
+
+-0,4b
+[-0,6; -0,2]a
+
+-0,4c
+[-0,6; -0,3]a
+
+68
+
+79
+
+2,5
+[1,68; 3,64]
+
+2,0
+[1,28; 3,00]
+
+96,4
+
+-4,6
+
+95,5
+
+-6,5
+
+-2,3b
+[-3,0; -1,5]a
+
+-3,6c
+[-4,3; -2,8]a
+
+299
+
+8,2
+
+-1,1
+
+-
+
+52
+
+-
+
+95,6
+
+-2,3
+
+-
+
+Dulaglutida
+1,5 mg
+
+299
+
+8,2
+
+-1,4
+
+-
+
+67
+
+-
+
+93,4
+
+-3,0
+
+-
+
+a p<0,0001 (2 colas) para superioridad
+b Ozempic® 0,50 mg versus dulaglutida 0,75 mg
+c Ozempic® 1 mg versus dulaglutida 1,5 mg
+
+SUSTAIN  3 – Ozempic® vs. exenatida  de  liberación  prolongada,  ambos  en
+combinación con metformina o metformina con sulfonilurea
+
+En el estudio SUSTAIN 3, un total de 813 pacientes que eran tratados con metformina
+sola  (49%),  metformina  con  sulfonilurea  (45%)  u  otro  medicamento antidiabético
+(6%) recibieron además Ozempic® 1 mg una vez por semana o 2 mg de exenatida
+de liberación  prolongada una  vez  por  semana,  por  56  semanas. El  estudio  no  fue
+doble ciego.
+
+Tabla 5 - SUSTAIN 3: Resultados a la semana 56
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+
+Ozempic®
+1 mg
+
+404
+
+de
+
+Exenatida
+liberación
+prolongada
+2 mg
+405
+
+Inicial (media)
+Cambio desde el inicio a la semana 56
+
+Diferencia con respecto a exenatida (IC 95%)
+
+Pacientes (%) que alcanzaron HbA1c <7%
+Diferencia (odds ratio) con respecto a exenatida ER (IC
+95%)
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 56
+
+Diferencia con respecto a exenatida (IC 95%)
+
+8,4
+-1,5
+-0,6
+[-0,8; -0,4]a
+67b
+3,9
+[2,80; 5,38]
+
+96,2
+-5,6
+-3,8
+[-4,6; -3,0]a
+
+8,3
+-0,9
+
+-
+
+40
+
+-
+
+95,4
+-1,9
+
+-
+
+ap<0,0001 (2 colas) para superioridad, ajustado por multiplicidad según las pruebas jerárquicas de HbA1c
+y peso corporal.
+bp<0,0001 para diferencia de tratamiento, no ajustado por multiplicidad.
+
+SUSTAIN  4 – Ozempic® vs. insulina  glargina,  ambos  en combinación  con  1-2
+medicamentos antidiabéticos orales: metformina o metformina y sulfonilurea
+
+En  el  estudio  SUSTAIN  4, un  total  de  1.089  pacientes que  eran  tratados  con
+metformina  sola (48%)  o  metformina  y  sulfonilurea  (51%)  recibieron  además
+Ozempic® 0,50 mg  una  vez  por  semana,  Ozempic® 1  mg  una  vez  por  semana  o
+insulina glargina una vez al día por 30 semanas. El estudio no fue doble ciego.
+
+Tabla 6 - SUSTAIN 4: Resultados a la semana 30
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+Diferencia con respecto a la insulina glargina
+(IC 95%)
+Pacientes (%) que alcanzaron HbA1c <7%
+Diferencia  (odds  ratio)  con  respecto  a  la
+insulina glargina (IC 95%)
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+Diferencia con respecto a la insulina glargina
+(IC 95%)
+
+Ozempic®
+0,50 mg
+362
+
+8,1
+-1,2
+-0,4
+[-0,5; -0,2]a
+57b
+2,4
+[1,73; 3,28]
+
+93,7
+-3,5
+-4,6
+[-5,3; -4,0]a
+
+Ozempic®
+1 mg
+360
+
+8,2
+-1,6
+-0,8
+[-1,0; -0,7]a
+73b
+5,8
+[4,08; 8,19]
+
+94,0
+-5,2
+-6,34
+[-7,0; -5,7]a
+
+Insulina
+glargina
+360
+
+8,1
+-0,8
+
+-
+
+38
+
+-
+
+92,6
++1,2
+
+-
+
+ap<0,0001 (2 colas) para superioridad, ajustado por multiplicidad según las pruebas jerárquicas de HbA1c
+y peso corporal.
+bp<0,0001 para diferencia de tratamiento, no ajustado por multiplicidad.
+
+SUSTAIN 5 – Ozempic® vs. placebo, ambos en combinación con insulina basal
+
+En el estudio SUSTAIN 5, un total de 397 pacientes con control glucémico inadecuado
+con insulina basal con o sin metformina recibieron además Ozempic® 0,50 mg una
+vez por semana, Ozempic® 1 mg una vez por semana o placebo por 30 semanas. El
+estudio no fue doble ciego.
+
+Tabla 7 - SUSTAIN 5: Resultados a la semana 30
+
+Población con intención de tratar (IDT) (N)
+HbA1c (%)
+Inicial (media)
+
+Ozempic®
+0,50 mg
+132
+
+Ozempic®
+1 mg
+131
+
+8,4
+
+8,3
+
+Placebo
+
+133
+
+8,4
+
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto al placebo (IC 95%)
+
+Pacientes (%) que alcanzaron HbA1c <7%
+Diferencia (odds ratio) con respecto al placebo (IC
+95%)
+Peso corporal (kg)
+Inicial (media)
+Cambio desde el inicio a la semana 30
+
+Diferencia con respecto al placebo (IC 95%)
+
+-1,4
+-1,4
+[-1,6; -1,1]a
+61b
+14,7
+[7,43; 29,02]
+
+-1,8
+-1,8
+[-2,0; -1,5]a
+79b
+34,3
+[16,59; 70,83]
+
+92,7
+-3,7
+-2,3
+[-3,3; -1,3]a
+
+92,5
+-6,4
+-5,1
+[-6,1; -4,0]a
+
+-0,1
+
+-
+
+11
+
+-
+
+89,9
+-1,4
+
+-
+
+ap<0,0001 (2 colas) para superioridad, ajustado por multiplicidad según las pruebas jerárquicas de HbA1c
+y peso corporal.
+bp<0,0001 para diferencia de tratamiento, no ajustado por multiplicidad.
+
+SUSTAIN 11 – Semaglutida vs. insulina aspártica, como suplemento en pacientes con
+control glucémico inadecuado con insulina glargina como insulina basal y metformina.
+
+En un estudio abierto de 52 semanas, 1.748 pacientes cuya diabetes tipo 2 no estaba
+suficientemente controlada después de una fase de preinclusión de 12 semanas con
+insulina glargina y metformina fueron aleatorizados 1:1 para recibir semaglutida una
+vez  por  semana  (0,50 mg  o  1 mg)  o  insulina  aspártica tres  veces  al  día  con  las
+comidas principales. La duración media de la diabetes en la población estudiada fue
+de 13,4 años y el valor medio de HbA1c fue de 8,6%. El valor objetivo de HbA1c estaba
+en el rango de 6,5% a 7,5%.
+
+El tratamiento con semaglutida fue no inferior al tratamiento con insulina aspártica.
+La diferencia media (semaglutida – insulina aspártica) en la reducción de HbA1c [IC
+del 95 %] a la semana 52 fue -0,29 [-0,38, -0,20]. La reducción de HbA1c a la semana
+52  fue  de  -1,5%  para  semaglutida  en  comparación  con  un -1,2%  para  insulina
+aspártica,  lo  que  significa  que  el  efecto  hipoglucemiante  de  semaglutida  fue
+cuantitativamente superior que el de insulina aspártica. El número de episodios de
+hipoglucemia  grave  fue  bajo  en  ambos  grupos  de  tratamiento  y  numéricamente
+inferior con semaglutida (4 episodios) versus insulina aspártica (7 episodios; HR [IC
+del 95 %]: 0,6 [0,2, 2,2]).
+
+El tratamiento con semaglutida redujo el peso corporal medio en 4,1 kg a la semana
+52, mientras que con insulina aspártica aumentó en 2,8 kg (diferencia de tratamiento
+estimada [IC del 95 %] a favor de semaglutida: -6,99 kg [-7,41, -6,57]).
+
+Combinación con monoterapia con sulfonilurea
+En el estudio SUSTAIN 6 (ver Seguridad cardiovascular), se evaluó a la semana 30 a
+un subgrupo que recibió monoterapia con sulfonilurea. Al inicio, había 123 pacientes
+que recibían sulfonilurea como monoterapia. La HbA1c inicial fue de 8,2%; 8,4% y
+8,4%  para  Ozempic® 0,50 mg, Ozempic® 1  mg  y  placebo,  respectivamente.  A la
+semana 30, el cambio en HbA1c fue -1,6%, -1,5% y 0,1% para Ozempic® 0,50 mg,
+Ozempic® 1 mg y placebo, respectivamente.
+
+Combinación con insulina premezcla ± 1-2 ADOs
+En el estudio SUSTAIN 6 (ver Seguridad cardiovascular), se evaluó a la semana 30 a
+un subgrupo que recibió insulina premezcla (con o sin 2 ADOs). Al inicio, había 867
+pacientes que recibían insulina premezcla. La HbA1c inicial fue de 8,8%; 8,9% y 8,9%
+para Ozempic® 0,50 mg, Ozempic® 1 mg y placebo, respectivamente. A la semana
+30, el cambio en HbA1c fue -1,3%, -1,8% y -0,4% para Ozempic® 0,50 mg, Ozempic®
+1 mg y placebo, respectivamente.
+
+Seguridad cardiovascular
+
+SUSTAIN  6  es un  estudio clínico  aleatorizado doble  ciego, donde  se  evaluó  la
+seguridad cardiovascular de semaglutida 0,50 mg y 1 mg una vez por semana contra
+placebo  en  3.297  pacientes  con  diabetes  mellitus  tipo 2. El estudio incluyó  2.735
+(83%) pacientes que tenían enfermedad cardiovascular previa y 562 (17%) pacientes
+con  alto  riesgo de  eventos  cardiovasculares. Tanto  semaglutida como  el  placebo
+fueron administrados de manera adicional al tratamiento antidiabético preexistente.
+El período de observación fue de dos años.
+
+El  criterio  de  valoración  primario fue  el  tiempo  desde  la  aleatorización  hasta  la
+primera  aparición  de  un  evento adverso  cardiovascular  mayor  (MACE).  MACE  se
+definió como  la  ocurrencia  de  uno  de  tres  componentes:  muerte  cardiovascular,
+infarto  de  miocardio  no  fatal  o  accidente  cerebrovascular  no  fatal.  El  criterio  de
+valoración secundario fue el tiempo desde la aleatorización hasta la primera aparición
+de  un  MACE  ampliado.  Este  criterio ampliado  incluyó  revascularización  coronaria  o
+periférica adicional,  angina  inestable  que  requiere  hospitalización  u  hospitalización
+por insuficiencia cardíaca. El estudio fue diseñado como un estudio de no inferioridad.
+El criterio de decisión para la no inferioridad fue el límite superior de 1,8 del intervalo
+de confianza de 95% para la razón de riesgos (HR, del inglés Hazard Ratio) de MACE.
+
+La  cantidad  total  de  eventos  MACE  fue  de  254,  incluyendo  108  (6,6%)  con
+semaglutida y 146 (8,9%) con placebo. Se confirmó la seguridad cardiovascular de
+semaglutida en comparación con el placebo (Figura 2 y 3).
+
+HR: 0,74
+95% IC 0,58: 0,95
+p<0,0001 para no inferioridad
+p=0,017 para superioridad
+
+Número de sujetos en riesgo
+
+Semaglutida
+Placebo
+
+Tiempo desde la aleatorización (semanas)
+
+Ozempic®
+
+Placebo
+
+Figura 2: Gráfico de Kaplan-Meier del tiempo hasta la primera aparición del
+criterio  de  valoración compuesto:  muerte  cardiovascular,  infarto  de
+miocardio no fatal o accidente cerebrovascular no fatal (SUSTAIN 6)
+
+FAS
+Criterio de valoración primario – MACE
+Componentes de MACE
+   Muerte cardiovascular
+   Accidente cerebrovascular no fatal
+   Infarto de miocardio no fatal
+MACE expandido
+Otros componentes en MACE expandido
+   Angina inestable que requiere hospitalización
+   Revascularización
+   Hospitalización por insuficiencia cardíaca
+Otros criterios de valoración
+   Muerte por cualquier causa
+   Muerte no cardiovascular
+
+Razón de Riesgos
+(IC 95%)
+
+0.74 (0.58-0.95)
+
+Ozempic® N (%) Placebo N (%)
+
+1648 (100)
+108 (6.6)
+
+1649 (100)
+146 (8.9)
+
+0.98 (0.65-1.48)
+0.61 (0.38-0.99)
+0.74 (0.51-1.08)
+0.74 (0.62-0.89)
+
+0.82 (0.47-1.44)
+0.65 (0.50-0.86)
+1.11 (0.77-1.61)
+
+1.05 (0.74-1.50)
+1.28 (0.64-2.58)
+
+44 (2.7)
+27 (1.6)
+47 (2.9)
+199 (12.1)
+
+22 (1.3)
+83 (5.0)
+59 (3.6)
+
+62 (3.8)
+18 (1.1)
+
+46 (2.8)
+44 (2.7)
+64 (3.9)
+264 (16.0)
+
+27 (1.6)
+126 (7.6)
+54 (3.3)
+
+60 (3.6)
+14 (0.8)
+
+0.2
+Favorece a Ozempic®
+
+1
+
+5
+
+Favorece a Placebo
+
+FAS: set de análisis completo
+IC: intervalo de confianza
+MACE: evento adverso cardiovascular mayor
+%: proporción en porcentaje de sujetos con un evento
+N: número de sujetos
+
+Figura  3:  Gráfico  de  Forest:  análisis  de  cada  tipo  individual  de  evento
+cardiovascular (SUSTAIN 6)
+
+La diferencia de HbA1c a la semana 104 en comparación al inicio para semaglutida
+0,50 mg fue -1,1% vs. -0,4% para el placebo y -1,4% para semaglutida 1 mg vs.
+0,4% para el placebo.
+
+Propiedades farmacocinéticas
+Absorción
+La  concentración  máxima  se  alcanzó  de  1  a  3  días  después  de la  inyección.  La
+exposición  en  estado  estacionario se  alcanzó  después  de  4 a  5  semanas  de
+administración  una  vez  por  semana.  En  base  a  los  análisis  farmacocinéticos
+poblacionales con datos de pacientes con diabetes mellitus tipo 2, las concentraciones
+medias en estado estacionario tras la administración subcutánea de 0,50 mg y 1 mg
+de semaglutida fueron de aproximadamente 16 nmol/l y 30 nmol/l, respectivamente.
+La  exposición  a  semaglutida  aumentó  de  manera  proporcional  a  la  dosis  para  las
+dosis de 0,50 mg y 1 mg. Se alcanzó una exposición similar con la administración de
+semaglutida  por  vía  subcutánea  en  el  abdomen,  el  muslo  o  la  parte  superior  del
+brazo. La biodisponibilidad absoluta de semaglutida por vía subcutánea fue del 89%.
+
+Distribución
+El volumen de distribución medio de semaglutida tras la administración intravenosa
+en  pacientes  con  diabetes  mellitus  tipo  2  fue  de  aproximadamente  12,5  litros.
+Semaglutida mostró una extensa unión a la albúmina plasmática (>99%).
+
+Metabolismo
+Semaglutida se metaboliza por  clivaje proteolítico de la estructura  peptídica y una
+beta-oxidación  secuencial  de  las  cadenas  laterales de  ácidos  grasos. El  metabolito
+plasmático  más  frecuente  constituyó  menos  del  8%  de  la  exposición  total  y  se
+identificó como semaglutida con un truncamiento de los primeros 13 aminoácidos del
+extremo N-terminal.
+
+Eliminación
+Las vías principales de excreción del material relacionado con semaglutida fueron la
+orina  y  las  heces.  Aproximadamente  el  3%  de  la  dosis  se  excretó  en  la  forma  de
+semaglutida  intacta por  la  orina. El  clearance de  semaglutida  en  pacientes  con
+diabetes mellitus tipo 2 fue de aproximadamente 0,05 l/h. Con una vida media de
+eliminación de aproximadamente 1 semana, semaglutida se encontrará presente en
+la circulación por hasta 5 semanas después de la última dosis.
+
+Poblaciones especiales
+La  siguiente  información  con  respecto  a  la  edad,  el  sexo  y  la  etnia  se  basa  en  el
+análisis farmacocinético poblacional de los datos de los estudios de fase 3a.
+
+Pacientes de edad avanzada
+La edad no tuvo ningún efecto sobre las propiedades farmacocinéticas de semaglutida
+en pacientes de 20-86 años.
+
+Sexo y origen étnico
+El  sexo y  el  origen  étnico no  tuvieron ningún  efecto  sobre  las  propiedades
+farmacocinéticas de semaglutida.
+
+Insuficiencia renal
+La insuficiencia renal no tuvo un impacto clínicamente significativo en las propiedades
+farmacocinéticas  de  semaglutida,  a  pesar  de  que la  Cmax disminuyó  y  ocurrió  más
+tardíamente  en  los  pacientes  con  función  renal  con  deterioro  progresivo. Esto  se
+demostró con una dosis única de 0,50 mg de semaglutida en pacientes con diferentes
+grados  de  insuficiencia  renal  (leve,  moderada,  severa o  pacientes  en  diálisis)  en
+comparación  con  sujetos  con  función  renal  normal.  Esto  también  se  demostró  en
+pacientes con diabetes mellitus tipo  2  e  insuficiencia  renal  en  base  a  los  datos  de
+estudios de fase 3a (análisis farmacocinético poblacional).
+
+Insuficiencia hepática
+La  insuficiencia  hepática  no  tuvo  impacto sobre  la  exposición  a  semaglutida.  Las
+propiedades  farmacocinéticas  de  semaglutida  se  evaluaron  en  pacientes  con
+diferentes grados de insuficiencia hepática (leve, moderada, severa) en comparación
+con sujetos con función hepática normal en un estudio con una dosis única de 0,50
+mg de semaglutida.
+
+Niños y adolescentes
+No se ha estudiado semaglutida en niños y adolescentes.
+
+Datos preclínicos de seguridad
+Los datos preclínicos no revelan riesgos especiales para los seres humanos en base
+a  los  estudios  convencionales  de  farmacología  de  seguridad,  toxicidad  a  dosis
+repetidas o genotoxicidad.
+
+Carcinogenicidad
+Los tumores de células C tiroideas no letales observados en roedores son un efecto
+de clase para agonistas del receptor de GLP-1. En estudios de carcinogenicidad de 2
+años en ratas y ratones, se produjeron tumores de células C tiroideas a exposiciones
+clínicamente relevantes.  Los tumores de células C en roedores son causados por un
+mecanismo  específico  no  genotóxico  mediado  por  el  receptor  de  GLP-1  al  que  los
+roedores son especialmente sensibles. La relevancia en humanos es probablemente
+baja pero no se puede excluir completamente.
+Toxicidad reproductiva
+En  estudios  de  fertilidad  en  ratas,  semaglutida  no  afectó  el  rendimiento  de
+apareamiento o la fertilidad del macho. En las ratas hembra, se observó prolongación
+del ciclo y una pequeña reducción  en los  cuerpos lúteos (ovulaciones)  a dosis que
+fueron asociadas con pérdida del peso corporal materno.
+
+En los estudios de desarrollo embriofetal en ratas, semaglutida causó embriotoxicidad
+por debajo de exposiciones clínicamente relevantes. Semaglutida provocó marcadas
+reducciones  del  peso  corporal  materno  y  reducciones  de la  supervivencia  y  del
+crecimiento embrionario. Se observaron malformaciones mayores del esqueleto y de
+
+las vísceras en fetos, incluyendo efectos sobre los huesos largos, costillas, vértebras,
+rabo,  vasos  sanguíneos  y  ventrículos  cerebrales.  Las  evaluaciones  mecanísticas
+indicaron  que  la  embriotoxicidad  fue  causada  por un  deterioro  del  suministro  de
+nutrientes al embrión a través del saco vitelino de la rata, mediado por el receptor
+de GLP-1. Se considera improbable que este mecanismo mediado por el receptor de
+GLP-1 sea relevante en humanos debido a diferencias en la anatomía y función del
+saco vitelino entre las especies, y debido a la falta de expresión del receptor de GLP-
+1 en el saco vitelino de los primates no humanos.
+
+Se observó un aumento en la pérdida de embarazo y un leve aumento de la incidencia
+de anomalías fetales a exposiciones clínicamente relevantes en estudios de toxicidad
+del desarrollo en conejos y monos cynomolgus.  Los hallazgos se correlacionaron con
+una marcada pérdida de peso corporal materno de hasta el 16%. Se desconoce si
+estos  efectos están relacionados con  la disminución del consumo de  alimentos por
+parte de la madre como un efecto directo de GLP-1.
+
+Se evaluó el crecimiento y desarrollo posnatal en monos cynomolgus. Los lactantes
+fueron levemente más pequeños en el parto, pero se recuperaron durante el período
+de lactancia.
+
+En  ratas  jóvenes,  semaglutida  causó  maduración  sexual  retardada  en  machos  y
+hembras. Estos retardos no tuvieron ningún impacto sobre la fertilidad y la capacidad
+reproductiva  en  ambos  sexos  ni en la  capacidad  de  las  hembras  de mantener  un
+embarazo.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Posología
+Inicio del tratamiento
+La dosis inicial de Ozempic® es de 0,25 mg una vez por semana. Después de cuatro
+semanas de tratamiento, la dosis debe incrementarse a 0,50 mg una vez por semana.
+Después de al menos 4 semanas con una dosis de 0,50 mg una vez por semana, la
+dosis  puede  incrementarse  a  1  mg  una  vez  por  semana  para mejorar aún  más  el
+control glucémico.
+
+Tratamiento combinado
+Cuando  Ozempic® se  agrega  a  un  tratamiento  existente  con  metformina  y/o
+tiazolidinediona o un inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2), las
+dosis  empleadas de  metformina  y/o tiazolidinediona o  inhibidor  de  SGLT2 pueden
+mantenerse sin cambios.
+
+Cuando Ozempic® se agrega a un tratamiento existente con sulfonilurea o insulina,
+se debe considerar una disminución de la dosis de sulfonilurea o insulina para reducir
+el  riesgo  de  hipoglucemia. Aquí  también  debe  tenerse  en  cuenta  que  una  mejora
+demasiado  rápida  en  el  control  glucémico puede  llevar  a  un  empeoramiento
+temporario  de  la  retinopatía  diabética  (ver  sección  “Advertencias  y  precauciones
+especiales de uso”).
+
+Poblaciones especiales
+Pacientes de edad avanzada ( 65 años de edad)
+No se requiere ajuste de dosis en los pacientes de edad avanzada.
+
+Pacientes con insuficiencia hepática
+No  se  requiere  ajuste  de  dosis  para  pacientes  con  insuficiencia  hepática. La
+experiencia  relativa  al  uso  de  semaglutida  en  pacientes  con  insuficiencia  hepática
+grave es limitada y se debe extremar la precaución al tratar a estos pacientes con
+semaglutida.
+
+Pacientes con insuficiencia renal
+No se requiere ajuste de dosis para pacientes con insuficiencia renal.
+
+Niños y adolescentes
+La  seguridad  y  eficacia de  Ozempic® no  se  ha  estudiado  en  niños  y  adolescentes
+menores de 18 años de edad.
+
+Modo de administración
+Ozempic® se administra una vez por semana, en cualquier momento del día, con o
+sin alimentos.
+
+Ozempic® debe  inyectarse  por  vía subcutánea  en  el abdomen,  el  muslo  o  la  parte
+superior del brazo. El lugar de inyección puede modificarse sin necesidad de ajustar
+la dosis.  Ozempic® no debe administrarse por vía intravenosa o intramuscular.
+
+El  día  de  la  administración  semanal  puede  cambiarse  si  fuera  necesario  siempre  y
+cuando el tiempo entre las dos dosis sea de al menos 2 días (>48 horas).
+
+Dosis omitida
+En caso de omitir una dosis, debe administrarse lo antes posible y dentro de los 5
+días posteriores a la dosis omitida. Si transcurren más de 5 días, se debe saltear la
+dosis omitida. La próxima dosis debe administrarse en el día programado.
+
+CONTRAINDICACIONES
+Hipersensibilidad al principio activo  o a cualquiera de los  excipientes listados  en la
+sección “Composición”.
+
+ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE USO
+Ozempic® no  debe  utilizarse  en  pacientes  con  diabetes  mellitus  tipo  1  ni para  el
+tratamiento de la cetoacidosis diabética.
+
+Efectos gastrointestinales
+El uso de agonistas del receptor de GLP-1 puede asociarse con reacciones adversas
+gastrointestinales. Esto debe considerarse al tratar pacientes con insuficiencia renal
+ya que las náuseas, los vómitos y la diarrea pueden causar deshidratación y provocar
+un deterioro de la función renal.
+
+Pancreatitis aguda
+Se han observado casos de pancreatitis aguda con el uso de agonistas del receptor
+de GLP-1. Los pacientes deben recibir información sobre los síntomas característicos
+de  la  pancreatitis  aguda.  Ante  la  sospecha  de  pancreatitis,  debe  interrumpirse  el
+tratamiento con Ozempic®; si la pancreatitis aguda se confirma, el tratamiento con
+Ozempic® no  debe  reanudarse.  Los  pacientes  con  antecedentes  de  pancreatitis no
+fueron  tratados  con  semaglutida  en  los  estudios clínicos.  Estos  pacientes  deben
+tratarse con precaución. Ante la ausencia de otros signos y síntomas de pancreatitis
+aguda,  el  aumento  de  enzimas  pancreáticas aislado no  indica  necesariamente
+pancreatitis aguda.
+
+Hipoglucemia
+Los pacientes tratados con Ozempic® en combinación con una sulfonilurea o insulina
+pueden presentar un riesgo mayor de hipoglucemia. El riesgo de hipoglucemia puede
+disminuir si se reduce la dosis de sulfonilurea o insulina al iniciar el tratamiento con
+Ozempic®.
+
+Riesgo de tumores de células C tiroideas
+
+Los  estudios  preclínicos  con  agonistas del  receptor de  GLP-1  en roedores  sugieren
+que los agonistas del receptor de GLP-1 pueden asociarse con un mayor riesgo de
+hiperplasias  focales  de  las  células  C  tiroideas  y  tumores  de  células  C  (ver  "Datos
+preclínicos de seguridad").
+No  se  sabe  si  existe  una  relación en  humanos  entre  los  agonistas  del  receptor de
+GLP-1  y  los  tumores  de  células  C  tiroideas,  incluyendo el  carcinoma  medular  de
+tiroides (MTC). Los pacientes con MTC o síndrome de neoplasia endócrina múltiple
+tipo  2  (MEN  2)  en  su  historial  médico  no  fueron  tratados  con  semaglutida  en  los
+estudios  clínicos.  Por  lo  tanto,  es  necesaria  una  evaluación  cuidadosa  del  riesgo-
+beneficio antes del tratamiento con Ozempic® en este conjunto específico. El valor
+clínico  de  la  monitorización  rutinaria  del  nivel  de  calcitonina  sérica  no  ha  sido
+establecido.
+
+Retinopatía diabética
+En un extenso estudio de seguridad cardiovascular, se observó un mayor riesgo de
+aparición  de  complicaciones  relacionadas  con  la  retinopatía  diabética  bajo
+tratamiento con semaglutida en comparación con el tratamiento estándar (50 [3,0%]
+versus  29  [1,8%]).  Los  pacientes principalmente  afectados  (>  80%  de  los  casos)
+fueron aquellos que ya presentaban retinopatía diabética al inicio del tratamiento; un
+factor  de  riesgo  adicional  fue  el  uso  concomitante  de  insulina  (ver  sección
+"Reacciones  adversas").  Para  estos  pacientes  de  riesgo,  semaglutida  solo  debe
+usarse  bajo  la  estrecha supervisión  de  un  oftalmólogo. La  rápida  corrección de la
+hiperglucemia crónica puede estar acompañada con un empeoramiento inicial de la
+retinopatía diabética, aunque la mejoría del control glucémico a largo plazo disminuye
+el riesgo de retinopatía diabética. Por lo tanto, se debe considerar una reducción de
+la  dosis  de  insulina  al  inicio  del  tratamiento  con  semaglutida  en  combinación  con
+insulina.
+
+Reacciones (adversas) gastrointestinales
+Luego del inicio de la comercialización, se han recibido reportes de daño renal agudo
+y empeoramiento de la insuficiencia renal crónica en pacientes que fueron tratados
+con  agonistas  del  receptor  de  GLP-1,  siendo  necesaria  la  hemodiálisis  en  algunos
+casos. Algunos de estos eventos fueron reportados en pacientes sin enfermedad renal
+subyacente conocida. La mayoría de los eventos reportados ocurrieron en pacientes
+que ya se encontraban con náuseas, vómitos, diarrea o deshidratación. Cuando se
+inicia el tratamiento con Ozempic® o durante la titulación, en aquellos pacientes que
+reportan  reacciones  adversas  gastrointestinales  graves,  se  debe  monitorear  la
+función renal.
+Contenido de sodio
+Ozempic® contiene menos de 1 mmol de sodio (23 mg) por dosis, por lo tanto, es
+esencialmente “libre de sodio”.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de  Ozempic® sobre la capacidad para conducir y utilizar máquinas es
+nula o insignificante. Debe advertirse a los pacientes que extremen las precauciones
+para  evitar  una  hipoglucemia  mientras  conducen  vehículos  y  operan  máquinas
+cuando  utilizan  Ozempic® en  combinación  con  una  sulfonilurea  o  insulina  (ver
+“Advertencias y precauciones especiales de uso”).
+
+Interacción con otros medicamentos y otras formas de interacción
+Estudios in vitro
+Los  estudios  in  vitro  han  demostrado  un  muy  bajo  potencial  de  semaglutida  para
+inhibir o inducir enzimas del CYP y para inhibir transportadores de fármacos.
+
+Estudios in vivo
+
+El retraso en el vaciamiento gástrico causado por semaglutida puede influir sobre la
+absorción  de  los  medicamentos  orales  administrados  en  forma  concomitante.  El
+potencial  efecto  de semaglutida  sobre  la  absorción  de los medicamentos  orales
+administrados en forma concomitante listados a continuación se investigó en estudios
+con  exposición  a  1  mg  de  semaglutida  en  estado  estacionario.  No  se  observaron
+interacciones  medicamentosas clínicamente relevantes entre  semaglutida  y  los
+medicamentos evaluados. Por lo tanto, no se requieren ajustes de dosis cuando se
+administran concomitantemente con semaglutida.
+
+Anticonceptivos orales
+No se espera que semaglutida disminuya el efecto de los anticonceptivos orales ya
+que semaglutida no altera la exposición total al etinilestradiol y levonorgestrel en un
+grado  clínicamente  relevante  cuando  se  administra  concomitantemente  un
+anticonceptivo oral combinado (0,03 mg de etinilestradiol/0,15 mg de levonorgestrel)
+con semaglutida. La exposición al etinilestradiol no se vio afectada. Se observó un
+aumento del 20% en la exposición a levonorgestrel en estado estacionario. La Cmáx
+no se vio afectada para ninguno de los compuestos.
+
+Atorvastatina
+Semaglutida no modificó la exposición total a la atorvastatina tras la administración
+de  una  dosis  única  de  40  mg  de  atorvastatina.  Con  semaglutida,  la  Cmáx  de
+atorvastatina disminuyó en un 38%. Esta disminución no se consideró    clínicamente
+significativa.
+
+Digoxina
+Semaglutida no  modificó  la  exposición  total ni
+administración de una dosis única de 0,5 mg de digoxina.
+
+la  Cmáx de  la  digoxina  tras  la
+
+Metformina
+Semaglutida no  modificó  la  exposición  total ni
+administración de una dosis de 500 mg dos veces al día durante 3,5 días.
+
+la  Cmáx  de  la  metformina  tras  la
+
+Warfarina
+Semaglutida no modificó la exposición total ni la Cmáx de la R- y S-warfarina tras la
+administración de una dosis única de warfarina (25 mg). No se ha comprobado un
+efecto  clínicamente  relevante  sobre  los  efectos  farmacodinámicos  de  la  warfarina
+medido por la Razón Internacional Normalizada (RIN).
+
+Embarazo, lactancia y fertilidad
+Embarazo
+Los  estudios  realizados  en  animales  han  demostrado  toxicidad  reproductiva  (ver
+“Datos  preclínicos  de  seguridad”).  Existen  datos  limitados  sobre el  uso  de
+semaglutida  en  mujeres  embarazadas.  Por  lo  tanto,  semaglutida  no  debe  usarse
+durante el embarazo. Se recomienda que las mujeres en edad fértil usen un método
+anticonceptivo  durante  el  tratamiento con  semaglutida.  Se  debe  interrumpir  el
+tratamiento  con semaglutida  si  la  paciente  desea  quedar  embarazada,  o  si  queda
+embarazada.  Semaglutida  se  debe  interrumpir al  menos  2  meses  antes  de  un
+embarazo  planeado  debido  a  la  vida  media prolongada (ver  “Propiedades
+farmacocinéticas”).
+
+Lactancia
+En ratas en período de lactancia, semaglutida se excretó en la leche.  Debido a que
+no se puede excluir el riesgo para un lactante, semaglutida no se debe usar durante
+el período de lactancia.
+
+Fertilidad
+
+Se desconoce el efecto de semaglutida sobre la fertilidad en humanos. Semaglutida
+no  afectó  la  fertilidad  de  las  ratas  macho.  En  las  ratas  hembra,  se  observó  una
+prolongación  del  ciclo  menstrual  y  una  pequeña  reducción  en  la  cantidad  de
+ovulaciones a dosis que fueron asociadas con la pérdida de peso corporal materno.
+
+REACCIONES ADVERSAS
+Resumen del perfil de seguridad
+En  8 estudios clínicos, 4.792  pacientes  recibieron Ozempic® en  monoterapia o  en
+combinación con otros medicamentos antidiabéticos. La duración del tratamiento fue
+de 30 semanas a 2 años.
+
+Las reacciones adversas informadas con más frecuencia durante los estudios clínicos
+fueron trastornos gastrointestinales que incluyeron náuseas, diarrea  y vómitos. En
+general, estas reacciones fueron de gravedad leve a moderada y de corta duración.
+
+Tabla de reacciones adversas
+La  Tabla  8 enumera  las  reacciones  adversas  informadas  en  estudios clínicos  para
+pacientes con diabetes mellitus tipo 2 en estudios de fase 3 (incluyendo el estudio a
+largo  plazo  con  criterios  de  valoración  cardiovasculares)  y  en  informes  post-
+comercialización  (para  más  información  ver  la  sección “Datos  de  eficacia  clínica  y
+seguridad”). Las frecuencias de las reacciones adversas (excepto las complicaciones
+de la retinopatía diabética; ver nota al pie de la Tabla 8) se basan en una agrupación
+de datos de los estudios clínicos, que excluye los resultados del estudio de eventos
+cardiovasculares.
+
+Las reacciones se enumeran a continuación por clasificación de órganos y sistemas y
+por frecuencia. Las frecuencias se definen como: m
+
+.000  a
+<1/1.000), muy raras (<1/10.000) y frecuencia desconocida (no puede estimarse a
+partir de los datos disponibles).
+
+.000  a  <1/100),  raras
+
+Clasificación
+por órganos
+y sistemas
+de MedDRA
+Trastornos del
+sistema
+inmunológico
+
+Trastornos del
+metabolismo
+y la nutrición
+
+Trastornos del
+sistema
+nervioso
+
+Trastornos
+oculares
+
+Trastornos
+cardíacos
+
+Trastornos
+gastrointesti-
+nales
+
+Náuseas
+Diarrea
+
+Trastornos
+hepatobiliares
+Trastornos de
+la piel y el
+tejido
+subcutáneo
+Trastornos
+generales y
+alteraciones
+en el sitio de
+administración
+
+Investigacio-
+nes comple-
+mentarias
+
+Tabla 8: Frecuencia de reacciones adversas de Ozempic®
+
+Muy
+frecuentes
+
+Frecuentes
+
+Poco
+frecuentes
+
+Raras
+
+Frecuencia
+desconocida
+
+Hipersensibilidad
+
+Reacción
+anafiláctica
+
+Hipoglucemiaa
+cuando se
+usa con
+insulina o
+sulfonilureas
+
+Hipoglucemiaa
+cuando se usa
+con otros
+antidiabéticos
+orales (ADOs)
+
+Disminución del
+apetito
+
+Mareos
+
+Disgeusia
+
+Aumento de la
+frecuencia
+cardíaca
+
+Pancreatitis
+aguda
+
+Reacciones en
+el sitio de
+inyección
+
+Complicaciones
+de la retinopatía
+diabéticab
+
+Vómitos
+Dolor abdominal
+Distensión
+abdominal
+Constipación
+Dispepsia
+Gastritis
+Reflujo
+gastroesofágico
+Eructos
+Flatulencia
+
+Colelitiasis
+
+Fatiga
+
+Aumento de los
+niveles de lipasa
+Aumento de los
+niveles de
+amilasa
+Pérdida de peso
+
+Angioedemac
+
+a Hipoglucemia  definida  como  severa (que  requiere  la  asistencia  de  otra  persona)  o  sintomática  en
+combinación con un nivel de glucosa en sangre <3,1 mmol/l.
+b Las  complicaciones  de  la retinopatía  diabética  incluyen:  necesidad  de  fotocoagulación  retiniana y
+tratamiento  con  agentes  intravítreos,  hemorragia  vítrea,  inicio  de  ceguera  relacionada  con  la  diabetes.
+Frecuencia basada en el estudio de evaluación de resultados cardiovasculares.
+cDe informes post-comercialización
+
+Estudio clínico de 2 años de seguridad y resultados cardiovasculares
+En  una  población  con  riesgo  cardiovascular,  el  perfil  de  reacciones  adversas  fue
+similar al observado en los otros estudios clínicos (descritos en la sección “Datos de
+eficacia clínica y seguridad”).
+
+Descripción de las reacciones adversas seleccionadas
+Trastornos del metabolismo y la nutrición
+Muy frecuente: Hipoglucemia cuando se utiliza con insulina (10,7%) o sulfonilureas
+(10,4%).
+Frecuente: Hipoglucemia cuando se utiliza con otros antidiabéticos orales (ADOs).
+
+No se observaron episodios de hipoglucemia severa cuando se utilizó Ozempic® en
+monoterapia.  Los  episodios  de  hipoglucemia  severa  se  observaron  principalmente
+cuando  Ozempic® se  utilizó  con  una  sulfonilurea  (1,2%  de  los  pacientes,  0,03
+eventos/años-paciente)  o  insulina  (1,5%  de  los  pacientes,  0,02  eventos/años-
+paciente).  Se  observaron  pocos  episodios  (0,1%  de  los  pacientes,  0,001
+eventos/años-paciente)  cuando  Ozempic® se  administró  en  combinación  con
+antidiabéticos orales distintos de las sulfonilureas.
+
+Trastornos oculares
+Frecuente: Complicaciones de la retinopatía diabética
+
+En un estudio clínico de 2 años que incluyó 3.297 pacientes con diabetes mellitus tipo
+2  y  riesgo  cardiovascular elevado,  las  complicaciones  de la  retinopatía  diabética
+fueron un criterio de valoración. En este estudio, los eventos de complicaciones de
+retinopatía  diabética  ocurrieron  con  mayor  frecuencia  en  pacientes  tratados  con
+Ozempic® (3,0%)  en  comparación  con  el  placebo  (1,8%).  Más  del  80%  de  los
+pacientes  con  una  complicación de  retinopatía  diabética  tuvo  un  antecedente
+documentado  de  retinopatía  diabética  antes  del  inicio  del  tratamiento.  En  los
+pacientes  que  no  tenían un  antecedente  documentado  de  retinopatía  diabética,  la
+cantidad de eventos fue similar entre Ozempic® y el placebo.
+
+En los estudios clínicos de hasta 1 año de duración que incluyeron 4.807 pacientes
+con  diabetes  mellitus  tipo  2,  los  eventos  adversos  relacionados  con  retinopatía
+diabética ocurrieron en 1,7% de los pacientes tratados con Ozempic® y en 2,0% de
+los pacientes que recibieron comparadores.
+
+Trastornos gastrointestinales
+Muy frecuentes: Náuseas (19,9%), diarrea (13,3%).
+Frecuentes:  Vómitos,  dolor  abdominal,  distensión  abdominal,  constipación,
+dispepsia, gastritis, enfermedad por reflujo gastroesofágico, eructos, flatulencia.
+
+El 17,0% y el 19,9% de los pacientes experimentaron náuseas, el 12,2% y el 13,3%
+diarrea y el 6,4% y el 8,4% vómitos cuando fueron tratados con Ozempic® 0,50 mg
+y 1 mg, respectivamente. La mayoría de los eventos fueron de leves a moderados en
+gravedad y de corta duración. En el 3,9% y 5% de los pacientes, los eventos dieron
+como resultado la interrupción del tratamiento. Los eventos se informaron con mayor
+frecuencia durante los primeros meses de tratamiento.
+
+Poco frecuente: Pancreatitis aguda
+
+La  frecuencia  de  casos  confirmados de  pancreatitis  aguda  informados  en  estudios
+clínicos de fase 3a fue del 0,3% con semaglutida y del 0,2% con el comparador. En
+el estudio de evaluación de los resultados cardiovasculares de 2 años de duración, la
+frecuencia  de  los  casos  confirmados  de pancreatitis  aguda  fue  del  0,5%  con
+
+semaglutida  y  del  0,6%  con  el  placebo  (ver  sección  “Advertencias  y  precauciones
+especiales de uso”).
+
+Trastornos del sistema inmunológico
+Poco frecuente: Hipersensibilidad
+
+En los estudios clínicos de fase 3a, se notificaron eventos de hipersensibilidad (por
+ejemplo, urticaria, erupciones cutáneas) que el investigador consideró relacionados
+con el tratamiento en el 0,3% de los pacientes que recibieron semaglutida.
+
+Reacciones adversas poscomercialización
+Trastornos renales y del tracto urinario: Daño renal agudo (ver sección “Advertencias
+y precauciones especiales de uso”)
+
+Suspensión del tratamiento debido a una reacción adversa
+La incidencia de suspensión del tratamiento por eventos adversos fue del 8,7% para
+pacientes tratados con 1 mg de Ozempic®. Los eventos adversos más frecuentes que
+llevaron a la suspensión fueron trastornos gastrointestinales.
+
+SOBREDOSIFICACIÓN
+Se  han  informado  en  estudios clínicos  casos  de  sobredosis  de  hasta  4  mg  en  una
+dosis única  y de hasta  4 mg  por semana. El evento adverso informado con mayor
+los  pacientes  se  recuperaron  sin
+frecuencia
+complicaciones.
+
+las  náuseas.  Todos
+
+fueron
+
+No  existe  un  antídoto  específico  para  la  sobredosis  con  Ozempic®.  En  caso  de
+sobredosis,  debe  iniciarse  el  tratamiento  de  soporte  adecuado  según  los  signos  y
+síntomas  clínicos  del  paciente.  Puede  ser  necesario  un  período  prolongado  de
+observación  y  tratamiento  para  estos  síntomas  teniendo  en  cuenta  la  vida  media
+prolongada de Ozempic® de aproximadamente 1 semana (ver sección “Propiedades
+farmacocinéticas”).
+
+Ante la  eventualidad  de una  sobredosificación,  concurrir  al hospital más  cercano o
+comunicarse con un centro de toxicología:
+
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247
+Hospital A. Posadas: (011) 4654-6648/4658-7777
+
+INCOMPATIBILIDADES
+Debido a que no se han realizado estudios de compatibilidad, este medicamento no
+debe mezclarse con otros medicamentos.
+
+PRESENTACIÓN
+La lapicera prellenada de Ozempic® se presenta en dos variantes:
+
+Ozempic® 0,25 mg; 0,50 mg/dosis, solución inyectable en lapicera prellenada
+de 1,5 ml, puede administrar dosis de 0,25 mg o 0,50 mg. Esta lapicera está
+diseñada  para  el  aumento escalonado  de la  dosis  y  para  el  tratamiento  de
+mantenimiento con la dosis de 0,50 mg.
+Envases  conteniendo  1  lapicera  prellenada  con 6  agujas  NovoFine®  Plus
+descartables.
+
+Ozempic® 1 mg/dosis,  solución inyectable en lapicera prellenada de 3,0 ml,
+puede administrar solamente dosis de 1 mg. Esta lapicera se utiliza para el
+tratamiento de mantenimiento con la dosis de 1 mg únicamente.
+Envases  conteniendo  1  lapicera  prellenada  con 4  agujas  NovoFine®  Plus
+descartables.
+
+CONDICIONES DE ALMACENAMIENTO
+Este  medicamento  no  debe  usarse  luego  de  la  fecha que  se  indica  en  el  envase
+después de la palabra "Vence".
+
+Antes del uso: Conservar en heladera (2°C - 8°C). No congelar. Proteger de la luz.
+
+Una  vez  abierto:  Conservar  por  debajo  de  30°C  o  en  heladera  (2°C  –  8°C).   No
+congelar.  Cuando no utilice la lapicera de  Ozempic®, mantenga  el capuchón de la
+lapicera  colocado  para  protegerla  de  la  luz.  Una  vez  abierta,  la  lapicera  puede
+utilizarse por hasta 6 semanas.
+
+Ozempic® debe protegerse del calor y luz excesivos.
+Retirar siempre la aguja inmediatamente después de cada inyección y conservar la
+lapicera de Ozempic® sin una aguja colocada. Esto previene el riesgo de obstrucción
+de  agujas,  contaminación,  infección,  pérdida  de  solución  y  administración  de  una
+dosis inexacta.
+
+PRECAUCIONES ESPECIALES DE DESCARTE Y MANIPULACIÓN
+Se debe indicar al paciente que descarte la aguja después de cada inyección y que
+conserve Ozempic® sin una aguja colocada. Esto previene el riesgo de obstrucción de
+agujas, contaminación, infección, pérdida de solución y administración de una dosis
+inexacta. Las agujas y  otros materiales de descarte deben descartarse de acuerdo
+con las normativas locales.
+
+La lapicera de Ozempic® debe ser utilizada por una sola persona.
+
+Ozempic® no debe utilizarse si la solución no es transparente e incolora.
+
+Ozempic® puede administrarse con agujas de hasta 8 mm de longitud. La lapicera
+está diseñada para utilizarse con las agujas descartables NovoFine® o NovoFine® Plus.
+
+MANTENER FUERA DEL ALCANCE Y LA VISTA DE LOS NIÑOS.
+
+ESPECIALIDAD MEDICINAL AUTORIZADA POR EL MINISTERIO DE SALUD.
+CERTIFICADO N° 59.167
+Disposición N°.........
+
+Importado por:
+Novo Nordisk Pharma Argentina S.A.
+Domingo de Acassuso 3780/90, 1° Piso “A” (Noreste),
+Olivos, Pcia. de Buenos Aires.
+Director Técnico: Aldo A. Chiarelli – Farmacéutico.
+
+Servicio de Atención al Cliente:
+0800-345-NOVO (6686)
+atencioncli@novonordisk.com
+
+Elaborado por:
+
+Novo Nordisk A/S
+Novo Allé, 2880 Bagsvaerd / Brennum Park, 3400 Hillerod,
+Dinamarca.
+
+Acondicionado por:
+Novo Nordisk A/S
+Brennum Park, Hillerod,
+Dinamarca.
+
+Ozempic® y NovoFine® son  marcas  registradas  propiedad  de  Novo  Nordisk  A/S,
+Dinamarca.
+
+©2023
+Novo Nordisk A/S
+
+Nota: en caso de implementarse otros sitios elaboradores o combinaciones, los datos serán
+actualizados en las artes a ser comercializadas de acuerdo a lo autorizado en el certificado del
+producto y disposiciones modificatorias aprobadas por ANMAT, sin solicitud de modificación de
+información en rótulos y prospectos.

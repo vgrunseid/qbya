@@ -1,0 +1,1325 @@
+PROYECTO DE PROSPECTO
+
+LUCAFTOR®
+
+IVACAFTOR 125 mg + LUMACAFTOR 200 mg
+
+Comprimido recubierto
+
+Industria Argentina
+
+Venta bajo receta archivada
+
+COMPOSICIÓN
+
+Cada comprimido recubierto contiene:
+
+Ivacaftor  ............................................................................................................................. 125,000 mg
+
+Lumacaftor  ......................................................................................................................... 200,000 mg
+
+Excipientes:  Hidroxipropilmetilcelulosa  acetato  succinato;  Povidona  K25;  Lauril  sulfato  de  sodio;
+
+Croscaramelosa  sódica;  Celulosa  microcristalina;  Estearato  de  magnesio;  Laca  alumínica  de  rojo
+
+punzo  4R  (CI:16255);  Óxido  de  hierro  negro  (CI:  77499);  Alcohol  polivinílico  1);  Polietilenglicol  1);
+
+Dióxido de Titanio 1); Talco 1); Carboximetilcelulosa sódica 2); Maltodextrina 2); Dextrosa monohidrato
+
+2); Pigmento perlado en base a mica (CI: 77019/CI77891) 2); Lecitina 2) ...c.s.
+
+1) Componentes que corresponden al Opadry II 85F28751 blanco
+
+2) Componentes que corresponden al Opadry FX silver 62W28547
+
+ACCIÓN TERAPÉUTICA
+
+Grupo farmacoterapéutico: R07AX30.
+
+INDICACIONES
+
+LUCAFTOR es una combinación de lumacaftor e ivacaftor indicado para el tratamiento de
+
+la fibrosis quística (FQ) en pacientes de 12 y más años de edad que son homocigotos para
+
+la mutación F508del en el gen CFTR. Si se desconociera el genotipo del paciente, se deberá
+
+emplear una prueba de mutación de FQ aprobada para detectar la presencia de mutación
+
+F508del en ambos alelos del gen CFTR.
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 4 de 75
+
+Las
+
+indicaciones  aprobadas  quedan  supeditadas  a  su  verificación  por  estudios
+
+confirmatorios.
+
+Limitaciones de Uso
+
+No se ha establecido la eficacia y seguridad de LUCAFTOR en pacientes con FQ que no
+
+sean homocigotos para la mutación F508del.
+
+ACCIÓN FARMACOLÓGICA
+
+Mecanismo de Acción
+
+La proteína CFTR es un canal de cloruro que se encuentra presente en la superficie de las
+
+células  epiteliales  de  múltiples  órganos.  La  mutación  F508del  provoca  el  plegamiento
+
+anómalo de la proteína, produciendo un defecto en el procesamiento y circulación celular
+
+que tiene como blanco la proteína para la degradación y, por lo tanto, reduce la cantidad de
+
+CFTR  en  la  superficie  celular.  La  pequeña  cantidad  de  F508del-CFTR  que  llega  a  la
+
+superficie  celular  es  menos  estable  y  con  baja  probabilidad  de  apertura  de  canales
+
+(actividad de apertura defectuosa) en comparación con la CFTR normal.
+
+El  lumacaftor  mejora  la  estabilidad  conformacional  de  F508del-CFTR,  aumentando  el
+
+procesamiento y circulación de la proteína madura hacia la superficie celular. El ivacaftor
+
+es un potenciador de la proteína CFTR que facilita el aumento del transporte de cloruro al
+
+potenciar la probabilidad de apertura (o activación) de canales de la proteína CFTR en la
+
+superficie celular. Tanto el lumacaftor como el ivacaftor actúan in vitro directamente sobre
+
+la proteína CFTR en los cultivos epiteliales de bronquios primarios humanos y otras líneas
+
+celulares que alojan la mutación F508del-CFTR para aumentar la cantidad, estabilidad y
+
+función  del  F508del-CFTR  en  la  superficie  celular,  provocando  un  mayor  transporte  de
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 5 de 75
+
+iones  cloruro.  Las  respuestas  in  vitro  no  se  corresponden  necesariamente  con  una
+
+respuesta farmacodinámica in vivo o un beneficio clínico.
+
+Farmacodinamia
+
+Evaluación del Cloruro Sudoral
+
+No se ha demostrado una correlación directa entre la disminución de los niveles de cloruro
+
+sudoral y la mejoría en la función pulmonar (VEF1).
+
+Electrofisiología Cardíaca
+
+No se han observado diferencias significativas en el intervalo QTc entre diferentes grupos
+
+tratados con múltiples dosis de lumacaftor e ivacaftor.
+
+FARMACOCINÉTICA
+
+La  exposición  (AUC)  al  lumacaftor  es  aproximadamente  2  veces  superior  en  voluntarios
+
+adultos  sanos  en  comparación  con  la  exposición  en  pacientes  con  FQ.  La  exposición  al
+
+ivacaftor es similar entre los voluntarios adultos sanos y los pacientes con FQ. Después de
+
+la administración 2 veces al día, las concentraciones plasmáticas en estado de equilibrio de
+
+lumacaftor  e  ivacaftor  en  los  sujetos  sanos  generalmente  se  alcanzaron  después  de
+
+aproximadamente 7 días de tratamiento, con una tasa de acumulación de aproximadamente
+
+1,9 para lumacaftor. La exposición en estado de equilibrio de ivacaftor es inferior a la del
+
+Día 1 debido a los efectos inductores de la CYP3A del lumacaftor.
+
+Tabla 2: Parámetros Farmacocinéticos Medios (DS) del Lumacaftor e
+Ivacaftor en Estado de Equilibrio en Sujetos con FQ
+
+Fármaco
+
+Cmax
+
+(μg/ml)
+
+t1⁄2* (hs)
+
+AUC0-12hs
+
+(μg∙h/ml)
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 6 de 75
+
+Lumacaftor 400
+mg c/12hs
+
+Ivacaftor 250 mg
+c/12hs
+
+Lumacaftor
+
+25,0
+(7,96)
+
+25,2
+(9,94)
+
+198 (64,8)
+
+Ivacaftor
+
+0,602
+(0,304)
+
+9,34
+(3,81)
+
+3,66 (2,25)
+
+* En base a lumacaftor 200 mg c/12 hs/ivacaftor 250 mg c/12 hs investigado
+en sujetos sanos
+
+Absorción
+
+Cuando se administró una dosis única de lumacaftor/ivacaftor con alimentos que contienen
+
+grasa, la exposición al lumacaftor fue aproximadamente 2 veces superior y la de ivacaftor
+
+aproximadamente  3  veces  superior  a  cuando  se  administró  en  ayunas.  Después  de  la
+
+administración  de  dosis  orales  múltiples  de  lumacaftor  en  combinación  con  ivacaftor,  la
+
+exposición al lumacaftor generalmente aumentó en forma proporcional a la dosis dentro del
+
+rango de 200 mg cada 24 horas a 400 mg cada 12 horas. La mediana (rango) de tmax de
+
+lumacaftor es de aproximadamente 4,0 horas (2,0; 9,0) en estado posprandial.
+
+Después  de  la  administración  de  dosis  orales múltiples  de  ivacaftor  en combinación  con
+
+lumacaftor, la exposición al ivacaftor generalmente aumentó con la dosis de 150 mg cada
+
+12 hs a 250 mg cada 12 hs. La mediana (rango) de tmax de ivacaftor es de aproximadamente
+
+4,0 horas (2,0; 6,0) en estado posprandial.
+
+Distribución
+
+Aproximadamente el 99% del lumacaftor se une a las proteínas plasmáticas, principalmente
+
+a la albúmina. Después de la administración oral de 200 mg cada 24 horas durante 28 días
+
+a pacientes con FQ en estado posprandial, la media (±DS) para los volúmenes aparentes
+
+de distribución fue de 86,0 (69,8) l.
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 7 de 75
+
+Aproximadamente el 99% del ivacaftor se une a las proteínas plasmáticas, principalmente
+
+a la glicoproteína ácida alfa 1 y a la albúmina.
+
+Eliminación
+
+La vida media del lumacaftor es de aproximadamente 26 horas en pacientes con FQ. El
+
+clearance típico aparente, CL/F (CV) del lumacaftor se estimó en 2 38 l/h (29,4%) para los
+
+pacientes con FQ. La vida media del ivacaftor cuando se administra con lumacaftor es de
+
+aproximadamente 9 horas en sujetos sanos. El CL/F (CV) típico del ivacaftor cuando se lo
+
+administra en combinación con lumacaftor se estimó en 25,1 l/h (40,5%) para los pacientes
+
+con FQ.
+
+Metabolismo
+
+El lumacaftor no se metaboliza extensamente en los seres humanos, siendo la mayor parte
+
+del lumacaftor excretado inalterado en las heces. Los datos in vitro e in vivo indican que el
+
+lumacaftor se metaboliza principalmente mediante oxidación y glucuronidación.
+
+El ivacaftor se metaboliza extensamente en los seres humanos. Los datos in vitro e in vivo
+
+indican que el ivacaftor es principalmente metabolizado por la CYP3A. M1 y M6 son los dos
+
+principales metabolitos del ivacaftor en seres humanos.
+
+Excreción
+
+Después de la administración oral de lumacaftor, la mayor parte del lumacaftor (51%) se
+
+excreta sin modificar en las heces. Hubo una mínima eliminación del lumacaftor y de sus
+
+metabolitos en orina (sólo el 8,6% de la radioactividad total se recuperó en la orina, el 0,18%
+
+como fármaco original inalterado).
+
+Después de la administración oral de ivacaftor en monoterapia, la mayor parte del ivacaftor
+
+(87,8%)  se  elimina  en  heces  después  de  su  conversión  metabólica.  Hubo  una  mínima
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 8 de 75
+
+eliminación del ivacaftor y de sus metabolitos en orina (sólo el 6,6% de la radioactividad
+
+total se recuperó en la orina).
+
+Poblaciones Especiales
+
+Edad de la Población Pediátrica
+
+Las  siguientes  conclusiones  sobre  las  exposiciones  entre  los  adultos  y  la  población
+
+pediátrica  se  basan  en  análisis  farmacocinéticos  (PK,  por  sus  siglas  en  inglés)
+
+poblacionales.
+
+Pacientes pediátricos de 12 a menos de 18 años de edad
+
+Después  de  la  administración  oral  de  los  comprimidos  de  LUCAFTOR,  lumacaftor  400
+
+mg/ivacaftor 250 mg cada 12 horas, el AUCss medio de lumacaftor (±DS) fue de 253 (68,6)
+
+μg/ml*h y es similar al AUCss medio en pacientes adultos que recibieron los comprimidos de
+
+LUCAFTOR,  lumacaftor  400  mg/ivacaftor  250  mg  cada  12  horas.  El  AUCss  medio  de
+
+ivacaftor (±DS) fue de 3,84 (1,54) μg/ml*h y es similar al AUCss medio en pacientes adultos
+
+que recibieron los comprimidos de LUCAFTOR, lumacaftor 400 mg/ivacaftor 250 mg cada
+
+12 horas (véase Empleo en Poblaciones Especiales).
+
+Género
+
+Se  evaluó  la  farmacocinética  de  LUCAFTOR  empleando  un  análisis  de  los  datos  PK
+
+poblacionales  derivados  de  los  estudios  clínicos  llevados  a  cabo  con  lumacaftor
+
+administrado  en  combinación  con  ivacaftor.  Los  resultados  no  revelan  diferencias
+
+clínicamente  significativas  en  los  parámetros  farmacocinéticos  del  lumacaftor  e  ivacaftor
+
+entre los varones y las mujeres.
+
+Disfunción Renal
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 9 de 75
+
+No  se  llevaron  a  cabo  estudios  farmacocinéticos  con  LUCAFTOR  en  pacientes  con
+
+disfunción renal (véase Empleo en Poblaciones Especiales).
+
+Disfunción Hepática
+
+Después  de  dosis  múltiples  de  lumacaftor/ivacaftor  durante  10  días,  los  sujetos  con
+
+disfunción hepática moderada (Child-Pugh Clase B, puntaje 7 a 9) exhibieron exposiciones
+
+aproximadamente  50%  superiores  (AUC0-12hs)  y  Cmax  aproximadamente  30%  superiores
+
+para  lumacaftor  e  ivacaftor  en  comparación  con  sujetos  sanos  con  características
+
+demográficas  homólogas.  No  se  llevaron  a  cabo  estudios  farmacocinéticos  en  pacientes
+
+con disfunción hepática leve (Child-Pugh Clase A, puntaje 5 a 6) o severa (Child-Pugh Clase
+
+C, puntaje 10 a 15) tratados con LUCAFTOR (véase Posología y Forma de Administración,
+
+Advertencias y Precauciones, Reacciones Adversas y Empleo en Poblaciones Especiales).
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+Administración en adultos y niños de 12 y más años de edad
+
+Adultos  y  pacientes  pediátricos  de  12  años  y  mayores:  dos  comprimidos  (cada  uno
+
+conteniendo  200  mg  de  lumacaftor/125  mg  de  ivacaftor)  por  vía  oral  cada  12  horas  con
+
+alimentos que contienen grasa. Dosis diaria total de lumacaftor 800 mg y de ivacaftor 500
+
+mg.
+
+Ejemplos  de  alimentos  con  contenido  graso  incluyen  huevos,  palta,  nueces,  manteca,
+
+mantequilla de maní, pizza de muzzarella, productos lácteos de leche entera (tales como
+
+leche entera, queso y yogur), etc. Si un paciente olvidara tomar una dosis y la recordara
+
+dentro de las 6 horas, el paciente deberá tomar dicha dosis con alimentos que contienen
+
+grasa. Si hubieran transcurrido más de 6 horas del horario habitual de la toma, el paciente
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 10 de 75
+
+deberá  saltear  dicha  dosis  y  tomar  la  siguiente  dosis  en  el  horario  habitual.  La  dosis  no
+
+deberá duplicarse para compensar la dosis omitida. (véase Farmacocinética).
+
+Ajuste Posológico para Pacientes con Disfunción Hepática
+
+No  es  necesario  ajustar  la  dosis  en  pacientes  con  disfunción  hepática  leve  (Child-Pugh
+
+Clase  A).  En  pacientes  con  disfunción  hepática  moderada  (Child-Pugh  Clase  B)  se
+
+recomienda reducir la dosis a 2 comprimidos por la mañana y 1 por la noche (dosis diaria
+
+total de lumacaftor 600 mg/ivacaftor 375 mg).
+
+No se llevaron a cabo estudios en pacientes con disfunción hepática severa (Child-Pugh
+
+Clase C), pero se prevé que la exposición sea más alta que en pacientes con disfunción
+
+hepática  moderada.  Por  lo  tanto,  emplear  con  precaución  con  una  dosis  máxima  de  1
+
+comprimido por la mañana y 1 comprimido por la noche (dosis diaria total de lumacaftor 400
+
+mg/ivacaftor 250 mg), o menos, en pacientes con disfunción hepática severa después de
+
+considerar  los  riesgos  y  los  beneficios  del  tratamiento  (véase  Empleo  en  Poblaciones
+
+Especiales, Farmacocinética).
+
+Ajuste Posológico para Pacientes que Reciben Inhibidores de CYP3A
+
+No es necesario ajustar la dosis cuando se inicien inhibidores de CYP3A en pacientes que
+
+ya  estén  tomando  LUCAFTOR.  Sin  embargo,  al  iniciar  tratamiento  con  LUCAFTOR  en
+
+pacientes que estén tomando inhibidores potentes de CYP3A (ej., itraconazol), reducir la
+
+dosis de LUCAFTOR a 1 comprimido diario (dosis diaria total de lumacaftor 200 mg/ivacaftor
+
+125 mg) durante la primera semana de tratamiento. Posteriormente, continuar con la dosis
+
+diaria recomendada.
+
+Si LUCAFTOR se interrumpiera durante más de 1 semana y luego se reanudara durante el
+
+tratamiento con inhibidores potentes de CYP3A, los pacientes deberán reducir la dosis de
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 11 de 75
+
+LUCAFTOR  a  1  comprimido  diario  durante  la  primera  semana  de  reanudación  del
+
+tratamiento. Después de este período, continuar con la dosis diaria recomendada.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad a los componentes de la formulación
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Empleo en Pacientes con Enfermedad Hepática Avanzada
+
+En  algunos  pacientes  con  FQ  se  han  informado  casos  de  agravamiento  de  la  función
+
+hepática, incluida encefalopatía hepática, en pacientes con enfermedad hepática avanzada
+
+durante el tratamiento con LUCAFTOR. Emplear LUCAFTOR con precaución en pacientes
+
+con hepatopatía avanzada y sólo si los beneficios superan los riesgos. Si LUCAFTOR se
+
+emplea en estos pacientes, estos deberán ser estrechamente vigilados después de iniciar
+
+el tratamiento y la dosis deberá reducirse (véase Posología y Forma de Administración y
+
+Reacciones Adversas).
+
+Eventos Relacionados con el Hígado
+
+Se  informaron  reacciones  adversas  serias  relacionadas  con  aminotransferasas  elevadas
+
+en  pacientes  con  FQ  tratados  con  LUCAFTOR. En  algunos  casos,  estas  elevaciones  se
+
+han  visto  asociadas  con  elevaciones  concomitantes  de  la  bilirrubina  sérica  total.
+
+Se han notificado casos de descompensación de la función hepática, incluido fallo hepático
+
+que da lugar a la muerte, en pacientes con fibrosis quística con cirrosis preexistente junto
+
+con hipertensión portal tratados con lumacaftor/ivacaftor.
+
+Se  recomienda  determinar  los  niveles  de  ALT,  AST  y  bilirrubina  antes  de  iniciar  el
+
+tratamiento  con  LUCAFTOR,  cada  3  meses  durante  el  primer  año  de  tratamiento,  y
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 12 de 75
+
+posteriormente  en  forma  anual.  En  los  pacientes  con  antecedentes  de  ALT,  AST  o
+
+bilirrubina elevadas, deberá considerarse un monitoreo más frecuente. Los pacientes que
+
+presenten elevación de la ALT, AST o bilirrubina deberán vigilarse de cerca hasta que los
+
+valores se normalicen.
+
+Interrumpir la administración en pacientes con ALT o AST mayor a 5 veces el límite superior
+
+del  rango  normal  (LSN)  cuando  no  esté  asociado  con  elevación  de  la  bilirrubina.  La
+
+administración  deberá  interrumpirse  en  pacientes  con  elevaciones  de  la  ALT  o  AST  >3
+
+veces  el  LSN  asociado  con  elevación  de  la  bilirrubina  >2  veces  el  LSN.  Después  de  la
+
+normalización,  considerar  los  beneficios  y  riesgos  de  reanudar  la  administración.  (véase
+
+Reacciones Adversas).
+
+Reacciones de Hipersensibilidad, Incluida Anafilaxia
+
+Se  han  informado  reacciones  de  hipersensibilidad,  incluidos  casos  de  angioedema  y
+
+anafilaxia,  posteriores  a  la  comercialización  (véase  Reacciones  Adversas).  Si  se
+
+presentaran  signos  o  síntomas  de  reacciones  de  hipersensibilidad  serias  durante  el
+
+tratamiento,  suspender  LUCAFTOR  e  instituir  el  tratamiento  adecuado.  Considerar  los
+
+beneficios y riesgos para cada paciente antes de decidir si reanudar o no el tratamiento con
+
+LUCAFTOR.
+
+Eventos Respiratorios
+
+Se presentaron eventos respiratorios (por ej., molestias en el pecho, disnea y respiración
+
+anormal) con mayor frecuencia al inicio del tratamiento con LUCAFTOR en comparación
+
+con  los  que  recibieron  placebo.  La  experiencia  clínica  en  pacientes  con  un  porcentaje
+
+previsto  de  VEF1  (ppVEF1)  <40  es  escasa,  y  se  recomienda  intensificar  el  monitoreo  en
+
+estos pacientes durante el inicio del tratamiento (véase Reacciones Adversas).
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 13 de 75
+
+Efecto sobre la presión arterial
+
+Se  ha  observado  incremento  de  la  presión  arterial  en  los  pacientes  tratados  con
+
+LUCAFTOR. La presión arterial debería ser monitoreada periódicamente en los pacientes
+
+que están siendo tratados con Lucaftor.
+
+Cataratas
+
+Se han notificado casos de opacidad del cristalino no congénita en pacientes pediátricos
+
+tratados con ivacaftor, un componente de LUCAFTOR. Si bien en algunos casos había otros
+
+factores de riesgo presentes (tales como empleo de corticoides y exposición a la radiación),
+
+no  se  puede  excluir  un  posible  riesgo  atribuible  al  ivacaftor.  Se  recomiendan  exámenes
+
+oftalmológicos basales y de seguimiento en los pacientes pediátricos que inicien tratamiento
+
+con LUCAFTOR.
+
+INTERACCIONES FARMACOLOGICAS
+
+Probabilidad de que Lumacaftor/Ivacaftor Afecte a Otros Fármacos
+
+Sustratos de CYP3A
+
+El  lumacaftor  es  un  potente  inductor  de  CYP3A.  La  coadministración  de  lumacaftor  con
+
+ivacaftor,  un  sustrato  sensible  de  CYP3A,  disminuyó  la  exposición  al  ivacaftor  en
+
+aproximadamente un 80%. La administración de LUCAFTOR puede disminuir la exposición
+
+sistémica a medicamentos que sean sustratos de CYP3A, lo que puede reducir el efecto
+
+terapéutico del medicamento.
+
+No se recomienda la coadministración de LUCAFTOR con sustratos sensibles de CYP3A o
+
+sustratos de CYP3A con estrecho índice terapéutico (véase Farmacocinética), tales como:
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 14 de 75
+
+(cid:1)  Benzodiazepinas:  midazolam,
+
+triazolam
+
+(considerar  una  alternativa  a  estas
+
+benzodiazepinas).
+
+(cid:1)
+
+Inmunosupresores: ciclosporina, everolimus, sirolimus y tacrolimus (evitar el empleo
+
+de LUCAFTOR.
+
+Sustratos de CYP2B6 y CYP2C
+
+Los estudios in vitro sugieren que el lumacaftor posee la capacidad de inducir la CYP2B6,
+
+CYP2C8, CYP2C9 y CYP2C19: también se observó inhibición de CYP2C8 y CYP2C9 in
+
+vitro. Además, los estudios in vitro sugieren que el ivacaftor puede inhibir la CYP2C9. Por
+
+lo  tanto,  el  empleo  concomitante  de  LUCAFTOR  con  sustratos  de  CYP2B6,  CYP2C8,
+
+CYP2C9 y CYP2C19 puede alterar la exposición a estos sustratos.
+
+Digoxina y Otros Sustratos de gp-P
+
+En base a los resultados in vitro que revelaron inhibición de la gp-P y activación del receptor
+
+X de pregnano (PXR, por sus siglas en inglés), el lumacaftor posee la capacidad tanto de
+
+inhibir como de inducir la gp-P. Además, un estudio clínico con ivacaftor en monoterapia
+
+demostró  que  el  ivacaftor  es  un  inhibidor  débil  de  la  gp-P.  Por  lo  tanto,  el  empleo
+
+concomitante  de  LUCAFTOR  con  sustratos  de  gp-P  puede  alterar  la  exposición  a  estos
+
+sustratos.
+
+Controlar la concentración sérica de digoxina y ajustar la dosis de digoxina para obtener el
+
+efecto clínico deseado.
+
+Antialérgicos y Corticoides Sistémicos
+
+LUCAFTOR puede reducir la exposición a montelukast, lo que puede disminuir su eficacia.
+
+No se recomienda ajustar la dosis de montelukast. Emplear un adecuado monitoreo clínico,
+
+según sea razonable, cuando se coadministre con LUCAFTOR.
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 15 de 75
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  y  eficacia  de  la
+
+prednisona  y  de  la  metilprednisolona.  Podrá  ser  necesario  aumentar  la  dosis  de  estos
+
+corticoides sistémicos para obtener el efecto clínico deseado.
+
+Antibióticos
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  a  la  claritromicina,
+
+eritromicina  y  telitromicina,  lo  que  puede  disminuir  la  eficacia  de  estos  antibióticos.
+
+Considerar antibióticos alternativos, tales como ciprofloxacina, azitromicina y levofloxacina.
+
+Antimicóticos
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  y  eficacia  del
+
+itraconazol,  ketoconazol,  posaconazol  y  voriconazol.  No  se  recomienda  el  empleo
+
+concomitante de LUCAFTOR con estos antimicóticos. Vigilar de cerca a los pacientes para
+
+detectar  cualquier  recurrencia  de  la  infección  micótica  si  tales  medicamentos  fueran
+
+necesarios. Considerar una alternativa, por ej., fluconazol.
+
+Antiinflamatorios
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  y  eficacia  del
+
+ibuprofeno.  Podrá  ser  necesario  aumentar  la  dosis  de  ibuprofeno  para  obtener  el  efecto
+
+clínico deseado.
+
+Antidepresivos
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  y  eficacia  del
+
+citalopram,  escitalopram  y  sertralina.  Podrá  ser  necesario  aumentar  la  dosis  de  estos
+
+antidepresivos para obtener el efecto clínico deseado.
+
+Anticonceptivos Hormonales
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 16 de 75
+
+LUCAFTOR puede reducir la exposición a los anticonceptivos hormonales, reduciendo su
+
+efectividad.  Los  anticonceptivos  hormonales,
+
+incluidos
+
+los  anticonceptivos  orales,
+
+inyectables,  transdérmicos  e  implantables,  no  son  confiables  como  métodos  eficaces  de
+
+anticoncepción cuando se los coadministra con LUCAFTOR.
+
+El  empleo  concomitante  de  LUCAFTOR  con  anticonceptivos  hormonales  aumentó  las
+
+anormalidades menstruales (véase Reacciones Adversas). Evitar el empleo concomitante
+
+a menos que el beneficio supere los riesgos.
+
+Hipoglucemiantes Orales
+
+El  empleo  concomitante  de  LUCAFTOR  puede  reducir  la  exposición  y  eficacia  de  la
+
+repaglinida y puede alterar la exposición a la sulfonilurea. Podrá ser necesario ajustar la
+
+dosis  para  obtener  el  efecto  clínico  deseado.  No  se  recomienda  ajustar  la  dosis  de  la
+
+metformina.
+
+Inhibidores  de  la  Bomba  de  Protones,  Bloqueadores  de  los  Receptores  H2,
+
+Antiácidos
+
+LUCAFTOR  puede  reducir  la  exposición  y  eficacia  de  los  inhibidores  de  la  bomba  de
+
+protones tales como el omeprazol, esomeprazol y lansoprazol, y alterar la exposición a la
+
+ranitidina. Podrá ser necesario ajustar la dosis para obtener el efecto clínico deseado. No
+
+se recomienda ajustar la dosis del antiácido carbonato de calcio.
+
+Warfarina
+
+LUCAFTOR  puede  alterar  la  exposición  a  la  warfarina.  Controlar  el  índice  internacional
+
+normatizado (RIN) cuando sea necesario coadministrar warfarina con LUCAFTOR.
+
+Medicamentos Concomitantes que no Necesitan Ajustes Posológicos
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 17 de 75
+
+No se recomienda ajustar la dosis de LUCAFTOR o del medicamento concomitante cuando
+
+LUCAFTOR  se  administre  con  los  siguientes  medicamentos:  azitromicina,  aztreonam,
+
+budesonida,  ceftazidima,  cetirizina,  ciprofloxacina,  colistimetato,  colistina,  dornasa  alfa,
+
+fluticasona,  ipratropio,  levofloxacina,  pancreatina,  pancrelipasa,  salbutamol,  salmeterol,
+
+sulfametoxazol  y  trimetoprima,  tiotropio  y  tobramicina.  En  base  al  metabolismo  y  vía  de
+
+eliminación, no se prevé que LUCAFTOR altere la exposición a estos fármacos.
+
+Probabilidad de que Otros Fármacos Afecten al Lumacaftor/Ivacaftor
+
+Inhibidores de CYP3A
+
+La coadministración de lumacaftor/ivacaftor con itraconazol, un potente inhibidor de CYP3A,
+
+no afectó la exposición al lumacaftor, pero aumentó la exposición al ivacaftor en 4,3 veces.
+
+Debido al efecto inductor de CYP3A del lumacaftor, en estado de equilibrio dinámico no se
+
+prevé  que  la  exposición  neta  al  ivacaftor  exceda  este  nivel  cuando  se  lo  administre  en
+
+ausencia de lumacaftor en una dosis de 150 mg cada 12 horas (dosis aprobada de ivacaftor
+
+en monoterapia). Por lo tanto, no es necesario ajustar la dosis cuando se inicie tratamiento
+
+con  inhibidores  de  CYP3A  en  pacientes  que  estén  tomando  LUCAFTOR.  Sin  embargo,
+
+cuando  se  inicie  tratamiento  con  LUCAFTOR  en  pacientes  que  estén  tomando  potentes
+
+inhibidores de CYP3A, reducir la dosis de LUCAFTOR a 1 comprimido diario (dosis diaria
+
+total  de  200  mg  de  lumacaftor/125  mg  de  ivacaftor)  durante  la  primera  semana  de
+
+tratamiento para tener en cuenta el efecto inductor en estado de equilibrio del lumacaftor.
+
+Después de este período, continuar con la dosis diaria recomendada (véase Posología y
+
+Forma de Administración).
+
+Ejemplos de inhibidores potentes de CYP3A incluyen:
+
+(cid:1)  ketoconazol, itraconazol, posaconazol y voriconazol
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 18 de 75
+
+(cid:1)
+
+telitromicina, claritromicina
+
+No se recomienda ajustar la dosis cuando se emplee con inhibidores moderados o débiles
+
+de CYP3A.
+
+Inductores de CYP3A
+
+La coadministración de lumacaftor/ivacaftor con rifampicina, un fuerte inductor de CYP3A,
+
+ejerció  efectos  mínimos  sobre  la  exposición  al  lumacaftor,  pero  redujo  la  exposición  al
+
+ivacaftor (AUC, por sus siglas en inglés) en un 57%. Esto puede disminuir la eficacia de
+
+LUCAFTOR. Por lo tanto, no se recomienda su coadministración con inductores potentes
+
+de  CYP3A,  tales  como  la rifampicina, rifabutina, fenobarbital, carbamazepina, fenitoína  y
+
+hierba de San Juan (véase Advertencias y Precauciones y Farmacocinética)
+
+No se recomienda ajustar la dosis cuando se emplee con inductores moderados o débiles
+
+de CYP3A.
+
+Empleo en poblaciones especiales
+
+Embarazo
+
+No se llevaron a cabo estudios adecuados y bien controlados con LUCAFTOR o con sus
+
+componentes individuales, lumacaftor o ivacaftor, en mujeres embarazadas. Se llevaron a
+
+cabo  estudios  de  desarrollo  embriofetal  en  ratas  y  conejas  con  los  componentes
+
+individuales  de  LUCAFTOR,  lumacaftor  e  ivacaftor.  Debido  a  que  los  estudios  de
+
+reproducción  animal  no  siempre  predicen  la  respuesta  humana,  LUCAFTOR  podrá
+
+emplearse durante el embarazo sólo en casos de estricta necesidad.
+
+Lumacaftor
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 19 de 75
+
+El  lumacaflor  no  resultó  teratogénico  en  ratas  con  aproximadamente  8  veces  la  dosis
+
+máxima recomendada para seres humanos (DMRH) (en base al AUC de lumacaftor con
+
+una dosis oral materna de 2000 mg/kg/día). El lumacaftor no resultó teratogénico en conejas
+
+con aproximadamente 5 veces la DMRH (en base al AUC de lumacaftor con una dosis oral
+
+materna de 200 mg/kg/día). Se observó transferencia placentaria del lumacaftor en ratas y
+
+conejas preñadas.
+
+Ivacaftor
+
+El ivacaftor no resultó teratogénico en ratas con aproximadamente 15 veces la DMRH (en
+
+base a la suma de las AUC de ivacaftor y sus metabolitos con una dosis oral materna de
+
+200 mg/kg/día). El ivacaftor no fue teratogénico en conejas con aproximadamente 45 veces
+
+la DMRH (en base al AUC de ivacaftor con una dosis materna oral de 100 mg/kg/día). Se
+
+observó transferencia placentaria del ivacaftor en ratas y conejas preñadas.
+
+Lactancia
+
+Tanto  el  lumacaftor  como  el  ivacaftor  se  excretan  en  la  leche  de  ratas  hembra  que
+
+amamantan. Es probable que el lumacaftor o el ivacaftor se excrete en la leche materna.
+
+No existen estudios en seres humanos que hayan investigado los efectos del lumacaftor e
+
+ivacaftor  en  los  lactantes  amamantados.  Se  debe  decidir  si  es  necesario  interrumpir  la
+
+lactancia o interrumpir el tratamiento con lumacaftor/ivacaftor tras considerar el beneficio
+
+de la lactancia para el niño y el beneficio del tratamiento para la madre.
+
+Empleo en Pediatría
+
+No se ha establecido la seguridad y eficacia de LUCAFTOR en pacientes con FQ menores
+
+a 6 años de edad.
+
+Empleo en Geriatría
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 20 de 75
+
+La FQ es una enfermedad que se presenta principalmente en niños y adultos jóvenes. Los
+
+estudios clínicos llevados a cabo con LUCAFTOR no incluyeron una cantidad suficiente de
+
+pacientes de 65 años o más de edad para determinar si responden en forma diferente a los
+
+pacientes más jóvenes.
+
+Disfunción Hepática
+
+No  es  necesario  ajustar  la  dosis  en  pacientes  con  disfunción  hepática  leve  (Child-Pugh
+
+Clase  A).  En  pacientes  con  disfunción  hepática  moderada  (Child-Pugh  Clase  B)  se
+
+recomienda reducir la dosis a 2 comprimidos por la mañana y 1 por la noche (dosis diaria
+
+total de lumacaftor 600 mg/ivacaftor 375 mg).
+
+No se llevaron a cabo estudios en pacientes con disfunción hepática severa (Child-Pugh
+
+Clase C), pero se prevé que la exposición sea más alta que en pacientes con disfunción
+
+hepática  moderada.  Por  lo  tanto,  emplear  con  precaución  con  una  dosis  máxima  de  1
+
+comprimido por la mañana y 1 comprimido por la noche (dosis diaria total de lumacaftor 400
+
+mg/ivacaftor 250 mg), o menos, en pacientes con disfunción hepática severa después de
+
+considerar los riesgos y los beneficios del tratamiento (véase Advertencias y Precauciones,
+
+Reacciones Adversa y Farmacocinética).
+
+Disfunción Renal
+
+LUCAFTOR no fue investigado en pacientes con disfunción renal leve, moderada o severa
+
+o en pacientes con enfermedad renal terminal. No es necesario ajustar la dosis en pacientes
+
+con disfunción renal leve a moderada. Se recomienda precaución al emplear LUCAFTOR
+
+en  pacientes  con  disfunción  renal  severa  (clearance  de  creatinina  inferior  o  igual  a  30
+
+ml/min) o nefropatía terminal.
+
+Pacientes con Disfunción Pulmonar Severa
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 21 de 75
+
+Los estudios de Fase 3 incluyeron 29 pacientes tratados con LUCAFTOR con ppVEF1 <40
+
+a  nivel  basal.  El  efecto del  tratamiento  en este subgrupo fue  similar  al observado  en  los
+
+pacientes con ppVEF1 ≥40.
+
+Carcinogenicidad, Mutagenicidad, Daño a la Fertilidad
+
+No se llevaron a cabo estudios de carcinogenicidad, mutagenicidad o daño a la fertilidad
+
+con LUCAFTOR; sin embargo, se dispone de estudios con sus componentes individuales,
+
+lumacaftor e ivacaftor, según se describe a continuación.
+
+Lumacaftor
+
+Se llevó a cabo un estudio de 26 semanas de duración en ratones transgénicos Tg.rasH2
+
+para  evaluar  el  potencial  carcinogénico  de  lumacaftor.  No  se  observó  tumorogénesis  en
+
+ratones Tg.rasH2 con dosis orales de hasta 1500 y 2000 mg/kg/día de lumacaftor en ratones
+
+hembra y macho, respectivamente.
+
+El lumacaftor fue negativo para la genotoxicidad en los siguientes ensayos: prueba de Ames
+
+para mutación génica bacteriana, ensayo in vitro de aberraciones cromosómicas en células
+
+de ovario de hámster chino y prueba in vivo de micronúcleos de ratón.
+
+El  lumacaftor  no  afectó  los  índices  de  fertilidad  y  desempeño  reproductivo  en  las  ratas
+
+macho  y  hembra  con  una  dosis  oral  de  1000  mg/kg/día  (aproximadamente  3  y  8  veces,
+
+respectivamente, la DMRH en base al AUC de lumacaftor).
+
+Ivacaftor
+
+Se llevaron a cabo estudios de dos años de duración realizados en ratones y ratas para
+
+evaluar el potencial carcinogénico de ivacaftor. No se observó evidencia de oncogenicidad
+
+en los ratones y ratas tratados con dosis orales de ivacaftor de hasta 200 mg/kg/día y 50
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 22 de 75
+
+mg/kg/día, respectivamente (dosis aproximadamente equivalentes a 3 y 10 veces la DMRH,
+
+según la suma de los valores de las AUC del ivacaftor y sus metabolitos).
+
+El ivacaftor fue negativo para la genotoxicidad en los siguientes ensayos: prueba de Ames
+
+para mutación génica bacteriana, ensayo in vitro de aberraciones cromosómicas en células
+
+de ovario de hámster chino y prueba in vivo de micronúcleos de ratón.
+
+El ivacaftor deterioró los índices de fertilidad y desempeño reproductivo en ratas macho y
+
+hembra al administrar dosis orales de 200 mg/kg/día (aproximadamente 15 veces la DMRH
+
+según la suma de las AUC del ivacaftor y sus metabolitos). Se observaron aumentos del
+
+diestro  prolongado  en  las  hembras  que  recibieron  200  mg/kg/día.  El  ivacaftor  también
+
+aumentó la cantidad de hembras cuyos embriones fueron todos inviables, y disminuyó los
+
+cuerpos lúteos, las implantaciones y los embriones viables en las ratas que recibieron 200
+
+mg/kg/día (dosis aproximadamente 15 veces la DMRH en base a la suma de las AUC del
+
+ivacaftor  y  sus  metabolitos)  al  administrar  las  dosis  a  las  hembras  antes  y  durante  las
+
+primeras etapas de la preñez. Este deterioro de la fertilidad y del desempeño reproductivo
+
+en las ratas macho y hembra tratadas con dosis de 200 mg/kg/día se atribuyó a toxicidad
+
+severa. No se observaron efectos en los índices de fertilidad y desempeño reproductivo de
+
+las hembras y los machos tratados con dosis orales ≤100 mg/kg/día (aproximadamente 8
+
+veces la DMRH según la suma de los valores de AUC del ivacaftor y sus metabolitos).
+
+REACCIONES ADVERSAS
+
+Las siguientes reacciones adversas se describen en mayor detalle en otras secciones del
+
+prospecto:
+
+Empleo  en  Pacientes  con  Enfermedad  Hepática  Avanzada  (véase  Advertencias  y
+
+Precauciones).
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 23 de 75
+
+Eventos Relacionados con el Hígado (véase Advertencias y Precauciones).
+
+Eventos Respiratorios (véase Advertencias y Precauciones).
+
+Las  reacciones  adversas  serias  que  se  han  presentado  con  mayor  frecuencia  en  los
+
+pacientes tratados con lumacaftor/ivacaftor incluyeron neumonía, hemoptisis, tos, creatina-
+
+cinasa sanguínea elevada y elevaciones de las aminotransferasas. Estas se presentaron
+
+en el 1% o menos de los pacientes.
+
+La Tabla 1 exhibe las reacciones adversas que se presentaron en ≥5% de los pacientes
+
+con FQ tratados con lumacaftor/ivacaftor que son homocigotos para la mutación F508del
+
+en el gen CFTR.
+
+Tabla 1: Incidencia de Reacciones Adversas en ≥5% de los Pacientes
+Tratados con lumacaftor/ivacaftor que son Homocigotos para la Mutación
+F508del en el Gen CFTR.
+
+Reacción Adversa (Término
+Preferente)
+
+lumacaftor/ivacaftor N=369 (%)
+
+Disnea
+
+Nasofaringitis
+
+Náuseas
+
+Diarrea
+
+Infección respiratoria alta
+
+Fatiga
+
+Respiración anormal
+
+Creatina-cinasa aumentada en sangre
+
+Erupción cutánea
+
+48 (13)
+
+48 (13)
+
+46 (13)
+
+45 (12)
+
+37 (10)
+
+34 (9)
+
+32 (9)
+
+27 (7)
+
+25 (7)
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 24 de 75
+
+Tabla 1: Incidencia de Reacciones Adversas en ≥5% de los Pacientes
+Tratados con lumacaftor/ivacaftor que son Homocigotos para la Mutación
+F508del en el Gen CFTR.
+
+Reacción Adversa (Término
+Preferente)
+
+lumacaftor/ivacaftor N=369 (%)
+
+Flatulencia
+
+Rinorrea
+
+Gripe
+
+24 (7)
+
+21 (6)
+
+19 (5)
+
+Descripción de Determinadas Reacciones Farmacológicas Adversas
+
+Reacciones Adversas Relacionadas con el Hígado
+
+Tres pacientes que recibieron lumacaftor/ivacaftor presentaron reacciones adversas serias
+
+relacionadas con el hígado, 2 notificadas como elevaciones de las aminotransferasas y 1
+
+como encefalopatía hepática. De estos tres, uno registró aminotransferasas elevadas (>3
+
+veces el LSN) asociadas con una elevación de la bilirrubina >2 veces el LSN. Después de
+
+la suspensión o interrupción de lumacaftor/ivacaftor, las aminotransferasas disminuyeron a
+
+<3 veces el LSN.
+
+Entre  6  pacientes  con  cirrosis  y/o  hipertensión  portal  preexistentes  que  recibieron
+
+lumacaftor/ivacaftor, se observó empeoramiento de la función hepática con elevación de la
+
+ALT, AST, bilirrubina y encefalopatía hepática en un paciente. El evento se presentó dentro
+
+de  los  5  días  del  inicio  de  la  administración  y  se  resolvió  después  de  la  suspensión  de
+
+lumacaftor/ivacaftor (véase Advertencias y Precauciones).
+
+Reacciones Adversas Respiratorias
+
+La  incidencia  de  reacciones  adversas  relacionadas  con  síntomas  respiratorios  (por  ej.,
+
+molestias en el pecho, disnea y respiración anormal) es más alta en los pacientes tratados
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 25 de 75
+
+con lumacaftor/ivacaftor (22%). La incidencia de estas reacciones adversas fue más alta en
+
+los pacientes tratados con lumacaftor/ivacaftor que exhibieron menor VEF1 pretratamiento.
+
+En los pacientes tratados con lumacaftor/ivacaftor, la mayoría de los eventos comenzaron
+
+durante la primera semana de tratamiento (véase Advertencias y Precauciones).
+
+Anormalidades Menstruales
+
+La  incidencia  de  reacciones  adversas  menstruales  combinadas  (por  ej.,  amenorrea,
+
+dismenorrea, menorragia, menstruaciones irregulares) fue más alta en las mujeres tratadas
+
+con lumacaftor/ivacaftor (10%). Estos eventos se presentaron con mayor frecuencia en el
+
+subgrupo  de  pacientes  tratadas  con  lumacaftor/ivacaftor  que  estaban  empleando
+
+anticonceptivos hormonales (27%) versus las que no estaban empleando anticonceptivos
+
+hormonales (3%) (véase Advertencias y Precauciones e Interacciones Farmacológicas).
+
+Experiencia Poscomercialización
+
+Se  identificaron  las  siguientes  reacciones  adversas  durante  el  empleo  de  lumacaftor  /
+
+ivacaftor  posterior  a  su  aprobación.  Debido  a  que  estas  reacciones  son  notificadas
+
+voluntariamente por una población de tamaño incierto, no siempre es posible estimar de
+
+forma  fiable  su  frecuencia  o  establecer  una  relación  causal  con  la  exposición  al
+
+medicamento.
+
+Hepatobiliares: descompensación de la función hepática incluida insuficiencia hepática con
+
+desenlace  fatal  en  pacientes  con  cirrosis  preexistente  con  hipertensión  portal  (véase
+
+Advertencias y Precauciones).
+
+Trastornos del sistema inmunitario: anafilaxia, angioedema.
+
+Notificación de Sospecha de Reacciones Adversas:
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 26 de 75
+
+Es  importante  notificar  la  sospecha  de  reacciones  adversas  al  medicamento  tras  su
+
+autorización.  Ello  permite  una  supervisión  continuada  de  la  relación  beneficio/riesgo  del
+
+medicamento.
+
+Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a
+
+través
+
+del  Sistema  Nacional
+
+de
+
+Farmacovigilancia
+
+al
+
+siguiente
+
+link:
+
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/eventosadversos   y/o  al
+
+Departamento
+
+de
+
+Farmacovigilancia
+
+de  GADOR
+
+S.A.
+
+vía
+
+email
+
+a
+
+farmacovigilancia@gador.com  o telefónicamente al 0800-220-2273.
+
+Siguiendo  pautas  internacionales,  el  producto  LUCAFTOR®  se  encuentra  adherido  a  un
+
+Plan de Gestión de Riesgo (PGR) aprobado por la ANMAT.
+
+PGR:  Conjunto  de  actividades  e  intervenciones  en  Farmacovigilancia  diseñadas  para
+
+identificar, caracterizar, prevenir o minimizar riesgos relacionados a productos medicinales,
+
+y la evaluación de la efectividad de esas intervenciones.
+
+SOBREDOSIFICACION
+
+No se recibieron informes de sobredosis con LUCAFTOR.
+
+La dosis más alta repetida fue de 1000 mg de lumacaftor una vez al día/450 mg de ivacaftor
+
+cada 12 hs administrada a 49 sujetos sanos durante 7 días en un estudio que evaluó el
+
+efecto  de  lumacaftor/ivacaftor  en  los  electrocardiogramas  (ECG).  Los  eventos  adversos
+
+informados con un aumento de la incidencia ≥5% al comparar el período de administración
+
+de lumacaftor 600 mg/ivacaftor 250 mg y el placebo incluyeron: cefalea (29%), elevación
+
+de las aminotransferasas (18%) y erupción generalizada (10%).
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 27 de 75
+
+No  existe  un  antídoto  específico  contra  la  sobredosis  de  LUCAFTOR.  El  tratamiento
+
+consiste en la aplicación de medidas generales de sostén, que incluyen el monitoreo de los
+
+signos vitales y la observación del estado clínico del paciente.
+
+“Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  hospital  más  cercano  o
+
+comunicarse con los Centros de Toxicología:
+
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ: (011) 4962-6666/2247
+
+HOSPITAL ALEJANDRO POSADAS: (011) 4654-6648/4658-7777
+
+Optativamente otros Centros de Intoxicaciones”.
+
+PRESENTACIÓN
+
+Envases conteniendo 28, 56 y 120 comprimidos recubiertos.
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO:
+
+Conservar en su envase original a temperatura ambiente entre 15oC a 30oC.
+
+“Este  medicamento  debe  ser  usado  exclusivamente  bajo  prescripción  y  vigilancia
+
+médica y no puede repetirse sin una nueva receta médica”
+
+"MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS"
+
+Este medicamento está sujeto a seguimiento adicional, lo que agilizará la detección
+
+de nueva información sobre su seguridad.
+
+GADOR S.A.
+
+Darwin 429, C1414CUI, C.A.B.A. Teléfono: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas.
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 28 de 75
+
+Especialidad Medicinal autorizada por el Ministerio de Salud. Certificado No: 58.466
+
+Fecha de última revisión:   /
+
+El presente documento electrónico ha sido firmado digitalmente en los términos de la Ley N° 25.506, el Decreto N° 2628/2002 y el Decreto N° 283/2003.-
+
+Página 29 de 75
+
+República Argentina - Poder Ejecutivo Nacional
+AÑO DE LA DEFENSA DE LA VIDA, LA LIBERTAD Y LA PROPIEDAD
+
+Hoja Adicional de Firmas
+Anexo
+
+Número:
+
+Referencia: Prospecto - EX-2024-46797496- -APN-DGA#ANMAT
+
+El documento fue importado por el sistema GEDO con un total de 26 pagina/s.

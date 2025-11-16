@@ -1,0 +1,918 @@
+MODIALEX®
+ARMODAFINILO
+
+Venta Bajo Receta Archivada - Industria Argentina
+
+COMPRIMIDOS
+
+Fórmula
+Comprimidos x 150 mg
+Cada comprimido contiene: ARMODAFINILO 150,000 mg. Excipientes: celulosa microcristalina 107,812 mg, lactosa 37,500 mg,
+almidón  de  maíz  pregelatinizado  37,500  mg,  povidona  K30  15,000  mg,  croscarmelosa  sódica  22,500  mg,  estearato  de
+magnesio 4,688 mg.
+
+Acción Terapéutica: estimulante del SNC.
+Código ATC: N06BA
+
+Indicaciones: MODIALEX está indicado para mantener la vigilia en pacientes adultos con excesiva somnolencia asociada con
+narcolepsia, apnea obstructiva del sueño (AOS), y trastorno del sueño por turnos de trabajo.
+El caso de la AOS, MODIALEX se indica como un adyuvante al (a los) tratamiento(s) estándar(es) para la obstrucción de base.
+Si  la  presión  positiva  de  las  vías  respiratorias  (CPAP)  es  el  tratamiento  de  elección  para  un  paciente,  se  debe  realizar  un
+esfuerzo máximo por tratarlo con CPAP durante un período antes de iniciar el tratamiento con MODIALEX. Si se usa MODIALEX
+como adyuvante con CPAP, es necesario incentivar y evaluar en forma periódica el cumplimiento de la CPAP.
+En todos los casos, es muy importante prestar atención al diagnóstico y al tratamiento del (de los) trastorno(s) del sueño de
+base. Quienes lo receten deben saber que ciertos pacientes pueden tener más de un trastorno del sueño que contribuya a su
+somnolencia excesiva.
+La eficacia de armodafinilo en el uso a largo plazo (más de 12 semanas) no se ha evaluado en forma sistemática en los estudios
+controlados con placebo. El médico que decida recetar MODIALEX durante un tiempo prolongado en pacientes debe revaluar
+en forma periódica la utilidad a largo plazo para el paciente en particular.
+
+Acción Farmacológica
+Mecanismo de acción y farmacología
+El (los) mecanismo(s) preciso(s) a través del (de los) cual(es) el armodafinilo (enantiómero R) o el modafinilo (mezcla de los
+enantiómeros R y S) promueven el estado de vigilia se desconoce(n). En estudios preclínicos en animales e in vitro, se ha
+demostrado que tanto el armodafinilo como el modafinilo tienen propiedades farmacológicas similares en estudios no clínicos
+animales e in vitro en la medida evaluada.
+En concentraciones relevantes desde el punto de vista farmacológico, el armodafinilo no se une a varios receptores y enzimas
+potencialmente relevantes para la regulación de sueño/vigilia ni los inhibe, incluidos los receptores de la serotonina, dopamina,
+adenosina, galanina, melatonina, melanocortina, orexina 1, orfanina, polipéptido activador de la adenilato ciclasa de la hipófisis
+(pituitary  adenylate  cyclase-activating  peptide,  PACAP)  o  benzodiazepinas,  o  transportadores  de  ácido  γ-aminobutírico
+(gamma-aminobutyric acid, GABA), serotonina, norepinefrina y colina o fosfodiesterasa VI, catecol-o-metiltransferasa (COMT),
+GABA transaminasa y tirosina hidroxilasa. El modafinilo no inhibe la actividad de la monoamino oxidasa B (MAO-B) ni de las
+fosfodiesterasas II-IV.
+El estado de vigilia inducido por el modafinilo puede verse atenuado por el antagonista del receptor adrenérgico α1 prazosina;
+no obstante, el modafinilo se encuentra inactivo en otros sistemas de ensayos in vitro que, según se sabe, responden a los
+agonistas adrenérgicos α, como el preparado de conducto deferente de ratas.
+El armodafinilo no es un agonista de los receptores de dopamina con acción directa ni indirecta. No obstante, in vitro, tanto el
+armodafinilo como el modafinilo se unen al transportador de la dopamina e inhiben la recaptación de la dopamina. Respecto
+del modafinilo, esta actividad se ha asociado in vivo con un aumento en los niveles extracelulares de dopamina en algunas
+regiones  cerebrales  de  los  animales.  En  ratones  modificados  genéticamente  que  carecen  del  transportador  de  dopamina
+(dopamine transporter, DAT), el modafinilo no tuvo una actividad que promoviera el estado de vigilia, lo que sugiere que esta
+actividad dependió del DAT. No obstante, los efectos de promoción del estado de vigilia del modafinilo, a diferencia de los de
+la  anfetamina,  no  se  vieron  antagonizados  por  el  antagonista  del  receptor  de  la  dopamina  haloperidol  en  ratas.  Además,
+alfa-metil-p-tirosina, un inhibidor de la síntesis de dopamina, bloquea la acción de la anfetamina, pero no bloquea la actividad
+locomotora inducida por el modafinilo.
+El armodafinilo y el modafinilo tienen acciones promotoras del estado de vigilia similares a los agentes simpaticomiméticos,
+incluidos la anfetamina y el metilfenidato, aunque su perfil farmacológico no es idéntico al de las aminas simpaticomiméticas.
+Además de sus efectos de promoción de la vigilia y de su capacidad para aumentar la actividad locomotora en animales, el
+modafinilo produce efectos psicoactivos y eufóricos, y alteraciones en el estado de ánimo, en la percepción, en el pensamiento
+y en los sentimientos típicas de otros estimulantes del SNC en seres humanos. El modafinilo tiene propiedades reforzadoras,
+tal como lo demuestra su autoadministración en monos previamente entrenados para autoadministrarse cocaína; el modafinilo
+también se discriminó parcialmente como estimulante.
+Sobre la base de los estudios preclínicos, dos de los principales metabolitos de modafinilo o armodafinilo, ácido y sulfona, no
+parecen contribuir a las propiedades de activación del SNC que tienen los compuestos originales.
+
+Farmacocinética: el componente activo de MODIALEX es el armodafinilo, que es el enantiómero del modafinilo con la vida
+más prolongada. Armodafinilo presenta una cinética lineal, independiente del tiempo, después de la administración de dosis
+únicas y múltiples por vía oral. El aumento en la exposición sistémica es proporcional a lo largo del rango de dosis de 50 a 400
+mg. No se observó ningún cambio dependiente del tiempo en la cinética durante 12 semanas de administración de la dosis.
+Se  alcanzó  el  estado  estacionario  aparente  de  armodafinilo  al  cabo  de  7  días  de  administración  de  la  dosis.  En  el  estado
+estacionario, la exposición sistémica de armodafinilo es 1,8 veces la exposición observada después de una dosis única. Los
+perfiles de concentración-tiempo del enantiómero R puro después de la administración de armodafinilo 50 mg o modafinilo 100
+mg casi pueden superponerse.
+Absorción
+Armodafinilo se absorbe rápidamente después de la administración oral. La biodisponibilidad oral absoluta no se determinó
+debido a la insolubilidad acuosa de armodafinilo, que impidió la administración intravenosa. Las concentraciones plasmáticas
+pico se alcanzan, aproximadamente, 2 h en ayunas. El efecto de los alimentos en la biodisponibilidad general de armodafinilo
+se  considera  mínimo;  no  obstante,  el  tiempo  hasta  alcanzar  la  concentración  pico  (tmáx.)  puede  verse  demorado
+aproximadamente de 2 a 4 h con alimentos. Dado que la demora en el tmáx también está asociada con el aumento de los
+niveles plasmáticos más tarde en el tiempo, potencialmente, los alimentos pueden afectar el inicio y el curso temporal de la
+acción farmacológica del armodafinilo
+Distribución
+Armodafinilo tiene un volumen de distribución aparente de aproximadamente 42 l. No hay datos específicos disponibles acerca
+de  la  unión  a  proteínas  del  armodafinilo.  No  obstante,  el  modafinilo  se  une  moderadamente  a  las  proteínas  plasmáticas
+(alrededor del 60%), principalmente a la albúmina. El potencial de interacciones de armodafinilo con fármacos con una unión
+alta a proteínas se considera mínimo.
+Metabolismo
+Los datos in vitro e in vivo muestran que el armodafinilo sufre una desamidación hidrolítica, una S-oxidación y una hidroxilación
+del anillo aromático, con una posterior conjugación con glucurónido de los productos hidroxilados. La hidrólisis amida es la
+única vía metabólica más prominente, y la formación de sulfona por parte del citocromo P450 (CYP) 3A4/5 es la siguiente en
+importancia. Los demás productos oxidativos se forman demasiado despacio in vitro como para permitir la identificación de
+la(s)  enzima(s)  responsable(s).  Solamente  dos  metabolitos  alcanzan  concentraciones  apreciables  en  plasma  (es  decir,  R
+modafinilo ácido y modafinilo sulfona).
+No  hay  datos  específicos  disponibles  sobre  la  eliminación  de  armodafinilo.  No  obstante,  el  modafinilo  se  elimina,
+principalmente,  a  través  del  metabolismo,  predominantemente  en  el  hígado,  y  menos  del  10%  del  compuesto  original  se
+excreta  en  la  orina.  Se  recuperó  un  total  del  81%  de  la  radioactividad  administrada  11  días  después  de  la  dosis,
+predominantemente en la orina (el 80% en comparación con el 1,0% en las heces).
+Eliminación
+Después  de  su  suministro  oral,  armodafinilo  presenta  una  disminución  monoexponencial  aparente  respecto  de  la
+concentración plasmática máxima. La t1⁄2 terminal aparente es, aproximadamente, de 15 h. El clearance oral de armodafinilo es
+aproximadamente 33 ml/min.
+Interacciones medicamentosas
+La existencia de múltiples vías para el metabolismo del armodafinilo, así como el hecho de que una vía no relacionada con el
+CYP es la que metaboliza el armodafinilo más rápido, sugieren que hay una baja probabilidad de los efectos sustantivos sobre
+el perfil farmacocinético global de armodafinilo debido a la inhibición del CYP por medicamentos concomitantes.
+Los  datos  in  vitro  demostraron  que  el  armodafinilo  presenta  una  respuesta  inductiva  débil  respecto  de  las  actividades  del
+CYP1A2 y, posiblemente, del CYP3A de una forma relacionada con la concentración y que una actividad del CYP2C19 se ve
+inhibida en forma reversible por el armodafinilo. Otras actividades del CYP no parecieron verse afectadas por el armodafinilo.
+Un estudio in vitro demostró que el armodafinilo es un sustrato de la glucoproteína P.
+La administración crónica de armodafinilo 250 mg redujo la exposición sistémica a midazolam en un 32% y en un 17% después
+de las dosis únicas oral (5 mg) e intravenosa (2 mg), respectivamente, lo que sugiere que la administración de armodafinilo
+induce  la  actividad  de  CYP3A  en  forma  moderada.  Es  posible  que  los  fármacos  que  son  sustratos  de  CYP3A4/5,  como  la
+ciclosporina, puedan requerir un ajuste de la dosis. (Ver Precauciones, Interacciones Medicamentosas).
+La administración crónica de armodafinilo 250 mg no afecto la farmacocinética de la cafeína (200 mg), un sustrato de prueba
+de la actividad del CYP1A2.
+La administración concomitante de una única dosis de 400 mg de armodafinilo con omeprazol (40 mg) aumentó la exposición
+sistémica al omeprazol aproximadamente en un 40%, lo que indica que el armodafinilo inhibe en forma moderada la actividad
+de  CYP2C19.  Es  posible  que  los  fármacos  que  son  sustratos  del  CYP2C19  requieran  la  reducción  de  la  dosis.  (Ver
+Precauciones, Interacciones Medicamentosas).
+Efecto  del  sexo:  el  análisis  de  la  farmacocinética  poblacional  no  sugiere  efecto  alguno  del  sexo  en  la  farmacocinética  del
+armodafinilo.
+Poblaciones especiales
+No hay datos específicos disponibles sobre el armodafinilo en las poblaciones especiales.
+Efecto de la edad: se observó una ligera disminución (~20%) en el clearance oral (CL/F) del modafinilo en un estudio de dosis
+única con 200 mg en 12 sujetos con una media de edad de 63 años (rango de 53 a 72 años), pero no se consideró probable
+que el cambio fuera significativo desde el punto de vista clínico. En un estudio de dosis múltiples (300 mg/día) en 12 pacientes
+con  una  media  de  edad  de  82  años  (rango  de  67  a  87  años),  los  niveles  medios  del  modafinilo  en  el  plasma  fueron
+aproximadamente  el  doble  de  aquellos  obtenidos  históricamente  en  sujetos  más  jóvenes  de  características  equivalentes.
+Debido a los potenciales efectos de los múltiples medicamentos concomitantes con los que se estaba tratando a la mayoría de
+los pacientes, es posible que la diferencia aparente en la farmacocinética del modafinilo no pueda atribuirse únicamente a los
+efectos  del  envejecimiento.  No  obstante,  los  resultados  sugieren  que  el  clearance  del  modafinilo  puede  reducirse  en  las
+personas de edad avanzada (Ver Posología y Modo de Administración).
+Efecto de la raza: no se ha estudiado la influencia de la raza en la farmacocinética del modafinilo.
+Deterioro  renal:  en  un  estudio  de  dosis  única  con  modafinilo  200  mg,  la  insuficiencia  renal  crónica  grave  (clearance  de
+creatinina ≤20 ml/min) no influyó significativamente en la farmacocinética del modafinilo, pero la exposición al modafinilo ácido
+aumentó 9 veces (Ver Precauciones).
+Deterioro hepático: se examinaron la farmacocinética y el metabolismo del modafinilo en pacientes con cirrosis hepática (6
+hombres y 3 mujeres). Tres pacientes tuvieron cirrosis en estadio B o B+ y 6 pacientes tuvieron cirrosis en estadio C o C+
+(según los criterios de puntaje de la escala Child-Pugh). Desde el punto de vista clínico, 8 de 9 pacientes tuvieron ictericia y
+todos tenían ascitis. En estos pacientes, el clearance oral del modafinilo disminuyó en alrededor del 60% y la concentración en
+estado estacionario se duplicó en comparación con los pacientes normales. La dosis de MODIALEX debe reducirse en los
+pacientes con deterioro hepático grave (Ver Precauciones y Posología y Modo de Administración).
+
+Posología y Modo de administración
+En adultos mayores de 18 años
+Apnea obstructiva del sueño (AOS) y narcolepsia
+La dosis recomendada de MODIALEX para los pacientes con AOS o narcolepsia es 150 mg o 250 mg administrados como
+dosis única, por la mañana. En pacientes con AOS, las dosis de hasta 250 mg/día, administradas como dosis únicas, han sido
+bien toleradas, pero no hay pruebas concluyentes de que esta dosis confiera beneficios adicionales sumados a los de la dosis
+de 150 mg/día (Ver Farmacología).
+Trastorno del sueño por turnos de trabajo (SWD)
+La dosis recomendada de MODIALEX para pacientes con SWD es 150 mg administrados a diario, aproximadamente 1 h antes
+del inicio del turno de trabajo.
+
+Posologías especiales: otras medicaciones, pacientes añosos, con trastorno renal y/o hepático
+Debe  considerarse  la  posibilidad  de  ajustar  la  dosis  en  función  de  medicamentos  concomitantes  que  son  sustratos  de
+CYP3A4/5, como anticonceptivos esteroides, triazolam y ciclosporinas (Ver Precauciones, Interacciones medicamentosas).
+Es  posible  que  los  fármacos  que,  en  gran  medida,  se  eliminan  a  través  del  metabolismo  del  CYP2C19,  como  diazepam,
+propranolol  y  fenitoína  tengan  una  eliminación  prolongada  ante  la  administración  concomitante  con  MODIALEX  y  que
+requieran  una  reducción  de  la  dosis  y  monitorización  para  detectar  toxicidades  (Ver  Precauciones,  Interacciones
+medicamentosas).
+En pacientes con deterioro hepático grave, MODIALEX debe administrarse en una dosis reducida (Ver Farmacología Clínica y
+Precauciones).
+La  información  existente  no  es  adecuada  para  determinar  la  seguridad  y  la  eficacia  de  la  administración  de  la  dosis  en
+pacientes con deterioro renal grave (Ver Farmacología y Precauciones)
+En pacientes de edad avanzada, la eliminación del armodafinilo y sus metabolitos puede verse reducida como consecuencia
+del envejecimiento. Por ende, se debe considerar la posibilidad de usar dosis más bajas en esta población (Ver Farmacología
+Clínica y Precauciones).
+
+Contraindicaciones:  MODIALEX  está  contraindicado  en  pacientes  con  hipersensibilidad  conocida  al  modafinilo  y  al
+armodafinilo o a sus excipientes.
+
+Advertencias
+Erupción seria, incluido el síndrome de Stevens-Johnson
+Se han informado casos de erupción seria que requiere internación y discontinuación del tratamiento asociada con el uso de
+modafinilo y armodafinilo y en niños, asociada con el uso de modafinilo.
+El armodafinilo no se ha estudiado en pacientes pediátricos en ningún entorno y no está aprobado para el uso en pacientes
+pediátricos para ninguna indicación.
+En estudios clínicos de modafinilo (una mezcla racémica de los enantiómeros S y R), la incidencia de la erupción que dio lugar
+a la discontinuación fue, aproximadamente, del 0,8% (13 de 1585) en pacientes pediátricos (edad: <17 años); estas erupciones
+incluyeron 1 caso de posible Síndrome de Stevens-Johnson (SJS) y 1 caso de aparente hipersensibilidad multiorgánica. Varios
+de los casos se asociaron con fiebre y otras anomalías (p. ej., vómitos, leucopenia). La mediana de tiempo hasta la erupción
+que dio lugar a la discontinuación fue de 13 días. No se observaron casos de esta índole en 380 pacientes pediátricos que
+recibieron placebo. No se informaron erupciones cutáneas serias en estudios clínicos en adultos (0 de 4264) de modafinilo. Se
+informaron casos infrecuentes de erupción  seria  o con  riesgo  de muerte,  incluidos  SJS,  necrólisis tóxica epidérmica (Toxic
+Epidermal Necrolysis, TEN), y erupción por el fármaco con eosinofilia y síntomas sistémicos (Drug Rash with Eosinophilia and
+Systemic Symptoms, DRESS) en adultos y niños en la experiencia mundial posterior a la comercialización en todo el mundo
+con modafinilo. La tasa de informes de TEN y SJS asociada con el uso de modafinilo, que generalmente se acepta como un
+valor subestimado debido a la elaboración de subinformes, supera la tasa de incidencia de base. Los cálculos de la tasa de
+incidencia de base respecto de estas reacciones cutáneas serias en la población en general van de 1 a 2 casos por millón de
+personas-años.
+No se informaron erupciones cutáneas serias en estudios clínicos en adultos de armodafinilo. No obstante, se han informado
+casos de erupción  seria similares a los observados con modafinilo, lo que incluye la aparición de ampollas en la piel y en la
+boca en adultos, en la experiencia posterior a la comercialización.
+No se conocen factores que predigan el riesgo de aparición o la gravedad de las erupciones asociadas con armodafinilo o
+modafinilo. Casi todos los casos de erupciones serias asociadas con estos fármacos se produjeron al cabo de 1 a 5 semanas
+después del inicio del tratamiento. Sin embargo, se han informado casos aislados después de un tratamiento prolongado con
+modafinilo (p. ej., 3 meses). En consecuencia, no se puede confiar en la duración del tratamiento como un medio para predecir
+el riesgo posible anunciado por la primera aparición de una erupción.
+Si  bien  también  se  producen  erupciones  benignas  con  armodafinilo,  no  es  posible  predecir  de  manera  confiable  qué
+erupciones se demostrará que son serias. En consecuencia, el armodafinilo debería discontinuarse de manera ordinaria ante
+el  primer  signo  de  erupción,  a  menos  que  la  erupción  claramente  no  esté  relacionada  con  el  fármaco.  Es  posible  que  la
+discontinuación  del  tratamiento  no  impida  que  una  erupción  pase  a  representar  un  riesgo  para  la  vida  o  provoque  una
+discapacidad o una desfiguración permanentes.
+Angioedema y reacciones anafilactoides
+Se observaron un caso serio de angioedema y un caso de hipersensibilidad (con erupción, disfagia y broncoespasmo) en 1595
+pacientes  tratados  con  armodafinilo.  Se  les  debe  advertir  a  los  pacientes  que  discontinúen  el  tratamiento  e  informen  a  su
+médico de inmediato cualquier signo o síntoma que sugiera angioedema o anafilaxia (p. ej., hinchazón en el rostro, los ojos,
+los labios, la lengua o la laringe; dificultad para deglutir o respirar; ronquera).
+Reacciones de hipersensibilidad multiorgánica
+Las  reacciones  de  hipersensibilidad  multiorgánica,  incluido,  al  menos,  un  caso  mortal  en  la  experiencia  posterior  a  la
+comercialización, se produjeron con una asociación temporal breve (mediana de tiempo hasta la detección de 13 días: rango
+de 4 a 33) respecto de la iniciación del modafinilo. No puede descartarse un riesgo similar de reacciones de hipersensibilidad
+multiorgánica con armodafinilo.
+Si bien ha habido una cantidad limitada de informes, es posible que las reacciones de hipersensibilidad multiorgánica den lugar
+a la internación o causen un riesgo de muerte. No se conocen factores que predigan el riesgo de la aparición de reacciones de
+
+hipersensibilidad  multiorgánica  asociadas  con  el  modafinilo  ni  la  gravedad  de  estas.  Los  signos  y  los  síntomas  de  este
+trastorno fueron diversos;  no obstante, típicamente aunque no exclusivamente, los pacientes presentaron fiebre y erupción
+asociadas  con  el  compromiso  de  otros  sistemas  de  órganos.  Otras  manifestaciones  asociadas  incluyeron  miocarditis,
+hepatitis,  anomalías  en  los  análisis  de  la  función  hepática,  anomalías  hematológicas  (p.  ej.,  eosinofilia,  leucopenia,
+trombocitopenia),  prurito  y  astenia.  Dado  que  la  hipersensibilidad  multiorgánica  es  variable  en  su  expresión,  pueden
+producirse síntomas y signos en otros sistemas de órganos que no se indican en este prospecto.
+Si se sospecha que se ha producido una reacción de hipersensibilidad multiorgánica, se debe discontinuar la administración
+de MODIALEX. Si bien no hay informes de caso que indiquen una sensibilidad cruzada con otros fármacos que producen este
+síndrome, la experiencia con fármacos asociados con la sensibilidad multiorgánica indicaría que esta es una posibilidad.
+Somnolencia persistente
+Se debe advertir a los pacientes con niveles anormales de somnolencia que tomen MODIALEX que es posible que su nivel de
+estado de vigilia no vuelva a la normalidad. Los pacientes con somnolencia excesiva, incluidos los que tomen MODIALEX,
+deben ser frecuentemente revaluados con respecto a su grado de somnolencia y, si corresponde, se les debe advertir que
+eviten conducir o realizar cualquier otra actividad potencialmente peligrosa. Quienes lo receten, también deben saber que es
+posible que los pacientes no reconozcan la somnolencia ni el adormecimiento, hasta que se realicen preguntas directas sobre
+el adormecimiento o la somnolencia durante actividades específicas.
+Síntomas psiquiátricos
+Se han informado experiencias adversas psiquiátricas en pacientes tratados con modafinilo. El modafinilo y el armodafinilo
+están  íntimamente  relacionados.  Por  ende,  se  espera  que  la  incidencia  y  el  tipo  de  síntomas  psiquiátricos  asociados  con
+armodafinilo sean similares a la incidencia y el tipo de estos eventos con modafinilo.
+Los  eventos  adversos  posteriores  a  la  comercialización  asociados  con  el  uso  del  modafinilo  incluyeron  manía,  delirios,
+alucinaciones, ideación suicida y agresión; algunos dieron lugar a la internación. Muchos pacientes, pero no todos, tenían
+antecedentes  psiquiátricos.  Un  voluntario  sano  de  sexo  masculino  desarrolló  ideas  de  referencia,  delirios  paranoides  y
+alucinaciones auditivas asociados con múltiples dosis diarias de 600 mg de modafinilo y privación de sueño. No hubo indicios
+de psicosis 36 h después de la discontinuación del fármaco.
+En la base de datos del estudio controlado de armodafinilo, la ansiedad, la agitación, el nerviosismo y la irritabilidad fueron
+motivos para discontinuar el tratamiento con mayor frecuencia en pacientes que recibieron armodafinilo en comparación con
+placebo (con armodafinilo, el 1,2%; con placebo, 0,3%). En los estudios controlados de armodafinilo, la depresión también fue
+un motivo para discontinuar el tratamiento con mayor frecuencia en pacientes que recibieron armodafinilo en comparación con
+placebo  (con  armodafinilo,  el  0,6%;  con  placebo,  el  0,2%).  Se  observaron  dos  casos  de  ideación  suicida  en  los  estudios
+clínicos. Se debe tener precaución cuando se administre MODIALEX a pacientes con antecedentes de psicosis, depresión o
+manía.  Si  se  desarrollan  síntomas  psiquiátricos  asociados  con  la  administración  de  MODIALEX,  se  debe  considerar  la
+posibilidad de discontinuar con MODIALEX.
+
+Precauciones
+Diagnóstico de los trastornos del sueño
+MODIALEX debe usarse únicamente en pacientes que hayan tenido una evaluación completa de su somnolencia excesiva, y
+a quienes se les haya dado un diagnóstico de narcolepsia, AOS y/o SWD de conformidad con los criterios de diagnóstico de
+ICSD o DSM. Tal evaluación, por lo general, consiste en una anamnesis completa y un examen físico, y puede complementarse
+con  pruebas  en  un  entorno  de  laboratorio.  Es  posible  que  algunos  pacientes  tengan  más  de  un  trastorno  del  sueño  que
+contribuya a su somnolencia excesiva (p. ej., AOS y SWD concomitantes en el mismo paciente).
+Uso de CPAP en pacientes con AOS
+El caso de la AOS, MODIALEX se indica como un adyuvante al (a los) tratamientos estándares para la obstrucción de base. Si
+la presión positiva de las vías respiratorias (CPAP) es el tratamiento de elección para un paciente, se debe realizar un esfuerzo
+máximo por tratarlo con CPAP durante un período antes de iniciar el tratamiento con MODIALEX. Si se usa MODIALEX como
+adyuvante  con  CPAP,  es  necesario  incentivar  y  evaluar  en  forma  periódica  el  cumplimiento  de  la  CPAP.  Hubo  una  ligera
+tendencia hacia una reducción del uso de CPAP durante el tiempo (reducción media de 18 minutos en pacientes tratados con
+armodafinilo y reducción de 6 minutos en pacientes tratados con placebo a partir de un uso basal medio de 6,9 h por noche)
+en los estudios con armodafinilo.
+Generales
+Si bien no se ha demostrado que armodafinilo produzca un deterioro funcional, cualquier fármaco que afecte el SNC puede
+alterar el juicio, el pensamiento o las habilidades motoras. Los pacientes deben tener precaución con respecto a la operación
+de un automóvil u otra maquinaria peligrosa hasta que estén razonablemente seguros de que el tratamiento con MODIALEX
+no afectará negativamente su capacidad de realizar tales actividades.
+Sistema cardiovascular
+Armodafinilo  no  se  ha  evaluado  ni  utilizado  en  la  medida  suficiente en  pacientes  con  antecedentes  recientes  de  infarto  de
+miocardio o angina inestable, y se debe tratar a tales pacientes con precaución.
+En estudios clínicos con armodafinilo se observaron signos y síntomas que incluyeron dolor de pecho, palpitaciones, disnea y
+cambios isquémicos transitorios en las ondas T del ECG en tres sujetos, asociados con el prolapso de la válvula mitral o la
+hipertrofia ventricular izquierda. Se recomienda que los comprimidos de MODIALEX no se usen en pacientes con antecedentes
+de hipertrofia ventricular izquierda ni en pacientes con prolapso de la válvula mitral que hayan experimentado el síndrome de
+prolapso de la válvula mitral al recibir estimulantes del SNC con anterioridad. Los signos del síndrome de prolapso de la válvula
+mitral  incluyen,  a  modo  de  ejemplo,  cambios  isquémicos  en  el  ECG,  dolor  de  pecho  o  arritmia.  Si  se  produce  una  nueva
+aparición de cualquiera de estos síntomas, se debe considerar la posibilidad de realizar una evaluación cardíaca.
+En  estudios  controlados  a  corto  plazo  (≤3  meses)  con  monitorización  de  la  presión  arterial,  se  observaron  únicamente
+pequeños  aumentos  en  promedio  en  la  media  de  la  presión  arterial  sistólica  y  diastólica  en  pacientes  que  recibieron
+armodafinilo en comparación con placebo  (de 1,2 a 4,3 mmHg en  los diversos grupos  experimentales). También hubo una
+proporción  ligeramente  superior  de  pacientes  que  recibían  armodafinilo  y  que  requirieron  un  uso  nuevo  o  mayor  de
+medicamentos  antihipertensivos  (2,9%)  en  comparación  con  pacientes  que  recibían  placebo  (1,8%).  Es  posible  que  sea
+adecuado aumentar la monitorización de la presión arterial en los pacientes que reciban MODIALEX.
+Pacientes que usan anticonceptivos esteroides
+Es posible que la eficacia de los anticonceptivos esteroides se vea reducida cuando se los usa con MODIALEX y durante un
+mes después de la discontinuación del tratamiento (Ver Precauciones, Interacciones medicamentosas). Se recomienda usar
+métodos anticonceptivos alternativos o concomitantes en pacientes tratadas con MODIALEX y durante un mes después de la
+discontinuación del tratamiento con MODIALEX.
+Pacientes que usan ciclosporinas
+Es posible que los niveles de ciclosporinas en la sangre se reduzcan cuando se las usa con MODIALEX (Ver Precauciones,
+Interacciones  medicamentosas).  Debe  considerarse  la  posibilidad  de  monitorizar  las  concentraciones  de  ciclosporinas
+circulantes y de ajustar la dosis adecuada de ciclosporinas cuando se usen estos fármacos en forma concomitante.
+Pacientes con deterioro hepático grave
+En los pacientes con deterioro hepático grave, con o sin cirrosis (Ver Farmacología Clínica), MODIALEX debe administrarse en
+una dosis reducida (Ver Posología y Modo de Administración).
+Pacientes con deterioro renal grave
+Hay  información  inadecuada  para  determinar  la  seguridad  y  la  eficacia  de  la  administración  de  la  dosis  en  pacientes  con
+deterioro renal grave. (Para obtener información de la farmacocinética en el deterioro renal, ver Farmacología Clínica).
+Pacientes de edad avanzada
+En pacientes de edad avanzada, la eliminación del armodafinilo y sus metabolitos puede verse reducida como consecuencia
+del envejecimiento. Por ende, se debe considerar la posibilidad de usar dosis más bajas en esta población (Ver Farmacología
+Clínica y Posología y Modo de Administración)
+Medicamentos concomitantes
+Se les debe advertir a los pacientes que le informen a su médico si están tomando cualquier medicamento de venta con receta
+o de venta libre, o si planean hacerlo, debido a las posibles interacciones entre MODIALEX y otros fármacos.
+Alcohol
+Se les debe advertir a los pacientes que no se ha estudiado el uso de MODIALEX en combinación con el alcohol. Se les debe
+advertir a los pacientes que es prudente evitar el alcohol mientras tomen MODIALEX.
+Reacciones alérgicas
+Se les debe advertir a los pacientes que dejen de tomar MODIALEX y que le notifiquen a su médico si desarrollan una erupción,
+urticaria, llagas en la boca, ampollas, descamación de la piel, hinchazón en la lengua o un fenómeno alérgico respiratorio o
+relacionado.
+Interacciones medicamentosas
+Posibles interacciones con fármacos que inhiben, inducen o son metabolizados por las isoenzimas del citocromo P450 y otras
+enzimas hepáticas
+Debido  al  compromiso  parcial  de  las  enzimas  del  CYP3A  en  la  eliminación  metabólica  del  armodafinilo,  la  administración
+concomitante  de  inductores  potentes  del  CYP3A4/5  (p.  ej.,  carbamazepina,  fenobarbital,  rifampina)  o  de  inhibidores  del
+CYP3A4/5 (p. ej., ketoconazol, eritromicina) podría alterar los niveles plasmáticos de armodafinilo.
+Potencial de armodafinilo para alterar el metabolismo de otros fármacos mediante inducción o inhibición enzimática
+Fármacos metabolizados por el CYP1A2
+Los  datos  in  vitro  demostraron  que  el  armodafinilo  presenta  una  respuesta  inductiva  débil  respecto  de  las  actividades  del
+CYP1A2  y,  posiblemente,  del  CYP3A  de  una  forma  relacionada  con  la  concentración  y  demostraron  que  la  actividad  del
+CYP2C19 se ve inhibida en forma reversible por el armodafinilo. No obstante, desde el punto de vista clínico, no se observó el
+efecto  de  la  actividad  del  CYP1A2  en  un  estudio  de  interacción  realizado  con  cafeína  (Ver  Farmacocinética,  Interacciones
+medicamentosas).
+Fármacos metabolizados por el CYP3A4/5 (p. ej., ciclosporina, etinilestradiol, midazolam y triazolam)
+La administración crónica de armodafinilo dio lugar a la inducción moderada de la actividad del CYP3A. Por ende, la eficacia
+de los fármacos que son sustratos de enzimas del CYP3A (p. ej., ciclosporina, etinilestradiol, anticonceptivos orales midazolam
+y  triazolam)  puede  verse  reducida  después  del  inicio  del  tratamiento  concomitante  con  armodafinilo.  Se  observó  una
+reducción  del  32%  en  la  exposición  sistémica  del  midazolam  oral  con  la  administración  concomitante  de  armodafinilo  con
+midazolam.  Es  posible  que  se  requiera  un  ajuste  de  la  dosis  (Ver  Farmacocinética,  Interacciones  medicamentosas).  Tales
+efectos  (concentraciones  reducidas)  también  se  observaron  ante  la  administración  concomitante  de  modafinilo  con
+ciclosporina, etinilestradiol, anticoncetivos orales y triazolam.
+Fármacos metabolizados por el CYP2C19 (p. ej., omeprazol, diazepam, fenitoína y propranolol)
+La administración de armodafinilo dio lugar a la inhibición moderada de la actividad del CYP2C19. Por ende, es posible que se
+requiera  una  reducción  de  la  dosis  con  ciertos  fármacos  que  son  sustratos  del  CYP2C19  (p.  ej.,  fenitoína,  diazepam  y
+propranolol, omeprazol y clomipramina) cuando se los use en forma concomitante con armodafinilo. Se observó un aumento
+del  40%  en  la  exposición  ante  la  administración  concomitante  de  armodafinilo  con  omeprazol.  (Ver  Farmacocinética,
+Interacciones medicamentosas).
+Interacciones con fármacos activos en el SNC
+No hay datos específicos disponibles respecto del potencial de interacciones medicamentosas de armodafinilo con fármacos
+activos en el SNC. No obstante, la siguiente información disponible sobre interacciones medicamentosas del modafinilo debe
+aplicarse al armodafinilo (Ver Farmacología Clínica).
+La administración concomitante de modafinilo con metilfenidato o dextroanfetaminas no produjo alteraciones significativas en
+el  perfil  farmacocinético  del  modafinilo  ni  de  ningún  estimulante,  aunque  la  absorción  del  modafinilo  fue  retardada,
+aproximadamente, una hora.
+El modafinilo o la clomipramina concomitantes no alteraron el perfil farmacocinético de ninguno de los fármacos; sin embargo,
+se informó un incidente de aumento de los niveles de clomipramina y de su metabolito activo, desmetilclomipramina en un
+paciente con narcolepsia durante el tratamiento con modafinilo.
+No  hay  datos  específicos  disponibles  sobre  el  potencial  para  tener  interacciones  medicamentosas  del  armodafinilo  o  del
+modafinilo con inhibidores de la monoamina oxidasa (MAO). Por lo tanto, se debe tener precaución al administrar inhibidores
+de la MAO y armodafinilo en forma concomitante.
+Interacciones con otros fármacos
+No hay datos específicos disponibles sobre el potencial para tener interacciones medicamentosas del armodafinilo respecto de
+otros  fármacos  adicionales.  No  obstante,  la  siguiente  información  disponible  sobre  interacciones  medicamentosas  del
+modafinilo debe aplicarse al armodafinilo.
+Warfarina:  la  administración  concomitante  de  modafinilo  con  warfarina  no  produjo  cambios  significativos  en  los  perfiles
+farmacocinéticos de la warfarina R y S. Sin embargo, dado que únicamente se evaluó una dosis única de warfarina en este
+estudio,  no  puede  descartarse  una  interacción  farmacodinámica.  Por  ende,  se  debe  considerar  la  posibilidad  de  una
+monitorización  más  frecuente  de  los  tiempos  de  protrombina/del  índice  internacional  normalizado  (IIN)  siempre  que
+armodafinilo se administre de manera concomitante con la warfarina.
+Carcinogénesis, mutagénesis y fertilidad
+Carcinogénesis
+No se han llevado a cabo estudios de carcinogénesis con armodafinilo solo. Se llevaron a cabo estudios de carcinogénesis en
+los que se administró el modafinilo en la dieta a ratones durante 78 semanas y a ratas durante 104 semanas, en dosis de 6, 30
+y  60  mg/kg/día.  La  dosis  más  alta  estudiada  representa  1,5  (ratones)  o  3  (ratas)  veces  la  dosis  diaria  recomendada  de
+modafinilo (200 mg) para seres humanos adultos en función de un cálculo de mg/m2. No hubo indicio alguno de tumorigenia
+asociada con la administración de modafinilo en estos estudios. Sin embargo, dado que el estudio en ratones utilizó una dosis
+alta  inadecuada  que  no  era  representativa  de  una  dosis  máxima  tolerada,  se  llevó  a  cabo  un  estudio  de  carcinogénesis
+posterior en ratones transgénicos Tg.AC. Las dosis evaluadas en el ensayo en  ratones Tg.AC fueron 125, 250 y 500 mg/kg/día,
+y  se  administraron  por  vía  dérmica.  No  hubo  indicios  de  tumorigenia  asociada  con  la  administración  de  modafinilo;  no
+obstante,  es  posible  que  este  modelo  dérmico  no  evalúe  en  forma  adecuada  el  potencial  carcinogénico  de  un  fármaco
+administrado por vía oral.
+Mutagénesis
+Se evaluó el armodafinilo en un ensayo de mutación bacteriana inversa in vitro y en un ensayo de aberración cromosómica en
+mamíferos in vitro, en linfocitos humanos. El armodafinilo arrojó resultados negativos en estos ensayos, tanto en ausencia
+como en presencia de la activación metabólica.
+El modafinilo no arrojó prueba alguna de potencial mutágeno o clastógeno en una serie de ensayos in vitro (es decir, ensayo
+de mutación bacteriana inversa, ensayo de linfoma de ratón en el gen tk, ensayo de aberración cromosómica en linfocitos
+humanos,  ensayo  de  transformación  celular  en  células  embrionarias  de  ratón  BALB/3T3),  en  ausencia  o  presencia  de
+activación metabólica, ni en ensayos in vivo (micronúcleo de médula ósea de ratón). El modafinilo también arrojó resultados
+negativos en el ensayo de síntesis de ADN no programado en hepatocitos de ratas.
+Fertilidad
+No se llevó a cabo ningún estudio de fertilidad y desarrollo embrionario temprano (hasta la implantación) con armodafinilo
+solo.
+La  administración  oral  de  modafinilo  (dosis  de  hasta  480  mg/kg/día)  en  ratas  macho  y  hembra  antes  del  apareamiento  y
+durante éste, que se continuó en hembras hasta el día 7 de gestación, produjo un aumento en el tiempo hasta el apareamiento
+con la dosis más alta; no se observaron efectos en otros parámetros de fertilidad o reproductivos. La dosis sin efectos de 240
+mg/kg/día  se  asoció  con  una  exposición  plasmática  al  modafinilo  (AUC)  aproximadamente  equivalente  a  la  de  los  seres
+humanos con la dosis recomendada de 200 mg.
+Embarazo
+En  estudios  realizados  en  ratas  (armodafinilo,  modafinilo)  y  conejos  (modafinilo),  se  observó  toxicidad  del  desarrollo  a
+exposiciones relevantes desde el punto de vista clínico. La administración oral de armodafinilo (60, 200 o 600 mg/kg/día) en
+ratas  preñadas  durante  el  período  de  organogenia  dio  lugar  a  un  aumento  en  las  incidencias  de  variaciones  viscerales  y
+esqueléticas en los fetos con la dosis intermedia y a aumentos y disminuciones en los pesos corporales de los fetos con la
+dosis más alta. La dosis sin efectos respecto de la toxicidad del desarrollo embriofetal en ratas se asoció con una exposición
+plasmática  al  armodafinilo  (AUC)  de,  aproximadamente,  0,03  veces  el  AUC  en  seres  humanos  con  la  dosis  diaria  máxima
+recomendada de 250 mg.
+El modafinilo (50, 100 o 200 mg/kg/día) administrado por vía oral a ratas preñadas durante el período de organogenia provocó,
+en ausencia de toxicidad materna, un aumento en las reabsorciones y un aumento en la incidencia de variaciones viscerales y
+esqueléticas en las crías, con la dosis más alta. La dosis más alta sin efectos respecto de la toxicidad del desarrollo embriofetal
+en ratas se asoció con una exposición plasmática al modafinilo de, aproximadamente, 0,5 veces el AUC en seres humanos con
+la  dosis  diaria  recomendada  (RHD)  de  200  mg.  Sin  embargo,  en  un  estudio  posterior  de  hasta  480  mg/kg/día  (exposición
+plasmática  al  modafinilo  de  aproximadamente  2  veces  el  AUC  en  seres  humanos  con  la  dosis  recomendada  para  seres
+humanos [recommended human dose, RHD]) no se observaron efectos adversos en el desarrollo embriofetal.
+El modafinilo administrado por vía oral a conejas preñadas durante el período de organogenia en dosis de hasta 100 mg/kg/día
+(AUC  de  niveles  plasmáticos  de  modafinilo  aproximadamente  equivalente  al  AUC  en  seres  humanos  con  la  RHD)  no  tuvo
+efectos en el desarrollo embriofetal; no obstante, las dosis utilizadas fueron muy bajas como para evaluar en forma adecuada
+los efectos del modafinilo en el desarrollo embriofetal. En un estudio de toxicidad posterior en el cual se evaluaron dosis de 45,
+90  y  180  mg/kg/día  en  conejas  preñadas,  las  incidencias  de  alteraciones  estructurales  fetales  y  de  muerte  embriofetal
+aumentaron con la dosis más alta. La dosis más alta sin efectos respecto de la toxicidad del desarrollo se asoció con una AUC
+de niveles plasmáticos de modafinilo aproximadamente equivalente al AUC en seres humanos con la RHD.
+La administración de modafinilo a ratas durante la gestación y la lactancia, con dosis orales de hasta 200 mg/kg/día dio lugar
+a una disminución de la viabilidad en las crías, con las dosis mayores que 20 mg/kg/día (el AUC de niveles plasmáticos de
+modafinilo fue, aproximadamente, 0,1 vez el AUC en seres humanos con la RHD). No se observaron efectos en los parámetros
+de desarrollo posnatal ni neuroconductuales en las crías que sobrevivieron.
+No hay estudios adecuados ni bien controlados de armodafinilo ni de modafinilo en mujeres embarazadas. Se informaron dos
+casos de retraso del crecimiento intrauterino y un caso de aborto espontáneo en asociación con armodafinilo y modafinilo. Si
+bien la farmacología del armodafinilo no es idéntica a la de las aminas simpaticomiméticas, comparte algunas propiedades
+farmacológicas con esta clase. Ciertos fármacos de dicha clase se han asociado con retraso del crecimiento intrauterino y
+abortos espontáneos. Se desconoce si los casos informados con armodafinilo están relacionados con el fármaco.
+El armodafinilo o el modafinilo deben utilizarse durante el embarazo únicamente si el posible beneficio justifica el potencial
+riesgo para el feto.
+Trabajo de parto y parto
+No se ha investigado sistemáticamente el efecto del armodafinilo en el trabajo de parto y el parto en seres humanos.
+Lactancia: no deberá utilizarse durante la lactancia; el médico en caso necesario suspenderá la lactancia.
+Uso pediátrico: El producto esta indicado para mayores de 18 años. No se ha determinado la seguridad y la eficacia del uso
+de armodafinilo en personas de menores de 18 años. Se han observado erupciones cutáneas serias en pacientes pediátricos
+que recibieron modafinilo (Ver Advertencias, Erupción Seria, incluido el Síndrome de Stevens-Johnson).
+Uso geriátrico: en pacientes de edad avanzada, la eliminación del armodafinilo y sus metabolitos puede verse reducida como
+consecuencia del envejecimiento. Por ende, se debe considerar la posibilidad de usar dosis más bajas en esta población (Ver
+
+1
+
+2
+
+Farmacología Clínica y Precauciones).
+
+Reacciones  adversas:  el  armodafinilo  se  ha  evaluado  para  determinar  la  seguridad  en  más  de  1100  pacientes  con
+somnolencia  excesiva  asociada  con  trastornos  primarios  del  sueño  y  la  vigilia.  En  estudios  clínicos,  se  determinó  que  el
+armodafinilo es, generalmente, bien tolerado y que la mayoría de las experiencias adversas eran de leves a moderadas.
+En los estudios clínicos controlados con placebo, los eventos adversos que se observaron más comúnmente (≥5%) asociados
+con  el  uso  de  armodafinilo  y  que  se  produjeron  con  mayor  frecuencia  que  en  los  pacientes  tratados  con  placebo  fueron
+cefalea, náuseas, mareos e insomnio. El perfil de eventos adversos fue similar en los diferentes estudios.
+En los estudios clínicos controlados con placebo, 44 de los 645 pacientes (el 7%) que recibieron armodafinilo discontinuaron
+el uso debido a una experiencia adversa, en comparación con 16 de los 445 (el 4%) pacientes que recibieron placebo. El
+motivo más frecuente de la discontinuación fue cefalea (1%).
+Incidencia en estudios controlados
+La siguiente tabla (Tabla 1) presenta las experiencias adversas que se produjeron a una tasa del 1% o más y que fueron más
+frecuentes en pacientes tratados con armodafinilo que en pacientes del grupo de placebo, en los estudios clínicos controlados
+con placebo.
+Quienes lo receten deben saber que las cifras que se brindan a continuación no pueden usarse para predecir la frecuencia de
+las experiencias adversas en el transcurso de la práctica médica habitual, en que las características de los pacientes y otros
+factores pueden diferir de los que se presentan en los estudios clínicos. De modo similar, las frecuencias citadas no pueden
+compararse  directamente  con  las  cifras  obtenidas  de  otras  investigaciones  clínicas  en  las  que  intervengan  diferentes
+tratamientos, usos o investigadores. Una revisión de estas frecuencias, no obstante, les brinda a quienes receten el fármaco
+una  base  para  calcular  la  contribución  relativa  del  fármaco  y  de  factores  ajenos  al  fármaco  a  la  incidencia  de  los  eventos
+adversos en la población estudiada.
+
+Tabla 1. Incidencia >1% (en porcentaje) de experiencias adversas emergentes del tratamiento en estudios clínicos de
+grupos paralelos, controlados con placeboa en pacientes con AOS, narcolepsia y SWD tratados con armodafinilo (150
+mg y 250 mg)
+
+la
+
+lugar  de
+
+Clasificación por sistema y órgano
+Término preferente del MedDRA
+Trastornos cardíacos
+Palpitaciones
+Trastornos gastrointestinales
+Náuseas
+Diarrea
+Sequedad bucal
+Dispepsia
+Dolor abdominal superior
+Estreñimiento
+Vómitos
+Heces blandas
+Trastornos  generales  y  alteraciones  en  el
+administración
+Fatiga
+Sed
+Enfermedad pseudogripal
+Dolor
+Pirexia
+Trastornos del sistema inmunológico
+Alergia estacional
+Exploraciones complementarias
+Aumento de la gammaglutamiltransferasa
+Aumento de la frecuencia cardíaca
+Trastornos del metabolismo y de la nutrición
+Anorexia
+Disminución del apetito
+Trastornos del sistema nervioso
+Cefalea
+Mareos
+Alteraciones en la atención
+Temblores
+Migraña
+Parestesia
+Trastornos psiquiátricos
+Insomnio
+Ansiedad
+Depresión
+Agitación
+Nerviosismo
+Estado de ánimo deprimido
+Trastornos renales y urinarios
+Poliuria
+Trastornos respiratorios, torácicos y mediastínicos
+Disnea
+Trastornos de la piel y del tejido subcutáneo
+Erupción
+Dermatitis por contacto
+Hiperhidrosis
+
+ARMODAFINILO
+(porcentaje, N=645)
+
+Placebo (porcentaje,
+N=445)
+
+2
+
+7
+4
+4
+2
+2
+1
+1
+1
+
+2
+1
+1
+1
+1
+
+1
+
+1
+1
+
+1
+1
+
+17
+5
+1
+1
+1
+1
+
+5
+4
+2
+1
+1
+1
+
+1
+
+1
+
+2
+1
+1
+
+1
+
+3
+2
+1
+0
+1
+0
+0
+0
+
+1
+0
+0
+0
+0
+
+0
+
+0
+0
+
+0
+0
+
+9
+2
+0
+0
+0
+0
+
+1
+1
+0
+0
+0
+0
+
+0
+
+0
+
+0
+0
+0
+
+MODIALEX no curará estos trastornos del sueño. Es posible que MODIALEX ayude con la somnolencia provocada por estas
+afecciones, pero no podrá mejorar toda su somnolencia. MODIALEX no reemplaza la obtención de la cantidad adecuada de
+sueño. Siga los consejos de su médico sobre buenos hábitos de sueño y sobre el uso de otros tratamientos.
+
+¿Cuál es la información más importante que debo saber acerca de MODIALEX?
+MODIALEX  puede  provocar  efectos  adversos  serios,  como  una  erupción  seria  o  una  reacción  alérgica  seria,  que  pueden
+afectar partes de su cuerpo, como el hígado o las células sanguíneas. Consulte a su médico ya que es posible que haya que
+tratar cualquiera de estos efectos en un hospital.
+
+Deje de tomar MODIALEX y llame a su médico de inmediato u obtenga atención de emergencia si tiene cualquiera de
+los siguientes síntomas:
+- erupción cutánea, urticaria, llagas en la boca o ampollas y descamación en la piel
+- hinchazón en el rostro, los ojos, los labios, la lengua o la garganta
+- problemas para deglutir o respirar
+- fiebre, falta de aire, hinchazón en las piernas, coloración amarilla de la piel o del blanco de los ojos, u orina oscura.
+
+¿Quién no debería tomar MODIALEX?
+No tome MODIALEX:
+- si es alérgico a cualquiera de sus ingredientes. Consulte el final de esta Guía del medicamento para obtener una lista completa
+de los ingredientes de MODIALEX.
+- Si tuvo una erupción o una reacción alérgica al armodafinilo o modafinilo.
+
+¿Qué le debería decir a mi médico antes de tomar MODIALEX?
+Cuéntele a su médico acerca de todas sus afecciones médicas, incluso si usted:
+- tiene antecedentes de problemas de salud mental, como psicosis.
+- tiene problemas cardíacos o tuvo un infarto de miocardio.
+-  tiene  presión  arterial  alta.  Es  posible  que  tenga  que  controlarse  la  presión  arterial  con  mayor  frecuencia  mientras  tome
+MODIALEX.
+- tiene problemas hepáticos o renales.
+- tiene antecedentes de abuso de drogas o alcohol o de adicciones.
+- está embarazada o planea quedar embarazada. Se desconoce si MODIALEX dañará a su bebé por nacer.
+- se encuentra en período de lactancia. Se desconoce si MODIALEX pasa a la leche materna. Hable con su médico sobre la
+mejor forma de alimentar a su bebé si toma MODIALEX.
+
+Dígale a su médico todos los medicamentos que toma, incluidos los medicamentos de venta con receta y sin ella, las vitaminas
+y los suplementos a base de hierbas. MODIALEX y muchos otros medicamentos pueden interactuar entre sí y, en ocasiones,
+provocar  efectos  secundarios.  MODIALEX  puede  afectar  el  modo  en  que  actúan  otros  medicamentos,  y  los  demás
+medicamentos pueden afectar el modo en que actúa MODIALEX. Puede ser necesario cambiar su dosis de MODIALEX o de
+otros medicamentos determinados.
+
+Especialmente, infórmele a su médico si usa o toma:
+- un método anticonceptivo hormonal, como píldoras, inyecciones, implantes o parches anticonceptivos, anillos vaginales y
+dispositivos  intrauterinos  (DIU).  Es  posible  que  los  métodos  anticonceptivos  hormonales  no  funcionen  mientras  toma
+MODIALEX. Es posible que las mujeres que usen uno de estos métodos anticonceptivos tengan mayores probabilidades de
+quedar embarazadas mientras toman MODIALEX, y durante un mes después de dejar de tomar MODIALEX. Hable con su
+médico sobre las opciones anticonceptivas más adecuadas para usted mientras toma MODIALEX.
+Sepa los medicamentos que toma. Haga una lista con dichos medicamentos y muéstresela a su médico y a su farmacéutico
+cuando obtenga un medicamento nuevo.
+Su médico o su farmacéutico le indicarán si es seguro tomar MODIALEX y otros medicamentos juntos. No comience a tomar
+ningún medicamento nuevo con MODIALEX a menos que su médico le haya indicado que está bien hacerlo.
+
+¿Cómo debería tomar MODIALEX?
+- MODIALEX está indicado para adultos mayores de 18 años.
+- Tome MODIALEX exactamente como se lo haya recetado el médico. Su médico le recetará la dosis adecuada para usted de
+MODIALEX. No cambie su dosis de MODIALEX sin hablar con su médico.
+- Su médico le indicará el momento adecuado del día para tomar MODIALEX .
+- Las personas con narcolepsia o con AOS, por lo general, toman MODIALEX una vez por día, por la mañana.
+- Las personas con trastorno del sueño por turnos de trabajo por lo general toman MODIALEX alrededor de 1 h antes de su
+turno de trabajo.
+-  No  cambie  el  momento  del  día  en  que  toma  MODIALEX  a  menos  que  haya  hablado  con  su  médico.  Si  toma  MODIALEX
+demasiado cerca de la hora de dormirse, es posible que tenga más dificultades para hacerlo.
+- Puede tomar MODIALEX con o sin alimentos.
+
+¿Qué debería evitar mientras tomo MODIALEX?
+- No conduzca automóviles ni realice otras actividades peligrosas hasta saber cómo lo afecta MODIALEX. Las personas con
+trastornos  del  sueño  siempre  deben  tener  cuidado  al  hacer  cosas  que  puedan  ser  peligrosas.  No  cambie  sus  hábitos
+cotidianos a menos que su médico le indique que está bien hacerlo.
+- Debería evitar tomar alcohol. Se desconoce cómo el consumo de alcohol lo afectará cuando esté tomando MODIALEX.
+
+MODIALEX en embarazo y lactancia
+Si usted está embarazada o dando de mamar consulte a su médico antes de tomar este medicamento.
+
+¿Cuáles son los posibles efectos secundarios de MODIALEX?
+MODIALEX puede provocar efectos secundarios serios. Deje de tomar MODIALEX y llame a su médico de inmediato u obtenga
+atención de emergencia si experimenta cualquiera de los siguientes eventos:
+*  Erupción  seria  o  reacción  alérgica  seria.  (Ver  “¿Cuál  es  la  información  más  importante  que  debo  saber  acerca  de
+MODIALEX?”)
+* Síntomas de trastornos mentales (psiquiátricos), incluidos:
+- depresión
+- ansiedad
+- oír, ver, sentir o palpar cosas que no están en la realidad (alucinaciones)
+- aumento extremo en la actividad y en el habla (manía)
+- pensamientos suicidas
+- conducta agresiva
+- otros problemas mentales
+* Síntomas de un problema cardíaco, como dolor de pecho, anomalías en la frecuencia
+cardíaca y problemas para respirar.
+Efectos secundarios comunes que pueden sucederle a cualquier persona que tome
+MODIALEX:
+* cefalea
+* náuseas
+* mareos
+* problemas para dormir
+Infórmele a su médico si tiene cualquier efecto secundario que le molesta o que no desaparece mientras toma MODIALEX.
+Estos no son todos los efectos de MODIALEX. Para obtener más información, consulte a su médico o a su farmacéutico.
+Algunos efectos de MODIALEX en el cerebro son iguales a los de otros medicamentos denominados “estimulantes”. Estos
+efectos pueden llevar al abuso o la dependencia de MODIALEX.
+
+aCuatro estudios clínicos doble ciego, controlados con placebo en pacientes con SWD, OSA y narcolepsia; la incidencia se
+redondea al porcentaje entero más próximo. Se incluyen únicamente aquellos eventos respecto de los cuales la incidencia de
+armodafinilo es mayor que la de placebo.
+
+¿Cómo conservar MODIALEX?
+- Conservar a temperatura entre 15 y 30°C.
+- Mantener alejado del alcance de los niños.
+
+Presentación: envases con 30 comprimidos.
+
+Si Ud. toma dosis mayores de MODIALEX de las que debiera
+Si  toma  más  de  la  dosis  recetada  o  si  toma  una  sobredosis  de  MODIALEX,  contacte  inmediatamente  con  su  médico  o
+farmacéutico, concurra al hospital más cercano o comuníquese con los Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web de la
+ANMAT http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234”
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N°57.768
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+Dependencia de la dosis de los eventos adversos
+En los estudios clínicos controlados con placebo en que se compararon las dosis de 150 mg/día y 250 mg/día de armodafinilo
+y placebo, los únicos eventos adversos que parecieron estar relacionados con la dosis fueron cefalea, erupción, depresión,
+sequedad bucal, insomnio y náuseas.
+
+Tabla 2. Incidencia (en porcentaje) de experiencias adversas dependientes de la dosis, emergentes del tratamiento, por
+dosis y por tratamiento en estudios clínicos de grupos paralelos, controlados con placeboa en pacientes con AOS,
+narcolepsia y SWD tratados con armodafinilo (150 mg y 250 mg)
+
+Clasificación por sistema y órgano
+Término preferente del MedDRA
+
+ARMODAFINILO
+250 mg
+(porcentaje,
+N=198)
+
+ARMODAFINILO
+150 mg
+(porcentaje,
+N=447)
+
+ARMODAFINILO
+Combinado
+(porcentaje,
+N=645)
+
+Placebo
+(porcentaje,
+N=445)
+
+Trastornos gastrointestinales
+Náuseas
+Sequedad bucal
+Trastornos del sistema nervioso
+Cefalea
+Trastornos psiquiátricos
+Insomnio
+Depresión
+Trastornos de la piel y del tejido
+subcutáneo
+Erupción
+
+9
+7
+
+23
+
+6
+3
+
+4
+
+6
+2
+
+14
+
+4
+1
+
+1
+
+7
+4
+
+17
+
+5
+2
+
+2
+
+3
+<1
+
+9
+
+1
+<1
+
+<1
+
+aCuatro estudios clínicos doble ciego, controlados con placebo en pacientes con SWD, OSA y narcolepsia.
+
+Cambios en los signos vitales
+Hubo aumentos pequeños, pero constantes, en los valores promedio de la media de presión arterial sistólica y diastólica en
+estudios controlados (Ver Precauciones). Hubo un aumento promedio pequeño, pero constante, en la frecuencia cardíaca con
+respecto al placebo en los estudios controlados. Este aumento varió de 0,9 a 3,5 lpm.
+Cambios en los análisis de laboratorio
+En los estudios, se monitorizaron los parámetros de bioquímica clínica, hematología y análisis de orina. Se determinó que los
+niveles plasmáticos medios de gammaglutamiltransferasa (GGT) y de fosfatasa alcalina (FA) eran más altos después de la
+administración de armodafinilo, pero no de placebo. No obstante, unos pocos sujetos tuvieron elevaciones de GGT o AP fuera
+del  rango  normal.  No  hubo  diferencias  aparentes  en  los  valores  de  alanina  aminotransferasa,  aspartato  aminotransferasa,
+proteínas totales, albúmina o bilirrubina total, aunque hubo casos infrecuentes de elevaciones aisladas de AST y/o ALT. Se
+observó un solo caso de pancitopenia leve después de 35 días de tratamiento, y se resolvió al discontinuar el fármaco. En los
+estudios  clínicos,  se  observó  una  media  de  disminución  pequeña  respecto  del  nivel  basal  en  el  ácido  úrico  sérico  en
+comparación con placebo. La significación clínica de este hallazgo se desconoce.
+Cambios en el ECG
+No hay ningún patrón de anomalías en el ECG que pueda atribuirse a la administración de armodafinilo en estudios clínicos
+controlados con placebo.
+
+ABUSO DE DROGAS Y DEPENDENCIA
+Potencial de abuso y dependencia
+Si bien no se ha estudiado específicamente el potencial del armodafinilo para el abuso, es probable que este sea similar al del
+modafinilo. En los seres humanos, el modafinilo produce efectos psicoactivos y eufóricos, alteraciones en el estado de ánimo,
+la  percepción,  el  pensamiento  y  los  sentimientos  típicas  de  otros  estimulantes  del  SNC.  En  estudios  de  unión  in  vitro,  el
+modafinilo se une al lugar de recaptación de la dopamina y provoca un aumento en la dopamina extracelular, pero no aumenta
+la liberación de la dopamina. El modafinilo se refuerza, tal como lo demuestra su autoadministración en monos previamente
+entrenados  para  autoadministrarse  cocaína.  En  algunos  estudios,  el  modafinilo  también  se  discriminó  parcialmente  como
+estimulante. Los médicos deben realizar un seguimiento atento de los pacientes, especialmente de aquellos con antecedentes
+de abuso de drogas y/o estimulantes (p. ej., metilfenidato, anfetaminas o cocaína). Se debe observar a los pacientes para
+detectar  signos  de  uso  inadecuado  o  abuso  (p.  ej.,  aumento  de  las  dosis  o  apetencia  de  reconsumo  compulsivo  del
+fármaco).
+Se evaluó el potencial del modafinilo (200, 400 y 800 mg) para el abuso en comparación con el metilfenidato (45 y 90 mg) en
+un estudio de pacientes internados en personas que habían experimentado previamente con drogas. Los resultados de este
+estudio clínico demostraron que el modafinilo produjo efectos y sentimientos psicoactivos y eufóricos, que coinciden con los
+de otros estimulantes del SNC programados (metilfenidato).
+
+Sobredosificación
+Experiencia en seres humanos
+No se informaron casos de sobredosis en los estudios clínicos con armodafinilo. Los síntomas de sobredosis de armodafinilo
+probablemente  sean  similares  a  los  del  modafinilo.  La  sobredosis  de  modafinilo  en  estudios  clínicos  incluyó  excitación  o
+agitación, insomnio y elevaciones ligeras o moderadas de los parámetros hemodinámicos. Desde la experiencia posterior a la
+comercialización  con  modafinilo,  no  ha  habido  informes  de  sobredosis  mortales  que  implicaran  el  uso  de  modafinilo  solo
+(dosis de hasta 12 g). Las sobredosis que implicaron el uso de múltiples fármacos, incluido el modafinilo, han dado lugar a
+resultados  mortales.  Los  síntomas  que  con  mayor  frecuencia  acompañan  la  sobredosis  de  modafinilo,  ya  sea  solo  o  en
+combinación con otros fármacos, han incluido lo siguiente: insomnio; síntomas en el sistema nervioso central, como agitación,
+desorientación,  confusión,  excitación  y  alucinaciones;  cambios  digestivos,  como  náuseas  y  diarrea;  y  cambios
+cardiovasculares, como taquicardia, bradicardia, hipertensión y dolor de pecho.
+Manejo de sobredosis
+No  existe  ningún  antídoto  específico  para  los  efectos  tóxicos  de  una  sobredosis  de  armodafinilo.  Tales  sobredosis  deben
+controlarse, principalmente, con atención de soporte, incluida la monitorización cardiovascular. Si no hay contraindicaciones,
+se debe considerar la posibilidad de inducir la emesis o de realizar un lavado gástrico. No hay datos que sugieran la utilidad
+de  la  diálisis  ni  de  la  acidificación  o  alcalinización  urinaria  en  el  aumento  de  la  eliminación  del  fármaco.  El  médico  debe
+considerar la posibilidad de comunicarse con un centro de control de intoxicaciones para pedir asesoramiento a fin de tratar
+cualquier sobredosis.
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o  comunicarse  con  los  Centros  de
+Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+Presentación: envases con 30 comprimidos.
+Fecha de última revisión: agosto 2015
+
+Forma de conservación
+- Conservar a temperatura entre 15 y 30°C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 57.768
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+INFORMACION PARA EL PACIENTE - CONSULTE A SU MÉDICO -
+
+Lea esta información para el paciente antes de comenzar a tomar MODIALEX y cada vez que repita la receta ya que puede
+haber  nueva  información.  Esta  información  no  reemplaza  a  su  conversación  con  el  médico  sobre  su  enfermedad  o  su
+tratamiento.
+
+¿Qué es MODIALEX y para qué se usa?
+MODIALEX es un medicamento de venta bajo receta que se utiliza para mejorar el estado de vigilia en adultos con mucha
+somnolencia debido a que se les ha diagnosticado uno de los siguientes trastornos del sueño: narcolepsia, apnea obstructiva
+del sueño (AOS) o trastorno del sueño por turnos de trabajo.
+
+E-2346-01 / D2668 / Act.: 08/2015
+
+3
+
+4

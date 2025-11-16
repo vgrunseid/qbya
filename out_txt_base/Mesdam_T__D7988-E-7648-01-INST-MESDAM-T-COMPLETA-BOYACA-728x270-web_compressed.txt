@@ -1,0 +1,1577 @@
+Trastornos oftalmológicos
+• Tadalafilo
+ Los médicos deben aconsejar a los pacientes que busquen atención médica inmediata en caso de
+pérdida repentina de la visión en uno o ambos ojos. Tal evento puede ser un signo de neuropatía
+óptica isquémica anterior no arterítica (NOIANA), una causa de disminución de la visión, incluyendo
+la pérdida permanente de la visión que se ha reportado raramente después de la comercialización en
+asociación temporal con el uso de todos los inhibidores de la PDE5. Se ha sugerido un mayor riesgo
+de NOIANA aguda a partir de análisis de datos observacionales en hombres con disfunción eréctil
+dentro de los 1 a 4 días de uso episódico de inhibidores de la PDE5. Los médicos también deben
+discutir con los pacientes el aumento del riesgo de NOIANA en individuos que ya han experimentado
+NOIANA en un ojo, incluyendo si tales individuos podrían verse afectados negativamente por el uso
+de vasodilatadores como los inhibidores de la PDE5.
+Hay pruebas de que los pacientes con riesgo de padecer NOIANA pueden tener discos ópticos
+anormales (por ejemplo, disco apiñado) antes de desarrollar la enfermedad. Si los médicos están
+preocupados por el riesgo general de NOIANA, deberían considerar discutir estas preocupaciones
+con un oftalmólogo.
+En los ensayos clínicos no se incluyeron pacientes con trastornos hereditarios degenerativos de la
+retina conocidos, incluida la retinosis pigmentaria, y no se recomienda su uso en estos pacientes.
+
+Trastornos renales
+No se recomienda la administración de MESDAM T a pacientes con insuficiencia renal severa,
+debido al aumento de la exposición al tadalafilo (AUC), la limitada experiencia clínica y la falta de
+capacidad para influir en la depuración de tadalafilo mediante diálisis en pacientes con insuficiencia
+renal severa. No se tiene experiencia con el uso de macitentan en pacientes sometidos a diálisis, por
+lo que MESDAM T no se recomienda en dicha población.
+Los pacientes con insuficiencia renal moderada o severa tienen un mayor riesgo de experimentar
+hipotensión y anemia durante el tratamiento con macitentan. Por lo tanto, debe considerarse el
+monitoreo de la presión arterial y la hemoglobina en pacientes con insuficiencia renal moderada.
+
+Interacciones medicamentosas
+Interacciones de fármacos serias
+
+• Pacientes tratados con estimulantes de la guanilatociclasa, como el riociguat.
+• Pacientes que estén utilizando cualquier forma de nitratos.
+
+Consideraciones generales de las interacciones de fármacos
+Conforme a las características conocidas de macitentan y tadalafilo, no se espera ninguna interacción
+farmacocinética entre estos componentes individuales en MESDAM T.
+Conforme a la información de los datos de los componentes individuales, en presencia de fuertes
+inhibidores del CYP3A4, la exposición de MESDAM T podría aumentar. No se recomienda la
+coadministración de MESDAM T con inhibidores fuertes del CYP3A4 (por ejemplo, itraconazol,
+ketoconazol y ritonavir).
+Conforme a la información de los datos de los componentes individuales, en presencia de fuertes
+inductores del CYP3A4, la exposición y la eficacia de MESDAM T podrían verse reducidas. No se
+recomienda la coadministración de MESDAM T con inductores fuertes del CYP3A4 (por ejemplo,
+rifampicina).
+Dado que MESDAM T contiene macitentan y tadalafilo, deben tenerse en cuenta las interacciones
+asociadas a cada componente.
+• Macitentan
+El metabolismo de macitentan a su metabolito activo es catalizado principalmente por CYP3A4, con
+contribuciones menores de CYP2C8, CYP2C9 y CYP2C19.
+A concentraciones clínicamente relevantes, macitentan y su metabolito activo no tienen efectos
+inhibitorios o inductores relevantes sobre las enzimas CYP.
+Macitentan no es un sustrato ni un inhibidor de la proteína de resistencia a múltiples fármacos (P-gp,
+MDR-1). En concentraciones clínicamente relevantes, el metabolito activo de macitentan no es un
+inhibidor de la P-gp. En concentraciones clínicamente relevantes, el macitentan y su metabolito activo
+no son ni sustratos ni inhibidores de los polipéptidos transportadores de aniones orgánicos OATP1B1
+y OATP1B3.
+A concentraciones clínicamente relevantes, el macitentan y su metabolito activo no son inhibidores
+de los transportadores de captación OCT1, OCT2, OAT1, OAT y de las bombas de eflujo de fármacos
+BCRP, MATE-1 y MATE2-K.
+En concentraciones clínicamente relevantes, el macitentan y su metabolito activo no interactúan con
+las proteínas implicadas en el transporte hepático de sales biliares, es decir, la bomba de exportación
+de sales biliares (BSEP, por sus siglas en inglés) y el polipéptido cotransportador de taurocolato
+dependiente de sodio (NTCP, por sus siglas en inglés).
+• Tadalafilo
+El tadalafilo se metaboliza predominantemente por la isoforma 3A4 del citocromo P450 (CYP).
+
+Interacciones entre fármaco y comportamiento
+Efectos sobre la capacidad para conducir y utilizar máquinas
+No se han estudiado los efectos de MESDAM T sobre la capacidad de conducir vehículos y utilizar
+máquinas. Sin embargo, como MESDAM T contiene macitentan y tadalafilo, el paciente debe ser
+informado de los datos de los componentes individuales antes de conducir vehículos o manejar
+maquinaria.
+
+Interacciones farmacológicas
+Los fármacos enumerados en la Tabla 1 se basan en informes de casos o estudios de interacciones
+farmacológicas, o en interacciones potenciales debido a la magnitud y seriedad esperadas de la
+interacción (es decir, los identificados como contraindicados).
+Macitentan
+
+Tabla 1: Interacciones farmacológicas establecidas o potenciales para macitentan
+
+Fármaco
+coadministrado
+
+Fuente de
+evidencia
+
+Efecto
+
+Sildenafilo
+
+CT
+
+En estado de equilibrio en voluntarios sanos, la exposición a
+20  mg  de  sildenafilo tres veces al día aumento un 15%
+durante la administración concomitante de 10 mg de
+macitentan  una  vez al día.  El sildenafilo, un sustrato del
+CYP3A4, no afectó a la farmacocinética del macitentan,
+mientras que se produjo una reducción del 15% en la
+exposición al metabolito activo del macitentan. Estos
+cambios no se consideran clínicamente relevantes. En un
+ensayo controlado con placebo en pacientes con HAP, se
+demostró la eficacia y seguridad de 10 mg de macitentan en
+combinación con sildenafilo.
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de un anticonceptivo oral (1 mg de
+noretisterona y 35 mcg de etinilestradiol)
+En voluntarios sanos que reciben warfarina 25 mg, las dosis
+diarias de macitentan no tuvieron un efecto clínicamente
+relevante  sobre  la  farmacocinética  de  S-warfarina (sustrato
+CYP2C9) o R-warfarina (sustrato CYP3A4). El efecto
+farmacodinámico de la warfarina sobre el Cociente
+Normalizado Internacional (INR, por sus siglas en inglés) no
+se  vio  afectado  por  el  macitentan. La  farmacocinética de
+macitentan y su metabolito activo no se vio afectada por la
+warfarina.
+En  presencia  de 400 mg diarios de ketoconazol, un fuerte
+inhibidor de CYP3A4, la exposición al macitentan aumentó
+aproximadamente 2 veces en voluntarios sanos.
+La exposición al metabolito activo del macitentan se redujo
+en  un  26%. Se  desconoce el significado clínico de estos
+cambios.
+
+T
+
+Inhibidores
+moderados duales o
+combinados de
+CYP3A4 y
+CYP2C9
+(fluconazol)
+
+En presencia de fluconazol 400 mg diarios, un inhibidor dual
+moderado de CYP3A4 y CYP2C9, la exposición a macitentan
+puede aumentar aproximadamente 3,8 veces o más en los
+metabolizadores pobres de CYP2C9, según se ha evaluado
+en la modelización farmacocinética de base fisiológica.
+Sin embargo, no hubo cambios clínicamente relevantes en
+la exposición al metabolito activo de macitentan, y se
+desconoce la importancia clínica de estos hallazgos.
+Deben tenerse en cuenta las incertidumbres de dicha
+modelización.
+
+Comentario
+Clínico
+
+No está justificado adaptar la
+dosis.
+
+No está justificado adaptar la
+dosis.
+
+No está justificado adaptar la
+dosis.
+
+6
+
+Se debe tener precaución
+cuando se
+Administre MESDAM T
+concomitantemente
+con inhibidores fuertes de
+CYP3A4 (por ejemplo,
+itraconazol,
+ketoconazol,voriconazol,
+claritromicina,
+nefazodona, ritonavir,
+saquinavir).
+
+Se debe tener precaución
+cuando se administra
+MESDAM T concomitantemente
+con inhibidores duales e
+inhibidores
+duales moderados
+de CYP3A4 y CYP2C9 (por
+ejemplo, fluconazol,
+amiodarona).
+También se debe tener
+precaución al administrar
+macitentan
+concomitantemente
+con un inhibidor moderado de
+CYP3A4 (por ejemplo,
+ciprofloxacina,ciclosporina,
+diltiazem, eritromicina,
+verapamilo) y un inhibidor de
+CYP2C9 (por ejemplo, miconazol).
+
+No está justificado adaptar la
+dosis.
+
+Debe evitarse la combinación
+de MESDAM  T con inductores
+fuertes de CYP3A4.
+
+En voluntarios sanos, el tratamiento concomitante con 100
+mg dos veces al día de ciclosporina A, un inhibidor
+combinado de CYP3A4 y OATP, no alteró la exposición en
+estado estacionario a macitentan y su metabolito
+activo en una medida clínicamente relevante.
+
+En voluntarios sanos, el tratamiento concomitante con 600
+mg diarios de rifampicina, un potente inductor de CYP3A4,
+redujo la exposición en estado estacionario (AUC) a
+macitentan en un 79%, pero no afectó a la exposición al
+metabolito activo. Debe considerarse la reducción de la
+eficacia de macitentan en presencia de un potente inductor
+de CYP3A4, como la rifampicina
+
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de la rosuvastatina (10 mg por vía oral).
+
+No está justificado adaptar la
+dosis.
+
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de riociguat (1 mg por vía oral).
+
+Dado que MESDAM T
+contiene tadalafilo, la
+administración conjunta de
+MESDAM  T con  riociguat  está
+contraindicada
+
+COMPRIMIDOS RECUBIERTOS
+
+MACITENTAN 10 mg
+TADALAFILO 40 mg
+
+MESDAM® T
+
+MESDAM® T
+
+TADALAFILO 40 mg
+MACITENTAN 10 mg
+
+COMPRIMIDOS RECUBIERTOS
+
+Venta Bajo Receta
+Industria Argentina
+
+FÓRMULA
+Cada comprimido recubierto contiene:
+Tadalafilo 40,000 mg, Macitentan 10,000 mg. Excipientes: polisorbato 80  6,400 mg, lactosa
+monohidrato 219,160 mg, lauril sulfato de sodio 22,400 mg, croscarmelosa sódica 76,800 mg,
+hidroxipropilcelulosa  7,680 mg, dióxido de silicio coloidal  32,000 mg, celulosa microcristalina 219,160
+mg, estearato de magnesio 6,400 mg, opadry II blanco  15,000 mg (alcohol polivinílico parcialmente
+hidrolizado 6,000 mg, dióxido de titanio 3,750 mg, polietilenglicol 3000 3,030 mg, talco 2,220 mg).
+
+ACCIÓN TERAPÉUTICA
+Grupo farmacoterapéutico: Antihipertensivos para hipertensión arterial pulmonar.
+Código ATC: C02KX54.
+
+INDICACIONES
+MESDAM T (macitentan y tadalafilo) está indicado para:
+• el tratamiento a largo plazo de la hipertensión arterial pulmonar (HAP, Grupo 1 de la Organización
+Mundial de la Salud [OMS]) para reducir la morbilidad en pacientes de clase funcional (CF) II o III de
+la OMS.
+• MESDAM T debe utilizarse en pacientes que actualmente son tratados concomitantemente con
+dosis estables de 10 mg de macitentan y 40 mg de tadalafilo (20 mg x 2) como comprimidos
+separados.
+
+Pacientes pediátricos
+Pacientes pediátricos (<18 años de edad): No se ha establecido la seguridad y eficacia de MESDAM
+T en niños y adolescentes menores de 18 años de edad.
+
+ACCIÓN FARMACOLÓGICA
+Mecanismo de Acción
+MESDAM T combina dos agentes orales con mecanismos de acción sinérgicos para mejorar la
+hipertensión arterial pulmonar: macitentan, un antagonista de los receptores de endotelina, y
+tadalafilo, un inhibidor de la fosfodiesterasa (PDE) 5. Dado que MESDAM T contiene tanto macitentan
+como tadalafilo, debe considerarse el mecanismo de acción de cada componente.
+• Macitentan
+La endotelina (ET)-1 y sus receptores (ETA y ETB) median una serie de efectos deletéreos como la
+vasoconstricción, fibrosis, proliferación, hipertrofia e inflamación. En condiciones de enfermedad
+como la HAP, el sistema local de ET está regulado al alza y está implicado en la hipertrofia vascular y
+en el daño de los órganos.
+El macitentan es un antagonista dual de los receptores ETA y ETB, activo por vía oral, que impide la
+unión de la ET-1 a sus receptores.
+El macitentan presenta una mayor afinidad y una ocupación sostenida de los receptores de la ET en
+las células musculares lisas de la arteria pulmonar humana y tiene propiedades fisicoquímicas que
+favorecen la penetración en el tejido pulmonar.
+En estudios con animales, la penetración de macitentan en los tejidos pulmonares fue mayor en ratas
+con hipertensión pulmonar inducida que en ratas normales.
+En modelos de hipertensión pulmonar, el macitentan redujo selectivamente la presión arterial
+pulmonar media sin afectar a la presión arterial sistémica, disminuyó la hipertrofia arterial pulmonar y
+la remodelación del ventrículo derecho, y aumentó significativamente la supervivencia en comparación
+con las ratas tratadas con un vehículo.
+• Tadalafilo
+El tadalafilo es un potente y selectivo inhibidor de la PDE5, la enzima responsable de la degradación
+del guanosín monofosfato cíclico (GMPc). La hipertensión arterial pulmonar se asocia a una menor
+liberación de óxido nítrico por parte del endotelio vascular y a la consiguiente reducción de las
+concentraciones de GMPc en el músculo liso vascular pulmonar. La PDE5 es la fosfodiesterasa
+predominante en la vasculatura pulmonar. La inhibición de la PDE5 por el tadalafilo aumenta las
+concentraciones de GMPc, lo que da lugar a la relajación de la célula muscular lisa vascular pulmonar
+y a la vasodilatación del lecho vascular pulmonar.
+
+FARMACOCINÉTICA
+Dado que MESDAM T contiene macitentan y tadalafilo, deben tenerse en cuenta las propiedades
+farmacocinéticas de los componentes individuales.
+• Macitentan
+Se estudió la farmacocinética de macitentan y de su metabolito activo principalmente en sujetos
+sanos. Una comparación de estudios cruzados muestra que las exposiciones a macitentan y su
+metabolito activo en pacientes con HAP son similares a las observadas en sujetos sanos. Las
+concentraciones plasmáticas mínimas de macitentan en pacientes con HAP no se vieron influidas por
+la severidad de la enfermedad.
+Tras la administración repetida de dosis de ≤30 mg, la farmacocinética de macitentan es proporcional
+a la dosis.
+Los estados estables de macitentan y su metabolito activo se alcanzan al cabo de 3 y 7 días,
+respectivamente. Las concentraciones plasmáticas máximas de macitentan se alcanzaron 8 horas
+después de la administración y el área bajo la curva durante el intervalo de dosificación de 24 h
+(AUC0 - 2 4,  por  sus  siglas  en  inglés)  y  la  concentración  máxima  (Cm á x)  de  macitentan  fueron
+proporcionales a la dosis en el rango de dosis probado (1 a 30 mg una vez al día). Como se preveía a
+partir  de  la  t1/2  observada  de  16  horas  y  48  horas  para  macitentan  y  su  metabolito  activo,
+respectivamente, la acumulación de macitentan fue mínima (aproximadamente 1,5 veces) mientras
+que la del metabolito activo fue de unas 8,5 veces.
+El  macitentan  y  sus  metabolitos  circulantes  están  altamente  unidos  (≥99%)  a  las  proteínas
+plasmáticas, principalmente a la albúmina, en todas las especies, incluido el hombre.
+• Absorción
+Las concentraciones plasmáticas máximas de macitentan se alcanzan unas 8 horas  después de su
+administración.
+Posteriormente, las concentraciones plasmáticas de macitentan y su metabolito activo  disminuyeron
+lentamente, con una vida media de eliminación aparente de aproximadamente 16 horas y 48 horas,
+respectivamente.
+En sujetos sanos, la exposición a macitentan y a su metabolito activo no se modifica en presencia de
+alimentos y, por lo tanto, macitentan puede administrarse con o sin alimentos.
+• Distribución
+El macitentan y su metabolito activo ACT-132577 se distribuyen bien en los tejidos, como indica un
+volumen aparente de distribución (Vss/F) de aproximadamente 50 L y 40 L, respectivamente.
+El macitentan y su metabolito activo están altamente unidos a las proteínas plasmáticas (>99%)
+principalmente a la albúmina y en menor medida a la alfa 1 glicoproteína ácida.
+• Metabolismo
+El  macitentan  tiene  cuatro  vías  metabólicas  primarias.  Macitentan  sufre  principalmente  la
+despropilación oxidativa de la sulfamida para formar un metabolito farmacológicamente activo. Esta
+reacción depende del sistema del citocromo P450, principalmente CYP3A4 con una contribución
+menor de CYP2C19. También se forman cantidades muy pequeñas del metabolito activo por CYP2C8
+y CYP2C9. El metabolito activo circula en el plasma humano y puede contribuir al efecto farmacológico
+general.
+
+Otras vías metabólicas dan lugar a productos sin actividad farmacológica. En estas vías, el CYP2C9
+desempeña un papel predominante con contribuciones menores del CYP2C8, CYP2C19 y CYP3A4.
+
+• Eliminación
+Macitentan se excreta solo después de una extensa metabolización. La principal vía de excreción es la
+orina, que representa aproximadamente el 50% de la dosis.
+• Tadalafilo
+En un rango de dosis de 2,5 a 20 mg, la exposición al tadalafilo (AUC) aumenta proporcionalmente con
+la dosis en sujetos sanos.
+Entre 20 y 40 mg, se observa un AUC aproximadamente 1,5 veces mayor, lo que indica un aumento
+menos que proporcional de la exposición en todo el intervalo de dosis de 2,5 a 40 mg. Durante la
+dosificación de tadalafilo de 20 y 40 mg una vez al día, las concentraciones plasmáticas en estado de
+equilibrio se alcanzan en 5 días, y la exposición es aproximadamente 1,3 veces mayor que después de
+una dosis única.
+Las fosfodiesterasas son una familia diversa de enzimas que tienen diferentes distribuciones tisulares
+y funciones, pero que todas actúan en última instancia para hidrolizar los nucleótidos cíclicos,
+terminando así sus acciones. Se conocen once clases de fosfodiesterasas, muchas de ellas con
+subtipos identificados por su estructura y función. La PDE5 es una de las principales enzimas
+hidrolizadoras de GMPc en la vasculatura pulmonar.
+Los estudios in vitro han demostrado que el tadalafilo es un potente inhibidor de la PDE5. La PDE5 es
+una enzima que se encuentra en el músculo liso vascular pulmonar, el músculo liso visceral, el cuerpo
+cavernoso, el músculo esquelético, las plaquetas, el riñón, el pulmón, el cerebelo y el páncreas. El
+efecto del tadalafilo es más selectivo sobre la PDE5 que sobre otras fosfodiesterasas. El tadalafilo es
+>10.000 veces más selectivo para la PDE5 que para las enzimas PDE1, PDE2, PDE4 y PDE7, que se
+encuentran en el corazón, el cerebro, los vasos sanguíneos, el hígado y otros órganos. El tadalafilo es
+>10.000 veces más selectivo para la PDE5 que para la PDE3, una enzima que se encuentra en el
+corazón y los vasos sanguíneos. Esta selectividad de la PDE5 sobre la PDE3 es importante porque la
+PDE3  es  una  enzima  implicada  en  la  contractilidad  cardíaca.  Además,  el  tadalafilo  es
+aproximadamente 700 veces más potente para la PDE5 que para la PDE6, una enzima que se
+encuentra en la retina y es responsable de la fototransducción. El tadalafilo es también >9000 veces
+más potente para la PDE5 que para la PDE8 a la PDE10. El tadalafilo es 14 veces más potente para la
+PDE5 que para la PDE11A1 y 40 veces más potente para la PDE5 que para la PDE11A4, dos de las
+cuatro formas conocidas de la PDE11. La PDE11 es una enzima que se encuentra en la próstata
+humana, los testículos, el músculo esquelético y en otros tejidos. In vitro, el tadalafilo inhibe la
+actividad  de  la  PDE11A1  recombinante  humana  y,  en  menor  grado,  la  de  la  PDE11A4  a
+concentraciones dentro del rango terapéutico.
+La función fisiológica y las consecuencias clínicas de la inhibición de la PDE11 en los seres humanos
+no se han definido.
+• Absorción:
+El tadalafilo se absorbe fácilmente tras su administración oral y la concentración máxima plasmática
+promedio observada (Cmáx) se alcanza en la mediana de tiempo de 4 horas tras la administración.
+No se ha determinado la biodisponibilidad absoluta del tadalafilo tras su administración oral.
+La velocidad y el grado de absorción del tadalafilo no se ven influidos por los alimentos, por lo que el
+tadalafilo puede administrarse con o sin alimentos.
+• Distribución:
+El volumen de distribución aparente promedio es de aproximadamente 77 L en estado de equilibrio, lo
+que indica que el tadalafilo se distribuye en los tejidos. En concentraciones terapéuticas, el 94% del
+tadalafilo en el plasma se une a las proteínas. La unión a las proteínas no se ve afectada por el
+deterioro de la función renal.
+• Metabolismo:
+El tadalafilo se metaboliza predominantemente por la isoforma 3A4 del citocromo P450 (CYP). El
+principal metabolito circulante es el glucurónido de metilcatecol. Este metabolito es al menos 13.000
+veces menos potente que el tadalafilo para la PDE5. En consecuencia, no se espera que sea
+clínicamente activo en las concentraciones de metabolitos observadas.
+• Eliminación:
+La depuración oral promedio de tadalafilo es de 3,4 L/h en estado de equilibrio y la vida media terminal
+media es de 15 horas en sujetos sanos. El tadalafilo se excreta predominantemente como metabolitos
+inactivos, principalmente en las heces (aproximadamente el 61% de la dosis) y en menor medida en la
+orina (aproximadamente el 36% de la dosis).
+Poblaciones especiales
+En los pacientes con hipertensión pulmonar que no recibían bosentán concomitante, la exposición
+media al tadalafilo en estado estacionario tras 40 mg fue un 26% mayor en comparación con la de los
+voluntarios sanos. No hubo diferencias clínicamente relevantes en la Cmáx en comparación con los
+voluntarios sanos. Los resultados sugieren una menor depuración en los pacientes con hipertensión
+pulmonar en comparación con los voluntarios sanos.
+• Pacientes pediátricos: No se ha estudiado la farmacocinética de MESDAM T en pacientes
+pediátricos. Sin embargo, se dispone de datos sobre el macitentan. El tadalafilo no ha sido evaluado
+en individuos menores de 18 años.
+Macitentan
+Se evaluó la farmacocinética de macitentan y su metabolito ACT-132577 en 16 pacientes pediátricos (5
+tenían entre 6 y 11 años y 11 eran adolescentes de 12 a 17 años) con hiperpresión arterial pulmonar.
+A los pacientes pediátricos del subgrupo de peso corporal ≥25 kg y <50 kg se les administró una
+dosis de 7,5 mg una vez al día de macitentan (8 pacientes). Se administró una dosis de 10 mg de
+macitentan una vez al día a pacientes pediátricos con un peso corporal de ≥50 kg (8 pacientes).
+La  exposición  al  macitentan,  basada  en  la  C m á x  y  el  AUCτ,  estuvo  en  un  rango  similar
+independientemente del peso y la edad. En comparación con los datos de adultos de 20 pacientes
+tratados con 10 mg de macitentan una vez al día en el estudio AC-055-303 (subestudio PK de
+SERAPHIN), la exposición a macitentan pareció ser ligeramente menor en los niños en comparación
+con los adultos, mientras que no hubo indicios de diferencias en la exposición a su metabolito
+ACT-132577 en los niños.
+Tadalafilo
+El tadalafilo no ha sido evaluado en individuos menores de 18 años.
+• Pacientes geriátricos: No se ha estudiado la farmacocinética de MESDAM T en pacientes de edad
+avanzada.
+Macitentan
+No existe un efecto clínicamente relevante de la edad, el sexo o la raza en la farmacocinética de
+macitentan y su metabolito activo.
+Tadalafilo
+El valor promedio del AUC (4881 mcg-h/L para una dosis de 10 mg) en sujetos masculinos de 65 a 78
+años fue aproximadamente un 25% superior al AUC (3896 mcg-h/L) de los sujetos de 19 a 45 años,
+mientras que la edad tuvo un efecto insignificante sobre los valores de Cmáx. Este efecto de la edad no
+es clínicamente significativo y no requiere un ajuste de la dosis.
+• Insuficiencia hepática: No se ha investigado la farmacocinética de MESDAM T en pacientes con
+insuficiencia hepática. Sin embargo, se dispone de datos sobre los componentes individuales de
+MESDAM T.
+Macitentan
+La exposición a macitentan se redujo en un 21%, 34% y 6% y para el metabolito activo en un 20%, 25%
+y 25% en sujetos con insuficiencia hepática leve, moderada o severa, respectivamente.
+Esta disminución no se considera clínicamente relevante.
+Tadalafilo
+En un estudio de farmacología clínica en el que se utilizó 10 mg de tadalafilo, la exposición a tadalafilo
+
+(AUC) en sujetos con insuficiencia hepática leve y moderada (Clase A y B según Child-Pugh) fue
+comparable a la exposición en sujetos sanos.
+No se han estudiado pacientes con cirrosis hepática severa (clase C según Child-Pugh), por lo que no
+se recomienda la dosificación de tadalafilo en estos pacientes.
+• Insuficiencia renal: No se ha investigado la farmacocinética de MESDAM T en pacientes con
+insuficiencia renal. Sin embargo, se dispone de datos sobre los componentes individuales de
+MESDAM T.
+Macitentan
+La exposición a macitentan y a su metabolito activo aumentó 1,3 y 1,6 veces, respectivamente, en
+pacientes con insuficiencia renal severa. Este aumento no se considera clínicamente relevante.
+Tadalafilo
+En los estudios de farmacología clínica en los que se utilizó una dosis única de 5 a 20 mg de tadalafilo,
+la exposición al tadalafilo (AUC) se duplicó aproximadamente en sujetos con insuficiencia renal leve
+(depuración de creatinina de 51 a 80 mL/min) o moderada (depuración de creatinina de 31 a 50
+mL/min), y en sujetos con enfermedad renal terminal en tratamiento con hemodiálisis. En los pacientes
+en tratamiento con hemodiálisis, la Cmáx fue un 41% superior a la observada en los sujetos sanos. La
+hemodiálisis contribuyó de forma insignificante a la eliminación de tadalafilo.
+• Otras poblaciones: No se ha investigado la farmacocinética de MESDAM T en otras poblaciones. Sin
+embargo, se dispone de datos sobre los componentes individuales de MESDAM T.
+Uso de tadalafilo en pacientes con diabetes
+La exposición al tadalafilo (AUC 3454 mcg-h/L para una dosis de 10 mg) en pacientes con diabetes fue
+un 19% menor, y la concentración máxima plasmática promedio (Cmáx de 184 mcg/L) fue un 5% menor
+que la observada en sujetos sanos. Esta diferencia en la exposición no requiere un ajuste de la dosis.
+
+Farmacodinamia
+Dado  que  MESDAM  T  contiene  macitentan  y  tadalafilo,  deben  considerarse  los  efectos
+farmacodinámicos de cada componente.
+• Macitentan
+En sujetos sanos, el macitentan aumentó de forma dependiente de la dosis, las concentraciones
+plasmáticas de ET-1 en dosis únicas y múltiples.
+Electrofisiología cardíaca: En un estudio aleatorizado, controlado con placebo y cruzado de cuatro
+vías con un control positivo en sujetos sanos, las dosis repetidas de 10 mg y 30 mg de macitentan no
+tuvieron un efecto significativo sobre el intervalo QTc.
+• Tadalafilo
+• Efecto sobre la presión arterial y la frecuencia cardíaca
+El tadalafilo 20 mg administrado a sujetos masculinos sanos no produjo diferencias significativas en
+comparación con el placebo en la presión arterial sistólica y diastólica en decúbito supino (diferencia
+en la disminución media máxima de 1,6/0,8 mm Hg, respectivamente) y en la presión arterial sistólica
+y diastólica en bipedestación (diferencia en la disminución media máxima de 0,2/4,6 mm Hg,
+respectivamente). Además, no hubo ningún efecto significativo sobre la frecuencia cardíaca.
+• Nitratos: en estudios de farmacología clínica, se demostró que el tadalafilo (5 a 20 mg) potencia el
+efecto hipotensor de los nitratos. Por lo tanto, el uso de tadalafilo en pacientes que toman cualquier
+forma de nitratos está contraindicado.
+• Antihipertensivos: cuando se evaluó tadalafilo y ciertos fármacos antihipertensivos orales
+(amlodipino, enalapril, metoprolol, bendrofluazida, bloqueadores de los receptores de angiotensina II)
+en estudios de interacción farmacológica, las dosis de tadalafilo de 10 mg o 20 mg no dieron lugar a
+un aumento clínicamente significativo de los efectos antihipertensivos de esos medicamentos. El
+análisis de los datos del ensayo clínico de fase 3 tampoco mostró diferencias en los eventos adversos
+en los pacientes que tomaban tadalafilo con o sin medicamentos antihipertensivos.
+• Alfabloqueantes: se investigaron las posibles interacciones hemodinámicas de tadalafilo con un
+alfabloqueante no selectivo (doxazosina 4 mg y 8 mg), un alfabloqueante selectivo [1A] (tamsulosina
+0,4 mg) y un alfabloqueante selectivo [1] (alfuzosina 10 mg) en estudios aleatorizados, a doble ciego
+y con diseño cruzado. Se registraron la presión arterial (PA) y la frecuencia cardíaca antes de la dosis
+y durante 24 horas después de esta.
+El tadalafilo 20 mg aumentó el efecto hipotensor de 8 mg de doxazosina produciendo una disminución
+media máxima de la presión arterial sistólica en bipedestación que fue significativamente mayor que la
+del placebo (una diferencia media de 9,8 mm Hg). El análisis de los valores atípicos de la presión
+arterial mostró que el número de sujetos con una presión arterial sistólica en bipedestación inferior a
+85 mm Hg fue mayor después de la doxazosina más tadalafilo (28%) que de la doxazosina más
+placebo (6%). Se realizó otro estudio de farmacología clínica para investigar la dosis más baja de 4 mg
+de doxazosina. Los cambios producidos en ese estudio fueron comparables a los observados en el
+estudio anterior. Un estudio adicional realizado con doxazosina (hasta 4 mg diarios) añadida a
+tadalafilo (5 mg diarios) también mostró un aumento de la respuesta, y síntomas asociados a una
+disminución de la presión arterial.
+En los sujetos en tratamiento con tamsulosina, tadalafilo 10 mg y 20 mg produjeron aumentos
+máximos promedios de la presión arterial sistólica en bipedestación similares a los del placebo
+(diferencia media de 1,7 y 2,3 mm Hg, respectivamente). Ningún sujeto que tomara tamsulosina tuvo
+una disminución de la presión arterial sistólica en bipedestación inferior a 85 mm Hg.
+Un estudio adicional realizado con tamsulosina (0,4 mg) añadida a tadalafilo (5 mg diarios) también
+mostró resultados similares, ya que solo dos de los 37 sujetos mostraron una presión arterial sistólica
+y diastólica significativamente baja tras la administración de tadalafilo y tamsulosina. En los sujetos
+que recibieron alfuzosina, tadalafilo 20 mg también produjo una disminución máxima de la presión
+arterial sistólica que no fue significativamente diferente de la obtenida tras el placebo (diferencia media
+de 4,35 mm Hg). Un sujeto que tomaba alfuzosina tenía una presión arterial sistólica asintomática
+inferior a 85 mm Hg.
+No se observaron eventos adversos vasodilatadores cuando se administró tadalafilo con tamsulosina
+o alfuzosina. Se notificaron mareos, vértigo y síncopes tras la administración de tadalafilo con
+doxazosina.
+• Efectos sobre otros parámetros cardíacos/hemodinámicos
+En pacientes con enfermedad arterial coronaria (EAC) estable e isquemia demostrable con el ejercicio,
+tadalafilo 10 mg no fue inferior al placebo con respecto al efecto sobre el tiempo de isquemia. En otro
+estudio doble ciego, controlado con placebo, para evaluar los efectos de tadalafilo en la perfusión
+miocárdica en pacientes con enfermedad arterial coronaria, el tadalafilo 20 mg no tuvo un efecto
+significativo en el flujo sanguíneo miocárdico, tanto en reposo como durante el estrés farmacológico
+con dobutamina.
+El tadalafilo en dosis de hasta 500 mg no modificó significativamente el gasto cardíaco y no afectó
+significativamente a la respuesta hemodinámica de los pacientes al ejercicio.
+No se observaron cambios relacionados con el tadalafilo en las medidas electrocardiográficas,
+incluido el intervalo QTc, tras la administración de dosis únicas de tadalafilo de hasta 500 mg y dosis
+múltiples de hasta 100 mg una vez al día durante 21 días, a sujetos sanos o pacientes con disfunción
+eréctil. Se obtuvieron los ECG antes y después de la dosis, abarcando el período desde la Cmáx
+esperada de tadalafilo (2 horas) hasta la Cmáx esperada del metabolito primario (metilcatecol
+glucurónido, 24 horas).
+El efecto de una dosis única de 100 mg de tadalafilo (2,5 veces la dosis recomendada) sobre el
+intervalo QT se evaluó en el momento de la concentración máxima de tadalafilo en un estudio cruzado
+aleatorizado, doble ciego, controlado con placebo y activo (ibutilida intravenosa) en 90 hombres sanos
+de 18 a 53 años. El cambio promedio en el QTc (corrección del QT de Fridericia) para el tadalafilo, en
+relación con el placebo, fue de 3,5 milisegundos (IC del 90% de ambos lados=1,9, 5,1). El cambio
+promedio en el QTc (corrección del QT individual) para el tadalafilo, en relación con el placebo, fue de
+2,8 milisegundos (IC del 90% de ambos lados=1,2, 4,4). En este estudio, el aumento promedio de la
+frecuencia cardíaca asociado a una dosis de 100 mg de tadalafilo en comparación con el placebo fue
+
+de 3,1 latidos por minuto.
+En los estudios de farmacología clínica, tadalafilo 10 mg y 20 mg no tuvieron un efecto clínicamente
+significativo sobre la prolongación del tiempo de sangrado inducida por el ácido acetilsalicílico o los
+cambios inducidos por la warfarina en el tiempo de protrombina.
+
+ADVERTENCIAS Y PRECAUCIONES
+General
+Dado que MESDAM T contiene macitentan y tadalafilo, deben tenerse en cuenta las Advertencias y
+Precauciones asociadas a cada componente.
+
+• Efectos sobre la visión
+En un estudio para evaluar los efectos de una dosis única de 40 mg de tadalafilo sobre la visión, no se
+detectó ninguna alteración de la discriminación del color (azul/verde) mediante la prueba de 100 tonos
+de Farnsworth-Munsell. Este hallazgo es consecuente con la baja afinidad del tadalafilo por la PDE6 en
+comparación  con  la  PDE5.  Además,  no  se  observaron  efectos  sobre  la  agudeza  visual,  los
+electrorretinogramas, la presión intraocular o la pupilometría.
+En todos los estudios clínicos con tadalafilo 10 mg o 20 mg, los informes de cambios en la visión del
+color fueron poco frecuentes (< 0,1% de los pacientes).
+
+Trastornos cardiovasculares
+Enfermedad venooclusiva pulmonar
+Dado que no existen datos clínicos sobre la administración de tadalafilo a pacientes con enfermedad
+venooclusiva, no se recomienda la administración de MESDAM T a dichos pacientes. Se han
+informado casos de edema pulmonar con vasodilatadores (principalmente prostaciclinas) cuando se
+usan en los pacientes con enfermedad venooclusiva pulmonar. En consecuencia, si se observan
+signos de edema pulmonar cuando se administra MESDAM T en pacientes con HAP, se debe
+considerar la posibilidad de enfermedad venooclusiva pulmonar.
+
+• Efectos sobre las características del esperma
+Se realizaron tres estudios en hombres de 45 a 70 años para evaluar el efecto potencial sobre la
+espermatogénesis de tadalafilo 10 mg (un estudio de 6 meses) y 20 mg (un estudio de 6 meses y otro
+de 9 meses) administrados una vez al día. En los 3 estudios, no hubo efectos adversos sobre la
+morfología o la motilidad de los espermatozoides. Tampoco hubo cambios significativos en las
+concentraciones medias de las hormonas reproductivas, la testosterona, la hormona luteinizante o la
+hormona estimulante del folículo con 10 mg o 20 mg de tadalafilo en comparación con el placebo. No
+se observó ninguna disminución de la concentración de esperma en el estudio de tadalafilo 20 mg
+administrado durante 6 meses. En el estudio de tadalafilo 10 mg durante 6 meses y en el estudio de
+tadalafilo 20 mg durante 9 meses, los resultados mostraron una disminución estadísticamente
+significativa de la concentración media de esperma en relación con el placebo. Se desconoce su
+relevancia clínica para la fertilidad humana. En el estudio de 9 meses (n=125 [tadalafilo 20 mg], n=128
+[placebo]), la disminución de la concentración de espermatozoides se asoció en unos pocos
+pacientes (pero no en todos) con una mayor frecuencia eyaculatoria, lo que puede ser resultado de la
+mejora de la función sexual relacionada con el tadalafilo.
+
+• Relación exposición-respuesta
+Un análisis de la exposición a tadalafilo y de la distancia recorrida en 6 minutos en sujetos con HAP en
+el estudio de fase 3, generó un aumento previsto por el modelo en la distancia recorrida en 6 minutos
+desde el inicio de 35,6 metros (30,5, 39,6 metros) y 38,09 metros (33,52, 43,20 metros) a las 16
+semanas de administración de 20 mg y 40 mg diarios, asumiendo la mediana (percentiles 10 y 90) de
+la exposición a tadalafilo en estado estacionario.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Consideraciones posológicas
+Insuficiencia renal
+No se recomienda la administración de MESDAM T a pacientes con insuficiencia renal severa. No se
+tiene experiencia con el uso de macitentan en pacientes sometidos a diálisis, por lo que MESDAM T
+no se recomienda en dicha población. MESDAM T está recomendado solo para pacientes con
+insuficiencia renal leve o moderada que toleren de 10 mg de macitentan y 40 mg de tadalafilo una vez
+al día.
+Los pacientes con insuficiencia renal moderada tienen un mayor riesgo de experimentar hipotensión y
+anemia durante el tratamiento con MESDAM T. Por lo tanto, debe considerarse el monitoreo de la
+presión arterial y la hemoglobina.
+Insuficiencia hepática
+No se recomienda la administración de MESDAM T a pacientes con insuficiencia hepática moderada
+o severa. El tratamiento con MESDAM T no debe iniciarse en pacientes con aminotransferasas
+elevadas (>3 x el límite superior normal LSN).
+Se deben obtener pruebas de enzimas hepáticas antes del inicio del tratamiento con MESDAM T.
+Posteriormente, se recomienda realizar pruebas mensuales durante el primer año de tratamiento. Las
+pruebas pueden repetirse con menor frecuencia durante el tratamiento según esté clínicamente
+indicado.
+MESDAM T se recomienda solo para pacientes con insuficiencia hepática leve que toleren dosis
+estables de 10 mg de macitentan y 40 mg de tadalafilo una vez al día como componentes individuales,
+tras una cuidadosa evaluación individual de riesgo/beneficio por parte del médico prescriptor.
+
+Dosis recomendada y ajuste de dosis
+La dosis recomendada de MESDAM T es de un comprimido una vez al día.
+
+Cambio de macitentan y tadalafilo como componentes individuales a MESDAM T
+Los pacientes que actualmente son tratados concomitantemente con dosis estables de 10 mg de
+macitentan y 40 mg de tadalafilo (20 mg x 2) una vez al día como componentes individuales pueden
+cambiarse a MESDAM T.
+
+Pacientes pediátricos (<18 años de edad)
+No se ha establecido la seguridad y eficacia del MESDAM T en niños y adolescentes menores de 18
+años de edad.
+
+Pacientes geriátricos (≥65 años de edad)
+No se requiere ajuste de dosis en pacientes de 65 años de edad o más. Existe una experiencia clínica
+limitada en pacientes mayores de 75 años de edad con macitentan o tadalafilo, por lo que MESDAM
+T debe utilizarse con precaución en esta población.
+
+Administración
+MESDAM T debe tomarse por vía oral una vez al día con o sin alimentos. Los comprimidos deben
+ingerirse enteros.
+
+Dosis omitida
+Si una dosis de MESDAM T se omite, la misma debe ser administrada tan pronto como el paciente lo
+recuerde. En caso contrario, el paciente debe saltarse la dosis y tomar la siguiente en el horario
+habitual. Se debe instruir al paciente para que no tome 2 dosis en el mismo día para compensar la
+dosis omitida.
+
+CONTRAINDICACIONES
+MESDAM T está contraindicado en:
+• Pacientes que son hipersensibles a macitentan o tadalafilo o a cualquier ingrediente de la
+formulación, incluyendo cualquier ingrediente no medicinal o componente del envase.
+• Mujeres que están o pueden quedar embarazadas.
+• Mujeres en periodo de lactancia.
+• Pacientes que estén utilizando cualquier forma de nitrato orgánico (por ejemplo, oral, sublingual,
+transdérmico, por inhalación), ya sea de forma regular o intermitente, debido al riesgo de desarrollar
+una hipotensión potencialmente grave.
+• Pacientes con un episodio previo de neuropatía óptica isquémica anterior no arterítica (NOIANA).
+•  Pacientes  tratados  con  estimulantes  de  la  guanilatociclasa,  como  riociguat,  ya  que  la
+coadministración de fármacos que contienen inhibidores de la fosfodiesterasa tipo 5 (PDE5), incluido
+MESDAM T, con estimulantes de la guanilatociclasa podría provocar episodios potencialmente
+mortales de hipotensión sintomática o síncope.
+
+• Tadalafilo
+Los médicos deben discutir con los pacientes la acción apropiada en caso de que experimenten dolor
+anginoso en el pecho que requiera nitroglicerina después de la administración de MESDAM T.
+En este tipo de pacientes, que han ingerido MESDAM T, cuando la administración de nitratos se
+considere médicamente necesaria para una situación de riesgo vital, deberán haber   transcurrido al
+menos 48 horas después de la última dosis  de MESDAM T antes de  considerar la administración de
+nitratos. En tales circunstancias, los nitratos solo deben administrarse bajo estrecha supervisión
+médica y con una adecuada monitorización hemodinámica.
+Por lo tanto, los pacientes que experimenten dolor anginoso en el pecho después de ingerir MESDAM
+T deben buscar atención médica inmediata.
+Al igual que otros inhibidores de la PDE5, el tadalafilo tiene leves propiedades vasodilatadoras
+sistémicas que pueden dar lugar a disminuciones transitorias de la presión arterial. Aunque este efecto
+no debería tener consecuencias en la mayoría de los pacientes, antes de prescribir MESDAM T, los
+médicos deben considerar cuidadosamente si sus pacientes con enfermedades cardiovasculares
+subyacentes podrían verse afectados negativamente por dichos efectos vasodilatadores. Los
+pacientes con un control autonómico severo de la presión arterial pueden ser especialmente sensibles
+a las acciones de los vasodilatadores, incluidos los inhibidores de la PDE5.
+Los pacientes con obstrucción del flujo de salida del ventrículo izquierdo (por ejemplo, estenosis
+aórtica y estenosis subaórtica hipertrófica idiopática) pueden ser sensibles a la acción de los
+vasodilatadores, incluidos los inhibidores de la PDE5.
+Los siguientes grupos de pacientes con enfermedades cardiovasculares fueron excluidos en los
+ensayos clínicos de tadalafilo en HAP:
+   • Pacientes con enfermedad de la válvula aórtica y mitral clínicamente significativa.
+   • Pacientes con constricción pericárdica.
+   • Pacientes con miocardiopatía restrictiva o congestiva.
+   • Pacientes con disfunción ventricular izquierda significativa.
+   • Pacientes con arritmias potencialmente mortales.
+   • Pacientes con enfermedad coronaria sintomática.
+   • Pacientes con hipotensión (< 90/50 mm Hg), o hipertensión no controlada.
+
+Trastornos en oído/nariz/garganta
+Disminución o pérdida repentina de la audición
+• Tadalafilo
+Los médicos deben aconsejar a los pacientes que busquen atención médica inmediata en caso de
+disminución o pérdida repentina de la audición. Estos eventos, que pueden ir acompañados de
+acúfenos y mareos, se han notificado en asociación temporal con la ingesta de inhibidores de la PDE5,
+incluido el tadalafilo. No es posible determinar si estos eventos están relacionados directamente con
+el uso de inhibidores de la PDE5 o con otros factores.
+
+Trastornos gastrointestinales
+MESDAM T contiene lactosa monohidratada. Los pacientes con intolerancia hereditaria a la galactosa,
+insuficiencia de lactasa de Lapp o malabsorción de glucosa o galactosa no deben usar este
+medicamento.
+
+Trastornos hematológicos
+No se recomienda el inicio de MESDAM T en pacientes con anemia severa. Se recomienda medir las
+concentraciones de hemoglobina antes de iniciar el tratamiento, de nuevo al cabo de un mes y,
+posteriormente, de forma periódica, según esté clínicamente indicado.
+• Macitentan
+Al igual que ocurre con otros antagonistas de los receptores de endotelina (ERA, por sus siglas en
+inglés), el tratamiento con macitentan se ha asociado a una disminución de la concentración de
+hemoglobina. Las disminuciones de la concentración de hemoglobina relacionadas con el macitentan
+se produjeron inmediatamente, no fueron progresivos, se estabilizaron antes de las 12 semanas de
+tratamiento y se mantuvieron estables durante el tratamiento crónico. Con macitentan y otros ERA se
+informaron casos de anemia que requirieron transfusiones.
+
+Trastornos hepáticos/biliares/pancreáticos
+MESDAM T no debe iniciarse en pacientes con niveles de aminotransferasas elevados (>3 x LSN) al
+inicio del tratamiento y no se recomienda en pacientes con insuficiencia hepática moderada o severa.
+Se deben obtener pruebas de enzimas hepáticas antes del inicio del tratamiento con MESDAM T.
+Posteriormente, se recomienda realizar pruebas mensuales durante el primer año de tratamiento. Las
+pruebas pueden repetirse con menor frecuencia durante el tratamiento según esté clínicamente
+indicado.
+Si se producen elevaciones inexplicables de los niveles de aminotransferasa clínicamente relevantes,
+o si las elevaciones van acompañadas de un aumento de la bilirrubina >2 x LSN, o de síntomas
+clínicos de lesión hepática (por ejemplo, ictericia),  MESDAM T debe discontinuarse. Se puede
+considerar la reiniciación de MESDAM T después de que los niveles de enzimas hepáticas vuelvan a
+estar dentro del rango normal en pacientes que no hayan experimentado síntomas clínicos de lesión
+hepática.
+• Macitentan
+Las elevaciones de las aminotransferasas hepáticas (AST, ALT) se han asociado a la HAP y a los ERA.
+En un estudio de resultados de fase III a largo plazo, doble ciego y controlado con placebo de
+macitentan, la incidencia de un aumento de la ALT de >3 veces el límite superior de normalidad (LSN)
+fue del 3,4% en el grupo de 10 mg en comparación con el 1,6% en el grupo de placebo. La incidencia
+de aminotransferasas elevadas de >8 x LSN fue del 2,1% en el grupo de 10 mg de macitentan frente
+al 0,4% en el grupo de placebo. Se han notificado casos de lesiones hepáticas posteriores a la
+comercialización con el uso de macitentan.
+
+1
+
+2
+
+3
+
+4
+
+Pruebas de monitoreo y de laboratorio
+Trastornos hematológicos
+Se recomienda medir las concentraciones de hemoglobina antes de iniciar el tratamiento, de nuevo al
+cabo de un mes y, posteriormente, de forma periódica, según esté clínicamente indicado.
+
+Anticonceptivos
+hormonales
+
+Warfarina
+
+T
+
+CT
+
+Trastornos hepáticos/biliares/pancreáticos
+Las pruebas de enzimas hepáticas deben obtenerse antes del inicio de MESDAM T y posteriormente
+a intervalos mensuales durante el primer año de tratamiento. Las pruebas pueden repetirse con menor
+frecuencia durante el tratamiento según esté clínicamente indicado.
+
+5
+
+Inhibidores fuertes
+de CYP3A4
+(ketoconazol)
+
+CT
+
+Fármaco
+coadministrado
+
+Fuente de
+evidencia
+
+Efecto
+
+Sildenafilo
+
+CT
+
+Anticonceptivos
+hormonales
+
+Warfarina
+
+T
+
+CT
+
+Inhibidores fuertes
+de CYP3A4
+(ketoconazol)
+
+CT
+
+T
+
+Inhibidores
+moderados duales o
+combinados de
+CYP3A4 y
+CYP2C9
+(fluconazol)
+
+Ciclosporina A
+
+CT
+
+Rifampicina
+
+CT
+
+Fármacos
+sustitutos de la
+proteína de
+resistencia al
+cáncer de mama
+
+Riociguat
+
+En estado de equilibrio en voluntarios sanos, la exposición a
+20  mg  de  sildenafilo tres veces al día aumento un 15%
+durante la administración concomitante de 10 mg de
+macitentan  una  vez al día.  El sildenafilo, un sustrato del
+CYP3A4, no afectó a la farmacocinética del macitentan,
+mientras que se produjo una reducción del 15% en la
+exposición al metabolito activo del macitentan. Estos
+cambios no se consideran clínicamente relevantes. En un
+ensayo controlado con placebo en pacientes con HAP, se
+demostró la eficacia y seguridad de 10 mg de macitentan en
+combinación con sildenafilo.
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de un anticonceptivo oral (1 mg de
+noretisterona y 35 mcg de etinilestradiol)
+En voluntarios sanos que reciben warfarina 25 mg, las dosis
+diarias de macitentan no tuvieron un efecto clínicamente
+relevante  sobre  la  farmacocinética  de  S-warfarina (sustrato
+CYP2C9) o R-warfarina (sustrato CYP3A4). El efecto
+farmacodinámico de la warfarina sobre el Cociente
+Normalizado Internacional (INR, por sus siglas en inglés) no
+se  vio  afectado  por  el  macitentan. La  farmacocinética de
+macitentan y su metabolito activo no se vio afectada por la
+warfarina.
+En  presencia  de 400 mg diarios de ketoconazol, un fuerte
+inhibidor de CYP3A4, la exposición al macitentan aumentó
+aproximadamente 2 veces en voluntarios sanos.
+La exposición al metabolito activo del macitentan se redujo
+en  un  26%. Se  desconoce el significado clínico de estos
+cambios.
+
+En presencia de fluconazol 400 mg diarios, un inhibidor dual
+moderado de CYP3A4 y CYP2C9, la exposición a macitentan
+puede aumentar aproximadamente 3,8 veces o más en los
+metabolizadores pobres de CYP2C9, según se ha evaluado
+en la modelización farmacocinética de base fisiológica.
+Sin embargo, no hubo cambios clínicamente relevantes en
+la exposición al metabolito activo de macitentan, y se
+desconoce la importancia clínica de estos hallazgos.
+Deben tenerse en cuenta las incertidumbres de dicha
+modelización.
+
+En voluntarios sanos, el tratamiento concomitante con 100
+mg dos veces al día de ciclosporina A, un inhibidor
+combinado de CYP3A4 y OATP, no alteró la exposición en
+estado estacionario a macitentan y su metabolito
+activo en una medida clínicamente relevante.
+
+En voluntarios sanos, el tratamiento concomitante con 600
+mg diarios de rifampicina, un potente inductor de CYP3A4,
+redujo la exposición en estado estacionario (AUC) a
+macitentan en un 79%, pero no afectó a la exposición al
+metabolito activo. Debe considerarse la reducción de la
+eficacia de macitentan en presencia de un potente inductor
+de CYP3A4, como la rifampicina
+
+Comentario
+Clínico
+
+No está justificado adaptar la
+dosis.
+
+No está justificado adaptar la
+dosis.
+
+No está justificado adaptar la
+dosis.
+
+Se debe tener precaución
+cuando se
+Administre MESDAM T
+concomitantemente
+con inhibidores fuertes de
+CYP3A4 (por ejemplo,
+itraconazol,
+ketoconazol,voriconazol,
+claritromicina,
+nefazodona, ritonavir,
+saquinavir).
+
+Se debe tener precaución
+cuando se administra
+MESDAM T concomitantemente
+con inhibidores duales e
+inhibidores
+duales moderados
+de CYP3A4 y CYP2C9 (por
+ejemplo, fluconazol,
+amiodarona).
+También se debe tener
+precaución al administrar
+macitentan
+concomitantemente
+con un inhibidor moderado de
+CYP3A4 (por ejemplo,
+ciprofloxacina,ciclosporina,
+diltiazem, eritromicina,
+verapamilo) y un inhibidor de
+CYP2C9 (por ejemplo, miconazol).
+
+No está justificado adaptar la
+dosis.
+
+Debe evitarse la combinación
+de MESDAM  T con inductores
+fuertes de CYP3A4.
+
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de la rosuvastatina (10 mg por vía oral).
+
+No está justificado adaptar la
+dosis.
+
+Macitentan (10 mg una vez al día) no afectó a la
+farmacocinética de riociguat (1 mg por vía oral).
+
+Dado que MESDAM T
+contiene tadalafilo, la
+administración conjunta de
+MESDAM  T con  riociguat  está
+contraindicada
+
+Tadalafilo
+Potencial de interacciones farmacodinámicas con tadalafilo
+• Nitratos: la administración de tadalafilo a pacientes que estén utilizando cualquier forma de nitrato
+orgánico, está contraindicada.
+En estudios de farmacología clínica, se demostró que el tadalafilo potencia el efecto hipotensor de los
+nitratos. En un paciente que haya tomado tadalafilo, cuando la administración de nitratos se considere
+médicamente necesaria en una situación de riesgo vital, deben transcurrir al menos 48 horas después
+de  la  última  dosis  de  tadalafilo  antes  de  considerar  la  administración  de  nitratos.  En  tales
+circunstancias, los nitratos solo deben administrarse bajo estrecha supervisión médica y con una
+adecuada monitorización hemodinámica.
+• Alfabloqueantes: se recomienda tener precaución cuando se coadministran inhibidores de la PDE5
+con alfabloqueantes. Los inhibidores de la PDE5, incluido el tadalafilo, y los agentes bloqueadores alfa
+adrenérgicos son vasodilatadores con efectos reductores de la presión arterial. Cuando se utilizan
+vasodilatadores en combinación, puede preverse un efecto aditivo sobre la presión arterial. Se han
+realizado estudios de farmacología clínica con la coadministración de tadalafilo con doxazosina,
+alfuzosina o tamsulosina.
+• Combinación con otros inhibidores de la PDE5: tadalafilo también se comercializa  para el
+tratamiento de la disfunción eréctil masculina. No se ha estudiado la seguridad y eficacia de las
+combinaciones de MESDAM T con tadalafilo u otros inhibidores de la PDE5. Por lo tanto, no se
+recomienda el uso de tales combinaciones.
+• Antihipertensivos: los inhibidores de la PDE5, incluido el tadalafilo, son vasodilatadores sistémicos de
+efecto suave. Se realizaron estudios de farmacología clínica para evaluar el efecto de tadalafilo en la
+potenciación de los efectos reductores de la presión arterial de determinados medicamentos
+antihipertensivos (amlodipina, antagonistas de los receptores de la angiotensina II, bendrofluazida,
+enalapril  y  metoprolol).  Se  produjeron  pequeñas  reducciones  de  la  presión  arterial  tras  la
+coadministración de tadalafilo con estos agentes en comparación con el placebo.
+• Los médicos deben discutir con los pacientes la posibilidad de que MESDAM T aumente el efecto
+reductor de la presión arterial de los alfabloqueantes y los medicamentos antihipertensivos.
+En algunos pacientes, el uso concomitante de inhibidores de la PDE5 y alfabloqueantes puede reducir
+significativamente la presión arterial, lo que puede provocar una hipotensión sintomática (por ejemplo,
+desmayos). Se debe tener en cuenta lo siguiente:
+• Los pacientes deben estar estables en la terapia con alfabloqueantes antes de iniciar el tratamiento
+con MESDAM T.
+Los pacientes que demuestran inestabilidad hemodinámica con la terapia de alfabloqueantes solo
+tienen un mayor riesgo de hipotensión sintomática con el uso concomitante de inhibidores de la PDE5.
+• En aquellos pacientes que ya estén tomando una dosis optimizada de inhibidor de la PDE5, la
+terapia con alfabloqueantes debe iniciarse en la dosis más baja. El aumento gradual de la dosis de
+alfabloqueantes puede asociarse a una mayor disminución de la presión arterial cuando se toma un
+inhibidor de la PDE5.
+• La seguridad del uso combinado de inhibidores de la PDE5 y alfabloqueantes puede verse afectada
+por otras variables, como la disminución del volumen intravascular y otros fármacos antihipertensivos.
+• Alcohol: los inhibidores de la PDE5, incluido el tadalafilo, son vasodilatadores y pueden aumentar el
+efecto reductor de la presión arterial del alcohol.
+El tadalafilo no afectó a las concentraciones de alcohol, y el alcohol no afectó a las concentraciones
+de tadalafilo. A dosis elevadas de alcohol (0,7 g/kg, concentración sanguínea máxima media de
+0,08%), la inclusión de 10 o 20 mg de tadalafilo no indujo disminuciones de la presión arterial media
+estadísticamente significativas. En algunos sujetos se observaron mareos posturales e hipotensión
+ortostática. Cuando se administró tadalafilo con dosis más bajas de alcohol (0,6 g/kg), no se observó
+hipotensión y se produjeron mareos con una frecuencia similar a la del alcohol solo.
+
+Potencial de otros fármacos para afectar a tadalafilo
+• Inductores del citocromo P450: los estudios han demostrado que los fármacos que inducen el
+CYP3A4 pueden disminuir la exposición al tadalafilo. Para los pacientes que toman crónicamente
+inductores potentes de CYP3A4, como la rifampicina, no se recomienda el uso de tadalafilo.
+• Rifampicina (600 mg diarios), un inductor de CYP3A4, redujo la exposición de tadalafilo 10 mg en
+dosis única (AUC) en un 88% y la Cmáx en un 46%, en relación con los valores de tadalafilo 10 mg solo.
+• Bosentán (125 mg dos veces al día), un sustrato de CYP2C9 y CYP3A4 y un inductor moderado de
+CYP3A4, CYP2C9 y posiblemente CYP2C19, redujo la exposición sistémica de tadalafilo (40 mg una
+vez al día) en un 42% y la Cmáx en un 27% tras la coadministración de múltiples dosis.
+
+Aunque no se han estudiado las interacciones específicas, otros inductores de CYP3A4, como la
+carbamazepina, la fenitoína y el fenobarbital, probablemente disminuirían la exposición al tadalafilo.
+• Inhibidores del citocromo P450: el tadalafilo se metaboliza predominantemente por el CYP3A4. En
+pacientes que toman inhibidores potentes de CYP3A4 como ketoconazol, itraconazol o ritonavir, no se
+recomienda el uso de MESDAM T.
+• Los estudios han demostrado que los fármacos que inhiben el CYP3A4 pueden aumentar la
+exposición al tadalafilo.
+• Ketoconazol (400 mg diarios), un inhibidor selectivo y potente de CYP3A4, aumentó la exposición de
+tadalafilo 20 mg en dosis única (AUC) en un 312% y la Cmáx en un 22%, en relación con los valores de
+tadalafilo 20 mg solo. Ketoconazol (200 mg diarios) aumentó la exposición de tadalafilo 10 mg en una
+sola dosis (AUC) en un 107% y la Cmáx en un 15%, en relación con los valores de tadalafilo 10 mg solo.
+Aunque no se han estudiado las interacciones específicas, otros inhibidores de CYP3A4, como la
+eritromicina y el itraconazol, probablemente aumentarían la exposición al tadalafilo.
+• Inhibidor de la proteasa del VIH: Ritonavir (500 mg o 600 mg dos veces al día en estado de equilibrio),
+un inhibidor de CYP3A4, CYP2C9, CYP2C19 y CYP2D6, aumentó la exposición de tadalafilo 20 mg en
+dosis única (AUC) en un 32% con una reducción del 30% en la Cmáx, en relación con los valores de
+tadalafilo 20 mg solo.
+• Ritonavir (200 mg dos veces al día), aumentó la exposición de tadalafilo 20 mg en dosis única (AUC)
+en un 124%, sin cambios en la Cmáx, en relación con los valores de tadalafilo 20 mg solo.
+Aunque no se han estudiado las interacciones específicas, es probable que otros inhibidores de la
+proteasa del VIH aumenten la exposición al tadalafilo.
+• Antiácidos: la administración simultánea de un antiácido (hidróxido de magnesio/hidróxido de
+aluminio) y tadalafilo (10 mg) redujo la tasa aparente de absorción de tadalafilo sin alterar la exposición
+(AUC) a tadalafilo.
+• Antagonistas H2 (por ejemplo, nizatidina): un aumento del pH gástrico resultante de la administración
+de nizatidina no tuvo un efecto significativo sobre la farmacocinética de tadalafilo (10 mg).
+
+Potencial de tadalafilo para afectar a otros fármacos
+• Sustratos del citocromo P450: no se espera que tadalafilo cause una inhibición o inducción
+clínicamente significativa de la depuración de los fármacos metabolizados por las isoformas del
+citocromo P450 (CYP).
+• CYP1A2 (por ejemplo, teofilina): tadalafilo (10 mg una vez al día) no tuvo un efecto significativo sobre
+la farmacocinética de la teofilina. Cuando se administró tadalafilo a sujetos que tomaban teofilina, se
+observó un pequeño aumento (3 latidos por minuto) del incremento de la frecuencia cardíaca asociado
+a la teofilina.
+• CYP2C9 (por ejemplo, warfarina): el tadalafilo (10 mg y 20 mg una vez al día) no tuvo un efecto
+significativo sobre la exposición (AUC) a la S-warfarina o a la R-warfarina, ni el tadalafilo afectó a los
+cambios en el tiempo de protrombina inducidos por la warfarina.
+
+• CYP3A4 (por ejemplo, midazolam, lovastatina o bosentán): tadalafilo (10 mg y 20 mg una vez al día)
+
+no tuvo un efecto significativo sobre la exposición (AUC) a midazolam o lovastatina.
+
+Tadalafilo (40 mg una vez al día) no tuvo un efecto clínicamente significativo sobre la exposición (AUC
+y Cmáx) del bosentán, un sustrato de CYP2C9 y de CYP3A4, o de sus metabolitos.
+• Aspirina: tadalafilo (10 mg y 20 mg una vez al día) no potenció el aumento del tiempo de sangrado
+
+originado por la aspirina.
+
+• Glicoproteína-P (por ejemplo, digoxina): la coadministración de tadalafilo (40 mg una vez al día)
+durante 10 días no tuvo una modificación significativa de la farmacocinética de la digoxina (0,25
+mg/día) en sujetos sanos.
+
+• Anticonceptivos orales combinados: en estado de equilibrio, el tadalafilo (40 mg una vez al día)
+aumentó la exposición al etinilestradiol (AUC) en un 26% y la Cmáx en un 70% en relación con el
+anticonceptivo oral administrado con placebo. No hubo un efecto estadísticamente significativo del
+tadalafilo sobre el levonorgestrel.
+
+Interacciones entre fármaco y alimento
+Cuando se administró MESDAM T a sujetos sanos con una comida rica en grasas, no se observó
+ningún efecto de los alimentos en la farmacocinética de macitentan y el AUC de tadalafilo no se
+modificó, mientras que la Cmáx aumentó un 45%. Este aumento de la Cmáx de tadalafilo no se considera
+clínicamente significativo.
+El jugo de pomelo, al ser un débil inhibidor del metabolismo de la pared intestinal de CYP3A4, puede
+dar lugar a modestos aumentos de los niveles plasmáticos de tadalafilo.
+
+Interacciones entre fármaco y producto herbáceo
+No se han establecido las interacciones con productos herbáceos.
+
+Interacciones entre fármaco y pruebas de laboratorio
+No se han establecido las interacciones con las pruebas de laboratorio
+
+Embarazo
+No  se  registran  datos  sobre  el  uso  de MESDAM  T  durante  el  embarazo. MESDAM  T  está
+contraindicado durante el embarazo o en pacientes que puedan quedar embarazadas debido a la
+teratogenicidad identificada en los estudios en animales con macitentan. Dado que MESDAM T
+contiene macitentan y tadalafilo, debe tenerse en cuenta la información sobre el embarazo asociada a
+cada componente.
+• Macitentan
+La HAP es una contraindicación para el embarazo, debido al alto riesgo de mortalidad tanto para la
+madre como para el feto. Existen datos limitados sobre la administración de macitentan a mujeres
+embarazadas. Todavía se desconoce el riesgo potencial en humanos. En los estudios con animales, el
+macitentan  fue  teratogénico  en  conejos  y  ratas,  provocando  fusiones  y  anormalidades
+cardiovasculares y del arco mandibular en todos los niveles de dosis probados. Las mujeres que
+reciben macitentan deben ser advertidas del riesgo de daño al feto.
+El tratamiento con macitentan solo debe iniciarse en mujeres en edad fértil cuando se haya verificado
+la ausencia de embarazo, proporcionado el asesoramiento adecuado sobre anticoncepción y
+practicado una anticoncepción fiable. Las mujeres no deben quedarse embarazadas durante 1 mes
+después de la discontinuación de macitentan. Se recomiendan pruebas de embarazo mensuales
+durante el tratamiento con macitentan para permitir la detección temprana del embarazo.
+
+• Tadalafilo
+No se han realizado estudios adecuadamente controlados sobre el uso de tadalafilo en mujeres
+embarazadas. Los estudios de reproducción animal en ratas y ratones no revelaron evidencia de daño
+fetal.
+Los estudios de reproducción animal no mostraron evidencia de teratogenicidad, embriotoxicidad o
+fetotoxicidad cuando se administró tadalafilo a ratas o ratones preñados a exposiciones de tadalafilo
+no ligado de hasta 9 veces la dosis máxima recomendada para humanos (MRHD) de 40 mg/día
+durante la organogénesis.
+
+Lactancia
+MESDAM T está contraindicado en mujeres lactantes. Se desconoce si macitentan o tadalafilo, o sus
+metabolitos se excretan en la leche materna. En ratas, macitentan y sus metabolitos se excretaron en
+la leche durante la lactancia.
+
+Pacientes pediátricos
+Pacientes pediátricos (<18 años de edad): No se ha establecido la seguridad y eficacia de MESDAM
+
+T en pacientes pediátricos.
+
+Fertilidad
+No se ha evaluado el efecto de MESDAM T sobre la fertilidad en humanos. Dado que MESDAM T
+contiene macitentan y tadalafilo, debe tenerse en cuenta la información sobre fertilidad asociada a
+cada componente.
+Macitentan
+En un estudio aleatorizado y controlado con placebo en sujetos sanos, la administración de 10 mg de
+macitentan durante >12 semanas no se asoció a una reducción clínicamente relevante del recuento
+promedio de espermatozoides. Los cambios observados en la morfología y la motilidad de los
+espermatozoides estaban dentro del rango de variabilidad de las mediciones. Sin embargo, se han
+observado disminuciones en el recuento de espermatozoides en pacientes que toman ERA y no se
+puede excluir por completo el deterioro de la espermatogénesis.
+En estudios de toxicidad por dosis repetidas, se produjeron cambios patológicos en los testículos
+(dilatación tubular, degeneración tubular o atrofia tubular o hipoespermatogénesis) en ratas o caninos
+a una exposición 18 veces mayor a la humana.
+• Tadalafilo
+Los estudios a largo plazo en humanos con sujetos de 45 años o más han demostrado que la terapia
+con tadalafilo puede disminuir la concentración de esperma en algunos pacientes, pero se desconoce
+la relevancia clínica de esto para la fertilidad humana.
+
+Función
+• Tadalafilo
+MESDAM T debe utilizarse con precaución en pacientes con deformaciones anatómicas del pene
+(como angulación, fibrosis cavernosa o enfermedad de Peyronie), o en pacientes que tengan
+afecciones que puedan predisponer al priapismo (como anemia falciforme, mieloma múltiple o
+leucemia).
+
+Pacientes geriátricos
+No hay experiencia clínica con el uso de MESDAM T en pacientes de 65 años de edad o más.
+En los estudios clínicos de macitentan y tadalafilo en HAP, el 14% y el 28% de los sujetos tenían 65
+años de edad o más. Existe una experiencia clínica limitada en pacientes mayores de 75 años de edad
+con macitentan o tadalafilo, por lo que MESDAM T debe utilizarse con precaución en esta población.
+
+REACCIONES ADVERSAS
+Consideraciones generales sobre reacciones adversas
+El perfil de seguridad general de MESDAM T se basa en el uso concomitante de macitentan y
+tadalafilo y en los datos de seguridad de los componentes individuales.
+Dado que MESDAM T contiene macitentan y tadalafilo, deben tenerse en cuenta las reacciones
+adversas asociadas a cada componente.
+
+Reacciones adversas en ensayos clínicos
+Debido a que los ensayos clínicos se llevan a cabo bajo condiciones muy específicas, las tasas de
+reacciones adversas observadas en los ensayos clínicos pueden no reflejar las tasas observadas en
+la práctica y no deben compararse con las tasas en los ensayos clínicos de otro fármaco. La
+información sobre las reacciones adversas de los ensayos clínicos es útil para identificar los eventos
+adversos relacionados con el fármaco y para aproximar las tasas.
+• Macitentan
+Los datos de seguridad de macitentan se obtuvieron de un estudio clínico a largo plazo controlado
+con placebo en 742 pacientes con HAP. Se administraron dosis de 3 mg y 10 mg de macitentan una
+vez al día. Se presentan los datos de seguridad para la dosis
+recomendada de 10 mg de macitentan. La exposición a macitentan en este ensayo fue de hasta 3,6
+años (N=542 durante 1 año; N=429 durante 2 años y N=98 durante más de 3 años). La incidencia
+general de discontinuaciones del tratamiento debido a eventos adversos (EA) fue del 11% (26/242
+pacientes) para 10 mg de macitentan y del 12% (31/249 pacientes) para placebo. La incidencia
+general de pacientes con un EA serio fue del 45% (109/242 pacientes) para 10 mg de macitentan y del
+55% (137/249
+pacientes) para placebo.
+La mayoría de los EA fueron leves o moderados en intensidad. La tabla 2 representa los EA
+emergentes del tratamiento notificados por >3% de los pacientes en el grupo de 10 mg de macitentan
+y más frecuentes que con placebo por >3%.
+
+Tabla 2: Reacciones adversas emergentes del tratamiento notificadas por >3% de los pacientes
+con macitentan y más frecuentes que con placebo por >3%.
+
+Clase de órgano, aparato o sistema/
+Eventos adversos (EA)
+
+Macitentan,
+10 mg
+(n=242)
+(%)
+
+Placebo
+(n=249)
+(%)
+
+Trastornos de la sangre y del sistema linfático
+
+Anemia
+
+Infecciones e infestaciones
+
+Nasofaringitis
+
+Bronquitis
+
+Infección del tracto urinario
+
+Faringitis
+
+Influenza
+
+Trastornos del sistema nervioso
+
+Cefalea
+
+13
+
+14
+
+12
+
+9
+
+6
+
+6
+
+14
+
+3
+
+10
+
+6
+
+6
+
+3
+
+2
+
+9
+
+La hipotensión se ha asociado al uso de los ERA. En un estudio a largo plazo, doble ciego, en
+pacientes con HAP, se informó hipotensión como EA para el 7,0% y 4,4% de los pacientes con 10 mg
+de macitentan y placebo, respectivamente. Esto corresponde a 3,5 eventos/100 pacientes-año con 10
+mg de macitentan en comparación a 2,7 eventos/100 pacientes-año con placebo.
+El edema/retención de líquidos se ha asociado con el uso de los ERA y es también una manifestación
+clínica de la insuficiencia cardíaca derecha y de la enfermedad de HAP subyacente. En un estudio
+doble ciego a largo plazo en pacientes con HAP, la incidencia de los EA por edema en los grupos de
+tratamiento con 10 mg de macitentan y con placebo fue del 21,9% y del 20,5%, respectivamente. Esto
+corresponde a 11,0 eventos/100 pacientes-año con 10 mg de macitentan en comparación a 12,5
+eventos/100 pacientes-año con placebo.
+
+•Tadalafilo
+El tadalafilo se administró a 402 pacientes con HAP durante los ensayos clínicos realizados en todo el
+mundo. En los ensayos de tadalafilo, un total de 266 pacientes fueron tratados durante al menos 182
+días, y 110 pacientes fueron tratados durante al menos 360 días.
+Los eventos adversos (EA) se notificaron con mayor incidencia en los sujetos que ingerían 40 mg de
+tadalafilo; sin embargo, la tasa de discontinuación debido a EA distintos de los relacionados con el
+empeoramiento de la HAP fue similar en el grupo de tratamiento con tadalafilo (3,8%) y en el de
+placebo (4,9%).
+
+Tabla 3:   Reacciones adversas emergentes del tratamiento reportados por ≥3% de los pacientes
+en el grupo de 40 mg de tadalafilo y más frecuentes que el placebo
+
+Evento
+
+Placebo (%)
+(n = 82)
+
+Cefalea
+Mialgia
+Nasofaringitis
+Rubefacción
+Infección del tracto respiratorio
+(superior e inferior)
+Dolor de las extremidades
+Diarrea
+Náuseas
+Dorsalgia
+Dispepsia
+Congestión nasal
+(incluida la congestión sinusal)
+Dolor torácico
+Disnea
+Fatiga
+Vómitos
+Infección del tractor respiratorio superior
+Bronquitis
+Enfermedad por reflujo gastroesofágico
+Edema
+Erupción cutánea
+Constipación
+Sofoco
+Insomnio
+Menorragia
+(incluyendo el aumento del sangrado uterino)a
+Rigidez musculoesquelética
+Dolor torácico de origen no cardíaco
+Infección del tracto urinario
+Malestar abdominal
+Dolor abdominal
+Dolor abdominal inferior
+Dolor abdominal superior
+Sinusitis
+Espasmos musculares
+Visión borrosa
+
+15
+4
+7
+2
+6
+
+2
+10
+6
+6
+2
+1
+
+1
+4
+4
+1
+4
+0
+4
+1
+3
+1
+2
+2
+0
+
+0
+0
+0
+0
+2
+1
+1
+0
+2
+1
+
+Tadalafilo,
+40 mg (%)
+(n = 79)
+42
+14
+13
+13
+13
+
+11
+11
+11
+10
+10
+9
+
+6
+6
+6
+6
+6
+5
+5
+5
+5
+4
+4
+4
+4
+
+4
+4
+4
+3
+3
+3
+3
+3
+3
+3
+
+a  Término  clínico  no  MedDRA  para  incluir  informes  de  condiciones  de  sangrado  menstrual
+anormal/excesivo como menorragia, metrorragia o menometrorragia.
+
+En el estudio controlado con placebo, un sujeto (que recibió tadalafilo 10 mg) informó de cambios en
+la visión del color. En el estudio de extensión a largo plazo, ningún paciente informó de cambios en la
+visión del color.
+
+Reacciones adversas menos frecuentes en ensayos clínicos
+Macitentan1
+• Trastornos de la sangre y del sistema linfático: anemia, eosinofilia, hemorragia, leucopenia,
+linfadenitis, policitemia.
+• Trastornos cardíacos: fibrilación auricular, taquicardia auricular, bloqueo auriculoventricular de
+primer grado, bloqueo de rama derecha, derrame pericárdico, taquicardia supraventricular.
+• Trastornos del oído y del laberinto: vértigo.
+• Trastornos oculares: cataratas, conjuntivitis, aumento del lagrimeo, visión borrosa
+• Trastornos gastrointestinales: dolor abdominal, colitis, constipación, divertículo intestinal,
+intoxicación alimentaria, gastritis erosiva, hemorroides, síndrome del intestino irritable, periodontitis,
+dentalgia.
+• Trastornos generales y alteraciones en el lugar de administración: enfermedad similar a la gripe,
+dolor torácico de origen no cardíaco, muerte súbita.
+• Trastornos hepatobiliares: colelitiasis, hiperbilirrubinemia.
+• Trastornos del sistema inmunológico: hipersensibilidad a los fármacos.
+• Infecciones e infestaciones: infección de oído, forúnculo, gastroenteritis viral, infección parasitaria,
+infección  de  las  vías  respiratorias  inferiores,  herpes  oral,  sobrecrecimiento  bacteriano,
+estrongiloidiasis, amigdalitis, absceso dental, traqueítis.
+• Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos:
+picadura de artrópodo, contusión, laceración.
+• Investigaciones: aumento de la alanina aminotransferasa, aumento de la creatinina en sangre,
+aumento de la urea en sangre, disminución del hematocrito, disminución de la hemoglobina,
+disminución del recuento de plaquetas, disminución del recuento de glóbulos rojos, disminución del
+peso, disminución del recuento de glóbulos blancos.
+• Trastornos del metabolismo y la nutrición: hiperpotasemia, hiponatremia.
+• Trastornos musculoesqueléticos y del tejido conectivo: artritis, costocondritis, síndrome de dolor
+miofascial, espasmos musculares, artrosis, osteocondrosis, fascitis plantar, esclerosis sistémica
+• Neoplasias benignas, malignas e inespecíficas (incluidos quistes y pólipos): leiomioma uterino.
+• Trastornos del sistema nervioso: mareos por esfuerzo, migraña, neuralgia, ciática.
+• Trastornos psiquiátricos: ansiedad, disminución de la actividad.
+• Trastornos mamarios y del sistema reproductor: amenorrea, ginecomastia, menorragia,
+metrorragia, quiste de ovario, erosión cervical uterina.
+• Trastornos respiratorios, torácicos y del mediastino: hiperreactividad bronquial, enfermedad
+pulmonar obstructiva crónica, disfonía, disnea de esfuerzo, hidrotórax, hipoxia, congestión nasal, dolor
+orofaríngeo, tos productiva, insuficiencia respiratoria, rinitis alérgica, rinorrea.
+
+• Trastornos cutáneos y del tejido subcutáneo: dermatitis alérgica, eczema, eritema, reacción de
+fotosensibilidad, prurito, inflamación facial, urticaria.
+• Trastornos vasculares: rubefacción, hematoma, sofoco, hipotensión ortostática, tromboflebitis,
+varices.
+1 Eventos con frecuencia <3% ocurridos en más de 1 paciente en el grupo de macitentán, y con mayor frecuencia que en
+el grupo de placebo; Eventos menos frecuentes ocurridos en al menos dos sujetos en el grupo de tratamiento de 40 mg
+de tadalafilo, y mayores que en el de placebo.
+
+Fecha de última revisión:  abril 2025.
+
+FORMA DE CONSERVACIÓN
+- Conservar en lugar seco, entre 15 °C y 25 °C.
+- Mantener alejado del alcance de los niños.
+
+Esta especialidad medicinal está libre de gluten.
+
+Dirección Técnica: Dr. Alejandro D. Santarelli - Farmacéutico.
+ESPECIALIDAD MEDICINAL AUTORIZADA POR EL MINISTERIO DE SALUD DE LA NACION.
+Certificado N° 60.368
+Laboratorios CASASCO S.A.I.C.
+Av. Boyacá 237 - Ciudad Autónoma de Buenos Aires - Argentina
+
+Tadalafilo2
+• Trastornos linfáticos y de la sangre: aumento del Cociente Normalizado Internacional (INR).
+• Todo el cuerpo: escalofríos, herpes zóster, onicomicosis, dolor.
+• Trastornos digestivos: malestar abdominal, dolor abdominal (inferior y superior), gastritis, malestar
+estomacal.
+• Trastornos metabólicos y nutricionales: hipercolesterolemia.
+• Trastornos musculoesqueléticos: artralgia, esguince articular, molestias/dolor en las extremidades.
+• Trastornos nerviosos: hipoestesia, parestesia.
+• Trastornos psiquiátricos: depresión.
+• Trastornos oftalmológicos: aumento del lagrimeo, edema/inflamación de los párpados.
+• Trastornos otológicos: vértigo.
+• Trastornos respiratorios: infección del tracto respiratorio inferior, dolor faringolaríngeo, rinitis.
+• Sistema reproductivo: hemorragia vaginal.
+
+2 Eventos notificados en el ensayo clínico controlado de tadalafilo que se produjeron en al menos dos sujetos del grupo de
+tratamiento de 40 mg, y mayores que los del placebo. La relación de tales eventos con tadalafilo es dudosa.
+
+Hallazgos anormales de laboratorio: hematología, química clínica y otros datos cuantitativos
+Macitentan
+• Hemoglobina: En un estudio doble ciego en pacientes con HAP, macitentan 10 mg se asoció con una
+disminución promedio de hemoglobina de 1,0g/dL en comparación con placebo. Se informó una
+disminución en la concentración de hemoglobina por debajo de 10 g/dL en el 8,7% de los pacientes
+tratados con 10 mg de macitentan y en el 3,4% de los pacientes tratados con placebo.
+• Aminotransferasas hepáticas: La incidencia de elevaciones de aminotransferasas (ALT/AST) >3 x
+LSN fue del 3,4% con 10 mg de macitentan y del 4,5% con placebo en un estudio doble ciego en
+pacientes con HAP. Se produjeron elevaciones >5 x LSN en el 2,5% de los pacientes que tomaron 10
+mg de macitentan frente al 2% de los pacientes que tomaron placebo.
+Se han notificado elevaciones de las aminotransferasas hepáticas (ALT, AST) y lesiones hepáticas con
+el uso de macitentan. En la mayoría de los casos se pudieron identificar causas alternativas
+(insuficiencia cardíaca, congestión hepática, hepatitis autoinmune).
+Los  antagonistas  de  los  receptores  de  endotelina  se  han  asociado  con  elevaciones  de  las
+aminotransferasas, hepatotoxicidad y casos de insuficiencia hepática.
+
+Reacciones adversas posteriores a la comercialización
+Además de los eventos adversos identificados en los estudios clínicos, se identificaron los siguientes
+eventos adversos durante la experiencia posterior a la comercialización. Debido a que estos eventos
+han sido notificados voluntariamente por una población de tamaño desconocido, no se pueden hacer
+estimaciones de la frecuencia.
+
+Macitentan
+• Trastornos gastrointestinales: elevaciones de las aminotransferasas hepáticas (ALT, AST), lesión
+hepática.
+• Trastornos generales y alteraciones en el lugar de administración: edema/retención de líquidos.
+• Trastornos del sistema inmunológico: reacciones de hipersensibilidad (angioedema, prurito y
+erupción cutánea).
+• Trastornos respiratorios, torácicos y del mediastino: congestión nasal.
+
+Tadalafilo
+• Todo el cuerpo: reacciones de hipersensibilidad que incluyen erupción cutánea, urticaria, edema
+facial, síndrome de Stevens-Johnson y dermatitis exfoliativa.
+• Trastornos cardiovasculares y cerebrovasculares: eventos cardiovasculares severos, incluyendo
+infarto de miocardio, muerte súbita cardíaca, angina de pecho inestable, arritmia ventricular, accidente
+cerebrovascular, ataques isquémicos transitorios, dolor de pecho, palpitaciones y taquicardia.
+• Hipotensión (notificada con más frecuencia cuando se administra tadalafilo a pacientes que ya
+están tomando agentes antihipertensivos), hipertensión y síncope.
+• Trastornos gastrointestinales: dolor abdominal y reflujo gastroesofágico.
+• Trastornos del sistema nervioso: migraña, amnesia global transitoria.
+• Trastornos otológicos: se han notificado casos de disminución o pérdida repentina de la audición
+después de la comercialización en asociación temporal con el uso de inhibidores de la PDE5, incluido
+el tadalafilo. En muchos casos, la información de seguimiento médico era limitada.
+• Trastornos respiratorios: epistaxis (hemorragia nasal).
+• Trastornos cutáneos y del tejido subcutáneo: hiperhidrosis (sudoración).
+• Sentidos especiales: visión borrosa, neuropatía óptica isquémica anterior no arterítica, oclusión de
+la vena retiniana, defecto del campo visual.
+• Trastornos urogenitales: priapismo, erección prolongada.
+
+SOBREDOSIFICACIÓN
+No hay experiencia en humanos de sobredosis aguda con MESDAM T. Dado que MESDAM T
+contiene macitentan y tadalafilo, debe tenerse en cuenta el riesgo de sobredosis asociado a cada
+componente.
+
+Tratamiento
+En caso de sobredosis con MESDAM T, se deben tomar medidas de apoyo estándar según sea
+necesario. Conforme a los datos de los componentes individuales, es poco probable que la diálisis sea
+eficaz.
+
+Macitentan
+Macitentan se ha administrado en una dosis única de hasta 600 mg en sujetos sanos. Se observaron
+eventos adversos de dolor de cabeza, náuseas y vómitos.
+
+Tadalafilo
+Se han administrado dosis únicas de hasta 500 mg de tadalafilo a sujetos sanos, y dosis diarias
+múltiples de hasta 100 mg/día durante 21 días a pacientes con disfunción eréctil (DE). Las reacciones
+adversas fueron similares a las observadas en dosis inferiores. No se estudiaron las dosis mayores a
+40 mg en pacientes con hipertensión
+arterial pulmonar.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con
+los Centros de Toxicología.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247 / 0800-444-8694.
+Hospital A. Posadas: (011) 4654-6648/4658-7777 / 0800-333-0160.
+Centro de Asistencia Toxicológica La Plata: (0221) 451-5555.
+
+PRESENTACIÓN
+Envases con 30 comprimidos recubiertos.
+
+Ciclosporina A
+
+CT
+
+Rifampicina
+
+CT
+
+Fármacos
+sustitutos de la
+proteína de
+resistencia al
+cáncer de mama
+
+Riociguat
+
+E-7648-01 / D7988 / Act.: 01/2025
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13

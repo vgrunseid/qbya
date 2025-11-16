@@ -1,0 +1,299 @@
+atrioventricular tanto en animales como en humanos.
+Losartán: el losartán potásico es un antagonista de los receptores tipo AT1 de la angiotensina
+II. La angiotensina II se une a los receptores AT1 existentes en numerosos tejidos, en particular
+músculo  liso  vascular,  suprarrenales,  riñones  y  corazón,  provocando  vasoconstricción  y
+liberación  de  aldosterona.  La  angiotensina  II  estimula  asimismo  la  proliferación  de  células
+musculares lisas. El losartán y su metabolito ácido carboxílico activo se fijan selectivamente a
+los receptores AT1.
+El  losartán  determina  un  aumento  de  los  niveles  plasmáticos  de  renina  y  angiotensina  II,  al
+desaparecer el efecto supresivo de angiotensina II sobre la secreción de renina. Este efecto no
+interfiere la acción antihipertensiva del losartán.
+
+Farmacocinética
+Amlodipina:  después  de  la  administración  oral  de  dosis  terapéuticas  de  amlodipina  su
+absorción produce pico de concentración plasmática entre las 6 y l2 hs. Su biodisponibilidad
+puede alcanzar el 90%. Amlodipina se metaboliza extensamente en el hígado excretándose el
+l0% como droga original y el 60% como metabolitos en la orina. El 93% de la droga circula unida
+a proteínas plasmáticas. La vida media de eliminación es de 30 a 50 hs. Luego de 7 días de
+tratamiento  se  alcanzan  niveles  estables  de  amlodipina  en  el  plasma.  La  farmacocinética  de
+amlodipina no se ve afectada en forma significativa en la insuficiencia renal pudiendo iniciarse
+en  estos  casos  el  tratamiento  con  dosis  usuales.  En  pacientes  añosos  o  con  insuficiencia
+hepática se recomienda el empleo de dosis iniciales menores.
+Losartán:  tras    la      administración      oral    el  losartán  es  bien  absorbido,  presentando
+metabolización hepática por el sistema citocromo P450, que genera un ácido carboxílico activo
+que es responsable de la mayor parte del efecto sobre el receptor de angiotensina II. La vida
+media del losartán es de 2 hs y la del metabolito activo es de 6 a 9 hs, alcanzando concentra-
+ciones  pico  en  l  hora  y  3-4  hs  respectivamente.  Tanto  el  losartán  como  su  metabolito  están
+altamente  ligados  a  proteínas  plasmáticas  (99%).  Estudios  en  ratas  han  demostrado  que  el
+losartán prácticamente no atraviesa la barrera hematoencefálica.
+El  losartán  administrado  oralmente  se  elimina  en  un  60%  por  vía  fecal  y  en  un  35%  por  vía
+urinaria.
+Con una sola dosis diaria de 100 mg, ni el losartán ni su metabolito activo se acumulan de modo
+significativo  en  el  plasma.  La  curva  de  concentración  plasmática  de  losartán  no  se  modifica
+cuando la medicación se administra con las comidas.
+El losartán y su metabolito activo no pueden ser eliminados con hemodiálisis.
+
+Posología y Modo de administración
+Los  pacientes  bajo  tratamiento  concomitante  con  amlodipina  y  losartán  en  comprimidos  por
+separado pueden ser tratados con PELMEC MAX utilizando las mismas dosis que recibían de
+los activos.
+La dosis habitualmente efectiva de amlodipina para el tratamiento de la hipertensión oscila entre
+2,5 a 10 mg por día, mientras que la de losartán es de 25 a 100 mg/día. En pacientes ancianos,
+en  aquellos  que  presentan  depleción  del  volumen  intravascular,  o  padecen  insuficiencia
+cardíaca o deterioro de la función hepática, la dosis inicial recomendada de amlodipina es de
+2,5 mg/día y la de losartán es de 25 mg/día. No se requiere un ajuste especial de la dosis de
+amlodipina o de losartán en pacientes con deterioro de la función renal. Ambos fármacos son
+efectivos en una única toma diaria, pudiendo ser administrados conjuntamente.
+
+Contraindicaciones
+Amlodipina: hipersensibilidad conocida a las dihidropiridinas.
+Losartán:  Absolutas:  hipersensibilidad  al  producto.  Embarazo  (Ver  Precauciones  y  Adverten-
+cias).
+Relativas:  tratamiento  concomitante  con  diuréticos  ahorradores  de  potasio,  sales  de  potasio
+(salvo que exista hipokalemia), litio. Estenosis  bilateral de  arterias renales o  estenosis arterial
+en riñón único. Lactancia.
+
+2
+
+deberán  ser  observados  atentamente  ante  la  posibilidad  de  hipotensión,  oliguria  e  hipercali-
+emia.  En  caso  de  producirse  oliguria,  deberá  prestarse  atención  a  la  presión  sanguínea  y  la
+perfusión  renal.  Pueden  requerirse  la  exanguineotransfusión  o  la  hemodiálisis  como  medios
+para revertir la hipotensión y/o sustituir la función renal alterada.
+Se ha demostró que losartán produce efectos adversos en los fetos de las ratas y crías recién
+nacidas,  incluyendo  una  disminución  del  peso  corporal,  retraso  en  el  desarrollo  físico  y  del
+comportamiento, mortalidad y toxicidad renal. Con excepción de la afectación de la ganancia de
+peso corporal neonatal (con dosis tan bajas como 10 mg/kg/día), las dosis relacionadas con
+estos  efectos  superaron  los  25  mg/kg/día  (aproximadamente  tres  veces  la  dosis  máxima
+recomendada en humanos de 100 mg sobre una base de mg/m2). Estos hallazgos se atribuyen
+a la exposición a la droga durante la etapa tardía de la gestación como así también durante el
+período  de  lactancia.  Se  demostró  la  presencia  de  niveles  importantes  de  losartán  y  su
+metabolito activo en el plasma fetal y en la leche de la rata.
+Lactancia: si bien se desconoce si el losartán es excretado en la leche materna, su uso está
+contraindicado en mujeres durante la lactancia.
+Uso en pediatría: no se ha determinado su seguridad y eficacia en niños.
+Precauciones
+Debe corregirse toda hipovolemia (por tratamiento diurético, dieta hiposódica, diálisis, vómitos
+o diarrea) antes de indicar losartán, o comenzar con dosis menores, a fin de evitar la aparición
+de hipotensión arterial severa. De ser posible, se sugiere suspender el tratamiento diurético al
+menos 3 días antes de iniciar la terapia con losartán.
+En pacientes con insuficiencia renal, diabéticos o no, el losartán puede provocar hiperkalemia,
+recomendándose el monitoreo periódico del potasio sérico en estos casos.
+En pacientes con insuficiencia cardíaca congestiva el uso de losartán  puede  provocar  hipoten-
+sión arterial severa con insuficiencia renal aguda por hipoperfusión renal.
+En pacientes con isquemia cardíaca o cerebral deberá prestarse especial atención al riesgo de
+hipotensión arterial por el uso de losartán.
+En pacientes con hepatopatías graves deberá disminuirse la  dosis de losartán.  Los  inhibidores
+de  la  enzima conversora pueden inducir aumento de urea y creatinina sérica en pacientes con
+estenosis  de  arteria  renal,  pudiendo  presentarse  en  teoría  este  mismo  efecto  por  acción  del
+losartán.
+
+forma  segura  con  diuréticos
+
+Interacciones medicamentosas
+Amlodipina: existen datos in vitro en plasma humano que indican que la amlodipina no altera la
+unión  a  proteínas  de  la  digoxina,  fenitoína,  warfarina  e  indometacina.  Estudios      especiales
+indicaron   que   la coadministración de amlodipina y digoxina no altera los niveles plasmáticos
+de  esta  última  ni  su  clearance  renal  en  voluntarios  sanos.  La  administración  simultánea  con
+cimetidina  no  altera  la  farmacocinética  de  la  amlodipina.  La  administración  concomitante  de
+warfarina  no  modifica  el  tiempo  de  protrombina.  En  ensayos  clínicos  la  amlodipina  ha  sido
+utilizada  en
+IECA,  nitratos,
+nitroglicerina sublingual, digoxina, warfarina, DAINE, antibióticos e hipoglucemiantes orales.
+Losartán: no se han detectado interacciones medicamentosas con el empleo de losartán. Sin
+embargo, deberá tenerse en cuenta, por ejemplo, que ciertos medicamentos pueden favorecer
+la  aparición  de  hiperkalemia:  sales    de    potasio,  diuréticos    ahorradores  de  potasio,  ACEI,
+AINES, heparina de bajo peso molecular, ciclosporina, tacrólimus, y la trimetoprima.
+El losartán puede producir un aumento de la litemia, por disminución de la excreción renal de
+litio, por lo cual deberá monitorearse aquélla cuando se asocian ambas drogas.
+Los  pacientes  que  reciben  AINES  deberán  estar  bien  hidratados  y  con  la  función  renal
+monitoreada cuando se asocia losartán al tratamiento.
+Deberá  tenerse  en  cuenta  que  los  antidepresivos  tricíclicos,  el  baclofeno,  el  amifostine  y  los
+alfabloqueantes pueden potenciar el efecto antihipertensivo del losartán.
+
+tiazídicos,  betabloqueantes,
+
+Efectos adversos
+Amlodipina: en los estudios clínicos controlados amlodipina ha mostrado ser bien tolerada. La
+
+4
+
+PELMEC® (amlodipina) Certificado No 42.532 - LOPLAC® (losartán) Certificado No 45.112.
+
+Laboratorios CASASCO S.A.I.C. - Boyacá 237 - Buenos Aires
+
+E-1112-01 / D0683 / Act. 05/2008
+
+PELMEC®  MAX 5/50 y 5/100
+
+AMLODIPINA
+LOSARTAN
+
+Venta Bajo Receta
+Industria Argentina
+
+COMPRIMIDOS
+
+Fórmulas
+PELMEC MAX 5/50
+Cada comprimido de amlodipina besilato contiene: amlodipina besilato 6,933 mg (equivalente
+a 5,000 mg de amlodipina). Excipientes: celulosa microcristalina 172,517 mg, almidón glicolato
+sódico 2,775 mg, talco 1,85 mg, estearato de magnesio 0,925 mg.
+Cada  comprimido  recubierto  de  losartán  potásico  contiene:  losartán  potásico  50,00  mg.
+Excipientes: lactosa 66,79 mg, celulosa microcristalina 133,11 mg, croscarmelosa sódica 16,80
+mg,  talco  9,32  mg,  estearato  de  magnesio  4,20  mg,  dióxido  de  silicio  coloidal  2,10  mg,
+hidroxipropilmetilcelulosa E-15 6,62 mg, povidona K-30 0,82 mg, polietilenglicol 6000 2,47 mg,
+bióxido de titanio 6,29 mg, óxido de hierro rojo 0,09 mg, propilenglicol 1,07 mg, sacarina sódica
+0,32 mg.
+
+PELMEC MAX 5/100
+Cada comprimido de amlodipina besilato contiene amlodipina besilato 6,933 mg (equivalente a
+5,000 mg de amlodipina). Excipientes: celulosa microcristalina 172,517 mg, almidón glicolato
+sódico 2,775 mg, talco 1,85 mg, estearato de magnesio 0,925 mg.
+Cada  comprimido  recubierto  de  losartán  potásico  contiene:  losartán  potásico  100,00  mg.
+Excipientes:  lactosa  133,58  mg,  celulosa  microcristalina  266,22  mg,  croscarmelosa  sódica
+33,60 mg, talco 18,64 mg, estearato de magnesio 8,40 mg, dióxido de silicio coloidal 4,20 mg,
+hidroxipropilmetilcelulosa E-15 13,24 mg, povidona K-30 1,64 mg, polietilenglicol 6000 4,94 mg,
+bióxido  de  titanio  12,58  mg,  óxido  de  hierro  rojo  0,18  mg,  propilenglicol  2,14  mg,  sacarina
+sódica 0,64 mg.
+
+Acción Terapéutica: antihipertensivo.
+
+Indicaciones: tratamiento de la hipertensión arterial.
+
+Acción Farmacológica
+Amlodipina:  antagonista  cálcico  dihidropiridínico  que  inhibe  la  entrada  de  iones  de  calcio  al
+interior de la célula muscular lisa y cardíaca (bloqueante de los canales lentos). El mecanismo
+de contracción muscular cardíaca y del músculo liso vascular depende del pasaje de iones de
+calcio desde el medio extracelular a través de canales iónicos al intracelular. Amlodipina inhibe
+la  entrada  de  calcio  al  interactuar  con  canales  situadas  en  la  membrana  celular  en  forma
+selectiva  con  mayor  efecto  sobre  el  músculo  liso  vascular.  Si  bien  se  han  detectado  efectos
+inotrópicos negativos in vitro dicha acción no se observó en animales intactos a dosis terapéuti-
+cas.  La  administración  crónica  tampoco  produjo  aumentos  en  la  frecuencia  cardíaca  en
+pacientes normotensos con angina.
+Amlodipina es un vasodilatador arterial que actúa sobre el músculo liso vascular causando una
+reducción de la resistencia periférica y la tensión arterial.
+Diversos   ensayos  clínicos   evaluaron  la  eficacia   y  seguridad  de  la amlodipina en insuficien-
+cia cardíaca clase funcional II-III, sin encontrar evidencias de deterioro de la función miocárdica.
+Amlodipina  no  produce  alteraciones  de  la  función  sinoauricular  ni  en  la  conducción
+
+1
+
+Precauciones y advertencias
+Amlodipina
+Advertencias: rara  vez se  ha observado  en  pacientes, particularmente aquellos con enferme-
+dad coronaria obstructiva severa, incrementos en la frecuencia, duración y/o severidad de la
+angina o incluso infarto agudo de miocardio al comienzo de la terapia con bloqueantes cálcicos
+o al momento de aumentar la dosis. El mecanismo de este efecto no ha sido aclarado.
+Precauciones
+  Generales: debido a que la vasodilatación producida por amlodipina es de comienzo gradual
+rara  vez  se  ha  descripto  hipotensión  aguda  después  de  su  administración  oral.  De  todas
+maneras  debe  usarse  con  precaución,  como  cualquier  vasodilatador  periférico,  en  pacientes
+con estenosis aórtica severa.
+   Uso en Insuficiencia Cardíaca: en general los bloqueantes cálcicos deben ser usados con
+precaución en pacientes con insuficiencia cardíaca. Diversos ensayos clínicos han demostrado
+la seguridad y eficacia de amlodipina en pacientes con insuficiencia cardíaca clase funcional II,
+III y IV. En dichos estudios no hubo evidencia de empeoramiento de los síntomas de insuficien-
+cia  cardíaca,  tolerancia  al  ejercicio,  disfunción  del  ventrículo  izquierdo  ni  aumentos  de  la
+morbimortalidad de origen cardíaca.
+     Uso en Insuficiencia Hepática: debido a que amlodipina es metabolizada en forma extensa
+en  el  hígado  y  el  tiempo  medio  de  eliminación  plasmática  es  de  56  hs.  debe  usarse  con
+precaución en estos pacientes.
+Carcinogénesis,  mutagénesis  y  transtornos  de  la  fertilidad:    se  han  llevado  a  cabo  diversos
+estudios que no mostraron evidencias de estos efectos en animales.
+Embarazo y lactancia: no hay estudios adecuados y bien controlados en mujeres embarazadas.
+La  amlodipina  sólo  debe  usarse  durante  el  embarazo  cuando  los  beneficios  potenciales
+superen los riesgos sobre el feto.
+Se  desconoce  si  la  amlodipina  se  elimina  por  leche  materna.  En  base  a  esto  se  sugiere
+discontinuar la lactancia durante el tratamiento con PELMEC.
+Uso en Pediatría: La seguridad y eficacia de PELMEC en niños no ha sido establecida.
+Losartán
+Advertencias
+Uso  durante  el  embarazo:  las  drogas  que  actúan  directamente  sobre  el  sistema
+renina-angiotensina  pueden  provocar  daño  fetal  y  neonatal  y  hasta  la  muerte  del  feto
+cuando  son  administradas  en  mujeres  embarazadas.  Al  detectarse  el  embarazo,  debe
+suspenderse inmediatamente el tratamiento con losartán.
+El uso de drogas que actúan en forma directa sobre el sistema renina-angiotensina durante el
+segundo  y  tercer  trimestre  de  embarazo,  ha  sido  relacionado  con  lesión  neonatal  y  fetal,
+incluyendo  hipotensión,  hipoplasia  craneana  neonatal,  anuria,  deficiencia  renal  reversible  o
+irreversible, y muerte. También se ha informado sobre oligohidramnios, probablemente como
+resultado de una disminución de la función renal fetal; en este contexto el oligohidramnios ha
+sido  relacionado  con  rigidez  articular  fetal,  deformación  craneofacial  e  hipoplasia  en  el
+desarrollo  pulmonar.  También  se  ha  informado  sobre  prematuridad,  retardo  del  crecimiento
+intrauterino  y  ductus  arterioso  persistente,  aunque  no  queda  claro  si  estos  incidentes  se
+produjeron por exposición a la droga. Estos efectos adversos no parecen haber resultado de la
+exposición intrauterina a la droga cuando ha estado limitada al primer trimestre del embarazo.
+No obstante, cuando las pacientes queden embarazadas, se deberá suspender el tratamiento
+con losartán inmediatamente. Rara vez (probablemente con una frecuencia de menos de una
+vez en mil embarazos), no habrá una alternativa para el antagonista receptor de angiotensina II.
+En estos casos poco frecuentes, las madres deberán ser advertidas de los riesgos potenciales
+sobre el feto. En caso de observarse oligohidramnios, deberá suspenderse el tratamiento con
+losartán a menos que se lo considere indispensable para la madre. Los pacientes y los médicos
+deben estar informados de que el oligohidramnios puede no manifestarse hasta tanto el feto
+haya sufrido una lesión irreversible.
+Los niños con antecedentes de exposición in útero a un antagonista receptor de angiotensina II
+
+3
+
+mayoría de los efectos adversos reportados durante el tratamiento  con  amlodipina  han  sido
+entre  leves  y  moderados.  Los  efectos  secundarios  más  frecuentemente  observados  son
+cefalea,  edemas  en  miembros  inferiores,  fatiga,  náusea,  rubor  facial  y  vértigo.  No  se  han
+observado anormalidades clínicamente significativas en las  pruebas  de laboratorio durante la
+administración de amlodipina.
+Losartán: ocasionalmente puede provocar mareos e hipotensión ortostática. Excepcionalmente
+se han observado erupciones cutáneas, reacciones anafilácticas y angioedema. En menos del
+2%  de  los  pacientes  tratados  con  losartán  se  ha  detectado  hiperpotasemia  leve  sin  correlato
+clínico evidente y que no exigió el abandono de la medicación. Raramente se observó aumento
+de  transaminasas,    que    cedió    al  suspender  el  losartán,  así  como  diarrea,  anemia,  mialgias,
+migraña, urticaria y prurito. Puede observarse deterioro de la función renal con aumento de urea
+y creatinina plasmáticas que revierte con la suspensión del losartán, sobre todo en pacientes
+tratados con diuréticos o con fallo renal.
+A  diferencia  de  los  inhibidores  de  la  enzima  conversora,  la  incidencia  de  tos  seca  en  los
+pacientes  tratados  con  losartán  no  presentó  diferencias  significativas  con  respecto  al  grupo
+placebo.
+
+Sobredosis
+Amlodipina: no se conoce con precisión el cuadro de sobredosificación con amlodipina.
+Los datos disponibles permiten suponer que una sobredosis de esta droga puede provocar una
+excesiva vasodilatación periférica con hipotensión y colapso cardiovascular.
+En caso de producirse una situación semejante, se recomienda un control estricto de la función
+cardiovascular  y  respiratoria,  elevación  de  los  miembros  inferiores,  control  de  la  volemia  y
+eventualmente administración de vasoconstrictores, siempre que no exista una contraindicación
+para su uso.
+Debido a la elevada capacidad de unión de amlodipina a las proteínas plasmáticas, es probable
+que la diálisis no ofrezca beneficio en caso de sobredosis.
+Losartán:  ante  la  sobredosis  con  losartán  podría  aparecer    hipotensión    y    taquicardia,    o
+bradicardia por estímulo vagal, que cederían con terapia sintomática.
+Losartán no se elimina por diálisis.
+Ante la sobredosis con losartán podría aparecer  hipotensión  y  taquicardia,  o bradicardia por
+estímulo vagal, que cederían con terapia sintomática.
+Losartán no se elimina por diálisis.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse
+con los Centros de Toxicología:
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+Fecha de última revisión: julio de 2007.
+
+Presentación
+PELMEC  MAX  5/50:  Envase  con  30  comprimidos  de  amlodipina  5  mg  y  30  comprimidos
+recubiertos de losartán potásico 50 mg.
+PELMEC  MAX  5/100:  Envase  con  30  comprimidos  de  amlodipina  5  mg  y  30  comprimidos
+recubiertos de losartán potásico 100 mg.
+
+Forma de conservación
+- Conservar  en  lugar  fresco y seco, preferentemente entre 15 y 30°C.
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+Medicamento autorizado por el Ministerio de Salud.
+
+5
+
+6
+
+8
+
+7
+
+CASASCO

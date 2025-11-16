@@ -1,0 +1,1318 @@
+BECIADIC®
+EMPAGLIFLOZINA 10 mg y 25 mg
+Comprimidos Recubiertos
+Industria Argentina                                                                                        Venta Bajo Receta
+
+COMPOSICIÓN
+- Cada comprimido recubierto de BECIADIC® 10 contiene:
+Empagliflozina 10 mg
+Excipientes:  Lactosa  monohidrato,  Celulosa  microcristalina,  Hidroxipropilcelulosa,  Croscar-
+melosa  sódica,  Dióxido  de  silicio  coloidal.  Estearato  de  magnesio,  Lay  AQ  P50204P
+(corresponde a Alcohol polivinílico, Polietilenglicol 3350, Talco, Dióxido de titanio).
+
+ve acompañada por una diuresis, que puede contribuir a la reducción sostenida y moderada de
+la presión arterial.
+Empagliflozina  también  reduce  la  reabsorción  de  sodio  e  incrementa  el  transporte  de  sodio
+hacia  el  túbulo  distal.  Esto  puede  tener  un  efecto  sobre  varias  funciones  fisiológicas,  entre
+otras,  el  incremento  de  la  retroalimentación  túbulo-glomerular  y  la  reducción  de  la  presión
+intraglomerular,  el  descenso  de  la  precarga  y  la  postcarga  cardíaca,  disminución  de  la
+actividad  simpática  y  la  reducción  de  la  tensión  parietal  ventricular  izquierda  según  se
+evidencia por los valores de NT- proBNP que pueden tener efectos beneficiosos en la remodela-
+ción cardiaca, las presiones de llenado y la función diastólica, así como sobre la preservación
+de  la  estructura  y  la  función  renales.  Además,  otros  efectos  tales  como  un  aumento  del
+hematocrito,  un  descenso  en  el  peso  corporal  y  la  tensión  arterial,  pueden  contribuir  a  los
+efectos beneficiosos cardíacos y renales.
+
+- Cada comprimido recubierto de BECIADIC® 25 contiene:
+Empagliflozina 25 mg
+Excipientes:  Lactosa  monohidrato,  Celulosa  microcristalina,  Hidroxipropilcelulosa,  Croscar-
+melosa  sódica,  Dióxido  de  silicio  coloidal.  Estearato  de  magnesio,  Lay  AQ  P50204P
+(corresponde a Alcohol polivinílico, Polietilenglicol 3350, Talco, Dióxido de titanio), Colorante
+amarillo de Quinolina Laca lumínica.
+
+ACCIÓN TERAPÉUTICA
+Código ATC: A10BK03
+Hipoglucemiante oral, inhibidor del cotransportador de sodio-glucosa de tipo 2 (SGLT2).
+
+INDICACIONES
+BECIADIC®  es  un  inhibidor  del  cotransportador  de  sodio-glucosa  tipo  2  (SGLT2),  está
+indicado para.
+- Diabetes mellitus tipo 2
+• BECIADIC® está indicado en adultos y niños a partir de 10 años de edad para el tratamien-
+to de la diabetes mellitus tipo 2 no suficientemente controlada con la dieta y el ejercicio.
+• Como monoterapia, cuando metformina no se considera apropiada debido a intolerancia.
+• Asociado a otros medicamentos para el tratamiento de la diabetes.
+- Insuficiencia cardíaca
+•  BECIADIC®  está  indicado  en  adultos,  para  el  tratamiento  de  la  insuficiencia  cardíaca
+crónica sintomática.
+- Enfermedad renal crónica
+• BECIADIC® está indicado en adultos, para el tratamiento de la enfermedad renal crónica.
+
+ACCIÓN FARMACOLÓGICA
+Empagliflozina  es  un  inhibidor  competitivo  reversible  y  selectivo  altamente  potente  del
+cotransportador de sodio-glucosa tipo 2 (SGLT2).
+Empagliflozina no inhibe otros transportadores de glucosa importantes para el transporte de
+glucosa a los tejidos periféricos y es 5.000 veces más selectivo para el SGLT2 que para el
+SGLT1,  el  transportador  más  importante  responsable  de  la  absorción  de  glucosa  en  el
+intestino.  El  SGLT2  se  encuentra  altamente  expresado  en  el  riñón,  mientras  que  la
+expresión  en  otros  tejidos  es  inexistente  o  muy  baja.  Es  responsable,  como  transportador
+predominante, de la reabsorción de glucosa tras la filtración glomerular, para devolverla a la
+circulación. En los pacientes con diabetes tipo 2 e hiperglucemia, se filtra y reabsorbe una
+mayor cantidad de glucosa.
+Empagliflozina,  al  reducir  la  reabsorción  renal  de  glucosa,  mejora  el  control  glucémico  en
+pacientes  diabéticos  tipo  2.  La  glucosa  eliminada  por  el  riñón  (glucosuria),  depende  de  la
+concentración de glucosa en sangre y de la tasa de filtración glomerular (TFG). La inhibición
+del  SGLT2,  en  pacientes  con  diabetes  tipo  2  e  hiperglucemia,  conduce  a  un  exceso  de
+excreción de glucosa por la orina.
+Además,  el  inicio  de  la  administración  de  Empagliflozina,  aumenta  la  excreción  de  sodio,
+que da lugar a diuresis osmótica y a una reducción del volumen intravascular.
+La eliminación de glucosa por la orina en pacientes diabéticos tipo 2, aumenta después de
+la primera dosis de Empagliflozina, y se mantiene durante un intervalo de dosificación de 24
+horas. El aumento de la eliminación de glucosa por orina se mantiene hasta un período de
+tratamiento de 4 semanas, con un promedio de 78 g/día, aproximadamente. Este aumento
+de  la  eliminación  urinaria  de  glucosa,  derivó  en  una  reducción  inmediata  de  los  niveles
+séricos de glucosa, en pacientes con diabetes tipo 2.
+Empagliflozina mejora los niveles de glucosa en plasma, tanto en ayunas como postprandia-
+les. El mecanismo de acción de empagliflozina es independiente de la función de las células
+beta  y  de  la  vía  de  la  insulina,  lo  que  contribuye  a  un  bajo  riesgo  de  hipoglucemia.  Se
+observó una mejora de los marcadores indirectos de la función de las células beta, incluido
+el modelo de evaluación de la homeostasis-p (HOMA-P). Además, la excreción de glucosa
+por  la  orina,  desencadena  una  pérdida  de  calorías,  que  se  asocia  a  una  pérdida  de  grasa
+corporal y a una reducción de peso corporal. La glucosuria observada con empagliflozina se
+
+Propiedades Farmacocinéticas:
+La farmacocinética de Empagliflozina ha sido ampliamente caracterizada tanto en voluntarios
+sanos como en pacientes con diabetes mellitus tipo 2.
+Absorción
+Luego  de  la  administración  oral  de  Empagliflozina,  la  absorción  es  rápida  y  la  concentración
+plasmática máxima se alcanza en una Tmáx promedio de 1,5 horas. Después, las concentra-
+ciones  plasmáticas  disminuyen  de  forma  bifásica,  con  una  fase  de  distribución  rápida  y  una
+fase terminal relativamente lenta. El ABC plasmática media en estado estacionario y la Cmáx,
+fueron de 1.870 nmol.h y 259 nmol/l con Empagliflozina 10 mg y de 4.740 nmol.h y 687 nmol/l
+con Empagliflozina 25 mg una vez al día. La exposición sistémica de Empagliflozina aumentó
+de forma proporcional a la dosis. Los parámetros farmacocinéticos de dosis única y de estado
+estacionario  de  Empagliflozina  fueron  similares,  lo  que  sugiere  una  farmacocinética  lineal
+respecto  al  tiempo.  No  hubo  diferencias  clínicamente  relevantes  en  la  farmacocinética  de
+Empagliflozina entre los voluntarios sanos y los pacientes con diabetes tipo 2.
+La  administración  de  Empagliflozina  25  mg,  después  de  la  ingesta  de  una  comida  rica  en
+grasas y alta en calorías, dio lugar a una exposición ligeramente inferior; el ABC disminuyó en
+aproximadamente el 16% y la Cmáx disminuyó en aproximadamente un 37% en comparación
+con las condiciones de ayunas. El efecto observado de los alimentos sobre la farmacocinética
+de  Empagliflozina  no  se  consideró  clínicamente  relevante,  por  lo  que  Empagliflozina  puede
+administrarse con o sin alimentos.
+Distribución
+El volumen de distribución, en estado de equilibrio, es de 73,8 litros. Después de la adminis-
+tración  de  una  solución  oral  Empagliflozina  radiomarcada  a  voluntarios  sanos,  la  distribución
+de los glóbulos rojos fue de 37% aproximadamente. La unión a proteínas de empagliflozina es
+del 86%.
+Metabolización
+No  se  detectaron  metabolitos  importantes  de  Empagliflozina  en  el  plasma  humano  y  los
+metabolitos más abundantes fueron tres conjugados glucurónidos (2-, 3- y 6-0 glucurónido). La
+exposición sistémica de cada metabolito fue inferior al 10% del material total relacionado con el
+fármaco.  Los  estudios  in  vitro  sugirieron  que  la  principal  vía  metabólica  de  Empagliflozina  en
+humanos,  es  la  glucuronización  por  las  uridina  5'-difosfo-glucuronosiltransferasas  UGT2B7,
+UGT1A3, UGT1A8 y UGT1A9.
+Eliminación
+La  vida  media  de  eliminación  de  Empagliflozina  es  de  12,4  horas  y  la  depuración  oral
+aparente,  fue  de  10,6  l/hora  sobre  la  base  del  análisis  de  farmacocinética  poblacional.  Las
+variabilidades  intersujeto  y  residuales  de  la  depuración  oral  de  Empagliflozina,  fueron  del
+39,1%  y  del  35,8%,  respectivamente.  Con  una  pauta  posológica  de  una  toma  diaria,  las
+concentraciones  plasmáticas  de  Empagliflozina  en  estado  estacionario,  se  alcanzaron  en  la
+quinta  dosis. Acorde  con  la  vida  media,  en  estado  estacionario,  se  observó  una  acumulación
+de hasta el 22 % con respecto al ABC plasmática. Tras la administración de una solución oral
+de  Empagliflozina  radiomarcada  a  voluntarios  sanos,  el  fármaco  se  eliminó  por  las  heces
+(41%) y por orina (54%). La mayor parte del fármaco se recuperó, tanto en las heces como en
+la orina, en su estado original, sin cambios.
+
+Poblaciones especiales:
+Insuficiencia renal:
+En pacientes con insuficiencia renal leve, moderada o grave (TFG <30 - <90 ml/min/1,73 m2) y
+pacientes  con  fallo  renal/enfermedad  renal  terminal,  el ABC  de  Empagliflozina,  aumentó  en
+aproximadamente el 18%, 20%, 66% y 48% respectivamente, en comparación con los sujetos
+con  una  función  renal  normal.  Los  niveles  plasmáticos  máximos  de  Empagliflozina  fueron
+similares  en  los  sujetos  con  insuficiencia  renal  moderada  y  fallo  renal/enfermedad  terminal
+renal, en comparación con los pacientes con una función renal normal. Los niveles plasmáticos
+máximos  de  Empagliflozina  fueron  aproximadamente  un  20%  más  altos  en  los  sujetos  con
+insuficiencia renal leve y grave, en comparación con los sujetos con una función renal normal.
+El  análisis  farmacocinético  poblacional  demostró  que  el  clearance  oral  aparente  de  Empagli-
+
+flozina,  disminuía  con  un  descenso  en  la  TFG,  dando  lugar  a  un  aumento  en  la
+exposición al fármaco.
+Insuficiencia hepática:
+En  sujetos  con  insuficiencia  hepática  leve,  moderada  y  grave,  según  la  clasificación
+Child-Pugh,  el ABC  de  Empagliflozina,  aumentó  en  aproximadamente  el  23%,  47%,  y
+75%, y la Cmáx aumentó en el 4%, 23% y 48% respectivamente, en comparación con los
+sujetos con función hepática normal.
+índice de masa corporal (IMC):
+El  índice  de  masa  corporal  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la
+farmacocinética  de  Empagliflozina,  según  un  análisis  farmacocinético  poblacional.  En
+este  análisis,  se  determinó  que  el ABC  era  de  un  5,82%;  10,4%  y  17,3%  menor  en  los
+sujetos  con  un  IMC  de  30,  35  y  45  kg/m2,  respectivamente,  en  comparación  con  lo
+observado en los sujetos con un índice de masa corporal de 25 kg/m2.
+Género:
+El  género  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la  farmacocinética  de
+Empagliflozina, según un análisis farmacocinético poblacional.
+Raza:
+Sobre la base del análisis de farmacocinética poblacional, se estimó que el ABC fue un
+13,5% más alto en los pacientes asiáticos con un IMC de 25 kg/m2, en comparación con
+los pacientes de raza no asiática con un IMC de 25 kg/m2.
+Pacientes de edad avanzada
+La  edad  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la  farmacocinética  de
+Empagliflozina, según un análisis farmacocinético poblacional.
+Población pediátrica
+Un estudio realizado en población pediátrica de fase I, evaluó la cinética y la dinamia de
+Empagliflozina (5, 10 y 25 mg), en niños y adolescentes de entre 10 y 18 años de edad
+con  diabetes  mellitus  tipo  2.  Las  respuestas  farmacocinéticas  y  farmacodinámicas
+observadas, concordaban con las obtenidas en la población adulta.
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Diabetes mellitus tipo 2:
+- La dosis inicial recomendada es de un comprimido de 10 mg de Empagliflozina, una vez
+al día, tanto en monoterapia, como en combinación con otros medicamentos para tratar
+la diabetes.
+- Aquellos  pacientes  que  toleran  un  régimen  de  10  mg  por  día  de  Empagliflozina,  que
+tengan  una TFG  >60  ml/min/1,73  m2  y  requieran  un  control  adicional  de  la  glucemia,  la
+dosis puede incrementarse a 25 mg por día.
+Dosis máxima de Empagliflozina:
+No exceder los 25 mg por día.
+Insuficiencia cardíaca:
+La dosis recomendada es de un comprimido de 10 mg de Empagliflozina, una vez al día.
+Enfermedad renal crónica:
+La dosis recomendada es de un comprimido de 10 mg de Empagliflozina, una vez al día.
+Todas las indicaciones:
+Cuando se administre Empagliflozina en combinación con una sulfonilurea o con insulina,
+se puede considerar una dosis inferior de estas dos últimas (sulfonilurea o insulina), para
+reducir el riesgo de hipoglucemias.
+
+Forma de administración
+BECIADIC®  puede  tomarse  con  o  sin  los  alimentos  y  los  comprimidos  deben  tragarse
+enteros con agua.
+Omisión de dosis: Si el paciente olvida tomar una dosis, esta se debe tomar en cuanto se
+acuerde el paciente; no se debe tomar una dosis doble el mismo día.
+
+Poblaciones especiales
+Insuficiencia renal
+Debido  a  que  la  experiencia  es  limitada,  no  se  recomienda  iniciar  el  tratamiento  con
+Empagliflozina en pacientes con una TFG <30 ml/min/1,73 m2.
+En pacientes con una TFG <60 ml/min/1,73 m2, la dosis diaria de Empagliflozina es de 10 mg.
+En pacientes con diabetes mellitus tipo 2, la eficacia hipoglucemiante de Empagliflozina,
+es menor en pacientes con una TFG <45 ml/min/1,73 m2 y probablemente esté ausente
+en pacientes con una TFG <30 ml/min/1,73 m2. Por consiguiente, si la TFG disminuye por
+debajo  de  45  ml/min/1,73  m2,  se  deberá  considerar  un  tratamiento  hipoglucemiante
+adicional en caso necesario.
+Insuficiencia hepática
+No se precisa un ajuste de dosis en pacientes con insuficiencia hepática. La exposición a
+Empagliflozina aumenta en pacientes con insuficiencia hepática grave.
+
+La experiencia terapéutica en pacientes con insuficiencia hepática grave es limitada y, por lo
+tanto, no se recomienda su uso en esta población.
+Pacientes de edad avanzada
+No se requieren ajustes de las dosis en esta población. En pacientes de 75 años o mayores,
+se debe tener en cuenta el aumento del riesgo de hipovolemia.
+Población pediátrica
+La dosis inicial recomendada es 10 mg de Empagliflozina una vez al día. En pacientes que
+toleren 10 mg de Empagliflozina una vez al día y requieran un control glucémico adicional, la
+dosis se puede aumentar a 25 mg una vez al día. No se dispone de datos en niños con una
+TFGe <60 ml/min/1,73 m2 ni en niños menores de 10 años de edad.
+No se ha establecido todavía la seguridad y eficacia de Empagliflozina para el tratamiento de
+la  insuficiencia  cardíaca  ni  para  el  tratamiento  de  la  enfermedad  renal  crónica  en  niños  y
+adolescentes menores de 18 años de edad. No se dispone de datos.
+
+CONTRAINDICACIONES
+Hipersensibilidad conocida a Empagliflozina o a cualquiera de los componentes del producto.
+
+ADVERTENCIAS Y PRECAUCIONES
+Cetoacidosis
+Se han notificado casos raros de cetoacidosis, incluidos casos potencialmente mortales y con
+desenlace  mortal,  en  pacientes  con  diabetes  mellitus,  tratados  con  inhibidores  del  SGLT2,
+incluida Empagliflozina. En algunos de estos casos, el cuadro clínico fue atípico, presentando
+ascenso  moderado  de  los  niveles  de  glucosa  en  sangre  (por  debajo  de  los  250  mg/dl).  Se
+desconoce si dosis mayores de Empagliflozina pueden producir cetoacidosis.
+La  cetoacidosis  puede  manifestarse  con:  náuseas,  vómitos,  anorexia,  dolor  abdominal,  sed
+excesiva, dificultad para respirar, confusión, fatiga o somnolencia inusuales. El paciente debe
+ser  evaluado  de  forma  inmediata  para  detectar  cetoacidosis  en  caso  que  aparezcan  estos
+síntomas, independientemente del nivel de glucemia.
+En  los  casos  en  que  se  sospeche  o  se  diagnostique  la  presencia  de  cetoacidosis,  el
+tratamiento con Empagliflozina debe ser suspendido de forma inmediata.
+En caso de pacientes que estén hospitalizados por una cirugía mayor o enfermedad aguda
+grave, se deberá interrumpir el tratamiento con Empagliflozina. Se recomienda controlar los
+niveles de cuerpos cetónicos en sangre, en estos pacientes. El tratamiento con Empagliflozi-
+na se puede reanudar cuando los valores de cuerpos cetónicos sean normales, y el estado
+del paciente se haya estabilizado.
+Antes de iniciar el tratamiento con Empagliflozina, se deben considerar los antecedentes del
+paciente que puedan predisponer a cetoacidosis:
+-  Pacientes  con  una  baja  reserva  de  células  beta  funcionales  (por  ejemplo,  pacientes  con
+diabetes tipo 2 con péptido C bajo, o con diabetes autoinmune latente del adulto, o pacientes
+con antecedentes de pancreatitis).
+-  Pacientes  con  trastornos  que  den  lugar  a  una  ingesta  restringida  de  alimentos  o  a  una
+deshidratación grave.
+- Pacientes cuyas dosis de insulina estén reducidas.
+- Pacientes con mayores necesidades de insulina debido a una enfermedad médica aguda,
+cirugía o abuso de alcohol.
+Los inhibidores del SGLT2 se deben usar con precaución en estos pacientes.
+No  se  recomienda  reiniciar  el  tratamiento  con  un  inhibidor  del  SGLT2  en  pacientes  con
+cetoacidosis  previa,  mientras  estaban  en  tratamiento  con  un  inhibidor  del  SGLT2,  a  menos
+que se haya identificado y resuelto claramente otro factor desencadenante.
+No  se  debe  utilizar  Empagliflozina  en  pacientes  con  diabetes  tipo  1.  Datos  de  ensayos
+clínicos en pacientes con diabetes tipo 1, tratados con inhibidores del SGLT2, mostraron un
+incremento  de  la  incidencia  de  cetoacidosis  con  una  frecuencia  frecuente  en  pacientes
+tratados con 10 y 25 mg de Empagliflozina como tratamiento complementario de insulina en
+comparación con placebo.
+Fascitis necrotizante del perineo (gangrena de Fournier)
+Se han informado casos de fascitis necrotizante del perineo (también conocida como gangre-
+na  de  Fournier),  en  pacientes  de  ambos  sexos,  con  diabetes  mellitus,  tratados  con
+inhibidores del SGLT2 (incluida Empagliflozina). Se trata de una infección necrotizante, rara
+pero grave y potencialmente mortal, que requiere intervención quirúrgica urgente y tratamien-
+to antibiótico.
+Se indicará a los pacientes que acudan al médico si presentan una combinación de síntomas
+como  dolor,  dolor  a  la  palpación,  eritema  o  inflamación  en  la  región  genital  o  perineal,  con
+fiebre  o  malestar  general.  Si  se  sospecha  gangrena  de  Fournier,  se  debe  interrumpir  el
+tratamiento  con  Empagliflozina  e  instaurar  un  tratamiento  inmediato  (incluidos  antibióticos  y
+tratamiento quirúrgico).
+Insuficiencia renal
+Debido a que la experiencia es limitada, no se recomienda iniciar el tratamiento con Empagli-
+flozina en pacientes con una TFG <20 ml/min/1,73 m2.
+
+En pacientes con una TFG <60 ml/min/1,73 m2, la dosis diaria de Empagliflozina es de 10 mg.
+
+La  eficacia  hipoglucemiante  de  Empagliflozina  depende  de  la  función  renal,  y  es  menor  en
+
+pacientes con una TFG <45 ml/min/1,73 m2 y probablemente esté ausente en pacientes con
+
+Se recomienda evaluar la función renal, tal como se indica a continuación:
+
+- Antes de iniciar el tratamiento con Empagliflozina y periódicamente durante el tratamiento, al
+
+- Antes de iniciar el tratamiento con cualquier medicamento concomitante que pueda tener un
+
+una TFG <30 ml/min/1,73 m2.
+
+Monitoreo de la función renal
+
+menos una vez al año.
+
+impacto negativo en la función renal.
+
+Enfermedad renal crónica
+
+flozina.
+
+Lesión hepática
+
+Pacientes con albuminuria, pueden tener un beneficio mayor con el tratamiento con Empagli-
+
+En ensayos clínicos, se han notificado casos de lesión hepática con el uso de Empagliflozina.
+
+No se ha establecido una relación causal entre Empagliflozina y la lesión hepática.
+
+Se ha observado un aumento del hematocrito con el tratamiento con Empagliflozina.
+
+Aumento del hematocrito
+
+Pacientes de edad avanzada
+
+Debido al efecto glucosúrico de Empagliflozina, se asocia con una diuresis osmótica, lo que
+
+podría  afectar  el  estado  de  hidratación  del  paciente.  Los  pacientes  mayores  de  75  años,
+
+pueden  presentar  un  incremento  del  riesgo  de  hipovolemia.  Una  mayor  cantidad  de  estos
+
+pacientes tratados con Empagliflozina, presentaron reacciones adversas relacionadas con la
+
+hipovolemia, en relación a lo observado con placebo. Se debe prestar especial atención a la
+
+ingesta de líquidos en caso en que se administre en forma concomitante con medicamentos
+
+que puedan producir hipovolemia (por ejemplo, diuréticos, inhibidores de la ECA).
+
+No  se  recomienda  el  uso  de  este  producto  en  la  población  pediátrica  menor  de  10  años  de
+
+Uso Pediátrico
+
+edad.
+
+Riesgo de hipovolemia
+
+En  base  al  mecanismo  de  acción  de  los  inhibidores  del  SGLT2,  la  diuresis  osmótica  que
+
+acompaña a la glucosuria, puede provocar una disminución moderada de la presión arterial.
+
+Por lo tanto, se debe tener precaución en los pacientes para los que una caída de la presión
+
+arterial,  inducida  por  Empagliflozina,  pudiera  suponer  un  riesgo,  tales  como  pacientes  con
+
+enfermedad cardiovascular conocida, pacientes en tratamiento antihipertensivo con anteceden-
+
+tes de hipotensión o pacientes de 75 años de edad o mayores.
+
+En  caso  de  otras  patologías  que  puedan  conducir  a  una  pérdida  de  líquidos  (por  ejemplo,
+
+enfermedad  gastrointestinal),  se  recomienda  una  estrecha  monitorización  de  la  volemia  (por
+
+ejemplo, exploración física, medición de la presión arterial, pruebas de laboratorio, incluyendo
+
+el hematocrito) y de los electrolitos, en el caso de pacientes tratados con Empagliflozina. Se
+
+debe  valorar  la  interrupción  temporal  con  Empagliflozina  hasta  que  se  corrija  la  pérdida  de
+
+líquidos.
+
+Infecciones urinarias complicadas
+
+tratamiento con Empagliflozina.
+
+Glucosuria en orina
+
+Se han notificado casos de infecciones complicadas del tracto urinario, incluyendo pielonefritis
+
+y  urosepsis,  en  pacientes  tratados  con  Empagliflozina.  En  el  caso  de  pacientes  con
+
+infecciones  complicadas  del  tracto  urinario,  se  debe  valorar  la  interrupción  temporal  del
+
+Debido al mecanismo de acción de Empagliflozina, los pacientes tratados con Empagliflozina,
+
+presentarán un valor positivo para la glucosa en orina.
+
+Amputación de miembros inferiores
+
+En  estudios  clínicos  a  largo  plazo,  se  ha  observado  un  incremento  en  los  casos  de
+
+amputación  de  miembros  inferiores  (principalmente  de  los  dedos  de  los  pies),  con  otro
+
+inhibidor  de  SGLT2.  Se  desconoce  si  esto  constituye  un  efecto  de  clase. Al  igual  que  para
+
+todos  los  pacientes  diabéticos,  es  importante  aconsejar  a  los  pacientes  acerca  del  cuidado
+
+rutinario preventivo de los pies.
+
+Enfermedad infiltrativa o miocardiopatía de Takotsubo
+
+Dado que no se ha estudiado específicamente a pacientes con enfermedad infiltrativa o con
+
+miocardiopatía de Takotsubo, no se ha establecido la eficacia en estos pacientes.
+
+Contenido de lactosa de los comprimidos
+
+Los comprimidos Recubiertos de BECIADIC® contienen lactosa. Los pacientes con intoleran-
+
+cia hereditaria a galactosa, deficiencia total de lactasa de Lapp o problemas de absorción de
+
+glucosa o galactosa, no deben tomar este medicamento.
+
+INTERACCIONES CON OTROS MEDICAMENTOS
+
+Interacciones farmacodinámicas
+
+Estudios  de  interacciones  realizados  en  voluntarios  sanos,  sugieren  que  Empagliflozina  no
+
+tuvo ningún efecto clínicamente relevante sobre la farmacocinética de estos medicamentos.
+
+No hay datos sobre el uso de Empagliflozina en mujeres embarazadas.
+
+Estudios realizados en animales, muestran que Empagliflozina atraviesa la placenta durante
+
+la última fase de la gestación, en un grado muy limitado, pero no indican efectos perjudiciales
+
+directos ni indirectos en lo que respecta al desarrollo embrionario temprano. No obstante, los
+
+estudios realizados en animales han mostrado efectos adversos en el desarrollo posnatal.
+
+Como medida de precaución, se debe evitar el uso de BECIADIC® durante el embarazo.
+
+Embarazo
+
+Lactancia
+
+No se dispone de datos en humanos sobre la excreción de Empagliflozina en leche materna.
+
+Datos toxicológicos en animales, han mostrado que Empagliflozina se excreta en la leche.
+
+No se puede excluir el riesgo para los recién nacidos o los lactantes.
+
+BECIADIC® no debe utilizarse durante la lactancia.
+
+Efectos sobre la capacidad para conducir y utilizar máquinas
+
+La influencia de Empagliflozina sobre la capacidad para conducir y utilizar máquinas es muy
+
+baja. Se debe advertir a los pacientes que tomen las debidas precauciones para evitar una
+
+hipoglucemia mientras conducen y utilizan máquinas, sobre todo cuando BECIADIC® se use
+
+en combinación con una sulfonilurea y/o con insulina.
+
+REACCIONES ADVERSAS
+
+Las  siguientes  reacciones  adversas  fueron  notificadas  durante  la  exposición  a  Empagliflozi-
+
+na, y se las clasifica por órganos y sistemas.
+
+Las reacciones adversas se definen, por su frecuencia en: muy frecuentes (>1/10), frecuentes
+
+(>1/100 a <1/10), poco frecuentes (>1/1.000 a <1/100), raras (>1/10.000 a <1/1.000), muy raras
+
+(<1/10.000) y frecuencia no conocida.
+
+*Incremento de los lípidos en suero
+
+Los incrementos medios porcentuales, con respecto al valor inicial para Empagliflozina 10 y
+
+25 mg en comparación con placebo, respectivamente fueron: colesterol total, 4,9% y 5,7% en
+
+comparación con a 3,5%; colesterol HDL, 3,3% y 3,6% frente a 0,4%; colesterol LDL, 9,5% y
+
+10,0%, frente a 7,5%; triglicéridos, 9,2% y 9,9% frente a 10,5%.
+
+BECIADIC®
+
+EMPAGLIFLOZINA 10 mg y 25 mg
+
+Comprimidos Recubiertos
+
+Industria Argentina                                                                                        Venta Bajo Receta
+
+COMPOSICIÓN
+
+- Cada comprimido recubierto de BECIADIC® 10 contiene:
+
+Empagliflozina 10 mg
+
+Excipientes:  Lactosa  monohidrato,  Celulosa  microcristalina,  Hidroxipropilcelulosa,  Croscar-
+
+melosa  sódica,  Dióxido  de  silicio  coloidal.  Estearato  de  magnesio,  Lay  AQ  P50204P
+
+(corresponde a Alcohol polivinílico, Polietilenglicol 3350, Talco, Dióxido de titanio).
+
+- Cada comprimido recubierto de BECIADIC® 25 contiene:
+
+Empagliflozina 25 mg
+
+Excipientes:  Lactosa  monohidrato,  Celulosa  microcristalina,  Hidroxipropilcelulosa,  Croscar-
+
+melosa  sódica,  Dióxido  de  silicio  coloidal.  Estearato  de  magnesio,  Lay  AQ  P50204P
+
+(corresponde a Alcohol polivinílico, Polietilenglicol 3350, Talco, Dióxido de titanio), Colorante
+
+Absorción
+
+amarillo de Quinolina Laca lumínica.
+
+ve acompañada por una diuresis, que puede contribuir a la reducción sostenida y moderada de
+
+flozina,  disminuía  con  un  descenso  en  la  TFG,  dando  lugar  a  un  aumento  en  la
+
+La experiencia terapéutica en pacientes con insuficiencia hepática grave es limitada y, por lo
+
+la presión arterial.
+
+Empagliflozina  también  reduce  la  reabsorción  de  sodio  e  incrementa  el  transporte  de  sodio
+
+hacia  el  túbulo  distal.  Esto  puede  tener  un  efecto  sobre  varias  funciones  fisiológicas,  entre
+
+otras,  el  incremento  de  la  retroalimentación  túbulo-glomerular  y  la  reducción  de  la  presión
+
+intraglomerular,  el  descenso  de  la  precarga  y  la  postcarga  cardíaca,  disminución  de  la
+
+actividad  simpática  y  la  reducción  de  la  tensión  parietal  ventricular  izquierda  según  se
+
+evidencia por los valores de NT- proBNP que pueden tener efectos beneficiosos en la remodela-
+
+ción cardiaca, las presiones de llenado y la función diastólica, así como sobre la preservación
+
+de  la  estructura  y  la  función  renales.  Además,  otros  efectos  tales  como  un  aumento  del
+
+hematocrito,  un  descenso  en  el  peso  corporal  y  la  tensión  arterial,  pueden  contribuir  a  los
+
+efectos beneficiosos cardíacos y renales.
+
+Propiedades Farmacocinéticas:
+
+exposición al fármaco.
+
+Insuficiencia hepática:
+
+tanto, no se recomienda su uso en esta población.
+
+Pacientes de edad avanzada
+
+En  sujetos  con  insuficiencia  hepática  leve,  moderada  y  grave,  según  la  clasificación
+
+No se requieren ajustes de las dosis en esta población. En pacientes de 75 años o mayores,
+
+Child-Pugh,  el ABC  de  Empagliflozina,  aumentó  en  aproximadamente  el  23%,  47%,  y
+
+se debe tener en cuenta el aumento del riesgo de hipovolemia.
+
+75%, y la Cmáx aumentó en el 4%, 23% y 48% respectivamente, en comparación con los
+
+Población pediátrica
+
+sujetos con función hepática normal.
+
+índice de masa corporal (IMC):
+
+El  índice  de  masa  corporal  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la
+
+farmacocinética  de  Empagliflozina,  según  un  análisis  farmacocinético  poblacional.  En
+
+este  análisis,  se  determinó  que  el ABC  era  de  un  5,82%;  10,4%  y  17,3%  menor  en  los
+
+sujetos  con  un  IMC  de  30,  35  y  45  kg/m2,  respectivamente,  en  comparación  con  lo
+
+observado en los sujetos con un índice de masa corporal de 25 kg/m2.
+
+La dosis inicial recomendada es 10 mg de Empagliflozina una vez al día. En pacientes que
+
+toleren 10 mg de Empagliflozina una vez al día y requieran un control glucémico adicional, la
+
+dosis se puede aumentar a 25 mg una vez al día. No se dispone de datos en niños con una
+
+TFGe <60 ml/min/1,73 m2 ni en niños menores de 10 años de edad.
+
+No se ha establecido todavía la seguridad y eficacia de Empagliflozina para el tratamiento de
+
+la  insuficiencia  cardíaca  ni  para  el  tratamiento  de  la  enfermedad  renal  crónica  en  niños  y
+
+adolescentes menores de 18 años de edad. No se dispone de datos.
+
+La farmacocinética de Empagliflozina ha sido ampliamente caracterizada tanto en voluntarios
+
+sanos como en pacientes con diabetes mellitus tipo 2.
+
+El  género  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la  farmacocinética  de
+
+Empagliflozina, según un análisis farmacocinético poblacional.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad conocida a Empagliflozina o a cualquiera de los componentes del producto.
+
+Género:
+
+Raza:
+
+Luego  de  la  administración  oral  de  Empagliflozina,  la  absorción  es  rápida  y  la  concentración
+
+plasmática máxima se alcanza en una Tmáx promedio de 1,5 horas. Después, las concentra-
+
+ciones  plasmáticas  disminuyen  de  forma  bifásica,  con  una  fase  de  distribución  rápida  y  una
+
+fase terminal relativamente lenta. El ABC plasmática media en estado estacionario y la Cmáx,
+
+Sobre la base del análisis de farmacocinética poblacional, se estimó que el ABC fue un
+
+13,5% más alto en los pacientes asiáticos con un IMC de 25 kg/m2, en comparación con
+
+Cetoacidosis
+
+los pacientes de raza no asiática con un IMC de 25 kg/m2.
+
+fueron de 1.870 nmol.h y 259 nmol/l con Empagliflozina 10 mg y de 4.740 nmol.h y 687 nmol/l
+
+Pacientes de edad avanzada
+
+ADVERTENCIAS Y PRECAUCIONES
+
+Hipoglucemiante oral, inhibidor del cotransportador de sodio-glucosa de tipo 2 (SGLT2).
+
+con Empagliflozina 25 mg una vez al día. La exposición sistémica de Empagliflozina aumentó
+
+La  edad  no  tuvo  ningún  efecto  clínicamente  relevante  sobre  la  farmacocinética  de
+
+de forma proporcional a la dosis. Los parámetros farmacocinéticos de dosis única y de estado
+
+Empagliflozina, según un análisis farmacocinético poblacional.
+
+ACCIÓN TERAPÉUTICA
+
+Código ATC: A10BK03
+
+INDICACIONES
+
+indicado para.
+
+- Diabetes mellitus tipo 2
+
+BECIADIC®  es  un  inhibidor  del  cotransportador  de  sodio-glucosa  tipo  2  (SGLT2),  está
+
+• BECIADIC® está indicado en adultos y niños a partir de 10 años de edad para el tratamien-
+
+to de la diabetes mellitus tipo 2 no suficientemente controlada con la dieta y el ejercicio.
+
+• Como monoterapia, cuando metformina no se considera apropiada debido a intolerancia.
+
+• Asociado a otros medicamentos para el tratamiento de la diabetes.
+
+•  BECIADIC®  está  indicado  en  adultos,  para  el  tratamiento  de  la  insuficiencia  cardíaca
+
+- Insuficiencia cardíaca
+
+crónica sintomática.
+
+- Enfermedad renal crónica
+
+• BECIADIC® está indicado en adultos, para el tratamiento de la enfermedad renal crónica.
+
+ACCIÓN FARMACOLÓGICA
+
+Empagliflozina  es  un  inhibidor  competitivo  reversible  y  selectivo  altamente  potente  del
+
+cotransportador de sodio-glucosa tipo 2 (SGLT2).
+
+Empagliflozina no inhibe otros transportadores de glucosa importantes para el transporte de
+
+glucosa a los tejidos periféricos y es 5.000 veces más selectivo para el SGLT2 que para el
+
+SGLT1,  el  transportador  más  importante  responsable  de  la  absorción  de  glucosa  en  el
+
+intestino.  El  SGLT2  se  encuentra  altamente  expresado  en  el  riñón,  mientras  que  la
+
+expresión  en  otros  tejidos  es  inexistente  o  muy  baja.  Es  responsable,  como  transportador
+
+predominante, de la reabsorción de glucosa tras la filtración glomerular, para devolverla a la
+
+circulación. En los pacientes con diabetes tipo 2 e hiperglucemia, se filtra y reabsorbe una
+
+mayor cantidad de glucosa.
+
+Empagliflozina,  al  reducir  la  reabsorción  renal  de  glucosa,  mejora  el  control  glucémico  en
+
+pacientes  diabéticos  tipo  2.  La  glucosa  eliminada  por  el  riñón  (glucosuria),  depende  de  la
+
+concentración de glucosa en sangre y de la tasa de filtración glomerular (TFG). La inhibición
+
+del  SGLT2,  en  pacientes  con  diabetes  tipo  2  e  hiperglucemia,  conduce  a  un  exceso  de
+
+excreción de glucosa por la orina.
+
+Además,  el  inicio  de  la  administración  de  Empagliflozina,  aumenta  la  excreción  de  sodio,
+
+que da lugar a diuresis osmótica y a una reducción del volumen intravascular.
+
+La eliminación de glucosa por la orina en pacientes diabéticos tipo 2, aumenta después de
+
+la primera dosis de Empagliflozina, y se mantiene durante un intervalo de dosificación de 24
+
+estacionario  de  Empagliflozina  fueron  similares,  lo  que  sugiere  una  farmacocinética  lineal
+
+respecto  al  tiempo.  No  hubo  diferencias  clínicamente  relevantes  en  la  farmacocinética  de
+
+Empagliflozina entre los voluntarios sanos y los pacientes con diabetes tipo 2.
+
+La  administración  de  Empagliflozina  25  mg,  después  de  la  ingesta  de  una  comida  rica  en
+
+grasas y alta en calorías, dio lugar a una exposición ligeramente inferior; el ABC disminuyó en
+
+aproximadamente el 16% y la Cmáx disminuyó en aproximadamente un 37% en comparación
+
+Población pediátrica
+
+Un estudio realizado en población pediátrica de fase I, evaluó la cinética y la dinamia de
+
+Empagliflozina (5, 10 y 25 mg), en niños y adolescentes de entre 10 y 18 años de edad
+
+con  diabetes  mellitus  tipo  2.  Las  respuestas  farmacocinéticas  y  farmacodinámicas
+
+observadas, concordaban con las obtenidas en la población adulta.
+
+con las condiciones de ayunas. El efecto observado de los alimentos sobre la farmacocinética
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+de  Empagliflozina  no  se  consideró  clínicamente  relevante,  por  lo  que  Empagliflozina  puede
+
+Diabetes mellitus tipo 2:
+
+- La dosis inicial recomendada es de un comprimido de 10 mg de Empagliflozina, una vez
+
+al día, tanto en monoterapia, como en combinación con otros medicamentos para tratar
+
+El volumen de distribución, en estado de equilibrio, es de 73,8 litros. Después de la adminis-
+
+tración  de  una  solución  oral  Empagliflozina  radiomarcada  a  voluntarios  sanos,  la  distribución
+
+de los glóbulos rojos fue de 37% aproximadamente. La unión a proteínas de empagliflozina es
+
+la diabetes.
+
+- Aquellos  pacientes  que  toleran  un  régimen  de  10  mg  por  día  de  Empagliflozina,  que
+
+tengan  una TFG  >60  ml/min/1,73  m2  y  requieran  un  control  adicional  de  la  glucemia,  la
+
+No  se  detectaron  metabolitos  importantes  de  Empagliflozina  en  el  plasma  humano  y  los
+
+metabolitos más abundantes fueron tres conjugados glucurónidos (2-, 3- y 6-0 glucurónido). La
+
+Insuficiencia cardíaca:
+
+exposición sistémica de cada metabolito fue inferior al 10% del material total relacionado con el
+
+La dosis recomendada es de un comprimido de 10 mg de Empagliflozina, una vez al día.
+
+fármaco.  Los  estudios  in  vitro  sugirieron  que  la  principal  vía  metabólica  de  Empagliflozina  en
+
+humanos,  es  la  glucuronización  por  las  uridina  5'-difosfo-glucuronosiltransferasas  UGT2B7,
+
+Enfermedad renal crónica:
+
+dosis puede incrementarse a 25 mg por día.
+
+Dosis máxima de Empagliflozina:
+
+No exceder los 25 mg por día.
+
+administrarse con o sin alimentos.
+
+Distribución
+
+del 86%.
+
+Metabolización
+
+UGT1A3, UGT1A8 y UGT1A9.
+
+Eliminación
+
+La  vida  media  de  eliminación  de  Empagliflozina  es  de  12,4  horas  y  la  depuración  oral
+
+aparente,  fue  de  10,6  l/hora  sobre  la  base  del  análisis  de  farmacocinética  poblacional.  Las
+
+variabilidades  intersujeto  y  residuales  de  la  depuración  oral  de  Empagliflozina,  fueron  del
+
+39,1%  y  del  35,8%,  respectivamente.  Con  una  pauta  posológica  de  una  toma  diaria,  las
+
+concentraciones  plasmáticas  de  Empagliflozina  en  estado  estacionario,  se  alcanzaron  en  la
+
+quinta  dosis. Acorde  con  la  vida  media,  en  estado  estacionario,  se  observó  una  acumulación
+
+reducir el riesgo de hipoglucemias.
+
+Forma de administración
+
+enteros con agua.
+
+BECIADIC®  puede  tomarse  con  o  sin  los  alimentos  y  los  comprimidos  deben  tragarse
+
+de hasta el 22 % con respecto al ABC plasmática. Tras la administración de una solución oral
+
+Omisión de dosis: Si el paciente olvida tomar una dosis, esta se debe tomar en cuanto se
+
+de  Empagliflozina  radiomarcada  a  voluntarios  sanos,  el  fármaco  se  eliminó  por  las  heces
+
+acuerde el paciente; no se debe tomar una dosis doble el mismo día.
+
+comparación con placebo.
+
+(41%) y por orina (54%). La mayor parte del fármaco se recuperó, tanto en las heces como en
+
+la orina, en su estado original, sin cambios.
+
+Poblaciones especiales
+
+Insuficiencia renal
+
+Se han notificado casos raros de cetoacidosis, incluidos casos potencialmente mortales y con
+
+desenlace  mortal,  en  pacientes  con  diabetes  mellitus,  tratados  con  inhibidores  del  SGLT2,
+
+incluida Empagliflozina. En algunos de estos casos, el cuadro clínico fue atípico, presentando
+
+ascenso  moderado  de  los  niveles  de  glucosa  en  sangre  (por  debajo  de  los  250  mg/dl).  Se
+
+desconoce si dosis mayores de Empagliflozina pueden producir cetoacidosis.
+
+La  cetoacidosis  puede  manifestarse  con:  náuseas,  vómitos,  anorexia,  dolor  abdominal,  sed
+
+excesiva, dificultad para respirar, confusión, fatiga o somnolencia inusuales. El paciente debe
+
+ser  evaluado  de  forma  inmediata  para  detectar  cetoacidosis  en  caso  que  aparezcan  estos
+
+síntomas, independientemente del nivel de glucemia.
+
+En  los  casos  en  que  se  sospeche  o  se  diagnostique  la  presencia  de  cetoacidosis,  el
+
+tratamiento con Empagliflozina debe ser suspendido de forma inmediata.
+
+En caso de pacientes que estén hospitalizados por una cirugía mayor o enfermedad aguda
+
+grave, se deberá interrumpir el tratamiento con Empagliflozina. Se recomienda controlar los
+
+niveles de cuerpos cetónicos en sangre, en estos pacientes. El tratamiento con Empagliflozi-
+
+na se puede reanudar cuando los valores de cuerpos cetónicos sean normales, y el estado
+
+del paciente se haya estabilizado.
+
+Antes de iniciar el tratamiento con Empagliflozina, se deben considerar los antecedentes del
+
+paciente que puedan predisponer a cetoacidosis:
+
+-  Pacientes  con  una  baja  reserva  de  células  beta  funcionales  (por  ejemplo,  pacientes  con
+
+diabetes tipo 2 con péptido C bajo, o con diabetes autoinmune latente del adulto, o pacientes
+
+con antecedentes de pancreatitis).
+
+-  Pacientes  con  trastornos  que  den  lugar  a  una  ingesta  restringida  de  alimentos  o  a  una
+
+deshidratación grave.
+
+- Pacientes cuyas dosis de insulina estén reducidas.
+
+- Pacientes con mayores necesidades de insulina debido a una enfermedad médica aguda,
+
+que se haya identificado y resuelto claramente otro factor desencadenante.
+
+No  se  debe  utilizar  Empagliflozina  en  pacientes  con  diabetes  tipo  1.  Datos  de  ensayos
+
+clínicos en pacientes con diabetes tipo 1, tratados con inhibidores del SGLT2, mostraron un
+
+incremento  de  la  incidencia  de  cetoacidosis  con  una  frecuencia  frecuente  en  pacientes
+
+tratados con 10 y 25 mg de Empagliflozina como tratamiento complementario de insulina en
+
+Fascitis necrotizante del perineo (gangrena de Fournier)
+
+Se han informado casos de fascitis necrotizante del perineo (también conocida como gangre-
+
+na  de  Fournier),  en  pacientes  de  ambos  sexos,  con  diabetes  mellitus,  tratados  con
+
+inhibidores del SGLT2 (incluida Empagliflozina). Se trata de una infección necrotizante, rara
+
+pero grave y potencialmente mortal, que requiere intervención quirúrgica urgente y tratamien-
+
+to antibiótico.
+
+Se indicará a los pacientes que acudan al médico si presentan una combinación de síntomas
+
+como  dolor,  dolor  a  la  palpación,  eritema  o  inflamación  en  la  región  genital  o  perineal,  con
+
+fiebre  o  malestar  general.  Si  se  sospecha  gangrena  de  Fournier,  se  debe  interrumpir  el
+
+tratamiento  con  Empagliflozina  e  instaurar  un  tratamiento  inmediato  (incluidos  antibióticos  y
+
+horas. El aumento de la eliminación de glucosa por orina se mantiene hasta un período de
+
+Poblaciones especiales:
+
+tratamiento de 4 semanas, con un promedio de 78 g/día, aproximadamente. Este aumento
+
+de  la  eliminación  urinaria  de  glucosa,  derivó  en  una  reducción  inmediata  de  los  niveles
+
+Insuficiencia renal:
+
+séricos de glucosa, en pacientes con diabetes tipo 2.
+
+Empagliflozina mejora los niveles de glucosa en plasma, tanto en ayunas como postprandia-
+
+les. El mecanismo de acción de empagliflozina es independiente de la función de las células
+
+beta  y  de  la  vía  de  la  insulina,  lo  que  contribuye  a  un  bajo  riesgo  de  hipoglucemia.  Se
+
+observó una mejora de los marcadores indirectos de la función de las células beta, incluido
+
+el modelo de evaluación de la homeostasis-p (HOMA-P). Además, la excreción de glucosa
+
+por  la  orina,  desencadena  una  pérdida  de  calorías,  que  se  asocia  a  una  pérdida  de  grasa
+
+corporal y a una reducción de peso corporal. La glucosuria observada con empagliflozina se
+
+En pacientes con insuficiencia renal leve, moderada o grave (TFG <30 - <90 ml/min/1,73 m2) y
+
+En pacientes con una TFG <60 ml/min/1,73 m2, la dosis diaria de Empagliflozina es de 10 mg.
+
+pacientes  con  fallo  renal/enfermedad  renal  terminal,  el ABC  de  Empagliflozina,  aumentó  en
+
+En pacientes con diabetes mellitus tipo 2, la eficacia hipoglucemiante de Empagliflozina,
+
+aproximadamente el 18%, 20%, 66% y 48% respectivamente, en comparación con los sujetos
+
+es menor en pacientes con una TFG <45 ml/min/1,73 m2 y probablemente esté ausente
+
+con  una  función  renal  normal.  Los  niveles  plasmáticos  máximos  de  Empagliflozina  fueron
+
+en pacientes con una TFG <30 ml/min/1,73 m2. Por consiguiente, si la TFG disminuye por
+
+similares  en  los  sujetos  con  insuficiencia  renal  moderada  y  fallo  renal/enfermedad  terminal
+
+debajo  de  45  ml/min/1,73  m2,  se  deberá  considerar  un  tratamiento  hipoglucemiante
+
+renal, en comparación con los pacientes con una función renal normal. Los niveles plasmáticos
+
+adicional en caso necesario.
+
+máximos  de  Empagliflozina  fueron  aproximadamente  un  20%  más  altos  en  los  sujetos  con
+
+Insuficiencia hepática
+
+tratamiento quirúrgico).
+
+Insuficiencia renal
+
+Debido  a  que  la  experiencia  es  limitada,  no  se  recomienda  iniciar  el  tratamiento  con
+
+Empagliflozina en pacientes con una TFG <30 ml/min/1,73 m2.
+
+insuficiencia renal leve y grave, en comparación con los sujetos con una función renal normal.
+
+No se precisa un ajuste de dosis en pacientes con insuficiencia hepática. La exposición a
+
+El  análisis  farmacocinético  poblacional  demostró  que  el  clearance  oral  aparente  de  Empagli-
+
+Empagliflozina aumenta en pacientes con insuficiencia hepática grave.
+
+Debido a que la experiencia es limitada, no se recomienda iniciar el tratamiento con Empagli-
+
+flozina en pacientes con una TFG <20 ml/min/1,73 m2.
+
+La dosis recomendada es de un comprimido de 10 mg de Empagliflozina, una vez al día.
+
+cirugía o abuso de alcohol.
+
+Todas las indicaciones:
+
+Los inhibidores del SGLT2 se deben usar con precaución en estos pacientes.
+
+Cuando se administre Empagliflozina en combinación con una sulfonilurea o con insulina,
+
+se puede considerar una dosis inferior de estas dos últimas (sulfonilurea o insulina), para
+
+No  se  recomienda  reiniciar  el  tratamiento  con  un  inhibidor  del  SGLT2  en  pacientes  con
+
+cetoacidosis  previa,  mientras  estaban  en  tratamiento  con  un  inhibidor  del  SGLT2,  a  menos
+
+En pacientes con una TFG <60 ml/min/1,73 m2, la dosis diaria de Empagliflozina es de 10 mg.
+La  eficacia  hipoglucemiante  de  Empagliflozina  depende  de  la  función  renal,  y  es  menor  en
+pacientes con una TFG <45 ml/min/1,73 m2 y probablemente esté ausente en pacientes con
+una TFG <30 ml/min/1,73 m2.
+Monitoreo de la función renal
+Se recomienda evaluar la función renal, tal como se indica a continuación:
+- Antes de iniciar el tratamiento con Empagliflozina y periódicamente durante el tratamiento, al
+menos una vez al año.
+- Antes de iniciar el tratamiento con cualquier medicamento concomitante que pueda tener un
+impacto negativo en la función renal.
+Enfermedad renal crónica
+Pacientes con albuminuria, pueden tener un beneficio mayor con el tratamiento con Empagli-
+flozina.
+Lesión hepática
+En ensayos clínicos, se han notificado casos de lesión hepática con el uso de Empagliflozina.
+No se ha establecido una relación causal entre Empagliflozina y la lesión hepática.
+Aumento del hematocrito
+Se ha observado un aumento del hematocrito con el tratamiento con Empagliflozina.
+Pacientes de edad avanzada
+Debido al efecto glucosúrico de Empagliflozina, se asocia con una diuresis osmótica, lo que
+podría  afectar  el  estado  de  hidratación  del  paciente.  Los  pacientes  mayores  de  75  años,
+pueden  presentar  un  incremento  del  riesgo  de  hipovolemia.  Una  mayor  cantidad  de  estos
+pacientes tratados con Empagliflozina, presentaron reacciones adversas relacionadas con la
+hipovolemia, en relación a lo observado con placebo. Se debe prestar especial atención a la
+ingesta de líquidos en caso en que se administre en forma concomitante con medicamentos
+que puedan producir hipovolemia (por ejemplo, diuréticos, inhibidores de la ECA).
+Uso Pediátrico
+No  se  recomienda  el  uso  de  este  producto  en  la  población  pediátrica  menor  de  10  años  de
+edad.
+Riesgo de hipovolemia
+En  base  al  mecanismo  de  acción  de  los  inhibidores  del  SGLT2,  la  diuresis  osmótica  que
+acompaña a la glucosuria, puede provocar una disminución moderada de la presión arterial.
+Por lo tanto, se debe tener precaución en los pacientes para los que una caída de la presión
+arterial,  inducida  por  Empagliflozina,  pudiera  suponer  un  riesgo,  tales  como  pacientes  con
+enfermedad cardiovascular conocida, pacientes en tratamiento antihipertensivo con anteceden-
+tes de hipotensión o pacientes de 75 años de edad o mayores.
+En  caso  de  otras  patologías  que  puedan  conducir  a  una  pérdida  de  líquidos  (por  ejemplo,
+enfermedad  gastrointestinal),  se  recomienda  una  estrecha  monitorización  de  la  volemia  (por
+ejemplo, exploración física, medición de la presión arterial, pruebas de laboratorio, incluyendo
+el hematocrito) y de los electrolitos, en el caso de pacientes tratados con Empagliflozina. Se
+debe  valorar  la  interrupción  temporal  con  Empagliflozina  hasta  que  se  corrija  la  pérdida  de
+líquidos.
+Infecciones urinarias complicadas
+Se han notificado casos de infecciones complicadas del tracto urinario, incluyendo pielonefritis
+y  urosepsis,  en  pacientes  tratados  con  Empagliflozina.  En  el  caso  de  pacientes  con
+infecciones  complicadas  del  tracto  urinario,  se  debe  valorar  la  interrupción  temporal  del
+tratamiento con Empagliflozina.
+Glucosuria en orina
+Debido al mecanismo de acción de Empagliflozina, los pacientes tratados con Empagliflozina,
+presentarán un valor positivo para la glucosa en orina.
+Amputación de miembros inferiores
+En  estudios  clínicos  a  largo  plazo,  se  ha  observado  un  incremento  en  los  casos  de
+amputación  de  miembros  inferiores  (principalmente  de  los  dedos  de  los  pies),  con  otro
+inhibidor  de  SGLT2.  Se  desconoce  si  esto  constituye  un  efecto  de  clase. Al  igual  que  para
+todos  los  pacientes  diabéticos,  es  importante  aconsejar  a  los  pacientes  acerca  del  cuidado
+rutinario preventivo de los pies.
+Enfermedad infiltrativa o miocardiopatía de Takotsubo
+Dado que no se ha estudiado específicamente a pacientes con enfermedad infiltrativa o con
+miocardiopatía de Takotsubo, no se ha establecido la eficacia en estos pacientes.
+Contenido de lactosa de los comprimidos
+Los comprimidos Recubiertos de BECIADIC® contienen lactosa. Los pacientes con intoleran-
+cia hereditaria a galactosa, deficiencia total de lactasa de Lapp o problemas de absorción de
+glucosa o galactosa, no deben tomar este medicamento.
+
+INTERACCIONES CON OTROS MEDICAMENTOS
+Interacciones farmacodinámicas
+
+Diuréticos
+Empagliflozina  puede  incrementar  el  efecto  diurético  de  las  tiazidas  y  de  los  diuréticos  del
+asa, pudiendo aumentar el riesgo de deshidratación e hipotensión.
+Insulina y secretagogos de la insulina
+La  insulina  y  los  secretagogos  de  insulina,  como  las  sulfonilureas,  pueden  incrementar  el
+riesgo de hipoglucemia. Por lo tanto, puede necesitarse una dosis más baja de insulina o de
+un secretagogo de insulina para disminuir el riesgo de hipoglucemia, cuando éstos se usan en
+forma concomitante con Empagliflozina.
+
+Interacciones farmacocinéticas
+Efecto de otros medicamentos sobre Empagliflozina
+Los datos in vitro sugieren que la principal vía metabólica de la Empagliflozina en humanos,
+es  la  glucuronización  por  las  uridina  5'-difosfoglucuronosiltransferasas  UGT1A3,  UGT1A8,
+UGT1A9  y  UGT2B7.  Empagliflozina  es  un  sustrato  de  los  transportadores  de  captación
+humanos  OAT3,  OATP1B1,  y  OATP1B3,  pero  no  de  OAT1  y  OCT2.  Empagliflozina  es  un
+sustrato de la glicoproteína-P (gp-P) y la proteína de resistencia al cáncer de mama (BCRP).
+Probenecid
+La  administración  conjunta  de  Empagliflozina  con  probenecid,  un  inhibidor  de  las  enzimas
+UGT  y  del  OAT3,  dio  lugar  a  un  aumento  del  26%  en  la  Cmáx  de  Empagliflozina  y  a  un
+aumento del 53% en el ABC. Estos cambios no se consideraron clínicamente significativos.
+No  se  ha  estudiado  el  efecto  de  la  inducción  de  la  UGT  sobre  Empagliflozina  (por  ejemplo,
+por rifampicina o por fenitoína). No se recomienda el tratamiento concomitante con inductores
+de  las  enzimas  UGT  debido  al  riesgo  potencial  de  disminución  de  la  eficacia.  Si  se  debe
+coadministrar  un  inductor  de  estas  enzimas  UGT,  se  recomienda  monitorear  el  valor  de  la
+glucemia para determinar que la respuesta a Empagliflozina sea adecuada.
+Gemfibrozil
+Un estudio de interacción con gemfibrozil, un inhibidor in vitro de los transportadores OAT3 y
+OATP1B1/1B3,  mostró  que  la  Cmáx  de  Empagliflozina  aumentaba  en  un  15%  y  el  ABC
+aumentaba en un 59%, después de la administración conjunta. Estos cambios no se considera-
+ron clínicamente significativos.
+Rifampicina
+La  inhibición  de  los  transportadores  OATP1B1/1B3,  mediante  la  administración  conjunta  de
+rifampicina, dio lugar a un aumento del 75% en la Cmáx y un aumento del 35% en el ABC de
+Empagliflozina. Estos cambios no se consideraron clínicamente significativos.
+Verapamilo
+La exposición a Empagliflozina fue similar con y sin la administración conjunta de verapamilo,
+un  inhibidor  de  la  gp-P,  lo  que  indica  que  la  inhibición  de  la  gp-P  no  tiene  un  efecto
+clínicamente relevante sobre la Empagliflozina.
+Metformina, glimepirída, pioglitazona, sitagliptina, linagliptina, warfarina, verapamilo, ramipríl,
+simvastatina, torasemida e hidroclorotiazida
+Estudios de interacciones sugieren que la farmacocinética de Empagliflozina no se vio influida
+por la administración conjunta de estos medicamentos.
+
+Efecto de Empagliflozina sobre otros medicamentos
+Litio
+Empagliflozina puede incrementar la excreción renal de litio y reducir así los niveles plasmáti-
+cos  de  éste.  Se  debe  monitorizar  la  concentración  sanguínea  de  litio  con  mayor  frecuencia
+después  del  inicio  del  tratamiento  y  de  los  cambios  de  dosis  de  Empagliflozina.  Se  debe
+derivar al paciente al médico prescriptor del litio para que realice un monitoreo de las concen-
+traciones séricas de litio.
+En  base  a  estudios  in  vitro,  Empagliflozina  no  inhibe,  inactiva  ni  induce  las  isoformas  del
+CYP450.  Empagliflozina  no  inhibe  la  UGT1A1,  la  UGT1A3,  la  UGT1A8,  la  UGT1A9  ni  la
+UGT2B7. Por lo tanto, se considera improbable que se produzcan interacciones farmacológi-
+cas que impliquen a las principales isoformas del CYP450 y de la UGT con Empagliflozina y a
+los sustratos de estas enzimas, administradas de forma conjunta.
+Empagliflozina, no inhibe la gp-P a dosis terapéuticas. En base a estudios in vitro, se conside-
+ra  improbable  que  Empagliflozina  provoque  interacciones  con  principios  activos  que  sean
+sustratos de la gp-P.
+Empagliflozina  no  inhibe,  in  vitro,  a  los  transportadores  de  captación  humanos,  tales  como
+OAT3, OATP1B1 y OATP1B3 a concentraciones plasmáticas clínicamente relevantes y, como
+tales, las interacciones farmacológicas con sustratos de estos transportadores de captación,
+se consideran improbables.
+Digoxina
+La coadministración con digoxina, un sustrato de la gp-P, dio lugar a un incremento del 6% en
+el ABC  y  un  aumento  del  14%  en  la  Cmáx  de  digoxina.  Estos  cambios  no  se  consideraron
+clínicamente significativos.
+Metformina,  glimepirída,  pioglitazona,  sitagliptina,  linagliptina,  simvastatina,  warfarína,
+ramipril, digoxina, diuréticos y los anticonceptivos orales
+
+Estudios  de  interacciones  realizados  en  voluntarios  sanos,  sugieren  que  Empagliflozina  no
+tuvo ningún efecto clínicamente relevante sobre la farmacocinética de estos medicamentos.
+Embarazo
+No hay datos sobre el uso de Empagliflozina en mujeres embarazadas.
+Estudios realizados en animales, muestran que Empagliflozina atraviesa la placenta durante
+la última fase de la gestación, en un grado muy limitado, pero no indican efectos perjudiciales
+directos ni indirectos en lo que respecta al desarrollo embrionario temprano. No obstante, los
+estudios realizados en animales han mostrado efectos adversos en el desarrollo posnatal.
+Como medida de precaución, se debe evitar el uso de BECIADIC® durante el embarazo.
+Lactancia
+No se dispone de datos en humanos sobre la excreción de Empagliflozina en leche materna.
+Datos toxicológicos en animales, han mostrado que Empagliflozina se excreta en la leche.
+No se puede excluir el riesgo para los recién nacidos o los lactantes.
+BECIADIC® no debe utilizarse durante la lactancia.
+Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de Empagliflozina sobre la capacidad para conducir y utilizar máquinas es muy
+baja. Se debe advertir a los pacientes que tomen las debidas precauciones para evitar una
+hipoglucemia mientras conducen y utilizan máquinas, sobre todo cuando BECIADIC® se use
+en combinación con una sulfonilurea y/o con insulina.
+
+REACCIONES ADVERSAS
+Las  siguientes  reacciones  adversas  fueron  notificadas  durante  la  exposición  a  Empagliflozi-
+na, y se las clasifica por órganos y sistemas.
+Las reacciones adversas se definen, por su frecuencia en: muy frecuentes (>1/10), frecuentes
+(>1/100 a <1/10), poco frecuentes (>1/1.000 a <1/100), raras (>1/10.000 a <1/1.000), muy raras
+(<1/10.000) y frecuencia no conocida.
+
+Órganos y
+sistemas
+
+Infecciones
+
+Muy frecuentes
+
+Frecuentes
+
+Poco
+Frecuentes
+
+Raras
+
+Frecuencia
+no conocida
+
+Candidiasis vaginal,
+
+vulvovaginitis, balanitis,
+
+otras infecciones
+
+genitales, infecciones
+
+urinarias (pielonefritis,
+
+infección urinaria)
+
+Fascitis
+
+necrotizante
+
+del perineo
+
+(gangrena de
+
+Fournier)
+
+Trastornos del
+
+Hipoglucemia
+
+Sed
+
+Cetoacidosis
+
+metabolismo y de
+
+(cuando se
+
+la nutrición
+
+asocia a insulina
+
+o a una
+
+sulfonilurea)
+
+Trastornos
+
+gastrointestinales
+
+Trastornos de la
+
+piel y del tejido
+
+subcutáneo
+
+Trastornos
+
+vasculares
+
+Hipovolemia
+
+Estreñimiento
+
+Prurito (generalizado).
+
+Angioedema,
+
+Exantema.
+
+urticaria
+
+Trastornos renales
+
+Incremento de la micción  Disuria
+
+y urinarios
+
+Alteraciones de
+
+laboratorio
+
+Incremento de los lípidos
+
+Disminución de
+
+en suero*
+
+la tasa de
+
+filtración
+
+glomerular.
+
+Aumento de la
+
+creatinina en
+
+sangre.
+
+Incremento del
+
+hematocrito**
+
+*Incremento de los lípidos en suero
+Los incrementos medios porcentuales, con respecto al valor inicial para Empagliflozina 10 y
+25 mg en comparación con placebo, respectivamente fueron: colesterol total, 4,9% y 5,7% en
+comparación con a 3,5%; colesterol HDL, 3,3% y 3,6% frente a 0,4%; colesterol LDL, 9,5% y
+10,0%, frente a 7,5%; triglicéridos, 9,2% y 9,9% frente a 10,5%.
+
+**Incremento del hematocrito
+Los  cambios  medios  del  hematocrito,  con  respecto  al  valor  inicial,  fueron  del  3,4%  y  3,6%
+para  Empagliflozina  10  mg  y  25  mg,  respectivamente,  en  comparación  con  el  0,1%  para  el
+placebo. En un estudio clínico, se observó que el hematocrito retornó hacia valores iniciales,
+luego de 30 días tras la interrupción del tratamiento con Empagliflozina.
+
+Notificación de los eventos adversos:
+Ante cualquier inconveniente con el producto Usted puede:
+-  comunicarse  al  4756-5436  o  por  correo  electrónico  a  través  de  la  Página  Web  de  Denver
+Farma: www.denverfarma.com.ar
+- llenar la ficha que está en la Página Web de la ANMAT:
+https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/pacientes o llamar a ANMAT
+responde 0800-333-1234
+
+SOBREDOSIS
+Síntomas
+En estudios clínicos donde se administraron dosis únicas de hasta 800 mg de Empagliflozina
+en voluntarios sanos y dosis múltiples diarias de hasta 100 mg de Empagliflozina en pacientes
+con diabetes mellitus tipo 2, no mostraron toxicidad.
+Empagliflozina incrementó la excreción de glucosa por la orina, lo que provocó un aumento en
+el volumen de orina. Este incremento en el volumen de orina no fue dependiente de la dosis, y
+no  es  clínicamente  significativo.  No  hay  experiencia  con  dosis  superiores  a  800  mg  de
+Empagliflozina en humanos.
+Tratamiento
+En caso de sobredosis, debe iniciarse un tratamiento adecuado al estado clínico del paciente.
+No se ha estudiado la eliminación de Empagliflozina mediante hemodiálisis.
+Ante  la  eventualidad  de  una  sobredosificación  concurrir  al  hospital  más  cercano  o  comuni-
+carse con los Centros de Toxicología:
+- Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/4962-2247
+- Hospital A. Posadas (011) 4658-7777/4654-6648.
+
+PRESENTACIONES
+BECIADIC®10  comprimidos  recubiertos  de  10  mg:  Envases  conteniendo  30  comprimidos
+recubiertos.
+BECIADIC®25  comprimidos  recubiertos  de  25  mg:  Envases  conteniendo  30  comprimidos
+recubiertos.
+
+“MANTENER FUERA DEL ALCANCE DE LOS NIÑOS”
+
+MODO DE CONSERVACIÓN
+Conservar en su envase original, en lugar seco a temperatura ambiente menor a 30oC.
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+Certificado No: 60.356
+
+DENVER FARMA S.A.
+Mozart S/N, Centro Industrial Garín, Escobar, Pcia de Bs. As.
+Director Técnico: José Luis Tombazzi –Farmacéutico
+Fecha de la última revisión: Abril 2025                                                                       Rv 04/25

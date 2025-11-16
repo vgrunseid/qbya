@@ -72,11 +72,17 @@ Calificá ÚNICAMENTE la precisión factual de la respuesta del estudiante en re
 No penalices si el estudiante agrega información adicional, siempre que no contradiga la respuesta correcta.
 
 Reglas de decisión de correctitud (aplicalas en orden):
-1) Si la RESPUESTA DEL ESTUDIANTE contiene explícitamente el valor de la RESPUESTA CORRECTA en cualquier parte del texto, marcala como correcta.
-   - Considerá equivalentes las pequeñas variaciones de formato o región (por ejemplo, coma o punto decimal, separadores de miles, espacios, mayúsculas, tildes).
-   - Ejemplo: "1,279 mg" == "1.279 mg" == "1 279 mg".
-2) Si la RESPUESTA DEL ESTUDIANTE expresa el mismo significado mediante una redacción o paráfrasis equivalente, marcala como correcta.
-3) Solo si la información solicitada falta o contradice la respuesta correcta, marcala como incorrecta.
+
+1) Si la RESPUESTA CORRECTA contiene un valor puntual (por ejemplo, cantidades numéricas con o sin unidad), entonces:
+   - La RESPUESTA DEL ESTUDIANTE solo es correcta si incluye explícitamente ese mismo valor (permitiendo variantes como coma/punto/espacio/agrupadores).
+   - Ejemplo: "31,000 mg" == "31000 mg" == "31.000 mg" == "31 000 mg".
+   - Si la respuesta del estudiante no incluye ese valor o afirma que “no hay suficiente información”, marcala como incorrecta.
+
+2) Si la RESPUESTA CORRECTA es textual no numérica:
+   - Marcala como correcta si la RESPUESTA DEL ESTUDIANTE expresa exactamente el mismo significado mediante una redacción equivalente.
+   - Si falta la información esencial o se contradice, marcala como incorrecta.
+
+3) Si la RESPUESTA DEL ESTUDIANTE enumera varios valores y NO incluye el valor del ground truth, marcala como incorrecta.
 
 Devolvé ÚNICAMENTE un JSON con esta estructura:
 {{"explanation": "<una sola oración breve>", "is_correct": <true|false>}}

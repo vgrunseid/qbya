@@ -1,0 +1,736 @@
+BLOKIUM®  COX
+
+     ETORICOXIB
+
+                Venta Bajo Receta - Industria Argentina
+
+COMPRIMIDOS RECUBIERTOS
+
+Fórmulas
+Cada comprimido recubierto x 60 mg contiene
+ETORICOXIB  60,000  mg;  Excipientes:  celulosa  microcristalina  52,000  mg;  fosfato  tricálcico  49,400  mg;
+croscarmelosa  sódica  14,000  mg;  hidroxipropilcelulosa  2,600  mg;  crospovidona  20,000  mg;  estearato  de
+magnesio 2,000 mg; opadry II blanco (composición: talco 0,60 mg; alcohol polivinílico 1,60 mg; dióxido de titanio
+1,00  mg;  polietilenglicol  3000    0,80  mg)  4,000  mg;  talco  1,475  mg;  óxido  de  hierro  amarillo  0,025  mg;
+polietilenglicol 6000 0,500 mg
+
+Cada comprimido recubierto x 90 mg contiene
+ETORICOXIB  90,000  mg;  Excipientes:  celulosa  microcristalina  78,000  mg;  fosfato  tricálcico  74,100  mg;
+croscarmelosa  sódica  21,000  mg;  hidroxipropilcelulosa  3,900  mg;  crospovidona  30,000  mg;  estearato  de
+magnesio 3,000 mg; opadry II blanco (composición: talco 0,9 mg; alcohol polivinílico 2,40 mg; dióxido de titanio
+1,50  mg;  polietilenglicol  3000  1,20  mg)  6,000  mg;  talco  2,213  mg;  óxido  de  hierro  amarillo  0,038  mg;
+polietilenglicol 6000 0,750 mg
+
+Cada comprimido recubierto x 120 mg contiene
+ETORICOXIB  120,000  mg;  Excipientes:  celulosa  microcristalina  104,000  mg;  fosfato  tricálcico  98,800  mg;
+croscarmelosa  sódica  28,000  mg;  hidroxipropilcelulosa  5,200  mg;  crospovidona  40,000  mg;  estearato  de
+magnesio 4,000 mg; opadry II blanco (composición: talco 1,2 mg; alcohol polivinílico 3,20 mg; dióxido de titanio
+2,00  mg;  polietilenglicol  3000  1,60  mg)  8,000  mg;  talco  2,950  mg;  óxido  de  hierro  amarillo  0,050  mg;
+polietilenglicol 6000 1,000 mg
+
+Acción Terapéutica
+BLOKIUM COX (etoricoxib) es un analgésico – antiinflamatorio de la clase denominada Coxibs.  Etoricoxib es un
+inhibidor altamente selectivo de la ciclooxigenasa-2 (COX-2).
+Código ATC: M01AH05. (Medicamentos antiinflamatorios, antirreumáticos no esteroides – Coxibs).
+
+Indicaciones
+BLOKIUM COX está indicado para el alivio sintomático de la artrosis u osteoartritis (OA), espondilitis anquilosante,
+artritis reumatoidea (AR), y para el dolor y los signos de inflamación asociados con la artritis gotosa aguda.
+BLOKIUM COX también está indicado para el tratamiento a corto plazo del dolor moderado asociado a cirugía
+odontológica.
+La decisión de prescribir un inhibidor selectivo de la COX-2 debe estar basada en una evaluación de los riesgos
+globales de cada paciente en particular (Ver Contraindicaciones y Precauciones Especiales).
+
+Acción Farmacológica
+Mecanismo de Acción
+Etoricoxib  es  un  inhibidor  por  vía  oral,  selectivo  de  la  ciclooxigenasa  2  (COX-2)  dentro  del  intervalo  de  dosis
+terapéuticas.
+Etoricoxib produce una inhibición dosis dependiente de la COX-2 sin inhibir la COX-1 a dosis de hasta 150 mg al
+día. Etoricoxib no inhibe la síntesis gástrica de prostaglandinas y no tiene efecto sobre la función plaquetaria.
+La ciclooxigenasa es responsable de la síntesis de prostaglandinas. Se han identificado dos isoformas, la COX-1
+y la COX-2. La COX-2 es la isoforma de la enzima que resulta inducida por los estímulos proinflamatorios y ha sido
+propuesta como principal responsable de la síntesis de los mediadores prostanoides del dolor, la inflamación y la
+fiebre.  La  COX-2  también  interviene  en  la  ovulación,  la  implantación  y  el  cierre  del  conducto  arterioso,  la
+regulación de la función renal y en las funciones del sistema nervioso central (inducción de la fiebre, percepción
+del dolor y función cognoscitiva). También puede intervenir en la cicatrización de la úlcera. Se ha identificado la
+COX-2 en los tejidos circundantes a las úlceras gástricas en el hombre, pero no se ha establecido su relevancia
+en la cicatrización de las úlceras.
+
+Farmacocinética
+Absorción
+Administrado  por  vía  oral,  etoricoxib
+tiene  una  buena  absorción.  La  biodisponibilidad  absoluta  es
+aproximadamente del 100 %. Tras administrar 120 mg una vez al día hasta alcanzar el estado estacionario, la
+concentración plasmática máxima (media geométrica Cmáx = 3,6 μg/ml) se observa aproximadamente 1 hora
+después  de  la  administración  a  adultos  en  ayunas  (Tmáx).  La  media  geométrica  del  área  bajo  la  curva  (ABC
+0-24h) es de 37,8 μg·hr/ml. La farmacocinética de etoricoxib es lineal en el rango de dosis clínica. El índice de
+absorción se vio afectado, resultando en un descenso del 36% en la Cmáx y en un aumento en el Tmáx a las 2
+horas. Estos datos no se consideran clínicamente significativos. Los ensayos clínicos efectuados con etoricoxib
+la  administración  se  realizó  sin  tener  en  consideración  la  ingesta  de  alimento.  No  se  ha  observado  efecto
+significativo sobre la absorción si etoricoxib se suministra con alimentos ricos en grasas.
+Distribución
+Etoricoxib  se  une  a  las  proteínas  plasmáticas  humanas  en  aproximadamente  un  92  %  en  el  rango  de
+concentraciones de 0,05 a 5 μg/ml. El volumen de distribución (Vdss) en el estado estacionario es de unos 120
+litros en seres humanos. Etoricoxib atraviesa la placenta en ratas y conejos, y la barrera hematoencefálica en
+ratas.
+Metabolismo
+Etoricoxib es intensamente metabolizado, de forma que < 1% de una dosis se recupera en orina como fármaco
+original. La principal vía metabólica para formar el 6’-hidroximetil derivado es la catalizada por las enzimas del
+CYP.  La  CYP3A4  parece  contribuir  al  metabolismo  de  etoricoxib  in  vivo.  Los  estudios  in  vitro  indican  que  la
+CYP2D6, CYP2C9, CYP1A2 y CYP2C19 también pueden catalizar la principal vía metabólica, pero sus funciones
+no se han estudiado in vivo.
+Se han identificado cinco metabolitos en el hombre. El principal metabolito es el derivado de etoricoxib ácido
+6’-carboxílico, formado por la posterior oxidación del 6’-hidroximetil derivado.
+Estos metabolitos principales no demuestran actividad, o son sólo débilmente activos como inhibidores de la
+COX-2. Ninguno de estos metabolitos inhibe la COX-1.
+Eliminación
+La  eliminación  de  etoricoxib  se  produce  casi  exclusivamente  por  su  metabolismo,  seguido  por  la  eliminación
+renal.  Las  concentraciones  de  etoricoxib  alcanzan  el  estado  estacionario  en  un  plazo  de  siete  días  tras  la
+administración de una dosis única diaria de 120 mg, con un cociente de acumulación de aproximadamente 2, que
+corresponde a una vida media de unas 22 horas.
+
+Posología y Modo de administración
+BLOKIUM COX se administra por vía oral y se puede tomar con las comidas o alejado de las mismas. El inicio de
+acción  puede  ser  más  rápido  cuando  se  administra  BLOKIUM  COX  alejado  de  las  comidas.  Esto  deberá
+considerarse cuando se necesite un alivio sintomático rápido.
+Dado que los riesgos cardiovasculares de etoricoxib pueden incrementarse con la dosis y con la duración de la
+exposición,  BLOKIUM  COX  debe  emplearse  durante  el  menor  tiempo  posible  y  con  la  dosis  diaria  efectiva
+mínima.  Debe  reevaluarse  periódicamente  la  necesidad  de  alivio  sintomático  del  paciente  y  la  respuesta  al
+tratamiento, especialmente en pacientes con osteoartritis. (Ver Contraindicaciones, Advertencias y Precauciones,
+Advertencias y Precauciones Especiales de Uso, Reacciones Adversas y Acción Terapéutica).
+Osteoartritis
+La dosis no debe exceder los 60 mg diarios.
+Artritis reumatoidea
+La dosis no debe exceder los 90 mg diarios.
+Espondilitis anquilosante
+La dosis no debe exceder los 90 mg diarios.
+Artritis gotosa aguda
+La dosis no debe exceder los 120 mg diarios, limitados a un máximo de 8 días de tratamiento.
+Dolor agudo post-operatorio de cirugía odontológica
+La dosis no debe exceder los 90 mg diarios, limitados a un máximo de 3 días.
+Algunos pacientes pueden requerir analgesia postoperatoria adicional.
+Las dosis superiores a las recomendadas para cada indicación o bien no demostraron eficacia adicional o no han
+sido estudiadas.
+
+Poblaciones especiales
+Edad avanzada
+No  es  necesario  realizar  ningún  ajuste  posológico  en  pacientes  de  edad  avanzada.  Así  como  con  otros
+medicamentos,  se  debe  tener  precaución  en  pacientes  de  edad  avanzada  (Ver  Advertencias  y  Precauciones
+Especiales de Uso).
+Insuficiencia hepática
+En pacientes con insuficiencia hepática leve (puntuación de Child-Pugh de 5 a 6), no se debe exceder la dosis de
+60 mg una vez por día. En pacientes con insuficiencia hepática moderada (puntuación de Child-Pugh de 7 a 9),
+no debe excederse la dosis recomendada de 60 mg día por medio. Se aconseja actuar con precaución. El uso
+de BLOKIUM COX en pacientes con insuficiencia hepática severa (Child-Pugh ≥ 19) está contraindicado. (Ver
+Contraindicaciones, Advertencias y Precauciones Especiales de Uso).
+Insuficiencia renal
+Para pacientes con un clearance de creatinina ≥ 30 ml/min. no es necesario realizar ajustes en la dosis. Está
+contraindicado  el  uso  de  etoricoxib  en  pacientes  con  un  clearance  de  creatinina  <  30  ml/min.  (Ver
+Contraindicaciones, Advertencias y Precauciones Especiales de Uso).
+Uso Pediátrico
+Etoricoxib está contraindicado en niños y adolescentes de menos de 16 años de edad (ver Contraindicaciones).
+
+Contraindicaciones
+Etoricoxib está contraindicado en
+-pacientes con hipersensibilidad conocida a etoricoxib o a cualquiera de los componentes del producto.
+-pacientes con úlcera péptica activa o hemorragias gastrointestinales (GI).
+-pacientes  que  hayan  experimentado  broncoespasmo,  rinitis  aguda,  pólipos  nasales,  edema  angioneurótico,
+urticaria  o  reacciones  de  tipo  alérgico  luego  de  la  administración  de  ácido  acetilsalicílico  o  de  otras  drogas
+antiinflamatorias no esteroides (AINEs) incluyendo inhibidores de la COX-2 (Ciclooxigenasa 2).
+-embarazo y lactancia (Ver Embarazo y Lactancia).
+-pacientes con disfunción hepática severa (albúmina sérica < 25 g/l o puntuación de Child-Pugh ≥ 10).
+-pacientes con clearance de creatinina estimado <30 ml/min.
+-niños y adolescentes menores a 16 años de edad.
+-pacientes con enfermedad inflamatoria intestinal.
+-pacientes con Insuficiencia Cardíaca Congestiva (NYHA II-IV).
+-pacientes con hipertensión, cuya presión arterial se haya persistentemente por encima de los 140/90 mm Hg y
+no haya sido adecuadamente controlada.
+-cardiopatía isquémica, enfermedad arterial periférica y/o enfermedad cerebrovascular establecidas.
+
+Advertencias y Precauciones Especiales de Uso
+Efectos gastrointestinales
+En pacientes tratados con etoricoxib, han ocurrido casos de complicaciones en el tracto gastrointestinal superior
+(perforaciones, úlceras o hemorragias (PUH)), algunos de los cuales resultaron fatales.
+Se  aconseja  precaución  con  el  tratamiento  de  pacientes  que  se  encuentren  en  riesgo  de  desarrollar  una
+complicación gastrointestinal con AINEs, con los de edad avanzada, pacientes que estén utilizando otros AINEs
+o ácido acetilsalicílico concomitantemente o pacientes con antecedentes previos de enfermedad gastrointestinal,
+tal como ulceraciones o hemorragia GI.
+Existe  un  riesgo  incrementado  de  efectos  adversos  gastrointestinales  (ulceración  gastroduodenal  u  otras
+complicaciones  gastrointestinales)  cuando  etoricoxib  es  tomado  concomitantemente  con  ácido  acetilsalicílico
+(aún  a  dosis  bajas).  No  se  ha  demostrado  diferencia  significativa  en  la  seguridad  gastrointestinal  entre  los
+inhibidores selectivos de la COX-2 + ácido acetilsalicílico vs. AINEs + ácido acetilsalicílico en estudios clínicos a
+largo plazo.
+Efectos cardiovasculares
+Los estudios clínicos sugieren que la clase de los inhibidores selectivos de la COX-2 puede estar asociados con
+un riesgo de eventos trombóticos (especialmente Infarto de Miocardio (IAM) y Accidente Cerebrovascular (ACV)),
+en  relación  a  placebo  y  a  algunos  AINEs.  Dado  que  los  riesgos  cardiovasculares  de  etoricoxib  pueden
+incrementarse según la dosis y la duración de la exposición, deben emplearse durante el menor tiempo posible
+y a la menor dosis efectiva diaria posible. Debe re-evaluarse periódicamente la necesidad de alivio sintomático
+del paciente y la respuesta al tratamiento, especialmente en pacientes con osteoartritis (Ver Posología y Forma de
+Administración, Contraindicaciones y Reacciones Adversas).
+Los  pacientes  con  factores  de  riesgo  significativos  para  sufrir  eventos  cardiovasculares  (ej.  hipertensión,
+hiperlipidemia,  diabetes,  tabaquismo),  sólo  deben  ser  tratados  con  etoricoxib  después  de  una  evaluación
+cuidadosa.
+Los inhibidores selectivos de la COX-2 no constituyen un sustituto del ácido acetilsalicílico para la profilaxis de
+enfermedades tromboembólicas cardiovasculares, debido a su falta de efecto antiagregante plaquetario. Por lo
+tanto, no deben suspenderse las terapias antiplaquetarios (Ver Interacciones Medicamentosas y Otras Formas de
+Interacción).
+Efectos renales
+Las prostaglandinas renales pueden desempeñar un papel compensatorio en el mantenimiento de la perfusión
+renal.  Por  lo  tanto,  bajo  condiciones  de  perfusión  renal  comprometida,  la  administración  de  etoricoxib  puede
+provocar una reducción en la formación de prostaglandina y, en forma secundaria, en el flujo sanguíneo renal,
+deteriorando con ello la función renal. Los pacientes con un alto riesgo de presentar tal respuesta son aquéllos
+con  una  función  renal  preexistente  significativamente  deteriorada,  insuficiencia  cardiaca  descompensada,  o
+cirrosis. En tales pacientes se debe considerar el monitoreo de la función renal.
+Retención de líquidos, edema e hipertensión
+Tal como sucede con las demás drogas conocidas por inhibir la síntesis de prostaglandinas, se observó retención
+de  líquidos,  edema  e  hipertensión  en  algunos  pacientes  que  recibieron  etoricoxib.  Todas  las  drogas
+antiinflamatorias  no  esteroides  (AINEs),  incluyendo  el  etoricoxib,  pueden  estar  asociadas  con  la  aparición  de
+insuficiencia  cardíaca  congestiva  nueva  o  recurrente.  Se  debe  actuar  con  precaución  en  pacientes  con
+antecedentes  de  insuficiencia  cardiaca,  disfunción  ventricular  izquierda,  o  hipertensión,  y  en  pacientes  con
+edema preexistente causado por cualquier otro motivo. Si existen pruebas clínicas de deterioro de la condición
+en este tipo de pacientes, se deben tomar las medidas apropiadas, las cuales incluirán la discontinuación de
+etoricoxib.
+Etoricoxib  puede  estar  asociado  con  hipertensión  más  frecuente  y  severa  que  con  algunos  otros  AINEs  e
+inhibidores selectivos de la COX-2, particularmente a altas dosis. Por lo tanto, la hipertensión debe ser controlada
+
+antes del tratamiento con etoricoxib (ver Contraindicaciones) y debe prestarse especial atención al monitoreo de
+la presión arterial durante el tratamiento con etoricoxib. La presión sanguínea debe ser monitoreada durante dos
+semanas luego del inicio del tratamiento, y posteriormente, de forma periódica. Si la presión arterial se eleva
+significativamente, debe considerarse un tratamiento alternativo.
+Efectos hepáticos
+En aproximadamente 1% de los pacientes que participaron en ensayos clínicos tratados hasta durante un año
+con etoricoxib 30, 60 y 90 mg diarios se informaron elevaciones del nivel de alanina aminotransferasa (ALT) y/o
+de aspartato aminotransferasa (AST) (aproximadamente de tres o más veces el límite superior normal).
+Todo  paciente  con  síntomas  y/o  signos  que  sugieran  disfunción  hepática,  o  en  quien  se  haya  detectado  un
+análisis anómalo de la función hepática debe ser monitoreado. Si se producen signos de insuficiencia hepática
+o  si  se  detectan  análisis  anómalos  de  la  función  hepática  en  forma  persistente  (tres  veces  el  límite  superior
+normal), etoricoxib debe ser discontinuado.
+Generalidades
+Si  durante  el  tratamiento  el  estado  de  los  pacientes  se  deteriora  en  cualquier  función  orgánica  descripta
+anteriormente,  se  deben  tomar  las  medidas  apropiadas  y  considerar  la  suspensión  del  tratamiento  con
+etoricoxib.  Se  debe  mantener  una  supervisión  médica  apropiada  al  utilizar  etoricoxib  en  personas  de  edad
+avanzada y en pacientes con disfunción renal, hepática, o cardiaca.
+Se  debe  actuar  con  precaución  al  iniciar  un  tratamiento  con  etoricoxib  en  pacientes  deshidratados.  Es
+aconsejable rehidratar al paciente antes de iniciar el tratamiento con etoricoxib.
+Se han comunicado muy raramente casos de reacciones cutáneas severas, algunas de ellas fatales, incluyendo
+dermatitis exfoliativa, síndrome de Stevens-Johnson y necrólisis epidérmica tóxica en asociación con el uso de
+AINEs,  incluyendo  algunos  inhibidores  de  la  COX-2,  durante  el  seguimiento  post-comercialización  (ver
+Reacciones  Adversas).  El  riesgo  de  producir  estas  reacciones  parece  ser  mayor  al  inicio  del  tratamiento,
+particularmente dentro del primer mes. Se han reportado casos de reacciones de hipersensibilidad serias (como
+anafilaxia y angioedema) en pacientes en tratamiento con etoricoxib (ver Reacciones Adversas). Se ha asociado
+el incremento del riesgo de reacciones en piel con algunos inhibidores selectivos de la COX-2, en pacientes con
+antecedentes  de  alergias  a  otras  drogas.  Debe  discontinuarse  el  etoricoxib  ante  la  aparición  inicial  de  rash,
+lesiones en las mucosas o ante cualquier otro signo de hipersensibilidad.
+Etoricoxib puede enmascarar la fiebre y otros signos de inflamación.
+Debe  tenerse  precaución  cuando  se  administra  etoricoxib  concomitantemente  con  warfarina  u  otros
+anticoagulantes orales (ver Interacciones Medicamentosas y Otras Formas de Interacción).
+El uso de etoricoxib, al igual que cualquier otro producto farmacéutico que inhiba la ciclooxigenasa/ síntesis de
+prostaglandinas, no está recomendado en mujeres con intención de concebir (ver Embarazo).
+
+Interacciones medicamentosas y otras formas de interacción
+Interacciones farmacodinámicas
+-Anticoagulantes orales
+En sujetos estabilizados bajo tratamiento crónico con warfarina, la administración de etoricoxib 120 mg diarios
+estuvo asociada con un incremento aproximado de 13% en el Rango Normatizado Internacional (RIN) del tiempo
+de  protrombina.  Por  lo  tanto,  se  debe  monitorear  muy  estrechamente  a  aquellos  pacientes  que  reciban
+anticoagulantes orales en cuanto a su RIN del tiempo de protrombina, particularmente durante los primeros días
+de  iniciado  el  tratamiento  con  etoricoxib,  o  cuando  se  realice  un  cambio  en  la  dosis  de  etoricoxib  (ver
+Advertencias y Precauciones Especiales de Uso).
+-Diuréticos, antagonistas de la angiotensina II e inhibidores de la ECA
+Los AINEs pueden reducir el efecto de los diuréticos y otras drogas antihipertensivas. En algunos pacientes con
+la  función  renal  comprometida  (por  ejemplo,  pacientes  deshidratados  o  pacientes  de  edad  avanzada  con  la
+función renal comprometida), la administración concomitante de un inhibidor de la ECA o de un antagonista de
+la  angiotensina  II  con  agentes  que  inhiben  las  ciclooxigenasas  puede  provocar  un  deterioro  adicional  de  la
+función  renal,  incluyendo  posibles  fallas  renales  agudas,  lo  cual  generalmente  resulta  reversible.  Se  deben
+considerar tales interacciones en pacientes que reciban etoricoxib en forma concomitante con inhibidores de la
+ECA o con antagonistas de la angiotensina II. Por lo tanto, la combinación debe administrarse con precaución,
+especialmente en pacientes de edad avanzada.
+Los  pacientes  deben  estar  adecuadamente  hidratados  y  se  debe  realizar  el  monitoreo  de  la  función  renal
+después del inicio de la terapia concomitante, y posteriormente en forma periódica.
+-Ácido acetilsalicílico
+En un estudio realizado en sujetos sanos en estado estable, etoricoxib 120 mg una vez por día no tuvo ningún
+efecto sobre la actividad antiagregante del ácido acetilsalicílico (81 mg una vez por día). Etoricoxib puede ser
+utilizado en forma concomitante con el ácido acetilsalicílico a las dosis utilizadas como profilaxis cardiovascular
+(ácido acetilsalicílico a dosis bajas). Sin embargo, la administración concomitante de ácido acetilsalicílico a dosis
+bajas  con  etoricoxib  puede  resultar  en  un  aumento  de  la  tasa  de  ulceración  gastrointestinal,  o  en  otras
+complicaciones,  respecto  al  uso  de  etoricoxib  solo.  No  se  recomienda  la  administración  concomitante  de
+etoricoxib y dosis de ácido acetilsalicílico por encima de las administradas como profilaxis cardiovascular, o con
+otros AINEs. (Ver Advertencias y Precauciones Especiales de Uso).
+-Ciclosporina y tacrólimo
+Si  bien  esta  interacción  no  se  estudió  con  etoricoxib,  la  coadministración  de  ciclosporina  o  tacrólimo  con
+cualquier AINE puede incrementar el efecto nefrotóxico de la ciclosporina o del tacrólimo. Cuando se utilicen en
+combinación etoricoxib y cualquiera de dichas drogas debe monitorearse la función renal.
+Interacciones farmacocinéticas
+Efecto de etoricoxib sobre la farmacocinética de otras drogas
+• Litio: los AINEs disminuyen la secreción renal de litio y, por lo tanto, incrementan los niveles plasmáticos de
+dicha droga. De ser necesario, se recomienda monitorear estrechamente el nivel de litio en sangre, ajustar la
+dosis de litio mientras se administre la combinación y cuando se retire el AINE.
+• Metotrexato: dos estudios investigaron los efectos de etoricoxib 60, 90, o 120 mg administrados una vez por
+día durante siete días en pacientes que recibían dosis de metotrexato de 7,5 a 20 mg una vez por semana para
+la artritis reumatoidea. Etoricoxib a 60 y 90 mg no tuvo ningún efecto sobre las concentraciones plasmáticas de
+metotrexato o el clearance renal. En un estudio, etoricoxib 120 mg no tuvo ningún efecto, pero en el otro estudio,
+etoricoxib 120 mg incrementó las concentraciones plasmáticas de metotrexato en un 28% y redujo el clearance
+renal  de  metotrexato  en  un  13%.  Cuando  se  administren  etoricoxib  y  metotrexato  en  forma  concomitante,  se
+recomienda realizar un adecuado monitoreo en busca de toxicidad relacionada con metotrexato.
+• Anticonceptivos orales: la administración de etoricoxib 60 mg con un anticonceptivo oral conteniendo 35 μg de
+etinil  estradiol  (EE)  y  0,5  a  1  mg  de  noretindrona,  durante  21  días  incrementó  el  ABC  0-24  hs.  del  estado
+estacionario EE en un 37 %. Etoricoxib 120 mg administrado con el mismo anticonceptivo oral, ya sea en forma
+concomitante  o  con  una  separación  de  12  horas,  incrementó  entre  50  y  60  %  el  ABC  0-24  hs  en  estado  de
+equilibrio  del  EE.  El  incremento  en  la  concentración  de  EE  se  debe  tener  en  cuenta  al  seleccionar  cualquier
+anticonceptivo  oral  para  utilizar  junto  con  etoricoxib.  Un  aumento  en  la  exposición  a  EE  puede  aumentar  la
+incidencia  de  eventos  adversos  asociados  con
+los  anticonceptivos  orales  (por  ejemplo,  eventos
+tromboembólicos venosos en mujeres de riesgo).
+• Terapia de reemplazo hormonal: la administración de etoricoxib 120 mg con terapia de reemplazo hormonal
+basada en estrógenos conjugados durante 28 días, incrementó el estado de equilibrio medio del ABC 0-24 hs de
+la estrona (41 %), equilina (76 %), y el 17-β-estradiol (22 %) no conjugados. El efecto de la posología crónica
+recomendada de etoricoxib (30, 60 y 90 mg) no fue estudiado. El efecto de etoricoxib 120 mg en la exposición
+(ABC  0-24  hs)  a  los  componentes  estrogénicos,  fue  menor  a  la  mitad  del  observado  cuando  los  estrógenos
+conjugados fueron administrados solos y la dosis se incrementó de 0,625 a 1,25 mg. La relevancia clínica de
+estos incrementos es desconocida, y no fueron estudiadas dosis más elevadas de estrógenos conjugados en
+combinación  con  etoricoxib.  Estos  incrementos  en  las  concentraciones  estrogénicas  deben  considerarse  al
+seleccionar la terapia de reemplazo hormonal post-menopáusica a utilizar con etoricoxib, ya que el incremento a
+la  exposición  ante  estrógenos  puede  también  incrementar  el  riesgo  de  reacciones  adversas  asociadas  a  la
+terapia de reemplazo hormonal.
+• Prednisona/prednisolona: en estudios de interacción medicamentosa, etoricoxib no tuvo efectos clínicamente
+importantes sobre la farmacocinética de prednisona/prednisolona.
+• Digoxina: etoricoxib 120 mg administrado una vez por día durante 10 días a voluntarios sanos no alteró el ABC
+0-24 hs plasmática en estado estable, ni la eliminación renal de digoxina. Se observó un incremento en la Cmáx
+de digoxina (aproximadamente de 33%). Tal aumento no resulta generalmente importante para la mayoría de los
+pacientes.  Sin  embargo,  y  cuando  etoricoxib  y  digoxina  se  administren  en  forma  concomitante,  se  debe
+monitorear a los pacientes de alto riesgo por toxicidad a la digoxina.
+Efecto de etoricoxib sobre las drogas metabolizadas por las sulfotransferasas
+Etoricoxib es un inhibidor de la actividad de la sulfotransferasa humana, particularmente de SULT1E1, y demostró
+incrementar las concentraciones séricas de etinil estradiol. Si bien el conocimiento actual sobre los efectos de las
+sulfotransferasas múltiples es limitado, y aunque se están investigando las consecuencias clínicas para varias
+drogas, puede resultar prudente actuar con cuidado al administrar etoricoxib en forma concurrente con otras
+drogas  metabolizadas  primariamente  por  las  sulfotransferasas  humanas  (por  ejemplo,  salbutamol  oral  y
+minoxidil).
+Efecto de etoricoxib sobre las drogas metabolizadas por las isoenzimas CYP
+De acuerdo a estudios in vitro, etoricoxib no inhibe los citocromos P450 (CYP) 1A2, 2C9, 2C19, 2D6, 2E1, ni 3A4.
+En un estudio realizado en sujetos sanos, la administración diaria de etoricoxib 120 mg no alteró la actividad de
+CYP3A4 hepática evaluada por la prueba de aliento de eritromicina.
+Efectos de otras drogas sobre la farmacocinética de etoricoxib
+El camino principal del metabolismo de etoricoxib depende de las enzimas CYP. La CYP3A4 parece contribuir al
+metabolismo de etoricoxib in vivo. Los estudios in vitro indican que la CYP2D6, CYP2C9, CYP1A2 y CYP2C19
+también  pueden  catalizar  el  camino  metabólico  principal,  si  bien  sus  contribuciones  cuantitativas  no  se  han
+estudiado in vivo.
+• Ketoconazol: ketoconazol, un inhibidor potente de CYP3A4, administrado a dosis de 400 mg una vez por día
+durante 11 días a voluntarios sanos no tuvo ningún efecto clínicamente importante sobre la farmacocinética de
+dosis únicas de etoricoxib 60 mg (aumento de 43% en el ABC).
+• Rifampicina: la coadministración de etoricoxib con rifampicina, un inductor potente de las enzimas CYP, produjo
+una disminución de 65% en las concentraciones plasmáticas de etoricoxib. Tal interacción puede resultar en la
+recurrencia de los síntomas cuando se coadministre etoricoxib con rifampicina. Si bien esta información puede
+sugerir un incremento en la dosis, no se han estudiado dosis de etoricoxib superiores a las enumeradas para
+cada indicación en combinación con rifampicina y, por lo tanto, no se recomiendan (ver Posología y Forma de
+Administración).
+• Antiácidos: los antiácidos no afectan la farmacocinética de etoricoxib en un nivel clínicamente significativo.
+
+Embarazo y Lactancia
+Embarazo
+Tal como sucede con cualquier droga inhibidora de la COX-2, no se recomienda el uso de etoricoxib en mujeres
+que intenten concebir.
+No se dispone de datos clínicos sobre embarazos expuestos a etoricoxib. Los estudios realizados en animales
+mostraron  toxicidad  en  la  reproducción.  Se  desconoce  el  potencial  de  riesgo  humano  en  el  embarazo.
+Etoricoxib, como cualquier otra droga que inhibe la síntesis de prostaglandinas, puede provocar inercia uterina y
+cierre prematuro del conducto arterioso durante el último trimestre. Etoricoxib está contraindicado en embarazo
+(ver  Contraindicaciones).  Si  una  mujer  quedara  embarazada  durante  el  tratamiento,  se  debe  discontinuar  la
+administración de etoricoxib.
+Lactancia
+Se desconoce si etoricoxib es excretado o no en leche materna. Etoricoxib es excretado en la leche de ratas
+lactantes. Las mujeres que utilicen etoricoxib no deben amamantar a sus bebés. (Ver Contraindicaciones).
+
+Efectos sobre la capacidad de conducir y operar maquinarias
+No se realizaron estudios sobre el efecto de etoricoxib en la capacidad de conducir o de operar maquinarias. Sin
+embargo, aquellos pacientes que experimenten mareos, vértigo, o somnolencia mientras reciban etoricoxib no
+deben conducir ni operar maquinarias.
+
+Reacciones adversas
+Tanto en estudios clínicos como en la experiencia post comercialización, se informaron las siguientes reacciones
+adversas con una incidencia superior a placebo en pacientes con osteoartritis, artritis reumatoidea, lumbalgia
+crónica  o  espondilitis  anquilosante  tratados  con  etoricoxib  30  mg,  60  mg  o  90  mg  durante  un  máximo  de  12
+semanas.
+[Muy  comunes  (≥1/10),  Comunes  (≥1/100  <1/10)  Poco  comunes  (≥1/1.000,  <  1/100)  Raras  (≥1/10.000  ≤
+1/1.000) Muy raras (< 1/10.000) no conocidas (no pueden ser estimadas con la información disponible)].
+Infecciones e infestaciones
+Comunes: osteítis alveolar.
+Poco comunes: gastroenteritis, infección de vías respiratorias superiores, infección del tracto urinario.
+Trastornos de la sangre y del sistema linfático
+Poco comunes: anemia (principalmente asociada a hemorragia gastrointestinal), leucopenia, trombocitopenia.
+Trastornos del sistema inmune
+Muy  raras:  reacciones  de  hipersensibilidad,  incluyendo  angioedema,  reacciones  anafilácticas/anafilactoides
+incluyendo shock.
+Trastornos metabólicos y de nutrición
+Comunes: edema/retención de líquidos.
+Poco comunes: aumento o disminución del apetito, aumento de peso.
+Trastornos psiquiátricos
+Poco comunes: ansiedad, depresión, disminución de la agudeza mental.
+Muy raras: confusión, alucinaciones.
+No conocidas: nerviosismo
+Trastornos del sistema nervioso
+Comunes: mareos, cefalea.
+Poco comunes: disgeusia, insomnio, parestesia/ hipestesia, somnolencia.
+Trastornos oculares
+Poco comunes: visión borrosa, conjuntivitis.
+Trastornos del oído y laberínticos
+Poco comunes: tinnitus, vértigo.
+Trastornos cardiacos
+Comunes: palpitaciones
+Poco  comunes:
+electrocardiograma, angina de pecho, infarto de miocardio*.
+No conocidas: taquicardia, arritmia.
+Trastornos vasculares
+Comunes: hipertensión.
+Poco comunes: rubor, accidente cerebrovascular *, ataque isquémico transitorio.
+Muy raras: crisis hipertensiva.
+Trastornos respiratorios, torácicos y mediastinales
+Poco comunes: tos, disnea, epistaxis.
+Muy raros: broncoespasmo.
+Trastornos gastrointestinales
+Comunes:  trastornos  gastrointestinales  (por  ejemplo,  dolor  abdominal, flatulencia,  pirosis),  diarrea,  dispepsia,
+malestar epigástrico, náuseas.
+Poco  comunes:  distensión  abdominal,  reflujo  ácido,  cambios  en  el  patrón  de  movimientos  intestinales,
+
+insuficiencia  cardiaca  congestiva,  cambios  no  específicos  en  el
+
+fibrilación  atrial,
+
+1
+
+2
+
+¿Cómo usar BLOKIUM COX?
+Siga exactamente las instrucciones de administración de BLOKIUM COX indicadas por su médico. Consulte a su
+médico o farmacéutico si tiene dudas.
+Tome los comprimidos de BLOKIUM COX por vía oral una vez al día. BLOKIUM COX puede tomarse con o sin
+alimentos.
+No tome más de la dosis recomendada por su médico. Su médico querrá hablar de su tratamiento de vez en
+cuando. Es importante que utilice la dosis más baja que controla su dolor y no debe tomar BLOKIUM COX más
+tiempo del necesario. Esto se debe a que el riesgo de infartos de miocardio e infartos cerebrales podría aumentar
+después de un tratamiento prolongado, especialmente con dosis altas.
+Osteoartritis
+La dosis no debe exceder los 60 mg diarios.
+Artritis reumatoidea
+La dosis no debe exceder los 90 mg diarios.
+Espondilitis anquilosante
+La dosis no debe exceder los 90 mg diarios.
+Artritis gotosa aguda
+La dosis no debe exceder los 120 mg diarios, limitados a un máximo de 8 días de tratamiento.
+Dolor agudo post-operatorio de cirugía odontológica
+La dosis no debe exceder los 90 mg diarios, limitados a un máximo de 3 días.
+Algunos pacientes pueden requerir analgesia postoperatoria adicional.
+Las dosis superiores a las recomendadas para cada indicación o bien no demostraron eficacia adicional o no han
+sido estudiadas.
+
+Personas con problemas hepáticos
+• Si tiene insuficiencia hepática leve, no debe tomar más de 60 mg al día.
+• Si tiene insuficiencia hepática moderada, no debe tomar más de 30 mg al día.
+Consulte siempre a su médico.
+
+Uso en niños
+Niños o adolescentes menores de 16 años de edad no deben tomar los comprimidos de BLOKIUM COX.
+
+Uso en ancianos
+BLOKIUM  COX  funciona  igual  de  bien  en  pacientes  adultos  jóvenes  y  ancianos.  Si  es  mayor  de  65  años,  su
+médico  querrá  mantener  un  control  adecuado  de  usted.  No  es  necesario  ajustar  la  dosis  en  los  pacientes
+ancianos.
+
+Efectos sobre la capacidad de conducción de vehículos
+En algunos pacientes que toman BLOKIUM COX, se han comunicado mareos y somnolencia.
+No conduzca si experimenta mareos o somnolencia.
+No utilice herramientas o máquinas si experimenta mareos o somnolencia.
+
+Toma conjunta de BLOKIUM COX con alimentos y bebidas
+Los comprimidos de BLOKIUM COX se pueden tomar con o sin alimentos. La aparición del efecto de BLOKIUM
+COX puede ser más rápida si se toma sin alimentos.
+
+Uso apropiado del medicamento BLOKIUM COX
+
+Se olvidó de tomar BLOKIUM COX
+Es importante que tome BLOKIUM COX como su médico le haya indicado. Si olvida una dosis, limítese a reanudar
+el régimen habitual al día siguiente. No tome una dosis doble para compensar las dosis olvidadas.
+Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico o farmacéutico.
+
+A tener en cuenta mientras toma BLOKIUM COX
+
+Efectos indeseables  (adversos)
+Al  igual  que  todos  los  medicamentos,  BLOKIUM  COX  puede  producir  efectos  adversos,  aunque  no  todas  las
+personas los sufran.
+
+Si  desarrolla  alguno  de  los  siguientes  signos,  deje  de  tomar  BLOKIUM  COX  y  hable  con  su  médico
+inmediatamente.
+• Dificultad para respirar, dolor torácico o hinchazón de tobillo, o si éstos empeoran.
+• Color amarillento de la piel y los ojos (ictericia) - éstos son signos de problemas hepáticos.
+• Dolor de estómago intenso o continuo o sus heces adquieren un color negro
+•  Una  reacción  alérgica  –  que  puede  incluir  problemas  en  la  piel  como  úlceras  o  formación  de  ampollas,  o
+hinchazón de la cara, labios, lengua o garganta que puede causar dificultad al respirar.
+La frecuencia de los posibles efectos adversos incluidos a continuación se define según la siguiente convención
+-Muy frecuentes (pueden afectar a más de 1 de cada 10 personas)
+-Frecuentes (pueden afectar hasta 1 de cada 10 personas)
+-Poco frecuentes (pueden afectar hasta 1 de cada 100 personas)
+-Raros (pueden afectar hasta 1 de cada 1.000 personas)
+-Muy raros (pueden afectar hasta 1 de cada 10.000 personas)
+-Desconocida (la frecuencia no puede estimarse a partir de los datos disponibles).
+
+Los siguientes efectos adversos pueden producirse durante el tratamiento con BLOKIUM COX.
+Frecuentes
+Debilidad  y  fatiga,  mareo,  dolor  de  cabeza,  enfermedad  tipo  gripe,  diarrea,  gases,  náuseas,  indigestión
+(dispepsia), molestia o dolor de estómago, ardor, cambios en los análisis de sangre relacionados con su hígado,
+hinchazón  de  las  piernas  y/o  los  pies  debido  a  la  retención  de  líquidos  (edema),  tensión  arterial  elevada,
+palpitaciones, hematomas, osteítis alveolar (inflamación y dolor tras la extracción de un diente).
+Poco frecuentes
+Hinchazón de estómago, dolor torácico, insuficiencia cardiaca, sensación de tensión, presión o pesadez en el
+pecho  (angina  de  pecho),  infarto  de  miocardio,  infarto  cerebral,  mini  infarto  cerebral  (ataque  isquémico
+transitorio), ritmo cardiaco anómalo (fibrilación auricular), resfriado, niveles elevados de potasio en su sangre,
+cambios en los análisis de sangre o de orina relacionados con su riñón, cambios en los hábitos del movimiento
+de  su  intestino  incluyendo  estreñimiento,  sequedad  de  boca,  úlceras  bucales,  alteración  del  gusto,
+gastroenteritis, gastritis, úlcera de estómago, vómitos, síndrome de colon irritable, inflamación del esófago, visión
+borrosa, irritación y enrojecimiento ocular, hemorragia nasal, ruidos en los oídos, vértigo, aumentos o descensos
+del  apetito,  ganancia  de  peso,  calambre/espasmo  muscular,  dolor/rigidez  muscular,  incapacidad  para  dormir,
+somnolencia,  entumecimiento  u  hormigueo,  ansiedad,  depresión,  disminución  de  la  agudeza  mental,  falta  de
+respiración, tos, hinchazón de la cara, enrojecimiento, erupción o picor cutáneo, infección urinaria, descenso de
+plaquetas, número disminuido de glóbulos rojos, número disminuido de glóbulos blancos.
+Raros
+Niveles bajos de sodio en sangre, enrojecimiento de la piel.
+Muy raros
+Reacciones alérgicas (que pueden ser muy graves y requerir atención médica inmediata) incluyendo urticaria,
+hinchazón  de  la  cara,  labios,  lengua,  y/o  garganta  que  puede  causar  dificultad  para  respirar  o  tragar,
+broncoespasmo (jadeo o dificultad para respirar), reacciones cutáneas graves, inflamación de la capa interna del
+estómago  o  úlceras  de  estómago  que  pueden  llegar  a  ser  serias  y  pueden  producir  hemorragias,  problemas
+hepáticos, problemas renales graves, aumento grave de la tensión arterial, confusión, ver, sentir u oír cosas que
+no existen (alucinaciones).
+No conocidos
+Color  amarillento  de  la  piel  y  los  ojos  (ictericia),  alteración  del  hígado,  inflamación  del  páncreas,  frecuencia
+cardiaca rápida, ritmo cardiaco irregular (arritmia), nerviosismo, inflamación de los vasos sanguíneos.
+Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto adverso no
+mencionado en este prospecto, informe a su médico o farmacéutico.
+
+¿Cómo conservar BLOKIUM COX?
+-Conservar a temperatura desde 15°C hasta 30°C.
+-Mantener fuera del alcance de los niños.
+
+Presentaciones
+BLOKIUM COX 60 mg: envases con 28 comprimidos recubiertos.
+BLOKIUM COX 90 mg: envases con 14 y 28 comprimidos recubiertos.
+BLOKIUM COX 120 mg: envases con 7 comprimidos recubiertos.
+
+Si Ud. toma dosis mayores de BLOKIUM COX de las que debiera
+Nunca debe tomar más comprimidos que los que su médico le recomienda. Si toma demasiados comprimidos
+de BLOKIUM COX, busque atención médica inmediatamente.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros
+de Toxicología indicando el medicamento y la cantidad tomada. Se recomendará llevar el envase y el prospecto
+del medicamento al profesional sanitario.
+Hospital A. Posadas: (011) 4654-6648/4658-7777.
+Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+Optativamente otros Centros de Intoxicaciones.
+
+ “Este medicamento ha sido prescripto sólo para su problema médico actual.
+No lo recomiende a otras personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página Web
+de la ANMAT
+http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a
+ANMAT responde 0800-333-1234”
+
+Este medicamento debe ser utilizado exclusivamente
+bajo prescripción y vigilancia médica
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 58.320
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+
+constipación,  boca  seca,  úlcera  gastroduodenal,  síndrome  de  colon  irritable,  esofagitis,  úlcera  oral,  vómitos,
+gastritis.
+Muy raras: ulcera péptica incluyendo perforación y hemorragias gastrointestinales (predominante en pacientes
+de edad avanzada).
+No conocidos: pancreatitis
+Trastornos hepatobiliares
+Comunes: incremento en ALT, incremento en AST.
+Muy raras: hepatitis.
+Frecuencia no conocida: ictericia.
+*  En  base  al  análisis  de  los  estudios  clínicos  de  largo  plazo  controlados  con  placebo  y  droga  activa,  se  ha
+asociado a los inhibidores selectivos de la COX-2 con un incremento del riesgo de eventos trombóticos arteriales
+serios, incluyendo infarto de miocardio y accidente cerebrovascular.
+El incremento del riesgo absoluto para estos eventos es improbable que exceda el 1% por año basado en los
+datos existentes (poco comunes).
+Trastornos dermatológicos y del tejido subcutáneo
+Comunes: equimosis.
+Poco comunes: edema facial, prurito, rash.
+Rara: eritema
+Muy raras: urticaria, síndrome de Stevens-Johnson, necrólisis epidérmica tóxica.
+No conocida: exantema fijo medicamentoso.
+Trastornos musculoesqueléticos, del tejido conectivo y óseo
+Poco comunes: calambres/ espasmos musculares, rigidez/ dolor musculoesquelético.
+Trastornos renales y urinarios
+Poco comunes: proteinuria, incremento en los valores de creatinina sérica.
+Muy  raras:  insuficiencia  renal  incluyendo  fallo  renal,  habitualmente  reversible  ante  la  discontinuación  del
+tratamiento (ver Advertencias y Precauciones Especiales de Uso).
+Trastornos generales y condiciones del sitio de administración
+Comunes: astenia/ fatiga, enfermedad pseudogripal.
+Poco comunes: dolor de pecho.
+Pruebas de laboratorio
+Poco  comunes:  incremento  en  los  niveles  de  nitrógeno  ureico  en  sangre,  incremento  en  el  nivel  de  creatina
+fosfoquinasa, hipercalcemia, aumento del ácido úrico.
+Raras: disminución de la concentración de sodio plasmático.
+Las reacciones adversas serias que se enumeran a continuación se han informado asociadas al uso de AINEs y
+no  se  pueden  descartar  para  etoricoxib:  nefrotoxicidad  incluida  nefritis  intersticial  y  síndrome  nefrótico,
+hepatotoxicidad, incluyendo insuficiencia hepática.
+
+Sobredosificación
+En los estudios clínicos, la administración de dosis únicas de etoricoxib de hasta 500 mg y de dosis múltiples de
+hasta  150  mg/día  durante  21  días  no  mostró  efectos  de  toxicidad  significativos.  Hubo  reportes  de
+sobredosificación aguda con etoricoxib, aunque no se informaron experiencias adversas en la mayoría de los
+casos. Las reacciones adversas más frecuentemente observadas fueron consistentes con el perfil de seguridad
+del etoricoxib (Ej. eventos gastrointestinales, eventos cardiorrenales).
+En caso de sobredosis, resulta razonable emplear las medidas de soporte habituales, como por ejemplo, extraer
+el material no absorbido del tracto gastrointestinal, hacer monitoreo clínico, e instituir tratamientos de soporte, de
+ser necesarios.
+Etoricoxib no es dializable por hemodiálisis y se desconoce si es dializable por diálisis peritoneal.
+Ante la eventualidad de una sobredosificación, concurrir al Hospital más cercano o comunicarse con los Centros
+de Toxicología.
+- Hospital A. Posadas: (011) 4654-6648/4658-7777.
+- Hospital de Pediatría Ricardo Gutiérrez: (011) 4962-6666/2247.
+- Optativamente otros Centros de Intoxicaciones.
+
+Presentaciones
+BLOKIUM COX 60 mg: envases con 28 comprimidos recubiertos.
+BLOKIUM COX 90 mg: envases con 14 y 28 comprimidos recubiertos.
+BLOKIUM COX 120 mg: envases con 7 comprimidos recubiertos.
+
+Fecha de última revisión: marzo de 2017
+
+Forma de conservación
+Conservar a temperatura desde 15°C hasta 30°C.
+Mantener fuera del alcance de los niños.
+
+Este medicamento debe ser utilizado exclusivamente
+bajo prescripción y vigilancia médica
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 58.320
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237   -   Ciudad Autónoma de Buenos Aires
+
+INFORMACIÓN PARA EL PACIENTE
+-CONSULTE A SU MÉDICO-
+
+Lea esta información para el paciente antes de comenzar a tomar BLOKIUM COX y cada vez que repita la receta
+ya que puede haber nueva información. Esta información no reemplaza a su conversación con el médico sobre
+su enfermedad o su tratamiento.
+
+¿Qué es BLOKIUM COX y para qué se usa?
+BLOKIUM COX pertenece a un grupo de medicamentos denominados inhibidores selectivos de la COX-2. Éstos
+pertenecen a una familia de medicamentos llamados fármacos antiinflamatorios no esteroideos (AINEs).
+BLOKIUM  COX  ayuda  a  reducir  el  dolor  y  la  hinchazón  (inflamación)  en  las  articulaciones  y  músculos  de
+personas con artrosis, artritis reumatoide, espondilitis anquilosante y gota.
+BLOKIUM COX también se utiliza para el tratamiento a corto plazo del dolor moderado tras cirugía dental.
+
+¿Qué es la artrosis?
+La artrosis es una enfermedad de las articulaciones. Provoca la ruptura gradual del cartílago que funciona como
+amortiguador en los extremos de los huesos. Esto provoca hinchazón (inflamación), dolor, sensibilidad, rigidez y
+discapacidad.
+
+¿Qué es la artritis reumatoide?
+La  artritis  reumatoide  es  una  enfermedad  inflamatoria  de  larga  duración  de  las  articulaciones.  Causa  dolor,
+rigidez, hinchazón y pérdida progresiva de movilidad en las articulaciones afectadas. También causa inflamación
+en otras áreas del organismo.
+
+¿Qué es la gota?
+La gota es una enfermedad de ataques repentinos y recurrentes de inflamación muy dolorosa y enrojecimiento
+de las articulaciones. Está causada por depósitos de cristales minerales en la articulación.
+
+¿Qué es la espondilitis anquilosante?
+La  espondilitis  anquilosante  es  una  enfermedad  inflamatoria  de  la  columna  vertebral  y  de  las  articulaciones
+largas.
+
+Antes de usar BLOKIUM COX
+No use BLOKIUM COX
+•  Si  es  alérgico  (hipersensible)  a  etoricoxib  o  a  cualquiera  de  los  demás  componentes  de  ETOBREN  (véase
+Información adicional, sección 6).
+• Si es alérgico a los fármacos antiinflamatorios no esteroideos (AINEs), incluyendo la aspirina y los inhibidores
+de la COX-2 (véase Posibles efectos adversos, sección 4).
+• Si actualmente tiene una úlcera o hemorragia de estómago o duodenal.
+• Si tiene una enfermedad grave de hígado.
+• Si tiene una enfermedad grave de riñón.
+• Si está o puede estar embarazada, o está dando el pecho a su hijo (véase "Embarazo y lactancia").
+• Si tiene menos de 16 años de edad.
+• Si tiene enfermedad inflamatoria intestinal, como la enfermedad de Crohn, colitis ulcerosa o colitis.
+• Si su médico le ha diagnosticado problemas cardiacos incluyendo insuficiencia cardiaca (de tipo moderado o
+grave), angina de pecho (dolor torácico), o si ha tenido un infarto de miocardio, revascularización quirúrgica,
+enfermedad  arterial  periférica  (poca  circulación  en  las  piernas  o  los  pies  debido  a  arterias  estrechas  o
+bloqueadas)  o  cualquier  tipo  de  infarto  cerebral  (incluyendo  un  accidente  cerebral  transitorio  o  un  accidente
+isquémico  transitorio).  Etoricoxib  puede  aumentar  ligeramente  su  riesgo  de  infarto  de  miocardio  y  de  infarto
+cerebral, y por esto no debe usarse en aquellos pacientes que ya hayan tenido problemas de corazón o un infarto
+cerebral.
+• Si tiene tensión arterial alta que no ha sido controlada con el tratamiento (consulte con su médico o enfermera
+si no está seguro de si su tensión arterial está controlada adecuadamente).
+Si  cree  hallarse  en  alguno  de  estos  casos,  no  tome  los  comprimidos  hasta  que  lo  haya  consultado  con  su
+médico.
+
+Tenga especial cuidado con BLOKIUM COX
+Si alguna de las siguientes situaciones le afecta, BLOKIUM COX puede no ser adecuado para usted o puede que
+necesite ser controlado regularmente mientras lo esté tomando.
+• Tiene antecedentes de úlceras o hemorragia de estómago.
+• Está deshidratado, por ejemplo, como consecuencia de una enfermedad prolongada con vómitos o diarrea.
+• Tiene hinchazón debido a retención de líquidos.
+• Tiene antecedentes de insuficiencia cardiaca o cualquier otra forma de enfermedad cardiaca.
+•  Tiene  antecedentes  de  tensión  arterial  alta.  BLOKIUM  COX  puede  aumentar  la  tensión  arterial  en  algunas
+personas, especialmente en dosis altas, y su médico querrá comprobar su tensión arterial de vez en cuando.
+• Tiene antecedentes de enfermedad de hígado o de riñón.
+• Está siendo tratado de una infección. BLOKIUM COX puede enmascarar o encubrir la fiebre, que es un signo
+de infección.
+• Es una mujer intentando quedarse embarazada.
+• Es una persona mayor (por ej. más de 65 años).
+• Tiene diabetes, colesterol alto, o es fumador, ya que estos pueden aumentar su riesgo de sufrir una enfermedad
+cardiaca.
+
+Si no está seguro de si alguna de las situaciones anteriores le afecta a usted, hable con su médico antes de tomar
+BLOKIUM COX para comprobar si este medicamento es apropiado para usted.
+BLOKIUM  COX  funciona  igual  de  bien  en  pacientes  adultos  jóvenes  y  ancianos.  Si  es  mayor  de  65  años,  su
+médico  querrá  mantener  un  control  adecuado  de  usted.  No  es  necesario  ajustar  la  dosis  en  los  pacientes
+ancianos.
+
+Toma simultánea de otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente otros medicamentos, incluso
+los adquiridos sin receta.
+En  particular  si  está  utilizando  alguno  de  los  siguientes  medicamentos,  es  posible  que  su  médico  quiera
+controlarle  para  comprobar  que  sus  medicamentos  funcionan  adecuadamente  una  vez  que  empiece  a  tomar
+BLOKIUM COX.
+• Medicamentos que hacen su sangre menos espesa (anticoagulantes), como warfarina.
+• Rifampicina (un antibiótico).
+•  Metotrexato  (un  medicamento  utilizado  para  suprimir  el  sistema  inmune  y  a  menudo  usado  en  la  artritis
+reumatoide).
+• Medicamentos utilizados para ayudar a controlar la tensión arterial alta y la insuficiencia cardiaca denominados
+inhibidores de la ECA y antagonistas del receptor de angiotensina, por ejemplo enalapril y ramipril, y losartán y
+valsartán.
+• Litio (un medicamento utilizado para tratar algunos tipos de depresión).
+• Diuréticos (comprimidos para orinar).
+• Ciclosporina o tacrolimus (medicamentos utilizados para suprimir el sistema inmune).
+• Digoxina (un medicamento para la insuficiencia cardiaca y el ritmo irregular del corazón).
+• Minoxidil (un medicamento utilizado para tratar la tensión arterial alta).
+• Comprimidos o solución oral de salbutamol (un medicamento para el asma).
+• Anticonceptivos orales.
+• Terapia hormonal de sustitución.
+• Aspirina (el riesgo de úlceras en el estómago es mayor si toma BLOKIUM COX con aspirina).
+
+-  BLOKIUM  COX  puede  tomarse  con  dosis  bajas  de  aspirina.  Si  actualmente  está  tomando  dosis  bajas  de
+aspirina para prevenir infartos de miocardio o un infarto cerebral, no debe dejar de tomar aspirina hasta que hable
+con su médico
+- no tome dosis altas de aspirina u otros medicamentos antiinflamatorios mientras esté tomando BLOKIUM COX.
+
+Embarazo y lactancia
+Los comprimidos de BLOKIUM COX no deben tomarse durante el embarazo. No tome los comprimidos si está
+embarazada,  si  cree  que  puede  estar  embarazada  o  si  tiene  previsto  quedarse  embarazada.  Si  se  queda
+embarazada, deje de tomar los comprimidos y consulte a su médico. Consulte a su médico si tiene dudas o si
+necesita más información.
+No se sabe si BLOKIUM COX se elimina por la leche humana. Si está dando el pecho o tiene previsto hacerlo,
+consulte a su médico antes de tomar BLOKIUM COX. Si está utilizando BLOKIUM COX, no debe dar el pecho.
+
+3
+
+4
+
+E-2839-01 / D3165 / Act.: 05/2017

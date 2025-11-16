@@ -1,0 +1,3138 @@
+BIKTARVY®
+
+BICTEGRAVIR 50 mg,
+EMTRICITABINA 200 mg,
+ TENOFOVIR ALAFENAMIDA 25 mg
+Comprimidos recubiertos
+Venta bajo receta archivada.
+
+COMPOSICIÓN
+
+Cada comprimido recubierto de BIKTARVY® contiene:
+Bictegravir (equivalente a 52,45 mg de Bictegravir sódico) ...........50 mg
+Emtricitabina ......................................................................................200 mg
+Tenofovir alafenamida (equivalente a 28,04 mg de Tenofovir alafenami-
+da fumarato) ......................................................................................... 25 mg
+Excipientes:
+Celulosa microcristalina.............................................................. 361,34 mg
+Croscarmelosa sódica .....................................................................49,54 mg
+Estearato de magnesio .....................................................................8,63 mg
+Alcohol polivinílico1)............................................................................8,4 mg
+Dióxido de titanio1) ..............................................................................4,6 mg
+Polietilenglicol1) ..................................................................................4,2 mg
+Talco1) .................................................................................................... 3,1 mg
+Óxido de hierro rojo (CINo77491) 1) ..................................................0,5 mg
+Óxido de Hierro negro (CINo77499) 1) .............................................. 0,1 mg
+1) Se refiere a los componentes del Opadry II marrón 85F165072.
+BIKTARVY® es un medicamento libre de gluten.
+
+ACCIÓN TERAPÉUTICA
+
+Grupo  farmacoterapéutico:  Antivirales  para  uso  sistémico;  antivirales
+para el tratamiento de infecciones por VIH y combinaciones.
+Código ATC: J05AR20.
+
+INDICACIONES Y USO
+
+BIKTARVY® está indicado para el tratamiento de la infección por el virus
+de la inmunodeficiencia humana tipo 1 (VIH-1) en adultos y pacientes
+pediátricos a partir de 6 años de edad con un peso de al menos 25 kg
+sin evidencia de resistencia viral actual o previa a los inhibidores de la
+integrasa o a tenofovir.
+
+CARACTERÍSTICAS/PROPIEDADES FARMACOLÓGICAS
+
+Descripción
+Los comprimidos recubiertos de BIKTARVY® son marcados en una de las
+caras del comprimido con «GSI» y en la otra cara del comprimido con
+«9883».
+Los comprimidos de BIKTARVY® se administran por vía oral.
+
+FARMACOLOGÍA CLÍNICA
+
+Mecanismo de acción
+Bictegravir es un inhibidor de la transferencia de las hebras de la inte-
+grasa (INI) que se une al sitio activo de la integrasa y bloquea la transfe-
+rencia de hebras para la integración del ácido desoxirribonucleico (ADN)
+retroviral, que es esencial para el ciclo de replicación del VIH. Bictegravir
+muestra actividad frente al VIH-1 y al VIH-2.
+Emtricitabina  es  un  inhibidor  de  la  transcriptasa  inversa  análogo  de
+nucleósidos  (ITIAN)  y  un  análogo  de  2’-desoxicitidina.  Emtricitabina
+se fosforila por enzimas celulares para formar emtricitabina trifosfato.
+Emtricitabina trifosfato inhibe la replicación del VIH a través de su incor-
+poración en el ADN viral mediante la transcriptasa inversa (TI) del VIH, lo
+que ocasiona la finalización de la cadena de ADN. Emtricitabina muestra
+actividad frente al VIH-1, VIH-2 y VHB.
+Tenofovir alafenamida es un inhibidor de la transcriptasa inversa análo-
+go de nucleótido (ITIANt) y un profármaco fosfonamidato de tenofovir
+(análogo  de  2’-desoxiadenosina  monofosfato).  Tenofovir  alafenamida
+es permeable en las células y, debido a su mayor estabilidad plasmática
+y activación intracelular mediante hidrólisis por la catepsina A, tenofo-
+vir alafenamida es más eficaz que tenofovir disoproxilo en cuanto a la
+carga  de  tenofovir  en  las  células  mononucleares  de  sangre  periférica
+(PBMC,  peripheral  blood  mononuclear  cells)  (incluyendo  linfocitos  y
+otras células diana del VIH) y los macrófagos. Tenofovir intracelular se
+
+fosforila a continuación al metabolito farmacológicamente activo teno-
+fovir difosfato. Tenofovir difosfato inhibe la replicación del VIH median-
+te su incorporación en el ADN viral por la TI del VIH, lo que produce la
+finalización de la cadena de ADN. Tenofovir muestra actividad frente al
+VIH-1,VIH-2 y VHB.
+
+Propiedades farmacocinéticas
+Absorción
+Bictegravir  se  absorbe  después  de  la  administración  oral  y  alcanza
+concentraciones  plasmáticas  máximas  2,0  a  4,0  horas  después  de  la
+administración de B/F/TAF. En condiciones de ayuno, la administración
+de B/F/TAF con ingesta moderada de grasa (~ 600 kcal, 27 % de grasa)
+o de mucha grasa (~ 800 kcal, 50 % de grasa) dio como resultado un
+aumento  del  AUC  de  bictegravir  (24  %).  Este  modesto  cambio  no  se
+considera clínicamente significativo y B/F/TAF se puede administrar con
+o sin alimentos.
+Después  de  la  administración  oral  de  B/F/TAF  con  o  sin  alimentos  en
+adultos infectados con VIH-1, las medias de los parámetros farmacoci-
+néticos de múltiples administraciones (CV%) de bictegravir fueron Cmáx
+= 6,15 μg/ml (22,9 %), AUCtau = 102 μg•h/ml (26,9 %) y Cvalle = 2,61
+μg/ml (35,2 %).
+Emtricitabina se absorbe de forma rápida y extensa después de la ad-
+ministración oral con unas concentraciones plasmáticas máximas 1,5 a
+2,0 horas después de la administración de B/F/TAF. La media de biodis-
+ponibilidad absoluta de emtricitabina en cápsulas duras de 200 mg fue
+del 93 %. La exposición sistémica de emtricitabina no se vio afectada
+cuando emtricitabina se administró con alimentos y B/F/TAF se puede
+administrar con o sin alimentos.
+Después  de  la  administración  oral  de  B/F/TAF  con  o  sin  alimentos  en
+adultos infectados por el VIH-1, las medias de los parámetros farmaco-
+cinéticos de múltiples administraciones (CV%) de emtricitabina fueron
+Cmáx = 2,13 μg/ml (34,7 %), AUCtau = 12,3 μg•h/ml (29,2 %) y Cvalle =
+0,096 μg/ml (37,4 %).
+Tenofovir alafenamida se absorbe de forma rápida después de la admi-
+nistración oral, alcanzándose las concentraciones plasmáticas máximas
+0,5 a 2,0 horas después de la administración de B/F/TAF. En condicio-
+nes en ayuno, la administración de tenofovir alafenamida con ingesta
+moderada de grasa (~ 600 kcal, 27 % de grasa) y de mucha grasa (~
+800 kcal, 50 % de grasa) dio como resultado un aumento del AUCúlt de
+un 48 % y un 63 %, respectivamente. Estos modestos cambios no se
+consideran clínicamente significativos y B/F/TAF se puede administrar
+con o sin alimentos.
+Después  de  la  administración  oral  de  B/F/TAF  con  o  sin  alimentos  en
+adultos infectados por el VIH-1, los parámetros farmacocinéticos medios
+de administraciones múltiples (CV%) de tenofovir alafenamida fueron
+Cmáx = 0,121 μg/ml (15,4 %) y AUCtau = 0,142 μg•h/ml (17,3 %).
+
+Distribución
+La unión in vitro de bictegravir a las proteínas plasmáticas humanas fue
+> 99 % (fracción libre ~ 0,25 %). El cociente entre la concentración de
+bictegravir in vitro en sangre humana y plasma fue 0,64.
+La unión in vitro de emtricitabina a proteínas plasmáticas humanas fue
+< 4 % y resultó independiente de la concentración en el rango de 0,02
+a 200 μg/ml. A la concentración plasmática máxima, la relación de la
+concentración media de emtricitabina entre plasma y sangre fue ~ 1,0,
+y  la  relación  de  concentración  media  de  emtricitabina  entre  semen  y
+plasma fue ~ 4,0.
+La unión in vitro de tenofovir a proteínas plasmáticas humanas es < 0,7
+% y es independiente de la concentración en el rango de 0,01 25 μg/
+ml. La unión ex vivo de tenofovir alafenamida a proteínas plasmáticas
+humanas en las muestras recogidas durante los estudios clínicos fue de
+aproximadamente el 80 %.
+
+Biotransformación
+El  metabolismo  es  la  principal  vía  de  eliminación  para  bictegravir  en
+seres humanos. Los estudios de fenotipado in vitro mostraron que bic-
+
+tegravir se metaboliza principalmente por CYP3A y UGT1A1. Después de
+la administración oral de una dosis única de [14C] bictegravir, ~ 60 %
+de la dosis de las heces incluyó el precursor inalterado, el conjugado de
+desfluorohidroxi  BIC cisteína y otros metabolitos oxidativos menores.
+En orina se recogió el 35 % de la dosis, y consistió principalmente en el
+glucurónido de bictegravir y en otros metabolitos oxidativos menores y
+sus conjugados de fase II. El aclaramiento renal del precursor inalterado
+fue mínimo.
+Tras la administración de [14C] emtricitabina, se obtuvo una recupera-
+ción  completa  de  la  dosis  de  emtricitabina  en  la  orina  (~  86  %)  y  las
+heces (~ 14 %). El 13 % de la dosis se recuperó en la orina en forma de
+tres aparentes metabolitos. La biotransformación de emtricitabina com-
+prende la oxidación del radical tiólico, para dar los diastereómeros 3’
+sulfóxido (~ 9 % de la dosis), y la conjugación con el ácido glucurónico,
+para formar el 2’ O glucurónido (~ 4 % de la dosis). No hubo otros me-
+tabolitos identificables.
+El metabolismo es la ruta de ’liminación principal de tenofovir alafena-
+mida en los seres humanos, suponiendo > 80% de una dosis oral. Los
+estudios in vitro han mostrado que tenofovir alafenamida se metaboliza
+a  tenofovir  (metabolito  principal)  por  medio  de  la  catepsina  A  en  las
+PBMC (incluyendo linfocitos y otras células diana del VIH) y los macró-
+fagos, y por medio de la carboxilesterasa-1 en los hepatocitos. In vivo,
+tenofovir alafenamida se hidroliza en las células para formar tenofovir
+(metabolito  principal),  que  se  fosforila  al  metabolito  activo,  tenofovir
+difosfato.  En  los  estudios  clínicos  humanos,  una  dosis  oral  de  25  mg
+de tenofovir alafenamida dio lugar a unas concentraciones de tenofovir
+difosfato más de 4 veces superiores en las PBMC y más del 90 % de las
+concentraciones menores de tenofovir en plasma, en comparación con
+una dosis oral de 245 mg de tenofovir disoproxilo.
+
+Eliminación
+Bictegravir se elimina principalmente por metabolismo hepático. La ex-
+creción renal de bictegravir intacto es una vía menor (~ 1 % de la dosis).
+La semivida de bictegravir en plasma fue de 17,3 horas.
+Emtricitabina  se  excreta  principalmente  a  través  de  los  riñones,  por
+filtración glomerular y por secreción tubular activa. La semivida de em-
+tricitabina en plasma fue de aproximadamente 10 horas.
+Tenofovir alafenamida se elimina después de la metabolización a teno-
+fovir. Tenofovir alafenamida y tenofovir tienen una mediana de semivida
+plasmática de 0,51 y 32,37 horas, respectivamente. Tenofovir se elimina
+a través de los riñones por filtración glomerular y secreción tubular activa.
+La excreción renal de tenofovir alafenamida intacto es una vía menor,
+eliminándose en orina menos del 1 % de la dosis.
+
+Linealidad
+La  farmacocinética  de  múltiples  administraciones  de  bictegravir  es
+proporcional  a  la  dosis  en  un  intervalo  de  dosis  de  25  a  100  mg.  La
+farmacocinética de múltiples administraciones de emtricitabina es pro-
+porcional a la dosis en el intervalo de 25 a 200 mg. Las exposiciones a
+tenofovir alafenamida son proporcionales a la dosis en el intervalo de
+8 mg a 125 mg.
+
+Otras poblaciones especiales
+Insuficiencia hepática
+No se observaron cambios clínicamente relevantes en la farmacocinética
+de bictegravir en sujetos con insuficiencia hepática moderada. La farma-
+cocinética de emtricitabina no se ha estudiado en sujetos con insuficiencia
+hepática; sin embargo, emtricitabina no sufre un metabolismo signifi-
+cativo a través de las enzimas hepáticas, por lo que la repercusión de
+la insuficiencia hepática debería ser escasa. No se observaron cambios
+clínicamente relevantes en la farmacocinética de tenofovir alafenamida
+o en su metabolito tenofovir en los pacientes con insuficiencia hepática
+leve, moderada o grave.
+
+Insuficiencia renal
+Insuficiencia renal grave (aclaramiento de creatinina estimado ≥ 15 y
+< 30 ml/minuto).
+No se observaron diferencias clínicamente relevantes en la farmacoci-
+nética de bictegravir, tenofovir alafenamida, o tenofovir entre los sujetos
+sanos y los pacientes con insuficiencia renal grave (ClCr estimado ≥ 15
+ml/min y < 30 ml/min) en los estudios de fase I. En un estudio de fase
+I aparte de emtricitabina sola, la exposición sistémica media a emtrici-
+tabina fue mayor en pacientes con insuficiencia renal grave (CrCl < 30
+ml/min) (33,7 μg•h/ml) que en sujetos con función renal normal (11,8
+μg•h/ml). No se ha establecido la seguridad de BIKTARVY® en sujetos
+con un aclaramiento de creatinina estimado ≥ 15 ml/min y < 30 ml/min.
+
+Enfermedad renal terminal (aclaramiento de creatinina estimado < 15
+ml/minuto)
+Las  exposiciones  a  emtricitabina  y  tenofovir  en  12  pacientes  con  en-
+fermedad renal terminal (CrCl estimado <15 ml/min) que estaban en
+hemodiálisis crónica y que recibieron emtricitabina + tenofovir alafe-
+namida en combinación con elvitegravir + cobicistat como comprimido
+de combinación a dosis fija en el estudio GS-US-292-1825, fueron sig-
+nificativamente mayores que en pacientes con función renal normal. No
+
+se observaron diferencias clínicamente relevantes en la farmacocinética
+de tenofovir alafenamida en pacientes con enfermedad renal terminal
+que  estaban  recibiendo  hemodiálisis  crónica  en  comparación  con
+aquellos con función renal normal. En la fase de extensión del estudio
+GS-US-292-1825,  se  observó  una  Cvalle  de  bictegravir  más  baja  en  pa-
+cientes  con  enfermedad  renal  terminal  que  recibieron  BIKTARVY®  en
+comparación con pacientes con función renal normal, pero esta diferencia
+no se consideró clínicamente relevante. En este estudio no se identificaron
+reacciones adversas adicionales en pacientes con enfermedad renal ter-
+minal que estaban recibiendo hemodiálisis crónica.
+No hay datos farmacocinéticos sobre bictegravir, emtricitabina o teno-
+fovir  alafenamida  en  pacientes  con  enfermedad  renal  terminal  (CrCl
+estimado <15 ml/min) que no reciben hemodiálisis crónica. No se ha
+establecido la seguridad de BIKTARVY® en estos pacientes.
+
+Edad, sexo y raza
+La  farmacocinética  de  bictegravir,  emtricitabina  y  tenofovir  no  se  ha
+evaluado por completo en los pacientes de edad avanzada (≥ 65 años
+de edad). Los análisis de población en los que se utilizaron datos far-
+macocinéticos  combinados  de  estudios  en  adultos  no  identificaron
+diferencias clínicamente relevantes debidas a la edad, sexo o raza en
+las exposiciones de bictegravir, emtricitabina o tenofovir alafenamida
+o tenofovir alafenamida.
+
+Población pediátrica
+En el estudio GS-US-380-1474 la media de la Cmáx de bictegravir y de las
+exposiciones de emtricitabina y tenofovir alafenamida (AUC y/o Cmáx) al-
+canzadas en 50 niños de 6 a < 12 años de edad (≥ 25 kg) que recibieron
+B/F/TAF, fueron, en general, superiores a las medias de las exposiciones
+alcanzadas  en  adultos.  Las  exposiciones  a  bictegravir,  emtricitabina,
+tenofovir  alafenamida  y  tenofovir  en  niños,  adolescentes  y  adultos  se
+presentan en la Tabla 1.
+
+Tabla 1: Exposiciones a bictegravir, emtricitabina, tenofovir alafe-
+namida y tenofovir en niños, adolescentes y adultos.
+
+Niños de
+6 a < 12 años
+de edad
+≥ 25 kga
+
+n = 25
+
+Adolescentes de
+12 a < 18 años
+de edad
+≥ 35 kga
+B/F/TAF
+(50 mg/200 mg/25 mg)
+n = 24
+
+Adultosb
+
+n = 77
+
+121.034,2 (36,4)
+
+109.668,1 (30,6)
+
+94.227,1 (34,7)
+
+10.988,8 (28,3)
+
+8.087,1 (29,9)
+
+6.801,6 (30,1)
+
+2.366,6 (78,8)c
+
+2.327,4 (48,6)
+
+2.256,7 (47,3)f
+
+17.565,1 (36,9)
+
+13.579,1 (21,7)
+
+12.293,6 (29,2)
+
+3.888,4 (31,0)
+
+2.689,2 (34,0)
+
+2.127,0 (34,7)
+
+226,7 (322,8)c
+
+64,4 (25,0)
+
+96,0 (37,4)g
+
+434,5 (94,9)d
+
+347,9 (113,2)e
+
+229,3 (63,0)
+
+581,8 (99,9)c
+
+333,9 (110,6)
+
+276,5 (62,4)
+
+N/A
+
+N/A
+
+N/A
+
+427,7 (28,5)
+
+333,5 (31,5)
+
+292,6 (27,4)h
+
+35,5 (89,0)
+
+24,0 (64,2)
+
+15,2 (26,1)h
+
+14,0 (30,2)c
+
+11,1 (32,4)
+
+10,6 (28,5)h
+
+BIC
+AUCtau
+(ng•h/ml)
+Cmáx
+(ng/ml)
+Ctau
+(ng/ml)
+FTC
+AUCtau
+(ng•h/ml)
+Cmáx
+(ng/ml)
+Ctau
+(ng/ml)
+TAF
+AUCtau
+(ng•h/ml)
+Cmáx
+(ng/ml)
+Ctau
+(ng/ml)
+TFV
+AUCtau
+(ng•h/ml)
+Cmáx
+(ng/ml)
+Ctau
+(ng/ml)
+
+BIC = bictegravir; FTC = emtricitabina; TAF = tenofovir alafenamida fumarato;
+
+TFV = tenofovir
+
+N/A = no aplicable; %CV = porcentaje del coeficiente de variación
+Los datos se presentan como medias (%CV).
+a  Datos de FC intensiva del estudio GS-US-380-1474
+b  Datos de FC intensiva de los estudios GS-US-380-1489, GS-US-380-1490,
+GS-US-380-1844, GS-US-380-1878 para las exposiciones FC a BIC, FTC y
+TAF,  y  datos  de  FC  poblacional  de  los  estudios  GS-US-292-0104  y
+GS-US-292-0111 para las exposiciones FC a TFV
+
+c  n = 24
+d  n = 22
+e  n = 23
+f  n = 75
+g  n = 74
+h  n = 841
+
+Embarazo
+Las  exposiciones  plasmáticas  a  bictegravir,  emtricitabina  y  tenofovir
+alafenamida fueron menores durante el embarazo en comparación con
+las de después del parto, mientras que las exposiciones posparto fueron
+en general mayores que en las mujeres adultas no embarazadas (Tabla
+2). Por lo general, las exposiciones fueron similares entre el segundo y
+tercer trimestre del embarazo; las exposiciones también fueron general-
+mente similares entre las semanas 6 y 12 posparto. Teniendo en cuenta
+las relaciones exposición-respuesta de bictegravir, emtricitabina y teno-
+fovir alafenamida, los cambios en la exposición durante el embarazo no
+se  consideran  clínicamente  relevantes;  no  obstante,  se  recomiendan
+ajustes de la dosis específicos para la administración concomitante de
+medicamentos orales o suplementos que contengan cationes polivalen-
+tes a pacientes embarazadas (ver sección 4.5).
+
+Tabla  2:  Parámetros  FC  en  estado  estacionario  de  bictegravir,
+emtricitabina  y  tenofovir  alafenamida  en  mujeres  embarazadas
+infectadas  por  el  VIH  virológicamente  suprimidas  en  el  tercer
+trimestre y en la semana 12 posparto en comparación con datos
+históricos de mujeres adultas con VIH-1 no embarazadas.
+
+Parámetro
+Media (CV%)
+
+Tercer trimestre
+(N = 30)
+
+Semana 12
+posparto
+(N = 32)
+
+Mujeres adultas
+con VIH-1
+no embarazadas
+
+Bictegravir
+
+Cmáx
+(μg por ml)
+
+AUCtau
+(μg•h por ml)
+
+AUCtau librea
+(μg•h por ml)
+Cvalle
+(μg por ml)
+Emtricitabina
+Cmáx
+(μg por ml)
+
+5,37 (25,9)
+
+11,0 (24,9)
+
+6,15 (22,9)b
+
+60,2 (29,1)
+
+148 (28,5)
+
+102 (26,9)b
+
+0,219 (33,9)
+
+0,374 (32,2)
+
+ND
+
+1,07 (41,7)
+
+3,64 (34,1)
+
+2,61 (35,2)b
+
+2,59 (26,5)
+
+3,36 (26,9)
+
+2,13 (34,7)c
+
+AUCtau
+(μg•h por ml)
+Cvalle
+(μg por ml)
+Tenofovir alafenamida
+Cmáx
+(μg por ml)
+
+10,4 (20,3)
+
+0,05 (27,2)
+
+0,27 (42,1)
+
+15,3 (21,9)
+
+12,3 (29,2)c
+
+0,08 (33,7)
+
+0,096 (37,4)c
+
+0,49 (52,5)
+
+0,121 (15,4)d
+
+AUCtau
+(μg•h por ml)
+
+AUCtau librea
+(μg•h por ml)
+
+0,21 (45,0)
+
+0,30 (31,8)
+
+0,142 (17,3)d
+
+0,016 (28,4)
+
+0,017 (23,4)
+
+ND
+
+CV = Coeficiente de variación; ND = No disponible
+a  Se calculó mediante la corrección de las AUCtau estimadas individuales según
+
+el % de fracción libre.
+
+B  Procedente del análisis FC poblacional en los estudios 1489, 1490, 1844 y
+
+1878; N = 1193.
+
+C  Procedente  del  análisis  FC  intensivo  en  los  estudios  1489,  1490,  1844  y
+
+1878; N = 77.
+
+D  Procedente del análisis FC poblacional en los estudios 1489 y 1490; N = 486.
+
+Microbiología
+Actividad antiviral in vitro
+La actividad antiviral de bictegravir frente a aislados clínicos y de labo-
+ratorio del VIH-1 se evaluó en líneas celulares linfoblastoides, PBMC,
+células  monocíticas/macrofágicas  primarias  y  linfocitos  T  CD4+.  Los
+valores de la concentración eficaz 50 % (CE50) de bictegravir oscilaron
+entre < 0,05 y 6,6 nM. La CE95 ajustada a proteínas de bictegravir fue
+361 nM (0,162 μg/ml) para la cepa salvaje del virus VIH-1. Bictegravir
+mostró actividad antiviral en cultivos celulares frente al grupo del VIH-1
+(M, N y O), incluidos los subtipos A, B, C, D, E, F y G (con valores de CE50
+de < 0,05 a 1,71 nM), y frente al VIH-2 (CE50 = 1,1 nM).
+La actividad antiviral de emtricitabina frente a aislados clínicos y de la-
+boratorio del VIH-1 se evaluó en líneas celulares linfoblastoides, en la
+línea celular MAGI CCR5 y en PBMC. Los valores de CE50 de emtricitabina
+oscilaron entre 0,0013 y 0,64 μM. Emtricitabina mostró actividad anti-
+viral en cultivos celulares frente a los clados del VIH-1 A, B, C, D, E, F y
+G (valores de CE50 de 0,007 a 0,075 μM) y presentó actividad frente al
+VIH-2 (valores de CE50 de 0,007 a 1,5 μM).
+La actividad antiviral de tenofovir alafenamida frente a aislados clínicos
+y de laboratorio del subtipo B del VIH-1 se evaluó en líneas celulares
+linfoblastoides,  PBMC,  células  monocíticas/macrofágicas  primarias  y
+linfocitos T CD4+. Los valores de CE50 de tenofovir alafenamida oscilaron
+entre 2,0 y 14,7 nM. Tenofovir alafenamida mostró actividad antiviral
+en cultivos celulares frente a todos los grupos del VIH-1 (M, N y O), in-
+cluyendo los subtipos A, B, C, D, E, F y G (valores de CE50 de 0,10 a 12,0
+nM) y presentó actividad específica frente al VIH-2 (valores de CE50 de
+0,91 a 2,63 nM).
+
+Resistencia
+In vitro
+Se han seleccionado aislados de VIH-1 con sensibilidad reducida a bic-
+tegravir en cultivo celular. En una selección se observaron las sustitu-
+ciones de los aminoácidos M50I y R263K, y la sensibilidad fenotípica a
+bictegravir se redujo en 1,3; 2,2 y 2,9 veces para M50I, R263K y M50I +
+R263K, respectivamente. En una segunda selección se observaron las
+sustituciones de los aminoácidos T66I y S153F, y la sensibilidad fenotí-
+pica a bictegravir se desplazó 0,4; 1,9 y 0,5 veces para T66I, S153F y T66I
++ S153F, respectivamente.
+Los  aislados  del  VIH-1  con  sensibilidad  reducida  a  emtricitabina  han
+sido seleccionados en cultivo celular y tenían mutaciones M184V/I en
+la TI del VIH-1.
+Los aislados del VIH-1 con sensibilidad reducida a tenofovir alafena-
+mida han sido seleccionados en cultivo celular y portaban la mutación
+K65R  en  la  TI  del  VIH-1;  además,  se  ha  observado  transitoriamente
+una  mutación  K70E  en  la  TI  del  VIH-1.  Los  aislados  del  VIH-1  con  la
+mutación K65R tienen bajo nivel de sensibilidad reducida a abacavir,
+emtricitabina, tenofovir y lamivudina. En estudios de selección de re-
+sistencia a medicamentos in vitro con tenofovir alafenamida no se ha
+observado desarrollo de alto nivel de resistencia después del cultivo
+prolongado.
+In vivo
+En pacientes que no habían recibido tratamiento previo (estudios GS-
+US-380  1489  y  GS-US-380-1490),  hasta  la  semana  144  de  la  fase  de
+doble ciego o las 96 semanas de la fase de extensión abierta, ningún
+paciente que recibió BIKTARVY®, con ARN del VIH-1 ≥ 200 copias/ml en
+el momento de confirmarse el fracaso virológico o abandono temprano
+del fármaco del estudio, tuvo VIH-1 con resistencia genotípica o feno-
+típica  emergente  a  bictegravir,  emtricitabina  o  tenofovir  alafenamida
+en la población de análisis final de resistencia (n = 11 con datos). En el
+momento de la inclusión en el estudio, un paciente que no había recibido
+tratamiento  previo  presentó  las  mutaciones  preexistentes  Q148H  +
+G140S asociadas a resistencia a INI y tuvo ARN del VIH-1 < 50 copias/ml
+en la semana 4 hasta la semana 144. Además, 6 pacientes presentaron
+la mutación preexistente T97A asociada a resistencia a INI; todos tuvieron
+ARN del VIH-1 < 50 copias/ml en la semana 144 o en la última visita.
+En pacientes virológicamente suprimidos (estudios GS-US-380-1844 y
+GS-US-380-1878), ningún paciente que recibió BIKTARVY®, con ARN del
+VIH-1 ≥ 200 copias/ml en el momento de confirmarse el fracaso viroló-
+gico, en la semana 48, o abandono temprano del fármaco del estudio,
+tuvo VIH-1 con resistencia genotípica o fenotípica emergente a bicte-
+gravir, emtricitabina o tenofovir alafenamida en la población de análi-
+sis final de resistencia (n = 3). En el estudio GS-US-380-4030, ningún
+paciente que recibió BIKTARVY® tuvo resistencia fenotípica emergente
+a bictegravir, emtricitabina o tenofovir alafenamida.
+
+Resistencia cruzada
+La  sensibilidad  de  bictegravir  se  analizó  en  64  aislados  clínicos  resis-
+tentes a INI (20 con sustituciones simples y 44 con 2 o más sustitucio-
+nes). De estos, todos los aislados mutantes simples y dobles carentes
+de Q148H/K/R y 10 de 24 aislados con Q148H/K/R con sustituciones
+asociadas a resistencia adicional a INI tenían una sensibilidad reducida
+≤ 2,5 veces a bictegravir; se encontró una sensibilidad reducida > 2,5
+veces a bictegravir en 14 de los 24 aislados que contenían sustituciones
+de G140A/C/S y Q148H/R/K en la integrasa. De ellos, 9 de los 14 cultivos
+aislados tenían mutaciones adicionales en L74M, T97A o E138A/K. En
+un estudio distinto, las líneas celulares mutantes con G118R y T97A +
+G118R tenían una sensibilidad reducida 3,4 y 2,8 veces a bictegravir,
+respectivamente. La relevancia de estos datos de resistencia cruzada in
+vitro aún está por establecerse en la práctica clínica.
+Bictegravir  demostró  una  actividad  antiviral  equivalente  frente  a  5
+clones mutantes del VIH-1 resistentes a inhibidores de la transcriptasa
+inversa  no  análogos  de  nucleósidos  (ITINN),  3  resistentes  a  ITIAN  y  4
+resistentes a inhibidores de la proteasa (IP) en comparación con la cepa
+salvaje.
+Los virus resistentes a emtricitabina con la sustitución M184V/I mostraron
+resistencia  cruzada  con  lamivudina,  pero  conservaron  la  sensibilidad  a
+didanosina, estavudina, tenofovir y zidovudina.
+Las mutaciones K65R y K70E tienen como resultado una sensibilidad
+reducida a abacavir, didanosina, lamivudina, emtricitabina y tenofovir,
+pero conservan la sensibilidad a zidovudina. El VIH-1 resistente a múl-
+tiples nucleósidos con una mutación de inserción doble T69S o con un
+complejo de mutación Q151M que incluye K65R, mostró una sensibili-
+dad reducida a tenofovir alafenamida.
+
+POSOLOGÍA Y FORMA DE ADMINISTRACIÓN
+
+El tratamiento debe ser iniciado por un médico con experiencia en el
+tratamiento de la infección por el VIH.
+
+Posología
+Adultos  y  pacientes  pediátricos  de  6  años  de  edad  o  mayores  con  un
+peso de al menos 25 kg.
+Un comprimido que se debe tomar una vez al día.
+
+Dosis omitidas
+Si el paciente omite una dosis de BIKTARVY® en el plazo de 18 horas
+desde  la  hora  normal  de  administración,  debe  tomar  BIKTARVY®  lo
+antes posible y continuar con la pauta habitual de administración. Si el
+paciente omite una dosis de BIKTARVY® durante más de 18 horas, no
+debe tomar la dosis omitida y simplemente debe continuar con la pauta
+habitual de administración.
+Si el paciente vomita en el plazo de 1 hora después de tomar BIKTARVY®,
+debe  tomar  otro  comprimido.  Si  el  paciente  vomita  transcurrida  1
+hora  de  haber  tomado  BIKTARVY®,  no  necesita  tomar  otra  dosis  de
+BIKTARVY® hasta la próxima dosis habitual programada.
+
+Poblaciones especiales
+Pacientes de edad avanzada
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes ≥ 65
+años de edad .
+
+Insuficiencia hepática
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes con in-
+suficiencia hepática leve (clase A de Child Pugh) o moderada (clase B de
+Child Pugh). No se ha estudiado BIKTARVY® en pacientes con insuficiencia
+hepática grave (clase C de Child Pugh); por tanto, no se recomienda el
+uso de BIKTARVY® en pacientes con insuficiencia hepática grave.
+
+Insuficiencia renal
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes con un peso
+≥ 35 kg con un aclaramiento de creatinina estimado (CrCl) ≥ 30 ml/min.
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes adultos
+con enfermedad renal terminal (aclaramiento de creatinina estimado <
+15 ml/minuto) que están recibiendo hemodiálisis crónica. Sin embargo,
+en general se debe evitar BIKTARVY® y solo se debe utilizar en estos pa-
+cientes si se considera que los posibles beneficios superan a los posibles
+riesgos.  En  los  días  de  hemodiálisis,  BIKTARVY®  se  debe  administrar
+una vez finalizado el tratamiento de hemodiálisis.
+Se debe evitar el inicio del tratamiento con BIKTARVY® en pacientes con
+un aclaramiento de creatinina estimado ≥ 15 ml/min y < 30 ml/min, o <
+15 ml/min que no estén recibiendo hemodiálisis crónica, ya que no se ha
+establecido la seguridad de BIKTARVY® en estas poblaciones.
+No  se  dispone  de  datos  para  hacer  recomendaciones  posológicas  en
+pacientes con un peso < 35 kg con insuficiencia renal ni en pacientes
+pediátricos menores de 18 años con enfermedad renal terminal.
+
+Población pediátrica
+No se ha establecido todavía la seguridad y eficacia de BIKTARVY® en
+niños menores de 6 años de edad o con un peso menor de 25 kg.
+
+Forma de administración
+Vía oral.
+BIKTARVY® se puede tomar con o sin alimentos.
+Debido al sabor amargo, se recomienda que los comprimidos no se mas-
+tiquen, ni trituren. Para pacientes que no pueden tragar el comprimido
+entero, este se puede dividir por la mitad y las dos mitades se tomarán
+una después de la otra, asegurándose de tomar la dosis completa in-
+mediatamente.
+
+FORMAS FARMACÉUTICAS Y CONCENTRACIONES
+
+Los comprimidos recubiertos de BIKTARVY® son marcados en una de las
+caras del comprimido con «GSI» y en la otra cara del comprimido con
+«9883».
+Los comprimidos de BIKTARVY® contienen bictegravir 50 mg, emtricita-
+bina 200 mg y tenofovir alafenamida 25 mg.
+
+CONTRAINDICACIONES
+
+Hipersensibilidad a los principios activos o a alguno de los excipientes.
+Administración  concomitante  con  rifampicina  y  hierba  de  San  Juan
+(Hypericum perforatum) (ver sección interacciones).
+
+ADVERTENCIAS Y PRECAUCIONES DE EMPLEO
+
+Pacientes coinfectados por el VIH y el virus de las hepatitis B o C
+Los pacientes con hepatitis B o C crónica tratados con terapia antirretro-
+viral tienen un riesgo mayor de padecer reacciones adversas hepáticas
+graves y potencialmente mortales.
+Los datos de seguridad y eficacia de BIKTARVY® en pacientes coinfectados
+por el VIH-1 y el virus de la hepatitis C (VHC) son limitados.
+BIKTARVY® contiene tenofovir alafenamida, que es un componente activo
+contra el virus de la hepatitis B (VHB).
+El abandono del tratamiento con BIKTARVY® en pacientes coinfectados
+por VIH y VHB se puede asociar con exacerbaciones agudas graves de
+la hepatitis. Se debe efectuar un seguimiento estrecho, clínico y de la-
+boratorio en pacientes coinfectados por VIH y VHB que abandonan el
+tratamiento con BIKTARVY®, durante al menos varios meses después de
+suspender el tratamiento.
+
+Enfermedad hepática
+No se ha establecido la seguridad y eficacia de BIKTARVY® en pacientes
+con trastornos hepáticos significativos subyacentes.
+Los pacientes con insuficiencia hepática preexistente, incluida la hepa-
+titis crónica activa, tienen una frecuencia aumentada de alteración de la
+función hepática durante la terapia antirretroviral combinada (TARC) y se
+deben controlar de acuerdo con las prácticas habituales. Si hay eviden-
+cia de empeoramiento de la enfermedad hepática en dichos pacientes,
+se tendrá que considerar la interrupción o abandono del tratamiento.
+
+Peso y parámetros metabólicos
+Durante el tratamiento antirretroviral se puede producir un aumento en
+el peso y en los niveles de glucosa y lípidos en sangre. Tales cambios
+podrían estar relacionados en parte con el control de la enfermedad y en
+parte con el estilo de vida. Para los lípidos, hay en algunos casos evidencia
+de un efecto del tratamiento, mientras que para  la ganancia de peso
+no hay una evidencia sólida que relacione esto con un tratamiento en
+particular. Para monitorizar los niveles de lípidos y de glucosa en sangre
+se hace referencia a las guías de tratamiento de la infección por el VIH.
+Los trastornos lipídicos se deben tratar como se considere clínicamente
+apropiado.
+
+Disfunción mitocondrial después de la exposición in utero
+Los análogos de nucleós(t)idos pueden afectar a la función mitocondrial
+en un grado variable, siendo más marcado con estavudina, didanosina
+y zidovudina. Existen informes de disfunción mitocondrial en lactantes
+VIH negativo expuestos in utero y/o post-parto a análogos de nucleósi-
+dos; estos concernieron predominantemente al tratamiento con pautas
+de  tratamiento  que  contenían  zidovudina.  Las  principales  reacciones
+adversas notificadas fueron trastornos hematológicos (anemia, neutro-
+penia) y trastornos metabólicos (hiperlactatemia, hiperlipasemia). Estas
+reacciones  fueron  a  menudo  transitorias.  Se  han  notificado  de  forma
+rara trastornos neurológicos de aparición tardía (hipertonía, convulsión,
+comportamiento anormal). Actualmente no se sabe si estos trastornos
+neurológicos son transitorios o permanentes. Estos hallazgos se deben
+considerar en cualquier niño expuesto in utero a análogos de nucleós(t)
+idos que presenten hallazgos clínicos graves de etiología desconocida, es-
+pecialmente hallazgos neurológicos. Estos hallazgos no afectan a las reco-
+mendaciones nacionales actuales para utilizar tratamiento antirretroviral
+en mujeres embarazadas para prevenir la transmisión vertical del VIH.
+
+Síndrome de reconstitución inmunitaria
+Cuando se instaura una TARC en pacientes infectados por el VIH con de-
+ficiencia inmunitaria grave puede aparecer una respuesta inflamatoria
+frente a patógenos oportunistas residuales o asintomáticos y provocar
+situaciones clínicas graves, o un empeoramiento de los síntomas. Nor-
+malmente estas reacciones se han observado en las primeras semanas o
+meses después del inicio de la TARC. Algunos ejemplos relevantes de es-
+tas reacciones incluyen: retinitis por citomegalovirus, infecciones mico-
+bacterianas generalizadas y/o localizadas y neumonía por Pneumocystis
+jirovecii. Se debe evaluar cualquier síntoma inflamatorio y establecer un
+tratamiento cuando sea necesario.
+Se han notificado también trastornos autoinmunitarios (como la enfer-
+medad de Graves y la hepatitis autoinmune) en caso de reconstitución
+inmunitaria;  no  obstante,  el  tiempo  hasta  el  inicio  notificado  es  más
+variable  y  estos  acontecimientos  se  pueden  producir  muchos  meses
+después del inicio del tratamiento.
+
+Infecciones oportunistas
+Se debe informar a los pacientes de que ni BIKTARVY® ni ningún otro tra-
+tamiento antirretroviral curan la infección por el VIH, y que pueden pre-
+sentar infecciones oportunistas y otras complicaciones de la infección
+por el VIH. Por lo tanto, los pacientes deben permanecer bajo estrecha
+observación clínica por médicos con experiencia en el tratamiento de
+pacientes con enfermedades asociadas al VIH.
+
+Osteonecrosis
+Se han notificado casos de osteonecrosis, especialmente en pacientes
+con infección avanzada por el VIH y/o con exposición prolongada a la
+TARC, aunque se considera que la etiología es multifactorial (incluyendo
+uso de corticosteroides, consumo de alcohol, inmunodepresión grave,
+índice de masa corporal elevado). Se debe aconsejar a los pacientes de
+que  consulten  al  médico  si  experimentan  molestias  o  dolor  articular,
+rigidez articular o dificultad para moverse.
+
+Nefrotoxicidad
+Se han notificado casos de insuficiencia renal durante la poscomerciali-
+zación, incluyendo insuficiencia renal aguda y tubulopatía renal proxi-
+mal, con productos que contienen tenofovir alafenamida. No se puede
+excluir un posible riesgo de nefrotoxicidad resultante de la exposición
+crónica a niveles bajos de tenofovir debido a la administración de teno-
+fovir alafenamida.
+Se  recomienda  evaluar  la  función  renal  en  todos  los  pacientes  antes
+de iniciar el tratamiento con BIKTARVY®, o al iniciarlo, y que también
+se controle durante el tratamiento en todos los pacientes según sea clí-
+
+nicamente apropiado. Se debe considerar suspender el tratamiento con
+BIKTARVY®  en  pacientes  que  desarrollan  disminuciones  clínicamente
+significativas de la función renal o signos de tubulopatía renal proximal.
+
+clínicamente significativo en la exposición a metformina. BIKTARVY® se
+puede administrar de forma conjunta con sustratos de OCT2 y MATE1.
+Bictegravir no es un inhibidor o inductor de CYP in vivo.
+
+Pacientes  con  enfermedad  renal  terminal  que  están  recibiendo
+hemodiálisis crónica
+En general  se  debe evitar  BIKTARVY®, pero  se  puede usar en adultos
+con enfermedad renal terminal (CrCl estimado < 15 ml/min) que están
+recibiendo hemodiálisis crónica si los posibles beneficios superan a los
+posibles riesgos. En un estudio de emtricitabina + tenofovir alafenami-
+da en combinación con elvitegravir + cobicistat como comprimido de
+combinación a dosis fija (E/C/F/TAF) en adultos infectados por el VIH-1
+con enfermedad renal terminal (CrCl estimado < 15 ml/min) que esta-
+ban  recibiendo  hemodiálisis  crónica,  la  eficacia  se  mantuvo  hasta  las
+96 semanas, pero la exposición a emtricitabina fue significativamente
+mayor que en pacientes con función renal normal. La eficacia también
+se mantuvo en la fase de extensión del estudio en la que 10 pacientes
+cambiaron a BIKTARVY® durante 48 semanas. Aunque no se identifica-
+ron  reacciones  adversas  adicionales,  las  implicaciones  de  una  mayor
+exposición a emtricitabina siguen siendo inciertas.
+
+Administración  concomitante  de  otros  medicamentos  o  suple-
+mentos
+BIKTARVY® no se debe administrar de forma concomitante y simultánea
+con  antiácidos,  medicamentos  orales  o  suplementos  que  contengan
+magnesio, aluminio, o hierro en condiciones de ayuno. BIKTARVY® se
+debe administrar al menos 2 horas antes de la administración de antiá-
+cidos, o tomarse con alimentos 2 horas después de la administración de
+antiácidos, medicamentos orales o suplementos que contengan mag-
+nesio y/o aluminio. BIKTARVY® se debe administrar al menos 2 horas
+antes de la administración de suplementos de hierro, o tomarse los dos
+juntos con alimentos en cualquier momento.
+En pacientes embarazadas, se recomienda ajustar la dosis en caso de
+administración  concomitante  de  antiácidos,  medicamentos  orales  o
+suplementos que contengan cationes polivalentes (ver sección 4.5).
+No se recomienda la administración concomitante de algunos medica-
+mentos  con  BIKTARVY®:  atazanavir,  carbamazepina,  ciclosporina  (vía
+intravenosa u oral), oxcarbazepina, fenobarbital, fenitoína, rifabutina,
+rifapentina o sucralfato.
+BIKTARVY®  no  se  debe  administrar  de  forma  concomitante  con  otros
+medicamentos antirretrovirales.
+
+Población pediátrica
+Se han notificado reducciones de la densidad mineral ósea (DMO ≥ 4 %)
+de la columna y de todo el cuerpo menos la cabeza en pacientes de 6 a <
+12 años de edad que recibieron productos que contienen tenofovir ala-
+fenamida durante 48 semanas. Los efectos a largo plazo de los cambios
+en la DMO del hueso en crecimiento, incluido el riesgo de fractura, son
+inciertos. Se recomienda un abordaje multidisciplinar para decidir una
+supervisión adecuada durante el tratamiento.
+
+Excipientes
+Este  medicamento  contiene  menos  de  1  mmol  de  sodio  (23  mg)  por
+comprimido; esto es, esencialmente “exento de sodio”.
+
+Interacción con otros medicamentos y otras formas de interacción
+Los estudios de interacciones se han realizado solo en adultos.
+BIKTARVY® no se debe administrar de forma concomitante con medi-
+camentos que contengan tenofovir alafenamida, tenofovir disoproxilo,
+lamivudina o adefovir dipivoxil utilizados para el tratamiento de la in-
+fección por el VHB.
+
+Bictegravir
+Bictegravir es un sustrato de CYP3A y UGT1A1. La administración conco-
+mitante de bictegravir y medicamentos que inducen fuertemente tanto
+CYP3A como UGT1A1, tales como rifampicina o la hierba de San Juan,
+pueden  disminuir  significativamente  las  concentraciones  plasmáticas
+de bictegravir, lo cual puede dar como resultado una pérdida del efecto
+terapéutico de BIKTARVY® y el desarrollo de resistencias; por lo tanto,
+la administración concomitante está contraindicada. La administración
+concomitante de bictegravir con medicamentos que inhiben fuertemen-
+te tanto CYP3A como UGT1A1, tales como atazanavir, pueden aumentar
+considerablemente las concentraciones plasmáticas de bictegravir, por
+lo que no se recomienda la administración concomitante.
+Bictegravir es a la vez sustrato de P-gp y BCRP (breast cancer resistance
+protein). La relevancia clínica de esta característica no está establecida.
+Por lo tanto, se recomienda precaución cuando se combina bictegravir
+con medicamentos que se sabe que inhiben P-gp y/o BCRP (p.ej., macró-
+lidos, ciclosporina, verapamilo, dronedarona, glecaprevir/pibrentasvir)
+(ver también la tabla a continuación).
+Bictegravir  inhibe  el  transportador  de  cationes  orgánicos  2  (OCT2,
+organic cation transporter 2) y el transportador de expulsión de múl-
+tiples fármacos y de toxinas 1 (MATE1, multidrug and toxin extrusion
+transporter 1) in vitro. La administración concomitante de BIKTARVY®
+con el sustrato de OCT2 y MATE1 metformina no produjo un aumento
+
+Emtricitabina
+Los estudios in vitro y clínicos de interacciones medicamentosas farma-
+cocinéticas han mostrado que el potencial de interacciones mediadas
+por  CYP  entre  emtricitabina  y  otros  medicamentos  es  bajo.  La  admi-
+nistración  concomitante  de  emtricitabina  con  medicamentos  que  se
+eliminan mediante secreción tubular activa puede aumentar las concen-
+traciones de emtricitabina y/o del medicamento administrado de forma
+concomitante. Los medicamentos que reducen la función renal pueden
+aumentar las concentraciones de emtricitabina.
+
+Tenofovir alafenamida
+Tenofovir  alafenamida  se  transporta  por  la  glicoproteína  P  (P  gp)  y  la
+proteína de resistencia de cáncer de mama (BCRP). La administración
+concomitante  de  BIKTARVY®  con  medicamentos  que  afectan  fuerte-
+mente a la actividad de la P gp y la BCRP puede conducir a cambios en
+la absorción de tenofovir alafenamida. Se prevé que los medicamentos
+que inducen la actividad de la P gp (p. ej., rifabutina, carbamazepina,
+fenobarbital) reduzcan la absorción de tenofovir alafenamida, dando
+lugar  a  una  concentración  plasmática  reducida  de  tenofovir  alafena-
+mida,  lo  que  puede  producir  una  pérdida  del  efecto  terapéutico  de
+BIKTARVY® y la aparición de resistencias. La administración concomi-
+tante de BIKTARVY® con otros medicamentos que inhiben a la P gp y a
+la BCRP puede aumentar la absorción y la concentración plasmática de
+tenofovir alafenamida.
+Tenofovir alafenamida no es un inhibidor o inductor de CYP3A in vivo.
+
+Otras interacciones
+Las  interacciones  entre  BIKTARVY®  o  sus  componentes  individuales  y
+medicamentos administrados de forma concomitante se enumeran en
+la Tabla 2 a continuación (el aumento se indica como “↑”, la disminución
+como “↓” y la ausencia de cambios, como “↔”; todos los límites sin efecto
+son 70 % 143 %).
+
+Tabla 3: Interacciones entre BIKTARVY® o sus componentes indivi-
+duales y otros medicamentos
+
+Medicamento
+por áreas
+ terapéuticas/posible
+mecanismo de
+interacción
+
+Efectos sobre
+las concentraciones
+de medicamento.
+Cambio porcentual
+medio en AUC,
+Cmáx, Cmín
+
+MEDICAMENTOS A BASE DE PLANTAS
+
+Recomendación relativa
+a la administración
+concomitante
+con BIKTARVY®
+
+Hierba de San Juan
+(Hypericum perforatum)
+
+(Inducción de CYP3A,
+UGT1A1 y P-gp)
+
+La administración concomitante
+con la hierba de San Juan
+está contraindicada debido al
+efecto de la hierba de San Juan
+sobre bictegravir, componente de
+BIKTARVY®.
+
+Interacción no estu-
+diada con ninguno de
+los componentes de
+BIKTARVY®.
+La administración
+concomitante puede
+disminuir las concen-
+traciones plasmáticas
+de bictegravir y de
+tenofovir alafenamida.
+
+La administración concomitante
+está contraindicada debido al
+efecto de rifampicina sobre
+bictegravir, componente de
+BIKTARVY®.
+
+ANTIINFECCIOSOS
+
+Antimicobacterianos
+
+Rifampicina (600 mg una
+vez al día),
+Bictegravir1
+
+Bictegravir:
+AUC: ↓ 75 %
+Cmáx: ↓ 28 %
+
+Interacción no
+estudiada con tenofovir
+alafenamida.
+La administración
+concomitante de rifam-
+picina puede disminuir
+las concentraciones
+plasmáticas de tenofovir
+alafenamida.
+
+(Inducción de CYP3A,
+UGT1A1 y P-gp)
+
+Rifabutina (300 mg una
+vez al día),
+Bictegravir1
+
+(Inducción de CYP3A
+y P-gp)
+
+Bictegravir:
+AUC: ↓ 38 %
+Cmín: ↓ 56 %
+Cmáx: ↓ 20 %
+
+No se recomienda la adminis-
+tración concomitante debido
+a que se prevé que reduzca
+la concentración de tenofovir
+alafenamida.
+
+Interacción no
+estudiada con tenofovir
+alafenamida.
+La administración
+concomitante de rifa-
+butina puede disminuir
+las concentraciones
+plasmáticas de tenofovir
+alafenamida.
+
+No se recomienda la administra-
+ción concomitante.
+
+Voriconazol (300 mg dos
+veces al día), bictegravir1
+
+No se recomienda la administra-
+ción concomitante.
+
+Rifapentina
+
+(Inducción de CYP3A
+y P-gp)
+
+Interacción no estudiada
+con ninguno de los com-
+ponentes de BIKTARVY®.
+La administración conco-
+mitante de rifapentina
+puede disminuir las con-
+centraciones plasmáticas
+de bictegravir y tenofovir
+alafenamida.
+
+Fármacos antivirales contra el VIH-1
+
+Atazanavir (300 mg una
+vez al día), cobicistat
+(150 mg una vez al día),
+bictegravir 1
+
+Bictegravir:
+AUC: ↑ 306 %
+Cmáx: ↔
+
+(Inhibición de CYP3A,
+UGT1A1 y Pgp/BCRP)
+
+Atazanavir (400 mg una
+vez al día), bictegravir1
+
+(Inhibición de CYP3A y
+UGT1A1)
+
+Bictegravir:
+AUC: ↑ 315 %
+Cmáx: ↔
+
+Fármacos antivirales contra el virus de la hepatitis C
+
+Ledipasvir/sofosbuvir
+(90 mg/400 mg una
+vez al día), bictegravir/
+emtricitabina/tenofovir
+alafenamida2
+
+Bictegravir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+Emtricitabina;
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+
+Ledipasvir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Sofosbuvir:
+AUC: ↔
+Cmáx: ↔
+
+Metabolito de sofosbuvir
+GS-331-007:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+Sofosbuvir/velpa-
+tasvir/voxilaprevir
+(400/100/100
++ 100 mg3 una vez
+al día), bictegravir/
+emtricitabina/tenofovir
+alafenamida
+
+(Inhibición de P-gp/
+BCRP)
+
+Bictegravir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Emtricitabina;
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Tenofovir alafenamida:
+AUC: ↑ 57 %
+Cmáx: ↑ 28 %
+
+Sofosbuvir:
+AUC: ↔
+Cmáx: ↔
+
+Metabolito de sofosbuvir
+GS-331-007:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Velpatasvir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Voxilaprevir:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Antifúngicos
+
+(Inhibición de CYP3A)
+
+Itraconazol
+Posaconazol
+
+(Inhibición de P-gp
+y BCRP)
+
+Macrólidos
+
+Azitromicina
+Claritromicina
+
+(Inhibición de P-gp)
+
+ANTIEPILÉPTICOS
+
+Carbamazepina (ajustada
+desde 100 mg hasta
+300 mg dos veces al día),
+emtricitabina/tenofovir
+alafenamida4
+
+(Inducción de CYP3A,
+UGT1A1 y P-gp)
+
+Oxcarbazepina
+Fenobarbital
+Fenitoína
+
+(Inducción de CYP3A,
+UGT1A1 y P-gp)
+
+Bictegravir:
+AUC: ↑ 61 %
+Cmáx: ↔
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+Interacción no estudiada
+con ninguno de los com-
+ponentes de BIKTARVY®.
+La administración con-
+comitante de itraconazol
+o posaconazol puede
+aumentar las concentra-
+ciones plasmáticas de
+bictegravir.
+
+Interacción no estudiada.
+La administración conco-
+mitante de azitromicina
+o claritromicina puede
+aumentar las concentra-
+ciones plasmáticas de
+bictegravir.
+
+Tenofovir alafenamida:
+AUC: ↓ 54 %
+Cmáx: ↓ 57 %
+
+Interacción no estudiada
+con bictegravir.
+La administración
+concomitante de
+carbamazepina puede
+disminuir las concentra-
+ciones plasmáticas de
+bictegravir.
+
+Interacción no estudiada
+con ninguno de los com-
+ponentes de BIKTARVY®.
+La administración conco-
+mitante de oxcarbazepina,
+fenobarbital o fenitoína
+puede disminuir las con-
+centraciones plasmáticas
+de bictegravir y tenofovir
+alafenamida.
+
+Se recomienda precaución
+debido al posible efecto de estos
+medicamentos sobre bictegravir,
+componente de BIKTARVY®.
+
+No se recomienda la administra-
+ción concomitante.
+
+No se recomienda la administra-
+ción concomitante.
+
+ANTIÁCIDOS, SUPLEMENTOS Y MEDICAMENTOS ESTABILIZADORES DEL pH
+
+Suspensión antiácida
+que contiene magnesio
+y/o aluminio (20 ml dosis
+única5), bictegravir
+
+(Quelación con cationes
+polivalentes)
+
+Fumarato ferroso
+(324 mg dosis única),
+bictegravir
+
+(Quelación con cationes
+polivalentes)
+
+Bictegravir (suspensión
+antiácida 2 horas antes,
+en ayunas):
+AUC: ↓ 52 %
+Cmáx: ↓ 58 %
+
+Bictegravir (suspensión
+antiácida tras 2 horas, en
+ayunas):
+AUC: ↔
+Cmáx: ↔
+
+Bictegravir (adminis-
+tración simultánea, en
+ayunas):
+AUC: ↓ 79 %
+Cmáx: ↓ 80 %
+
+Bictegravir (adminis-
+tración simultánea, con
+alimentos):
+AUC: ↓ 47 %
+Cmáx: ↓ 49 %
+
+Bictegravir (adminis-
+tración simultánea, en
+ayunas):
+AUC: ↓ 63 %
+Cmáx: ↓ 71 %
+
+Bictegravir (adminis-
+tración simultánea, con
+alimentos):
+AUC: ↔
+Cmáx: ↓ 25 %
+
+Para pacientes no embarazadas:
+BIKTARVY® no se debe tomar de
+forma simultánea con antiácidos
+o suplementos que contengan
+magnesio y/o aluminio debido
+a que se prevé que reduzcan la
+exposición a bictegravir.
+
+BIKTARVY® se debe administrar
+al menos 2 horas antes, o admi-
+nistrarse con alimentos 2 horas
+después de la administración
+de antiácidos o suplementos
+que contengan magnesio y/o
+aluminio.
+
+Para pacientes embarazadas:
+BIKTRAVY se debe administrar al
+menos 2 horas antes o 6 horas
+después de tomar antiácidos o
+suplementos que contengan
+aluminio y/o magnesio, con
+independencia de los alimentos.
+
+Para pacientes no embarazadas:
+BIKTARVY® se debe administrar
+al menos 2 horas antes de la
+administración de medicamen-
+tos orales o suplementos que
+contengan hierro, o tomarse
+los dos juntos con alimentos en
+cualquier momento.
+
+Para pacientes embarazadas:
+BIKTARVY® se debe administrar
+al menos 2 horas antes o 6 horas
+después de tomar medica-
+mentos orales o suplementos
+que contengan hierro. De
+forma alternativa, BIKTARVY®
+y los medicamentos orales o
+suplementos que contengan
+hierro se pueden tomar juntos
+con alimentos en cualquier
+momento.
+
+Carbonato de calcio
+(1200 mg dosis única),
+bictegravir
+
+(Quelación con cationes
+polivalentes)
+
+Bictegravir (adminis-
+tración simultánea, en
+ayunas):
+AUC: ↓ 33 %
+Cmáx: ↓ 42 %
+
+Para pacientes no embarazadas:
+BIKTARVY® y los medicamentos
+orales o suplementos que
+contienen calcio se pueden
+tomar juntos, con independencia
+de los alimentos.
+
+Bictegravir (adminis-
+tración simultánea, con
+alimentos):
+AUC: ↔
+Cmáx: ↔
+
+Sucralfato
+
+(Quelación con cationes
+polivalentes)
+
+Interacción no estudiada
+con ninguno de los com-
+ponentes de BIKTARVY®.
+La administración
+concomitante puede
+disminuir las concentra-
+ciones plasmáticas de
+bictegravir.
+
+Para pacientes embarazadas:
+BIKTARVY® se debe administrar
+a menos 2 horas antes o
+6 horas después de tomar
+medicamentos orales o suple-
+mentos que contengan calcio.
+De forma alternativa, BIKTARVY®
+y los medicamentos orales o
+suplementos que contengan
+calcio se pueden tomar juntos
+con alimentos en cualquier
+momento.
+
+No se recomienda la administra-
+ción concomitante.
+
+ANTIDEPRESIVOS
+
+Sertralina (50 mg
+dosis única), tenofovir
+alafenamida6
+
+Tenofovir alafenamida:
+AUC: ↔
+Cmáx: ↔
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+INMUNOSUPRESORES
+
+Ciclosporina (vía
+intravenosa u oral)
+
+(Inhibición de P-gp)
+
+Sertralina:
+AUC: ↔
+Cmáx: ↔
+
+No se espera interacción
+con bictegravir y
+emtricitabina.
+
+Interacción no estudiada
+con ninguno de los com-
+ponentes de BIKTARVY®.
+Se espera que la
+administración concomi-
+tante de ciclosporina (vía
+intravenosa u oral) au-
+mente las concentraciones
+plasmáticas de bictegravir
+y tenofovir alafenamida.
+
+ANTIDIABÉTICOS ORALES
+
+Metformina (500 mg dos
+veces al día), bictegravir/
+emtricitabina/
+tenofovir alafenamida
+
+Metformina:
+AUC: ↑ 39 %
+Cmín: ↑ 36 %
+Cmáx: ↔
+
+(Inhibición de OCT2/
+MATE1)
+
+ANTICONCEPTIVOS ORALES
+
+Norgestimato
+(0,180/0,215/0,
+250 mg una vez al día)/
+etinilestradiol (0,025 mg
+una vez al día)/
+bictegravir1
+
+Norgestimato
+(0,180/0,215/0,
+250 mg una vez al día)/
+etinilestradiol (0,025 mg
+una vez al día)/
+emtricitabina/tenofovir
+alafenamida4
+
+Norelgestromina:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Norgestrel:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+Etinilestradiol:
+AUC: ↔
+Cmín: ↔
+Cmáx: ↔
+
+SEDANTES/HIPNÓTICOS
+
+Midazolam (2 mg jarabe
+oral, dosis única), bicte-
+gravir/emtricitabina/
+tenofovir alafenamida
+
+Midazolam:
+AUC: ↔
+Cmáx: ↔
+
+No se recomienda la administra-
+ción concomitante de ciclospo-
+rina (vía intravenosa u oral). Si
+se necesita la combinación, se
+recomienda un control clínico y
+biológico, especialmente de la
+función renal.
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante en pacientes con
+función renal normal.
+
+En pacientes con insuficiencia re-
+nal moderada, se debe conside-
+rar una monitorización estrecha
+al comienzo de la administración
+concomitante de bictegravir con
+metformina, debido al mayor
+riesgo de acidosis láctica en estos
+pacientes. Si es necesario, se
+debe considerar un ajuste de la
+dosis de metformina.
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+No es necesario ajustar la dosis
+cuando se administran de forma
+concomitante.
+
+1  Este estudio se realizó utilizando bictegravir 75 mg en dosis única.
+2  Este estudio se realizó utilizando bictegravir/emtricitabina/tenofovir alafe-
+
+namida 75/200/25 mg una vez al día.
+
+3  Estudio  realizado  con  100  mg  de  voxilaprevir  adicionales  para  lograr  las
+exposiciones a voxilaprevir esperadas en pacientes infectados por VHC.
+
+4  Este  estudio  se  realizó  utilizando  emtricitabina/tenofovir  alafenamida
+
+200/25 mg una vez al día.
+
+5  El antiácido de máxima potencia contenía 80 mg de hidróxido de aluminio,
+
+80 mg de hidróxido de magnesio y 8 mg de simeticona por ml.
+
+6  Este estudio se realizó utilizando elvitegravir/cobicistat/emtricitabina/teno-
+
+fovir alafenamida 150/150/200/10 mg una vez al día.
+
+Estudios realizados con otros medicamentos
+De acuerdo a los estudios de interacciones medicamentosas realizados
+con BIKTARVY® o con los componentes de BIKTARVY®, no se esperan in-
+teracciones clínicamente significativas con: amlodipina, atorvastatina,
+buprenorfina, drospirenona, famciclovir, famotidina, fluticasona, meta-
+dona, naloxona, norbuprenorfina, omeprazol o rosuvastatina.
+
+TOXICOLOGÍA PRECLÍNICA
+
+Bictegravir no fue mutagénico ni clastogénico en los ensayos convencio-
+nales de genotoxicidad.
+Bictegravir no fue carcinogénico en un estudio de 6 meses en ratones
+transgénicos rasH2 (en dosis de hasta 100 mg/kg/día en machos y 300
+mg/kg/día en hembras, lo que dio como resultado exposiciones aproxi-
+madamente 15 y 23 veces mayores en machos y hembras, respectiva-
+mente, que la exposición en seres humanos en la dosis recomendada
+para estos), ni en un estudio de 2 años en ratas (en dosis de hasta 300
+mg/kg/día, lo que resultó en exposiciones de aproximadamente 31 veces
+la exposición en humanos).
+Los estudios de bictegravir en monos revelaron que el hígado es el prin-
+cipal órgano diana afectado por la toxicidad. La toxicidad hepatobiliar se
+describió en un estudio de 39 semanas con una dosis de 1.000 mg/kg/
+día, que dio lugar a exposiciones de aproximadamente 16 veces la expo-
+sición en humanos a la dosis recomendada en humanos, y fue parcial-
+mente reversible después de un período de recuperación de 4 semanas.
+Los estudios en animales con bictegravir no han mostrado indicios de
+teratogenicidad ni un efecto sobre la función reproductiva. En descen-
+dientes de ratas y conejas tratadas con bictegravir durante el embarazo,
+no  hubo  efectos  toxicológicamente  significativos  en  los  criterios  de
+evaluación del desarrollo.
+Los  datos  de  los  estudios  preclínicos  de  emtricitabina  no  muestran
+riesgos especiales para los seres humanos según los estudios conven-
+cionales  de  farmacología  de  seguridad,  toxicidad  a  dosis  repetidas,
+genotoxicidad, potencial carcinogénico, toxicidad para la reproducción
+y el desarrollo. Emtricitabina ha demostrado un potencial carcinogénico
+bajo en ratones y ratas.
+Los estudios preclínicos de tenofovir alafenamida en ratas y perros mos-
+traron que los huesos y el riñón son los principales órganos afectados
+por  la  toxicidad.  La  toxicidad  ósea  se  observó  en  forma  de  reducción
+de  la  densidad  mineral  ósea  en  ratas  y  perros  a  unas  exposiciones  a
+tenofovir al menos 43 veces superiores a las esperadas después de la
+administración de B/F/TAF. Hubo una mínima infiltración de histiocitos
+presente en el ojo de perros con exposiciones a tenofovir alafenamida y
+tenofovir aproximadamente 14 y 43 veces superiores, respectivamente,
+a las esperadas después de la administración de B/F/TAF.
+
+Tenofovir alafenamida no fue mutagénico ni clastogénico en los
+ensayos convencionales de genotoxicidad.
+Dado  que  existe  una  menor  exposición  a  tenofovir  en  ratas  y  ratones
+después de la administración de tenofovir alafenamida en comparación
+con tenofovir disoproxilo, los estudios de carcinogenicidad y un estudio
+peri postnatal en ratas se realizaron solamente con tenofovir disoproxilo.
+Los estudios convencionales de potencial carcinogénico y toxicidad para
+la  reproducción  y  el  desarrollo  no  mostraron  riesgos  especiales  para
+los seres humanos. Los estudios de toxicidad para la reproducción en
+ratas y conejos no mostraron ningún efecto en los parámetros de apa-
+reamiento, fertilidad, embarazo y fetales. No obstante, tenofovir diso-
+proxilo redujo el índice de viabilidad y peso de las crías en un estudio
+peri postnatal de toxicidad a dosis tóxicas para la madre.
+
+USO EN POBLACIONES ESPECÍFICAS
+
+Embarazo
+Existe un elevado número de datos en mujeres embarazadas (datos en
+más de 1.000 embarazos expuestos) que indican que emtricitabina o
+tenofovir alafenamida no producen malformaciones ni toxicidad fetal/
+neonatal.  Existen  algunos  datos  en  mujeres  embarazadas  (datos  en
+entre  300-1  000  embarazos)  que  indican  que  bictegravir  no  produce
+malformaciones ni toxicidad fetal/neonatal.
+
+Registros de embarazos con antirretrovirales:
+A fin de monitorear los resultados fetales de las mujeres embarazadas
+expuestas  a  BIKTARVY®,  se  ha  establecido  un  registro  de  embarazos
+con antirretrovirales (Antiretroviral Pregnancy Registry, APR). Se reco-
+mienda a los médicos que registren a las pacientes en el sitio web: www.
+apregistry.com, o que lo comuniquen llamando al +54 11 4858 9000
+(extensión 229) o enviando un correo electrónico a farmacovigilancia@
+gador.com.
+
+Los estudios en animales no sugieren efectos perjudiciales directos ni
+indirectos  de  emtricitabina  en  términos  de  parámetros  de  fertilidad,
+embarazo, desarrollo fetal, parto o desarrollo postnatal. Los estudios de
+bictegravir y tenofovir alafenamida, administrados de forma separada,
+en animales no han mostrado evidencia de efectos perjudiciales en los
+parámetros de fertilidad, embarazo o desarrollo fetal.
+En  un  estudio  realizado  en  mujeres  embarazadas  que  recibieron
+BIKTARVY®, las exposiciones a bictegravir, emtricitabina y tenofovir ala-
+fenamida fueron menores durante el embarazo (ver sección 5.2).
+Por lo tanto, BIKTARVY® se puede usar durante el embarazo si el bene-
+ficio potencial justifica el riesgo potencial para el feto. Además, se debe
+realizar aún más un seguimiento estrecho de la carga viral de acuerdo
+con las guías de tratamiento establecidas.
+
+Lactancia
+Se  desconoce  si  bictegravir  o  tenofovir  alafenamida  se  excretan  en  la
+leche materna. Emtricitabina se excreta en la leche materna. En estudios
+en animales, bictegravir se detectó en el plasma de crías de rata lactan-
+tes probablemente debido a la presencia de bictegravir en la leche, sin
+efectos en las crías lactantes. En estudios en animales se ha observado
+que tenofovir se excreta en la leche.
+No hay datos suficientes sobre los efectos de todos los componentes de
+BIKTARVY® en recién nacidos/lactantes, por lo tanto, BIKTARVY® no se
+debe utilizar durante la lactancia.
+Para evitar la transmisión del VIH al lactante, se recomienda que las mu-
+jeres que conviven con el VIH no den el pecho a sus hijos.
+
+Fertilidad
+No  hay  datos  en  humanos  disponibles  sobre  el  efecto  de  BIKTARVY®
+en la fertilidad. Los estudios en animales indican que no hay efectos de
+bictegravir, emtricitabina o tenofovir alafenamida en el apareamiento
+ni en la fertilidad.
+
+Uso pediátrico
+No se ha establecido todavía la seguridad y eficacia de BIKTARVY® en
+niños menores de 6 años de edad o con un peso menor de 25 kg.
+
+Uso geriátrico
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes ≥ 65
+años de edad.
+
+Insuficiencia renal
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes con un
+peso ≥ 35 kg con un aclaramiento de creatinina estimado (CrCl) ≥ 30
+ml/min.
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes adultos
+con enfermedad renal terminal (aclaramiento de creatinina estimado <
+15 ml/minuto) que están recibiendo hemodiálisis crónica. Sin embargo,
+en general se debe evitar BIKTARVY® y solo se debe utilizar en estos pa-
+cientes si se considera que los posibles beneficios superan a los posibles
+riesgos.  En  los  días  de  hemodiálisis,  BIKTARVY®  se  debe  administrar
+una vez finalizado el tratamiento de hemodiálisis.
+Se debe evitar el inicio del tratamiento con BIKTARVY® en pacientes con
+un aclaramiento de creatinina estimado ≥ 15 ml/min y < 30 ml/min, o <
+15 ml/min que no estén recibiendo hemodiálisis crónica, ya que no se ha
+establecido la seguridad de BIKTARVY® en estas poblaciones.
+No  se  dispone  de  datos  para  hacer  recomendaciones  posológicas  en
+pacientes con un peso < 35 kg con insuficiencia renal ni en pacientes
+pediátricos menores de 18 años con enfermedad renal terminal.
+
+Insuficiencia hepática
+No se requiere un ajuste de la dosis de BIKTARVY® en pacientes con in-
+suficiencia hepática leve (clase A de Child Pugh) o moderada (clase B de
+Child Pugh). No se ha estudiado BIKTARVY® en pacientes con insuficien-
+cia hepática grave (clase C de Child Pugh); por tanto, no se recomienda el
+uso de BIKTARVY® en pacientes con insuficiencia hepática grave.
+
+ESTUDIOS CLÍNICOS
+
+La  eficacia  y  la  seguridad  de  BIKTARVY®  en  adultos  infectados  por  el
+VIH-1 que no habían recibido tratamiento previo se basan en datos de
+48 semanas y 144 semanas de dos estudios aleatorizados, doble ciego
+y con control activo, GS-US-380-1489 (n = 629) y GS-US-380-1490 (n =
+645). Además, hay datos adicionales de eficacia y seguridad disponibles
+de adultos que recibieron BIKTARVY® en la fase abierta durante 96 se-
+manas adicionales después de la semana 144 en una fase de extensión
+opcional de estos estudios (n = 1.025).
+La eficacia y la seguridad de BIKTARVY® en adultos infectados por el VIH-
+1 virológicamente suprimidos se basan en datos de 48 semanas de un
+estudio aleatorizado, doble ciego y con control activo, GS-US-380-1844
+(n = 563); en un estudio aleatorizado, abierto y con control activo, GS-
+US-380-1878 (n = 577), y en un estudio aleatorizado, doble ciego y con
+control activo, GS-US-380-4030 (n = 284, de los cuales 47 presentaban
+la mutación M184V/I asociada a la resistencia de FTC en el VIH al inicio
+del estudio).
+
+Pacientes  infectados  por  el  VIH-1  que  no  habían  recibido  trata-
+miento previo
+En el estudio GS-US-380-1489 los pacientes se aleatorizaron en una pro-
+porción 1:1 para recibir bictegravir/emtricitabina/tenofovir alafenamida
+(B/F/TAF)  (n  =  314)  o  abacavir/dolutegravir/lamivudina  (600/50/300
+mg) (n = 315) una vez al día. En el estudio GS-US-380-1490 los pacien-
+tes se asignaron al azar en una proporción 1:1 para recibir B/F/TAF (n =
+320) o dolutegravir + emtricitabina/tenofovir alafenamida (50+200/25
+mg) (n = 325) una vez al día.
+En los estudios GS-US-380-1489 y GS-US-380-1490 la edad media fue
+de 35 años (intervalo 18 77), el 89 % eran hombres, el 58 % eran blan-
+cos, el 33 % eran negros y el 3 % eran asiáticos. El veinticuatro por ciento
+(24 %) de los pacientes se identificó como hispano/latino. La prevalencia
+de los diferentes subtipos fue comparable en los tres grupos de trata-
+miento, siendo el subtipo B predominante en ambos grupos; el 11 %
+fueron subtipos no B. La media del ARN basal del VIH-1 en plasma fue de
+4,4 log10 copias/ml (intervalo 1,3 6,6). La media de los recuentos basa-
+les de células CD4+ fue de 460 células/mm3 (intervalo 0 1636) y el 11
+% tuvo recuentos basales de células CD4+ inferior a 200 células/mm3.
+El 18 % de los pacientes tenía una carga viral basal superior a 100.000
+copias/ml. En ambos estudios, los pacientes se estratificaron en función
+del ARN del VIH-1 basal (menor o igual a 100.000 copias/ml, mayor de
+100.000 copias/ml; o menor o igual de 400.000 copias/ml o mayor de
+400.000 copias/ml), por recuento de células CD4+ (menor de 50 célu-
+las/μl, 50 199 células/μl, o mayor o igual a 200 células/μl), y por región
+(EE. UU. o fuera de EE. UU.).
+Los resultados del tratamiento de los estudios GS-US-380-1489 y GS-
+US-380-1490 en las semanas 48 y 144 se presentan en la Tabla 4.
+
+Tabla 4: Resultados virológicos combinados de los estudios GS-US
+380-1489 y GS-US-380-1490 en las semanas 48a y 144b
+
+Semana 48
+
+Semana 144
+
+B/F/TAF
+(n = 634)c
+
+ABC/DTG/
+3TC
+(n = 315)d
+
+DTG +
+F/TAF
+(n = 325)e
+
+B/F/TAF
+(n = 634)c
+
+ABC/DTG/
+3TC
+(n = 315)d
+
+DTG +
+F/TAF
+(n = 325)e
+
+ARN del VIH-1
+< 50 copias/ml
+
+Diferencia entre
+tratamientos
+(IC del 95 %)
+B/F/TAF frente a
+comparador
+
+ARN del VIH-1
+≥ 50 copias/mlf
+
+Ausencia de da-
+tos virológicos
+en la ventana
+de la semana 48
+o 144
+
+Abandonaron la
+medicación del
+estudio debido a
+AA o muerteg
+
+Abandonaron la
+medicación del
+estudio debido
+a otros motivos
+y último ARN del
+VIH-1 disponible
+< 50 copias/mlh
+
+Datos ausentes
+(missing data)
+durante la
+ventana pero en
+tratamiento con
+la medicación
+del estudio
+
+Porcentaje (%)
+de pacientes con
+ARN del VIH-1
+< 50 copias/ml
+por subgrupo
+
+Por carga viral
+basal
+≤ 100.000 co-
+pias/ml
+> 100.000 co-
+pias/ml
+
+Por recuento
+basal de células
+CD4+
+< 200 células/
+mm3
+≥ 200 células/
+mm3
+
+91 %
+
+93 %
+
+93 %
+
+82 %
+
+84 %
+
+84 %
+
+-
+
+-2,1 %
+(-5,9 % a
+1,6 %)
+
+-1,9 %
+(-5,6 % a
+1,8 %)
+
+-
+
+-2,7 %
+(-7,8 % a
+2,4 %)
+
+-1,9 %
+(-7,0 % a
+3,1 %)
+
+3 %
+
+3 %
+
+1 %
+
+3 %
+
+3 %
+
+3 %
+
+6 %
+
+4 %
+
+6 %
+
+16 %
+
+13 %
+
+13 %
+
+< 1 %
+
+1 %
+
+1 %
+
+2 %
+
+2 %
+
+3 %
+
+4 %
+
+3 %
+
+4 %
+
+13 %
+
+11 %
+
+9 %
+
+2 %
+
+< 1 %
+
+1 %
+
+1 %
+
+< 1 %
+
+1 %
+
+92 %
+87 %
+
+94 %
+90 %
+
+93 %
+94 %
+
+82 %
+79 %
+
+86 %
+74 %
+
+84 %
+83 %
+
+90 %
+91 %
+
+81 %
+94 %
+
+100 %
+92 %
+
+80 %
+82 %
+
+69 %
+86 %
+
+91 %
+83 %
+
+Semana 48
+
+Semana 144
+
+B/F/TAF
+(n = 634)c
+
+ABC/DTG/
+3TC
+(n = 315)d
+
+DTG +
+F/TAF
+(n = 325)e
+
+B/F/TAF
+(n = 634)c
+
+ABC/DTG/
+3TC
+(n = 315)d
+
+DTG +
+F/TAF
+(n = 325)e
+
+Los resultados del tratamiento de los estudios GS-US-380-1844 y GS-
+US-380-1878 en la semana 48 se presentan en la Tabla 5.
+
+Tabla 5: Resultados virológicos de los estudios GS US-380-1844 y
+GS-US-380-1878 en la semana 48a
+
+ARN del VIH-1
+< 20 copias/ml
+
+85 %
+
+87 %
+
+87 %
+
+78 %
+
+82 %
+
+79 %
+
+ABC = abacavir  DTG = dolutegravir
+3TC = lamivudina  F/TAF = emtricitabina/tenofovir alafenamida
+a  La ventana de la semana 48 fue entre los días 295 y 378 (ambos inclusive).
+b  La ventana de la semana 144 fue entre los días 967 y 1.050 (ambos inclusive).
+c  Combinado  del  estudio  GS-US-380-1489  (n  =  314)  y  el  estudio  GS-
+
+US-380-1490 (n = 320).
+d  Estudio GS-US-380-1489.
+e  Estudio GS-US-380-1490.
+f
+
+Incluye a pacientes que tenían ≥ 50 copias/ml en la ventana de la semana
+48 o 144, pacientes que abandonaron precozmente debido a ausencia o
+pérdida de la eficacia (n=0), pacientes que abandonaron por motivos dis-
+tintos de un acontecimiento adverso (AA), muerte o ausencia o pérdida de la
+eficacia (B/F/TAF n=12 y 15; ABC/DTG/3TC n=2 y 7; DTG+F/TAF n=3 y 6, en
+las semanas 48 y 144, respectivamente) y que en el momento del abandono
+tenían un valor viral ≥ 50 copias/ml.
+
+g  Incluye a pacientes que abandonaron debido a un AA o muerte en cualquier
+momento desde el día 1 hasta la ventana temporal, si esto dio lugar a una au-
+sencia de datos virológicos del tratamiento durante la ventana especificada.
+h  Incluye a pacientes que abandonaron por motivos distintos de un AA, muer-
+te o ausencia o pérdida de la eficacia, p. ej., que retiraron el consentimiento,
+se perdieron para el seguimiento, etc.
+
+B/F/TAF fue no inferior en lograr < 50 copias/ml del ARN del VIH-1 en las
+semanas 48 y 144 en comparación con abacavir/dolutegravir/lamivudina
+y  con  dolutegravir  +  emtricitabina/tenofovir  alafenamida,  respectiva-
+mente. Los resultados del tratamiento entre los grupos de tratamiento
+fueron similares en todos los subgrupos por edad, sexo, raza, carga viral
+basal, recuento basal de células CD4+ y región.
+En los estudios GS-US-380-1489 y GS-US-380-1490 las medias del au-
+mento en el recuento de células CD4+ desde el momento basal hasta
+la semana 144 fueron de 288, 317 y 289 células/mm3 en los grupos de
+B/F/TAF combinado, abacavir/dolutegravir/lamivudina, y dolutegravir +
+emtricitabina/tenofovir alafenamida, respectivamente.
+En la fase de extensión abierta de 96 semanas opcional de los estudios
+GS-US-380-1489 y GS-US-380-1490, se alcanzaron y mantuvieron tasas
+altas de supresión virológica.
+
+Pacientes infectados por el VIH-1 virológicamente suprimidos
+En el estudio GS-US-380-1844 se evaluaron la eficacia y la seguridad
+del cambio de una pauta de dolutegravir + abacavir/lamivudina o de
+abacavir/dolutegravir/lamivudina a B/F/TAF en un estudio aleatorizado
+y doble ciego en adultos infectados por el VIH-1 virológicamente supri-
+midos (ARN del VIH-1 < 50 copias/ml) (n = 563). Los pacientes debían
+haber estado suprimidos de forma estable con su pauta inicial (ARN del
+VIH-1 < 50 copias/ml) durante al menos 3 meses antes del ingreso en el
+estudio. Los pacientes se aleatorizaron en una proporción 1:1 para cam-
+biar a B/F/TAF en el momento inicial del estudio (n = 282), o mantenerse
+con su pauta antirretroviral inicial (n = 281). Los pacientes tenían una
+media de edad de 45 años (intervalo 20 71), el 89 % eran hombres, el
+73 % eran blancos y el 22 % eran negros. El diecisiete por ciento (17 %)
+de los pacientes se identificó como hispano/latino. La prevalencia de los
+diferentes subtipos del VIH-1 fue comparable entre los grupos de tra-
+tamiento, siendo el subtipo B predominante en ambos grupos; el 5 %
+fueron subtipos no B. La media del recuento basal de células CD4+ fue
+de 723 células/mm3 (intervalo 124 24442.444).
+En el estudio GS-US-380-1878 se evaluaron la eficacia y la seguridad del
+cambio  de  abacavir/lamivudina  o  emtricitabina/tenofovir  disoproxilo
+fumarato  (200/300  mg)  más  atazanavir  o  darunavir  (potenciado  con
+cobicistat o ritonavir) a B/F/TAF en un estudio aleatorizado y abierto de
+adultos  infectados  por  VIH-1  virológicamente  suprimidos  (n  =  577).
+Los pacientes debían haber estado suprimidos de forma estable con su
+pauta inicial durante al menos 6 meses y no se podían haber tratado
+previamente con ningún INI. Los pacientes se aleatorizaron en una pro-
+porción 1:1 para cambiar a B/F/TAF (n = 290) o mantenerse con su pauta
+antirretroviral inicial (n = 287). Los pacientes tenían una media de edad
+de 46 años (intervalo 20 79), el 83 % eran hombres, el 66 % eran blancos
+y el 26 % eran negros. El diecinueve por ciento (19 %) de los pacientes se
+identificó como hispano/latino. La media del recuento basal de células
+CD4+ fue de 663 células/mm3 (intervalo 62 2582). La prevalencia de los
+diferentes subtipos fue comparable en todos los grupos de tratamiento,
+siendo  el  subtipo  B  predominante  en  ambos  grupos;  el  11  %  fueron
+subtipos no B. Los pacientes se estratificaron en función de la pauta de
+tratamiento previa. En la selección, el 15 % de los pacientes estaban en
+tratamiento con abacavir/lamivudina más atazanavir o darunavir (poten-
+ciado con cobicistat o ritonavir) y el 85 % de los pacientes estaban en
+tratamiento con emtricitabina/tenofovir disoproxilo fumarato más ata-
+zanavir o darunavir (potenciado con cobicistat o con ritonavir).
+
+Estudio
+GS-US-380-1844
+
+Estudio
+GS-US-380-1878
+
+B/F/TAF
+(n = 282)
+
+ABC/DT-
+G/3TC
+(n = 281)
+
+B/F/TAF
+(n = 290)
+
+Pauta basal
+basada en
+ATV-o DRV
+(n = 287)
+
+94 %
+
+95 %
+
+92 %
+
+89 %
+
+-1,4 % (-5,5 % a 2,6 %)
+
+3,2 % (-1,6 % a 8,2 %)
+
+1 %
+
+<1 %
+
+2 %
+
+2 %
+
+0,7 % (-1,0 % a 2,8 %)
+
+0,0 % (-2,5 % a 2,5 %)
+
+5 %
+
+5 %
+
+6 %
+
+9 %
+
+2 %
+
+1 %
+
+1 %
+
+1 %
+
+2 %
+
+3 %
+
+3 %
+
+7 %
+
+2 %
+
+1 %
+
+2 %
+
+2 %
+
+ARN del VIH-1 < 50
+copias/ml
+
+Diferencia entre trata-
+mientos (IC del 95 %)
+
+ARN del VIH-1 ≥ 50
+copias/mlb
+
+Diferencia entre trata-
+mientos (IC del 95 %)
+
+Ausencia de datos
+virológicos en la ven-
+tana de la semana 48
+
+Abandonaron la medica-
+ción del estudio debido
+a AA o muerte y último
+ARN del VIH-1 disponible
+< 50 copias/ml
+
+Abandonaron la medica-
+ción del estudio debido
+a otros motivos y último
+ARN del VIH-1 disponible
+< 50 copias/mlc
+
+Datos ausentes (missing
+data) durante la ventana
+pero en tratamiento
+con la medicación
+del estudio
+
+  ABC = abacavir  ATV = atazanavir  DRV = darunavir  DTG = dolutegravir
+
+3TC = lamivudina
+
+a  La ventana de la semana 48 fue entre los días 295 y 378 (ambos inclusive).
+b  Incluye a pacientes que tenían ≥ 50 copias/ml en la ventana de la semana
+48; pacientes que abandonaron precozmente debido a ausencia o pérdida
+de la eficacia, pacientes que abandonaron por motivos distintos de la au-
+sencia o pérdida de la eficacia y que en el momento del abandono tenían un
+valor viral ≥ 50 copias/ml.
+Incluye a pacientes que abandonaron por motivos distintos de un AA, muerte
+o ausencia o pérdida de la eficacia, p. ej., que retiraron el consentimiento, se
+perdieron para el seguimiento, etc.
+
+c
+
+B/F/TAF  fue  no  inferior  a  la  pauta  de  control  en  ambos  estudios.  Los
+resultados en los grupos de tratamiento fueron similares en todos los
+subgrupos por edad, sexo, raza y región.
+En el estudio GS-US-380-1844 la media del cambio en el recuento de
+células CD4+ desde el momento basal hasta la semana 48 fue de -31
+células/mm3 en los pacientes que cambiaron a B/F/TAF y de 4 células/
+mm3  en  los  pacientes  que  permanecieron  con  abacavir/dolutegravir/
+lamivudina. En el estudio GS-US-380-1878 la media del cambio en el
+recuento de células CD4+ desde el momento basal hasta la semana 48
+fue de 25 células/mm3 en los pacientes que cambiaron a B/F/TAF y de 0
+células/mm3 en los pacientes que permanecieron con su pauta basal.
+En el estudio GS-US-380-4030 se evaluaron la eficacia y la seguridad
+del  cambio  de  una  pauta  de  dolutegravir  +  emtricitabina/tenofovir
+alafenamida o emitricitabina/tenofovir disoproxilo fumarato a B/F/TAF
+en un estudio aleatorizado y doble ciego en adultos infectados por el
+VIH-1 virológicamente suprimidos. Los pacientes debían haber estado
+suprimidos de forma estable con su pauta inicial (ARN del VIH-1 < 50
+copias/ml) durante al menos 6 meses (si se documentó o se sospechó
+resistencia a los ITIAN) o 3 meses (si no se documentó o se sospechó
+resistencia a los ITIAN) antes del ingreso en el estudio. Los pacientes
+se aleatorizaron para cambiar a B/F/TAF (n = 284) o mantenerse con su
+pauta de tratamiento inicial, dolutegravir + emtricitabina/tenofovir ala-
+fenamida (n = 281). El criterio de valoración primario fue el porcentaje
+de pacientes con ARN del VIH-1 > 50 copias/ml en la semana 48. En la
+semana 48, el porcentaje de pacientes con ARN del VIH-1 ≥ 50 copias/
+ml fue del 0,4 % (1/284) en el grupo B/F/TAF y del 1,1 % (3/281) en el
+grupo  dolutegravir  +  emtricitabina/tenofovir  alafenamida  (diferencia
+-0,7 % [IC del 95 %: -2,8 %, 1,0 %]).
+De los pacientes que recibieron B/F/TAF, 47 tenían VIH-1 con sustitucio-
+nes de resistencia preexistentes M184V o M184I (M184M/V, M184M/I,
+M184V/I, M184V) en la TI del VIH-1. El 89 % (42/47) de los sujetos con
+M184V  o  M184I  permanecieron  suprimidos  (ARN  del  VIH-1  <  50  co-
+pias/ml) y el 11 % (5/47 sujetos) tenían ausencia de datos virológicos
+
+en la ventana de la semana 48 debido a la descontinuación del fármaco
+del estudio
+
+Tabla 6: Tabla de reacciones adversas1
+
+Frecuencia
+
+Reacción adversa
+
+Pacientes coinfectados por el VIH y VHB
+Hay pocos pacientes coinfectados por VIH y VHB tratados con B/F/TAF.
+En el estudio GS-US-380-1490, se aleatorizaron 8 pacientes con coin-
+fección  por  VIH/VHB  en  el  momento  basal  para  recibir  B/F/TAF.  En  la
+semana 48, 7 pacientes tenían supresión del VHB (ADN del VHB <29
+UI/ml) y tuvieron ARN del VIH-1 < 50 copias/ml. Faltan los datos de ADN
+del VHB de 1 paciente en la semana 48. En la semana 144, 5 pacien-
+tes tenían supresión del VHB y tuvieron ARN del VIH-1 <50 copias/ml.
+Faltan los datos del ADN del VHB de 3 pacientes en la semana 144 (1
+se perdió para el seguimiento desde la semana 48, 1 se perdió para el
+seguimiento después de la semana 72, y 1 se perdió para el seguimiento
+después de la semana 120).
+En el estudio GS-US-380-1878 el 100 % (8/8) de los pacientes coinfec-
+tados por VIH/VHB en el momento basal del estudio en el grupo de B/F/
+TAF mantuvieron el ADN del VHB < 29 UI/ml (ausentes = excluidos del
+análisis) y el ARN del VIH < 50 copias/ml en la semana 48.
+
+Embarazo
+En el estudio GS-US-380-5310 se evaluaron la farmacocinética, eficacia
+y seguridad de B/F/TAF una vez al día en un estudio clínico abierto de
+mujeres  adultas  embarazadas  con  VIH-1  virológicamente  suprimidas
+desde el segundo o tercer trimestre hasta después del parto (n = 33).
+Las 32 participantes adultas que completaron el estudio mantuvieron
+todas ellas la supresión virológica durante el embarazo, el parto y hasta
+la  semana  18  posparto.  La  mediana  (Q1,  Q3)  del  recuento  de  células
+CD4+ en el momento basal del estudio fue de 558 (409, 720) células/
+μl, y la mediana (Q1, Q3) del cambio en el recuento de células CD4+
+desde el inicio hasta la semana 12 posparto fue de 159 (27, 296) células/
+μl. Todos los 29 participantes neonatos tuvieron un resultado negativo/
+indetectable en la PCR para VIH-1 en el momento del nacimiento y/o a
+las 4 a 8 semanas de edad.
+
+Población pediátrica
+En el estudio GS-US-380-1474 se evaluaron la farmacocinética, segu-
+ridad y eficacia de B/F/TAF en niños y adolescentes con VIH virológica-
+mente suprimidos de 12 a < 18 años de edad (≥ 35 kg) (n = 50) y de 6 a
+< 12 años de edad (≥ 25 kg) (n = 50).
+Cohorte 1: adolescentes virológicamente suprimidos (n = 50; 12 a <
+18 años; ≥ 35 kg).
+Los pacientes de la cohorte 1 tenían una media de edad de 14 años (ran-
+go: 12 a 17) y un peso basal medio de 51,7 kg (rango: 35 a 123), el 64 %
+eran niñas, el 27 % asiáticos y el 65 % negros.
+Basalmente, la mediana del recuento de células CD4+ fue de 750 cé-
+lulas/mm3 (rango: 337 a 1.207) y la mediana de CD4+% fue del 33 %
+(rango: 19 % a 45 %).
+Después de cambiar a B/F/TAF, el 98 % (49/50) de los pacientes de la
+cohorte 1 permanecieron suprimidos (ARN del VIH-1 < 50 copias/ml) en
+la semana 48. La media del cambio del recuento de células CD4+ en la
+semana 48 con respecto al momento basal fue de -22 células/mm3. Dos
+de los 50 pacientes cumplieron los criterios de inclusión en la población
+de análisis de resistencia hasta la semana 48. No se detectó resistencia
+emergente a B/F/TAF hasta la semana 48.
+Cohorte 2: niños virológicamente suprimidos (n = 50; 6 a < 12 años;
+≥ 25 kg).
+Los pacientes de la cohorte 2 tenían una media de edad de 10 años (ran-
+go: 6 a 11) y un peso basal medio de 31,9 kg (rango: 25 a 69), el 54 %
+eran niñas, el 22 % asiáticos y el 72 % negros. Basalmente, la mediana
+del recuento de células CD4+ fue de 898 células/mm3 (rango: 390 a
+1.991) y la mediana de CD4+% fue del 37 % (rango: 19 % a 53 %).
+Después de cambiar a B/F/TAF, el 98 % (49/50) de los pacientes de la
+cohorte 2 permanecieron suprimidos (ARN del VIH-1 < 50 copias/ml)
+en la semana 48. La media del cambio del recuento de células CD4+ en
+la semana 48 con respecto al momento basal fue de -40 células/mm3.
+Ninguno de los pacientes cumplió los criterios de inclusión en el análisis
+de resistencia hasta la semana 48.
+
+REACCIONES ADVERSAS
+
+Resumen del perfil de seguridad
+En estudios clínicos de pacientes que no habían recibido tratamiento
+previo tratados con BIKTARVY®, las reacciones adversas notificadas con
+más frecuencia en la fase de doble ciego (semana 144) fueron cefalea
+(5 %), diarrea (5 %) y náuseas (4 %).
+
+Tabla de reacciones adversas
+La evaluación de las reacciones adversas se basa en datos de seguridad
+de todos los estudios de fase II y III realizados con BIKTARVY® y en la
+experiencia poscomercialización. Las reacciones adversas de la Tabla 6
+se muestran según el sistema de clasificación de órganos y por orden de
+frecuencia. Las frecuencias se definen como sigue: frecuentes (≥ 1/100
+a < 1/10), poco frecuentes (≥ 1/1.000 a < 1/100) y raras (≥1/10 000
+a <1/1 000).
+
+Trastornos de la sangre y del sistema linfático
+Poco frecuentes:
+Trastornos psiquiátricos
+Frecuentes:
+
+anemia2
+
+Poco frecuentes:
+
+depresión, sueños anormales
+ideación suicida, intento de suicidio (particularmente en
+pacientes con antecedentes de depresión o enfermedad
+psiquiátrica preexistentes), ansiedad, trastornos del sueño
+
+diarrea, náuseas
+vómitos, dolor abdominal, dispepsia, flatulencia
+
+cefalea, mareo
+
+Trastornos del sistema nervioso
+Frecuentes:
+Trastornos gastrointestinales
+Frecuentes:
+Poco frecuentes:
+Trastornos hepatobiliares
+Poco frecuentes:
+hiperbilirrubinemia
+Trastornos de la piel y del tejido subcutáneo
+angioedema3,4, erupción, prurito, urticaria4
+Poco frecuentes:
+síndrome de Stevens-Johnson5
+Raras:
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuentes:
+artralgia
+Trastornos generales y alteraciones en el lugar de administración
+Frecuentes:
+
+fatiga
+
+1  Con  la  excepción  de  angioedema,  anemia,  urticaria  y  síndrome  de  Ste-
+vens-Johnson (ver notas 2-5), todas las reacciones adversas se identificaron
+a partir de estudios clínicos de BIKTARVY®. Las frecuencias se derivaron de
+la fase de doble ciego (semana 144) de los estudios clínicos de fase III de
+BIKTARVY®  en  pacientes  que  no  habían  recibido  tratamiento  previo  (GS-
+US-380-1489 y GS-US-380-1490).
+
+2  Esta reacción adversa no se observó en los estudios clínicos de medicamen-
+tos que contienen emtricitabina + tenofovir alafenamida, pero se identificó
+a partir de estudios clínicos o experiencia poscomercialización de emtricita-
+bina, cuando se utilizó con otros antirretrovirales.
+
+3  Esta reacción adversa se identificó mediante la vigilancia poscomercializa-
+
+ción de medicamentos que contenían emtricitabina.
+
+4  Esta reacción adversa se identificó mediante la vigilancia poscomercialización
+
+de medicamentos que contenían tenofovir alafenamida.
+
+5  Esta reacción adversa se identificó mediante la vigilancia poscomercializa-
+ción de BIKTARVY®. La frecuencia se ha calculado utilizando 3/X, donde X
+representa  el  número  acumulado  de  sujetos  expuestos  a  BIKTARVY®  en
+ensayos clínicos (N = 3963).
+
+Descripción de las reacciones adversas seleccionadas
+Parámetros metabólicos
+El peso y los niveles de glucosa y lípidos en sangre pueden aumentar
+durante el tratamiento antirretroviral.
+
+Síndrome de reconstitución inmunitaria
+Al inicio de la TARC, en los pacientes infectados por el VIH con deficien-
+cia inmunitaria grave, puede aparecer una reacción inflamatoria frente
+a infecciones oportunistas latentes o asintomáticas. Se han notificado
+también trastornos autoinmunitarios (como la enfermedad de Graves y
+la hepatitis autoinmune); no obstante, el tiempo hasta el inicio notifica-
+do es más variable y estos acontecimientos se pueden producir muchos
+meses después del inicio del tratamiento.
+
+Osteonecrosis
+Se han notificado casos de osteonecrosis, especialmente en pacientes
+con  factores  de  riesgo  generalmente  reconocidos,  enfermedad  avan-
+zada  por  el  VIH  o  exposición  prolongada  a  la  TARC.  Se  desconoce  la
+frecuencia de esta reacción adversa.
+
+Cambios en la creatinina sérica
+Se ha demostrado que bictegravir aumenta la creatinina sérica debido
+a la inhibición de la secreción tubular de creatinina, sin embargo, estos
+cambios no se consideran clínicamente relevantes ya que no reflejan un
+cambio en la tasa de filtración glomerular. Los aumentos en la creatini-
+na sérica ocurrieron en la semana 4 de tratamiento y se mantuvieron
+estables hasta la semana 144. En los estudios GS-US-380-1489 y GS-
+US-380-1490,  la  mediana  (Q1,  Q3)  de  la  creatinina  sérica  aumentó
+en  0,11  (0,03;  0,19)  mg/dl  (9,7  [2,7;  16,8]  μmol/l);  0,11  (0,04;  0,19)
+mg/dl  (9,7  [3,5;  16,8]  μmol/l),  y  0,12  (0,06;  0,21)  mg/dl  (10,6  [5,3;
+18,6]  μmol/l)  desde  el  inicio  hasta  la  semana  144  en  los  grupos  de
+BIKTARVY®, abacavir/dolutegravir/lamivudina, y dolutegravir + emtri-
+citabina/tenofovir alafenamida, respectivamente. No hubo abandonos
+debido a reacciones adversas renales hasta la semana 144 en los pacien-
+tes a los que se administró BIKTARVY® en estudios clínicos.
+
+Cambios en la bilirrubina
+En los estudios GS-US-380-1489 y GS-US-380-1490 se observaron au-
+mentos de la bilirrubina total en el 17 % de los pacientes que no habían
+
+recibido tratamiento previo y que se trataron con BIKTARVY® durante
+144 semanas. Los incrementos fueron principalmente de grado 1 (12 %)
+y de grado 2 (4 %) (≥1,0 a 2,5 × límite superior de la normalidad [LSN]),
+y no se asociaron a reacciones adversas hepáticas ni a otros resultados
+anómalos  de  laboratorio  relacionados  con  el  hígado.  Cinco  pacientes
+a los que se administró BIKTARVY® (1 %) presentaron aumentos de la
+bilirrubina de grado 3 que no se consideraron relacionados con el fár-
+maco  del  estudio.  No  hubo  abandonos  debido  a  reacciones  adversas
+hepáticas hasta la semana 144 en los estudios clínicos de BIKTARVY®.
+
+Población pediátrica
+La seguridad de BIKTARVY® se evaluó en un estudio clínico abierto (GS-
+US-380-1474) en 50 adolescentes infectados por el VIH-1 de 12 a < 18
+años de edad con un peso ≥ 35 kg hasta la semana 96 (fase principal
+de 48 semanas y extensión de 48 semanas) y en 50 niños de 6 a < 12
+años de edad con un peso ≥ 25 kg hasta la semana 96 (fase principal
+de 48 semanas y extensión de 48 semanas). En este estudio no se han
+observado reacciones adversas nuevas en sujetos pediátricos a partir de
+6 años de edad con un peso de al menos 25 kg que conviven con el VIH-1
+en comparación con sujetos adultos que conviven con el VIH-1. No se
+recopilaron datos sobre la densidad mineral ósea en este estudio. Se
+han notificado reducciones de la DMO ≥ 4 % de la columna y de todo el
+cuerpo menos la cabeza en pacientes pediátricos que recibieron otros
+productos que contienen tenofovir alafenamida durante 48 semanas.
+
+Otras poblaciones especiales
+Pacientes coinfectados por el virus de la hepatitis B
+En  16  adultos  coinfectados  por  VIH/VHB  a  quienes  se  administró
+BIKTARVY® (8 adultos infectados por VIH/VHB que no habían recibido
+tratamiento previo en el estudio GS-US-380-1490; 8 adultos suprimidos
+infectados  por  VIH/VHB  en  el  estudio  GS-US-380-1878),  el  perfil  de
+seguridad de BIKTARVY® fue similar al de los pacientes monoinfectados
+por VIH-1.
+
+Pacientes de edad avanzada
+Los estudios GS-US-380-1844, GS-US-380-1878 y el estudio específico
+GS-US-380-4449 en pacientes ≥ 65 años de edad (evaluación de 86
+pacientes infectados por el VIH-1, virológicamente suprimidos de ≥ 65
+años) incluyeron 111 pacientes de ≥ 65 años que recibieron BIKTARVY®.
+En estos pacientes no se observaron diferencias en el perfil de seguridad
+de BIKTARVY®.
+
+Pacientes con insuficiencia renal
+Se evaluó la seguridad de emtricitabina + tenofovir alafenamida en un
+estudio clínico abierto con un solo grupo (GS-US-292-1825), en el que 55
+pacientes infectados por el VIH-1 con supresión virológica y enfermedad
+renal terminal (TFGeCG < 15 ml/min) que estaban en hemodiálisis cróni-
+ca recibieron emtricitabina + tenofovir alafenamida en combinación con
+elvitegravir  +  cobicistat  como  comprimido  de  combinación  a  dosis  fija
+durante 96 semanas. En la fase de extensión del estudio GS-US-292-1825,
+10 pacientes cambiaron a BIKTARVY® durante 48 semanas. En este estu-
+dio no se identificaron reacciones adversas adicionales en pacientes con
+enfermedad renal terminal que estaban recibiendo hemodiálisis crónica.
+
+barazadas  infectadas  por  el  VIH-1  virológicamente  suprimidas  (ARN
+del  VIH-1  <  50  copias/ml)  que  recibieron  50  mg/200  mg/25  mg  de
+BIKTARVY® una vez al día desde el segundo o tercer trimestre hasta des-
+pués del parto. No hubo ningún hallazgo de seguridad nuevo en com-
+paración con el perfil de seguridad conocido de BIKTARVY® en adultos
+infectados por el VIH-1.
+
+Notificación de sospechas de reacciones adversas
+Es  importante  notificar  sospechas  de  reacciones  adversas  al  medica-
+mento tras su autorización. Ello permite una supervisión continuada de
+la relación beneficio/riesgo del medicamento. Se invita a los profesiona-
+les sanitarios a notificar las sospechas de reacciones adversas a través
+del Sistema Nacional de Farmacovigilancia al siguiente link:
+https://vigiflow-eforms.who-umc.org/ar/medicamentos  y/o  al  De-
+partamento  de  Farmacovigilancia  de  Gador  SA,  enviando  un  correo
+electrónico  a  farmacovigilancia@gador.com,  o  telefónicamente  al
+0800-220-2273.
+
+SOBREDOSIFICACIÓN
+Sobredosis
+En caso de sobredosis, se debe vigilar al paciente por si hay evidencia
+de toxicidad. El tratamiento de la sobredosis de BIKTARVY® consiste en
+medidas generales de apoyo, incluyendo la monitorización de las cons-
+tantes vitales, así como la observación del estado clínico del paciente.
+No existe ningún antídoto específico para la sobredosis con BIKTARVY®.
+Dado que bictegravir se une altamente a las proteínas plasmáticas, es
+poco probable que se elimine de forma significativa mediante hemodiá-
+lisis o diálisis peritoneal. Emtricitabina se puede eliminar por hemodiáli-
+sis, la cual elimina aproximadamente el 30% de la dosis de emtricitabina
+en 3 horas de diálisis, si se inicia en la hora y media siguiente a la admi-
+nistración de emtricitabina. Tenofovir se elimina eficazmente mediante
+hemodiálisis con un coeficiente de extracción de aproximadamente el
+54 %. Se desconoce si emtricitabina o tenofovir se pueden eliminar con
+diálisis peritoneal.
+
+“Ante la posibilidad de una sobredosificación, concurrir al hospital más
+cercano o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros Centros de Intoxicaciones”.
+
+CONSERVACIÓN Y ALMACENAMIENTO
+Conservar BIKTARVY® a temperatura ambiente hasta 30°C.
+Mantener en su envase original. Protegido de la humedad. Mantener
+el frasco bien cerrado.
+La eliminación del medicamento no utilizado y de todos los materiales
+que hayan estado en contacto con él se realizará de acuerdo con la nor-
+mativa local.
+
+PRESENTACIONES
+Envases conteniendo 30 comprimidos recubiertos.
+El frasco contiene un gel desecante para protegerlo de la humedad.
+
+Embarazo
+BIKTARVY® se evaluó en un estudio clínico de 33 mujeres adultas em-
+
+© 2024 Gilead Sciences, Inc. Todos los derechos reservados.
+
+Información para el paciente
+
+Composición
+
+Cada comprimido recubierto de BIKTARVY® contiene:
+Bictegravir (equivalente a 52,45 mg de Bictegravir sódico) .......50 mg
+Emtricitabina ..................................................................................200 mg
+Tenofovir alafenamida (equivalente a 28,04 mg de Tenofovir alafena-
+mida fumarato).................................................................................25 mg
+Excipientes:
+Celulosa microcristalina..........................................................361,34 mg
+Croscarmelosa sódica ................................................................ 49,54 mg
+Estearato de magnesio ................................................................ 8,63 mg
+Alcohol polivinílico1)........................................................................8,4 mg
+Dióxido de titanio1) ..........................................................................4,6 mg
+Polietilenglicol1) ..............................................................................4,2 mg
+Talco1) ................................................................................................ 3,1 mg
+
+Óxido de hierro rojo (CINo77491) 1) ..............................................0,5 mg
+Óxido de Hierro negro (CINo77499) 1) .......................................... 0,1 mg
+1) Se refiere a los componentes del Opadry II marrón 85F165072.
+BIKTARVY® es un medicamento libre de gluten.
+
+Lea todo el prospecto detenidamente antes de empezar a tomar
+este medicamento, porque contiene información importante para
+usted, aun cuando simplemente haya repetido la receta (o antes de
+empezar a usarlo y cada vez que renueve su receta). Puede haber
+información nueva (o alguna información puede haber cambiado).
+
+-  Conserve este prospecto, ya que puede tener que volver a leerlo.
+-  Si tiene alguna duda, consulte a su médico o farmacéutico.
+-  Este medicamento se le ha recetado solamente a usted, y no debe
+dárselo a otras personas aunque tengan los mismos síntomas que
+
+usted, ya que puede perjudicarles.
+
+-  Esta información no reemplaza el hablar con su médico acerca de su
+
+enfermedad o el tratamiento
+
+-  Este  medicamento  debe  ser  indicado  por  su  médico  y  prescripto
+
+bajo una receta médica.
+
+-  Si experimenta efectos adversos, consulte a su médico o farmacéu-
+tico, incluso si se trata de efectos adversos que no aparecen en este
+prospecto.
+
+Si le han recetado BIKTARVY® a su hijo, tenga en cuenta que toda
+la información de este prospecto está dirigida a su hijo (en este
+caso, cuando lea “usted” sustitúyalo por “su hijo”).
+
+¿Cuál  es  la  información  más  importante  que  debo  conocer
+sobre BIKTARVY®?
+Embarazo y lactancia
+•  Si está embarazada o en periodo de lactancia, cree que podría estar
+embarazada o tiene intención de quedarse embarazada, consulte a
+su médico o farmacéutico antes de utilizar este medicamento.
+•  Informe  a  su  médico  inmediatamente  si  se  queda  embarazada  y
+pregunte sobre los posibles beneficios y riesgos de su tratamiento
+antirretroviral para usted y para su hijo.
+
+•  Antiácidos y suplementos que contengan aluminio y/o mag-
+nesio: durante el embarazo, tendrá que tomar BIKTARVY® al me-
+nos 2 horas antes o 6 horas después de tomar antiácidos, medica-
+mentos o suplementos que contengan aluminio y/o magnesio.
+•  Suplementos o medicamentos que contengan calcio y/o hie-
+rro: durante el embarazo tendrá que tomar BIKTARVY® al menos
+2 horas antes o 6 horas después de tomar suplementos o medi-
+camentos  que  contengan  calcio  y/o  hierro.  De  forma  alternativa,
+puede tomarlos todos juntos con alimentos en cualquier momento.
+Si  ha  tomado  BIKTARVY®  durante  su  embarazo  su  médico  puede
+solicitar  que  se  haga  análisis  de  sangre  periódicos  y  otras  pruebas
+diagnósticas para controlar el desarrollo de su niño. En niños cuyas
+madres tomaron nucleósidos inhibidores de la transcriptasa inversa
+(ITIAN) durante el embarazo, el beneficio de la protección frente al VIH
+fue mayor que el riesgo de que se produjeran efectos adversos.
+
+Qué es BIKTARVY® y para qué se utiliza
+BIKTARVY® contiene tres principios activos:
+•  bictegravir, un medicamento antirretroviral conocido como inhibi-
+
+dor de la transferencia de las hebras de la integrasa (INI)
+
+•  emtricitabina, un medicamento antirretroviral de un tipo conoci-
+do como nucleósido inhibidor de la transcriptasa inversa (ITIAN)
+•  tenofovir  alafenamida, un medicamento antirretroviral de un tipo
+conocido como nucleótido inhibidor de la transcriptasa inversa (ITIANt)
+BIKTARVY® es un comprimido único para el tratamiento de la infección
+por el virus de la inmunodeficiencia humana 1 (VIH-1) en adultos, ado-
+lescentes y niños a partir de 6 años de edad, que pesen al menos 25 kg.
+BIKTARVY® reduce la cantidad de VIH presente en el organismo. Esto
+mejora  el  sistema  inmunitario  y  disminuye  el  riesgo  de  desarrollar
+enfermedades asociadas con la infección por el VIH.
+
+¿Quiénes no deben tomar BIKTARVY®?
+No tome BIKTARVY®:
+•  Si es alérgico a bictegravir, emtricitabina, tenofovir alafenamida
+
+o a alguno de los demás componentes de este medicamento.
+
+trado problemas en los riñones. Su médico puede solicitar que
+le  realicen  análisis  de  sangre  para  controlar  cómo  funcionan  sus
+riñones al inicio y durante el tratamiento con BIKTARVY®.
+
+Mientras esté tomando BIKTARVY®
+Una vez que empiece a tomar BIKTARVY®, esté atento a:
+•  Signos de inflamación o infección
+•  Dolor articular, rigidez o problemas óseos
+•  Si  nota  cualquiera  de  estos  síntomas,  informe  a  su  médico
+inmediatamente. Puede consultar más información en la sección
+Posibles efectos adversos.
+
+Existe la posibilidad de que pueda experimentar problemas renales
+si  toma  BIKTARVY®  durante  un  periodo  de  tiempo  prolongado  (ver
+Advertencias y precauciones).
+Este medicamento no es una cura para la infección por el VIH. Mientras
+usted esté tomando BIKTARVY® podrá seguir padeciendo infecciones
+u otras enfermedades asociadas con la infección por el VIH.
+
+Niños y adolescentes
+No administre este medicamento a niños y adolescentes que pesen
+menos de 25 kg, independientemente de la edad. No se ha establecido
+todavía el uso de BIKTARVY® en niños menores de 6 años de edad, o
+que pesen menos de 25 kg.
+Se ha notificado la pérdida de masa ósea en algunos niños de entre
+6 y menos de 12 años de edad que recibieron uno de los principios
+activos (tenofovir alafenamida) que contiene BIKTARVY®. Los efectos
+sobre la salud ósea a largo plazo y el riesgo de fractura en el futuro en
+niños es incierto. Su médico controlará la salud ósea de su hijo según
+sea necesario.
+
+Otros medicamentos y BIKTARVY®
+Informe a su médico o farmacéutico si está tomando, ha tomado
+recientemente o pudiera tener que tomar cualquier otro medi-
+camento. BIKTARVY® puede interaccionar con otros medicamentos.
+Como consecuencia, los niveles sanguíneos de BIKTARVY® o de otros
+medicamentos se pueden ver afectados. Esto puede impedir que sus
+medicamentos  funcionen  correctamente  o  empeorar  sus  posibles
+efectos adversos. En algunos casos, su médico puede tener que ajus-
+tar la dosis o comprobar sus concentraciones sanguíneas.
+
+Medicamentos que nunca se deben tomar con BIKTARVY®:
+•  rifampicina utilizada para tratar algunas infecciones bacterianas
+
+como la tuberculosis
+
+•  hierba de San Juan (Hypericum perforatum, hipérico), un medica-
+mento a base de plantas utilizado para la depresión y la ansiedad, o
+productos que lo contengan.
+
+•  Si está tomando alguno de estos medicamentos, no tome BIKTARVY®
+
+e informe a su médico inmediatamente.
+
+Consulte con su médico si está tomando:
+•  medicamentos utilizados para tratar el VIH y/o la hepatitis B
+
+que contengan:
+-  adefovir dipivoxil, atazanavir, bictegravir, emtricitabina, lamivu-
+
+dina, tenofovir alafenamida o tenofovir disoproxilo
+
+•  antibióticos, utilizados para tratar las infecciones bacterianas,
+
+que contengan:
+-  azitromicina, claritromicina, rifabutina o rifapentina
+
+•  Si actualmente está tomando alguno de los siguientes medi-
+
+•  antiepilépticos, utilizados para tratar la epilepsia, que contengan:
+
+camentos:
+-  rifampicina utilizada para tratar algunas infecciones bacteria-
+
+nas como la tuberculosis
+
+-  hierba  de  San  Juan  (Hypericum  perforatum,  hipérico),  un
+medicamento a base de plantas utilizado para la depresión y la
+ansiedad, o productos que la contengan.
+
+•  Si está tomando alguno de estos medicamentos, no tome BIKTARVY®
+
+y consulte a su médico inmediatamente.
+
+¿Qué debo informar a mi médico antes de tomar BIKTARVY®?
+Advertencias y precauciones
+Consulte a su médico antes de empezar a tomar BIKTARVY®:
+•  Si tiene problemas hepáticos o antecedentes de enfermedad
+hepática,  incluida  la  hepatitis.  Los  pacientes  que  padecen  de
+enfermedades hepáticas, como la hepatitis B o C crónica, y están
+en tratamiento con antirretrovirales tienen más riesgo de presentar
+complicaciones  hepáticas  graves  y  potencialmente  mortales.  Si
+tiene  infección  por  el  virus  de  la  hepatitis  B,  su  médico  evaluará
+detenidamente la mejor pauta terapéutica para usted.
+
+•  Si tiene hepatitis B. Los problemas hepáticos pueden empeorar
+
+después de dejar de tomar BIKTARVY®.
+
+•  No deje de tomar BIKTARVY® si tiene hepatitis B. Hable antes con su
+
+médico. No interrumpa el tratamiento con BIKTARVY®.
+
+•  Si ha tenido una enfermedad renal o si las pruebas han mos-
+
+-  carbamazepina, oxcarbazepina, fenobarbital o fenitoína
+
+•  inmunosupresores, utilizados para controlar la respuesta inmuni-
+taria del organismo tras un trasplante, que contengan ciclosporina
+•  medicamentos para la curación de úlceras que contengan su-
+
+cralfato.
+
+•  Informe a su médico si está tomando alguno de estos medica-
+mentos. No interrumpa su tratamiento sin consultar con su médico.
+
+Consulte a su médico o farmacéutico si está tomando:
+•  antiácidos para tratar úlceras estomacales, acidez estomacal o re-
+flujo ácido, que contengan hidróxido de aluminio y/o de magnesio
+•  suplementos de minerales o de vitaminas, que contengan mag-
+
+nesio o hierro
+
+•  Consulte a su médico o farmacéutico antes de tomar BIKTARVY®
+
+si está tomando alguno de estos medicamentos.
+
+•  Antiácidos y suplementos que contengan aluminio y/o mag-
+nesio: tendrá que tomar BIKTARVY® al menos 2 horas antes de
+tomar  los  antiácidos  o  suplementos  que  contengan  aluminio  y/o
+magnesio. O puede tomar BIKTARVY® junto con alimentos al me-
+nos 2 horas después de la toma del antiácido o suplemento que
+contenga aluminio y/o magnesio. No obstante, si está embarazada,
+consulte la sección Embarazo y lactancia.
+
+•  Suplementos de hierro: tendrá que tomar BIKTARVY® al menos 2
+
+horas antes de tomar los suplementos de hierro o puede tomarlos
+todos juntos con alimentos en cualquier momento. No obstante, si
+está embarazada, consulte la sección Embarazo y lactancia.
+
+¿Cómo debo tomar BIKTARVY®?
+Siga exactamente las instrucciones de administración de este medica-
+mento indicadas por su médico. En caso de duda, consulte de nuevo a
+su médico o farmacéutico.
+
+La dosis recomendada es:
+Adultos, adolescentes y niños a partir de 6 años de edad o ma-
+yores, que pesen al menos 25 kg: un comprimido al día, con o sin
+alimentos.
+Debido al sabor amargo, se recomienda no masticar ni triturar el com-
+primido. Si tiene dificultad para tragar el comprimido entero, puede
+partirlo en dos mitades. Trague las dos mitades del comprimido una
+después de la otra para tomar la dosis completa. No guarde el com-
+primido partido.
+
+•  Consulte a su médico o farmacéutico si está tomando:
+•  antiácidos para tratar úlceras estomacales, acidez estomacal o re-
+flujo ácido, que contengan hidróxido de aluminio y/o de magnesio
+•  suplementos de minerales o vitaminas que contengan magnesio
+
+o hierro
+
+•  Vea la sección sobre cómo tomar estos medicamentos con BIKTARVY®.
+Si está recibiendo diálisis, tome su dosis diaria de BIKTARVY® una vez
+finalizada la diálisis.
+
+Si toma más BIKTARVY® del que debe
+Si toma más cantidad de la dosis recomendada de BIKTARVY® puede
+correr  mayor  riesgo  de  experimentar  posibles  efectos  adversos  con
+este medicamento (ver sección Posibles efectos adversos).
+Consulte inmediatamente a su médico o acuda al servicio de urgen-
+cias más cercano. Lleve consigo el frasco de comprimidos o la caja para
+que pueda describir fácilmente qué ha tomado.
+
+“Ante la eventualidad de una sobredosificación, concurrir al hospital
+más cercano o comunicarse con los centros de toxicología:
+HOSPITAL PEDIÁTRICO RICARDO GUTIÉRREZ:
+(011) 4962-6666 / 2247
+Hospital Alejandro Posadas:
+(011) 4654-6648 / 4658-7777
+Optativamente, otros centros de Intoxicaciones”.
+
+Si olvidó tomar BIKTARVY®
+Es importante que no olvide una dosis de BIKTARVY®.
+Si olvida una dosis:
+•  Si se da cuenta en las 18 horas posteriores a la hora a la que nor-
+malmente toma BIKTARVY®, debe tomar el comprimido tan pronto
+como sea posible. Luego tome la dosis siguiente de la forma habitual.
+•  Si se da cuenta después de 18 horas o más de la hora a la que
+normalmente toma BIKTARVY®, no tome la dosis olvidada. Espere y
+tome la siguiente dosis a la hora habitual.
+
+Si  vomita  antes  de  que  transcurra  1  hora  tras  haber  tomado
+BIKTARVY®, tome otro comprimido. Si vomita transcurrida 1 hora de
+haber tomado BIKTARVY®, no necesita tomar otro comprimido hasta
+el momento de la hora habitual.
+
+No interrumpa el tratamiento con BIKTARVY®:
+No  interrumpa  el  tratamiento  con  BIKTARVY®  sin  hablar  antes
+con su médico. Interrumpir BIKTARVY® puede afectar gravemente el
+funcionamiento de tratamientos futuros. Si se interrumpe BIKTARVY®
+por algún motivo, consulte con su médico antes de reiniciar la toma de
+comprimidos de BIKTARVY®.
+
+Cuando vea que le queda poca cantidad de BIKTARVY®, acuda a su
+médico o farmacéutico para que le proporcione más. Esto es muy impor-
+tante, ya que la cantidad de virus puede empezar a aumentar si el me-
+dicamento se interrumpe incluso durante un corto periodo de tiempo.
+Es posible que entonces la enfermedad se vuelva más difícil de tratar.
+
+Si tiene infección por el VIH y hepatitis B es especialmente impor-
+tante no suspender su tratamiento con BIKTARVY® sin antes hablar
+con  su  médico.  Puede  necesitar  hacerse  análisis  de  sangre  durante
+varios meses tras suspender el tratamiento. En algunos pacientes con
+enfermedad hepática avanzada o cirrosis no se recomienda suspender
+el tratamiento ya que esto puede producir un empeoramiento de su
+hepatitis, situación que puede ser potencialmente mortal.
+
+Si tiene cualquier otra duda sobre el uso de este medicamento, pre-
+gunte a su médico o farmacéutico.
+
+¿Qué debo evitar mientras tomo BIKTARVY®?
+No dé el pecho a su hijo durante el tratamiento con BIKTARVY®.
+Esto se debe a que algunos de los principios activos de este medica-
+mento pasan a la leche materna. No se recomienda que las mujeres
+que  conviven  con  el  VIH  den  el  pecho  porque  la  infección  por  VIH
+puede transmitirse al bebé a través de la leche materna. Si está dando
+el pecho, o piensa dar el pecho, debe consultar con su médico lo
+antes posible.
+
+Conducción y uso de máquinas
+BIKTARVY® puede causar mareo. Si nota mareo durante el tratamiento
+con  BIKTARVY®,  no  conduzca,  monte  en  bicicleta  ni  maneje  herra-
+mientas o máquinas.
+
+BIKTARVY® contiene sodio
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por
+comprimido; esto es, esencialmente “exento de sodio”.
+
+¿Cuáles son los posibles efectos secundarios de BIKTARVY®?
+Al igual que todos los medicamentos, este medicamento puede pro-
+ducir efectos adversos, aunque no todas las personas los sufran.
+
+Posibles efectos adversos graves: informe a un médico inmedia-
+tamente
+•  Cualquier signo de inflamación o de infección. En algunos pa-
+cientes con infección avanzada por el VIH (sida) y antecedentes de
+infecciones oportunistas (infecciones que ocurren en personas con
+un sistema inmunitario débil), se pueden producir signos y sínto-
+mas de inflamación por infecciones previas poco después de iniciar
+el tratamiento contra el VIH. Se cree que estos síntomas se deben
+a una mejoría de la respuesta inmunitaria del organismo, que le
+permite combatir infecciones que podrían haber estado presentes
+sin síntomas obvios.
+
+•  Se pueden producir también trastornos autoinmunitarios, en los
+que el sistema inmunitario ataca a los tejidos sanos del organismo,
+después de que empiece a tomar medicamentos para la infección
+por  el  VIH.  Los  trastornos  autoinmunitarios  se  pueden  producir
+muchos  meses  después  del  inicio  del  tratamiento.  Esté  atento  a
+cualquier síntoma de infección u otros síntomas, como:
+-  debilidad muscular
+-  debilidad que se inicia en las manos y los pies y se desplaza hacia
+
+el tronco
+
+-  palpitaciones, temblor o hiperactividad
+
+•  Si nota cualquiera de estos síntomas o cualquier síntoma de
+inflamación o infección, informe a su médico inmediatamente.
+
+Efectos adversos frecuentes
+(pueden afectar hasta 1 de cada 10 personas)
+•  depresión
+•  sueños anormales
+•  dolor de cabeza
+•  mareo
+•  diarrea
+•  ganas de vomitar (náuseas)
+•  cansancio (fatiga)
+
+Efectos adversos poco frecuentes
+(pueden afectar hasta 1 de cada 100 personas)
+•  anemia
+•  vómitos
+•  dolor de estómago
+•  problemas digestivos que generan molestias después de las comi-
+
+das (dispepsia)
+•  gases (flatulencia)
+•  hinchazón de la cara, labios, lengua o garganta (angioedema)
+•  picazón (prurito)
+•  erupción
+•  habones (urticaria)
+•  dolor en las articulaciones (artralgia)
+•  pensamientos  suicidas  e  intento  de  suicidio  (particularmente  en
+pacientes que han tenido depresión o problemas de salud mental
+anteriormente)
+
+•  ansiedad
+•  trastornos del sueño
+
+•  Hable con su médico inmediatamente acerca de síntomas nue-
+vos  o  inusuales  tras  suspender  su  tratamiento,  particularmente
+síntomas que asocie con la infección por el virus de la hepatitis B.
+
+Los análisis de sangre también pueden mostrar:
+•  concentraciones  más  altas  de  sustancias  llamadas  bilirrubina  y/o
+
+creatinina sérica en la sangre
+
+Efectos adversos raros
+(puede afectar hasta 1 de cada 1000 personas)
+•  El síndrome de Stevens-Johnson (SSJ) es una enfermedad grave po-
+tencialmente mortal que generalmente comienza con síntomas de
+tipo gripal. A los pocos días aparecen otros síntomas que incluyen:
+-  Piel  enrojecida  o  morada,  dolorida,  que  presenta  un  aspecto
+
+quemado y se desprende
+
+-  Ampollas en la piel, boca, nariz y genitales
+-  Ojos enrojecidos, doloridos, llorosos
+
+Si tiene alguno de estos síntomas, deje de tomar el medicamento
+inmediatamente e informe a su médico de inmediato.
+
+•  Si considera que alguno de los efectos adversos que sufre es
+
+grave, informe a su médico.
+
+  Otros efectos que se pueden observar durante el tratamiento
+
+contra el VIH.
+
+La frecuencia de los siguientes efectos adversos se considera no conoci-
+da (la frecuencia no se puede estimar a partir de los datos disponibles).
+
+•  Problemas óseos. Algunos pacientes tratados con medicamentos
+antirretrovirales combinados como BIKTARVY® pueden desarrollar
+una  enfermedad  de  los  huesos  llamada  osteonecrosis  (muerte
+del tejido óseo debida a una pérdida del suministro de sangre al
+hueso). Tomar este tipo de medicamentos durante un tiempo pro-
+longado, tomar corticosteroides, beber alcohol, tener un sistema
+inmunitario muy débil y tener sobrepeso, pueden ser algunos de
+los  muchos  factores  de  riesgo  para  desarrollar  esta  enfermedad.
+Los signos de osteonecrosis son:
+-
+-  molestias y dolores articulares (especialmente de la cadera, la
+
+rigidez articular
+
+rodilla y el hombro)
+-  dificultad para moverse
+
+•  Si nota cualquiera de estos síntomas, informe a su médico.
+Durante el tratamiento del VIH puede haber un aumento en el peso y
+en los niveles de glucosa y lípidos en la sangre. Esto puede estar en par-
+te relacionado con la recuperación de la salud y con el estilo de vida y,
+en el caso de los lípidos en la sangre, algunas veces con los medicamen-
+tos contra el VIH por sí mismos. Su médico le controlará estos cambios.
+
+Comunicación de efectos adversos
+Si experimenta cualquier tipo de efecto adverso, consulte a su médico
+o farmacéutico, incluso si se trata de posibles efectos adversos que
+no aparecen en este prospecto. “Ante cualquier inconveniente con el
+producto el paciente puede llenar la ficha que está en la Página Web
+de ANMAT: https://vigiflow-eforms.who-umc.org/ar/medicamentos o
+llamar a ANMAT responde 0800-333-1234”. También puede ponerse
+en contacto con el Departamento de Farmacovigilancia de Gador S.A.,
+llamando al teléfono +54 (11) 4858-9000 o enviando un correo elec-
+trónico  a  farmacovigilancia@gador.com.  Mediante  la  comunicación
+de efectos adversos usted puede contribuir a proporcionar más infor-
+mación sobre la seguridad de este medicamento.
+
+Conservación de BIKTARVY®
+Conservar en su envase original, a temperatura ambiente hasta 30oC,
+proteger de la humedad. Mantener el frasco bien cerrado. No utilizar si
+falta el sello de protección del frasco o el mismo está roto.
+
+No utilice este medicamento si el envase está dañado.
+No utilice este medicamento después de la fecha de caducidad que
+aparece en el estuche y en la etiqueta del frasco. La fecha de venci-
+miento es el último día del mes que se indica.
+
+Los medicamentos no se deben tirar por los desagües ni a la basura.
+Pregunte a su farmacéutico cómo deshacerse de los envases y de los
+medicamentos que ya no necesita. De esta forma, ayudará a proteger
+el medio ambiente.
+
+Información general sobre BIKTARVY®
+
+Aspecto del producto y contenido del envase
+Los comprimidos recubiertos de BIKTARVY® son marcados en una de
+las caras del comprimido con «GSI» y en la otra cara del comprimido
+con  «9883».  BIKTARVY®  se  presenta  en  frascos  de  30  comprimido.
+Cada frasco contiene un gel desecante para proteger los comprimidos
+de la humedad. El desecante no se debe tragar.
+
+“Este medicamento debe ser usado exclusivamente bajo pres-
+cripción y vigilancia médica y no puede repetirse sin una nueva
+receta médica.”
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Elaborado en: Rotterndorf Pharma GmbH, Ostenfelder Strasse 51-61, 59320, Ennigerloh, Alemania y/o en Gilead
+
+Sciences Ireland UC, IDA Business and Technology Park, Carrigtohill, County Cork, Irlanda. Acondicionamiento
+
+primario: Gilead Sciences Ireland UC, IDA Business and Technology Park, Carrigtohill, County Cork, Irlanda.
+
+Acondicionamiento secundario: Gador S.A., Darwin 429, C.A.B.A., Argentina y/o AndersonBrecon, Inc. 4545
+
+Assembly Drive, Rockford, IL 61109, USA y/o Gilead Sciences, Inc. 650 Cliffside Drive, San Dimas, CA 91773, USA.
+
+Representado, Comercializado y Distribuido por Gador S.A., Darwin 429, C1414CUI, C.A.B.A. Tel.: 4858-9000.
+
+D.T.: Jorge N. Naquit, Farmacéutico y Licenciado en Ciencias Farmacéuticas. E.M.A.M.S.. Certificado No 58.917.
+
+Fecha de última revisión: 03/2025
+
+G00211003-04

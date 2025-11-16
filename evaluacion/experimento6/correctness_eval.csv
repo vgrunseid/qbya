@@ -1,0 +1,737 @@
+chunk_id,question,ground_truth_answer,rag_answer,is_correct,explanation
+03-Prospecto-Gadopril#0000,¿Qué forma de comprimidos tiene el medicamento GADOPRIL?,Comprimidos ranurados,"**Gadopril**
+
+El medicamento Gadopril se presenta en diferentes formas de comprimidos ranurados con dosis de 2,5 mg, 5 mg, 10 mg y 20 mg. Cada una de estas presentaciones tiene un conjunto específico de excipientes.
+
+*   **Gadopril 2,5**: contiene Enalapril maleato 2,50 mg, Bicarbonato de sodio 1,279 mg, Almidón pregelatinizado 9 mg, Lactosa monohidrato 75,871 mg y Estearato de magnesio 1,350 mg.
+*   **Gadopril 5**: contiene Enalapril maleato 5,00 mg, Ácido maleico 0,5 mg, Povidona CL 2,7 mg, Dióxido de silicio coloidal 1,120 mg, Talco 1,8 mg, Cellactosa 52,78 mg, Talco siliconado compuesto 5,4 mg y Celulosa microcristalina 13,5 mg.
+*   **Gadopril 10**: contiene Enalapril maleato 10,00 mg, Ácido maleico 1 mg, Povidona CL 4,05 mg, Dióxido de silicio coloidal 1,69 mg, Talco 2,7 mg, Cellactosa 83,16 mg y Talco siliconado compuesto 2,7 mg.
+*   **Gadopril 20**: contiene Enalapril maleato 10,00 mg, Ácido maleico 1 mg, Povidona CL 4,05 mg, Dióxido de silicio coloidal 1,69 mg, Talco 2,7 mg, Cellactosa 83,16 mg y Talco siliconado compuesto 2,7 mg.
+
+**Advertencia**: Ante cualquier duda o inquietud sobre el uso de este medicamento, es importante consultar a un profesional de la salud.",True,The student answer provides an equivalent wording of the ground truth.
+03-Prospecto-Gadopril#0001,¿Qué cantidad de bicarbonato es en cada GADOPRIL?,1.279 mg,"La cantidad de bicarbonato en cada GADOPRIL varía según la dosis. En el GADOPRIL 2,5 mg, se encuentra un contenido de Bicarbonato de sodio de 1,279 mg (ver [5]). No hay información disponible sobre la cantidad de bicarbonato en las otras dosis del medicamento.
+
+**Gadopril**
+
+*   **Dosis 2,5 mg**: Contiene 1,279 mg de Bicarbonato de sodio ([5]).
+*   **Dosis 5 mg**, **10 mg** y **20 mg**: No se menciona la cantidad de bicarbonato en estas dosis.
+
+Advertencia: Ante dudas sobre el uso o efectos del medicamento, es importante consultar a un profesional de la salud.",True,The student answer provides an equivalent wording of the ground truth.
+03-Prospecto-Gadopril#0002,¿Cuánto lactosa hay en un comprimido de GADOPRIL?,75.871 mg,"La pregunta es sobre la cantidad de lactosa en un comprimido de GADOPRIL. Según el contexto, se menciona que:
+
+* En el comprimido ranurado de GADOPRIL 2,5, hay 75,871 mg de Lactosa monohidrato (ver [5]).
+* No se menciona la cantidad de lactosa en los demás tipos de comprimidos de GADOPRIL.
+
+Por lo tanto, la respuesta es que un comprimido ranurado de GADOPRIL 2,5 contiene 75,871 mg de lactosa monohidrato.",True,The student answer provides the exact value of lactose in a specific type of Gadopril tablet.
+03-Prospecto-Gadopril#0003,¿Cuánto mg de lactosa en GADOPRIL cada comprimido?,75.871 mg,"La pregunta es sobre la cantidad de lactosa en cada comprimido del medicamento GADOPRIL. Según los prospectos proporcionados:
+
+* En el [5] se menciona que cada comprimido ranurado de GADOPRIL® 2,5 contiene Lactosa monohidrato en una cantidad de 75,871 mg.
+* No hay información sobre la cantidad de lactosa en los demás tipos de comprimidos de GADOPRIL (GADOPRIL 5 y GADOPRIL 10) en el contexto proporcionado.
+
+No se menciona la cantidad de lactosa en los prospectos de GADOPRIL 5 y GADOPRIL 10.",True,"The student answer provides the exact value of lactose in Gadopril, matching the ground truth."
+03-Prospecto-Gadopril#0005,"¿Cuál es el peso de lactosa monohidrato en GADOPRIL® 2,5?",75.871 mg,"El peso de lactosa monohidrato en GADOPRIL® 2,5 es de 75,871 mg. [6]
+
+Nota: El nombre del medicamento según el metadato `drug_name` de los fragmentos citados es Gadopril.",True,The student answer contains the exact value of the ground truth.
+03-Prospecto-Gadopril#0006,"¿Cómo es el contenido de lactosa en GADOPRIL 2,5?","75,871 mg","El contenido de lactosa en GADOPRIL 2,5 es de 75,871 mg. (Lactosa monohidrato) [6]
+
+Advertencia: Si tienes intolerancia hereditaria a galactosa, deficiencia total de lactasa o problemas de absorción de glucosa o galactosa, no debes tomar este medicamento. Consulta con un profesional médico si tienes alguna duda.
+
+Referencias:
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]",True,"The student answer contains the exact ground truth value, making it correct."
+03-Prospecto-Gadopril#0007,Qué contiene enalapril maleato de GADOPRIL 10?,10.00 mg,"El medicamento en cuestión es GADOPRIL 10. Según los prospectos proporcionados, cada comprimido ranurado de GADOPRIL 10 contiene:
+
+* Enalapril maleato: 10 mg
+* Excipientes:
+ + Ácido maleico: 1 mg
+ + Povidona CL: 4,05 mg
+ + Dióxido de silicio coloidal: 1,69 mg
+ + Talco: 2,7 mg
+ + Cellactosa: 83,16 mg
+ + Talco siliconado compuesto: (no se especifica cantidad)
+ + Celulosa microcristalina: 20,25 mg
+ + Almidón pregelatinizado: 6,75 mg
+ + Estearato de magnesio: 2,7 mg
+
+Es importante consultar a un profesional de la salud ante cualquier duda o inquietud sobre el uso de este medicamento.
+
+Referencias:
+[1], [2], [3]",True,"The student answer provides the exact value of '10 mg' as part of a detailed list, which is equivalent to the ground truth."
+03-Prospecto-Gadopril#0008,¿Cuánta povidona CL contiene GADOPRIL en cada comprimido?,2.7 mg,"La pregunta es sobre la cantidad de povidona CL en cada comprimido del medicamento Gadopril. 
+
+Según los prospectos proporcionados, hay varias presentaciones de Gadopril con diferentes cantidades de povidona CL:
+
+* En la presentación de 5 mg de Enalapril maleato (Gadopril® 5), se menciona que cada comprimido ranurado contiene 2,7 mg de Povidona CL. [3]
+* En la presentación de 10 mg de Enalapril maleato (Gadopril® 10), hay dos versiones con cantidades diferentes de povidona CL: una con 4,05 mg y otra sin mencionarla explícitamente. [5] 
+* En la presentación de 20 mg de Enalapril maleato (Gadopril® 20), no se menciona la cantidad de Povidona CL.
+
+No hay información suficiente para determinar cuál es la cantidad correcta de povidona CL en cada comprimido del medicamento Gadopril, ya que hay varias presentaciones con cantidades diferentes.",False,"The student answer provides equivalent wording of the ground truth, but also includes extra information."
+03-Prospecto-Gadopril#0009,¿Qué contenido de GADOPRIL contiene cada comprimido ranurado?,1.69 mg,"El contenido de GADOPRIL contiene:
+
+*   Cada comprimido ranurado de GADOPRIL® 2,5 contiene: Enalapril maleato ......................................................................................2,50 mg Excipientes: Bicarbonato de sodio ...............................................................................1,279 mg Almidón pregelatinizado ................................................................................9 mg Lactosa monohidrato .............................................................................75,871 mg Estearato de magnesio ............................................................................1,350 mg
+*   Cada comprimido ranurado de GADOPRIL® 5 contiene: Enalapril maleato ......................................................................................5,00 mg Excipientes: Ácido maleico.......................................................................................... 0,5 mg. Povidona CL ............................................................................................2,7 mg Dióxido de silicio coloidal ........................................................................ 1,120 mg Talco ......................................................................................................1,8 mg Cellactosa .............................................................................................52,78 mg Talco siliconado compuesto .........................................................................5,4 mg Celulosa microcristalina ............................................................................13,5 mg Almidón pregelatinizado ............................................................................4,50 mg Estearato de magnesio .............................................................................2,70 mg
+*   Cada comprimido ranurado de GADOPRIL® 10 contiene: Enalapril maleato ....................................................................................10,00 mg Excipientes: Ácido maleico .......................................................................................... 1 mg Povidona CL .......................................................................................... 4,05 mg Dióxido de silicio coloidal ...........................................................................1,69 mg Talco ........................................................................ ..............................2,7 mg Cellactosa .............................................................................................83,16 mg Talco siliconado compuesto........................................................................ 2,7 mg Celulosa microcristalina ...........................................................................20,25 mg Almidón pregelatinizado ...........................................................................6,75 mg Estearato de magnesio .............................................................................2,7 mg
+*   Cada comprimido ranurado de GADOPRIL® 20 contiene: Enalapril maleato ....................................................................................20,00 mg Excipientes:
+
+Referencias:
+[1] gadopril • DENOMINACIÓN / COMPOSICIÓN • 03-Prospecto-Gadopril.txt
+[2] gadopril • DENOMINACIÓN / COMPOSICIÓN • 03-Prospecto-Gadopril.txt
+[3] gadopril • DENOMINACIÓN / COMPOSICIÓN • 03-Prospecto-Gadopril.txt
+[4] gadopril • DENOMINACIÓN / COMPOSICIÓN • 03-Prospecto-Gadopril.txt",True,The student answer contains the ground truth value with minor formatting variations.
+03-Prospecto-Gadopril#0010,¿Qué contiene cada GADOPRIL ranurado de 20 mg?,"Enalapril maleato 20,00 mg","La pregunta es sobre qué contiene cada GADOPRIL ranurado de 20 mg. Según el contexto proporcionado, en los diferentes fragmentos se mencionan las composiciones de los comprimidos ranurados de GADOPRIL con diferentes dosis (2,5 mg, 5 mg, 10 mg y 20 mg). Sin embargo, solo el fragmento [4] y [5] proporciona la información específica sobre el contenido del GADOPRIL ranurado de 20 mg.
+
+Según el fragmento [4], cada comprimido ranurado de GADOPRIL® 20 contiene: Enalapril maleato ....................................................................................20,00 mg
+
+Excipientes:
+
+Y según el fragmento [5] no se menciona la composición del GADOPRIL ranurado de 20 mg.
+
+Por lo tanto, la respuesta es que cada GADOPRIL ranurado de 20 mg contiene Enalapril maleato en una cantidad de 20 mg y los excipientes mencionados en el fragmento [4].
+
+**Advertencia:** Ante cualquier duda o consulta sobre medicamentos, se recomienda consultar a un profesional de la salud.",True,The student answer provides the exact wording of the ground truth.
+03-Prospecto-Gadopril#0011,¿Cuál es el contenido de cada comprimido ranurado de GADOPRIL?,Cada comprimido ranurado de GADOPRIL contiene: Enalapril maleato 20.00 mg,"El contenido de cada comprimido ranurado del medicamento **Gadopril** varía según la dosis. 
+
+* Para la dosis de 2,5 mg (comprimidos ranurados de GADOPRIL® 2,5), contiene Enalapril maleato 2,50 mg y los siguientes excipientes: Bicarbonato de sodio, Almidón pregelatinizado, Lactosa monohidrato y Estearato de magnesio. (Referencia [1])
+* Para la dosis de 5 mg (comprimidos ranurados de GADOPRIL® 5), contiene Enalapril maleato 5,00 mg y los siguientes excipientes: Ácido maleico, Povidona CL, Dióxido de silicio coloidal, Talco, Cellactosa, Talco siliconado compuesto, Celulosa microcristalina, Almidón pregelatinizado y Estearato de magnesio. (Referencia [2])
+* Para la dosis de 10 mg (comprimidos ranurados de GADOPRIL® 10), contiene Enalapril maleato 10,00 mg y los siguientes excipientes: Ácido maleico, Povidona CL, Dióxido de silicio coloidal, Talco, Cellactosa, Talco siliconado compuesto, Celulosa microcristalina, Almidón pregelatinizado y Estearato de magnesio. (Referencia [3])
+* Para la dosis de 20 mg (comprimidos ranurados de GADOPRIL® 20), contiene Enalapril maleato 20,00 mg y los siguientes excipientes: Ácido maleico, Povidona CL, Dióxido de silicio coloidal, Talco, Cellactosa, Talco siliconado compuesto, Celulosa microcristalina, Almidón pregelatinizado y Estearato de magnesio. (Referencia [4])
+* Para la dosis combinada de 10 mg de Enalapril maleato y 25 mg de Hidroclorotiazida (comprimidos de GADOPRIL D), contiene los siguientes componentes: Enalapril maleato, Hidroclorotiazida y varios excipientes. (Referencia [6])
+
+**Advertencia:** Ante cualquier duda o consulta sobre el uso de estos medicamentos, es importante consultar a un profesional de la salud.",False,The student answer does not explicitly contain the ground truth value or provide an equivalent wording/paraphrase.
+03-Prospecto-Gadopril#0012,En qué cantidad está enalapril en GADOPRIL?,20.00 mg,"La pregunta es sobre la cantidad de enalapril en GADOPRIL. Según los prospectos proporcionados, no se menciona explícitamente la cantidad de enalapril en GADOPRIL D (enalapril e hidroclorotiazida). Sin embargo, se menciona que cada comprimido ranurado de GADOPRIL 2,5 contiene 2,50 mg de enalapril maleato y cada comprimido ranurado de GADOPRIL 10 contiene 10,00 mg de enalapril maleato.
+
+No hay información suficiente para determinar la cantidad exacta de enalapril en GADOPRIL D. Es importante consultar el prospecto del medicamento específico o hablar con un profesional de la salud si se tienen dudas sobre su composición o dosificación.
+
+**Gadopril (Enalapril)**
+
+* Cada comprimido ranurado de GADOPRIL 2,5 contiene: Enalapril maleato ......................................................................................2,50 mg [3]
+* Cada comprimido ranurado de GADOPRIL 10 contiene: Enalapril maleato ....................................................................................10,00 mg [5]
+
+**Gadopril D (Enalapril e Hidroclorotiazida)**
+
+No hay información específica sobre la cantidad de enalapril en GADOPRIL D.
+
+Referencias:
+[3], [5]",True,"The student answer provides equivalent wording of the ground truth, mentioning specific amounts of enalapril in Gadopril 2.5 and 10."
+03-Prospecto-Gadopril#0013,¿Qué ATC son los Inhibidores de la ECA como Antihipertensivos?,C09A A02,"**Gadopril (Enalapril)**
+
+### Indicaciones y Uso
+
+*   Tratamiento de la hipertensión arterial.
+*   Tratamiento de la insuficiencia cardiaca sintomática.
+*   Prevención de la insuficiencia cardiaca sintomática en pacientes con disfunción ventricular izquierda asintomática (fracción de eyección ≤ 35%).
+
+### Propiedades Farmacológicas
+
+Gadopril es la sal maleato de enalapril, un derivado de dos aminoácidos, L-alanina y L-prolina. La enzima de conversión de angiotensina (ECA) es una peptidil dipeptidasa que cataliza la conversión de la angiotensina I en la sustancia hipertensora angiotensina II. Después de su absorción, enalapril se hidroliza a enalaprilato, que inhibe la ECA.
+
+### Interacciones
+
+*   **Oro**: Raramente se han comunicado reacciones nitritoides (los síntomas incluyen rubefacción facial, náuseas, vómitos e hipotensión) en pacientes en tratamiento con oro inyectable (aurotiomalato sódico) y tratamiento concomitante con un inhibidor de la ECA.
+*   **Simpaticomiméticos**: Los simpaticomiméticos pueden reducir los efectos antihipertensivos de los inhibidores de la ECA.
+*   **Antidiabéticos**: Estudios epidemiológicos han sugerido que la administración concomitante de inhibidores de la ECA y medicamentos antidiabéticos (insulinas, hipoglucemiantes orales) puede causar un efecto mayor del descenso de la glucosa en sangre, con riesgo de hipoglucemia.
+*   **Alcohol**: El alcohol potencia el efecto hipotensor de los inhibidores de la ECA.
+
+### Farmacocinética
+
+El enalapril oral se absorbe rápidamente y alcanza concentraciones sericas máximas en el término de una hora. Tras la absorción, el enalapril oral se hidroliza rápida y extensamente en enalaprilato, un potente inhibidor de la enzima de conversión de angiotensina.
+
+### Advertencia
+
+Ante dudas o inquietudes sobre el uso de Gadopril (Enalapril), es importante consultar a un profesional de la salud para obtener orientación personalizada y precisa.",True,"The student answer provides the correct ATC code as part of its description, which is considered equivalent to the ground truth."
+03-Prospecto-Gadopril#0014,¿Qué efecto tiene Gadopril en la secreción de aldosterona?,Una disminución de la secreción de aldosterona.,"**Enalapril (Gadopril)**
+
+El Enalapril (también conocido como Gadopril) es un inhibidor de la enzima convertidora de angiotensina (IECA). Su mecanismo de acción principal es bloquear el sistema renina-angiotensina-aldosterona, lo que conduce a una disminución de la secreción de aldosterona y una reducción de la presión arterial.
+
+Según el prospecto [3], ""La inhibición de la ECA produce un descenso de la angiotensina II en plasma que provoca un aumento de la actividad de renina plasmática (debido a la supresión de la retroalimentación negativa sobre la liberación de renina) y una disminución de la secreción de aldosterona.""
+
+Además, el prospecto [1] menciona que ""La inhibición de la ECA ocasiona una disminución de las concentraciones de la angiotensina II, lo que conduce a un descenso de la actividad vasopresora y de la secreción de aldosterona"".
+
+**Hidroclorotiazida (Gadopril D)**
+
+La Hidroclorotiazida es un diurético tiazídico. Su mecanismo de acción principal es aumentar la eliminación de sodio y agua en la orina, lo que conduce a una reducción de la presión arterial.
+
+Según el prospecto [6], ""La hidroclorotiazida aumenta la actividad plasmática de la renina, aumenta la secreción de aldosterona y disminuye el potasio sérico"".
+
+**Advertencia**
+
+Ante dudas o inquietudes sobre el uso de estos medicamentos, es importante consultar a un profesional de la salud.
+
+Referencias:
+
+[1] gadopril d • ACCIÓN FARMACOLÓGICA
+[3] gadopril • INDICACIONES
+[6] gadopril d • ACCIÓN TERAPÉUTICA",True,"The student answer provides an equivalent wording of the ground truth, mentioning a decrease in aldosterone secretion."
+03-Prospecto-Gadopril#0015,¿Cuánto tarda el Enalaprilato en alcanzar máximas concentraciones?,4 horas,"**Enalaprilato**
+
+El Enalaprilato (Gadopril) alcanza concentraciones máximas en el suero 4 horas después de una dosis oral de enalapril [1]. La semivida eficaz para la acumulación de enalaprilato después de varias dosis de enalapril oral es de 11 horas [1].
+
+**Gadopril D**
+
+El Enalaprilato (Gadopril D) alcanza concentraciones máximas en el suero aproximadamente a las 3 a 4 horas después de administrado [2]. La vida media efectiva del enalapril con dosis múltiples de enalapril es de 11 horas, incrementándose sólo en los pacientes cuyo índice de filtración glomerular es igual o menor a 30 mL/min [2].
+
+**Advertencia**
+
+Ante dudas sobre el uso de estos medicamentos, consulte a un profesional de la salud.
+
+Referencias:
+[1] gadopril • FARMACOCINÉTICA • 03-Prospecto-Gadopril.txt
+[2] gadopril d • FARMACOCINÉTICA • G00075902-04-gadoprild-web.txt",False,"The student answer provides an equivalent wording of the ground truth, but with additional information."
+03-Prospecto-Gadopril#0016,¿Cuál es la porción de enalaprilato unida a proteínas plasmáticas humanas?,No supera el 60 %,"**Enalaprilato**
+
+La porción de enalaprilato unida a proteínas plasmáticas humanas no supera el 60% en el intervalo de concentraciones terapéuticamente apropiadas [5].
+
+Advertencia: Si tienes dudas sobre la seguridad o efectividad de este medicamento, consulta a un profesional de la salud.
+
+Referencias:
+[1] No se menciona Enalaprilato
+[2] No se menciona Enalaprilato
+[3] Se menciona Enalaprilato
+[4] Se menciona Enalaprilato
+[5] Se menciona Enalaprilato",True,"The student answer provides the correct information, but in a different format."
+03-Prospecto-Gadopril#0017,¿Cuál es el aumento aproximado en la exposición de enalapril y enalaprilato en pacientes con insuficiencia renal grave?,El ABC de enalaprilato aumentó aproximadamente 8 veces.,"**Gadopril (Enalapril)**
+
+### Efectos en la presión arterial y frecuencia cardiaca
+
+La administración de Gadopril a pacientes hipertensos disminuye la presión arterial tanto en decúbito supino como de pie, sin aumentar significativamente la frecuencia cardiaca. La hipotensión postural sintomática es poco frecuente.
+
+### Efectos en el embarazo y lactancia
+
+Después de una dosis oral única de 20 mg en cinco mujeres después del parto, la concentración máxima media de enalapril en la leche fue de 1,7 μg/l (intervalo de 0,54 a 5,9 μg/l) a las 4-6 horas después de la dosis. La cantidad total de enalapril y enalaprilato determinadas en leche durante el periodo de 24 horas fue de 1,44 μg/l y 0,63 μg/l de leche, respectivamente.
+
+### Eficacia clínica y seguridad
+
+En un ensayo aleatorio, multicéntrico, doble ciego y controlado con placebo (estudio SOLVD de prevención) se analizó una población con disfunción ventricular izquierda asintomática. Se asignó aleatoriamente a 4.228 pacientes a tratamiento con placebo o con enalapril. En el grupo placebo, experimentaron insuficiencia cardiaca o murieron 818 pacientes (38,6 %), frente a 630 en el grupo de enalapril (29,8 %) (reducción del riesgo del 29 %; IC del 95 %; 21-36 %; p < 0,001).
+
+### Advertencia general
+
+Ante dudas o inquietudes sobre la seguridad y eficacia de Gadopril, consultar a un profesional médico.
+
+Referencias:
+[1] Fragmento 5
+[2] Fragmento 6",False,The student answer does not explicitly contain the ground truth value or provide an equivalent wording/paraphrase.
+03-Prospecto-Gadopril#0018,¿Cuál es la concentración máxima media de enalaprilato en leche materna después de una dosis única de 20 mg?,1.7 μg/l,"La concentración máxima media de enalaprilato en leche materna después de una dosis única de 20 mg del medicamento Gadopril (enalapril) fue de 1,7 μg/l. Esto se desprende del fragmento [6] gadopril · EMBARAZO Y LACTANCIA —.
+
+Es importante tener en cuenta que la ingesta máxima estimada de un niño alimentado exclusivamente con leche materna sería alrededor del 0,16 % de la dosis materna ajustada al peso. Además, se menciona que los niveles de enalaprilato en leche fueron indetectables (< 0,2 μg/l) 4 horas después de una dosis única de 5 mg de enalapril en una madre y 10 mg en dos madres.
+
+Advertencia: Ante dudas sobre el uso de medicamentos durante el embarazo o la lactancia materna, es importante consultar a un profesional de la salud.",True,The student answer provides the exact value of the ground truth and does not contradict it.
+03-Prospecto-Gadopril#0019,¿Cuántas horas después de la administración de una dosis individual de enalapril ocurre la actividad antihipertensiva?,Una hora después de la administración,"**Enalapril**
+
+El enalapril es un medicamento utilizado para tratar la hipertensión arterial y la insuficiencia cardiaca. Su mecanismo de acción principal es la inhibición del sistema renina-angiotensina-aldosterona, lo que lleva a una disminución de la presión arterial.
+
+La absorción oral del enalapril es rápida, con concentraciones séricas máximas alcanzadas aproximadamente a la primera hora de la toma. Una vez absorbido, el enalapril se hidroliza rápidamente a enalaprilato, que es el compuesto activo responsable de la inhibición de la ECA.
+
+El enalaprilato tiene una vida media efectiva de 11 horas, aunque puede variar en pacientes con función renal disminuida. El medicamento también se elimina por vía renal y atraviesa la barrera hematoencefálica en pequeñas cantidades.
+
+**Hidroclorotiazida**
+
+La hidroclorotiazida es un diurético que actúa aumentando la excreción de sodio y cloro en el riñón. Su efecto diurético se produce dentro de las dos horas de administrado, alcanzando su máximo efecto en aproximadamente cuatro horas.
+
+La vida media plasmática de la hidroclorotiazida varía entre 5,6 y 14,8 horas, con un 60% de la dosis oral eliminada sin cambios dentro de las 24 horas. El medicamento también atraviesa la placenta pero no la barrera hematoencefálica.
+
+**Gadopril D**
+
+El Gadopril D es una combinación del enalapril y la hidroclorotiazida. Su mecanismo de acción es similar al del enalapril, con inhibición del sistema renina-angiotensina-aldosterona y disminución de la presión arterial.
+
+El Gadopril D también tiene efecto diurético debido a la presencia de hidroclorotiazida. Su absorción oral es rápida, con concentraciones séricas máximas alcanzadas aproximadamente a la primera hora de la toma.
+
+**Advertencia**
+
+Ante cualquier duda o inquietud sobre el uso de estos medicamentos, consulte a un profesional de la salud.
+
+Referencias:
+
+[1] Fragmento 5: Gadopril
+[2] Fragmento 4: Gadopril D
+[3] Fragmento 6: Gadopril D
+[4] Fragmento 3: Enalapril",False,"The student answer does not contain the ground truth value or an equivalent wording/paraphrase, and it is not a specific information that is missing or contradicted."
+03-Prospecto-Gadopril#0020,¿Qué estudio fue finalizado por riesgo de resultados adversos?,ALTITUDE,"**Preguntas sobre reacciones adversas de medicamentos**
+
+### Ozempic (Semaglutida)
+
+*   Los estudios preclínicos sugieren un mayor riesgo de hiperplasias focales de las células C tiroideas y tumores de células C con agonistas del receptor de GLP-1. No se sabe si existe una relación en humanos entre los agonistas del receptor de GLP-1 y los tumores de células C tiroideas, incluyendo el carcinoma medular de tiroides (MTC).
+*   Se recomienda una evaluación cuidadosa del riesgo-beneficio antes del tratamiento con Ozempic en pacientes con MTC o síndrome de neoplasia endócrina múltiple tipo 2 (MEN 2).
+
+### Sinlip (Rosuvastatina)
+
+*   En estudios clínicos controlados, el 1,4% de los pacientes suspendió el tratamiento por reacciones adversas.
+*   Las reacciones adversas más frecuentemente informadas en ≥2% de los pacientes tratados con rosuvastatina fueron: cefalea; mialgia; dolor abdominal; astenia; náuseas.
+
+### Gadolip (Fenofibrato)
+
+*   Los eventos adversos informados por el 2% o más de los pacientes tratados con fenofibrato y con mayor frecuencia que con placebo durante los estudios doble-ciegos, controlados contra placebo, se señalan en la Tabla 3.
+*   Los aumentos de los valores hepáticos fueron los eventos más frecuentes, provocando la suspensión del tratamiento con fenofibrato en el 1,6% de los pacientes en los estudios doble-ciegos.
+
+### Sin información sobre reacciones adversas para Ozempic
+
+No hay información suficiente para responder a esta pregunta.",False,"The student answer does not explicitly contain the ground truth value 'ALTITUDE' and does not provide an equivalent wording/paraphrase, but it is also not contradictory."
+03-Prospecto-Gadopril#0021,¿Cuál fue el resultado de la adición de aliskirén en pacientes con diabetes mellitus tipo 2?,El estudio se dio por finalizado prematuramente a raíz de un aumento en el riesgo de resultados adversos. La muerte por causas cardiovasculares y los ictus fueron ambos numéricamente más frecuentes en el grupo de aliskirén que en el grupo de placebo.,"**Paxon D (Losartán)**
+
+El medicamento Paxon D contiene losartán, un antagonista de la angiotensina II. Los efectos secundarios más comunes incluyen:
+
+* Descenso importante de la presión arterial
+* Frecuencia cardíaca alterada
+* Hipertrofia ventricular izquierda (aumento del tamaño del corazón)
+
+El estudio LIFE (Losartan Intervention For Endpoint reduction in hypertension) demostró que losartán reduce el riesgo de ictus en un 25% en comparación con atenolol. Sin embargo, las tasas de muerte cardiovascular e infarto de miocardio no fueron significativamente diferentes entre los grupos de tratamiento.
+
+**Risperin (Risperidona)**
+
+El medicamento Risperin contiene risperidona, un antipsicótico atípico. Los efectos secundarios incluyen:
+
+* Aumento de peso
+* Dislipidemia (alteraciones en los niveles de lípidos)
+* Hiperglucemia (aumento de la glucosa en sangre)
+
+Se recomienda el monitoreo clínico del peso y controlar regularmente con análisis de glucemia a pacientes que comienzan a ser tratados con antipsicóticos atípicos.
+
+**Paxon**
+
+No hay información suficiente sobre el medicamento Paxon para responder con precisión. Sin embargo, se puede inferir que es un medicamento similar a Paxon D (Losartán) ya que comparte el mismo nombre y los efectos secundarios mencionados en el contexto de Paxon D.
+
+**Risperin Sol Oral**
+
+No hay información suficiente sobre el medicamento Risperin Sol Oral para responder con precisión. Sin embargo, se puede inferir que es un medicamento similar a Risperin (Risperidona) ya que comparte el mismo nombre y los efectos secundarios mencionados en el contexto de Risperin.
+
+**Advertencia general**
+
+Ante dudas o inquietudes sobre la seguridad o eficacia de estos medicamentos, es importante consultar a un profesional de la salud.",False,The student answer does not explicitly contain the ground truth value or provide an equivalent wording/paraphrase.
+03-Prospecto-Gadopril#0022,¿Qué riesgo de muerte disminuyó con Gadopril en IC?,16%,"**Gadopril (Enalapril)**
+
+El medicamento Gadopril, también conocido como Enalapril, es un fármaco utilizado para tratar la hipertensión arterial y la insuficiencia cardíaca congestiva. A continuación, se presentan los detalles sobre su uso en embarazadas, lactancia materna y pediatría.
+
+**Embarazo**
+
+*   El medicamento no debe ser utilizado durante el embarazo a menos que sea absolutamente necesario.
+*   Si se utiliza durante el embarazo, la paciente debe ser informada del riesgo potencial para el feto.
+*   Se recomienda realizar exámenes ecográficos para controlar el medio intraamniótico y detectar oligohidramnios.
+
+**Lactancia Materna**
+
+*   El medicamento se encuentra en la leche materna, por lo que si se considera indispensable su uso, la paciente debe dejar de amamantar.
+
+**Pediatria**
+
+*   La experiencia sobre el uso en pacientes pediátricos hipertensos de más de 6 años es limitada.
+*   En un estudio clínico, los pacientes que pesaban <50 kg recibieron 0,625, 2,5 ó 20 mg de enalapril al día, y los que pesaban ≥50 kg recibieron 1,25, 5 ó 40 mg de enalapril al día.
+*   La administración de enalapril una vez al día redujo la presión arterial mínima de forma dependiente de la dosis.
+
+**Advertencia General**
+
+Ante dudas o inquietudes sobre el uso de Gadopril, es importante consultar a un profesional médico para obtener orientación personalizada y adecuada a las necesidades individuales.",False,The student answer does not explicitly contain the ground truth value or provide an equivalent wording/paraphrase.
+03-Prospecto-Gadopril#0023,¿Qué efecto tuvo Gadopril en infartos de miocardio?,23%,"El medicamento mencionado en la pregunta es Gadopril (Enalapril). Según los prospectos proporcionados, no se encontró información específica sobre su efecto en infartos de miocardio. Sin embargo, el estudio SOLVD menciona que en pacientes con disfunción ventricular izquierda, Gadopril redujo el riesgo de infarto de miocardio en un 23% (IC del 95%, 11-34%; p < 0,001) y redujo el riesgo de hospitalización por angina de pecho inestable en un 20% (IC del 95%, 9-29%; p < 0,001).
+
+**Gadopril (Enalapril)**
+
+* No se encontró información específica sobre su efecto en infartos de miocardio.
+* En el estudio SOLVD, Gadopril redujo el riesgo de infarto de miocardio en un 23% y redujo el riesgo de hospitalización por angina de pecho inestable en un 20%.
+
+Referencias:
+[3], [4]",True,"The student answer provides an equivalent wording of the ground truth, mentioning a 23% reduction in myocardial infarction risk."
+03-Prospecto-Gadopril#0024,¿Cuál es la dosis máxima de Gadopril para adultos?,40 mg/día,"La dosis máxima de Gadopril (enalapril) para adultos es de 40 mg al día administrada en dos tomas. Sin embargo, la dosis inicial recomendada es de 5 mg hasta un máximo de 20 mg una vez por día y se ajusta según el grado de hipertensión y del estado del paciente.
+
+Además, en pacientes con insuficiencia renal o que están tomando diuréticos, se deben adoptar precauciones especiales y vigilar cuidadosamente la presión arterial y la función renal tanto antes como después de iniciar el tratamiento con Gadopril.",True,"The student answer provides the correct maximum dose of Gadopril for adults, but also includes additional information."
+03-Prospecto-Gadopril#0026,¿Qué dosis máximas de Gadopril en semanas 3-4?,20 mg/día,La dosis máxima de Gadopril en semanas 3 y 4 es de 20 mg/día (en dos tomas) según [2].,True,"The student answer provides the exact wording of the ground truth, including units and frequency."
+03-Prospecto-Gadopril#0028,¿Cuánto Gadopril recomienda para niños > 50kg?,40 mg,"**Gadopril (Enalapril)**
+
+La dosis recomendada de Gadopril para niños mayores de 50 kg es de 5 mg al día, ajustable según la respuesta de la presión arterial y el perfil del paciente. La dosis máxima diaria es de 40 mg.
+
+**Nota:** Es importante consultar a un profesional médico antes de iniciar cualquier tratamiento con medicamentos.
+
+Referencias:
+[3], [4]",True,"The student answer provides the correct dosage of Gadopril for children over 50kg, which matches the ground truth."
+03-Prospecto-Gadopril#0029,¿Qué pacientes deben evitar Gadopril® con otros medicamentos?,"Pacientes con antecedentes de angioedema en relación a tratamientos con inhibidores de la ECA, pacientes con angioedema ideopático o hereditario, segundo y tercer trimestres del embarazo.","**Gadopril (Enalapril)**
+
+*   **Contraindicaciones**: Pacientes con hipersensibilidad conocida a los componentes de Gadopril, pacientes con antecedentes de angioedema en relación a tratamientos con inhibidores de la ECA, pacientes con angioedema idiopático o hereditario, segundo y tercer trimestres del embarazo.
+*   **Advertencia**: El uso concomitante de Gadopril con medicamentos que contengan aliskirén está contraindicado en pacientes con diabetes mellitus o insuficiencia renal (TFG < 60 ml/min/1,73 m2). El tratamiento con Gadopril no se debe iniciar antes de 36 horas tras la última dosis de sacubitril/valsartán.
+
+**Gadopril D (Enalapril + Hidroclorotiazida)**
+
+*   **Contraindicaciones**: Pacientes con hipersensibilidad a cualquiera de los componentes del producto, pacientes con antecedentes de angioedema relacionado a tratamientos previos con un IECA y en pacientes con angioedema hereditario o idiopático. Debido al componente de hidroclorotiazida, el producto esta contraindicado en pacientes con anuria o hipersensibilidad a otras drogas derivadas de la sulfonamida.
+
+**Advertencia general**: Ante dudas sobre las indicaciones y contraindicaciones de estos medicamentos, consultar a un profesional médico.",True,"The student answer provides the correct information about patients who should avoid Gadopril, including those with a history of angioedema related to ACE inhibitors."
+03-Prospecto-Gadopril#0030,Qué ocurre en ICF con Gadopril y PA normal/baja?,Un descenso adicional de la presión arterial sistémica.,"**Gadopril D**
+
+### Advertencias y precauciones
+
+*   Los IECA pueden producir reacciones anafilactoides que se resuelven espontáneamente o con antihistamínicos, o bien pueden requerir la interrupción de su administración y el tratamiento correspondiente.
+*   La hipotensión excesiva rara vez ocurre en pacientes tratados únicamente con Gadopril D; es más probable que se presente en pacientes hipovolémicos que reciben en forma concomitante diuréticos, dietas hiposódicas, diálisis, o que padecen diarreas o vómitos.
+*   Los pacientes con insuficiencia cardíaca con o sin insuficiencia renal asociada y aquellos con cardiopatía isquémica o enfermedad cerebrovascular pueden presentar mayor tendencia a sufrir una hipotensión sintomática luego de la primera dosis.
+
+### Interacciones
+
+*   La hidroclorotiazida no fue genotóxica in vitro en el ensayo de mutagénesis Ames de Salmonella typhimurium.
+*   No se recomienda el uso de Gadopril D durante el embarazo. Tanto el enalapril como la hidroclorotiazida atraviesan la barrera placentaria.
+
+### Embarazo y lactancia
+
+*   Se debe tener en cuenta que el oligohidramnios puede no aparecer hasta que el feto haya sufrido un daño irreversible.
+*   Los niños cuyas madres han tomado Gadopril D deberían ser cuidadosamente observados para detectar hipotensión, oliguria e hiperkalemia.
+
+### Uso en pediatría y geriatría
+
+*   No se ha establecido la seguridad y eficacia en niños.
+*   En estudios clínicos la eficacia y tolerabilidad del enalapril y de la hidroclorotiazida administrados concomitantemente, fueron similares tanto en pacientes hipertensos de edad avanzada como en los más jóvenes.
+
+**Advertencia general:** Ante dudas o inquietudes sobre el uso de Gadopril D, consultar a un profesional médico.",True,The student answer is correct because it explicitly contains the ground truth value 'Un descenso adicional de la presión arterial sistémica' in its text.
+03-Prospecto-Gadopril#0031,¿Cuál es el síntoma que puede ocurrir en pacientes tratados con Gadopril®?,"Edema angioneurótico de la cara, extremidades, labios, lengua, glotis y/o laringe.","**Gadopril**
+
+*   **Contraindicaciones**: El medicamento Gadopril está contraindicado en pacientes con hipersensibilidad conocida a los componentes del fármaco, angioedema idiopático o hereditario, segundo y tercer trimestres del embarazo, y uso concomitante de sacubitril/valsartán.
+*   **Posología**: La dosis inicial recomendada para pacientes adultos es de 2,5 mg en pacientes de 20 a < 50 kg y de 5 mg en pacientes ≥ 50 kg. Se debe ajustar la dosis según las necesidades del paciente hasta un máximo de 20 mg al día en pacientes de 20 a < 50 kg y 40 mg en pacientes de ≥ 50 kg.
+*   **Reacciones adversas**: Las reacciones adversas más comunes incluyen hipotensión, edema periférico, cefalea, fatiga, náuseas, vómitos, diarrea, dolor abdominal, insomnio, ansiedad y depresión.
+*   **Sobredosis**: La sobredosis de Gadopril puede causar hipotensión marcada, estupor y puede ser removido de la circulación general por hemodiálisis.
+
+**Enalapril**
+
+*   **Contraindicaciones**: El medicamento Enalapril está contraindicado en pacientes con hipersensibilidad conocida a los componentes del fármaco, angioedema idiopático o hereditario y segundo y tercer trimestres del embarazo.
+*   **Posología**: La dosis inicial recomendada para pacientes adultos es de 2,5 mg en pacientes de 20 a < 50 kg y de 5 mg en pacientes ≥ 50 kg. Se debe ajustar la dosis según las necesidades del paciente hasta un máximo de 20 mg al día en pacientes de 20 a < 50 kg y 40 mg en pacientes de ≥ 50 kg.
+*   **Reacciones adversas**: Las reacciones adversas más comunes incluyen hipotensión, edema periférico, cefalea, fatiga, náuseas, vómitos, diarrea, dolor abdominal, insomnio, ansiedad y depresión.
+*   **Sobredosis**: La sobredosis de Enalapril puede causar hipotensión marcada, estupor y puede ser removido de la circulación general por hemodiálisis.
+
+**Hidroclorotiazida**
+
+*   **Contraindicaciones**: El medicamento Hidroclorotiazida está contraindicado en pacientes con hipersensibilidad conocida a los componentes del fármaco, insuficiencia renal grave y segundo y tercer trimestres del embarazo.
+*   **Posología**: La dosis inicial recomendada para pacientes adultos es de 2,5 mg en pacientes de 20 a < 50 kg y de 5 mg en pacientes ≥ 50 kg. Se debe ajustar la dosis según las necesidades del paciente hasta un máximo de 20 mg al día en pacientes de 20 a < 50 kg y 40 mg en pacientes de ≥ 50 kg.
+*   **Reacciones adversas**: Las reacciones adversas más comunes incluyen hipotensión, edema periférico, cefalea, fatiga, náuseas, vómitos, diarrea, dolor abdominal, insomnio, ansiedad y depresión.
+*   **Sobredosis**: La sobredosis de Hidroclorotiazida puede causar hipotensión marcada, estupor y puede ser removido de la circulación general por hemodiálisis.
+
+**Advertencia General**
+
+Ante cualquier duda o inquietud sobre el uso de estos medicamentos, es importante consultar a un profesional de la salud.",False,The student answer is not equivalent to the ground truth and does not contain it.
+03-Prospecto-Gadopril#0032,¿Qué medicamento está contraindicado por angioedema según la ley?,Sacubitril/valsartán,"**Medicamentos contraindicados por angioedema según la ley**
+
+### Gadopril (Gadopril D)
+
+*   El uso concomitante de IECA (inhibidores de la ECA) con sacubitril/valsartán está contraindicado debido al riesgo elevado de sufrir angioedema. [1]
+*   Los pacientes con antecedentes de cirugía en las vías respiratorias pueden experimentar obstrucción de las vías respiratorias si se afecta la lengua, glotis o laringe. [1]
+
+### Desvenlafaxina (Deslafax)
+
+*   Se han reportado casos de angioedema en pacientes en tratamiento con desvenlafaxina. [5]
+*   El medicamento está contraindicado para uso concomitante en pacientes tratados con inhibidores de la monoamino oxidasa (IMAO) o dentro de los 14 días desde la interrupción del tratamiento con el IMAO, debido al aumento del riesgo de síndrome serotoninérgico. [5]
+
+**Advertencia general**
+
+Ante dudas sobre el uso de estos medicamentos, es importante consultar a un profesional médico para obtener orientación personalizada y precisa.
+
+Referencias:
+
+[1] gadopril • ADVERTENCIAS Y PRECAUCIONES • 03-Prospecto-Gadopril.txt
+[2] deslafax • CONTRAINDICACIONES • G00127802-03-Deslafax-web.txt
+[3] deslafax • POSOLOGÍA Y MODO DE ADMINISTRACIÓN • G00127802-03-Deslafax-web.txt
+[4] gadopril d • ADVERTENCIAS Y PRECAUCIONES • G00075902-04-gadoprild-web.txt",False,"The student answer does not explicitly contain the ground truth value, but it provides equivalent wording/paraphrase of the correct medication."
+03-Prospecto-Gadopril#0033,¿Cuál es el efecto de los inhibidores de la ECA en pacientes con hipertensión?,Los inhibidores de la ECA bloquean la formación de angiotensina II inducida por la liberación compensadora de renina en pacientes sometidos a operaciones de cirugía mayor o durante la anestesia con agentes que provocan hipotensión.,"**Gadopril (Enalapril)**
+
+**Indicaciones**
+
+* Tratamiento de la hipertensión arterial
+* Tratamiento de la insuficiencia cardiaca sintomática
+* Prevención de la insuficiencia cardiaca sintomática en pacientes con disfunción ventricular izquierda asintomática (fracción de eyección ≤ 35%)
+
+**Propiedades Farmacológicas**
+
+Gadopril es una sal maleato de enalapril, un derivado de dos aminoácidos. La enzima de conversión de angiotensina (ECA) cataliza la conversión de la angiotensina I a la sustancia hipertensora angiotensina II. Después de su absorción, enalapril se hidroliza a enalaprilato, que inhibe la ECA.
+
+**Interacciones**
+
+* Raramente se han comunicado reacciones nitritoides (rubefacción facial, náuseas, vómitos e hipotensión) en pacientes en tratamiento con oro inyectable y tratamiento concomitante con un inhibidor de la ECA.
+* Los simpaticomiméticos pueden reducir los efectos antihipertensivos de los inhibidores de la ECA.
+* Estudios epidemiológicos han sugerido que la administración concomitante de inhibidores de la ECA y medicamentos antidiabéticos puede causar un efecto mayor del descenso de la glucosa en sangre, con riesgo de hipoglucemia.
+
+**Advertencia**
+
+Ante dudas o inquietudes sobre el uso de Gadopril, consultar a un profesional médico.",True,The student answer provides the correct name of an ACE inhibitor and its indication for hypertension.
+03-Prospecto-Gadopril#0034,¿Cuál medicamento puede causar hiperpotasemia en pacientes con insuficiencia renal?,Los IECA pueden causar hiperpotasemia porque inhiben la liberación de aldosterona.,"**Eplerenona**
+
+La eplerenona está contraindicada en pacientes con:
+
+* Hipersensibilidad a eplerenona o a cualquiera de los excipientes.
+* Nivel de potasio sérico > 5,0 mmol/L al inicio del tratamiento.
+* Insuficiencia renal moderada a grave (aclaramiento de creatinina < 50 mL/min).
+* Insuficiencia hepática grave (Child-Pugh Clase C).
+* Uso concomitante de diuréticos ahorradores de potasio, suplementos de potasio o inhibidores potentes del CYP3A4.
+
+La eplerenona puede producir hiperpotasemia. Se deben monitorizar los niveles de potasio sérico en todos los pacientes al inicio del tratamiento y en cualquier cambio de dosis. Posteriormente, se recomienda la monitorización periódica, especialmente en los pacientes con riesgo de desarrollar hiperpotasemia.
+
+**Hipertensión**
+
+La eplerenona puede utilizarse solo o en combinación con otros agentes antihipertensivos. La dosis inicial recomendada es 50 mg administrados una vez al día. Se observará el efecto terapéutico completo de la eplerenona dentro de las 4 semanas.
+
+**Precauciones**
+
+Se deben monitorizar los niveles de potasio sérico en todos los pacientes al inicio del tratamiento y en cualquier cambio de dosis. Posteriormente, se recomienda la monitorización periódica, especialmente en los pacientes con riesgo de desarrollar hiperpotasemia.
+
+Referencias:
+
+[1] Fragmento 5
+[2] Fragmento 6",True,The student answer is correct because it explicitly contains the ground truth value 'eplerenona' and provides equivalent wording.
+03-Prospecto-Gadopril#0035,¿Qué medicamento con Gadopril aumenta el riesgo de angioedema?,"racecadotril, inhibidores de mTOR (por ejemplo, sirolimus, everolimus, temsirolimus) y vildagliptina","**Gadopril (Enalapril)**
+
+### Contraindicaciones
+
+*   Hipersensibilidad conocida a los componentes de Gadopril o alguno de los excipientes.
+*   Pacientes con antecedentes de angioedema en relación a tratamientos con inhibidores de la ECA.
+*   Pacientes con angioedema idiopático o hereditario.
+*   Segundo y tercer trimestres del embarazo.
+
+### Posología y Modo de Administración
+
+La dosis habitual de Gadopril es de 1 ó 2 comprimidos administrados una vez por día. Se recomienda especial precaución al iniciar el tratamiento, ya que puede ocurrir hipotensión sintomática luego de la dosis inicial.
+
+### Advertencia General
+
+Ante dudas sobre el uso de Gadopril, consultar a un profesional médico.
+
+Referencias:
+
+[1] gadopril d • ADVERTENCIAS Y PRECAUCIONES • G00075902-04-gadoprild-web.txt
+[2] gadopril d • POSOLOGÍA Y MODO DE ADMINISTRACIÓN • G00075902-04-gadoprild-web.txt
+[3] gadopril • CONTRAINDICACIONES • 03-Prospecto-Gadopril.txt",True,The student answer is correct because it explicitly contains the ground truth value 'Gadopril' and does not contradict any information in the ground truth.
+03-Prospecto-Gadopril#0036,¿Qué medicamento interactúa con los ARA II o ECA inhibidores?,"Los medicamentos antiinflamatorios no esteroideos (AINEs), incluyendo a los inhibidores selectivos de la ciclooxigenasa-2 (COX-2)","**Valsartan**
+
+* El uso concomitante de valsartan con otros agentes bloqueantes del Sistema Renina-Angiotensina Aldosterona (SRAA) se asocia con una mayor incidencia de hipotensión, hiperpotasemia y cambio en la función renal en comparación con la monoterapia.
+* El bloqueo dual del SRAA puede aumentar el riesgo de efectos adversos.
+
+**Hidroclorotiazida**
+
+* La hidroclorotiazida puede causar hipercalcemia, especialmente en pacientes con historia de alergia a sulfamidas o penicilina.
+* El glaucoma agudo de ángulo estrecho es un efecto adverso raro pero grave asociado con la hidroclorotiazida.
+* La hidroclorotiazida puede aumentar las concentraciones de calcio sérico y debe usarse con precaución en pacientes con hipercalcemia.
+
+**Enalapril**
+
+* El enalapril bloquea la enzima convertidora de angiotensina (ECA), lo que disminuye la presión arterial y aumenta el potasio sérico.
+* La administración concomitante de enalapril y hidroclorotiazida no altera la biodisponibilidad de cada droga.
+
+**Advertencia general**
+
+Ante cualquier duda o inquietud sobre los efectos adversos o interacciones de estos medicamentos, consulte a un profesional de la salud.",False,The student answer does not mention the ground truth value or provide an equivalent wording/paraphrase.
+03-Prospecto-Gadopril#0037,¿Cuál es el efecto potencial del alcohol en los inhibidores de la ECA?,El alcohol potencia el efecto hipotensor de los inhibidores de la ECA.,"**Gadopril (Enalapril)**
+
+**Indicaciones**
+
+* Tratamiento de la hipertensión arterial
+* Tratamiento de la insuficiencia cardiaca sintomática
+* Prevención de la insuficiencia cardiaca sintomática en pacientes con disfunción ventricular izquierda asintomática (fracción de eyección ≤ 35%)
+
+**Propiedades Farmacológicas**
+
+Gadopril es un derivado de dos aminoácidos, L-alanina y L-prolina. Después de su absorción, se hidroliza a enalaprilato, que inhibe la Enzima de Conversión de Angiotensina (ECA). La inhibición de la ECA produce un descenso de la angiotensina II en plasma, lo que provoca un aumento de la actividad de renina plasmática y una disminución de la secreción de aldosterona.
+
+**Interacciones**
+
+* Simpaticomiméticos: pueden reducir los efectos antihipertensivos de Gadopril
+* Antidiabéticos: puede causar un efecto mayor del descenso de la glucosa en sangre, con riesgo de hipoglucemia
+* Alcohol: potencia el efecto hipotensor de Gadopril
+
+**Contraindicaciones**
+
+No se recomienda el uso de Gadopril durante el embarazo.
+
+**Advertencia General**
+
+Ante dudas o consultas sobre el uso de Gadopril, es importante consultar a un profesional médico.",False,The student answer does not address the effect of alcohol on ECA inhibitors.
+03-Prospecto-Gadopril#0039,¿Qué grupos de personas no reciben Gadopril?,"Recién nacidos y pacientes pediátricos con un índice de filtración glomerular < 30 ml/min/1,73 m2","**Gadopril (Enalapril)**
+
+### Efectos Adversos y Contraindicaciones
+
+*   Los inhibidores de la enzima de conversión de angiotensina (ECA) pueden causar hipotensión, especialmente en pacientes con obstrucción del flujo de salida del ventrículo izquierdo o shock cardiogénico.
+*   El tratamiento con inhibidores de la ECA puede aumentar el riesgo de insuficiencia renal en pacientes con estenosis bilateral de las arterias renales o estenosis de la arteria renal de un único riñón funcionante.
+*   En casos raros, los inhibidores de la ECA se han asociado a un síndrome que comienza con ictericia colestásica o hepatitis y progresa hasta necrosis hepática fulminante y (en ocasiones) muerte.
+
+### Posología
+
+*   La dosis inicial recomendada para pacientes adultos es de 2,5 mg al día.
+*   La dosis máxima recomendada es de 20 mg al día en pacientes con función renal normal o leve deterioro.
+*   En pacientes con filtración glomerular ≤ 30 mL/min, la dosis debe ser ajustada según las necesidades del paciente hasta un máximo de 2,5 mg al día.
+*   En pacientes pediátricos, la dosis inicial recomendada es de 0,625 a 1,25 mg al día en función del peso corporal.
+
+### Embarazo y Lactancia
+
+*   No se conocen evidencias de carcinogenicidad en tratamientos prolongados en ratas y ratones con dosis 150 a 300 veces superiores a la dosis máxima recomendada en humanos.
+*   Los estudios de mutagenicidad y genotoxicidad realizados con enalapril resultaron negativos.
+
+### Uso en Ancianos
+
+*   La dosis debe adecuarse a la función renal del paciente anciano.
+
+### Uso Pediátrico
+
+*   La experiencia sobre el uso en pacientes pediátricos hipertensos de más de 6 años es limitada.
+*   En un estudio clínico, los pacientes que pesaban < 50 kg recibieron 0,625, 2,5 ó 20 mg de enalapril al día, y los que pesaban ≥ 50 kg recibieron 1,25, 5 ó 40 mg de enalapril al día.
+
+### Advertencia General
+
+Ante dudas o inquietudes sobre el uso del medicamento Gadopril (Enalapril), es importante consultar a un profesional de la salud para obtener orientación personalizada y precisa.",False,"The student answer does not explicitly contain the ground truth value, but it is an equivalent wording/paraphrase of the correct information."
+03-Prospecto-Gadopril#0040,¿Cuál es el efecto de enalapril sobre la presión arterial en pacientes de raza negra?,Enalapril es menos efectivo disminuyendo la presión arterial en pacientes de raza negra.,"**Gadopril (Enalapril)**
+
+### Acción Farmacológica
+
+El enalapril es un inhibidor de la enzima de conversión de angiotensina (ECA), que cataliza la conversión de la angiotensina I a la sustancia hipertensora angiotensina II. Después de su absorción, el enalapril se hidroliza a enalaprilato, que inhibe la ECA. Esto produce un descenso de la angiotensina II en plasma y una disminución de la secreción de aldosterona.
+
+### Indicaciones
+
+El Gadopril (Enalapril) está indicado para:
+
+* Tratamiento de la hipertensión arterial.
+* Tratamiento de la insuficiencia cardiaca sintomática.
+* Prevención de la insuficiencia cardiaca sintomática en pacientes con disfunción ventricular izquierda asintomática (fracción de eyección ≤ 35%).
+
+### Propiedades Farmacológicas
+
+El Gadopril (Enalapril) es una sal maleato de enalapril, un derivado de dos aminoácidos, L-alanina y L-prolina. La inhibición de la ECA produce un aumento de la actividad de renina plasmática y una disminución de la secreción de aldosterona.
+
+### Advertencia
+
+Ante dudas o inquietudes sobre el uso del Gadopril (Enalapril), es importante consultar a un profesional de la salud para obtener orientación personalizada y adecuada a las necesidades individuales.
+
+Referencias:
+
+[1] Fragmento 5: Gadopril d · ACCIÓN FARMACOLÓGICA
+[2] Fragmento 6: gadopril · INDICACIONES
+[3] Fragmento 4: gadopril d · ACCIÓN FARMACOLÓGICA",False,"The student answer does not explicitly contain the ground truth value or provide an equivalent wording/paraphrase, and it contradicts the ground truth by mentioning Gadopril as a more effective option."
+03-Prospecto-Gadopril#0041,¿Puede causar enalapril alteraciones en alto riesgo?,Excesiva hipotensión,"**Perampanel**
+
+El medicamento Perampanel se utiliza para tratar la epilepsia. Según los prospectos, la dosis de Perampanel debe ajustarse conforme a la respuesta individual de cada paciente para lograr el control óptimo de la enfermedad.
+
+La dosis inicial recomendada es de 2 mg al día, que puede aumentarse hasta un máximo de 12 mg al día en función de la respuesta del paciente. Sin embargo, se advierte que los mareos y alteraciones de la coordinación pueden ocurrir con mayor frecuencia con el aumento de la dosis.
+
+Se recomienda asesorar al paciente sobre el riesgo de caídas debido a estos efectos adversos. Además, se debe tener en cuenta que los ancianos tienen un mayor riesgo de padecer estas reacciones adversas.
+
+**Enalapril**
+
+El medicamento Enalapril es un inhibidor de la enzima de conversión de angiotensina (ECA). Según los prospectos, no se conocen evidencias de carcinogenicidad en tratamientos prolongados en ratas y ratones con dosis 150 a 300 veces superiores a la dosis máxima recomendada en humanos.
+
+Se recomienda precaución en pacientes con insuficiencia renal o hipotensión. En caso de sobredosificación, se debe administrar suero salino normal por vía intravenosa y considerar la posibilidad de una perfusión de angiotensina II y/o la administración de catecolaminas por vía intravenosa.
+
+**Advertencia general**
+
+Ante dudas o inquietudes sobre el uso de estos medicamentos, se recomienda consultar a un profesional de la salud para obtener asesoramiento personalizado y adecuado a las necesidades individuales del paciente.
+
+Referencias:
+
+[1] Fragmento 5: Enalapril
+[2] Fragmento 6: Perampanel",False,The student answer does not address the question about enalapril's risk of causing excessive hypotension.
+03-Prospecto-Gadopril#0043,¿Cuál es el tratamiento recomendado para la sobredosificación de maleato de enalapril?,La administración por perfusión intravenosa de suero salino normal.,"**Sobredosis de medicamentos**
+
+Los prospectos mencionan varios medicamentos y sus posibles efectos en caso de sobredosis. A continuación, se presentan los detalles sobre cada uno de ellos:
+
+### **Enalapril (Gadopril)**
+
+*   La sobredosis de Enalapril puede causar hipotensión marcada, que comienza a las seis horas después de la ingestión del comprimido. Esto se debe al bloqueo del sistema renina-angiotensina.
+*   El tratamiento general para la sobredosificación incluye infusión intravenosa de solución salina.
+
+### **Hidroclorotiazida (Gadopril)**
+
+*   La sobredosis de Hidroclorotiazida puede causar depleción electrolítica y deshidratación debido a diuresis excesiva.
+*   El tratamiento general para la sobredosificación incluye infusión intravenosa de solución salina.
+
+### **Valproato (Divalprex ER)**
+
+*   La sobredosis de Valproato puede causar somnolencia, bloqueo cardíaco y coma profundo.
+*   El tratamiento general para la sobredosificación incluye infusión intravenosa de solución salina.
+
+### **Notificación de sospecha de reacciones adversas**
+
+Es importante notificar las sospechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia o al Departamento de Farmacovigilancia de GADOR S.A.",False,"The student answer does not explicitly mention the ground truth value, but it provides equivalent wording/paraphrase of the treatment for maleato de enalapril overdose."
+E.DP_.Caps_.Gador_.v01_web#0046,¿Cuánta Vitamina E tiene DEKAs® PLUS en cada cápsula blanda?,150 UI,"Según el prospecto del medicamento DEKAs® PLUS, la cantidad de Vitamina E por cápsula blanda es de 150 UI (Unidades Internacionales) [1].",True,The student answer matches the ground truth exactly.
+E.DP_.Caps_.Gador_.v01_web#0047,¿Cuánta Levadura de selenio hay en cápsulas blanda?,75 mg,"No se menciona la Levadura de selenio en los prospectos proporcionados. El contexto solo muestra información sobre el medicamento ""Elafax LP"" y sus componentes, pero no incluye levadura de selenio como ingrediente.
+
+Advertencia: Si tienes dudas o preguntas sobre un medicamento, es importante consultar a un profesional de la salud para obtener asesoramiento personalizado.",False,The student answer does not contain the ground truth value and does not provide an equivalent wording/paraphrase.
+EmoformTotalG00075702-09-web#0048,¿Qué es el etidronato en Emo form Total?,Impide el crecimiento y aposición del sarro,"**Etidronato en Emo form Total**
+
+El etidronato disódico es un ingrediente del medicamento **Emo form Total**, una crema dental para prevenir la aparición de caries y desgregar el sarro ya formado. El etidronato disódico impide el crecimiento y aposición del sarro (1).
+
+**Características del Emo form Total**
+
+El Emo form Total es una crema dental que previene la aparación de caries y desgrega el sarro ya formado, además de permitir una higiene profunda y suave sin dañar el esmalte dental (1).
+
+**Instrucciones para usar Emo form Total**
+
+Se recomienda cepillar los dientes con Emo form Total tres veces por día, luego de las principales comidas. El método recomendado es el de Bass: apoye los filamentos del cepillo a 45° en la unión de dientes y encías, efectuando movimientos horizontales cortos y suaves (2).
+
+**Advertencia**
+
+Antes de usar cualquier medicamento o producto para el cuidado dental, consulte con su odontólogo si tiene alguna duda.
+
+Referencias:
+[1] emo form total • UNKNOWN • EmoformTotalG00075702-09-web.txt
+[2] emo form total • UNKNOWN • EmoformTotalG00075702-09-web.txt",True,"The student answer provides the correct wording of the ground truth, but also includes extra information."
+EmoformTotalG00075702-09-web#0049,¿Qué dice ANMAT sobre Higiene Oral de Uso Odontológico?,Disposición N° 0645/13,"No se menciona en los prospectos de los medicamentos presentados un producto específico llamado ""Higiene Oral de Uso Odontológico"". Sin embargo, se mencionan varios productos que podrían estar relacionados con la higiene oral:
+
+* Emoform Total (fragmento [1]): es una crema dental que previene la aparición de caries y disgrega el sarro ya formado.
+* SQUAM (fragmentos [3] y [5]): es un producto de higiene oral que posee una efectiva acción anticaries y previene la enfermedad periodontal.
+* Desensyl (fragmento [6]): es un crema dental desensibilizante que protege el esmalte y las encías.
+
+No hay información suficiente en los prospectos para determinar si estos productos son específicamente ""Higiene Oral de Uso Odontológico"".
+
+**Advertencia:** Si tiene alguna duda o inquietud sobre la higiene oral, consulte a un profesional odontológico.",True,"The student answer does not explicitly mention the ground truth value, but it provides equivalent wording/paraphrase."
+FILTEN-D-G00081104-05#0050,¿Cuál es el código ATC de FILTEN D?,C03AX01,"**FILTEN D**
+
+**¿Qué es FILTEN D y para qué se utiliza?**
+
+FILTEN D contiene Carvedilol e Hidroclorotiazida como ingredientes activos. Es la asociación de Carvedilol con Hidroclorotiazida. El Carvedilol pertenece a un grupo de medicamentos conocidos como bloqueantes de los receptores alfa y beta. La Hidroclorotiazida pertenece a un grupo de diuréticos conocidos como tiazídicos.
+
+FILTEN D tiene propiedades antioxidantes, antihipertensivas (disminución de la presión arterial), vasodilatadoras y antianginosas. Además disminuye el gasto cardiaco, y tiene efectos favorables sobre la circulación sanguínea a nivel del corazón.
+
+FILTEN D está indicado en el tratamiento de:
+
+- Hipertensión arterial, especialmente cuando no se han alcanzado las cifras de presión arterial requeridas con un solo fármaco.
+
+**¿Qué necesita saber antes de empezar a tomar FILTEN D?**
+
+No tome FILTEN D si tiene:
+
+- Alergia a Carvedilol, a la Hidroclorotiazida, otras tiazidas o sulfonamidas o cualquiera de los excipientes.
+- Un tipo de insuficiencia cardiaca descompensada de la llamada clase IV (incapacidad del corazón para realizar su función de bombeo ante la actividad física y en reposo).
+- Enfermedad pulmonar obstructiva crónica (EPOC) con los bronquios obstruidos (dificultad para respirar)
+- Si su hígado no funciona bien.
+- Asma bronquial.
+- Enfermedad del corazón que consiste en bloqueo auriculoventricular (A-V) de segundo y tercer grado (a menos que se haya implantado un marcapasos permanente).
+- Si su corazón late lento (menos de 50 latidos por minuto).
+
+**¿Qué debe hacer si toma más FILTEN D del que debe?**
+
+Si usted toma más FILTEN D del que debe, contacte rápidamente a su médico o acuda al centro hospitalario más cercano. Lleve con usted el medicamento.
+
+**¿Qué debe hacer si olvida tomar FILTEN D?**
+
+No tome una dosis doble para compensar las dosis olvidadas.
+
+**Conservación de FILTEN D**
+
+Conservar en su envase original a temperatura ambiente hasta 25°C. No use este medicamento si la etiqueta o el envase está dañado.
+
+**Advertencia general**
+
+Si tiene alguna duda sobre el uso de este medicamento, pregunte a su médico.
+
+Referencias:
+
+[1] FILTEN D - Gador S.A.
+[2] FILTEN D - Gador S.A.
+[3] FILTEN D - Gador S.A.
+[4] FILTEN D - Gador S.A.
+[5] FILTEN D - Gador S.A.",False,"The student answer is a paraphrase of the ground truth, but it's not explicitly mentioned in the text."
+FILTEN-D-G00081104-05#0051,¿Cuál es la vida media de eliminación de Hidroclorotiazida?,Entre 6 a 18 horas,"**Lucaftor**
+
+*   La vida media del lumacaftor es de aproximadamente 26 horas.
+*   El clearance típico aparente, CL/F (CV) del lumacaftor se estimó en 2,38 l/h (29,4%) para los pacientes con FQ.
+
+**Ivacaftor**
+
+*   La vida media del ivacaftor cuando se administra con lumacaftor es de aproximadamente 9 horas.
+*   El CL/F (CV) típico del ivacaftor cuando se lo administra en combinación con lumacaftor se estimó en 25,1 l/h (40,5%) para los pacientes con FQ.
+
+**Poblaciones Especiales**
+
+*   Las exposiciones son similares entre la población adulta y la población pediátrica según los análisis farmacocinéticos poblacionales.
+
+Referencias:
+
+[1] Prospecto-Lucaftor100-125-2024.txt
+[2] Prospecto-Lucaftor100-125-2024.txt",False,"The student answer does not contain the ground truth value or an equivalent wording/paraphrase, and it contradicts the requested specific information."

@@ -1,0 +1,3584 @@
+ATRIPLA®
+
+EFAVIRENZ 600 mg
+EMTRICITABINA 200 mg
+TENOFOVIR DISOPROXIL FUMARATO 300 mg
+Comprimidos recubiertos
+Venta bajo receta archivada.
+
+COMPOSICIÓN
+Cada comprimido recubierto de ATRIPLA® contiene:
+Efavirenz ........................................................................................................... 600 mg
+Emtricitabina .................................................................................................... 200 mg
+Tenofovir disoproxil fumarato (equivalente a 245 mg de disoproxilo de tenofovir) 300 mg
+Excipientes:  croscarmelosa  sódica,  hidroxipropilcelulosa,  estearato  de  magnesio,
+celulosa microcristalina, laurilsulfato de sodio, Opadry ll rosa 85F941721 ............. c.s.
+1.  Óxido  de  hierro  negro,  polietilenglicol,  alcohol  polivinílico,  óxido  de  hierro  rojo,  talco  y
+dióxido de titanio.
+
+1. ACCIÓN TERAPÉUTICA
+ATRIPLA® es una asociación en dosis fijas de los antivirales efavirenz, emtricitabina
+y tenofovir DF.
+Código ATC: J05AR06
+
+2. INDICACIONES Y USO
+ATRIPLA® (efavirenz, emtricitabina y tenofovir DF) está indicado como pauta posoló-
+gica completa, o en asociación con otros antirretrovirales para el tratamiento de la
+infección por el virus de la inmunodeficiencia humana de tipo 1 (VIH-1) en adultos y
+pacientes pediátricos que pesan al menos 40 kg.
+
+3. CARACTERÍSTICAS/PROPIEDADES FARMACOLÓGICAS
+3.1 DESCRIPCIÓN
+ATRIPLA® es una asociación en dosis fijas que contiene EFV, FTC y TDF. El EFV es un
+inhibidor no nucleosídico de la retrotranscriptasa (INNRT). La FTC es un análogo nu-
+cleosídico sintético de la citidina. El TDF, que se convierte in vivo en tenofovir, es un
+análogo fosfonato nucleósido acíclico (nucleótido) de 5′-monofosfato de adenosina.
+Los comprimidos de ATRIPLA® se administran por vía oral. Cada comprimido contiene
+600 mg de EFV, 200 mg de FTC y 300 mg de TDF (equivalente a 245 mg de diso-
+proxilo de tenofovir) como principios activos. Los comprimidos incluyen los siguientes
+excipientes:  croscarmelosa  sódica,  hidroxipropilcelulosa,  estearato  de  magnesio,
+celulosa microcristalina y laurilsulfato de sodio. Los comprimidos están recubiertos
+con película que contiene óxido de hierro negro, polietilenglicol, alcohol polivinílico,
+óxido de hierro rojo, talco y dióxido de titanio.
+Efavirenz:  El  nombre  químico  del  EFV  es  (S)-6-cloro-4-(ciclopropiletinil)-1,4-dihi-
+dro-4-(trifluorometil)-2H-3,1-benzoxazin-2-ona. Su fórmula molecular es C14H9ClF3NO2
+y su fórmula estructural es:
+
+F3C
+
+Cl
+
+O
+
+O
+
+N
+H
+
+ El efavirenz es un polvo cristalino, de color blanco a ligeramente rosado, con una masa
+
+Emtricitabina:  El  nombre  químico  de  la  FTC  es  5-fluoro-1-(2R,5S)-[2-(hidroximetil)-
+1,3-oxatiolan-5-il]citosina. La FTC es el enantiómero (-) de un análogo tio de la citidina,
+que difiere de otros análogos de la citidina porque tiene un flúor en la posición 5.
+Su fórmula molecular es C8H10FN3O3S y su peso molecular es 247,24. Tiene la siguien-
+te fórmula estructural:
+
+H 2N
+
+N
+
+O
+
+N
+
+O
+
+F
+
+O
+
+H
+
+S
+
+La emtricitabina es un polvo cristalino, de color blanco a blanquecino, con una solubi-
+lidad de aproximadamente 112 mg/ml en agua a 25 oC.
+Tenofovir DF: El TDF es una sal del ácido fumárico del éster bis-isopropoxicarboniloxi-
+metil derivado del tenofovir. El nombre químico del TDF es fumarato de 9-[(R)-2-[[-
+bis[[(isopropoxicarbonil)oxi]-metoxi]fosfinil]metoxi]propil]adenina (1:1). Su fórmula
+molecular es C19H30N5O10P •C4H4O4 y su peso molecular es 635,52. Tiene la siguiente
+fórmula estructural:
+
+N
+
+N
+
+NH 2
+
+N
+
+N
+O
+
+CH  3
+
+O
+P
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+El TDF es un polvo cristalino, de color blanco a blanquecino, con una solubilidad de
+aproximadamente 13,4 mg/ml en agua a 25 oC.
+
+3.2 FARMACOLOGÍA CLÍNICA
+3.2.1 Mecanismo de acción
+ATRIPLA® es una asociación en dosis fijas de los antivirales EFV, FTC y TDF [véase Mi-
+crobiología (3.2.4)].
+
+3.2.2 Farmacodinámica
+Electrofisiología cardíaca
+Efavirenz: Se evaluó el efecto del EFV en el intervalo QTc en un estudio de QT cruzado
+de tres tratamientos, de secuencia única fija, de una sola secuencia, de 3 tratamien-
+tos, abierto, positivo y controlado con placebo en 58 sujetos sanos enriquecidos para
+polimorfismos de CYP2B6. La Cmáx media de EFV en sujetos con genotipo CYP2B6
+* 6 / * 6 después de la administración de 600 mg de dosis diaria durante 14 días
+fue de 2,25 veces la Cmáx media observada en sujetos con genotipo CYP2B6 * 1 / * 1.
+Se observó una relación positiva entre la concentración de EFV y la prolongación del
+QTc. Basándose en la relación concentración-QTc, la prolongación media de QTc y su
+intervalo de confianza del 90% de límite superior son 8,7 ms y 11,3 ms en sujetos con
+genotipo CYP2B6 * 6 / * 6 tras la administración de 600 mg de dosis diaria durante 14
+días [véase Advertencias y precauciones (7.1.4)].
+
+3.2.3 Propiedades farmacocinéticas
+ATRIPLA®: Un comprimido de ATRIPLA® es bioequivalente a un comprimido de 600
+mg de efavirenz más una cápsula de 200 mg de emtricitabina más un comprimido de
+300 mg de tenofovir DF después de la administración de una dosis única a pacientes
+sanos en ayunas (N = 45).
+Efavirenz: En los pacientes infectados por el VIH-1, el tiempo hasta alcanzar las con-
+centraciones máximas en el plasma fue de aproximadamente tres a cinco horas, y las
+concentraciones plasmáticas en estado de equilibrio se alcanzaron después de seis
+a diez días. En 35 pacientes infectados por el VIH-1 que recibieron 600 mg de EFV
+una vez al día, la Cmáx
+la Cmín
+elevada fijación a las proteínas del plasma humano (aproximadamente entre el 99,5%
+y el 99,75%), predominantemente a la albúmina. Después de la administración de EFV
+marcado con C14, se recuperó del 14% al 34% de la dosis en la orina (principalmente
+como metabolitos), y entre el 16% y el 61% en las heces (principalmente como fármaco
+original). Los estudios in vitro sugieren que las principales isoenzimas responsables
+del metabolismo del EFV son el CYP3A y el CYP2B6. Se ha demostrado que el EFV
+induce las enzimas del CYP, lo que produce la inducción de su propio metabolismo. El
+EFV tiene una vida media terminal de 52 a 76 horas después de la administración de
+dosis únicas, y de 40 a 55 horas después de la administración de varias dosis.
+Emtricitabina: Después de la administración oral de la FTC, esta se absorbe rápidamente
+y alcanza concentraciones plasmáticas máximas al cabo de una a dos horas después de la
+administración de la dosis. Después de la administración por vía oral de varias dosis de
+FTC a 20 pacientes infectados por el VIH-1, la concentración máxima (C máx) de FTC en el
+
+-
+ma media en el plasma, en estado de equilibrio, 24 horas después de administrar la dosis,
+
+4% de la FTC se une in vitro a las proteínas plasmáticas de los seres humanos, y la unión es
+independiente de la concentración, dentro del rango de 0,02 a 200 μg/ml. Después de
+la administración de FTC radiomarcada, se recupera aproximadamente el 86% en la orina
+y el 13% como metabolitos. Los metabolitos de la FTC son 3’-sulfóxido diastereómeros
+y su conjugado con ácido glucurónico. La FTC se elimina mediante una combinación de
+filtración glomerular y secreción tubular activa, con una depuración renal en los adultos
+con una función renal normal de 213 ± 89 ml/min (media ± DE). Después de una dosis
+oral única, la vida media de la FTC en el plasma es de aproximadamente 10 horas.
+Tenofovir DF: Después de la administración oral de una dosis única de 300 mg de TDF a
+pacientes infectados por el VIH-1 en condiciones de ayuno, las concentraciones máxi-
+mas (Cmáx) en el suero se alcanzaron en 1,0 ± 0,4 horas (media ± DE). Los valores de la
+Cmáx y el AUC fueron de 296 ± 90 ng/ml y 2287 ± 685 ng•h/ml, respectivamente. La
+biodisponibilidad oral del tenofovir a partir del TDF en los pacientes en ayunas es de
+aproximadamente el 25%. Menos del 0,7% del tenofovir se une in vitro a las proteínas
+plasmáticas en los seres humanos, y la unión es independiente de la concentración,
+
+la dosis intravenosa de tenofovir se recupera como fármaco inalterado en la orina. El
+tenofovir se elimina mediante una combinación de filtración glomerular y secreción
+tubular activa, con una depuración renal en los adultos con una función renal normal
+de 243 ± 33 ml/min (media ± DE). Después de una dosis oral única de tenofovir, la
+vida media de eliminación terminal del tenofovir es de aproximadamente 17 horas.
+
+H
+
+CO  2  H
+
+C   C
+
+•
+HO 2  C
+
+H
+
+Efectos de los alimentos en la absorción oral
+No se ha evaluado ATRIPLA® en presencia de alimentos. La administración de com-
+
+primidos de EFV con una comida rica en grasas aumentó el AUC media del EFV en un
+28%, y la Cmáx media en un 79%, en comparación con su administración en ayunas. En
+comparación con la administración en ayunas, las dosis de TDF y FTC en combinación
+con una comida rica en grasas o una comida ligera, aumentaron el AUC media en un
+35%, y la Cmáx media en un 15%, sin afectar las exposiciones a la FTC [véase Posología
+y administración (4)].
+
+por la orina, por lo que la repercusión de la disfunción renal sobre la eliminación del
+EFV debería ser mínima.
+Emtricitabina y tenofovir DF: Las características farmacocinéticas de la FTC y del TDF
+están alteradas en los pacientes con disfunción renal. En los pacientes con una depu-
+ración de creatinina inferior a 50 ml/min, la Cmáx y el AUC0-∞ de la FTC y el tenofovir
+aumentaron [véase Advertencias y precauciones (7.1.7)].
+
+Poblaciones específicas
+Raza
+Efavirenz: Se aprecia que las características farmacocinéticas del EFV en los pacientes
+infectados con el VIH-1 son similares entre los grupos étnicos estudiados.
+Emtricitabina:  No  se  han  identificado  diferencias  farmacocinéticas  atribuibles  a  la
+raza después de la administración de FTC.
+Tenofovir DF: No hubo un número suficiente de pacientes de grupos raciales y étnicos,
+aparte de la raza blanca, para poder determinar adecuadamente las posibles diferen-
+cias farmacocinéticas entre estas poblaciones después de la administración de TDF.
+
+Sexo
+Efavirenz, emtricitabina y tenofovir DF: Las características farmacocinéticas del EFV, la
+FTC y el tenofovir son similares en los pacientes de ambos sexos.
+
+Pacientes pediátricos
+Efavirenz: En un estudio abierto en pacientes pediátricos que ya habían recibido tra-
+tamiento previo con un inhibidor nucleosídico de la retrotranscriptasa (INRT) (edad
+media de 8 años, intervalo de 3 a 16 años), las características farmacocinéticas del EFV
+fueron similares a las observadas en los adultos que recibieron dosis diarias de 600
+mg de EFV. Según las predicciones obtenidas con el modelo farmacocinético pobla-
+cional de estado de equilibrio medio en pacientes pediátricos que pesaban >40 kg
+y que habían recibido la dosis de 600 mg de EFV, la Cmáx
+mín de
+
+(0-24)
+
+Emtricitabina: Las características farmacocinéticas de la FTC en estado de equilibrio
+se determinaron en 27 pacientes pediátricos infectados por el VIH-1 de entre 13 y
+17 años de edad que recibieron una dosis diaria de 6 mg/kg hasta una dosis máxima
+de 240 mg en solución oral o una cápsula de 200 mg; 26 de los 27 pacientes de este
+grupo etario recibieron la cápsula de 200 mg de emtricitabina. Los valores medios (±
+DE) de Cmáx
+Las exposiciones alcanzadas en los pacientes pediátricos de 12 a menos de 18 años
+de edad fueron similares a las alcanzadas en los adultos que recibieron dosis de 200
+mg una vez al día.
+Tenofovir DF: Las características farmacocinéticas del tenofovir en estado de equilibrio
+se evaluaron en 8 pacientes pediátricos infectados por el VIH-1 (de 12 a menos de 18
+años de edad). Los valores medios (±DE) de Cmáx y AUCtau
+
+pacientes pediátricos que recibieron dosis diarias de 300 mg de TDF por vía oral fue
+similar a las exposiciones alcanzadas en los adultos que recibieron dosis únicas de
+300 mg de TDF una vez al día.
+
+Pacientes geriátricos
+No se han evaluado completamente las características farmacocinéticas del EFV, la
+FTC  y  el  tenofovir  en  los  ancianos  (65  años  o  mayores)  [véase Uso  en  poblaciones
+específicas (7.4.5)].
+
+Pacientes con disfunción renal
+Efavirenz: No se han estudiado las características farmacocinéticas del EFV en los pa-
+cientes con disfunción renal; sin embargo, menos del 1% del EFV se excreta inalterado
+
+Pacientes con disfunción hepática
+Efavirenz: Un estudio de dosis múltiples no mostró ningún efecto importante en las
+características farmacocinéticas del EFV en los sujetos con disfunción hepática leve
+(clase A según Child-Pugh), en comparación con los pacientes del grupo de control.
+No hubo datos suficientes para determinar si la disfunción hepática moderada o gra-
+ve (clases B o C según Child-Pugh) afecta las características farmacocinéticas del EFV
+[véanse Advertencias y precauciones (7.1.3), y Uso en poblaciones específicas (7.4.7)].
+Emtricitabina: No se han estudiado las características farmacocinéticas de la FTC en
+los pacientes con disfunción hepática; sin embargo, las enzimas hepáticas no meta-
+bolizan significativamente la FTC, por lo que la repercusión de la disfunción hepática
+debería ser limitada.
+Tenofovir  DF:  Se  han  estudiado  las  características  farmacocinéticas  del  tenofovir
+después de una dosis de 300 mg de TDF en pacientes no infectados por el VIH y con
+disfunción hepática de moderada a grave. No hubo alteraciones importantes en las
+características farmacocinéticas del tenofovir en pacientes con disfunción hepática,
+en comparación con los pacientes cuya función hepática no está afectada.
+
+Evaluación de las interacciones farmacológicas
+Los estudios de interacción farmacológica descritos se efectuaron ya sea con  ATRIPLA®
+o con los componentes de  ATRIPLA® (EFV, FTC o TDF) como fármacos individuales.
+Efavirenz:  Las  características  farmacocinéticas  del  EFV  y  el  tenofovir  en  estado  de
+equilibrio no se vieron afectadas cuando se administraron EFV y TDF juntos, en com-
+paración con la administración de cada fármaco por separado. No se han realizado es-
+tudios específicos de interacción farmacológica con EFV e INRT aparte del tenofovir, la
+lamivudina y la zidovudina. No se espera que se produzcan interacciones clínicamente
+significativas de acuerdo con las vías de eliminación de los INRT.
+Se ha demostrado que el efavirenz causa, in vivo, inducción de las enzimas hepáticas,
+aumentando  así  la  biotransformación  de  algunos  fármacos  metabolizados  por  el
+CYP3A y el CYP2B6. En estudios in vitro se ha demostrado que el EFV inhibió las isoen-
+
+de las concentraciones plasmáticas observadas de efavirenz. En los estudios in vitro, el
+EFV no inhibió el CYP2E1, e inhibió el CYP2D6 y el CYP1A2 (valores de Ki entre 82 y 160
+-
+nistración concomitante de EFV con fármacos que son metabolizados principalmente
+por las isoenzimas CYP2C9, CYP2C19, CYP3A o CYP2B6 puede producir una alteración
+de las concentraciones plasmáticas del fármaco administrado concomitantemente. Se
+esperaría que los fármacos que inducen la actividad del CYP3A y el CYP2B6 aumen-
+tasen la depuración del EFV, produciéndose concentraciones plasmáticas más bajas.
+Se  realizaron  estudios  de  interacción  farmacológica  con  EFV  y  otros  fármacos  con
+probabilidad de ser administrados concomitantemente o con fármacos usados con
+frecuencia como sondas para la interacción farmacocinética. No se observó ninguna
+interacción clínicamente significativa entre el EFV y la zidovudina, la lamivudina, la
+azitromicina, el fluconazol, el lorazepam, la cetirizina ni la paroxetina. Las dosis únicas
+de famotidina o de un antiácido de aluminio y magnesio con simeticona no tuvieron
+ningún efecto sobre las exposiciones del EFV. Los efectos de la administración conco-
+mitante de EFV sobre la Cmáx, el AUC y la Cmín se resumen en la tabla 1 (efecto de otros
+fármacos sobre el EFV) y en la tabla 2 (efecto del EFV sobre otros fármacos) [véase
+Interacciones farmacológicas (7.2)].
+
+Tabla 1. Interacciones farmacológicas: Cambios en los parámetros farmacocinéticos del EFV en presencia del fármaco administrado concomitantemente
+
+Fármaco administrado
+concomitantemente
+
+Dosis del fármaco administrado
+concomitantemente (mg)
+
+Dosis de EFV (mg)
+
+Lopinavir/ritonavir
+
+400/100 mg c/12 h x 9 días
+
+600 mg 1 v/día x 9 días
+
+Nelfinavir
+
+Ritonavir
+
+Boceprevir
+
+Rifabutina
+
+750 mg c/8 h x 7 días
+
+600 mg 1 v/día x 7 días
+
+500 mg c/12 h x 8 días
+
+600 mg 1 v/día x 10 días
+
+800 mg 3 v/día x 6 días
+
+600 mg 1 v/día x 16 días
+
+N.D.
+
+300 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 14 días
+
+Rifampicina
+
+600 mg x 7 días
+
+600 mg 1 v/día x 7 días
+
+Arteméter/
+lumefantrina
+
+Arteméter 20 mg/
+lumefantrina 120 mg comprimidos
+(6 dosis de 4 comprimidos durante 3 días)
+
+600 mg 1 v/día x 26 días
+
+Simvastatina
+
+40 mg 1 v/día x 4 días
+
+600 mg 1 v/día x 15 días
+
+Carbamazepina
+
+200 mg 1 v/día x 3 días, 200 mg 2 v/día x 3 días;
+luego, 400 mg 1 v/día x 15 días
+
+600 mg 1 v/día x 35 días
+
+Diltiazem
+
+240 mg x 14 días
+
+600 mg 1 v/día x 28 días
+
+Voriconazol
+
+400 mg v.o. c/12 h x 1 día;
+luego, 200 mg v.o. c/12 h x 8 días
+
+300 mg v.o. c/12 h
+días 2-7
+
+400 mg v.o. c/12 h
+días 2-7
+
+400 mg 1 v/día x 9 días
+
+300 mg 1 v/día x 7 días
+
+300 mg 1 v/día x 7 días
+
+Cambio % medio de los parámetros
+farmacocinéticos del EFVa (IC del 90%)
+
+Cmáx
+↔
+
+↓ 12
+(↓ 32 a ↑ 13)c
+↑ 14
+(↑ 4 a ↑ 26)
+↑ 11
+(↑ 2 a ↑ 20)
+↔
+
+AUC
+↓ 16
+(↓ 38 a ↑ 15)
+↓ 12
+(↓ 35 a ↑ 18)c
+↑ 21
+(↑ 10 a ↑ 34)
+↑ 20
+ (↑ 15 a ↑ 26)
+↔
+
+↓ 20
+(↓ 11 a ↓ 28)
+↔
+
+↓ 26
+(↓ 15 a ↓ 36)
+↓ 17
+
+↓ 12
+(↓ 28 a ↑ 8)
+↓ 21
+(↓ 15 a ↓ 26)
+↑ 16
+(↑ 6 a ↑ 26)
+↑ 38d
+
+↓ 14e
+(↓ 7 a ↓ 21)
+↔e
+
+↔
+
+↓ 36
+(↓ 32 a ↓ 40)
+↑ 11
+(↑ 5 a ↑ 18)
+↑ 44d
+
+↔e
+
+↑ 17e
+(↑ 6 a ↑ 29)
+
+Cmín
+↓ 16
+(↓ 42 a ↓ 20)
+↓ 21
+(↓ 53 a ↑ 33)
+↑ 25
+(↑ 7 a ↑ 46)c
+
+N.D.
+
+↓ 12
+(↓ 24 a ↑ 1)
+↓ 32
+(↓ 15 a ↓ 46)
+
+N.D.
+
+↓ 12
+(↓ 25 a ↑ 3)
+↓ 47
+(↓ 41 a ↓ 53)
+↑ 13
+(↑ 1 a ↑ 26)
+
+N.D.
+
+N.D.
+
+N.D.
+
+N
+
+11,
+12b
+
+10
+
+9
+
+11
+
+12
+
+12
+
+14
+
+14
+
+12
+
+N.D.
+
+N.D.
+
+N.D.
+
+N.D. = no disponible. a. Aumento = ↑; disminución = ↓; ausencia de efecto = ↔. b. Diseño
+de grupos paralelos; N correspondiente al EFV + lopinavir/ritonavir; N correspondiente al EFV
+
+solo. c. IC del 95%. d. No se dispone del IC del 90%.  e. En relación con la administración en
+estado de equilibrio de EFV (600 mg una vez al día durante nueve días).
+
+No se observó ningún efecto en los parámetros farmacocinéticos del EFV al coadmi-
+nistrar los siguientes fármacos: indinavir, saquinavir en cápsula de gelatina blanda,
+
+simeprevir, ledipasvir/sofosbuvir, sofosbuvir, claritromicina, itraconazol, atorvastati-
+na, pravastatina o sertralina.
+
+Tabla 2. Interacciones farmacológicas: Cambios en los parámetros farmacocinéticos del fármaco administrado concomitantemente en presencia de EFV
+
+Fármaco administrado
+concomitantemente
+
+Dosis del fármaco administrado
+concomitantemente (mg)
+
+Dosis de EFV (mg)
+
+Cambio % medio de los parámetros
+farmacocinéticos del fármaco administrado
+concomitantementea (IC del 90%)
+
+Atazanavir
+
+400 mg 1 v/día con una comida ligera,
+días 1 a 20
+400 mg 1 v/día días 1 a 6; luego,
+300 mg 1 v/día días 7 a 20 con 100 mg
+de ritonavir 1 v/día y una comida ligera
+300 mg 1 v/día/100 mg ritonavir
+1 v/día, d ías 1 a 10 (p.m.); luego, 400
+mg 1 v/día /100 mg ritonavir 1 v/día días
+11 a 24 (p.m.) (simultáneo con EFV)
+1000 mg c/8 h x 10 días
+Después de la dosis matutina
+
+600 mg 1 v/día con una comida ligera,
+días 7 a 20
+600 mg 1 v/día 2 horas después de
+atazanavir y ritonavir, días 7 a 20
+
+600 mg 1 v/día con una comida ligera
+días 11 a 24 (p.m.)
+
+600 mg 1 v/día x 10 días
+
+ Indinavir
+
+Después de la dosis por la tarde
+
+Después de la dosis vespertina
+
+Lopinavir/ritonavir
+
+400/100 mg c/12 h x 9 días
+
+600 mg 1 v/día x 9 días
+
+750 mg c/8 h x 7 días
+
+600 mg 1 v/día x 7 días
+
+500 mg c/12 h x 8 días
+
+600 mg 1 v/día x 10 días
+
+Después de la dosis matutina
+
+Después de la dosis por la tarde
+
+1200 mg c/8 h x 10 días
+
+600 mg x 10 días
+
+100 mg 2 v/día
+
+600 mg 1 v/día
+
+Dosis única de 400 mg
+
+600 mg 1 v/día
+
+800 mg 3/v día x 6 días
+
+600 mg 1 v/día x 16 días
+
+150 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 14 días
+
+90/400 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 14 días
+
+Dosis única de 400 mg 1 v/día
+
+600 mg 1 v/día x 14 días
+
+400/100 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 14 días
+
+Nelfinavir
+
+Metabolito
+AG-1402
+
+Ritonavir
+
+Saquinavir
+SGCg
+Maraviroc
+
+Raltegravir
+
+Boceprevir
+
+Simeprevir
+
+Ledipasvir/sofosbuvirk
+Ledipasvir
+Sofosbuvir
+GS-331007l
+Sofosbuvirm
+
+GS-331007l
+
+Sofosbuvir/velpatasvirn
+Sofosbuvir
+
+GS-331007l
+
+Velpatasvir
+
+Claritromicina
+
+500 mg c/12 h x 7 días
+
+400 mg 1 v/día x 7 días
+
+Metabolito 14-OH
+
+Itraconazol
+
+200 mg c/12 h x 28 días
+
+600 mg 1 v/día x 14 días
+
+Hidroxi-itraconazol
+
+Posaconazol
+
+Rifabutina
+
+400 mg (suspensión oral) 2 v/día
+x 10 y 20 días
+300 mg 1 v/día x 14 días
+
+Arteméter/ lumefantrina
+Arteméter dihidroarte-
+misinina
+Lumefantrina
+Atorvastatina
+
+Arteméter 20 mg/
+comprimidos de 120 mg de lumefantrina
+(6 dosis de 4 comprimidos durante
+3 días)
+10 mg 1 v/día x 4 días
+
+400 mg 1 v/día x 10 y 20 días
+
+600 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 26 días
+
+600 mg 1 v/día x 15 días
+
+Total activo (incluidos los
+metabolitos)
+Pravastatina
+
+40 mg 1 v/día x 4 días
+
+600 mg 1 v/día x 15 días
+
+Simvastatina
+
+40 mg 1 v/día x 4 días
+
+600 mg 1 v/día x 15 días
+
+Total activo (incluidos los
+metabolitos)
+
+N
+27
+
+13
+
+14
+
+20
+
+11, 7d
+
+10
+
+Cmáx
+↓ 59
+(↓ 49 a ↓ 67)
+↑ 14b
+(↓ 17 a ↑ 58)
+
+↑ 17
+(↑ 8 a ↑ 27)
+
+↔c
+
+↔c
+
+↓ 29c
+(↓ 11 a ↓ 43)
+↔e
+
+↑ 21
+(↑ 10 a ↑ 33)
+↓ 40
+(↓ 30 a ↓ 48)
+
+AUC
+↓ 74
+(↓ 68 a ↓ 78)
+↑ 39b
+(↑ 2 a ↑ 88)
+
+↔
+
+↓ 33c
+(↓ 26 a ↓ 39)
+↓ 37c
+(↓ 26 a ↓ 46)
+↓ 46c
+(↓ 37 a ↓ 54)
+↓ 19e
+(↓ 36 a ↑ 3)
+↑ 20
+(↑ 8 a ↑ 34)
+↓ 37
+(↓ 25 a ↓ 48)
+
+11
+
+12
+
+12
+
+9
+
+N.D
+
+23
+
+15
+
+16
+
+14
+
+11
+
+18
+
+11
+
+9
+
+12
+
+14
+
+13
+
+14
+
+↑ 24
+(↑ 12 a ↑ 38)
+↔
+
+↑ 18
+(↑ 6 a ↑ 33)
+↔
+
+↓ 50
+(↓ 28 a ↓ 66)
+↓ 51
+(↓ 37 a ↓ 62)
+↓ 36
+(↓ 2 a ↓ 59)
+↓ 8
+(↓ 22 a ↑ 8)
+↓ 51
+(↓ 46 a ↓ 56)
+↓ 34
+(↓ 25 a ↓ 41)
+↔
+↔
+
+↓ 19
+(↓ 40 a ↓ 10)
+↓ 23
+(↓ 16 a ↓ 30)
+
+↑ 38
+(↑ 14 a ↑ 67)
+↓ 14
+(↓ 20 a ↓ 7)
+↓ 47
+(↓ 57 a ↓ 36)
+↓ 26
+(↓ 15 a ↓ 35)
+↑ 49
+(↑ 32 a ↑ 69)
+↓ 37
+(↓ 20 a ↓ 51)
+↓ 35
+(↓ 12 a ↓ 52)
+↓ 45
+(↓ 34 a ↓ 53)
+↓ 32
+(↓ 15 a ↓ 46)
+↓ 21
+↓ 38
+
+↔
+
+↓ 14
+(↓ 1 a ↓ 26)
+↓ 15
+(↓ 2 a ↓ 26)
+↓ 32
+(↓ 59 a ↓ 12)
+↓ 72
+(↓ 63 a ↓ 79)
+↓ 68
+(↓ 55 a ↓ 78)
+
+↓ 62
+(↓ 45 a ↓ 74)
+↓ 45
+(↓ 38 a ↓ 51)
+↓ 36
+(↓ 20 a ↓ 48)
+↓ 19
+(↓ 11 a ↓ 25)
+↓ 71
+(↓ 67 a ↓ 74)
+↓ 34
+(↓ 25 a ↓ 41)
+↔
+↔
+
+↔
+
+↓ 16
+(↓ 24 a ↓ 8)
+
+↔
+
+↔
+
+↓ 53
+(↓ 61 a ↓ 43)
+↓ 39
+(↓ 30 a ↓ 46)
+↑ 34
+(↑ 18 a ↑ 53)
+↓ 39
+(↓ 21 a ↓ 53)
+↓ 37
+(↓ 14 a ↓ 55)
+↓ 50
+(↓ 40 a ↓ 57)
+↓ 38
+(↓ 28 a ↓ 47)
+↓ 51
+↓ 46
+
+↓ 21
+↓ 43
+(↓ 34 a ↓ 50)
+↓ 32
+(↓ 21 a ↓ 41)
+↓ 44
+(↓ 26 a ↓ 57)
+↓ 68
+(↓ 62 a ↓ 73)
+↓ 60
+(↓ 52 a ↓ 68)
+
+Cmín
+↓ 93
+(↓ 90 a ↓ 95)
+↑ 48b
+(↑ 24 a ↑ 76)
+
+↓ 42
+(↓ 31 a ↓ 51)
+
+↓ 39c
+(↓ 24 a ↓ 51)
+↓ 52c
+(↓ 47 a ↓ 57)
+↓ 57c
+(↓ 50 a ↓ 63)
+↓ 39e
+(↓ 3 a ↓ 62)
+↔
+
+↓ 43
+(↓ 21 a ↓ 59)
+
+↑ 42
+(↑ 9 a ↑ 86)f
+↑ 24
+(↑ 3 a ↑ 50)f
+↓ 56
+(↓ 16 a ↓ 77)f
+↓ 45
+(↓ 28 a ↓ 57)
+↓ 21
+(↓ 51 a ↑28)
+↓ 44
+(↓ 26 a ↓ 58)
+↓ 91
+(↓ 88 a ↓ 92)
+↓ 34
+(↓ 24 a ↓ 43)
+N.D.
+↔
+
+N.D.
+
+N.D.
+
+NA
+
+↔
+
+↓ 57
+(↓ 64 a ↓ 48)
+↓ 53
+(↓ 42 a ↓ 63)
+↑ 26
+(↑ 9 a ↑ 45)
+↓ 44
+(↓ 27 a ↓ 58)
+↓ 43
+(↓ 18 a ↓ 60)
+N.D.
+
+↓ 45
+(↓ 31 a ↓ 56)
+N.D.
+N.D.
+
+N.D.
+↓ 69
+(↓ 49 a ↓ 81)
+↓ 48
+(↓ 23 a ↓ 64)
+↓ 19
+(↓ 0 a ↓ 35)
+↓ 45
+(↓ 20 a ↓ 62)
+
+N.D.h
+
+Fármaco administrado
+concomitantemente
+
+Dosis del fármaco administrado
+concomitantemente (mg)
+
+Dosis de EFV (mg)
+
+Cambio % medio de los parámetros
+farmacocinéticos del fármaco administrado
+concomitantementea (IC del 90%)
+
+Carbamazepina
+
+Metabolito epóxido
+
+200 mg 1 v/día x 3 días,
+200 mg 2 v/día x 3 días;
+luego, 400 mg 1 v/día x 29 días
+
+600 mg 1 v/día x 14 días
+
+Diltiazem
+
+240 mg x 21 días
+
+600 mg 1 v/día x 14 días
+
+Desacetil diltiazem
+
+N-monodesmetil diltiazem
+
+Etinilestradiol/ norgestimato 0,035 mg/0,25 mg x 14 días
+
+600 mg 1 v/día x 14 días
+
+Etinilestradiol
+
+Norelgestromina
+
+Levonorgestrel
+
+Metadona
+
+Bupropión
+
+Hidroxibupropión
+
+Sertralina
+
+Voriconazol
+
+Mantenimiento estable,
+35 a 100 mg diarios
+
+Dosis única de 150 mg
+(liberación prolongada)
+
+600 mg 1 v/día x 14 a 21 días
+
+600 mg 1 v/día x 14 días
+
+50 mg 1 v/día x 14 días
+
+600 mg 1 v/día x 14 días
+
+400 mg v.o. c/12 h x 1 día;
+luego, 200 mg v.o. c/12 h x 8 días
+
+400 mg 1 v/día x 9 días
+
+300 mg v.o. c/12 h, días 2 a 7
+
+300 mg 1 v/día x 7 días
+
+400 mg v.o. c/12 h, días 2 a 7
+
+300 mg 1 v/día x 7 días
+
+N
+
+12
+
+13
+
+21
+
+21
+
+6
+
+11
+
+13
+
+13
+
+N.D
+
+N.D
+
+N.D
+
+Cmáx
+
+AUC
+
+Cmín
+
+↓ 20
+(↓ 15 a ↓ 24)
+
+↓ 27
+(↓ 20 a ↓ 33)
+
+↓ 35
+(↓ 24 a ↓ 44)
+
+↔
+
+↔
+
+↓ 13
+(↓ 30 a ↑ 7)
+
+↓ 63
+(↓ 44 a ↓ 75)
+↓ 62
+(↓ 44 a ↓ 75)
+↓ 37
+(↓ 17 a ↓ 52)
+
+↔
+
+↓ 82
+(↓ 79 a ↓ 85)
+
+↓ 86
+(↓ 80 a ↓ 90)
+
+N.D.
+
+N.D.
+
+N.D.
+
+↓ 69
+(↓ 55 a ↓ 79)
+↓ 75
+(↓ 59 a ↓ 84)
+↓ 37
+(↓ 17 a ↓ 52)
+
+↓ 64
+(↓ 62 a ↓ 67)
+
+↓ 83
+(↓ 79 a ↓ 87)
+
+↓ 52
+(↓ 33 a ↓ 66)
+
+↓ 55
+(↓ 48 a ↓ 62)
+↔
+
+↓ 60
+(↓ 50 a ↓ 68)
+↓ 64
+(↓ 57 a ↓ 69)
+↓ 28
+(↓ 7 a ↓ 44)
+
+↔
+
+↓ 46
+(↓ 39 a ↓52)
+
+↓ 80
+(↓ 77 a ↓ 83)
+
+↓ 45
+(↓ 25 a ↓ 59)
+
+↓ 34
+(↓ 21 a ↓ 47)
+↑ 50
+(↑ 20 a ↑ 80)
+
+↓ 29
+(↓ 15 a ↓ 40)
+
+↓ 39
+(↓ 27 a ↓ 50)
+
+↓ 46
+(↓ 31 a ↓ 58)
+
+↓ 61i
+
+↓ 77i
+
+↓ 36j
+(↓ 21 a ↓ 49)
+
+↑ 23j
+(↓ 1 a ↑ 53
+
+↓ 55j
+(↓ 45 a ↓ 62)
+
+↓ 7j
+(↓ 23 a ↑ 13)
+
+N.D.
+
+N.D.
+
+N.D
+
+N.D. = no disponible. a. Aumento = ↑; disminución = ↓; ausencia de efecto = ↔. b. En comparación
+con 400 mg de atazanavir una vez al día solo. c. La dosis de comparación de indinavir fue de 800
+mg cada 8 horas durante 10 días. d. Diseño de grupos paralelos; N correspondiente al EFV +
+lopinavir / ritonavir; N correspondiente a lopinavir / ritonavir solo. e. Los valores corresponden
+al lopinavir. Las características farmacocinéticas de 100 mg de ritonavir cada 12 horas no se ven
+afectadas por la administración concomitante de EFV. f. IC del 95%. g. Cápsula de gelatina blanda.
+
+h. No disponible debido a datos insuficientes. i. No se dispone del IC del 90%. j. En relación con la
+administración de voriconazol en estado de equilibrio (400 mg durante un día; después, 200 mg
+por v.o., cada 12 horas, durante dos días). k. El estudio se llevó a cabo con ATRIPLA® coadministrado
+con (ledipasvir/sofosbuvir). l. El metabolito nucleosídico circulante predominante del sofosbuvir.
+m. El estudio se llevó a cabo con ATRIPLA® coadministrado con sofosbuvir. n. El estudio se llevó
+a cabo con ATRIPLA® coadministrado con sofosbuvir/velpatasvir.
+
+Emtricitabina y tenofovir DF: Las características farmacocinéticas de la FTC y del te-
+nofovir en estado de equilibrio no se vieron afectadas cuando se administraron FTC
+y TDF juntos, en comparación con la administración de cada fármaco por separado.
+Los  estudios  de  interacción  farmacológica  in  vitro  y  de  farmacocinética  clínica,  así
+como  también  las  propiedades  farmacocinéticas  clínicas,  han  demostrado  que  la
+posibilidad de interacciones mediadas por el CYP que afectan a la FTC y al tenofovir
+con otros medicamentos es baja.
+El TDF es un sustrato de los transportadores “glucoproteína P” (gp-P) y “proteína de
+resistencia del cáncer de mama” (BCRP). Cuando se coadministra TDF con un inhibidor
+de estos transportadores, puede observase un aumento en la absorción.
+No  se  observaron  interacciones  farmacológicas  clínicamente  significativas  entre
+la FTC y el famciclovir, el indinavir, sofosbuvir/velpatasvir, la estavudina, el TDF y la
+zidovudina. De manera parecida, en estudios realizados en voluntarios sanos, no se
+
+observaron interacciones farmacológicas clínicamente significativas entre el TDF y el
+abacavir, el EFV, la FTC, el entecavir, el indinavir, la lamivudina, la asociación de lopi-
+navir y ritonavir, la metadona, el nelfinavir, los anticonceptivos orales, la ribavirina, la
+asociación de saquinavir y ritonavir, sofosbuvir o el tacrolimus.
+Después de administrar varias dosis a pacientes negativos para el VIH que estaban re -
+cibiendo tratamiento de mantenimiento crónico con metadona, anticonceptivos orales
+o dosis únicas de ribavirina, las características farmacocinéticas en estado de equilibrio
+fueron parecidas a las observadas en estudios anteriores, lo que indica la ausencia de
+interacciones farmacológicas clínicamente significativas entre estos fármacos y el TDF.
+Los efectos de los fármacos administrados concomitantemente sobre la Cmáx, el AUC y
+la Cmín del tenofovir se muestran en la tabla 3. Los efectos de la administración conco-
+mitante de TDF sobre la Cmáx, el AUC y la Cmín de los fármacos administrados concomi-
+tantemente se muestran en la tabla 4.
+
+Tabla 3. Interacciones farmacológicas: Cambios en los parámetros farmacocinéticos del tenofovir en presencia del fármaco administrado concomitantementea,b
+
+Fármaco administrado
+concomitantemente
+
+Dosis del fármaco administrado
+concomitantemente (mg)
+
+Cambio % medio de los parámetros farmacocinéticos del tenofovirc
+(IC del 90%)
+
+Atazanavird
+
+400 una vez al día x 14 días
+
+Atazanavir/ ritonavird
+
+300/100 una vez al día
+
+Darunavir/ ritonavire
+
+300/100 dos veces al día
+
+Didanosinaf
+
+Ledipasvir/
+sofosbuvir
+
+250 o 400 una vez al día x 7 días
+
+90/400 una vez al día
+
+Lopinavir/ ritonavir
+
+400/100 dos veces al día x 14 días
+
+Sofosbuvir
+
+Sofosbuvir/
+velpatasvir
+
+400 una vez al día
+
+400/100 una vez al día
+
+Tipranavir/ ritonavirg
+
+500/100 dos veces al día
+
+750/200 dos veces al día (23 dosis)
+
+N
+
+33
+
+12
+
+12
+
+14
+
+15
+
+24
+
+16
+
+15
+
+22
+
+20
+
+Cmáx
+
+↑ 14
+ (↑ 8 a ↑ 20)
+
+↑ 34
+(↑ 20 a ↑ 51)
+
+↑ 24
+(↑ 8 a ↑ 42)
+
+↔
+
+↑ 79
+(↑ 56 a ↑ 104)
+
+↔
+
+↑ 25
+(↑ 8 a ↑ 45)
+
+↑ 77
+(↑ 53 a ↑ 104)
+
+↓ 23
+(↓ 32 a ↓ 13)
+
+↓ 38
+(↓ 46 a ↓ 29)
+
+AUC
+
+↑ 24
+ (↑ 21 a ↑ 28)
+
+↑ 37
+(↑ 30 a ↑ 45)
+
+↑ 22
+(↑ 10 a ↑ 35)
+
+↔
+
+↑ 98
+(↑ 77 a ↑ 123)
+
+↑ 32
+ (↑ 25 a ↑ 38)
+
+↔
+
+↑ 81
+(↑ 68 a ↑ 94)
+
+↓ 2
+(↓ 9 a ↑ 5)
+
+↑ 2
+(↓ 6 a ↑ 10)
+
+Cmín
+
+↑ 22
+ (↑ 15 a ↑ 30)
+
+↑ 29
+(↑ 21 a ↑ 36)
+
+↑ 37
+(↑ 19 a ↑ 57)
+
+↔
+
+↑ 163
+(↑ 132 a ↑ 197)
+
+↑ 51
+ (↑ 37 a ↑ 66)
+
+↔
+
+↑ 121
+(↑ 100 a ↑ 143)
+
+↑ 7
+(↓ 2 a ↑ 17)
+
+↑ 14
+(↑ 1 a ↑ 27)
+
+a. Todos los estudios de interacción se realizaron en voluntarios sanos. b. Los pacientes recibieron
+300 mg de TDF una vez al día. c. Aumento = ↑; disminución = ↓; ausencia de efecto = ↔.
+
+d. Ficha técnica de atazanavir. e. Ficha técnica de darunavir. f. Los pacientes recibieron comprimidos
+amortiguados de didanosina. g. Ficha técnica de tipranavir.
+
+Tabla 4. Interacciones farmacológicas: Cambios en los parámetros farmacocinéticos del fármaco administrado concomitantemente en presencia de TDFa,b
+
+Fármaco administrado
+concomitantemente
+
+Dosis del fármaco administrado
+concomitantemente (mg)
+
+Cambio % medio de los parámetros farmacocinéticos del fármaco
+administrado concomitantementec (IC del 90%)
+
+Atazanavird
+
+Darunavirf
+
+Didanosinag
+
+Lopinavir
+
+Ritonavir
+
+Tipranavirj
+
+400 una vez al día x 14 días
+
+Atazanavir/ritonavir 300/100 una vez al día
+x 42 días
+
+Darunavir/Ritonavir 300/100 una vez al día
+
+250 una vez, concomitantemente con TDF
+y una comida ligerah
+
+Lopinavir/ritonavir 400/100 dos veces al día
+x 14 días
+
+Lopinavir/ritonavir 400/100 dos veces al día
+x 14 días
+
+Tipranavir/ritonavir 500/100 dos veces al día
+
+Tipranavir/ritonavir 750/200 dos veces al día
+(23 dosis)
+
+N
+
+34
+
+10
+
+12
+
+33
+
+24
+
+24
+
+22
+
+20
+
+Cmáx
+↓ 21
+ (↓ 27 a ↓ 14)
+
+↓ 28
+ (↓ 50 a ↑ 5)
+
+↑  16
+(↓ 6 a 42)
+
+↓ 20i
+(↓ 32 a ↓ 7)
+↔
+
+↔
+
+↓ 17
+(↓ 26 a ↓ 6)
+
+↓ 11
+(↓ 16 a ↓ 4)
+
+AUC
+
+↓ 25
+ (↓ 30 a ↓ 19)
+
+↓ 25e
+ (↓ 42 a ↓ 3)
+
+↑  21
+(↓ 5 a 54)
+
+↔g
+
+↔
+
+↔
+
+↓ 18
+(↓ 25 a ↓ 9)
+
+↓ 9
+(↓ 15 a ↓ 3)
+
+Cmín
+↓ 40
+ (↓ 48 a ↓ 32)
+
+↓ 23e
+ (↓ 46 a ↑ 10)
+
+↑  24
+(↓ 10 a 69)
+
+N.D.
+
+↔
+
+↔
+
+↓ 21
+(↓ 30 a ↓ 10)
+
+↓ 12
+(↓ 22 a 0)
+
+N.D. = no disponible.
+a. Todos los estudios de interacción se realizaron en voluntarios sanos. b. Los pacientes recibieron
+300 mg de TDF una vez al día. c. Aumento = ↑; disminución = ↓; ausencia de efecto = ↔. d.
+Ficha técnica de atazanavir. e. En los pacientes infectados por el VIH, la adición de TDF a 300 mg
+de atazanavir más 100 mg de ritonavir dio como resultado valores de AUC y Cmín de atazanavir
+
+que fueron 2,3 y 4 veces más altos que los valores correspondientes observados con 400 mg de
+atazanavir cuando se administró solo. f. Ficha técnica de darunavir. g. Ficha técnica de didanosina.
+Los pacientes recibieron cápsulas de didanosina con recubrimiento entérico. h. 373 kcal, 8,2 g de
+grasa. i. Frente a 400 mg de didanosina (cápsulas con recubrimiento entérico) sola administrados
+en ayunas. j. Ficha técnica de tipranavir.
+
+3.2.4 Microbiología
+Mecanismo de acción
+Efavirenz: El EFV es un inhibidor no nucleosídico de la retrotranscriptasa (INNRT) del
+VIH-1. La actividad del efavirenz está mediada predominantemente por la inhibición
+no competitiva de la retrotranscriptasa del VIH-1. El EFV no inhibe la retrotranscripta-
+sa del VIH-2 ni las polimerasas α, β, γ y δ del ADN de las células humanas.
+Emtricitabina: La emtricitabina, un análogo nucleosídico sintético de la citidina, es
+fosforilada por las enzimas celulares para formar 5’-trifosfato de FTC. El 5’-trifosfato de
+emtricitabina inhibe la actividad de la retrotranscriptasa del VIH-1, al competir con el
+sustrato natural 5’-trifosfato de desoxicitidina e incorporarse al ADN viral incipiente,
+lo que produce la terminación de la cadena. El 5’-trifosfato de emtricitabina es un in-
+hibidor débil de las polimerasas α, β y ε del ADN de los mamíferos, y de la polimerasa
+γ del ADN mitocondrial.
+Tenofovir DF: El TDF es un diéster de fosfonato nucleosídico acíclico, análogo del mo-
+nofosfato de adenosina. El TDF requiere la hidrólisis inicial del diéster para su conver-
+sión en tenofovir y fosforilaciones posteriores por las enzimas celulares para formar
+el difosfato de tenofovir. El difosfato de tenofovir inhibe la actividad de la retrotrans-
+criptasa del VIH-1, al competir con el sustrato natural 5’-trifosfato de desoxiadenosina
+y, después de su incorporación al ADN, por la terminación de la cadena de ADN. El
+difosfato de tenofovir es un inhibidor débil de las polimerasas α y β del ADN de los
+mamíferos, y de la polimerasa γ del ADN mitocondrial.
+
+Actividad antiviral
+Efavirenz, emtricitabina y tenofovir DF: En estudios de asociaciones en los que se evaluó la
+actividad antiviral en cultivos celulares de la FTC y el EFV juntos, el EFV y el tenofovir juntos,
+y la FTC y el tenofovir juntos, se observaron efectos antivirales entre aditivos y sinérgicos.
+Efavirenz: La concentración de EFV que inhibe la replicación de las cepas no mutan-
+tes adaptadas en el laboratorio y cepas clínicas en cultivos celulares entre el 90 y el
+95% (CE90-95) varió entre 1,7 y 25 nM en cultivos de líneas celulares linfoblastoides,
+células mononucleares de sangre periférica y macrófagos o monocitos. El efavirenz
+demostró una actividad antiviral aditiva contra el VIH-1 en cultivos celulares al aso-
+ciarse a inhibidores no nucleosídicos de la retrotranscriptasa (INNRT) (delavirdina y
+nevirapina), inhibidores nucleosídicos de la retrotranscriptasa (INRT) (abacavir, dida-
+nosina, lamivudina, estavudina, zalcitabina y zidovudina), inhibidores de la proteasa
+(IP) (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir y saquinavir), y el inhibidor
+de la fusión, enfuvirtida. El efavirenz demostró una actividad antiviral entre aditiva y
+antagonista en cultivo celular con el atazanavir. El efavirenz demostró una actividad
+antiviral contra las cepas aisladas de subtipo B y la mayoría de las cepas aisladas de
+subtipo no B (subtipos A, AE, AG, C, D, F, G, J y N), pero tuvo una actividad antiviral
+reducida contra los virus del grupo O. El efavirenz no es activo contra el VIH-2.
+Emtricitabina: Se evaluó la actividad antiviral de la FTC en cultivo celular, contra cepas
+aisladas clínicas y de laboratorio del VIH-1 en líneas celulares linfoblastoides, la línea
+celular MAGI-CCR5 y leucocitos mononucleares de sangre periférica. Los valores de
+la concentración eficaz al 50% (CE50) de la FTC estuvieron entre los límites de 0,0013
+y 0,64 μM (0,0003 a 0,158 μg/ml). En los estudios de asociación farmacológica de
+FTC con inhibidores nucleosídicos de la retrotranscriptasa (abacavir, lamivudina, esta-
+vudina, zalcitabina y zidovudina), INNRT (delavirdina, EFV y nevirapina) e inhibidores
+de  la  proteasa  (amprenavir,  nelfinavir,  ritonavir  y  saquinavir)  se  observaron  efectos
+que variaron entre aditivos y sinérgicos. La emtricitabina presentó actividad antiviral
+en cultivo celular contra los subtipos A, B, C, D, E, F y G del VIH-1 (los valores de CE 50
+
+cepa contra el VIH-2 (los valores de CE50
+Tenofovir DF: Se evaluó la actividad antiviral en cultivo celular del tenofovir contra
+cepas clínicas y de laboratorio del VIH-1 en las líneas celulares linfoblastoides, células
+primarias monocito/macrofágicas y linfocitos de sangre periférica. Los valores de CE50
+
+los  estudios  de  asociación  farmacológica  del  tenofovir  con  INRT  (abacavir,  didano-
+sina,  lamivudina,  estavudina,  zalcitabina  y  zidovudina),  INNRT  (delavirdina,  EFV  y
+nevirapina) e inhibidores de la proteasa (amprenavir, indinavir, nelfinavir, ritonavir y
+saquinavir) se observaron efectos que variaron entre aditivos y sinérgicos. El tenofovir
+presentó actividad antiviral en cultivo celular contra los subtipos A, B, C, D, E, F, G y
+O del VIH-1 (los valores de CE50
+cepa contra el VIH-2 (los valores de CE50
+
+Resistencia
+EFV, FTC y TDF: Se han seleccionado en cultivos celulares y en estudios clínicos cepas
+aisladas del VIH-1 con una sensibilidad reducida a la asociación de FTC y tenofovir. El
+análisis genotípico de estas cepas aisladas identificó las sustituciones de aminoácidos
+M184I/V o K65R en la RT viral. Asimismo, el tenofovir ha seleccionado una sustitu-
+ción K70E en la retrotranscriptasa del VIH-1 que ha producido una disminución de
+la sensibilidad al tenofovir.
+En  un  estudio  clínico  con  pacientes  sin  tratamiento  antirretroviral  previo  [estudio
+934, véase Estudios clínicos (8)] se realizó un análisis de resistencia en cepas aisladas
+del VIH-1 de todos los pacientes con fracaso virológico confirmado con más de 400
+copias/ml de ARN del VIH-1 en la semana 144 o que habían abandonado prematura-
+mente el estudio. La forma más frecuente de resistencia que se produjo fue la resis-
+tencia genotípica al EFV, predominantemente la sustitución K103N. La resistencia al
+EFV se produjo en 13/19 de los pacientes analizados del grupo tratado con FTC + TDF,
+y en 21/29 de los pacientes analizados del grupo que recibió la asociación en dosis
+fijas de zidovudina y lamivudina. Se observó la sustitución de aminoácidos M184V,
+asociada con resistencia a la FTC y la lamivudina, en 2/19 de las cepas aisladas de
+los pacientes analizados del grupo tratado con FTC + TDF y en 10/29 de las cepas
+aisladas de los pacientes analizados del grupo tratado con la asociación de zidovudi-
+na y lamivudina. En las 144 semanas del estudio 934, ningún paciente presentó una
+sustitución K65R detectable en su VIH-1, según los análisis genotípicos habituales.
+En  un  estudio  clínico  en  pacientes  sin  tratamiento  antirretroviral  previo,  las  cepas
+aisladas  de  8/47  (17%)  de  los  pacientes  analizados  que  recibían  TDF  presentaron
+la mutación K65R durante las 144 semanas de tratamiento; siete de estos casos se
+produjeron en las 48 primeras semanas de tratamiento y uno en la semana 96. En los
+pacientes con tratamiento antirretroviral previo, 14/304 (5%) de los pacientes trata-
+dos con TDF y con fracaso virológico en la semana 96 presentaron una disminución de
+la sensibilidad superior a 1,4 veces (mediana de 2,7) al tenofovir. El análisis genotípico
+de las cepas aisladas resistentes mostró una sustitución en el gen de la RT del VIH-1
+que produjo la sustitución del aminoácido K65R.
+Efavirenz: Se han obtenido cepas aisladas clínicas con una disminución de la sensi-
+bilidad al EFV en cultivo celular. La sustitución de aminoácidos observada con mayor
+frecuencia en los estudios clínicos con EFV es K103N (54%). En los sujetos con fracaso
+terapéutico al recibir EFV en combinación con otros antirretrovirales, se observaron
+una o más sustituciones de la retrotranscriptasa en las posiciones de los aminoáci-
+dos 98, 100, 101, 103, 106, 108, 188, 190, 225, 227 y 230. Otras sustituciones de
+resistencia que se observó que aparecieron con frecuencia son L100I (7%), K101E/Q/R
+(14%), V108I (11%), G190S/T/A (7%), P225H (18%) y M230I/L (11%).
+En una selección en cultivo celular, aparecieron rápidamente cepas aisladas del VIH-1
+con una disminución de la sensibilidad al EFV (aumento superior a 380 veces el valor
+de  CE90).  La  caracterización  genotípica  de  estos  virus  identificó  sustituciones  que
+produjeron sustituciones de un solo aminoácido L100I o V179D, sustituciones dobles
+L100I/V108I y sustituciones triples L100I/V179D/Y181C de la RT.
+Emtricitabina: Se han seleccionado cepas aisladas del VIH-1 resistentes a la emtricita-
+bina en cultivos celulares y en estudios clínicos. El análisis genotípico de estas cepas
+aisladas demostró que la disminución de la sensibilidad a la FTC se asoció a una sus-
+titución del gen de la retrotranscriptasa del VIH-1 en el codón 184, que produjo una
+sustitución del aminoácido metionina por valina o isoleucina (M184V/I).
+Tenofovir DF: En un cultivo celular se han seleccionado cepas aisladas del VIH-1 con
+una disminución de la sensibilidad al tenofovir. Estos virus expresaron una sustitu-
+ción K65R en la retrotranscriptasa y mostraron una reducción de 2 a 4 veces de la
+sensibilidad al tenofovir.
+
+Resistencia cruzada
+Efavirenz, emtricitabina y tenofovir DF: Se ha reconocido la resistencia cruzada entre
+inhibidores no nucleosídicos de la retrotranscriptasa. Se ha reconocido también la
+resistencia cruzada entre ciertos inhibidores nucleosídicos de la retrotranscriptasa.
+Las sustituciones M184V/I o K65R seleccionadas en cultivo celular por la asociación
+de FTC y tenofovir también se observan en algunas cepas aisladas del VIH-1 de pa-
+cientes que no responden al tratamiento con tenofovir en asociación con lamivudina
+o FTC, y abacavir o didanosina. Por lo tanto, la resistencia cruzada entre estos fármacos
+puede presentarse en los pacientes cuyos virus hospedan alguna o ambas de estas
+sustituciones de aminoácidos.
+
+Efavirenz: Las cepas aisladas clínicas que se caracterizaron anteriormente como re-
+sistentes  al  EFV  también  fueron  fenotípicamente  resistentes  en  cultivo  celular  a  la
+delavirdina y la nevirapina, en comparación con los valores iniciales. Las cepas virales
+aisladas clínicas, resistentes a la delavirdina o a la nevirapina, con sustituciones aso-
+ciadas con la resistencia a los INNRT (A98G, L100I, K101E/P, K103N/S, V106A, Y181X,
+Y188X, G190X, P225H, F227L o M230L) mostraron una disminución de la sensibili-
+dad al EFV en el cultivo celular. Más del 90% de las cepas aisladas resistentes a los INRT
+examinadas en cultivo celular conservaron la sensibilidad al EFV.
+Emtricitabina: Las cepas aisladas resistentes a la emtricitabina (M184V/I) presentaron
+resistencia cruzada a la lamivudina; sin embargo, en cultivo celular, conservaron la
+sensibilidad a la didanosina, la estavudina, el tenofovir, la zidovudina y los INNRT (de-
+lavirdina, EFV y nevirapina). Las cepas aisladas de VIH-1 que contienen la sustitución
+K65R, seleccionada in vivo por el abacavir, la didanosina y el tenofovir, presentaron
+una disminución de la sensibilidad a la inhibición por la FTC. Los virus que hospedan
+sustituciones que confieren una disminución de la sensibilidad a la estavudina y la
+zidovudina (M41L, D67N, K70R, L210W, T215Y/F y K219Q/E), o a la didanosina (L74V)
+se mantuvieron sensibles a la FTC.
+Tenofovir DF: Se ha observado resistencia cruzada entre los INRT. La sustitución K65R
+en la retrotranscriptasa del VIH-1 seleccionada por el tenofovir también se selecciona
+en algunos pacientes infectados por el VIH-1, tratados con abacavir o didanosina. Las
+cepas aisladas del VIH-1 con la sustitución K65R también mostraron una disminución
+de la sensibilidad a la FTC y la lamivudina. Por lo tanto, puede presentarse resistencia
+cruzada en estos fármacos en los pacientes cuyos virus hospedan la sustitución K65R.
+La sustitución K70E seleccionada clínicamente por el TDF produce una disminución
+de la sensibilidad al abacavir, la didanosina, la FTC y la lamivudina. Las cepas aisladas
+de estos pacientes (N = 20) cuyo VIH-1 expresó una media de tres sustituciones de
+aminoácidos de la RT asociadas a la zidovudina (M41L, D67N, K70R, L210W, T215Y/F o
+K219Q/E/N) presentaron una disminución de 3,1 veces en la sensibilidad al tenofovir.
+En los pacientes cuyo virus expresó una sustitución L74V sin sustituciones asociadas
+con la resistencia a la zidovudina (N = 8) se observó una disminución de la respuesta
+al TDF. Se dispone de datos limitados en los pacientes cuyo virus expresó una susti-
+tución Y115F (N = 3), una sustitución Q151M (N = 2) o una inserción T69 (N = 4), en
+todos los cuales se observó una disminución de la respuesta.
+
+4 POSOLOGÍA Y ADMINISTRACIÓN
+4.1 Pruebas antes de iniciar el tratamiento con ATRIPLA® y durante su administración
+Antes del inicio o al momento de iniciar el tratamiento con ATRIPLA®, los pacientes
+deben realizarse análisis para detectar la presencia de infección por el virus de la he-
+patitis B [véase Advertencias y precauciones (7.1.1)].
+Antes de iniciar el uso de ATRIPLA® y durante su administración, conforme a un crono-
+grama clínicamente adecuado, deben evaluarse la creatinina sérica, la depuración de
+creatinina estimada, la glucosuria y la proteinuria en todos los pacientes. En pacientes
+con enfermedad renal crónica, también debe evaluarse el fósforo sérico [véase Adver-
+tencias y precauciones (7.1.7)].
+Se debe supervisar la función hepática antes y durante el tratamiento con ATRIPLA®
+[véase Advertencias y precauciones (7.1.3)].
+Antes de iniciar el tratamiento con ATRIPLA®, las pacientes adolescentes y adultas con
+capacidad de concebir deben realizarse una prueba de embarazo [véanse Adverten-
+cias y precauciones (7.1.8), y Uso en poblaciones específicas (7.4.1, 7.4.3)].
+
+4.2 Posología recomendada para pacientes adultos y pediátricos que pesan
+al menos 40 kg
+ATRIPLA® es un producto que combina tres fármacos en dosis fijas: 600 mg de efavi-
+renz (EFV), 200 mg de emtricitabina (FTC) y 300 mg de tenofovir disoproxil fumarato
+(TDF). La posología recomendada de ATRIPLA® para pacientes adultos y pediátricos
+que pesan al menos 40 kg consiste en un solo comprimido, tomado una vez al día por
+vía oral, con el estómago vacío. La administración al acostarse puede mejorar la tole-
+rabilidad de los síntomas del sistema nervioso [véase Farmacología clínica (3.2.3)].
+
+4.3 No se recomienda en pacientes con disfunción renal moderada o grave
+No se recomienda el uso de ATRIPLA® en pacientes con disfunción renal moderada o
+grave (depuración de creatinina estimada inferior a 50 ml/min) [véanse Advertencias
+y precauciones (7.1.7), y Uso en poblaciones específicas (7.4.6)].
+
+4.4 No se recomienda en pacientes con disfunción hepática de moderada a grave
+No se recomienda el uso de ATRIPLA® en pacientes con disfunción hepática de mode-
+rada a grave (Child Pugh B o C) [véanse Advertencias y precauciones (7.1.3), y Uso en
+poblaciones específicas (7.4.7)].
+
+4.5 Ajuste posológico al coadministrar rifampicina
+Si se coadministra ATRIPLA® con rifampicina a los pacientes con un peso corporal su-
+perior o igual a 50 kg, se debe tomar un solo comprimido de ATRIPLA® una vez al día
+seguido de una dosis adicional de 200 mg por día de efavirenz [véanse Interacciones
+farmacológicas (7.3) y Farmacología clínica (3.2.3)].
+
+5. FORMAS FARMACÉUTICAS Y CONCENTRACIONES
+Los  comprimidos  de  ATRIPLA®  son  rosados,  en  forma  de  cápsula,  recubiertos  con
+película, con la inscripción “123” en una cara y lisos en la otra. Cada comprimido con-
+tiene 600 mg de efavirenz, 200 mg de emtricitabina y 300 mg de tenofovir disoproxil
+fumarato (equivalente a 245 mg de disoproxilo de tenofovir).
+
+6. CONTRAINDICACIONES
+•  ATRIPLA® está contraindicado en los pacientes con hipersensibilidad clínicamente
+significativa, previamente demostrada (por ejemplo, síndrome de Stevens-John-
+son, eritema multiforme o erupciones cutáneas tóxicas) al efavirenz, un compo-
+nente de ATRIPLA® [véase Advertencias y precauciones (7.1.2)].
+
+•  La coadministración de ATRIPLA® con voriconazol o elbasvir/grazoprevir está contra-
+indicada [véanse Interacciones farmacológicas (7.3) y Farmacología clínica (3.2.3)].
+
+7. ADVERTENCIAS Y PRECAUCIONES
+7.1 GENERALES
+7.1.1 Exacerbación aguda grave de la hepatitis B en pacientes con infección
+concomitante por el VIH-1 y el VHB
+Se debe realizar una prueba para detectar la presencia del virus de la hepatitis B cró-
+nico a todos los pacientes antes de iniciar la terapia antirretroviral o cuando se inicie
+
+[véase  Posología  y  administración  (4.1)].  Se  han  notificado  casos  de  exacerbación
+aguda  y  grave  de  la  hepatitis  B  (p.  ej.,  descompensación  hepática  e  insuficiencia
+hepática) en los pacientes infectados concomitantemente por el VHB y el VIH-1 que
+han suspendido la administración de FTC o TDF, dos de los componentes de ATRIPLA®.
+Se  debe  vigilar  rigurosamente  a  los  pacientes  que  estén  infectados  concomitante-
+mente por el VIH-1 y el VHB, con seguimiento clínico y de laboratorio durante por lo
+menos varios meses después de interrumpir el tratamiento con ATRIPLA®. Si fuese
+conveniente, puede estar justificado el inicio del tratamiento contra la hepatitis B,
+especialmente en pacientes con enfermedad hepática avanzada o cirrosis, ya que la
+exacerbación de la hepatitis después del tratamiento puede causar descompensación
+e insuficiencia hepáticas.
+
+7.1.2 Erupción cutánea
+En estudios clínicos controlados, el 26% (266/1008) de los sujetos adultos tratados
+con 600 mg de EFV presentó erupción cutánea de aparición nueva, en comparación
+con el 17% (111/635) de aquellos tratados en los grupos de control. Se produjo erup-
+ción cutánea asociada con ampollas, descamación húmeda o ulceración en el 0,9%
+(9/1008) de los sujetos tratados con EFV. La incidencia de erupciones cutáneas de gra-
+do 4 (p. ej., eritema multiforme, síndrome de Stevens-Johnson) en los sujetos adultos
+tratados con EFV en todos los estudios y programas de acceso ampliado fue del 0,1%.
+Las erupciones cutáneas suelen consistir en erupciones cutáneas maculopapulosas
+de leves a moderadas que se producen en las primeras 2 semanas después de iniciar
+el tratamiento con EFV (la mediana del tiempo hasta la aparición de la erupción en los
+adultos fue de 11 días) y, en la mayoría de los sujetos que continúan el tratamiento con
+EFV, la erupción cutánea se resuelve en el plazo de 1 mes (mediana de la duración:
+16 días). En los estudios clínicos con adultos, la tasa de suspensión por erupciones
+cutáneas fue del 1,7% (17/1008). La administración de  ATRIPLA® puede reiniciarse
+en los pacientes que interrumpen el tratamiento a causa de una erupción.  ATRIPLA®
+deberá suspenderse en los pacientes que presenten erupción cutánea grave asociada
+con ampollas, descamación, afectación de las mucosas o fiebre. La administración de
+antihistamínicos  y/o  corticoesteroides  adecuados  puede  mejorar  la  tolerabilidad  y
+acelerar la resolución de la erupción. En el caso de pacientes que hayan sufrido una re-
+acción cutánea potencialmente mortal (p. ej., síndrome de Stevens-Johnson), se debe
+considerar un tratamiento alternativo [véase Contraindicaciones (6)].
+La experiencia con el EFV es limitada en sujetos que suspendieron el uso de otros
+antirretrovirales  de  la  clase  de  los  INNRT.  Diecinueve  sujetos  que  suspendieron  el
+uso de nevirapina a causa de una erupción cutánea han recibido tratamiento con EFV.
+Nueve de estos sujetos presentaron erupción cutánea de leve a moderada mientras
+recibían tratamiento con EFV, y dos de estos sujetos suspendieron el tratamiento a
+causa de la erupción.
+Se notificaron erupciones cutáneas en 59 de 182 sujetos pediátricos (32%) tratados
+con EFV [véase Reacciones adversas (9.1)]. Dos sujetos pediátricos presentaron erup-
+ciones cutáneas de grado 3 (erupción acompañada de fiebre, erupción generalizada),
+y cuatro sujetos presentaron erupciones cutáneas de grado 4 (eritema multiforme). La
+mediana del tiempo hasta la aparición de la erupción en los sujetos pediátricos fue de
+28 días (intervalo: 3-1642 días). Debe considerarse la profilaxis con antihistamínicos
+adecuados antes de iniciar el tratamiento con ATRIPLA® en pacientes pediátricos.
+
+7.1.3 Hepatotoxicidad
+Se han notificado casos de hepatitis posteriores a la comercialización, que incluyen
+hepatitis  fulminante  con  progresión  a  insuficiencia  hepática  que  requirieron  tras-
+plante o provocaron la muerte, en los pacientes tratados con EFV, un componente
+de  ATRIPLA®.  Entre  los  informes  se  incluyen  pacientes  con  enfermedad  hepática
+subyacente, incluida la infección concomitante con hepatitis B o C, y pacientes sin
+enfermedad  hepática  preexistente  ni  otros  factores  de  riesgo  identificables  [véase
+Advertencias y precauciones (7.1.1)].
+No se recomienda el uso de ATRIPLA® en pacientes con disfunción hepática moderada
+o grave. Se recomienda una supervisión minuciosa en los pacientes con disfunción
+hepática leve que reciban ATRIPLA® [véanse Reacciones adversas (9.2) y Uso en po-
+blaciones específicas (7.4.7)].
+Se recomienda supervisar las enzimas hepáticas antes y durante el tratamiento en to-
+dos los pacientes [véase Posología y administración (4.1)]. Debe considerarse suspen-
+der el uso de ATRIPLA® en los pacientes con aumentos persistentes de transaminasas
+séricas que superen cinco veces el límite superior del intervalo normal.
+Debe suspenderse el uso de ATRIPLA® si el aumento de las transaminasas séricas está
+acompañado de signos o síntomas clínicos de hepatitis o descompensación hepática
+[véase Reacciones adversas (9.1)].
+
+7.1.4 Riesgo de reacciones adversas o pérdida de la respuesta virológica debi-
+do a interacciones farmacológicas
+El  uso  concomitante  de  ATRIPLA®  y  otros  fármacos  puede  ocasionar  interacciones
+farmacológicas  posiblemente  significativas  [véanse  Contraindicaciones  (4)  e  Inte-
+racciones farmacológicas (7.3)], algunas de las cuales pueden provocar lo siguiente:
+•  Pérdida del efecto terapéutico del fármaco concomitante o de ATRIPLA®, y posible
+
+desarrollo de resistencia.
+
+•  Posible  reacción  adversa  clínicamente  significativa  a  raíz  de  exposiciones  más
+
+altas a ATRIPLA® o al fármaco concomitante.
+
+La  prolongación  del  QTc  se  ha  observado  con  el  uso  de  EFV  [véase  Interacciones
+farmacológicas (7.2.1)]. Considere alternativas a ATRIPLA® cuando coadministra con
+un fármaco con un riesgo conocido de Torsade de Pointes o cuando se administra a
+pacientes con mayor riesgo de Torsade de Pointes. Consulte en la tabla 5 los pasos a
+seguir para prevenir o tratar estas interacciones farmacológicas significativas, tanto
+las posibles como las conocidas, incluidas las recomendaciones posológicas. Deben
+tenerse en cuenta las posibles interacciones farmacológicas antes y durante el trata-
+miento con ATRIPLA®, además de revisar los medicamentos concomitantes durante la
+administración de ATRIPLA® [véanse Posología y administración (4.5), Contraindica-
+ciones (6), e Interacciones farmacológicas (7.2)].
+
+7.1.5 Síntomas psiquiátricos
+En  los  pacientes tratados con  EFV,  un  componente  de ATRIPLA®,  se  han  notificado
+experiencias adversas psiquiátricas graves. En estudios clínicos controlados de 1008
+pacientes con regímenes que contienen EFV durante una media de 2,1 años y de 635
+pacientes tratados con pautas de referencia durante una media de 1,5 años, la fre-
+cuencia (con independencia de la causalidad) de las reacciones psiquiátricas graves
+y específicas en los pacientes que recibieron EFV o pautas de referencia, respectiva-
+
+mente, fueron: depresión grave (2,4%, 0,9%), ideación suicida (0,7%, 0,3%), inten-
+tos de suicidio no mortales (0,5%, 0%), conducta agresiva (0,4%, 0,5%), reacciones
+paranoides (0,4%, 0,3%) y reacciones maníacas (0,2%, 0,3%). Cuando los síntomas
+psiquiátricos similares a los que se acaban de mencionar se combinaron y evaluaron
+como un grupo, en un análisis multifactorial de datos del estudio AI266006 (006,
+NCT00002410) —un  estudio  de  fase  3,  aleatorizado,  abierto, sobre  regímenes  que
+contienen EFV frente a controles, efectuado en 1266 sujetos (mediana del seguimien-
+to: 180 semanas, 102 semanas y 76 semanas para los sujetos tratados con EFV + zido-
+vudina + lamivudina, con EFV + indinavir, y con indinavir + zidovudina + lamivudina,
+respectivamente)—, el tratamiento con EFV se asoció a un aumento de la aparición de
+estos síntomas psiquiátricos seleccionados. Otros factores asociados a un aumento de
+la aparición de estos síntomas psiquiátricos fueron: antecedentes de utilización de
+drogas inyectables, antecedentes psiquiátricos y toma de medicamentos psiquiátri-
+cos en la entrada en el estudio; se observaron asociaciones similares tanto en el grupo
+de tratamiento con EFV como en el grupo de control. En el estudio 006, la aparición
+de nuevos síntomas psiquiátricos graves se produjo durante todo el estudio, tanto en
+los pacientes tratados con EFV como en los que recibieron el tratamiento control. El
+1% de los pacientes tratados con EFV suspendió o interrumpió el tratamiento a causa
+de uno o más de estos síntomas psiquiátricos seleccionados. También se han notifica-
+do casos ocasionales, después de la comercialización, de suicidio, ideas delirantes y
+comportamiento de tipo psicótico, y catatonía, aunque a partir de estas notificaciones
+no puede establecerse una relación de causalidad con el uso de EFV. También se han
+notificado casos de catatonía posteriores a la comercialización, y es posible que estén
+asociados con un aumento en la exposición al EFV. Los pacientes con reacciones adver-
+sas psiquiátricas graves deben solicitar inmediatamente una evaluación médica para
+valorar la posibilidad de que los síntomas estén relacionados con el uso de EFV y, de
+ser así, establecer si los riesgos de continuar con el tratamiento superan a las ventajas
+[véase Reacciones adversas (9)].
+
+7.1.6 Síntomas del sistema nervioso
+El 53% (531/1008) de los pacientes que recibieron EFV en estudios clínicos controla-
+dos manifestaron síntomas del sistema nervioso central (de cualquier grado, con in-
+dependencia de la causalidad), en comparación con el 25% (156/635) de los pacientes
+que recibieron pautas de referencia. Estos síntomas consistieron en mareos (28,1% de
+los 1008 pacientes), insomnio (16,3%), alteración de la concentración (8,3%), som-
+nolencia  (7,0%),  sueños  anormales  (6,2%)  y  alucinaciones  (1,2%).  Otros  síntomas
+comunicados fueron euforia, confusión, agitación, amnesia, estupor, pensamientos
+anormales y despersonalización. La mayoría de estos síntomas fueron de leves a mo-
+derados (50,7%); los síntomas fueron graves en el 2,0% de los pacientes. En total,
+como resultado de ello, el 2,1% de los pacientes suspendieron el tratamiento. Estos
+síntomas comienzan habitualmente durante el primer o segundo día del tratamiento
+y, por lo general, se resuelven después de las 2-4 primeras semanas de tratamiento.
+Después de 4 semanas de tratamiento, la prevalencia de síntomas del sistema nervio-
+so de gravedad por lo menos moderada fue del 5 al 9% en los pacientes tratados con
+regímenes que contenían EFV, y del 3 al 5% en los pacientes que recibieron una pauta
+de referencia. Se debe informar a los pacientes que es probable que estos síntomas
+frecuentes mejoren con la continuación del tratamiento y no fueron predictivos de
+la aparición posterior de los síntomas psiquiátricos menos frecuentes [véase Adver-
+tencias y precauciones (7.1.5)]. La administración de los fármacos al acostarse puede
+mejorar la tolerabilidad de estos síntomas del sistema nervioso [véase  Posología y
+administración (4.2)].
+El  análisis  de  los  datos  a  largo  plazo  del  estudio  006  mostró  que,  pasadas  las  24
+semanas de tratamiento, las incidencias de síntomas del sistema nervioso de nueva
+aparición en los pacientes tratados con EFV fueron generalmente parecidas a las del
+grupo control que contenía indinavir.
+Debe alertarse a los pacientes que reciben ATRIPLA® acerca de la posibilidad de efec-
+tos aditivos en el sistema nervioso central cuando ATRIPLA® se usa concomitantemen-
+te con alcohol o con fármacos psicoactivos.
+Los  pacientes  que  sufren  síntomas  del  sistema  nervioso  central  como  mareos,  al-
+teración de la concentración o somnolencia deberán evitar la realización de tareas
+posiblemente peligrosas como conducir o usar máquinas.
+
+7.1.7 Nueva aparición o empeoramiento de la disfunción renal
+La emtricitabina y el tenofovir se eliminan principalmente por los riñones; sin em-
+bargo, el EFV, no. Se han notificado casos de trastornos renales, entre ellos insufi-
+ciencia renal aguda y síndrome de Fanconi (lesión tubular renal con hipofosfatemia
+grave), asociados con el uso del TDF, un componente de ATRIPLA® [véase Reacciones
+adversas (9.2)].
+Antes de iniciar el uso de ATRIPLA® y durante su administración, conforme a un cro-
+nograma clínicamente adecuado, deben evaluarse la creatinina sérica, la depuración
+de creatinina estimada, la glucosuria y la proteinuria en todos los pacientes. En los
+pacientes con enfermedad renal crónica, también debe evaluarse el fósforo sérico.
+No se recomienda el uso de ATRIPLA® en pacientes con disfunción renal moderada o
+grave (depuración de creatinina estimada inferior a 50 ml/min).
+Debe evitarse el uso de ATRIPLA® con el uso concomitante o reciente de un fármaco
+nefrotóxico (p. ej., múltiples antinflamatorios no esteroideos o a dosis altas [AINE])
+[véase  Interacciones  farmacológicas  (7.2)].  Se  han  notificado  casos  de  disfunción
+renal aguda tras la administración de múltiples AINE o a dosis altas en pacientes infec-
+tados por el VIH con factores de riesgo de disfunción renal que parecían estables con
+TDF. Algunos pacientes precisaron hospitalización y un tratamiento renal sustitutivo.
+En caso necesario, deben considerarse alternativas terapéuticas a los AINE en los pa-
+cientes con riesgo de disfunción renal.
+El dolor óseo persistente o empeoramiento del mismo, el dolor en las extremidades,
+las fracturas y/o el dolor o la debilidad muscular pueden ser manifestaciones de tubu-
+lopatía renal proximal y requerirán una evaluación de la función renal en los pacientes
+con riesgo de disfunción renal.
+Debe suspenderse el uso de ATRIPLA® en los pacientes que presenten reducciones
+clínicamente significativas en la función renal o indicios de síndrome de Fanconi.
+
+7.1.8 Toxicidad embriofetal
+El efavirenz puede causar daño fetal si se administra durante el primer trimestre del
+embarazo. Se debe indicar a las pacientes adultas y adolescentes con capacidad de
+concebir  tratadas  con  ATRIPLA®  que  eviten  quedar  embarazadas  mientras  reciben
+ATRIPLA® y durante 12 semanas después de suspender el tratamiento [véanse Posolo-
+gía y administración (4.1), y Uso en poblaciones específicas (7.4.1, 7.4.3)].
+
+7.1.9 Pérdida de masa ósea y defectos de mineralización
+Densidad mineral ósea
+En los estudios clínicos con adultos infectados por el VIH-1, el TDF (un componente de
+ATRIPLA®) se asoció a disminuciones ligeramente superiores de la densidad mineral
+ósea (DMO) y a aumentos en los marcadores bioquímicos del metabolismo óseo, lo
+que sugiere un mayor recambio óseo frente a los comparadores. Las concentraciones
+de la hormona paratiroidea en el suero y de 1,25-vitamina D también fueron más altas
+en los pacientes tratados con TDF.
+Se realizaron estudios clínicos para evaluar el TDF en pacientes pediátricos y adoles-
+centes. En circunstancias normales, la DMO aumenta rápidamente en los pacientes
+pediátricos. En los pacientes de 2 a menos de 18 años de edad que estaban infecta-
+dos por el VIH-1, los efectos óseos fueron similares a los observados en los pacientes
+adultos, lo que sugiere un mayor recambio óseo. La ganancia total de DMO corporal
+fue menor en el grupo de pacientes pediátricos infectados por el VIH-1 tratados con
+TDF que en los grupos de control. Se observaron tendencias similares en los pacientes
+adolescentes de 12 a menos de 18 años de edad con hepatitis B crónica. En todos
+los estudios pediátricos, el crecimiento del esqueleto (estatura) no se vio afectado.
+Se desconocen los efectos de los cambios asociados al TDF en la DMO, y de los mar-
+cados bioquímicos en la salud ósea a largo plazo y en el riesgo futuro de fracturas.
+Debe  considerarse  la  evaluación  de  la  DMO  en  los  pacientes  adultos  y  pediátricos
+que tengan antecedentes de fracturas óseas patológicas u otros factores de riesgo
+de osteoporosis o pérdida de masa ósea. Si bien no se ha estudiado el efecto de los
+suplementos de calcio y vitamina D, dichos suplementos pueden ser beneficiosos. Se
+debe realizar una consulta adecuada si se sospecha la presencia de anomalías óseas.
+
+Defectos de mineralización
+Se han notificado casos de osteomalacia asociada a tubulopatía renal proximal, que
+se manifiesta como dolor óseo o dolor en las extremidades y que puede contribuir
+a las fracturas, en relación con el uso de TDF [véase Reacciones adversas (9.2)]. Asi-
+mismo, se han notificado artralgias y dolor o debilidad muscular en casos de tubu-
+lopatía renal proximal. Deben tenerse en cuenta la hipofosfatemia y la osteomalacia
+secundaria a tubulopatía renal proximal en los pacientes con riesgo de disfunción
+renal que presentan síntomas musculares u óseos persistentes o un empeoramiento
+de los mismos mientras reciben productos que contienen TDF [véase Advertencias
+y precauciones (7.1.7)].
+
+7.1.10 Convulsiones
+Se han observado convulsiones en pacientes adultos y pediátricos tratados con EFV,
+generalmente  en  presencia  de  antecedentes  comprobados  de  convulsiones.  Debe
+tenerse precaución en cualquier paciente con antecedentes de convulsiones.
+Los pacientes que reciben concomitantemente medicamentos anticonvulsivos meta-
+bolizados principalmente por el hígado, como la fenitoína, la carbamazepina y el fe-
+nobarbital, pueden precisar la vigilancia periódica de las concentraciones plasmáticas
+[véase Interacciones farmacológicas (7.3)].
+
+7.1.11 Acidosis láctica/hepatomegalia grave con esteatosis
+Se ha notificado la aparición de acidosis láctica y hepatomegalia grave con esteatosis,
+incluso casos mortales, con el uso de análogos nucleosídicos, entre los que se inclu-
+yen el TDF y la FTC (componentes de ATRIPLA®), ya sea solos o en combinación con
+otros antirretrovirales. El tratamiento con ATRIPLA® debe suspenderse en todos los
+pacientes que presenten hallazgos clínicos o de laboratorio que sugieran acidosis lác-
+tica o hepatotoxicidad pronunciada (que pueden incluir hepatomegalia y esteatosis,
+incluso en ausencia de aumentos marcados en los valores de transaminasas).
+
+7.1.12 Síndrome de reconstitución inmunológica
+Se han notificado casos del síndrome de reconstitución inmunológica en los pacien-
+tes que recibieron tratamiento antirretroviral asociado, incluidos los componentes de
+ATRIPLA®. Durante la fase inicial del tratamiento antirretroviral asociado, los pacien-
+tes cuyo sistema inmunitario responde pueden presentar una respuesta inflamatoria
+ante  infecciones  oportunistas  residuales  o  indolentes  (por  ejemplo,  infección  por
+Mycobacterium avium, citomegalovirus, neumonía por Pneumocystis jirovecii o tu-
+berculosis), que pueden requerir evaluación y tratamiento adicionales.
+También se han notificado casos de trastornos autoinmunitarios (como enfermedad
+de Graves, polimiositis síndrome de Guillain-Barré y la hepatitis autoinmune), que se
+produjeron en el contexto de reconstitución inmunitaria; sin embargo, el momento
+de la ocurrencia de estos trastornos es más variable, y pueden aparecer muchos meses
+después del inicio del tratamiento.
+
+7.1.13 Redistribución de las grasas
+Se ha observado la redistribución o la acumulación de la grasa corporal, consistente
+en obesidad central, acumulación de grasa dorsocervical (“joroba de búfalo”), ema-
+ciación periférica, emaciación facial, aumento de tamaño de las mamas y “aspecto
+cushingoide”  en  los  pacientes  en  tratamiento  antirretroviral,  incluido  el  EFV.  Se
+desconocen  actualmente  el  mecanismo  y  las  consecuencias  a  largo  plazo  de  estos
+fenómenos. No se ha establecido una relación causal.
+
+7.2 INTERACCIONES FARMACOLÓGICAS
+7.2.1 Efavirenz
+Se ha comprobado que el efavirenz induce in vivo el CYP3A y el CYP2B6. Otros com-
+puestos que son sustratos del CYP3A o CYP2B6 pueden presentar una disminución
+de las concentraciones plasmáticas cuando se administran simultáneamente con EFV.
+Se  esperaría  que  los  fármacos  que  inducen  la  actividad  del  CYP3A  (por  ejemplo,
+fenobarbital,  rifampicina,  rifabutina)  aumentasen  la  depuración  del  EFV,  produ-
+ciéndose  una  disminución  de  las  concentraciones  plasmáticas  [véase  Posología  y
+administración (4.2)].
+Existe poca información disponible sobre el potencial de una interacción farmacodi-
+námica entre el EFV y fármacos que prolongan el intervalo QTc. Se ha observado una
+prolongación del QTc con el uso de EFV [véase Farmacología clínica (3.2)]. Considere
+alternativas a ATRIPLA® cuando se coadministre con un fármaco con un riesgo cono-
+cido de Torsade de Pointes.
+
+7.2.2 Fármacos que afectan la función renal
+La FTC y el tenofovir se eliminan principalmente por los riñones [véase Farmacología
+clínica 3.2.3)]. La coadministración de ATRIPLA® con fármacos que se eliminan por
+secreción tubular activa puede aumentar las concentraciones de la FTC, el tenofovir
+
+y/o  el  fármaco  coadministrado.  Algunos  ejemplos  son,  entre  otros,  el  aciclovir,  el
+dipivoxilo de adefovir, el cidofovir, el ganciclovir, el valaciclovir, el valganciclovir, los
+aminoglucósidos (p. ej., gentamicina) y múltiples AINE o a dosis altas [véase Adver-
+tencias y precauciones (7.1.7)]. Los fármacos que disminuyen la función renal pueden
+aumentar las concentraciones de FTC y/o tenofovir.
+
+7.2.3 Interacciones establecidas y posiblemente significativas
+En la tabla 5 se resume otra información farmacológica importante para ATRIPLA®. Las
+interacciones farmacológicas descritas se basan en estudios realizados con ATRIPLA®,
+o los componentes de ATRIPLA® (EFV, FTC o TDF) como fármacos individuales, o son
+posibles interacciones farmacológicas [véase Farmacología clínica (3.2.3)].
+
+Tabla 5. Interacciones farmacológicas establecidas y posiblemente significativasa
+
+Tipo de fármaco concomitante:
+nombre del fármaco
+
+Efecto
+
+Comentario clínico
+
+Antivirales para el VIH
+Inhibidor de la proteasa:
+atazanavir
+
+Inhibidor de la proteasa:
+fosamprenavir cálcico
+
+Inhibidor de la proteasa:
+indinavir
+
+Inhibidor de la proteasa:
+darunavir/
+ritonavir
+
+lopinavir/
+ritonavir
+
+Inhibidor de la proteasa:
+ritonavir
+
+↓ atazanavir
+↑ tenofovir
+
+↓ amprenavir
+
+↓ indinavir
+
+↑ tenofovir
+
+↓ lopinavir
+↑ tenofovir
+
+↑ ritonavir
+↑ efavirenz
+
+Inhibidor de la proteasa:
+saquinavir
+Antagonista del correceptor CCR5:
+maraviroc
+INRT:
+didanosina
+
+↓ saquinavir
+
+↓ maraviroc
+
+↑ didanosina
+
+INNRT:
+Otros INNRT
+Inhibidor de la transferencia de las
+cadenas de la integrasa:
+raltegravir
+Antivirales para la hepatitis C
+boceprevir
+
+elbasvir/
+grazoprevir
+
+glecaprevir/
+pibrentasvir
+ledipasvir/
+sofosbuvir
+
+simeprevir
+
+sofosbuvir/velpatasvir
+sofosbuvir/velpatasvir/ voxilaprevir
+
+Otros fármacos
+Anticoagulante:
+warfarina
+Anticonvulsivos:
+carbamazepina
+
+fenitoína
+fenobarbital
+
+Antidepresivos:
+bupropión
+sertralina
+
+Antimicóticos:
+itraconazol
+ketoconazol
+posaconazol
+
+↑ o ↓ efavirenz y/o INNRT
+
+↓ raltegravir
+
+↓ boceprevir
+
+↓ elbasvir
+↓ grazoprevir
+
+↓ pibrentasvir
+↓ glecaprevir
+↑ tenofovir
+
+↓ simeprevir
+↔ efavirenz
+↑ tenofovir
+↓ velpatasvir
+↓ voxilaprevir
+
+↑ o ↓ warfarina
+
+↓ carbamazepina
+↓ efavirenz
+↓ anticonvulsivo
+↓ efavirenz
+
+↓ bupropión
+
+↓ sertralina
+↓ itraconazol
+↓ hidroxi-itraconazol
+↓ ketoconazol
+↓ posaconazol
+
+No se recomienda la administración simultánea de atazanavir con ATRIPLA®. Se desconoce
+el efecto combinado de EFV más TDF sobre las concentraciones plasmáticas de atazanavir.
+No hay información suficiente para respaldar las recomendaciones de posología del
+atazanavir o de la asociación de atazanavir y ritonavir en asociación con ATRIPLA®.
+Fosamprenavir (no reforzado): No se han establecido las dosis adecuadas de fosamprenavir
+y ATRIPLA® en lo que respecta a la inocuidad y la eficacia.
+Fosamprenavir/ritonavir: Si ATRIPLA® se administra con la asociación de fosamprenavir
+y ritonavir una vez al día, se recomiendan 100 mg/día (300 mg en total) adicionales de
+ritonavir. No se requiere ningún cambio de la dosis de ritonavir si ATRIPLA® se administra
+con fosamprenavir más ritonavir dos veces al día.
+Se desconoce la dosis óptima de indinavir, administrado en asociación con EFV. El aumento
+de la dosis de indinavir a 1000 mg cada ocho horas no compensa el aumento del metabo-
+lismo del indinavir debido al EFV.
+Se debe supervisar a los pacientes que reciban ATRIPLA® de forma concomitante con
+darunavir reforzado con ritonavir para detectar reacciones adversas asociadas con el TDF.
+Debe suspenderse el uso de ATRIPLA® en los pacientes que presenten reacciones adversas
+asociadas con el TDF.
+No administrar lopinavir/ritonavir una vez al día. Se recomienda aumentar la dosis de lopi-
+navir/ritonavir para todos los pacientes cuando se administra concomitantemente con EFV.
+Se debe consultar la ficha técnica completa de lopinavir/ritonavir para obtener orientación
+sobre la administración concomitante con EFV o pautas que contengan tenofovir como,
+por ejemplo, ATRIPLA®. Se debe vigilar la ocurrencia de reacciones adversas asociadas al
+tenofovir en los pacientes. Debe suspenderse el uso de ATRIPLA® en los pacientes que
+presenten reacciones adversas asociadas al TDF.
+Al administrar 500 mg de ritonavir cada 12 horas simultáneamente con 600 mg de EFV una
+vez al día, la asociación guardó relación con una frecuencia más alta de reacciones adversas
+clínicas (p. ej., mareos, náuseas, parestesia) y anomalías de laboratorio (aumento de las
+enzimas hepáticas). Se recomienda la vigilancia de las enzimas hepáticas si ATRIPLA® se
+usa en asociación con ritonavir.
+No se han establecido las dosis adecuadas para la asociación de EFV y saquinavir/ritonavir
+con respecto a su seguridad y eficacia.
+Se debe consultar la ficha técnica completa de maraviroc para obtener orientación sobre la
+administración concomitante con ATRIPLA®.
+Se debe supervisar minuciosamente a los pacientes que reciban ATRIPLA® y didanosina,
+a fin de detectar reacciones adversas asociadas a la didanosina. Debe suspenderse el
+uso de didanosina en los pacientes que presenten reacciones adversas asociadas con la
+didanosina. En concentraciones más altas, la didanosina podría potenciar las reacciones
+adversas asociadas con la didanosina, como pancreatitis y neuropatía.
+Se ha observado supresión de los recuentos de linfocitos CD4+ en los pacientes que
+recibieron TDF con 400 mg diarios de didanosina.
+En los pacientes que pesan más de 60 kg, la dosis de didanosina se reduce a 250 mg cuan-
+do se coadministra con ATRIPLA®. Cuando se coadministran, ATRIPLA® y Videx EC pueden
+tomarse en ayunas o con una comida ligera (menos de 400 kcal, 20% de grasas).
+La combinación de dos INNRT no ha demostrado ser beneficiosa. ATRIPLA® contiene EFV y
+no debe administrarse concomitantemente con otros INNRT.
+
+No se ha evaluado directamente la significancia clínica de esta interacción.
+
+Las concentraciones mínimas plasmáticas del boceprevir disminuyeron cuando boceprevir
+se administró concomitantemente con EFV, lo que causó una pérdida del efecto terapéuti-
+co. Debe evitarse esta asociación.
+La coadministración de ATRIPLA® con elbasvir/grazoprevir está contraindicada [véase
+Contraindicaciones (6)] porque puede provocar una pérdida de la respuesta virológica al
+elbasvir/grazoprevir.
+No se recomienda la coadministración de ATRIPLA® porque puede provocar una reducción
+en el efecto terapéutico del pibrentasvir/glecaprevir.
+Los pacientes que reciban ATRIPLA® y (ledipasvir/sofosbuvir) de forma concomitante
+deben permanecer bajo supervisión para detectar reacciones adversas asociadas con el
+tenofovir DF.
+La administración concomitante de simeprevir con EFV no se recomienda dado que puede
+provocar la pérdida del efecto terapéutico del simeprevir.
+La administración concomitante de productos que contienen EFV y (sofosbuvir/velpatasvir)
+o (sofosbuvir/velpatasvir/voxilaprevir) no se recomienda.
+
+Posible aumento o disminución de las concentraciones plasmáticas y los efectos por el EFV.
+
+No hay datos suficientes para hacer una recomendación de dosis de ATRIPLA®. Deberá
+emplearse un tratamiento anticonvulsivo diferente.
+Posibilidad de disminución de las concentraciones plasmáticas del anticonvulsivo, del EFV
+o de ambos; debe efectuarse una vigilancia periódica de las concentraciones plasmáticas
+del anticonvulsivo.
+Se cree que el efecto del EFV sobre la exposición del bupropión se debe a la inducción del
+metabolismo del bupropión. Los aumentos de la dosis de bupropión deben guiarse por la
+respuesta clínica, aunque no se debe superar su dosis máxima recomendada.
+Los aumentos de la dosis de sertralina deben guiarse por la respuesta clínica.
+Como no puede hacerse ninguna recomendación de la dosis de itraconazol, debe plantear-
+se un tratamiento antimicótico diferente.
+No se han efectuado estudios de interacción farmacológica con ATRIPLA® y el ketoconazol.
+El efavirenz tiene la posibilidad de reducir las concentraciones plasmáticas de ketoconazol.
+Se debe evitar el uso concomitante, a menos que el beneficio supere los riesgos.
+
+voriconazol
+
+Antiinfecciosos:
+claritromicina
+
+Antimicobacterianos:
+rifabutina
+
+rifampicina
+
+Antipalúdicos:
+arteméter/
+lumefantrina
+atovacuona/
+proguanil
+
+Bloqueantes de los canales de calcio:
+diltiazem
+
+Otros p. ej.:
+felodipina
+nicardipina
+nifedipina
+verapamilo
+Inhibidores de la HMG-CoA
+reductasa:
+atorvastatina
+pravastatina
+simvastatina
+Anticonceptivos hormonales:
+Por vía oral:
+etinilestradiol/
+norgestimato
+Por implante:
+etonogestrel
+
+↓ voriconazol
+↑ efavirenz
+
+↓ claritromicina
+↑ metabolito 14-OH
+
+↓ rifabutina
+
+↓ efavirenz
+
+↓ arteméter
+↓ dihidroartemisinina
+↓ lumefantrina
+↓ atovacuona
+↓ proguanil
+
+↓ diltiazem
+↓ desacetildiltiazem
+↓ N-monodesmetildiltiazem
+
+↓ bloqueante de los canales
+de calcio
+
+↓ atorvastatina
+↓ pravastatina
+↓ simvastatina
+
+↓ metabolitos activos del
+norgestimato
+
+↓ etonogestrel
+
+Inmunosupresores:
+ciclosporina, tacrolimus, sirolimus y
+otros metabolizados por el CYP3A
+
+↓ inmunosupresor
+
+Analgésicos narcóticos:
+metadona
+
+↓ metadona
+
+La coadministración de ATRIPLA® con voriconazol está contraindicada [véase Contraindica-
+ciones (6)] porque puede provocar una reducción en el efecto terapéutico del voriconazol e
+incrementar el riesgo de reacciones adversas asociadas con el EFV.
+
+Considerar alternativas a los antibióticos macrólidos debido al riesgo de prolongación
+del intervalo QT.
+Aumentar la dosis diaria de rifabutina en un 50%. Debe valorarse la duplicación de la
+dosis de rifabutina en las pautas en las que se administra este fármaco dos o tres veces
+por semana.
+Si ATRIPLA® se administra concomitantemente con rifampicina a los pacientes con un peso
+corporal superior o igual a 50 kg, se recomienda una dosis adicional de EFV de 200 mg/día.
+
+Considere alternativas al arteméter/lumefantrina debido al riesgo de prolongación del
+intervalo QT [véase Advertencias y precauciones (7.1.4)].
+
+No se recomienda la administración concomitante de atovacuona/proguanil con ATRIPLA®.
+
+Los ajustes de la dosis de diltiazem deben guiarse por la respuesta clínica (consúltese
+la ficha técnica completa del diltiazem). No es necesario ningún ajuste de la dosis de
+ATRIPLA® si se administra concomitantemente con diltiazem.
+No se dispone de información sobre las posibles interacciones del EFV con otros
+bloqueantes de los canales de calcio que son sustratos de CYP3A. Existe la posibilidad de
+disminución de las concentraciones plasmáticas del bloqueante de los canales de calcio.
+Los ajustes de la dosis deben guiarse por la respuesta clínica (consúltese la ficha técnica
+completa del bloqueante de los canales de calcio).
+Disminución de las concentraciones plasmáticas de atorvastatina, pravastatina y simvas-
+tatina con EFV. Debe consultarse la ficha técnica completa del inhibidor de la HMG-CoA
+reductasa para tener una orientación sobre la individualización de la dosis.
+
+Debe usarse un método anticonceptivo de barrera fiable además de los anticoncep-
+tivos hormonales. El efavirenz no tuvo ningún efecto sobre las concentraciones de
+etinilestradiol; sin embarazo, las concentraciones de progestágenos (norelgestromina y
+levonorgestrel) estuvieron marcadamente disminuidas. No se observó ningún efecto del
+etinilestradiol/norgestimato sobre las concentraciones plasmáticas de EFV.
+Debe usarse un método anticonceptivo de barrera fiable además de los anticonceptivos
+hormonales. Puede esperarse una disminución de la exposición al etonogestrel. Ha habido
+informes posteriores a la comercialización de fracaso anticonceptivo con el etonogestrel en
+pacientes expuestas al EFV.
+Puede esperarse una disminución de la exposición al inmunosupresor a causa de la
+inducción del CYP3A por el EFV. No se prevé que estos inmunosupresores afecten la
+exposición al EFV. Puede ser necesario ajustar la dosis del inmunosupresor. Se recomienda
+una vigilancia rigurosa de las concentraciones del inmunosupresor por lo menos durante
+dos semanas (hasta que se alcancen concentraciones estables) al iniciar o interrumpir el
+tratamiento con ATRIPLA®.
+La administración concomitante de EFV en pacientes infectados por el VIH-1 con antece-
+dentes de consumo de drogas inyectables produjo signos de abstinencia de los opiáceos.
+La dosis de metadona aumentó una media del 22% para aliviar los síntomas de abstinencia.
+Se deben vigilar los signos de abstinencia en los pacientes y se debe aumentar la dosis de
+metadona, según se precise para aliviar los síntomas de abstinencia.
+
+a. Esta tabla no es exhaustiva.
+
+7.2.4 Interferencia de efavirenz con los análisis
+Interacción con la prueba de cannabinoides: El efavirenz no se une a los receptores
+de los cannabinoides. En algunos análisis de detección se han notificado resultados
+falsamente positivos de las pruebas de cannabinoides en la orina en pacientes infec-
+tados y no infectados por el VIH que recibían EFV. Se recomienda obtener un análisis
+confirmatorio en la prueba de cannabinoides con un método más específico.
+
+7.3 Toxicología no clínica
+7.3.1 Carcinogénesis, mutagénesis, trastorno de la fertilidad
+Efavirenz: Se realizaron estudios de carcinogénesis a largo plazo con EFV en ratones y ra -
+tas. Se administraron a los ratones dosis de 0, 25, 75, 150 o 300 mg/kg al día durante dos
+años. Las incidencias de adenomas y carcinomas hepatocelulares, y de adenomas alveo-
+lares o bronquiolares del pulmón aumentaron con respecto a los valores de referencia
+en las hembras. En los ratones macho no se observó ningún aumento de la incidencia
+de tumores con respecto a los valores de referencia. En los estudios en los que las ratas
+recibieron EFV en dosis de 0, 25, 50 o 100 mg/kg al día durante dos años, no se observó
+ningún aumento de la incidencia de tumores con respecto a los valores de referencia. La
+exposición sistémica (según el AUC) en los ratones fue de aproximadamente 1,7 veces
+la de los seres humanos que recibieron la dosis de 600 mg/día. La exposición en las
+ratas fue inferior a la de los seres humanos. Se desconoce el mecanismo del potencial
+carcinógeno. Sin embargo, en análisis de toxicología genética, el EFV no mostró indicios
+de actividad mutágena ni clastogénica en un grupo de estudios in vitro e in vivo. Estos
+consistieron en análisis de mutación bacteriana en  S. typhimurium y E. coli, análisis de
+mutación en mamíferos en las células de ovario de hámster chino, análisis de aberración
+cromosómica en los linfocitos humanos de sangre periférica o en células de ovario de
+hámster chino, y análisis de micronúcleos en la médula ósea de ratón  in vivo. Dada la
+ausencia de actividad genotóxica del EFV, se desconoce la pertinencia para los seres
+humanos de las neoplasias en los ratones tratados con EFV.
+El efavirenz no alteró el apareamiento ni la fertilidad de ratas macho o hembra, y no
+afectó los espermatozoides de ratas macho tratadas. El rendimiento reproductivo de
+las crías nacidas de ratas hembra que recibieron EFV no se vio afectado. Debido a la
+rápida depuración del EFV en las ratas, las exposiciones sistémicas al fármaco alcan-
+zadas en estos estudios fueron equivalentes o inferiores a las alcanzadas en los seres
+humanos que recibieron dosis terapéuticas de EFV.
+Emtricitabina:  En  estudios  de  carcinogénesis  a  largo  plazo  con  FTC,  no  se  observó
+ningún aumento de la incidencia tumoral relacionado con el fármaco en ratones que
+recibieron dosis de hasta 750 mg/kg al día (26 veces la exposición sistémica en los seres
+humanos con la dosis terapéutica de 200 mg/día) ni en ratas, con dosis de hasta 600
+mg/día (31 veces la exposición sistémica en los seres humanos con la dosis terapéutica).
+La  emtricitabina  no  fue  genotóxica  en  la  prueba  bacteriana  de  mutación  inversa
+(prueba de Ames), o la prueba de linfoma en ratones ni en los análisis de micronú-
+cleos en ratones.
+
+La emtricitabina no afectó a la fertilidad en ratas macho, con exposiciones (AUC) aproxi-
+madamente 140 veces superiores, ni en ratones macho y hembra, con exposiciones (AUC)
+aproximadamente 60 veces superiores a las exposiciones en los seres humanos, con la
+dosis recomendada de 200 mg diarios. La fertilidad fue normal en las crías de los ratones
+expuestos diariamente desde antes del nacimiento (exposición intrauterina) hasta la ma-
+duración sexual, con exposiciones diarias (AUC) aproximadamente 60 veces superiores a
+las exposiciones en los seres humanos, con la dosis diaria recomendada de 200 mg.
+Tenofovir DF: Los estudios a largo plazo de la carcinogénesis oral del TDF en ratas y rato-
+nes se llevaron a cabo con exposiciones de hasta aproximadamente 16 veces (ratones)
+y 5 veces (ratas) superiores a las observadas en los seres humanos con la dosis terapéu-
+tica para la infección por el VIH-1. Con las dosis altas en ratones hembra, aumentaron
+los adenomas hepáticos con exposiciones de hasta 16 veces las de los seres humanos.
+En las ratas, el estudio arrojó resultados carcinogénicos negativos con exposiciones de
+hasta 5 veces las observadas en los seres humanos con la dosis terapéutica.
+El TDF fue mutagénico en la prueba de linfoma en ratones in vitro y dio un resultado
+negativo en la prueba de mutagénesis bacteriana in vitro (prueba de Ames). En un
+estudio de micronúcleos en ratones in vivo, el TDF resultó negativo cuando se admi-
+nistró a ratones macho.
+No hubo efectos en la fertilidad, la capacidad de apareamiento ni el desarrollo em-
+brionario temprano cuando se administró TDF a ratas macho, con una dosis equiva-
+lente a 10 veces la dosis en los seres humanos, de acuerdo con las comparaciones de
+la superficie corporal en los 28 días previos al apareamiento, y a ratas hembra desde
+los 15 días previos al apareamiento hasta el día 7 de gestación. Sin embargo, hubo
+una alteración del ciclo estral en las ratas hembra.
+
+7.3.2 Toxicología o farmacología en animales
+Efavirenz: Se observaron convulsiones no sostenidas en seis de los veinte monos que
+recibieron EFV en dosis que produjeron valores plasmáticos del AUC de 4 a 13 veces
+superiores a las de los seres humanos que recibieron la dosis recomendada.
+Tenofovir DF: El tenofovir y el TDF administrados a ratas, perros y monos en estudios
+toxicológicos con exposiciones (según el AUC) superiores o iguales a seis veces las ob-
+servadas en los seres humanos ocasionaron toxicidad ósea. En los monos, la toxicidad
+ósea se diagnosticó como osteomalacia. La osteomalacia observada en los monos pa-
+recía ser reversible al reducir la dosis o suspender el uso de tenofovir. En las ratas y los
+perros, la toxicidad ósea se manifestó en forma de reducción de la densidad mineral
+ósea. Se desconocen los mecanismos subyacentes de la toxicidad ósea.
+Se  observaron  indicios  de  toxicidad  renal  en  cuatro  especies  animales  que  recibieron
+tenofovir y TDF. En estos animales se observaron aumentos en la creatinina sérica, BUN
+(nitrógeno ureico en sangre), glucosuria, proteinuria, fosfaturia y/o calciuria y disminución
+del fosfato sérico en diferentes grados. Estas toxicidades se observaron en exposiciones
+(según el AUC) de 2 a 20 veces superiores a las observadas en los seres humanos. Se desco-
+noce la relación de las anomalías renales, en especial de la fosfaturia, con la toxicidad ósea.
+
+7.4 USO EN POBLACIONES ESPECÍFICAS
+7.4.1 Embarazo
+Registro de embarazos con antirretrovirales
+Existe un registro de exposiciones durante el embarazo para seguir de cerca los desen-
+laces de los embarazos en las pacientes adultas y adolescentes expuestas a ATRIPLA®
+durante el embarazo. Se recomienda a los médicos que registren a las pacientes en el
+sitio web: www.apregistry.com, o que lo comuniquen llamando al +54 11 4858 9000
+(extensión 229) o enviando un correo electrónico a farmacovigilancia@gador.com.
+
+Resumen de los riesgos
+Hay informes de casos retrospectivos sobre defectos del tubo neural en bebés cuyas
+madres estuvieron expuestas a regímenes que contienen EFV durante el primer tri-
+mestre del embarazo. Los datos prospectivos de los embarazos incluidos en el registro
+de embarazos expuestos a antirretrovirales (Antiretroviral Pregnancy Registry, APR)
+no son suficientes para evaluar de manera adecuada este riesgo. Si bien no se ha es-
+tablecido una relación causal entre la exposición al EFV durante el primer trimestre y
+los defectos del tubo neural, se han observado malformaciones similares en estudios
+realizados en monos tratados con dosis similares a la dosis para seres humanos (véase
+Datos). Asimismo, se produjeron toxicidades fetales y embrionarias en las ratas tra-
+tadas con una dosis 10 veces inferior a la exposición humana generada con la dosis
+clínica recomendada para seres humanos (DRH) de EFV. Debido al posible riesgo de
+defectos del tubo neural, no se recomienda el uso de EFV durante el primer trimestre
+del embarazo. Debe evitarse el embarazo mientras se utiliza ATRIPLA® y durante 12
+semanas después de suspender el tratamiento. Se debe informar a las pacientes em-
+barazadas acerca del posible riesgo para un feto.
+Los datos disponibles en el APR no muestran un incremento en el riesgo general de
+defectos congénitos importantes para el EFV, la FTC o el TDF, en comparación con la
+tasa prevalente para los defectos congénitos importantes del 2,7% en una población
+estadounidense de referencia estudiada en el Programa de Defectos Congénitos del
+Área  Metropolitana  de  Atlanta  (Metropolitan  Atlanta  Congenital  Defects  Program,
+MACDP) (véase Datos).
+La tasa de abortos espontáneos no se notifica en el APR. La tasa prevalente estimada
+de abortos espontáneos en los embarazos clínicamente confirmados en la población
+general estadounidense es del 15-20%. Se desconoce el riesgo prevalente de defectos
+congénitos  importantes  y  abortos  espontáneos  para  la  población  destinataria  de  la
+indicación. El APR emplea el MACDP como la población estadounidense de referencia
+para los defectos congénitos en la población general. El MACDP evalúa a las madres y a
+los bebés pertenecientes a una región geográfica limitada, y no incluye los desenlaces
+de los nacimientos que se producen con menos de 20 semanas de gestación.
+En los estudios de reproducción en animales, no se observaron efectos adversos en el de-
+sarrollo al administrar FTC y TDF por separado en dosis/exposiciones ≥60 (FTC), ≥14 (TDF)
+y 2,7 (tenofovir) veces mayores que las observadas con la DRH de ATRIPLA® (véase Datos).
+
+Datos
+Datos en seres humanos
+Efavirenz:  Hay  informes  retrospectivos  posteriores  a  la  comercialización  acerca  de
+hallazgos que concuerdan con defectos del tubo neural, entre los que se incluyen me-
+ningomielocele; todos los casos se produjeron en bebés cuyas madres habían estado
+expuestas a regímenes que contienen EFV durante el primer trimestre.
+De acuerdo con los informes prospectivos procedentes del APR acerca de 1217 ex-
+posiciones a regímenes que contienen EFV durante el embarazo que resultaron en
+nacimientos  con  vida  (que  abarcan  más  de  1023  nacimientos  con  vida  expuestos
+en  el  primer  trimestre  y  194  casos  expuestos  en  el  segundo/tercer  trimestre),  no
+se  incrementó  la  incidencia  general  de  defectos  congénitos  al  administrar  EFV,  en
+comparación con la tasa prevalente de defectos congénitos del 2,7% en la población
+estadounidense de referencia correspondiente al MACDP. La prevalencia de defectos
+congénitos en los nacimientos con vida fue del 2,3% (IC del 95%: 1,5% al 3,5%) tras la
+exposición a regímenes que contienen EFV durante el primer trimestre, y del 1,5% (IC
+del 95%: 0,3% al 4,5%) tras la exposición a dichos regímenes terapéuticos durante el
+segundo/tercer trimestre. Una de estas anomalías notificadas prospectivamente con
+la exposición en el primer trimestre fue una anomalía congénita del tubo neural. Tam-
+bién se notificó prospectivamente un solo caso de anoftalmia con la exposición en el
+primer trimestre a EFV. Este caso incluyó también hendiduras faciales oblicuas graves
+y banda amniótica, que tienen una asociación conocida con la anoftalmia.
+Emtricitabina: De acuerdo con los informes prospectivos procedentes del APR acerca de
+4005 exposiciones a regímenes que contienen FTC durante el embarazo que resultaron
+en nacimientos con vida (que abarcan 2785 casos expuestos en el primer trimestre y
+1220 casos expuestos en el segundo/tercer trimestre), no se incrementó la incidencia
+general de defectos congénitos importantes al administrar FTC, en comparación con
+la tasa prevalente de defectos congénitos del 2,7% en la población estadounidense de
+referencia correspondiente al MACDP. La prevalencia de defectos congénitos en los naci -
+mientos con vida fue del 2,4% (IC del 95%: 1,9% al 3,1%) tras la exposición a regímenes
+que contienen FTC durante el primer trimestre, y del 2,3% (IC del 95%: 1,5% al 3,3%)
+tras la exposición a dichos regímenes terapéuticos durante el segundo/tercer trimestre.
+Tenofovir DF: De acuerdo con los informes prospectivos procedentes del APR acerca de
+5105 exposiciones a regímenes que contienen TDF durante el embarazo que resultaron
+en nacimientos con vida (que abarcan 3535 casos expuestos en el primer trimestre y
+1570 casos expuestos en el segundo/tercer trimestre), no se incrementó la incidencia
+general de defectos congénitos importantes al administrar TDF, en comparación con
+la tasa prevalente de defectos congénitos del 2,7% en la población estadounidense de
+referencia correspondiente al MACDP. La prevalencia de defectos congénitos en los naci -
+mientos con vida fue del 2,3% (IC del 95%: 1,8% al 2,9%) tras la exposición a regímenes
+que contienen TDF durante el primer trimestre, y del 2,2% (IC del 95%: 1,6% al 3,1%)
+tras la exposición a dichos regímenes terapéuticos durante el segundo/tercer trimestre.
+
+Datos en animales
+Efavirenz: Los efectos del EFV en el desarrollo embriofetal se han analizado en tres es-
+pecies no clínicas (macacos de Java, ratas y conejos). En los monos, se administraron
+60 mg/kg/día de EFV a las hembras preñadas durante la gestación (días 20 a 150 de
+gestación). Las exposiciones farmacológicas sistémicas maternas (AUC) fueron 1,3 veces
+la exposición generada con la DRH, con concentraciones farmacológicas venosas umbi -
+licales fetales de aproximadamente 0,7 veces los valores maternos. Tres de los 20 fetos/
+crías presentaron una o más malformaciones; no hubo ningún feto o cría con malforma -
+ciones nacido de madres procedentes del grupo de placebo. Las malformaciones que se
+produjeron en estos tres fetos de mono incluyeron anencefalia y anoftalmia unilateral
+
+en un feto, microftalmia en el segundo feto y hendidura del paladar en el tercer feto. No
+se estableció ninguna NOAEL (dosis máxima sin efecto adverso observado) para este
+estudio porque únicamente se evaluó una dosis. En las ratas, se administró EFV durante
+la organogénesis (días 7 a 18 de la gestación) o desde el día 7 de la gestación hasta el
+día 21 de lactación con dosis de 50, 100 o 200 mg/kg/día. La administración de 200
+mg/kg/día en ratas se asoció a un aumento en la incidencia de reabsorciones precoces,
+y las dosis de 100 mg/kg/día o superiores se asociaron a mortalidad neonatal precoz. El
+AUC en la NOAEL (50 mg/kg/día) en este estudio de ratas fue 0,1 veces la de los seres
+humanos con la DRH. La concentración farmacológica en la leche el día 10 de la lactación
+fue aproximadamente 8 veces superior a la del plasma materno. En conejas preñadas, el
+EFV no fue ni embrioletal ni teratogénico cuando se administró en dosis de 25, 50 y 75
+mg/kg/día durante el periodo de la organogénesis (días 6 a 18 de la gestación). El AUC
+en la NOAEL (75 mg/kg/día) en los conejos fue 0,4 veces la de los humanos con la DRH.
+Emtricitabina: Se administró FTC por vía oral a ratonas preñadas (en dosis de 0, 250,
+500 o 1000 mg/kg/día) y a conejas preñadas (en dosis de 0, 100, 300 o 1000 mg/kg/
+día) durante la organogénesis (los días 6 a 15 y los días 7 a 19 de gestación, respec-
+tivamente). No se observaron efectos toxicológicos significativos en los estudios de
+toxicidad embriofetal realizados con la FTC en ratones con exposiciones (AUC) apro-
+ximadamente 60 veces más altas ni en conejos con exposiciones aproximadamente
+120 veces más altas que las exposiciones humanas a la DRH. En un estudio sobre el
+desarrollo prenatal/posnatal en ratones, se administró FTC por vía oral en dosis de
+hasta 1000 mg/kg/día; no se observaron efectos adversos significativos directamente
+relacionados con el fármaco en las crías expuestas a diario desde antes del nacimiento
+(exposición  intrauterina)  hasta  la  madurez  sexual,  con  exposiciones  diarias  (AUC)
+aproximadamente 60 veces más altas que las exposiciones humanas a la DRH.
+Tenofovir DF: Se administró TDF por vía oral a ratas preñadas (en dosis de 0, 50, 150 o
+450 mg/kg/día) y a conejas preñadas (en dosis de 0, 30, 100 o 300 mg/kg/día) durante
+la organogénesis (los días 7 a 17 y los días 6 a 18 de gestación, respectivamente). No
+se observaron efectos toxicológicos significativos en los estudios de toxicidad embrio-
+fetal realizados con el TDF en ratas tratadas con dosis hasta 14 veces superiores a la
+DRH sobre la base de comparaciones de la superficie corporal, ni en conejos tratados
+con dosis hasta 19 veces superiores a la DRH sobre la base de comparaciones de la
+superficie corporal. En un estudio sobre el desarrollo prenatal/posnatal en ratas, se
+administró TDF por vía oral hasta finalizar la lactancia en dosis de hasta 600 mg/kg/
+día; no se observaron efectos adversos en las crías tras exposiciones al tenofovir apro -
+ximadamente 2,7 veces más altas que las exposiciones humanas a la DRH.
+
+7.4.2 Lactancia
+Resumen de los riesgos
+Se recomienda que las madres infectadas por el VIH-1 no amamanten a sus
+hijos a fin de evitar el riesgo de transmisión posnatal del VIH-1.
+De acuerdo con una cantidad limitada de datos publicados, se ha demostrado que el
+EFV, la FTC y el tenofovir están presentes en la leche materna humana.
+No se sabe si los componentes de ATRIPLA® afectan la producción de leche o si provocan
+efectos en el bebé amamantado. Se debe indicar a las madres que no amamanten si
+están recibiendo ATRIPLA®, debido a la posibilidad de: (1) transmisión del VIH (en lac-
+tantes VIH-negativos); (2) desarrollo de resistencia viral (en lactantes VIH-positivos); y (3)
+reacciones adversas en el bebé amamantado, similares a las observadas en los adultos.
+
+7.4.3 Mujeres y hombres con capacidad reproductiva
+Prueba de embarazo
+Antes de iniciar el tratamiento con ATRIPLA®, las pacientes adultas y adolescentes con
+capacidad de concebir deben realizarse una prueba de embarazo debido al posible
+riesgo de defectos del tubo neural [véase Uso en poblaciones específicas (7.4.1)].
+
+Métodos anticonceptivos
+Se debe indicar a las pacientes adultas y adolescentes con capacidad de concebir que
+usen métodos anticonceptivos eficaces durante el tratamiento con ATRIPLA® y duran-
+te 12 semanas después de suspender el uso de ATRIPLA® debido a la prolongada vida
+media del EFV, un componente de ATRIPLA®. Es posible que la eficacia de los métodos
+anticonceptivos hormonales que contienen progesterona se vea reducida. Siempre
+debe emplearse un método anticonceptivo de barrera en combinación con otros mé-
+todos anticonceptivos [véase Interacciones farmacológicas (7.2.1, 7.2.3)].
+
+7.4.4 Uso pediátrico
+Se establecieron la eficacia y la seguridad de ATRIPLA® como régimen completo para el
+tratamiento de la infección por el VIH-1 en pacientes pediátricos con un peso corporal
+superior o igual a 40 kg [véase Posología y administración (4.2)]. El uso de ATRIPLA®
+en  este  grupo  etario  está  respaldado  por  estudios  adecuados  y  bien  controlados  de
+ATRIPLA® en adultos infectados por el VIH-1, además de los datos obtenidos en estudios
+pediátricos efectuados con los componentes individuales de ATRIPLA® (EFV, FTC y TDF).
+ATRIPLA® debe administrarse solamente a pacientes pediátricos con un peso corporal
+superior o igual a 40 kg. Debido a que ATRIPLA® es un comprimido de asociación en
+dosis fijas, la dosis de ATRIPLA® no puede ajustarse para pacientes de menor peso
+[véanse Advertencias y precauciones (7.1.2, 7.1.9), Reacciones adversas (9.1), y Farma-
+cología clínica (3.2.3)].
+
+7.4.5 Uso geriátrico
+En los estudios clínicos de EFV, FTC o TDF no se incluyó un número suficiente de pa-
+cientes de 65 años de edad o mayores como para determinar si responden de manera
+diferente a los pacientes más jóvenes. En general, la selección de la dosis para los
+pacientes ancianos debe ser cautelosa y se debe tener en cuenta la mayor frecuencia
+de disminución de las funciones cardíaca, renal o hepática, y las enfermedades conco-
+mitantes u otros tratamientos con fármacos.
+
+7.4.6 Disfunción renal
+Dado que ATRIPLA® es una asociación en dosis fijas que no pueden ajustarse, no se re-
+comienda su uso de en pacientes con disfunción renal moderada o grave (depuración
+de creatinina estimada inferior a 50 ml/min) [véanse Posología y administración (4.3),
+y Advertencias y precauciones (7.1.7)].
+
+7.4.7 Disfunción hepática
+ATRIPLA® no está recomendado para pacientes con disfunción hepática moderada o
+grave porque no hay datos suficientes para determinar una dosis adecuada. Los pa-
+cientes con disfunción hepática leve pueden recibir tratamiento con ATRIPLA® a la do-
+
+sis aprobada. Debido al extenso metabolismo del EFV mediado por el citocromo P450
+y a la limitada experiencia clínica en los pacientes con disfunción hepática, debe te-
+nerse precaución al administrar ATRIPLA® a estos pacientes [véanse Posología y admi-
+nistración (4.4), Advertencias y precauciones (7.1.3), y Farmacología clínica (3.2.3)].
+
+8. ESTUDIOS CLÍNICOS
+El estudio clínico 934 (NCT00112047) respalda el uso de los comprimidos de ATRIPLA®
+en los pacientes infectados por el VIH-1 sin tratamiento previo con antirretrovirales.
+En el estudio clínico 073 (NCT00365612) se presenta la experiencia clínica en pacien-
+tes con supresión virológica estable y sin antecedentes de fracaso virológico que cam-
+biaron su tratamiento vigente en ese entonces por ATRIPLA®. En los pacientes con tra-
+tamiento previo con antirretrovirales, el uso de los comprimidos de ATRIPLA® también
+puede plantearse en aquellos con cepas del VIH-1 que se espera que sean sensibles
+a los componentes de ATRIPLA®, según la evaluación de la historia de tratamientos
+recibidos o mediante pruebas genotípicas o fenotípicas [véase Microbiología (3.2.4)].
+
+Estudio 934: Se notifican los datos obtenidos hasta la semana 144 en el estudio 934, un
+estudio multicéntrico, aleatorizado, abierto y con control activo, en el que se comparó
+FTC + TDF en asociación con EFV, frente a la asociación en dosis fijas de zidovudina y
+lamivudina en asociación con EFV, en 511 pacientes sin tratamiento previo con antirre -
+trovirales. Desde la semana 96 hasta la semana 144 del estudio, los pacientes recibieron
+una asociación en dosis fijas de FTC y TDF con EFV, en lugar de EFV + TDF con EFV. Los
+pacientes tenían una media de edad de 38 años (intervalo de 18 a 80 años), el 86% era
+varón; el 59%, era de raza blanca, y el 23% era de raza negra. El recuento medio inicial
+de linfocitos CD4+ fue de 245 linfocitos/mm3 (intervalo de 2 a 1191), y la mediana del
+ARN del VIH-1 inicial en el plasma fue de 5,01 log10 copias/ml (intervalo de 3,56 a 6,54).
+Los pacientes se estratificaron según el recuento inicial de linfocitos CD4+ (< o ≥200
+linfocitos/mm3); el 41% tenía recuentos de linfocitos CD4+ <200 linfocitos/mm3. El
+51% de los pacientes tenía cargas virales iniciales >100 000 copias/ml. En la tabla 6
+se presentan los resultados del tratamiento después de 48 y de 144 semanas en los
+pacientes que no presentaban resistencia al EFV al inicio (N = 487).
+
+Tabla 6. Resultados virológicos del tratamiento asignado aleatoriamente en las semanas 48 y 144 (estudio 934)
+
+Resultados
+
+En la semana 48
+
+En la semana 144
+
+Sensibles al tratamientob
+Fracaso virológicoc
+Rebote
+Nunca se suprimió
+
+Cambio en la pauta antirretroviral
+Fallecidos
+Se suspendió debido a una reacción adversa
+Se suspendió por otros motivosd
+
+FTC + TDF +EFV
+(N = 244)
+84%
+2%
+1%
+0%
+1%
+<1%
+4%
+10%
+
+AZT/3TC +EFV
+(N = 243)
+73%
+4%
+3%
+0%
+1%
+1%
+9%
+14%
+
+FTC + TDF +EFV
+(N = 227)a
+71%
+3%
+2%
+0%
+1%
+1%
+5%
+20%
+
+AZT/3TC +EFV
+(N = 229)a
+58%
+6%
+5%
+0%
+1%
+1%
+12%
+22%
+
+a. Se excluyó del análisis a los pacientes que respondieron al tratamiento en la semana 48 o
+en la semana 96 (ARN del VIH-1 <400 copias/ml), pero que no dieron su consentimiento para
+continuar el estudio después de la semana 48 o de la semana 96.  b. Los pacientes lograron y
+mantuvieron el ARN del VIH-1 confirmado <400 copias/ml hasta las semanas 48 y 144. c. Incluye:
+
+rebrote vírico confirmado y fracaso en lograr <400 copias/ml confirmadas del ARN del VIH-1
+hasta las semanas 48 y 144. d. Incluye los pacientes perdidos en el seguimiento, la retirada o
+el abandono del paciente, el incumplimiento del protocolo y otros motivos.
+
+Hasta la semana 48, el 84% de los pacientes del grupo tratado con FTC + TDF y el 73%
+de los pacientes tratados con la asociación de zidovudina y lamivudina lograron y mantu-
+vieron el ARN del VIH-1 <400 copias/ml (71% y 58%, respectivamente, hasta la semana
+144). En este estudio abierto, la diferencia en la proporción de pacientes que lograron y
+mantuvieron el ARN del VIH-1 <400 copias/ml después de 48 semanas de tratamiento
+se debe principalmente a un mayor número de suspensiones del tratamiento por even -
+tos adversos y otros motivos en el grupo tratado con zidovudina y lamivudina. Además,
+el 80% de los pacientes del grupo tratado con FTC + TDF y el 70% de los pacientes del
+grupo tratado con la asociación de zidovudina y lamivudina lograron y mantuvieron el
+ARN del VIH-1 <50 copias/ml hasta la semana 48 (64% y 56%, respectivamente, hasta
+la semana 144). En la semana 48, el aumento medio con respecto a los valores iniciales
+del recuento de linfocitos CD4+ fue de 190 linfocitos/mm3 en el grupo tratado con FTC
++ TDF, y de 158 linfocitos/mm3 en el grupo que recibió la asociación de zidovudina y
+lamivudina (312 y 271 linfocitos/mm3, respectivamente, en la semana 144).
+A las 48 semanas, 7 pacientes del grupo tratado con FTC + TDF y 5 pacientes del grupo tra-
+tado con la asociación de zidovudina y lamivudina presentaron una nueva reacción de cla-
+se C, según el código de los CDC (10 y 6 pacientes, respectivamente, hasta la semana 144).
+Estudio 073: El estudio 073 fue un estudio clínico abierto y con asignación aleatoria,
+de 48 semanas de duración, en pacientes con supresión virológica estable que reci-
+bían tratamiento antirretroviral asociado, que incluía al menos dos INRT administra-
+dos en asociación con un inhibidor de la proteasa (con o sin ritonavir) o un INNRT. Para
+poder inscribirse en dicho estudio, los pacientes debían haber presentado un ARN
+del VIH <200 copias/ml con su tratamiento antirretroviral vigente en ese momento
+durante por lo menos 12 semanas antes de la entrada en el estudio, sin sustituciones
+conocidas del VIH-1 que confiriesen resistencia a los componentes de  ATRIPLA® ni
+antecedentes de fracaso virológico.
+El estudio comparó la eficacia de cambiar a un tratamiento con ATRIPLA® o de continuar
+con la pauta antirretroviral original. Se asignó aleatoriamente a los pacientes, en una
+proporción de 2:1, para cambiar a ATRIPLA® (N = 203) o continuar en su pauta original
+(N = 97). Los pacientes tenían una media de edad de 43 años (intervalo de 22 a 73 años);
+el 88% era varón, el 68% era de raza blanca, el 29% era de raza negra o afroamericana,
+y el 3% de otras razas. Al inicio, la mediana del recuento de linfocitos CD4+ fue de 516
+linfocitos/mm3 y el 96% tenía ARN del VIH-1 <50 copias/ml. La mediana del tiempo
+desde el inicio del tratamiento antirretroviral fue de tres años, y el 88% de los pacientes
+estaba recibiendo su primera pauta antirretroviral al momento de su entrada al estudio.
+En la semana 48, el 89% de los pacientes que cambiaron a ATRIPLA® mantuvieron
+<200 copias de ARN del VIH/ml, y el 87% de los pacientes, <50 copias de ARN del
+VIH/ml, en comparación con el 88% y el 85%, respectivamente, que continuaron en
+su pauta original; esta diferencia no fue estadísticamente significativa. En ninguno
+de los grupos de tratamiento se observó ningún cambio en los recuentos de linfocitos
+CD4+ entre el inicio y la semana 48.
+
+9. REACCIONES ADVERSAS
+En otras secciones de la ficha técnica se tratan las siguientes reacciones adversas:
+•  Exacerbaciones agudas y graves de la hepatitis B en pacientes coinfectados por el
+
+VIH-1 y el VHB [véase Advertencias y precauciones (7.1.1)].
+•  Erupción cutánea [véase Advertencias y precauciones (7.1.2)].
+•  Hepatotoxicidad [véase Advertencias y precauciones (7.1.3)].
+•  Síntomas psiquiátricos [véase Advertencias y precauciones (7.1.5)].
+•  Síntomas del sistema nervioso [véase Advertencias y precauciones (7.1.6)].
+•  Nueva aparición o empeoramiento de la disfunción renal [véase Advertencias y
+
+precauciones (7.1.7)].
+
+•  Toxicidad embriofetal [véase Advertencias y precauciones (7.1.8)].
+•  Pérdida de masa ósea y defectos de mineralización [véase Advertencias y precau-
+
+ciones (7.1.9)].
+
+•  Convulsiones [véase Advertencias y precauciones (7.1.10)].
+•  Acidosis  láctica/hepatomegalia  grave  con  esteatosis  [véase  Advertencias  y  pre-
+
+cauciones (7.1.11)].
+
+•  Síndrome de reconstitución inmunitaria [véase Advertencias y precauciones (7.1.12)].
+•  Redistribución de Grasa [véase Advertencias y precauciones (7.1.13)].
+
+9.1 EXPERIENCIA DE LOS ESTUDIOS CLÍNICOS
+Debido a que los estudios clínicos se realizan en condiciones muy variadas, las tasas
+de reacciones adversas observadas en los estudios clínicos de un fármaco no pueden
+compararse directamente con las tasas de los estudios clínicos de otro fármaco y pue-
+de que no reflejen las tasas observadas en la práctica.
+
+Estudios clínicos en pacientes adultos
+El estudio 934 fue un estudio de diseño abierto y controlado con fármaco activo, en
+el que 511 pacientes sin tratamiento antirretroviral previo recibieron FTC + TDF ad-
+ministrados en asociación con EFV (N = 257), o la asociación de zidovudina (AZT) y
+lamivudina (3TC), en asociación con EFV (N = 254).
+Las reacciones adversas más frecuentes (incidencia superior o igual al 10%, cual-
+quier  intensidad)  que  se  produjeron  en  el  estudio  934  fueron  diarrea,  náuseas,
+fatiga, cefalea, mareos, depresión, insomnio, sueños anormales y erupción  cutá-
+nea. Por lo general, las reacciones adversas observadas en el estudio 934 fueron
+coherentes  con  las  observadas  en  estudios  anteriores  de  los  componentes  por
+separado (tabla 7).
+
+Tabla 7. Reacciones adversas seleccionadas que aparecen con el tratamientoa
+(grados 2-4), notificadas en ≥5% de cualquier grupo de tratamiento del estu-
+dio 934 (0 a 144 semanas)
+
+AZT/3TC + EFV
+N = 254
+8%
+7%
+7%
+5%
+7%
+5%
+
+FTC + TDF + EFVb
+N = 257
+9%
+9%
+9%
+9%
+8%
+8%
+
+Fatiga
+Depresión
+Náuseas
+Diarrea
+Mareos
+Infecciones de las vías respiratorias
+superiores
+Sinusitis
+Erupcionesc
+Cefalea
+Insomnio
+Ansiedad
+Nasofaringitis
+Vómitos
+a. Las frecuencias de las reacciones adversas se basan en todos los acontecimientos adver-
+sos que aparecen con el tratamiento, con independencia de la relación con el fármaco del
+estudio. b. Desde la semana 96 hasta la semana 144 del estudio, los pacientes recibieron
+FTC/TDF administrado en asociación con EFV, en lugar de FTC + TDF con EFV. c. Las erup-
+ciones consisten en erupciones cutáneas, erupciones exfoliativas, erupción generalizada,
+erupción macular, erupción maculopapulosa, erupción prurítica y erupción vesicular.
+
+4%
+9%
+5%
+7%
+4%
+3%
+5%
+
+8%
+7%
+6%
+5%
+5%
+5%
+2%
+
+En el estudio 073, se asignó aleatoriamente a los pacientes con supresión virológica es -
+table, en tratamiento antirretroviral y sin antecedentes de fracaso virológico, para que re -
+cibieran ATRIPLA® o permanecieran en su pauta de tratamiento inicial. Por lo general, las
+reacciones adversas observadas en el estudio 073 fueron coherentes con las observadas
+en el estudio 934 y con las observadas con los componentes individuales de  ATRIPLA®
+cuando cada uno de ellos se administró en asociación con otros antirretrovirales.
+
+Efavirenz, emtricitabina o TDF
+Además de las reacciones adversas observadas en los estudios 934 y 073, se obser-
+varon las siguientes reacciones adversas en los estudios clínicos de EFV, FTC o TDF en
+asociación con otros antirretrovirales.
+Efavirenz:  Las  reacciones  adversas  más  significativas  observadas  en  los  pacientes
+tratados con EFV son los síntomas del sistema nervioso [véase Advertencias y precau-
+ciones (7.1.6)], los síntomas psiquiátricos [véase Advertencias y precauciones (7.1.5)] y
+las erupciones cutáneas [véase Advertencias y precauciones (7.1.2)].
+Las reacciones adversas seleccionadas de intensidad moderada a grave observadas
+en un 2% o más de los pacientes tratados con EFV en dos estudios clínicos controlados
+fueron dolor, alteración de la concentración, sueños anormales, somnolencia, anore-
+xia, dispepsia, dolor abdominal, nerviosismo y prurito.
+Se ha descrito también pancreatitis, aunque no se ha establecido una relación de cau-
+salidad con el EFV. En un número significativamente más alto de pacientes tratados
+con 600 mg de EFV se observaron aumentos asintomáticos de las concentraciones de
+amilasa sérica, en comparación con los grupos de control.
+En los pacientes tratados con FTC se ha descrito el cambio en la coloración de la piel
+con una frecuencia más alta; se manifestó por hiperpigmentación de las palmas de las
+manos o las plantas de los pies, y generalmente fue leve y asintomática. Se descono-
+cen su mecanismo y su importancia clínica.
+
+Estudios clínicos en pacientes pediátricos
+Efavirenz: La evaluación de las reacciones adversas se basa en tres estudios clínicos
+pediátricos en 182 pacientes pediátricos infectados por el VIH-1 que recibieron EFV
+en asociación con otros antirretrovirales durante una mediana de 123 semanas. Por lo
+general, el tipo y la frecuencia de las reacciones adversas en estos tres estudios fueron
+parecidos a los observados en los pacientes adultos, salvo por una mayor incidencia
+de las erupciones, que se notificaron en el 32% (59/182) de los pacientes pediátricos,
+en comparación con el 26% en los adultos; así como una mayor frecuencia de erupcio-
+nes de grado 3 o 4, que se notificaron en el 3% (6/182) de los pacientes pediátricos, en
+comparación con el 0,9% en los adultos [véase Advertencias y precauciones (7.1.2)].
+Emtricitabina: Además de las reacciones adversas notificadas en los adultos, se observa-
+ron anemia e hiperpigmentación en el 7% y el 32%, respectivamente, de los pacientes
+pediátricos (edades de entre 3 meses y menos de 18 años) que recibieron tratamiento con
+FTC en el más grande de los dos estudios pediátricos abiertos no controlados (N = 116).
+Tenofovir DF: En un estudio clínico pediátrico realizado en pacientes de 12 a menos
+de 18 años de edad, las reacciones adversas observadas en los pacientes pediátricos
+que recibieron tratamiento con TDF (N = 81) fueron coherentes con las reacciones
+observadas en los estudios clínicos realizados con TDF en adultos [véase Advertencias
+y precauciones (7.1.9)].
+
+Anomalías de laboratorio
+Efavirenz,  emtricitabina  y  tenofovir  DF:  Las  anomalías  de  laboratorio  observadas
+en el estudio 934 (tabla 8) fueron generalmente coherentes con las observadas en
+estudios anteriores.
+
+Tabla 8. Anomalías de laboratorio significativas notificadas en ≥1% de los pacien-
+tes de cualquiera de los grupos de tratamiento del estudio 934 (0 a 144 semanas)
+
+FTC + TDF + EFVa
+N = 257
+30%
+
+AZT/3TC + EFV
+N = 254
+26%
+
+24%
+7%
+
+22%
+9%
+
+8%
+1%
+3%
+
+4%
+0%
+3%
+
+Cualquier anomalía de laboratorio
+≥3er grado
+Colesterol en ayunas (>240 mg/dl)
+Creatina cinasa
+(V: >990 U/l)
+(M: >845 U/l)
+Amilasa sérica (>175 U/l)
+Fosfatasa alcalina (>550 U/l)
+AST
+(V: >180 U/l)
+(M: >170 U/l)
+ALT
+(V: >215 U/l)
+(M: >170 U/l)
+Hemoglobina (<8,0 mg/dl)
+Hiperglucemia (>250 mg/dl)
+Hematuria (>75 hematíes/CAR)
+Glucosuria (≥3+)
+Neutrófilos (<750/mm3)
+Triglicéridos en ayunas (>750 mg/dl)
+a. Desde la semana 96 hasta la semana 144 del estudio, los pacientes recibieron FTC/TDF en
+asociación con EFV, en lugar de FTC + TDF con EFV.
+
+0%
+2%
+3%
+<1%
+3%
+4%
+
+4%
+1%
+2%
+1%
+5%
+2%
+
+2%
+
+3%
+
+Las  anomalías  de  laboratorio  observadas  en  el  estudio  073  fueron  generalmente
+coherentes con las del estudio 934.
+
+Reacciones adversas hepáticas
+En el estudio 934, 19 pacientes tratados con EFV, FTC y TDF, y 20 pacientes tratados
+con EFV y una asociación de dosis fijas de zidovudina y lamivudina fueron positivos
+para el antígeno de superficie de la hepatitis B o para los anticuerpos de la hepatitis C.
+De estos pacientes con infección concomitante, un paciente (1/19) del grupo tratado
+con EFV, FTC y TDF presentó aumentos de las transaminasas de más de cinco veces el
+valor del LSN hasta las 144 semanas. En el grupo que recibió la asociación de dosis
+fijas de zidovudina y lamivudina, dos pacientes (2/20) presentaron aumentos de las
+transaminasas de más de cinco veces el LSN hasta las 144 semanas. Ningún paciente
+con infección concomitante por el VHB, el VHC o por ambos abandonó el estudio debi-
+do a trastornos hepatobiliares [véase Advertencias y precauciones (7.1.3)].
+
+cialización se notifican voluntariamente a partir de una población de tamaño indeter-
+minado, no siempre es posible calcular de manera fiable su frecuencia ni establecer
+una relación causal con la exposición al fármaco.
+Efavirenz:
+Trastornos cardíacos: Palpitaciones.
+Trastornos del oído y del laberinto: Tinnitus, vértigo.
+Trastornos endocrinos: Ginecomastia.
+Trastornos oculares: Anomalías de la visión.
+Trastornos digestivos: Estreñimiento, malabsorción.
+Trastornos generales y anomalías en el lugar de administración: Astenia.
+Trastornos hepatobiliares: Aumento de las enzimas hepáticas, insuficiencia hepática,
+hepatitis.
+Trastornos del sistema inmunitario: Reacciones alérgicas.
+Trastornos  del  metabolismo  y  de  la  nutrición:  Redistribución  o  acumulación  de  la
+grasa  corporal  [véase  Advertencias  y  precauciones  (7.1.13)].  Hipercolesterolemia,
+hipertrigliceridemia.
+Trastornos musculoesqueléticos y del tejido conectivo: Artralgia, mialgia, miopatía.
+Trastornos  del  sistema  nervioso:  Anomalías  de  la  coordinación,  ataxia,  trastornos
+cerebelosos de la coordinación y el equilibrio, convulsiones, hipoestesia, parestesia,
+neuropatía, temblores.
+Trastornos psiquiátricos: Reacciones agresivas, agitación, ideas delirantes, labilidad
+emocional, manía, neurosis, paranoia, psicosis, suicidio, catatonía.
+Trastornos respiratorios, torácicos y mediastínicos: Disnea.
+Trastornos de la piel y del tejido subcutáneo: Rubor, eritema multiforme, dermatitis
+fotoalérgica, síndrome de Stevens-Johnson.
+Emtricitabina: No se han identificado reacciones adversas posteriores a la comerciali-
+zación para su inclusión en este apartado.
+Tenofovir DF:
+Trastornos del sistema inmunitario: Reacción alérgica, incluido el angioedema.
+Trastornos  del  metabolismo  y  de  la  nutrición:  Acidosis  láctica,  hipopotasemia,
+hipofosfatemia.
+Trastornos respiratorios, torácicos y mediastínicos: Disnea.
+Trastornos digestivos: Pancreatitis, aumento de la amilasa, dolor abdominal.
+Trastornos  hepatobiliares:  Esteatosis  hepática,  hepatitis,  aumento  de  las  enzimas
+hepáticas (con mayor frecuencia, aumento de AST, ALT y γ-GT).
+Trastornos de la piel y del tejido subcutáneo: Erupción cutánea.
+Trastornos musculoesqueléticos y del tejido conectivo: Rabdomiólisis, osteomalacia
+(manifestada como dolor óseo y que puede contribuir a fracturas), debilidad muscu-
+lar, miopatía.
+Trastornos renales y urinarios: Insuficiencia renal aguda, insuficiencia renal, necrosis
+tubular aguda, síndrome de Fanconi, tubulopatía renal proximal, nefritis intersticial
+(incluidos casos agudos), diabetes insípida nefrógena, insuficiencia renal, aumento
+de la creatinina, proteinuria, poliuria.
+Trastornos generales y afección en el lugar de la administración: Astenia.
+Las siguientes reacciones adversas, enumeradas bajo los encabezados de sistemas cor-
+porales anteriores, pueden producirse a consecuencia de tubulopatía renal proximal: rab-
+domiólisis, osteomalacia, hipopotasemia, debilidad muscular, miopatía, hipofosfatemia.
+
+Notificación de sospecha de reacciones adversas
+Es  importante  notificar  la  sospecha  de  reacciones  adversas  al  medicamento  tras
+su autorización. Ello permite una supervisión continuada de la relación beneficio/
+riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sos-
+pechas de reacciones adversas a través del Sistema Nacional de Farmacovigilancia
+al siguiente link: https://www.argentina.gob.ar/anmat/farmacovigilancia/notificanos/
+eventosadversos y/o al Departamento de Farmacovigilancia de Gador S.A. vía e-mail a
+farmacovigilancia@gador.com o telefónicamente al 0800-220-2273.
+
+10. SOBREDOSIFICACIÓN
+Si se produce una sobredosis, se debe vigilar la presencia de signos de toxicidad en el
+paciente, y se debe aplicar el tratamiento de apoyo habitual según sea necesario. Pue-
+de administrarse carbón activado para ayudar a la eliminación del EFV no absorbido.
+La hemodiálisis puede eliminar la FTC y el TDF (consúltese la información detallada a
+continuación), pero es improbable que elimine significativamente el EFV de la sangre.
+Efavirenz: Algunos pacientes que han tomado accidentalmente 600 mg dos veces al
+día han manifestado un aumento de los síntomas del sistema nervioso. Un paciente
+sufrió contracciones musculares involuntarias.
+Emtricitabina: El tratamiento de hemodiálisis elimina aproximadamente el 30% de la
+dosis de FTC durante un periodo de diálisis de tres horas, que comienza en un plazo
+de 1,5 horas a partir de la administración de FTC (velocidad de flujo sanguíneo de 400
+ml/min y velocidad de flujo del dializado de 600 ml/min). Se desconoce si la FTC se
+puede eliminar por diálisis peritoneal.
+Tenofovir DF: El tenofovir se elimina de forma eficaz mediante hemodiálisis, con un
+coeficiente de extracción de aproximadamente el 54%. Después de una dosis única
+de 300 mg de TDF, en una sesión de hemodiálisis de cuatro horas se eliminó aproxi-
+madamente el 10% de la dosis de tenofovir administrada.
+"Ante la eventualidad de una sobredosificación, concurrir al hospital más cercano o
+comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones".
+
+CONDICIONES DE CONSERVACIÓN Y ALMACENAMIENTO
+Mantener el envase bien cerrado, en un lugar seco y a una temperatura inferior a 30 oC.
+
+PRESENTACIÓN
+Frascos con 30 comprimidos recubiertos.
+
+“Este medicamento debe ser usado exclusivamente bajo prescripción y vigi-
+lancia médica y no puede repetirse sin una nueva receta médica”.
+
+9.2 EXPERIENCIA POSTERIOR A LA COMERCIALIZACIÓN
+Se han identificado las siguientes reacciones adversas durante el uso posterior a la
+aprobación del EFV, la FTC y el TDF. Debido a que las reacciones posteriores a la comer-
+
+ATRIPLA® es una marca registrada de Gilead Sciences, Inc. o de sus compañías relacio-
+nadas. ©2023 Gilead Sciences, LLC. Todos los derechos reservados.
+AR-JAN23-US-OCT19
+
+Información para el paciente
+
+Composición
+Cada comprimido recubierto de ATRIPLA® contiene:
+Efavirenz ........................................................................................................ 600 mg
+Emtricitabina ................................................................................................. 200 mg
+Tenofovir disoproxil fumarato (equivalente a 245 mg de disoproxilo de tenofovir) 300 mg
+Excipientes:  croscarmelosa  sódica,  hidroxipropilcelulosa,  estearato  de  magnesio,
+celulosa microcristalina, laurilsulfato de sodio, Opadry ll rosa 85F941721 ........... c.s.
+1.  Óxido  de  hierro  negro,  polietilenglicol,  alcohol  polivinílico,  óxido  de  hierro  rojo,  talco  y
+dióxido de titanio.
+
+Lea  atentamente  esta  información  para  el  paciente  antes  de  comenzar  a
+tomar este medicamento y cada vez que se lo vuelvan a recetar, puesto que
+puede haber información nueva. Esta información no reemplaza el diálogo con
+el médico sobre su enfermedad o tratamiento. Debe permanecer bajo el cuidado de
+su médico mientras toma ATRIPLA®. No cambie ni interrumpa la administración
+del medicamento sin hablar antes con su médico.
+“Este medicamento se le ha recetado solamente a usted para su enfermedad actual.
+No se lo recomiende a otras personas”.
+•  Conserve este prospecto, ya que puede tener que volver a leerlo.
+•  Si tiene alguna pregunta o duda, CONSULTE A SU MÉDICO.
+•  Si cree que alguno de los efectos adversos es grave o no desaparece, o si experi-
+menta efectos adversos que no aparecen en este prospecto, consulte a su médico.
+
+¿Cuál  es  la  información  más  importante  que  debo  conocer  acerca  de
+ATRIPLA®?
+ATRIPLA® puede ocasionar efectos adversos graves, entre los que se incluyen:
+Empeoramiento de la infección por el virus de la hepatitis B (VHB). Su médico
+le hará una prueba del VHB antes de comenzar el tratamiento con ATRIPLA®.
+Si tiene una infección por el VHB y toma ATRIPLA®, es posible que su infección
+por  el  VHB  empeore  (reagudización)  cuando  deje  de  tomar  ATRIPLA®.  Una
+reagudización es cuando la infección por el VHB regresa repentinamente con
+un empeoramiento.
+•  No interrumpa el tratamiento con ATRIPLA® sin antes hablar con su médico.
+•  No deje que se le agote el suministro de ATRIPLA®. Renueve su receta o hable
+con su médico antes de que se le acaben por completo las dosis de ATRIPLA®.
+•  Si deja de tomar ATRIPLA®, será necesario que su médico le examine el estado de
+salud con frecuencia y le realice análisis de sangre con regularidad durante varios
+meses para verificar el estado de su infección por el VHB, o que le administre un
+medicamento para tratar la hepatitis B. Informe a su médico acerca de cualquier
+síntoma nuevo o inusual que presente después de interrumpir el uso de  ATRIPLA®.
+Para  obtener  más  información  sobre  los  efectos  adversos,  consulte  la  sección,
+“¿Cuáles son los posibles efectos adversos de ATRIPLA®?”.
+
+¿Qué es ATRIPLA®?
+ATRIPLA® es un medicamento de venta con receta que contiene efavirenz, emtrici-
+tabina y tenofovir disoproxil fumarato, combinados en 1 comprimido. ATRIPLA® se
+emplea solo, como pauta completa de tratamiento, o en asociación con otros medi-
+camentos contra el VIH-1, para tratar a las personas que padecen la infección por el
+VIH-1 y que pesan al menos 40 kg. No se sabe si ATRIPLA® es seguro y eficaz en niños
+infectados por el VIH-1 que pesan menos de 40 kg.
+
+¿Cura ATRIPLA® la infección por el VIH-1 o el SIDA?
+ATRIPLA®  no  cura  la  infección  por  el  VIH-1  ni  el  SIDA  y  usted  puede  seguir
+presentando enfermedades asociadas a la infección por el VIH-1, incluidas las in-
+fecciones oportunistas. Debe permanecer bajo el cuidado de su médico mientras
+toma ATRIPLA®.
+
+¿Quiénes no deben tomar ATRIPLA®?
+No tome ATRIPLA® si:
+•  Es alérgico al efavirenz.
+•  Toma los medicamentos llamados voriconazol, elbasvir o grazoprevir.
+Consulte a su médico si no está seguro de estar utilizando alguno de estos medicamentos.
+
+¿Qué le debo informar a mi médico antes de tomar ATRIPLA®?
+Antes de usar ATRIPLA®, informe a su médico acerca de todas sus afecciones
+médicas, lo que incluye si usted:
+•  Tiene problemas hepáticos, incluida la infección por el virus de la hepatitis B o C.
+•  Tiene problemas cardíacos.
+•  Tiene o ha tenido problemas mentales.
+•  Tiene antecedentes de drogadicción o alcoholismo.
+•  Tiene problemas del sistema nervioso.
+•  Tiene problemas renales o está en tratamiento con diálisis renal.
+•  Tiene problemas óseos.
+•  Ha tenido convulsiones o toma medicamentos que se emplean para tratar convulsiones.
+•  Está embarazada o planea quedar embarazada.  ATRIPLA® puede ser perju-
+dicial para el bebé en gestación. Si tiene capacidad para quedar embarazada, su
+médico deberá realizarle una prueba de embarazo antes de que usted comience
+su tratamiento con ATRIPLA®. No debe quedar embarazada durante el trata -
+miento con ATRIPLA® ni durante las 12 semanas posteriores a la interrup-
+ción del tratamiento. Informe a su médico si queda embarazada o cree que
+podría estar embarazada durante el tratamiento con  ATRIPLA®.
+ » Las mujeres con capacidad para quedar embarazadas deben utilizar
+2 métodos anticonceptivos (anticoncepción) eficaces durante el trata-
+miento con ATRIPLA® y durante las 12 semanas posteriores a la inte-
+rrupción del tratamiento.
+
+ » Deberá emplearse siempre un método anticonceptivo de barrera junto
+con un anticonceptivo de otro tipo. Los métodos anticonceptivos de ba-
+rrera pueden incluir preservativos, esponjas anticonceptivas, diafragma con
+espermicida y capuchón cervical.
+
+ » Los métodos anticonceptivos que contienen la hormona progesterona,
+como píldoras, inyecciones, anillos vaginales o implantes anticoncepti -
+vos, tal vez no actúen con suficiente eficacia mientras se utiliza ATRIPLA®.
+ » Hable con su médico acerca de los métodos anticonceptivos que sean adecua-
+
+dos para usted durante el tratamiento con ATRIPLA®.
+
+ » Registro de embarazos: existe un registro de embarazos para las mujeres
+que toman ATRIPLA® durante el embarazo. El propósito de este registro es
+recopilar información sobre su salud y la de su bebé. Hable con su médico
+acerca de cómo participar en este registro.
+
+•  Está amamantando o planea amamantar. ATRIPLA® puede pasar a la leche ma-
+terna. No amamante, ya que correrá el riesgo de transmitir el VIH-1 a su bebé.
+Informe a su médico acerca de todos los medicamentos que utiliza, incluidos
+los medicamentos de venta con receta y de venta libre, las vitaminas y los suple-
+mentos herbarios.
+Haga una lista de sus medicamentos y muéstresela a su médico y al farmacéutico
+cuando reciba un medicamento nuevo.
+ATRIPLA® y algunos medicamentos pueden interactuar entre sí, ocasionando efec-
+tos adversos graves.
+Puede solicitar a su médico o farmacéutico una lista de los medicamentos que in-
+teractúan con ATRIPLA®. No comience a utilizar un medicamento nuevo sin antes
+informar a su médico, quien podrá indicarle si es seguro tomar ATRIPLA® con otros
+medicamentos.
+
+¿Cuál es la información importante que debo conocer acerca de tomar
+otros medicamentos con ATRIPLA®?
+ATRIPLA®  puede  cambiar  el  efecto  de  otros  medicamentos,  incluidos  los
+que se usan para el tratamiento de la infección por el VIH-1, y puede causar
+efectos adversos graves. Su médico puede cambiar sus otros medicamentos o sus
+dosis.  Otros  medicamentos,  incluidos  los  productos  herbarios,  pueden  afectar  a
+ATRIPLA®. Por esta razón, es muy importante que informe a sus médicos y farmacéu-
+ticos cuáles son los medicamentos, suplementos herbarios o vitaminas que toma.
+Medicamentos que no deberá tomar con ATRIPLA®
+•  ATRIPLA® no se deberá tomar con medicamentos que contienen tenofovir DF,
+tenofovir  alafenamida,  emtricitabina,  o  lamivudina.  ATRIPLA®  tampoco  debe
+tomarse con efavirenz, a menos que el médico le indique lo contrario.
+
+•  Voriconazol no se deberá tomar con ATRIPLA® porque puede perder su efecto o
+puede aumentar la probabilidad de sufrir efectos adversos a causa de ATRIPLA®.
+
+•  ATRIPLA® no se deberá tomar con dipivoxilo de adefovir.
+También es importante que informe a su médico si toma cualquiera de los siguientes
+medicamentos:
+•  Saquinavir,  claritromicina,  posaconazol,  itraconazol,  boceprevir,  sofosbuvir/
+velpatasvir o simeprevir; estos medicamentos deben ser reemplazados por
+otro medicamento si se toman con ATRIPLA®.
+
+•  Bloqueantes  de  los  canales  del  calcio  como  diltiazem,  verapamilo  y  otros;  in-
+dinavir;  maraviroc;  los  medicamentos  inmunosupresores  como  ciclosporina,
+tacrolimus o sirolimus; metadona; rifabutina; rifampicina; medicamentos para
+reducir  el  colesterol  como  atorvastatina,  pravastatina  sódica  y  simvastatina,  o
+antidepresivos como bupropión o sertralina; puede ser necesario cambiar las
+dosis de estos medicamentos si se toman con ATRIPLA®.
+
+•  Didanosina; tenofovir DF (un componente de ATRIPLA®) puede aumentar la can-
+tidad de didanosina en la sangre, lo que podría incrementar los efectos adversos.
+Es posible que necesite un seguimiento más riguroso si toma ATRIPLA® y
+didanosina juntos. Además, puede ser necesario cambiar la dosis de didanosina.
+•  Sulfato de atazanavir, darunavir con ritonavir o lopinavir/ritonavir, o sofosbuvir/
+velpatasvir  o  ledipasvir/sofosbuvir;  estos  medicamentos  pueden  aumentar
+la cantidad de tenofovir DF (un componente de ATRIPLA®) en la sangre, lo que
+podría ocasionar más efectos adversos. No se recomienda la administración de
+sulfato de atazanavir y sofosbuvir/velpatasvir con ATRIPLA®. Es posible que ne-
+cesite un seguimiento más riguroso si toma ATRIPLA® y darunavir y ritonavir
+juntos, o si toma ATRIPLA® con lopinavir/ritonavir juntos. Deberá aumentarse la
+dosis de lopinavir/ritonavir cuando se administre con efavirenz.
+
+•  Medicamentos para las convulsiones (por ejemplo, fenitoína, carbamazepina o feno-
+barbital); es posible que su médico desee cambiar su tratamiento por otro medica-
+mento o comprobar cada cierto tiempo las concentraciones del fármaco en la sangre.
+Estos no son todos los medicamentos que pueden causar problemas si toma
+ATRIPLA®. Asegúrese de informar a su médico acerca de todos los medica-
+mentos que toma.
+Lleve una lista completa de todos los medicamentos con y sin receta, y también de
+los remedios herbarios que tome, de la cantidad tomada y de la frecuencia con la
+que los toma. Haga una lista nueva cuando añada o deje de tomar medicamentos o
+remedios herbarios, o si la dosis cambia. Entregue una copia de esta lista a todos sus
+médicos y farmacéuticos cada vez que los consulte o que le preparen una receta.
+Esto le dará a su médico una idea completa de los medicamentos que toma, para
+que pueda tomar la decisión correcta en su caso.
+
+¿Cómo debo tomar ATRIPLA®?
+•
+•
+
+ Tome ATRIPLA® exactamente como se lo indique su médico.
+ Si toma ATRIPLA® con otros medicamentos empleados para tratar el VIH-1, su
+médico le indicará qué medicamentos utilizar y cómo utilizarlos.
+ Tome ATRIPLA® una vez al día con el estómago vacío. Debe tomar ATRIPLA® a la
+misma hora todos los días.
+ La toma de ATRIPLA® al acostarse puede hacer que algunos de los efectos adver-
+sos sean menos molestos.
+ No se olvide de tomar ninguna dosis de ATRIPLA®. La omisión de una dosis
+reduce la cantidad de medicamento presente en la sangre. Renueve su receta de
+ATRIPLA® antes de que se le agote el medicamento.
+ No modifique su dosis de ATRIPLA® ni interrumpa el uso de ATRIPLA® sin antes
+hablar con su médico. Permanezca bajo la supervisión de un médico mientras
+esté en tratamiento con ATRIPLA®.
+
+•
+
+•
+
+•
+
+•
+
+•  Si toma una cantidad excesiva de ATRIPLA®, llame a su médico o diríjase a la sala
+
+de urgencias del hospital más cercano de inmediato.
+"Ante la eventualidad de una sobredosificación, concurrir al hospital más cerca-
+no o comunicarse con los Centros de Toxicología:
+HOSPITAL DE PEDIATRÍA RICARDO GUTIÉRREZ:
+(011) 4962-6666/2247
+HOSPITAL ALEJANDRO POSADAS:
+(011) 4654-6648/4658-7777
+Optativamente otros centros de intoxicaciones".
+ Infórmele a su médico si empieza a tomar algún medicamento nuevo o si cambia
+la manera en que toma los medicamentos antiguos. Es posible que necesite un
+ajuste de la dosis.
+ Cuando su provisión de ATRIPLA® esté por terminar, pídale más a su médico o
+farmacéutico. Esto es muy importante, porque la cantidad de virus en la sangre
+puede aumentar si se interrumpe el medicamento, incluso por poco tiempo. El
+virus puede presentar resistencia a ATRIPLA® y volverse más difícil de tratar.
+ Es posible que su médico desee hacerle análisis de sangre para comprobar si
+presenta ciertos efectos adversos mientras toma ATRIPLA®.
+
+•
+
+•
+
+•
+
+¿Qué debo evitar mientras tomo ATRIPLA®?
+•  ATRIPLA® puede ocasionar mareos, alteración de la concentración y somnolen-
+cia.  Si  presenta  estos  síntomas,  no  conduzca  vehículos,  no  opere  maquinaria
+pesada ni realice ninguna actividad que demande un alto grado de atención.
+
+¿Cuáles son los posibles efectos adversos de ATRIPLA®?
+ATRIPLA® puede causar efectos adversos graves, que incluyen:
+•  Erupción  cutánea.  La  erupción  cutánea  es  un  efecto  adverso  grave,  aunque
+también  puede  ser  frecuente.  Generalmente,  las  erupciones  cutáneas  desa-
+parecen sin necesidad de modificar su tratamiento. Informe de inmediato a su
+médico si presenta una erupción cutánea durante el tratamiento con ATRIPLA®.
+•  Problemas hepáticos graves. En raras ocasiones, pueden producirse proble-
+mas hepáticos graves capaces de provocar la muerte. Informe de inmediato a
+su médico si presenta estos síntomas: coloración amarilla de la piel o la parte
+blanca de los ojos, orina oscura “del color del té”, heces de color claro, pérdida
+del apetito durante varios días o más, náuseas o dolor en la zona del estómago.
+•  Problemas  mentales.  Se  han  producido  problemas  mentales  graves,  que
+incluyen depresión grave, pensamientos y acciones suicidas, comportamiento
+agresivo, delirios, catatonía, y reacciones paranoides y maníacas, en las personas
+que toman ATRIPLA®. Estos problemas de salud mental pueden producirse con
+mayor frecuencia en personas que tienen antecedentes de problemas mentales
+o  consumo  de  drogas,  o  en  personas  que  utilizan  medicamentos  para  tratar
+problemas mentales. Informe de inmediato a su médico si presenta problemas
+mentales graves durante el tratamiento con ATRIPLA®.
+
+•  Problemas del sistema nervioso. Los problemas del sistema nervioso pueden
+agravarse si consume bebidas alcohólicas o drogas que alteran el estado de áni-
+mo (estupefacientes) mientras está en tratamiento con ATRIPLA®. Los síntomas
+de  problemas  del  sistema  nervioso  pueden  incluir:  mareos,  problemas  para
+dormir,  problemas  para  concentrarse,  cansancio,  sueños  anormales,  ver  u  oír
+cosas que no son reales (alucinaciones), estado de ánimo inusualmente alegre,
+confusión, agitación, problemas de memoria, problemas de pensamiento.
+
+•  Problemas renales nuevos o empeoramiento de los problemas renales ya
+existentes, incluso insuficiencia renal. Su médico deberá realizarle análisis
+de sangre y orina para verificar el estado de los riñones antes de comenzar el tra-
+tamiento con ATRIPLA® y durante su administración. Su médico puede indicarle
+que deje de tomar ATRIPLA® si surgen problemas renales nuevos o si empeoran
+los problemas renales ya existentes durante el tratamiento con ATRIPLA®.
+
+•  Pueden  presentarse  problemas  óseos  en  algunas  personas  que  toman
+ATRIPLA®. Los problemas óseos incluyen dolor óseo, o ablandamiento o dismi-
+nución  del  grosor  de  los  huesos,  lo  cual  puede  provocar  fracturas.  Es  posible
+que su médico necesite realizarle pruebas para verificar el estado de los huesos.
+•  Convulsiones. Su médico puede realizarle análisis de sangre durante el trata-
+miento  con  ATRIPLA®  si  usted  toma  determinados  medicamentos  empleados
+para prevenir convulsiones.
+
+•  Demasiado  ácido  láctico  en  su  sangre  (acidosis  láctica).  Demasiado  ácido
+láctico es una rara pero grave emergencia médica que puede llevar a la muerte. Co-
+méntele a su médico lo antes posible en caso de presentar los siguientes síntomas:
+
+debilidad o cansancio mayor al habitual, dolores musculares inusuales, falta de aire
+y respiración agitada, dolor abdominal con náuseas y vómitos, manos y pies fríos y
+azulados, latidos cardíacos rápidos o anormales, mareos o aturdimiento.
+
+•  Cuando una persona infectada por el VIH-1 comienza a tomar medicamen-
+tos contra el VIH-1, pueden producirse cambios en el sistema inmunitario
+(síndrome de reconstitución inmunitaria). Es posible que el sistema inmunita-
+rio se fortalezca y comience a combatir infecciones que han permanecido ocultas
+en  el  organismo  durante  mucho  tiempo.  Informe  de  inmediato  a  su  médico  si
+presenta algún síntoma nuevo después de comenzar el tratamiento con  ATRIPLA®.
+ Cambios en la grasa corporal. Se han producido cambios en la distribución o la
+acumulación de la grasa corporal en algunas personas que toman medicamentos
+contra el VIH-1, lo que incluye una mayor cantidad de grasa en la parte superior de la
+espalda y el cuello (“joroba de búfalo”), en los pechos y alrededor del tronco. También
+puede producirse pérdida de grasa en las piernas, los brazos y la cara. No se conocen
+la causa de estos cambios en la grasa corporal ni sus efectos a largo plazo en la salud.
+
+•
+
+Los efectos adversos más frecuentes de ATRIPLA® incluyen:
+•  Diarrea,  náuseas,  cansancio,  dolor  de  cabeza,  mareos,  depresión,  problemas
+
+para dormir, erupción cutánea, sueños anormales.
+
+Estos no son todos los posibles efectos adversos de ATRIPLA®. Llame a su médico
+para obtener asesoramiento profesional sobre los efectos adversos.
+
+Comunicación de efectos adversos
+Si  experimenta  cualquier  efecto  adverso,  consulte  a  su  médico,  incluso  si
+se  trata  de  efectos  adversos  que  no  aparecen  en  este  prospecto.  También
+puede ponerse en contacto con el Departamento de Farmacovigilancia de
+Gador S.A., llamando al teléfono +54 (11) 4858-9000 o enviando un correo
+electrónico a farmacovigilancia@gador.com.
+Consulte a su médico antes de dejar de tomar ATRIPLA® por los efectos adversos o
+por cualquier otro motivo.
+“Ante cualquier inconveniente con el producto, el paciente puede llenar la ficha que
+está  en  la  página  web  de  la  ANMAT:  https://www.argentina.gob.ar/anmat/farma-
+covigilancia/notificanos/pacientes o llamar a ANMAT responde: 0800-333-1234”.
+Mediante la comunicación de efectos adversos usted puede contribuir a proporcio-
+nar más información sobre la seguridad de este medicamento.
+
+¿Cómo conservo ATRIPLA®?
+•  Conserve ATRIPLA® en un lugar fresco y seco, a una temperatura inferior a 30 oC.
+•  Conserve ATRIPLA® en su envase original y mantenga el envase bien cerrado.
+•  No conserve medicamentos caducados o que ya no necesita. Si desecha los me-
+
+dicamentos, asegúrese de que los niños no los encuentren.
+
+Mantenga ATRIPLA® y todos los demás medicamentos fuera del alcance de los niños.
+
+Información general acerca del uso seguro y eficaz de ATRIPLA®
+Los medicamentos a veces se recetan para enfermedades distintas de las que se men-
+cionan en los prospectos. No utilice ATRIPLA® para una enfermedad para la cual no
+fue recetado. No administre ATRIPLA® a otras personas, aunque tengan los mismos
+síntomas que usted, ya que podría hacerles daño. Puede solicitar a su médico o far -
+macéutico información acerca de ATRIPLA® dirigida a los profesionales de la salud.
+No use ATRIPLA® si falta el sello que cubre la tapa del frasco o si está dañado.
+Ud. puede usar ATRIPLA® hasta el último día del mes indicado en el envase. No tome
+ATRIPLA® luego de la fecha de vencimiento.
+
+¿Cuáles son los componentes de ATRIPLA®?
+Principios activos: efavirenz, emtricitabina y tenofovir disoproxil fumarato.
+Componentes no activos: croscarmelosa sódica, hidroxipropilcelulosa, celulosa
+microcristalina, estearato de magnesio, celulosa microcristalina y laurilsulfato  de
+sodio.  La  película  que  recubre  los  comprimidos  contiene  óxido  de  hierro  negro,
+polietilenglicol, alcohol polivinílico, óxido de hierro rojo, talco y dióxido de titanio.
+Posología: la que su médico le recomiende.
+
+“Este medicamento debe ser usado exclusivamente bajo prescripción y vigi-
+lancia médica y no puede repetirse sin una nueva receta médica”.
+
+ATRIPLA® es una marca registrada de Gilead Sciences, Inc. o de sus compañías rela-
+cionadas. ©2023 Gilead Sciences, LLC. Todos los derechos reservados.
+AR-JAN23-US-OCT19
+
+MANTENER TODOS LOS MEDICAMENTOS FUERA DEL ALCANCE DE LOS NIÑOS.
+
+Para mayor información sobre nuestros productos
+
+Visitá nuestro sitio: www.gador.com/productos
+
+O envianos tu consulta a: info@gador.com
+
+Elaborado en: Patheon Inc., 2100 Syntex Court, Mississauga, Ontario, Canadá y/o Takeda GmbH, Lehnitzstrasse 70-98, Oranienburg,
+Alemania para Gilead Sciences Inc. EE. UU. Acondicionamiento secundario: Gador S.A., Darwin 429, C.AB.A., Argentina.
+Representado, Comercializado y Distribuido por Gador S.A. Darwin 429, C1414CUI, C.A.B.A. Tel: 4858-9000. D.T.: Jorge N. Naquit,
+Farmacéutico y Lic. en Ciencias Farmacéuticas. E.M.A.M.S. Certificado No 55.299. Fecha de última revisión: 04/2023
+G00108303-06

@@ -1,0 +1,723 @@
+AMOCLAV®  SE
+      AMOXICILINA
+      ÁCIDO CLAVULÁNICO
+
+          Venta Bajo Receta Archivada - Industria Argentina
+
+SUSPENSIÓN ORAL
+
+Fórmula
+Cada 5 ml de suspensión reconstituida contiene: amoxicilina (como trihidrato) 600,00 mg, ácido clavulánico
+(como sal potásica) 42,90 mg. Excipientes: celulosa microcristalina / carboximetilcelulosa sódica 50,00 mg,
+sabor  naranja  polvo  15,00  mg,  hidroxietilcelulosa  10,00  mg,  ciclamato  de  sodio  50,00  mg,  amarillo  de
+quinolina 0,025 mg,  ácido cítrico anhidro 4,17 mg, azúcar c.s.p. 1200,00 mg, dióxido de silicio 51,10 mg.
+
+Acción Terapéutica
+Antibiótico de amplio espectro.
+Código ATC: J01CR02.
+
+Descripción
+AMOCLAV SE es una combinación antibacteriana oral compuesta por un antibiótico semisintético, como la
+amoxicilina y el inhibidor de β-lactamasas, clavulanato de potasio (la sal de potasio del ácido clavulánico). La
+amoxicilina es un análogo de la ampicilina, derivada del núcleo básico de penicilina, ácido 6-aminopeniciláni-
+co.
+El  ácido  clavulánico  es  producido  por  fermentación  de  Streptomyces  clavuligerus.  Es  una  β-lactamasa
+estructuralmente relacionada con las penicilinas y posee la capacidad de inactivar una amplia variedad de
+β-lactamasas,  bloqueando  los  sitios  activos  de  estas  enzimas.  El  ácido  clavulánico  resulta  particularmente
+activo contra las β-lactamasas mediadas por plásmidos clínicamente importantes, frecuentemente responsa-
+bles de transferir resistencia a las penicilinas y cefalosporinas.
+
+Indicaciones
+AMOCLAV SE debe administrarse de acuerdo a las pautas oficiales locales para antibióticos de prescripción y
+datos locales de susceptibilidad.
+AMOCLAV SE está indicado para el tratamiento de pacientes pediátricos con otitis media aguda recurrente o
+persistente, causada por S. Pneumoniae (CIMs de penicilina ≤ 2 mcg/ml), H. influenzae (incluyendo cepas
+productoras  de  β-lactamasas),  o  M.  Catarrhalis  (incluyendo  cepas  productoras  de  β-lactamasas),  que  se
+caracterizan por los siguientes factores de riesgo:
+• Exposición al antibiótico para otitis media aguda dentro de los 3 meses precedentes, y cualquiera de los
+siguientes casos:
+- edad ≤ 2 años,
+- asistencia a guarderías.
+(Ver Acción Farmacológica, Farmacocinética)
+
+Nota:  la  otitis  media  aguda  causada  solamente  por  el  S.  pneumoniae  puede  ser  tratada  con  amoxicilina.
+AMOCLAV SE no está indicado para el tratamiento de la otitis media aguda causada por S. pneumoniae con
+CIM de penicilina ≥ 4 mcg/ml. Para reducir el desarrollo de las bacterias resistentes al fármaco y mantener la
+eficacia de AMOCLAV SE y otros fármacos antibacterianos, se recomienda utilizar AMOCLAV SE solamente
+para tratar o prevenir infecciones en las cuales se haya comprobado o se sospeche hayan sido causadas por
+bacterias susceptibles.
+Cuando se dispone de información sobre el tipo de cultivo y susceptibilidad, ésta debería ser considerada al
+seleccionar o modificar la terapia antibacteriana.
+Ante la ausencia de dichos datos, la epidemiología local y los patrones de susceptibilidad tal vez contribuyan
+a  la  selección  empírica  de  la  terapia  cuando  existe  una  razón  para  creer  que  la  infección  probablemente
+involucra tanto S. pneumoniae (CIM penicilina ≤ 2 mcg/ml) como los organismos productores de β-lactama-
+sas  indicados  precedentemente.  Una  vez  que  se  conocen  los  resultados,  se  recomienda  ajustar  la  terapia
+apropiadamente.
+La susceptibilidad a AMOCLAV SE variará según la geografía y a través del tiempo (Ver Acción Farmacológica,
+Farmacodinamia).  Cuando  estén  disponibles,  se  deben  consultar  los  datos  locales  de  susceptibilidad  y
+cuando sea necesario, se deben llevar a cabo muestreos microbiológicos y pruebas de sensibilidad.
+
+Acción farmacológica
+Farmacodinamia
+La amoxicilina es un antibiótico semisintético con un amplio espectro de actividad bacteriana contra muchos
+microorganismos gram positivos y gram negativos. La amoxicilina, sin embargo, es susceptible a la degrada-
+ción de las β-lactamasas, y, por lo tanto, el espectro de su actividad no incluye a los organismos que producen
+estas enzimas. El ácido clavulánico es una β-lactama estructuralmente relacionada con las penicilinas, la cual
+posee  la  capacidad  de  inactivar  un  amplio  rango  de  enzimas  β-lactamasas  comúnmente  encontradas  en
+microorganismos resistentes a las penicilinas y cefalosporinas. En particular, posee buena actividad contra las
+β-lactamasas clínicamente importantes mediadas por plásmidos, generalmente responsables de transferir la
+resistencia al fármaco.
+El ácido clavulánico en AMOCLAV SE protege a la amoxicilina de la degradación de las enzimas β-lactamasas,
+y extiende efectivamente el espectro antibiótico de la amoxicilina para incluir muchas bacterias generalmente
+resistentes a la amoxicilina y otros antibióticos β-lactámicos. De este modo, AMOCLAV SE posee las proteínas
+distintivas de un antibiótico de amplio espectro e inhibidor de β-lactamasas.
+A continuación, los microorganismos se clasifican de acuerdo a su susceptibilidad in vitro a AMOCLAV SE.
+
+Suscep�bilidad  in  vitro  de  microorganismos  a  amoxicilina/ácido  clavulánico
+Mediante  asterisco  (*)  se  indica  cuando  la  eficacia  de  amoxicilina/ácido
+clavulánico fue demostrada en ensayos clínicos.
+Organismos  que  no  producen  β-lactamasas  están  iden�ficados  (con  1).  Si  un
+aislamiento  es  suscep�ble  a  amoxicilina,  puede  considerarse  suscep�ble  a
+amoxicilina/ácido clavulánico
+Especies comúnmente suscep�bles
+Aerobios gram posi�vos
+Bacillus anthracis
+Enterococcus faecalis
+Listeria monocytogenes
+Nocardia asteroides
+Streptococcus pneumoniae *†
+Streptococcus pyogenes *†
+Streptococcus agalactiae *†
+Viridans group streptococcus *†
+Streptococcus spp (otro β-hemolítico) *†
+Staphylococcus aureus (meticillin-susceptible) *
+Staphylococcus saprophyticus (meticilin-susceptible)
+Coagulase negative staphylococcus (meticilin-susceptible)
+Aerobios gram nega�vos
+Bordetalla pertussis
+Haemophilus influenzae *
+Haemophilus parainfluenzae
+Helicobacter pylori
+Moraxella catarrhalis *
+Neisseria gonorrhoeae
+Pasteurella multocida
+Vibrio cholerae
+Otros
+Borrelia burghorferi
+Leptospira iccterohaemorrahagiae
+Treponema pallidum
+Anaerobios gram posi�vos
+Clostridium spp
+Peptococcus niger
+Peptostreptococcus magnus
+Peptostreptococcus micros
+Peptostreptococcus spp
+Anaerobios gram nega�vos
+Bacteroides fragilis
+Bacteroides spp.
+Capnocytophaga spp.
+Eikenella corrodens
+Fusobacterium nucleatum
+Fusobacterium spp.
+Porphyromonas spp.
+Prevotella spp.
+Especies para las cuales la resistencia adquirida es un problema
+Aerobios gram nega�vos
+Escherichia coli *
+Klebsiella oxytoca
+Klebsiella pneumoniae *
+Klebsiella spp.
+Proteus mirabilis
+Proteus vulgaris
+Proteus spp.
+Salmonella spp.
+Shigella spp.
+Aerobios gram posi�vos
+Corynebacterium spp.
+Enterococcus faecium
+Organismos inherentemente resistentes
+Aerobios gram nega�vos
+Acinetobacter spp.
+Citrobacter freundii
+Enterobacter spp.
+Hatnia alvei
+Legionella pneumonphile
+Morganella morganii
+Providencia spp.
+Pseudomonas spp.
+Serratia spp.
+Stenotrophomas maltophilia
+Yersinia enterolítica
+Otros
+Chiamydia pneumooniae
+Chlamydia psittaci
+Chalmydia spp.
+Coxiella burnetti
+Mycoplasma spp.
+
+Se dispone de los siguientes datos in vitro, pero se desconoce su significado clínico. Por lo menos el 90% de
+
+1
+
+los siguientes microorganismos presentan una concentración inhibitoria mínima in vitro (CIM) menor o igual al
+límite susceptible para la amoxicilina/ácido clavulánico. Sin embargo, con excepción de los organismos que
+responden  a  la  amoxicilina  solamente,  la  seguridad  y  eficacia  de  la  amoxicilina/ácido  clavulánico  en  el
+tratamiento de infecciones clínicas debidas a estos microorganismos aún no ha sido establecida en estudios
+clínicos adecuados y bien controlados.
+Microorganismos aeróbicos gran positivos
+Staphylococcus aureus (incluyendo las cepas productoras de β-lactamasas).
+Streptococcus pyogenes.
+Nota: los estafilococos resistentes a la meticilina/oxacilina deben ser considerados resistentes a la amoxicili-
+na/ácido clavulánico.
+Nota:  los  S.  pyogenes  no  producen  β-lactamasas  y,  por  ende,  son  susceptibles  a  la  amoxicilina  sola.  Los
+ensayos  clínicos  adecuados  y  bien  controlados  han  establecido  la  eficacia  de  la  amoxicilina  sola  en  el
+tratamiento de ciertas infecciones clínicas debidas a S. pyogenes.
+Farmacocinética
+La farmacocinética de la amoxicilina y el clavulanato de potasio fue determinada en un estudio efectuado con
+19 pacientes  pediátricos, de 8 meses a 11 años, administrados con amoxicilina/ácido clavulánico, con una
+dosis  de  amoxicilina  de  45  mg/kg  cada  12  hs.  junto  con  una  colación  o  durante  las  comidas.  Los  valores
+medios de los parámetros farmacocinéticos de amoxicilina y clavulanato de potasio plasmáticos se detallan en
+la siguiente tabla.
+
+Tabla 1. Valores medios de los parámetros farmacocinéticos de amoxicilina y clavulanato de potasio plasmáti-
+cos (±DS) luego de la administración de 45 mg/kg de AMOCLAV SE, cada 12 horas, en pacientes pediátricos.
+
+Parámetro*
+
+Cmáx (mcg/ml)
+Tmáx (hs.)
+ABC 0-t (mcg.h/ml)
+T1/2 (hs)
+CI/F ( l/kg/h)
+
+Amoxicilina
+15,7 ± 7,7
+2,0 (1,0 – 4,0)
+59,8 ± 20,0
+1,4 ± 0,3
+0,9 ± 0,4
+
+Clavulanato de potasio
+1,7 ± 0,9
+1,1 (1,0 – 4,0)
+4,0 ± 1,9
+1,1 ± 0,3
+1,1 ± 1,1
+
+*Promedio ± Desviación estándar, excepto los valores Tmáx, los cuales son medianos (rangos).
+
+El efecto de la comida sobre la absorción oral de amoxicilina/ácido clavulánico no ha sido estudiado. Aproxima-
+damente  del  50%  al  70%  de  amoxicilina,  y  alrededor  del  25%  al  40%  de  ácido  clavulánico  son  excretados
+intactos en la orina durante las primeras seis horas luego de la administración oral.
+La administración concurrente de probenecid demora la excreción de amoxicilina, pero no demora la excreción
+renal del ácido clavulánico.
+Ningún componente de AMOCLAV SE está altamente ligado a las proteínas; se ha descubierto que aproxima-
+damente un 25% del  ácido clavulánico y un 18% de amoxicilina está ligado al suero humano.
+La  administración  oral  de  una  dosis  simple  de  45  mg/kg  de  amoxicilina/ácido  clavulánico  (basada  en  la
+amoxicilina) en pacientes pediátricos de 9 meses a 8 años, arrojó los siguientes datos farmacocinéticos para la
+amoxicilina en plasma y el fluido del oído medio (FOM).
+
+Tabla 2. Concentraciones plasmáticas de amoxicilina y fluido del oído medio, luego de la administración de 45
+mg/kg de amoxicilina/ácido clavulánico en pacientes pediátricos.
+
+1 hora
+
+2 horas
+
+3 horas
+
+Tiempo
+
+Promedio
+Mediana
+Rango
+
+Promedio
+Mediana
+Rango
+
+Promedio
+Mediana
+Rango
+
+Concentración plasmá�ca de
+amoxicilicina (mcg/ml)
+7,7
+9,3
+1,5 – 14,0
+(n=5)
+15,7
+13,0
+11,0 – 25,0
+(n=7)
+13,0
+12,0
+5,5 – 21,0
+(n=5)
+
+Concentración de amoxicilina en
+FOM (mcg/ml)
+3,2
+3,5
+0,2 – 5,5
+(n=4)
+3,3
+2,4
+1,9 – 6
+(n=5)
+5,8
+6,5
+3,9 – 7,4
+(n=5)
+
+Dosis administradas inmediatamente antes de las comidas
+
+La amoxicilina se propaga rápidamente en la mayoría de los tejidos y fluidos corporales, con excepción del
+líquido cerebral y espinal. Los resultados de los experimentos efectuados en animales administrados con ácido
+clavulánico, sugieren que este compuesto, al igual que la amoxicilina, se distribuye bien en los tejidos corpora-
+les.
+
+Posología y Modo de Administración
+AMOCLAV  SE  600/5  ml  no  contiene  la  misma  cantidad  de  ácido  clavulánico  (como  sal  de  potasio)  que
+cualquiera de las otras suspensiones de AMOCLAV. AMOCLAV SE contiene 42,9 mg de ácido clavulánico cada
+5 ml, AMOCLAV Duo contiene 62,50 mg de ácido clavulánico cada 5 ml. Por lo tanto, AMOCLAV Duo no debería
+ser sustituido por AMOCLAV SE, ya que no son intercambiables.
+Posología
+-Pacientes pediátricos de 3 meses en adelante: sobre la base de amoxicilina (600 mg/5 ml), la dosis recomen-
+dada de AMOCLAV SE es de 90 mg/kg/día administrada cada 12 horas, durante 10 días.
+
+Peso corporal
+(kg)
+8
+12
+16
+20
+24
+28
+32
+36
+
+Volumen de AMOCLAV SE
+suministrando 90 mg/kg/día
+3,0 ml dos veces por día
+4,5 ml dos veces por día
+6,0 ml dos veces por día
+7,5 ml dos veces por día
+9,0 ml dos veces por día
+10,5 ml dos veces por día
+12,0 ml dos veces por día
+13,5 ml dos veces por día
+
+-Pacientes pediátricos con un peso de 40 kg o más: no se dispone de experiencia con AMOCLAV SE (formula-
+ción de 600 mg/5 ml), en este grupo.
+-Adultos:  no  hay  experiencia  disponible  con  AMOCLAV  SE  (formulación  de  600  mg/5  ml);  en  adultos  con
+dificultades para tragar, no se recomienda administrar AMOCLAV SE (600 mg/5 ml) en lugar de los comprimi-
+dos de AMOCLAV 500 mg o 1 g.
+Debe administrarse con precaución en pacientes con trastornos hepáticos y se recomienda controlar la función
+hepática a intervalos regulares (ver Advertencias).
+
+Instrucciones para preparar la suspensión oral
+En el momento de la administración, el polvo seco debe reconstituirse para formar una suspensión oral, como
+se detalla a continuación.
+- Agregar agua hasta el nivel señalado por la marca impresa en la etiqueta del frasco.
+- Tapar y agitar enérgicamente hasta que el polvo se haya suspendido en su totalidad.
+- Agregar nuevamente agua hasta alcanzar el nivel indicado por la marca mencionada y agitar nuevamente.
+De esta manera se obtiene el volumen final de la suspensión oral de AMOCLAV SE.
+
+Modo de Administración
+Para minimizar la potencial intolerancia gastrointestinal, se recomienda administrar AMOCLAV SE al comienzo
+de las comidas. La absorción de clavulanato de potasio puede mejorarse cuando se administra AMOCLAV SE
+al comienzo de las comidas.
+Nota: agitar bien la suspensión oral antes de usar.
+
+Contraindicaciones
+AMOCLAV SE está contraindicado en pacientes con antecedentes de hipersensibilidad a cualquier penicilina.
+También  está  contraindicado  en  pacientes  con  antecedentes  previos  de  ictericia  colestática  o  trastornos
+hepáticos asociados con la administración de AMOCLAV.
+
+Advertencias
+Se han reportado reacciones de hipersensibilidad grave y ocasionalmente fatal (anafilácticas) en pacientes bajo
+tratamiento con penicilina. Existen mayores probabilidades de que ocurran estas reacciones en individuos con
+antecedentes de hipersensibilidad a la penicilina y/o antecedentes de sensibilidad a múltiples alérgenos. Se
+han reportado casos de individuos con antecedentes de hipersensibilidad a la penicilina que han experimenta-
+do reacciones graves cuando fueron tratados con cefalosporinas. Antes de iniciar la terapia con AMOCLAV SE,
+se  debería  efectuar  un  exhaustivo  interrogatorio  sobre  las  reacciones  previas  de  hipersensibilidad  a  las
+penicilinas, cefalosporinas u otros alérgenos. Si ocurre una reacción alérgica, se recomienda discontinuar la
+administración AMOCLAV SE y adoptar una terapia apropiada. Las reacciones anafilácticas serias requieren
+inmediato  tratamiento  de  emergencia  con  adrenalina.  También  se  deberían  administrar  oxígeno,  esteroides
+intravenosos y el manejo de las vías respiratorias, incluyendo intubación, según esté indicado.
+Se ha reportado colitis pseudomembranosa con casi todos los agentes antibacterianos, incluyendo la amoxicili-
+na/clavulanato de potasio, y en términos de gravedad, varía de leve hasta con riesgo de vida. Por lo tanto, es
+importante considerar este diagnóstico en pacientes que experimenten diarrea luego de la administración de
+agentes antibacterianos.
+El tratamiento con agentes antibacterianos altera la flora normal del colon y posiblemente genere un crecimien-
+to excesivo de clostridium. Los estudios indican que una toxina producida por el Clostridium difficile es una
+causa primaria de la “colitis asociada al uso de antibióticos”.
+Luego  de  haber  establecido  el  diagnóstico  de  colitis  pseudomembranosa,  se  recomienda  adoptar  medidas
+terapéuticas apropiadas. Los casos leves de colitis pseudomembranosa generalmente responden a la disconti-
+nuación del fármaco solamente. En los casos moderados a graves, se debería considerar el manejo con fluidos
+y electrolitos, suplementación con proteínas y tratamiento con un fármaco antibacteriano clínicamente efectivo
+contra la colitis por C. difficile.
+Se recomienda administrar AMOCLAV SE con precaución en pacientes que presenten evidencia de disfunción
+hepática.  La  toxicidad  hepática  asociada  con  el  uso  de  amoxicilina/clavulanato  de  potasio  es  generalmente
+reversible. En raras ocasiones, se han reportado muertes (menos de 1 muerte por cada 4 millones estimados
+de prescripciones a nivel mundial). Estos han sido casos asociados con enfermedades subyacentes serias o
+medicaciones concomitantes (ver Contraindicaciones y Reacciones Adversas – Hígado).
+
+Precauciones
+General: si bien la amoxicilina/clavulanato de potasio es bien tolerado y posee la baja toxicidad característica
+del grupo de antibióticos de la penicilina, se recomienda efectuar una evaluación periódica de las funciones del
+sistema orgánico, incluyendo la función renal, hepática y hematopoyética, si la terapia es más larga del período
+aprobado para la administración del fármaco.
+Un alto porcentaje de pacientes con mononucleosis que reciben ampicilina desarrollan una erupción cutánea
+eritematosa.  De  este  modo,  los  antibióticos  de  la  clase  de  la  ampicilina  no  deberían  ser  administrados  a
+pacientes  con  mononucleosis.  Se  debería  tener  presente  la  posibilidad  de  sobreinfecciones  con  patógenos
+micóticos  o  bacteriales  durante  el  tratamiento.  Si  ocurriera  una  sobreinfección  (generalmente  involucrando
+Pseudomonas o Cándida), se recomienda discontinuar el fármaco y se debe iniciar una terapia apropiada.
+Ante la ausencia de una comprobada o fuerte sospecha de infección bacteriana o una indicación profiláctica,
+la prescripción de AMOCLAV SE aumenta el riesgo de desarrollo de bacterias resistentes al fármaco y es poco
+probable que proporcione beneficios para el paciente.
+Se  recomienda  informar  a  los  pacientes  que  los  fármacos  antibacterianos,  incluyendo  AMOCLAV  SE,  sólo
+deben ser utilizados para tratar infecciones bacterianas. No sirven para tratar infecciones virales (ej.: el resfrío
+común).
+Cuando  se  prescribe  AMOCLAV  SE  para  tratar  una  infección  bacteriana,  se  recomienda  informar  a  los
+pacientes  que  si  bien  es  común  sentirse  mejor  a  comienzos  de  la  terapia,  se  debe  tomar  la  medicación
+exactamente  como  se  instruyó.  Saltear  la  dosis  o  no  completar  el  curso  del  tratamiento  posiblemente:  (1)
+disminuya la eficacia del tratamiento inmediato, y (2) aumente la probabilidad de que las bacterias desarrollen
+resistencia y no sean tratables con AMOCLAV SE u otros fármacos antibacterianos en el futuro.
+Interacciones
+El probenecid disminuye la secreción tubular renal de la amoxicilina. El uso concurrente con AMOCLAV SE
+puede  generar  un  aumento  y  prolongación  de  los  niveles  sanguíneos  de  amoxicilina.  No  se  recomienda  la
+coadministración de probenecid.
+Se ha observado raramente prolongación anormal del tiempo de protrombina (RIN incrementado) en pacientes
+tratados con amoxicilina/ácido clavulánico y anticoagulantes orales.
+Se  debe  monitorear  apropiadamente  cuando  se  prescriben  concomitantemente  anticoagulantes.  Puede  ser
+necesario un ajuste en la dosis de los anticoagulantes orales para mantener el nivel deseado de anticoagula-
+ción.
+La administración concurrente de allopurinol y ampicilina aumenta sustancialmente la incidencia de erupciones
+en pacientes que reciben ambos fármacos en comparación con pacientes que reciben ampicilina solamente.
+Se  desconoce  si  esta  potenciación  de  las  erupciones  por  ampicilina  se  debe  al  allopurinol  o  hiperuricemia
+presente en estos pacientes. No existen datos sobre la administración concurrente de AMOCLAV SE y allopuri-
+nol.
+
+Al igual que ocurre con otros antibióticos de amplio espectro, la amoxicilina / clavulanato de potasio puede
+reducir la eficacia de los anticonceptivos orales.
+Interacciones  del  fármaco  /  pruebas  de  laboratorio:  la  administración  oral  de  AMOCLAV  SE  genera  altas
+concentraciones de amoxicilina en la orina. Las altas concentraciones de la ampicilina en la orina posiblemente
+generen reacciones falso-positivas cuando se prueba la presencia de glucosa en la orina utilizando Clinitest®,
+Solución de Benedict o Solución de Fehling. Como este efecto también puede llegar a ocurrir con la amoxicilina
+y, por ende, con AMOCLAV SE, se recomienda utilizar las pruebas de glucosa basadas en reacciones enzimáti-
+cas glucosa-oxidasa (como Clinistix®).
+Luego de la administración de ampicilina en mujeres embarazadas, se ha observado una disminución temporal
+en la concentración plasmática de estriol conjugado, estriol-glucurónido, estrona conjugada y estradiol. Este
+efecto también puede llegar a ocurrir con la amoxicilina y, por lo tanto, con AMOCLAV SE.
+Carcinogénesis, mutagénesis y trastornos de la fertilidad
+No se han efectuado estudios a largo plazo en animales para evaluar el potencial carcinogénico. El potencial
+mutagénico  de  amoxicilina/ácido  clavulánico  fue  investigado  in  vitro  con  la  prueba  de  Ames,  un  ensayo
+citogenético con linfocitos humanos, una prueba de levadura y un ensayo de mutación en linfoma avanzado de
+ratón, y en vivo, con pruebas del micronúcleo en ratones y una prueba letal dominante. Todas estas pruebas
+resultaron negativas, excepto el ensayo in vitro de linfoma en ratones, en donde se encontró actividad débil con
+concentraciones citotóxicas muy altas. La administración de dosis orales de amoxicilina/ácido clavulánico de
+hasta 1.200 mg/kg/día (5,7 veces la dosificación humana máxima para adultos, basada en el área de superficie
+corporal)  no  presentó  efectos  sobre  la  fertilidad  y  actividad  reproductora  en  las  ratas  dosificadas  con  una
+formulación de amoxicilina/clavulanato de potasio en una relación de 2:1.
+Efectos teratogénicos
+Los estudios sobre reproducción efectuados en ratones y ratas preñadas, administradas con dosificaciones
+orales de amoxicilina/ácido clavulánico de hasta 1.200 mg/kg/día (4,9 y 2,8 veces la dosis humana máxima para
+adultos, basa en el área de superficie corporal, respectivamente) no revelaron evidencia de daños en el feto
+debido a la administración amoxicilina/ácido clavulánico. Sin embargo, no existen estudios adecuados y bien
+controlados en mujeres embarazadas.
+Como los estudios sobre reproducción animal no siempre predicen la respuesta humana, este fármaco debería
+ser utilizado durante el embarazo solamente si estrictamente necesario.
+Trabajo de parto y parto
+Los antibióticos orales de la clase de la ampicilina generalmente no son bien absorbidos durante el trabajo de
+parto. Los estudios realizados con cobayos han demostrado que la administración intravenosa de ampicilina
+disminuye el tono uterino, y la frecuencia, altura y duración de las contracciones. Sin embargo, se desconoce
+si el uso de amoxicilina/ácido clavulánico en humanos durante el trabajo de parto o el parto presenta efectos
+adversos  inmediatos  o  retardados  sobre  el  feto,  prolonga  la  duración  del  trabajo  de  parto,  o  aumenta  las
+probabilidades  de  un  parto  con  fórceps  u  otra  intervención  obstétrica,  o  si  se  necesitará  resucitación  en  el
+recién  nacido.  En  un  estudio  efectuado  con  mujeres  con  ruptura  prematura  de  las  membranas  fetales,  se
+reportó  que  el  tratamiento  profiláctico  con  amoxicilina/ácido  clavulánico  pudo  estar  asociado  con  un  mayor
+riesgo de enterocolitis necrotizante en los neonatos.
+Lactancia
+Los antibióticos de la clase de la ampicilina son excretados por la leche materna; por lo tanto, se debe tener
+precaución cuando se administra amoxicilina/ácido clavulánico en mujeres en período de lactancia.
+Uso pediátrico
+La  seguridad  y  eficacia  de  AMOCLAV  SE  en  infantes  menores  de  3  meses  no  ha  sido  establecida.  Se  ha
+demostrado la seguridad y  eficacia de AMOCLAV SE para el tratamiento de la otitis media aguda en infantes y
+niños de 3 meses a 12 años.
+
+Reacciones adversas
+AMOCLAV SE generalmente es bien tolerado. La mayoría de los efectos colaterales observados en las pruebas
+clínicas pediátricas de otitis media aguda fueron leves o moderados, y de naturaleza temporal: el 4,4% de los
+pacientes discontinuaron la terapia debido a efectos adversos relacionados con el fármaco.
+Los efectos adversos más comúnmente reportados, con una probable o presunta relación con AMOCLAV SE,
+fueron dermatitis, es decir, erupción de pañal (3,5%), diarrea (2,9%), vómitos (2,2%), moniliasis (1,4%) y rash
+(1,1%).  Las  experiencias  adversas  más  comunes  que  condujeron  a  la  suspensión  del  tratamiento,  y  que
+probablemente estuvieron relacionadas con AMOCLAV SE, fueron diarrea (2,5%) y vómitos (1,4%).
+Las siguientes reacciones adversas han sido reportadas en los antibióticos de la clase de las ampicilinas.
+Gastrointestinales: diarrea, náuseas, vómitos, indigestión, gastritis, estomatitis, glositis, lengua negra “vellosa”,
+candidiasis  mucocutánea,  enterocolitis  y  colitis  hemorrágica/  pseudomembranosa.  La  aparición  de  los
+síntomas  de  colitis  pseudomembranosa  pueden  ocurrir  durante  o  luego  del  tratamiento  antibiótico  (ver
+Advertencias). Las náuseas se asocian más frecuentemente con altas dosis orales. Si las reacciones gastroin-
+testinales  son  evidentes,  pueden  reducirse  administrando  amoxicilina/ácido  clavulánico  al  comienzo  de  una
+comida.
+Hipersensibilidad: se han reportado erupciones cutáneas, prurito, urticaria, angioedema, reacciones del tipo de
+la enfermedad del suero (urticaria o rash cutáneo acompañado por artritis, artralgia, mialgia y frecuentemente
+fiebre), eritema multiforme (raramente Síndrome de Steven-Johnson), pustulosis exantematosa generalizada
+aguda,  vasculitis  por  hipersensibilidad  y  un  caso  aislado  de  dermatitis  exfoliativa  (incluyendo  necrólisis
+epidérmica  tóxica).  Estas  reacciones  pueden  ser  controladas  con  antihistamínicos  y,  si  fuera  necesario,
+corticosteroides  sistémicos.  Siempre  que  se  experimenten  estas  reacciones,  se  recomienda  discontinuar  la
+administración del fármaco, a menos que la opinión del médico dicte lo contrario. Pueden ocurrir casos serios
+y ocasionalmente fatales de reacciones de hipersensibilidad (anafiláctica) con la penicilina oral (ver Adverten-
+cias).
+Hepáticas: se han observado un aumento moderado en AST (SGOT)  y/o ALT (SGPT) en pacientes tratados con
+antibióticos de la clase de la ampicilina, pero se desconoce el significado de estos hallazgos. Con la toma de
+amoxicilina/ácido clavulánico se ha reportado con poca frecuencia trastornos hepáticos, incluyendo hepatitis e
+ictericia colestática (ver Contraindicaciones), aumento en las transaminasas séricas (AST y/o ALT), bilirrubina
+sérica y/o fosfatasa alcalina.
+Se ha reportado más comúnmente en pacientes de edad avanzada, de sexo masculino, o en pacientes bajo
+tratamiento prolongado. Los hallazgos histológicos de las biopsias hepáticas consisten predominantemente en
+cambios  colestáticos,  hepatocelulares  o  una  mezcla  de  colestáticos  y  hepatocelulares.  La  aparición  de  los
+signos/síntomas de trastornos hepáticos puede ocurrir durante la terapia o varias semanas después de haber
+discontinuado el tratamiento. La disfunción hepática, la cual puede ser grave, es generalmente reversible. En
+raras ocasiones, se han reportado casos fatales (menos de 1 muerte reportada por cada 4 millones de prescrip-
+ciones  estimadas  a  nivel  mundial).  Estos  han  sido  generalmente  casos  asociados  con  enfermedades
+subyacentes serias o medicaciones concomitantes.
+Renales:  raramente  se  ha  reportado  nefritis  intersticial  y  hematuria.  También  se  ha  reportado  cristaluria  (ver
+Sobredosificación).
+Sangre: durante el tratamiento con penicilinas, se ha reportado anemia, incluyendo anemia hemolítica, trombo-
+citopenia, púrpura trombocitopénica, eosinofilia, leucopenia (incluyendo neutropenia), y agranulocitosis. Estas
+reacciones  son  generalmente  reversibles  con  la  discontinuación  de  la  terapia,  y  se  cree  son  fenómenos  de
+hipersensibilidad. Se observó una ligera trombocitosis en menos del 1% de los pacientes tratados con amoxici-
+lina/ácido clavulánico Se ha reportado prolongación del tiempo de sangrado y del tiempo de protrombina en
+pacientes que recibieron amoxicilina/ácido clavulánico y una terapia anticoagulante concomitantemente.
+Sistema  nervioso  central:  raramente  se  ha  reportado  agitación,  ansiedad,  cambios  en  el  comportamiento,
+confusión, convulsiones (pueden ocurrir en pacientes con función renal disminuida o en aquellos que reciben
+altas dosis), mareos, cefaleas, insomnio e hiperactividad reversible.
+Misceláneas: raramente se ha reportado cambio en la coloración de los dientes (manchas marrones, amarillas
+o grises). La mayoría de los casos ocurrieron en pacientes pediátricos. En la mayoría de los casos, el evento se
+redujo o eliminó con el cepillado o limpieza dental.
+
+Sobredosificación
+Luego de una sobredosificación, los pacientes han experimentado principalmente síntomas gastrointestinales,
+incluyendo dolor de estómago y abdominal, vómitos y diarrea. También se observaron erupciones, hiperactivi-
+dad o mareos en un reducido número de pacientes.
+En caso de sobredosis, se recomienda discontinuar la administración de AMOCLAV SE, seguir un tratamiento
+sintomático y adoptar medidas complementarias, según sea requerido. Si la sobredosis es muy reciente y no
+existen contraindicaciones, se puede intentar con inducción del vómito u otro medio para remover el fármaco
+del estómago. Un eventual estudio realizado con 51 pacientes pediátricos en un centro de control de intoxica-
+ciones  sugirió  que  las  sobredosificaciones  de  menos  de  250  mg/kg  de  amoxicilina  no  están  asociadas  con
+síntomas clínicos significativos y no requieren de vaciado gástrico.
+Se ha reportado nefritis intersticial, con una consecuente insuficiencia renal oligúrica en un reducido número de
+pacientes luego de una sobredosis con amoxicilina.
+También se ha reportado cristaluria, que llegó a provocar insuficiencia renal en algunos casos, luego de una
+sobredosis con amoxicilina en adultos y pacientes pediátricos. En caso de sobredosificación, se recomienda
+mantener una adecuada ingesta de líquidos y diuresis a fin de reducir el riesgo de cristaluria de amoxicilina. La
+insuficiencia renal es aparentemente reversible con la suspensión de la administración del fármaco. Se pueden
+experimentar  altos  niveles  sanguíneos  más  rápidamente  en  pacientes  con  trastornos  renales  debido  a  la
+disminución del clearance renal de amoxicilina y clavulanato de potasio. Tanto la amoxicilina como el clavulana-
+to de potasio son removidos de la circulación mediante hemodiálisis.
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o  comunicarse  con  los
+Centros  de  Toxicología:    Hospital  A.  Posadas:  (011)  4654-6648/4658-7777.  Hospital  de  Pediatría  Ricardo
+Gutiérrez: (011) 4962-6666/2247. Optativamente otros Centros de Intoxicaciones.
+
+Presentación
+Envases para preparar  140 ml de suspensión oral.
+Fecha de última revisión: mayo de 2017.
+
+Forma de conservación
+- Conservar la suspensión reconstituida refrigerada. No congelar.
+- Descartar la suspensión sin usar luego de 10 días.
+- Conservar el polvo seco para suspensión oral en lugar seco, al abrigo de la luz, a una  temperatura por debajo
+de los 25°C.
+- Mantener en el envase original
+- Mantener alejado del alcance de los niños.
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado No  45.103
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237  -   Ciudad Autónoma de Buenos Aires
+Elaborado en: Carlos Villate 5271, Munro, Pcia. de Buenos Aires.
+
+INFORMACIÓN PARA EL PACIENTE
+-CONSULTE A SU MÉDICO-
+
+Lea esta información para el paciente antes de comenzar a tomar AMOCLAV SE y cada vez que repita la receta
+ya que puede haber nueva información. Esta información no reemplaza a su conversación con el médico sobre
+su enfermedad o su tratamiento.
+
+1- ¿QUÉ ES AMOCLAV SE Y PARA QUÉ SE USA?
+AMOCLAV SE, amoxicilina/ácido clavulánico es un antibiótico que elimina las bacterias que causan las infeccio-
+nes. Contiene dos fármacos diferentes llamados amoxicilina y ácido clavulánico. La amoxicilina pertenece al
+grupo de medicamentos conocido como “penicilinas” que a veces puede perder su eficacia (se inactiva). El
+otro componente, ácido clavulánico, evita que esto ocurra.
+Amoxicilina/ácido clavulánico – AMOCLAV SE – se utiliza en adultos y niños para tratar las siguientes infeccio-
+nes.
+- Infecciones del oído y de los senos nasales.
+- Infecciones del tracto respiratorio.
+- Infecciones del tracto urinario.
+- Infecciones de la piel y tejidos blandos incluyendo infecciones dentales.
+- Infecciones de los huesos y articulaciones.
+
+2- ANTES DE USAR AMOCLAV SE
+
+No use AMOCLAV SE
+- Si es alérgico (hipersensible) a amoxicilina, ácido clavulánico, a las penicilinas o a cualquiera de los demás
+componentes de AMOCLAV SE.
+- Si alguna vez ha tenido una reacción alérgica grave (de hipersensibilidad) a cualquier otro antibiótico. Esto
+podría incluir erupción cutánea o hinchazón de cara o cuello.
+- Si alguna vez ha tenido problemas de hígado o ictericia (coloración amarillenta de la piel) al tomar un antibióti-
+co.
+
+No tome AMOCLAV SE si se incluye en alguno de los puntos enunciados. Antes de iniciar el tratamiento
+con amoxicilina/ácido clavulánico, si no está seguro, consulte con su médico o farmacéutico.
+
+Tenga especial cuidado con AMOCLAV SE
+Informe a su médico o farmacéutico antes de tomar este medicamento
+- si tiene mononucleosis infecciosa,
+- si está recibiendo tratamiento para problemas de hígado o riñón,
+- si no orina regularmente.
+Si no está seguro de si alguno de los síntomas anteriores le afectan, informe a su médico o farmacéutico antes
+de tomar AMOCLAV SE.
+En algunos casos, su médico puede investigar el tipo de bacteria que está causando su infección. Dependien-
+do de los resultados, puede que le receten una presentación diferente de amoxicilina/ácido clavulánico u otro
+medicamento.
+
+Síntomas a los que debe estar atento
+AMOCLAV SE puede empeorar determinadas condiciones existentes, o causar efectos adversos serios. Estos
+incluyen reacciones alérgicas, convulsiones e inflamación del intestino grueso. Debe estar atento a determina-
+dos síntomas mientras tome AMOCLAV SE para reducir el riesgo de problemas.
+
+Análisis de sangre y orina
+Si se le están realizando análisis sanguíneos (como estudios del estado de los glóbulos rojos o estudios de
+función hepática) o análisis de orina (para controlar los niveles de glucosa), informe a su médico o enfermera
+que está tomando AMOCLAV SE. Esto es porque AMOCLAV SE puede alterar los resultados de estos tipos de
+análisis.
+
+Toma simultánea de otros medicamentos
+Informe  a  su  médico  o  farmacéutico  si  está  utilizando  recientemente  otros  medicamentos,  incluso  los
+adquiridos sin receta y medicamentos a base de plantas.
+Si está tomando allopurinol (usado para la gota) como amoxicilina/ácido clavulánico – AMOCLAV SE -, puede
+ser más probable que sufra una reacción alérgica en la piel.
+Si está tomando probenecid (usado para la gota) su médico puede que le ajuste la dosis de AMOCLAV SE,
+amoxicilina/ácido clavulánico.
+Si se toman anticoagulantes (como la warfarina) se necesitarán más análisis sanguíneos.
+AMOCLAV SE puede afectar la acción de metotrexato (medicamento empleado para tratar el cáncer o enferme-
+dades reumáticas).
+
+Embarazo y lactancia
+Si  está  embarazada,  piensa  que  pueda  estarlo  o  si  está  en  período  de  lactancia,  hable  con  su  médico  o
+farmacéutico.
+Consulte a su médico o farmacéutico antes de utilizar cualquier medicamento.
+
+3- COMO TOMAR AMOCLAV SE
+Siga exactamente las instrucciones de administración de este medicamento indicadas por su médico. En caso
+de duda, consulte de nuevo a su médico o farmacéutico.
+Pacientes pediátricos de 3 meses en adelante: sobre la base de amoxicilina (600 mg/5 ml), la dosis recomenda-
+da de AMOCLAV SE es de 90 mg/kg/día administrada cada 12 horas, durante 10 días.
+
+Peso corporal
+(kg)
+8
+12
+16
+20
+24
+28
+32
+36
+
+Volumen de AMOCLAV SE
+suministrando 90 mg/kg/día
+3,0 ml dos veces por día
+4,5 ml dos veces por día
+6,0 ml dos veces por día
+7,5 ml dos veces por día
+9,0 ml dos veces por día
+10,5 ml dos veces por día
+12,0 ml dos veces por día
+13,5 ml dos veces por día
+
+Pacientes pediátricos con un peso de 40 kg o más: no se dispone de experiencia con AMOCLAV SE (formula-
+ción de 600 mg/5 ml), en este grupo.
+-Adultos:  no  hay  experiencia  disponible  con  AMOCLAV  SE  (formulación  de  600  mg/5  ml);  en  adultos  con
+dificultades para tragar, no se recomienda administrar AMOCLAV SE (600 mg/5 ml) en lugar de los comprimidos
+de AMOCLAV 500 mg o 1 g.
+
+Uso en niños
+La seguridad y eficacia de AMOCLAV SE en niños menores de 3 meses no ha sido establecida. Se ha demostra-
+do seguridad y eficacia de AMOCLAV SE para el tratamiento de la otitis media aguda en niños de 3 meses a 12
+años.
+
+Efectos sobre la capacidad de conducción de vehículos
+AMOCLAV SE – amoxicilina/ácido clavulánico puede tener efectos adversos y los síntomas pueden hacer que
+no deba conducir.
+No conduzca o maneje maquinaria a no ser que se encuentre bien.
+
+Toma conjunta de AMOCLAV SE con alimentos y bebidas
+Para minimizar la potencial intolerancia gastrointestinal, se recomienda administrar AMOCLAV SE al comienzo
+de las comidas. La absorción de clavulanato de potasio puede mejorarse cuando se administra AMOCLAV SE
+al comienzo de las comidas.
+
+Uso apropiado del medicamento AMOCLAV SE
+En el momento de la administración, el polvo seco debe reconstituirse para formar una suspensión oral, como
+se detalla a continuación.
+- Agregar agua hasta el nivel señalado por la marca impresa en la etiqueta del frasco.
+- Tapar y agitar enérgicamente hasta que el polvo se haya suspendido en su totalidad.
+- Agregar nuevamente agua hasta alcanzar el nivel indicado por la marca mencionada y agitar nuevamente.
+De esta manera se obtiene el volumen final de la suspensión oral de AMOCLAV SE.
+Nota: agitar bien la suspensión oral antes de usar.
+
+Se olvidó de tomar AMOCLAV SE
+Si olvida tomar una dosis, tómela tan pronto como se acuerde. No debe tomar la siguiente dosis demasiado
+pronto, espere al menos 4 horas antes de tomar la siguiente dosis.
+
+4- A TENER EN CUENTA MIENTRAS TOMA AMOCLAV SE
+
+Efectos indeseables  (adversos)
+AMOCLAV SE generalmente es bien tolerado. La mayoría de los efectos colaterales observados en las pruebas
+clínicas pediátricas fueron leves o moderados, y de naturaleza temporal: el 4,4% de los pacientes discontinua-
+ron la terapia debido a efectos adversos relacionados con el fármaco.
+Los efectos adversos más frecuentes fueron dermatitis del pañal (3,5%), diarrea (2,9%), vómitos (2,2%), monilia-
+sis (14%) y erupción en piel (1,1%). Los efectos adversos más comunes que condujeron a la suspensión del
+tratamiento fueron diarrea (2,5%) y vómitos (1,4%).
+
+¿Cómo conservar AMOCLAV SE?
+- Conservar la suspensión reconstituida refrigerada. No congelar.
+- Descartar la suspensión sin usar luego de 10 días.
+- Conservar el polvo seco para suspensión oral en lugar seco, al abrigo de la luz, a   una temperatura por debajo
+de los 25°C.
+- Mantener en el envase original
+- Mantener alejado del alcance de los niños.
+
+Presentación
+Envases para preparar 140 ml de suspensión oral.
+
+Si Ud. toma dosis mayores de AMOCLAV SE de las que debiera
+Ante  la  eventualidad  de  una  sobredosificación,  concurrir  al  Hospital  más  cercano  o  comunicarse  con  los
+Centros  de  Toxicología:      Hospital  A.  Posadas:  (011)  4654-6648/4658-7777.    Hospital  de  Pediatría  Ricardo
+Gutiérrez: (011) 4962-6666/2247. - Optativamente otros Centros de Intoxicaciones.
+
+“Este medicamento ha sido prescripto sólo para su problema médico actual. No lo recomiende a otras
+personas”.
+“Ante cualquier inconveniente con el producto el paciente puede llenar la ficha que está en la Página
+Web de la ANMAT
+http://anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a
+ANMAT responde 0800-333-1234”
+
+Dirección Técnica: Dr. Luis M. Radici – Farmacéutico.
+MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD.
+Certificado N° 45.103.
+Laboratorios CASASCO S.A.I.C.
+Boyacá 237 - Ciudad Autónoma de Buenos Aires
+Elaborado en: Carlos Villate 5271, Munro, Pcia. de Buenos Aires.
+
+E-2830-01 / D3156 / Act.: 05/2017
+
+2
+
+3
+
+4

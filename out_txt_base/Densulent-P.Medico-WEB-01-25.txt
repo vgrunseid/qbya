@@ -1,0 +1,1856 @@
+DENSULENT®
+INSULINA GLARGINA 100 U/ml
+SOLUCION INYECTABLE
+- Vía S.C.-
+
+Venta bajo receta                                                                             Industria Argentina
+
+COMPOSICIÓN
+Cada ml de solución inyectable de DENSULENT® contiene:
+Insulina glargina 3.64 mg (equivalente a 100 U)
+Excipientes:  m-cresol,  Glicerina,  Cloruro  de  zinc,  Hidróxido  de  sodio,  Ácido  clorhídrico,  Agua  para
+inyectables c.s.p. 1 ml.
+
+ACCIÓN TERAPÉUTICA
+Agente antidiabético. Análogo de insulina de acción prolongada.
+Código ATC: A1OAE04 (insulina y análogos de acción prolongada).
+
+INDICACIONES
+Diabetes Mellitus, cuando el tratamiento con insulina sea requerido.
+
+CARACTERÍSTICAS FARMACOLOGICAS/PROPIEDADES
+Insulina glargina se produce mediante tecnología ADN-recombinante empleando Escherichia coli (cepa
+K12) como organismo de producción.
+a) FARMACODlNAMIA
+La insulina glargina es un análogo de la insulina humana, diseñado  para presentar una baja solubilidad
+en pH neutro. Con pH 4 (como en la solución inyectable de Densulent®) es completamente soluble.
+Tras su inyección en el tejido subcutáneo, la solución ácida se neutraliza y se forman microprecipitados
+de los que se liberan continuamente pequeñas cantidades de insulina glargina (la que da origen a un
+perfil concentración/tiempo predecible, uniforme, sin picos y con duración prolongada de acción).
+La insulina glargina es metabolizada en 2 metabolitos activos M1 y M2 (Léase FARMACOCINÉTlCA).
+Unión  al  receptor  de  insulina:  Estudios  in  vitro  indican  que  la  afinidad  de  la  insulina  glargina  y  sus
+metabolitos M1 y M2 por el receptor de insulina humana es similar a la de la insulina humana.
+Unión  al  receptor  de  IGF-1:  La  afinidad  de  la  insulina  glargina  por  el  receptor  humano  IGF-1  es
+aproximadamente  5  a  8  veces  mayor  que  la  de  la  insulina  humana  (pero  aproximadamente  70  a  80
+veces  menor  que  la  de  IGF-1),  mientras  que  M1  y  M2  se  unen  al  receptor  IGF-1  con  afinidad
+ligeramente menor comparados con insulina humana.
+La  concentración  total  de  insulina  terapéutica  (insulina  glargina  y  sus  metabolitos)  encontrada  en
+pacientes  con  diabetes  tipo  1  fue  marcadamente  menor  que  aquella  necesaria  para  una  ocupación
+media máxima del receptor IGF-1 y la subsecuente activación de la vía mitogénica-proliferativa; a pesar
+de  esto  las  concentraciones  terapéuticas  encontradas  en  la  terapia  con  insulina,  incluyendo  la  terapia
+con  insulina  glargina,  son  considerablemente  menores  que  las  concentraciones  farmacológicas
+requeridas para activar la vía IGF-1.
+En  estudios  de  farmacología  clínica,  el  uso  intravenoso  de  insulina  glargina  e  insulina  humana,
+demostró que eran equipotentes cuando se las administraba en las mismas dosis.
+En estudios de clampeo euglucémico llevados a cabo con sujetos sanos o pacientes con diabetes tipo
+1, el inicio de la acción de la insulina glargina subcutánea fue más lento que el de la insulina humana
+NPH. Su perfil de efecto fue uniforme y sin picos y la duración del efecto fue prolongada. En estudios
+clínicos con pacientes, el tiempo medio transcurrido desde la inyección de la droga hasta la terminación
+de su efecto farmacológico fue de 14,5 horas para la insulina NPH mientras que el tiempo medio para la
+insulina  glargina  fue  de  24  horas.  En  este  punto,  la  mayoría  de  los  pacientes  tratados  con  insulina
+glargina  seguía  presentando  una  respuesta,  lo  que  indica  una  duración  aún  más  prolongada  de  la
+acción (figura 1).
+Figura 1. Perfil de actividad en pacientes con diabetes Tipo 1
+
+n
+ó
+i
+c
+a
+z
+i
+l
+i
+t
+u
+e
+d
+a
+s
+a
+T
+
+i
+
+)
+n
+m
+/
+g
+k
+/
+g
+m
+8
+*
+a
+s
+o
+c
+u
+g
+e
+d
+
+l
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Insulina glargina
+
+Insulina NPH
+
+0
+
+10
+
+20
+
+30
+
+Tiempo (h) después de la inyección s.c.
+
+= Fin del período
+   de observación
+
+La  duración  más  prolongada  de  la  acción  de  la  insulina  glargina  guarda  relación  directa  con  su
+velocidad de absorción más lenta y justifica su administración una vez al día. La evolución temporal de
+la acción de la insulina y de análogos de insulina tales como la insulina glargina puede variar considera-
+blemente  de  una  persona  a  otra  o  en  una  misma  persona  pero,  debido  a  la  ausencia  de  un  pico,  es
+menos variable en la insulina glargina que en la insulina NPH.
+Un  estudio  de  clampeo  euglucémico  en  voluntarios  sanos  demostró  menor  variabilidad  intraindividual
+(día a día) en el perfil farmacodinámico de insulina glargina comparada con insulina humana ultralenta.
+Estudios de eficacia
+La  eficacia  global  de  la  insulina  glargina  (administrada  una  vez  al  día)  sobre  el  control  metabólico  se
+comparó con la de la insulina humana NPH (administrada una vez al día y dos veces al día) en estudios
+abiertos,  con  selección  al  azar,  paralelos,  con  control  activo  en  2327  pacientes  con  diabetes  mellitus
+tipo 1 y 1563 pacientes con diabetes mellitus tipo 2. En general la insulina glargina mantuvo o mejoró el
+nivel de control glucémico, determinado sobre la base de la hemoglobina glicosilada y la glucemia en
+ayunas.  Además,  comparados  con  los  pacientes  tratados  con  insulina  humana  NPH,  el  número  de
+pacientes tratados con insulina glargina que registró algún episodio hipoglucémico fue menor.
+Diabetes Tipo 1 en adultos
+En estudios fase III, los pacientes con diabetes tipo 1 (n=1119) se asignaron al azar al tratamiento basal
+en  bolo  con  insulina  glargina  una  vez  al  día  o  a  insulina  humana  NPH  una  o  dos  veces  al  día  y  se
+
+trataron durante 28 semanas. Se administró insulina humana regular antes de cada comida mientras
+que la insulina glargina se administró al acostarse. La insulina humana NPH se administró una vez al
+día, (al acostarse) o dos veces al día (a la mañana y al acostarse). La insulina glargina tuvo un efecto
+más prolongado de reducción de la glucosa en ayunas que la insulina humana NPH administrada dos
+veces al día, pero fue comparable a la insulina humana NPH dos veces al día en su efecto sobre la
+hemoglobina glicosilada y la incidencia de hipoglucemia nocturna y severa. Comparado con la insulina
+humana NPH una vez al día insulina glargina tuvo un efecto similar sobre la glucosa en ayunas y la
+hemoglobina glicosilada. Sin embargo, fueron menos los pacientes tratados con insulina glargina que
+registraron un episodio hipoglucémico severo después de la dosificación inicial a partir del mes 2 del
+estudio  (0.9%  vs.  5.6%.  p<0.05)  y  menos  pacientes  registraron  un  episodio  hipoglucémico  nocturno
+(11.0% vs. 21.3%, p<0.05). La hipoglucemia se registró con frecuencia similar durante el primer mes
+de los estudios después de iniciar el tratamiento con insulina glargina comparado con insulina humana
+NPH.
+Diabetes Tipo 2
+En  un  estudio  Fase  III  (n=570)  la  insulina  glargina  se  evaluó  durante  52  semanas  como  parte  de  un
+régimen  de  tratamiento  combinado  de  insulina  y  agentes  antidiabéticos  orales  (una  sulfonilurea,
+metformina, acarbosa o combinaciones de estas drogas). La insulina glargina administrada una vez al
+día al acostarse resultó ser tan efectiva como la insulina humana NPH administrada una vez al día al
+acostarse  en  la  reducción  de  hemoglobina  glicosilada  y  glucosa  en  ayunas.  Sin  embargo,  menos
+pacientes  tratados  con  insulina  glargina  registraron  algún  episodio  hipoglucémico  nocturno  tras  la
+dosificación inicial a partir del mes 2 del estudio. Esta ventaja de insulina glargina fue más pronunciada
+en el subgrupo de pacientes que no habían sido tratados anteriormente con insulina (insulina glargina:
+9.5%. insulina humana NPH: 22.8%; p<0.05).
+Diabetes Tipo 1 en niños
+En un estudio clínico controlado (estudio 3003), con selección al azar, pacientes pediátricos (rango de
+edades  entre  6  y  15  años)  con  diabetes  tipo  1  (n=349)  fueron  tratados  durante  28  semanas  con
+régimen  basal  en  bolo  donde  fue  usada  insulina  regular  antes  de  cada  comida.  Insulina  glargina  se
+administró  una  o  dos  veces  diarias  al  acostarse  y  la  insulina  humana  NPH  se  administró  una  o  dos
+veces  diarias.  Se  observaron  efectos  similares  sobre  la  hemoglobina  glicosilada  y  la  incidencia  de
+hipoglucemia en ambos grupos en tratamiento.
+b) FARMACOCINETlCA
+Después de la inyección subcutánea de insulina glargina en sujetos sanos y pacientes diabéticos, las
+concentraciones séricas de insulina indicaron una absorción más lenta y mucho más prolongada y una
+ausencia  de  picos  al  comparar  con  insulina  humana  NPH.  Las  concentraciones  fueron,  por  lo  tanto,
+coincidentes con el perfil de la actividad farmacodinámica de insulina glargina en función del tiempo.
+Tras la inyección subcutánea de 0.3 U/kg de insulina glargina en pacientes diabéticos, se comprobó un
+perfil concentración-tiempo uniforme, esto está reflejado también en el amplio rango de los valores de
+tmáx (entre 1.5 y 22.5 horas).
+Cuando  se  las  administró  por  vía  intravenosa,  los  perfiles  de  concentración  y  la  vida  media  de
+eliminación aparente de insulina glargina e insulina humana fueron comparables.
+No  se  observaron  diferencias  relevantes  en  los  niveles  de  insulina  sérica  tras  la  administración  de
+insulina glargina en el abdomen, el muslo o la región deltoidea.
+La insulina glargina presenta una menor variabilidad intrasujeto e intrasujetos en el prefil farmacocinéti-
+co, comparada con la insulina humana ultralenta.
+Luego  de  la  inyección  subcutánea  de  insulina  glargina  en  sujetos  sanos  y  pacientes  diabéticos,  la
+insulina glargina es rápidamente metabolizada en el carboxilo terminal de la cadena B con formación
+de  dos  metabolitos  activos:  M1  (21A-Gli-insulina)  y  M2  (21A-Gli-des-30B-Tir-insulina).  En  plasma,  el
+compuesto circulante principal es el metabolito M1. La exposición a M1 se incrementa con la dosis de
+administración de insulina glargina. Los hallazgos farmacocinéticos y farmacodinámicos indican que el
+efecto de la inyección subcutánea de insulina glargina está basado principalmente en la exposición a
+M  1.  Insulina  glargina  y  su  metabolito  M2  no  fueron  detectados  en  la  gran  mayoría  de  los  sujetos,  y
+cuando  fueron  detectados,  su  concentración  fue  independiente  de  la  dosis  de  insulina  glargina
+administrada.
+Edad y sexo
+Se carece de información acerca del efecto de la edad y el sexo sobre la farmacocinética de insulina
+glargina.  Sin  embargo,  en  estudios  clínicos  de  gran envergadura,  los análisis de subgrupos basados
+en la edad y el sexo no sugirieron diferencia alguna de seguridad y eficacia en los pacientes tratados
+con insulina glargina respecto de la totalidad de la población del estudio. Lo mismo es válido para los
+pacientes tratados con NPH.
+Tabaquismo
+En  los  estudios  clínicos,  un  análisis  de  subgrupos  no  demostró  diferencia  alguna  en  la  seguridad  y
+eficacia de insulina glargina entre el grupo de fumadores y la población total del estudio. Lo mismo es
+válido para los pacientes tratados con NPH.
+Obesidad
+En  los  estudios  clínicos,  un  análisis  de  subgrupos  basado  en  el  Índice  de  Masa  Corporal  (IMe)  no
+demostró diferencia alguna en la seguridad y eficacia de insulina glargina en este grupo de pacientes
+comparado con la población total del estudio. Lo mismo es válido para la insulina NPH.
+Niños:
+La  farmacocinética  en  niños  con  edades  de  2  a  menos  de  6  años  con  diabetes  mellitus  tipo  1  fue
+evaluada  en  un  estudio  clínico.  Los  niveles  plasmáticos  en  valle  de  insulina  glargina  y  de  sus
+principales  metabolitos  M1  y  M2  fue  medida  en  los  niños  tratados  con  insulina  glargina,  revelando
+patrones de concentración plasmática similares a los adultos, y proporcionando ninguna evidencia de
+acumulación de la insulina glargina o sus metabolitos con la administración crónica.
+Deterioro renal:
+No estudiado (Léase "Precauciones y advertencias').
+Deterioro hepático:
+No estudiado (Léase "Precauciones y advertencias')
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+Insulina  glargina  es  un  nuevo  análogo  de  insulina  humana  recombinante,  equipotente  a  la  insulina
+humana.  Presenta  un  perfil  hipoglucemiante  sin  picos  y  una  prolongada  duración  de  la  acción.
+DENSULENT® se administra de manera subcutánea una vez al día. En adultos puede administrarse
+en  cualquier  momento  del  día,  pero  siempre  a  la  misma  hora  cada  día.  Se  administra  por  inyección
+subcutánea  en  la  pared  abdominal,  el  muslo,  la  región  superior  del  brazo,  la  región  deltoidea  o  la
+región  glútea.  Los  sitios  de  inyección  deben  ser  siempre  rotados  dentro  de  la  misma  región  a  fin  de
+reducir el riesgo de lipodistrofia y amiloidosis cutánea.
+En  niños  sólo  fue  estudiada  la  administración  por  la  noche.  La  seguridad  y  la  eficacia  de  insulina
+glargina ha sido establecida en adolescentes y niños de 2 años y mayores. La administración a niños
+menores de 2 años no ha sido estudiada. Los niveles glucémicos deseados así como las dosis y los
+
+intervalos de las medicaciones antidiabéticas deben determinarse y ajustarse individualmente.
+Pueden ser necesarios ajustes de dosis, por ejemplo si cambian el peso o el estilo de vida del paciente,
+si se modifican los intervalos de la dosificación o si aparecen circunstancias que puedan incrementar la
+susceptibilidad a la hipo e hiperglucemia (Léase "Precauciones y advertencias'). Cualquier cambio en la
+dosificación  de  insulina  debe  ser  hecho  con  cautela  y  con  supervisión  médica.  La  potencia  de  este
+medicamento se establece en unidades (U). Estas unidades son exclusivas de insulina glargina y no son
+las mismas que las UI (unidades internacionales) o las unidades utilizadas para expresar la potencia de
+otros análogos de insulina.
+Insulina glargina no está indicada para el tratamiento de la cetoacidosis diabética. En este caso debería
+preferirse una insulina intravenosa de acción rápida y breve.
+En los regímenes basal/bolo, normalmente un 40 a 60 % de la dosis diaria se administra como insulina
+glargina para cubrir las necesidades basales de insulina.
+En  un  estudio  clínico  con  pacientes  diabéticos  tipo  2  tratados  con  agentes  antidiabéticos  orales,  el
+tratamiento combinado se inició con una dosis de 10 U de insulina glargina una vez al día y se ajustó
+luego individualmente el régimen de tratamiento.
+Se recomienda el control de la glucosa sanguínea en todos los pacientes con diabetes.
+• Uso pediátrico
+El  perfil  de  seguridad  para  pacientes  menores  o  iguales  de  18  años  de  edad  es  similar  al  perfil  de
+seguridad  en  pacientes  mayores  de  18  años.  No  hay  datos  sobre  seguridad  disponibles  en  estudios
+clínicos en pacientes menores de 2 años de edad.
+• Uso en personas mayores
+Para evitar reacciones hipoglucémicas, se recomienda ser moderado al establecer la dosificación inicial,
+los incrementos de dosis y la dosis de mantenimiento en personas mayores con diabetes. La hipogluce-
+mia puede ser difícil de determinar en los adultos mayores. (Léase "Precauciones y Advertencias).
+• Cambio desde otra insulina a DENSULENT®
+Cuando  se  pasa  de  un  régimen  de  tratamiento  con  una  insulina  de  acción  intermedia  o  con  otra  de
+acción prolongada a un régimen con insulina glargina, es posible que deban ajustarse la cantidad y los
+intervalos  de  administración  de  una  insulina  de  acción  breve  o  de  un  análogo  de  insulina  de  acción
+rápida o de la dosis de cualquier medicamento antidiabético oral.
+Para reducir el riesgo de hipoglucemia, cuando un paciente es transferido de una dosis diaria de insulina
+glargina  300  U/ml  a  una  dosis  diaria  de  insulina  glargina,  la  dosis  inicial  recomendada  de  insulina
+glargina, debe ser del 80% de la insulina glargina 300 U/ml que está siendo discontinuada.
+En estudios clínicos, cuando los pacientes se transfirieron de un régimen de administración una vez al
+día de insulina NPH o insulina ultralenta a insulina glargina una vez al día, en general no se modificó la
+dosis inicial (es decir, cantidad de Unidades - U de insulina glargina por día equivalente a Ul de insulina
+NPH).
+En estudios en los que los pacientes se transfirieron de insulina NPH dos veces al día a insulina glargina
+una  vez  al  día  al  acostarse,  para  disminuir  el  riesgo  de  hipoglucemia  la  dosis  inicial  (U)  de  insulina
+glargina se redujo habitualmente en  20% en comparación con la cantidad diaria total de Ul de insulina
+NPH, ajustándose luego sobre la base de la respuesta del paciente.
+Se  recomienda  un  programa  de  estricto  monitoreo  metabólico  bajo  supervisión  médica  durante  la
+transferencia  y  en  las  primeras  semanas  posteriores  a  esta. Al  igual  que  con  todos  los  análogos  de
+insulina,  esto  es  particularmente  aplicable  a  pacientes  que  debido  a  anticuerpos  a  la  insulina  humana
+requieren  dosis  elevadas  de  insulina  y  cuya  respuesta  a  ella  puede  experimentar  una  notable  mejoría
+con  insulina  glargina. Al  mejorar  el  control  metabólico  y  la  mayor  sensibilidad  a  la  insulina  resultante
+(reducción de las necesidades de insulina), pueden tornarse necesarios mayores ajustes de las dosis
+de insulina glargina y otras insulinas o fármacos antidiabéticos orales del régimen.
+• Administración
+Revisar  el  producto  antes  de  usarlo.  Solo  debe  utilizarse  si  la  solución  es  límpida  e  incolora,  sin
+partículas  visibles  y  si  su  consistencia  es  acuosa.  Insulina  glargina  es  una  solución  límpida,  no  una
+suspensión.  Como  tal,  no  requiere  resuspensión  antes  de  su  uso.  Insulina  glargina  se  administra
+mediante  inyección  en  el  tejido  subcutáneo.  Insulina  glargina  no  está  destinada  a  la  administración
+intravenosa.
+La  duración  prolongada  de  la  actividad  de  insulina  glargina  depende  de  su  inyección  en  el  espacio
+subcutáneo. La administración intravenosa de la dosis subcutánea habitual puede provocar hipogluce-
+mia severa.
+DENSULENT®  se  administra  por  inyección  subcutánea  en  la  pared  abdominal,  el  muslo,  la  región
+superior  del  brazo,  la  región  deltoidea  o  la  región  glútea.  Los  sitios  de  inyección  deben  ser  siempre
+rotados dentro de la misma región a fin de reducir el riesgo de lipodistrofia y amiloidosis cutánea.
+No  existen  diferencias  de  absorción  de  la  insulina  glargina  entre  las  zonas  de  inyección  subcutánea
+abdominal,  deltoidea  o  glútea.  Al  igual  que  con  todas  las  insulinas,  la  velocidad  de  absorción  y,  en
+consecuencia,  el  inicio  y  la  duración  de  la  acción  pueden  verse  afectados  por  el  ejercicio  y  otras
+variables.
+Lapicera DensuPen®: ver instrucciones de uso al final del texto.
+En el caso de utilizar jeringas, la misma no debe contener ningún otro producto medicinal o residuo.
+• Mezcla, dilución
+DENSULENT®  no  debe  mezclarse  con  ninguna  otra  insulina.  La  mezcla  puede  modificar  el  perfil  de
+tiempo/acción de insulina glargina y provocar precipitación.
+DENSULENT®  no  debe  diluirse.  Su  dilución  puede  modificar  el  perfil  de  tiempo/acción  de  insulina
+glargina.
+
+CONTRAINDICACIONES
+Pacientes con hipersensibilidad conocida a insulina glargina o a cualquiera de los excipientes.
+
+ADVERTENCIAS Y PRECAUCIONES
+• Generales
+Los pacientes deben ser instruidos a realizar una rotación continua del sitio de inyección a fin de reducir
+el  riesgo  de  desarrollar  lipodistrofia  y  amiloidosis  cutánea.  Existe  un  riesgo  potencial  de  retraso  en  la
+absorción  de  la  insulina  y  empeoramiento  del  control  glucémico  luego  de  inyecciones  de  Insulina  en
+sitios con estas reacciones. Se ha reportado que un cambio súbito del sitio de inyección a un área no
+afectada  resultó  en  hipoglucemia.  Posteriormente  al  cambio  en  el  sitio  de  inyección  se  recomienda  el
+monitoreo de la glucemia y puede ser considerado un ajuste de dosis de la medicación antidiabética.
+La  insulinoterapia  requiere  generalmente  la  capacidad  de  manejar  correctamente  la  diabetes  por  uno
+mismo. Esto incluye el monitoreo de la glucemia, una técnica de inyección apropiada y el manejo de la
+hipoglucemia  e  hiperglucemia.  Debe  instruirse  a  los  pacientes  sobre  las  medidas  a  adoptar  en  dichos
+casos. Además, debe instruirse a los pacientes en el manejo de situaciones especiales, tales como una
+dosis de insulina insuficiente u omitida, la administración accidental de una dosis mayor de insulina, un
+consumo insuficiente de alimentos o el hecho de saltearse comidas.
+El  grado  de  participación  del  paciente  en  el  manejo  de  su  diabetes  es  variable  y  generalmente  es
+determinado por el médico.
+
+El  tratamiento  insulínico  requiere  un  estado  de  alerta  constante  a  la  posibilidad  de  hiperglucemia  e
+
+hipoglucemia.  Los  pacientes  y  sus  relaciones  cercanas  deben  conocer  las  medidas  a  adoptar  en
+
+presencia  de  hiperglucemia  o  hipoglucemia  o  cuando  se  sospeche  alguna  de  ellas,  y  deben  saber
+
+cuándo informar a un médico.
+
+En  caso  de  control  insuficiente  de  la  glucemia  o  de  una  tendencia  a  episodios  de  hiperglucemia  o
+
+hipoglucemia,  antes  de  considerar  un  ajuste  de  la  dosis  debe  investigarse  el  cumplimiento  del
+
+paciente  con  el  régimen  insulínico  prescrito,  los  lugares  de  inyección  y  las  técnicas  de  inyección
+
+adecuadas, la manipulación de dispositivos de inyección y demás factores relevantes.
+
+• Hipoglucemia
+
+El  momento  en  el  que  se  presenta  una  hipoglucemia  depende  del  perfil  de  acción  de  las  insulinas
+
+usadas y puede, por ende, modificarse cuando se cambia el régimen de tratamiento.
+
+Al  igual  que  con  todas  las  insulinas,  debe  actuarse  con  especial  precaución  y  es  aconsejable  una
+
+intensificación  del  monitoreo  glucémico  en  pacientes  en  los  cuales  las  secuelas  de  los  episodios
+
+hipoglucémicos  podrían  revestir  particular  relevancia  clínica.  Este  sería  el  caso,  por  ejemplo,  de
+
+pacientes con estenosis significativas de las arterias coronarias o de los vasos sanguíneos que irrigan
+
+el  cerebro  (riesgo  de  complicaciones  cardiacas  o  cerebrales  de  la  hipoglucemia),  así  como  de
+
+pacientes con retinopatía proliferativa, especialmente si no se los trata con fotocoagulación (riesgo de
+
+amaurosis transitoria como consecuencia de hipoglucemia).
+
+En un estudio clínico, los síntomas de hipoglucemia o las respuestas hormonales contrarregulatorias
+
+fueron similares tras la administración intravenosa de insulina glargina e insulina humana, ambas en
+
+voluntarios sanos y pacientes con diabetes tipo 1. Sin embargo, en determinadas circunstancias y al
+
+igual  que  con  todas  las  insulinas,  los  síntomas  de  aviso  de  la  hipoglucemia  pueden  cambiar,  ser
+
+menos pronunciados o desaparecer, por ejemplo:
+
+-cuando el control glucémico presenta una notable mejoría,
+
+-cuando la hipoglucemia se desarrolla gradualmente,
+
+-en pacientes de edad avanzada,
+
+-en presencia de una neuropatía autónoma,
+
+-en pacientes con una larga historia de diabetes,
+
+-en pacientes que padecen una enfermedad psiquiátrica,
+
+-en pacientes tratados concomitantemente con determinadas drogas (Léase "Interacciones”).
+
+Dichas situaciones pueden dar lugar a hipoglucemia severa (y eventualmente, pérdida de la conscien-
+
+cia) antes de que el paciente tome conciencia de la hipoglucemia.
+
+El efecto prolongado de la insulina glargina subcutánea puede retardar la recuperación en caso
+
+de hipoglucemia.
+
+Cuando se advierten valores normales o reducidos de hemoglobina glicosilada, debe considerarse la
+
+posibilidad de episodios recurrentes, no reconocidos (especialmente nocturnos), de hipoglucemia.
+
+El  cumplimiento  del  paciente  con  el  régimen  de  dosificación  y  el  régimen  dietario,  la  correcta
+
+administración  de  insulina  y  el  conocimiento  de  los  síntomas  de  hipoglucemia  son  esenciales  para
+
+reducir el riesgo de hipoglucemia.
+
+Entre  los  factores  que  aumentan  la  susceptibilidad  a  la  hipoglucemia,  que  requieren  un  monitoreo
+
+particularmente estricto, y que pueden hacer necesario un ajuste de la dosis figuran:
+
+-cambio en la zona de inyección,
+
+-aumento de la sensibilidad a la insulina (por ej., por eliminación de factores de estrés),
+
+-actividad física desacostumbrada, más intensa o prolongada,
+
+-enfermedad intercurrente (por ej., vómitos, diarrea),
+
+-consumo inadecuado de alimentos,
+
+-consumo de alcohol,
+
+-determinados trastornos endócrinos no compensados y
+
+-tratamiento concomitante con determinados medicamentos.
+
+En pacientes con deterioro renal, las necesidades de insulina pueden reducirse debido a la reducción
+
+del metabolismo insulínico. En las personas de edad avanzada, el progresivo deterioro de la función
+
+renal puede provocar una reducción constante de las necesidades de insulina.
+
+En pacientes con deterioro hepático severo, las necesidades de insulina pueden disminuir debido a la
+
+reducida capacidad de gluconeogénesis y a la reducción del metabolismo insulínico.
+
+En general, la hipoglucemia puede corregirse mediante la ingestión inmediata de carbohidratos. Para
+
+que  pueda  llevarse  a  cabo  inmediatamente  la  acción  correctiva,  los  pacientes  deben  llevar  siempre
+
+consigo, como mínimo, 20 gramos de carbohidratos.
+
+Enfermedad intercurrente
+
+Toda  enfermedad  intercurrente  requiere  una  intensificación  del  monitoreo  metabólico.  En  muchos
+
+casos,  están  indicados  los  análisis  de  orina  para  la  determinación  de  cuerpos  cetónicos  y  con
+
+frecuencia es necesario un ajuste de la dosis de insulina. El requerimiento insulínico está, a menudo,
+
+incrementado. En pacientes con diabetes tipo 1, debe mantenerse el suministro de carbohidratos aún
+
+cuando los pacientes sólo estén en condiciones de comer poco o ningún alimento o vomiten, etc.; en
+
+los pacientes con diabetes tipo 1 nunca debe suprimirse totalmente la insulina.
+
+Conducción de vehículos o realización de tareas riesgosas
+
+El  poder  de  concentración  y  reacción  del  paciente  puede  deteriorarse  como  consecuencia,  por
+
+ejemplo,  de  hipoglucemia  o  hiperglucemia  o,  por  ejemplo,  como  consecuencia  del  deterioro  de  la
+
+visión. Esto puede constituir un riesgo en situaciones en las que estas habilidades revisten particular
+
+importancia (por ej., para conducir un vehículo u operar maquinaria).
+
+Debe  aconsejarse  a  los  pacientes  para  que  tomen  precauciones  a  fin  de  evitar  la  hipoglucemia
+
+mientras conducen. Esto reviste particular importancia en los pacientes cuya toma de conciencia de
+
+los  síntomas  de  aviso  de  la  hipoglucemia  es  reducida  o  inexistente  o  en  aquellos  que  padecen
+
+frecuentes episodios de hipoglucemia. En estas circunstancias debería considerarse la conveniencia
+
+de conducir.
+
+INTERACCIONES
+
+Una serie de sustancias afectan el metabolismo de la glucosa y pueden hacer necesario un ajuste de
+
+la dosis de insulina y un monitoreo particularmente estricto.
+
+- Los que siguen son ejemplos de sustancias que pueden incrementar el efecto hipoglucemiante
+
+y  la  susceptibilidad  a  la  hipoglucemia:  antidiabéticos  orales,  inhibidores  de  la  ECA,  salicilatos,
+
+disopiramida, fibratos, fluoxetina, inhibidores de la MAO, pentoxifilina, propoxifeno, antibióticos.
+
+- Los que siguen son ejemplos de sustancias que pueden reducir el efecto hipoglucemiante:
+
+corticoesteroides, danazol, diazóxido, diuréticos, agentes simpaticomiméticos (tales como epinefrina,
+
+salbutamol,  terbutalina),  glucagón,  isoniazida,  derivados  de  fenotiazina,  somatropina,  hormonas
+
+tiroideas, estrógenos, progestágenos (por ej., en anticonceptivos orales), inhibidores de la proteasa y
+
+medicaciones antipsicóticas atípicas (por ej., olanzapina y clozapina).
+
+CARACTERÍSTICAS FARMACOLOGICAS/PROPIEDADES
+
+Insulina glargina se produce mediante tecnología ADN-recombinante empleando Escherichia coli (cepa
+
+9.5%. insulina humana NPH: 22.8%; p<0.05).
+
+Diabetes Tipo 1 en niños
+
+DENSULENT®
+
+INSULINA GLARGINA 100 U/ml
+
+SOLUCION INYECTABLE
+
+- Vía S.C.-
+
+Venta bajo receta                                                                             Industria Argentina
+
+Excipientes:  m-cresol,  Glicerina,  Cloruro  de  zinc,  Hidróxido  de  sodio,  Ácido  clorhídrico,  Agua  para
+
+COMPOSICIÓN
+
+Cada ml de solución inyectable de DENSULENT® contiene:
+
+Insulina glargina 3.64 mg (equivalente a 100 U)
+
+inyectables c.s.p. 1 ml.
+
+ACCIÓN TERAPÉUTICA
+
+Agente antidiabético. Análogo de insulina de acción prolongada.
+
+Código ATC: A1OAE04 (insulina y análogos de acción prolongada).
+
+INDICACIONES
+
+Diabetes Mellitus, cuando el tratamiento con insulina sea requerido.
+
+K12) como organismo de producción.
+
+a) FARMACODlNAMIA
+
+La insulina glargina es un análogo de la insulina humana, diseñado  para presentar una baja solubilidad
+
+en pH neutro. Con pH 4 (como en la solución inyectable de Densulent®) es completamente soluble.
+
+Tras su inyección en el tejido subcutáneo, la solución ácida se neutraliza y se forman microprecipitados
+
+de los que se liberan continuamente pequeñas cantidades de insulina glargina (la que da origen a un
+
+perfil concentración/tiempo predecible, uniforme, sin picos y con duración prolongada de acción).
+
+La insulina glargina es metabolizada en 2 metabolitos activos M1 y M2 (Léase FARMACOCINÉTlCA).
+
+Unión  al  receptor  de  insulina:  Estudios  in  vitro  indican  que  la  afinidad  de  la  insulina  glargina  y  sus
+
+metabolitos M1 y M2 por el receptor de insulina humana es similar a la de la insulina humana.
+
+Unión  al  receptor  de  IGF-1:  La  afinidad  de  la  insulina  glargina  por  el  receptor  humano  IGF-1  es
+
+aproximadamente  5  a  8  veces  mayor  que  la  de  la  insulina  humana  (pero  aproximadamente  70  a  80
+
+veces  menor  que  la  de  IGF-1),  mientras  que  M1  y  M2  se  unen  al  receptor  IGF-1  con  afinidad
+
+ligeramente menor comparados con insulina humana.
+
+La  concentración  total  de  insulina  terapéutica  (insulina  glargina  y  sus  metabolitos)  encontrada  en
+
+pacientes  con  diabetes  tipo  1  fue  marcadamente  menor  que  aquella  necesaria  para  una  ocupación
+
+media máxima del receptor IGF-1 y la subsecuente activación de la vía mitogénica-proliferativa; a pesar
+
+de  esto  las  concentraciones  terapéuticas  encontradas  en  la  terapia  con  insulina,  incluyendo  la  terapia
+
+con  insulina  glargina,  son  considerablemente  menores  que  las  concentraciones  farmacológicas
+
+requeridas para activar la vía IGF-1.
+
+En  estudios  de  farmacología  clínica,  el  uso  intravenoso  de  insulina  glargina  e  insulina  humana,
+
+demostró que eran equipotentes cuando se las administraba en las mismas dosis.
+
+En estudios de clampeo euglucémico llevados a cabo con sujetos sanos o pacientes con diabetes tipo
+
+1, el inicio de la acción de la insulina glargina subcutánea fue más lento que el de la insulina humana
+
+NPH. Su perfil de efecto fue uniforme y sin picos y la duración del efecto fue prolongada. En estudios
+
+clínicos con pacientes, el tiempo medio transcurrido desde la inyección de la droga hasta la terminación
+
+de su efecto farmacológico fue de 14,5 horas para la insulina NPH mientras que el tiempo medio para la
+
+insulina  glargina  fue  de  24  horas.  En  este  punto,  la  mayoría  de  los  pacientes  tratados  con  insulina
+
+glargina  seguía  presentando  una  respuesta,  lo  que  indica  una  duración  aún  más  prolongada  de  la
+
+acción (figura 1).
+
+Figura 1. Perfil de actividad en pacientes con diabetes Tipo 1
+
+trataron durante 28 semanas. Se administró insulina humana regular antes de cada comida mientras
+
+que la insulina glargina se administró al acostarse. La insulina humana NPH se administró una vez al
+
+día, (al acostarse) o dos veces al día (a la mañana y al acostarse). La insulina glargina tuvo un efecto
+
+más prolongado de reducción de la glucosa en ayunas que la insulina humana NPH administrada dos
+
+veces al día, pero fue comparable a la insulina humana NPH dos veces al día en su efecto sobre la
+
+hemoglobina glicosilada y la incidencia de hipoglucemia nocturna y severa. Comparado con la insulina
+
+humana NPH una vez al día insulina glargina tuvo un efecto similar sobre la glucosa en ayunas y la
+
+hemoglobina glicosilada. Sin embargo, fueron menos los pacientes tratados con insulina glargina que
+
+registraron un episodio hipoglucémico severo después de la dosificación inicial a partir del mes 2 del
+
+estudio  (0.9%  vs.  5.6%.  p<0.05)  y  menos  pacientes  registraron  un  episodio  hipoglucémico  nocturno
+
+(11.0% vs. 21.3%, p<0.05). La hipoglucemia se registró con frecuencia similar durante el primer mes
+
+de los estudios después de iniciar el tratamiento con insulina glargina comparado con insulina humana
+
+NPH.
+
+Diabetes Tipo 2
+
+En  un  estudio  Fase  III  (n=570)  la  insulina  glargina  se  evaluó  durante  52  semanas  como  parte  de  un
+
+régimen  de  tratamiento  combinado  de  insulina  y  agentes  antidiabéticos  orales  (una  sulfonilurea,
+
+metformina, acarbosa o combinaciones de estas drogas). La insulina glargina administrada una vez al
+
+día al acostarse resultó ser tan efectiva como la insulina humana NPH administrada una vez al día al
+
+acostarse  en  la  reducción  de  hemoglobina  glicosilada  y  glucosa  en  ayunas.  Sin  embargo,  menos
+
+pacientes  tratados  con  insulina  glargina  registraron  algún  episodio  hipoglucémico  nocturno  tras  la
+
+dosificación inicial a partir del mes 2 del estudio. Esta ventaja de insulina glargina fue más pronunciada
+
+en el subgrupo de pacientes que no habían sido tratados anteriormente con insulina (insulina glargina:
+
+En un estudio clínico controlado (estudio 3003), con selección al azar, pacientes pediátricos (rango de
+
+edades  entre  6  y  15  años)  con  diabetes  tipo  1  (n=349)  fueron  tratados  durante  28  semanas  con
+
+régimen  basal  en  bolo  donde  fue  usada  insulina  regular  antes  de  cada  comida.  Insulina  glargina  se
+
+administró  una  o  dos  veces  diarias  al  acostarse  y  la  insulina  humana  NPH  se  administró  una  o  dos
+
+veces  diarias.  Se  observaron  efectos  similares  sobre  la  hemoglobina  glicosilada  y  la  incidencia  de
+
+hipoglucemia en ambos grupos en tratamiento.
+
+b) FARMACOCINETlCA
+
+Después de la inyección subcutánea de insulina glargina en sujetos sanos y pacientes diabéticos, las
+
+concentraciones séricas de insulina indicaron una absorción más lenta y mucho más prolongada y una
+
+ausencia  de  picos  al  comparar  con  insulina  humana  NPH.  Las  concentraciones  fueron,  por  lo  tanto,
+
+coincidentes con el perfil de la actividad farmacodinámica de insulina glargina en función del tiempo.
+
+Tras la inyección subcutánea de 0.3 U/kg de insulina glargina en pacientes diabéticos, se comprobó un
+
+perfil concentración-tiempo uniforme, esto está reflejado también en el amplio rango de los valores de
+
+tmáx (entre 1.5 y 22.5 horas).
+
+Cuando  se  las  administró  por  vía  intravenosa,  los  perfiles  de  concentración  y  la  vida  media  de
+
+eliminación aparente de insulina glargina e insulina humana fueron comparables.
+
+No  se  observaron  diferencias  relevantes  en  los  niveles  de  insulina  sérica  tras  la  administración  de
+
+insulina glargina en el abdomen, el muslo o la región deltoidea.
+
+La insulina glargina presenta una menor variabilidad intrasujeto e intrasujetos en el prefil farmacocinéti-
+
+co, comparada con la insulina humana ultralenta.
+
+Luego  de  la  inyección  subcutánea  de  insulina  glargina  en  sujetos  sanos  y  pacientes  diabéticos,  la
+
+insulina glargina es rápidamente metabolizada en el carboxilo terminal de la cadena B con formación
+
+de  dos  metabolitos  activos:  M1  (21A-Gli-insulina)  y  M2  (21A-Gli-des-30B-Tir-insulina).  En  plasma,  el
+
+compuesto circulante principal es el metabolito M1. La exposición a M1 se incrementa con la dosis de
+
+administración de insulina glargina. Los hallazgos farmacocinéticos y farmacodinámicos indican que el
+
+efecto de la inyección subcutánea de insulina glargina está basado principalmente en la exposición a
+
+M  1.  Insulina  glargina  y  su  metabolito  M2  no  fueron  detectados  en  la  gran  mayoría  de  los  sujetos,  y
+
+cuando  fueron  detectados,  su  concentración  fue  independiente  de  la  dosis  de  insulina  glargina
+
+administrada.
+
+Edad y sexo
+
+pacientes tratados con NPH.
+
+Tabaquismo
+
+Se carece de información acerca del efecto de la edad y el sexo sobre la farmacocinética de insulina
+
+glargina. Sin embargo, en estudios clínicos de gran envergadura, los análisis  de  subgrupos  basados
+
+en la edad y el sexo no sugirieron diferencia alguna de seguridad y eficacia en los pacientes tratados
+
+con insulina glargina respecto de la totalidad de la población del estudio. Lo mismo es válido para los
+
+La  duración  más  prolongada  de  la  acción  de  la  insulina  glargina  guarda  relación  directa  con  su
+
+velocidad de absorción más lenta y justifica su administración una vez al día. La evolución temporal de
+
+la acción de la insulina y de análogos de insulina tales como la insulina glargina puede variar considera-
+
+blemente  de  una  persona  a  otra  o  en  una  misma  persona  pero,  debido  a  la  ausencia  de  un  pico,  es
+
+menos variable en la insulina glargina que en la insulina NPH.
+
+Un  estudio  de  clampeo  euglucémico  en  voluntarios  sanos  demostró  menor  variabilidad  intraindividual
+
+(día a día) en el perfil farmacodinámico de insulina glargina comparada con insulina humana ultralenta.
+
+Estudios de eficacia
+
+La  eficacia  global  de  la  insulina  glargina  (administrada  una  vez  al  día)  sobre  el  control  metabólico  se
+
+comparó con la de la insulina humana NPH (administrada una vez al día y dos veces al día) en estudios
+
+abiertos,  con  selección  al  azar,  paralelos,  con  control  activo  en  2327  pacientes  con  diabetes  mellitus
+
+tipo 1 y 1563 pacientes con diabetes mellitus tipo 2. En general la insulina glargina mantuvo o mejoró el
+
+nivel de control glucémico, determinado sobre la base de la hemoglobina glicosilada y la glucemia en
+
+ayunas.  Además,  comparados  con  los  pacientes  tratados  con  insulina  humana  NPH,  el  número  de
+
+pacientes tratados con insulina glargina que registró algún episodio hipoglucémico fue menor.
+
+Diabetes Tipo 1 en adultos
+
+En estudios fase III, los pacientes con diabetes tipo 1 (n=1119) se asignaron al azar al tratamiento basal
+
+en  bolo  con  insulina  glargina  una  vez  al  día  o  a  insulina  humana  NPH  una  o  dos  veces  al  día  y  se
+
+En  los  estudios  clínicos,  un  análisis  de  subgrupos  no  demostró  diferencia  alguna  en  la  seguridad  y
+
+eficacia de insulina glargina entre el grupo de fumadores y la población total del estudio. Lo mismo es
+
+variables.
+
+válido para los pacientes tratados con NPH.
+
+Obesidad
+
+Niños:
+
+En  los  estudios  clínicos,  un  análisis  de  subgrupos  basado  en  el  Índice  de  Masa  Corporal  (IMe)  no
+
+demostró diferencia alguna en la seguridad y eficacia de insulina glargina en este grupo de pacientes
+
+comparado con la población total del estudio. Lo mismo es válido para la insulina NPH.
+
+La  farmacocinética  en  niños  con  edades  de  2  a  menos  de  6  años  con  diabetes  mellitus  tipo  1  fue
+
+evaluada  en  un  estudio  clínico.  Los  niveles  plasmáticos  en  valle  de  insulina  glargina  y  de  sus
+
+principales  metabolitos  M1  y  M2  fue  medida  en  los  niños  tratados  con  insulina  glargina,  revelando
+
+patrones de concentración plasmática similares a los adultos, y proporcionando ninguna evidencia de
+
+acumulación de la insulina glargina o sus metabolitos con la administración crónica.
+
+No estudiado (Léase "Precauciones y advertencias').
+
+Deterioro renal:
+
+Deterioro hepático:
+
+No estudiado (Léase "Precauciones y advertencias')
+
+POSOLOGÍA Y MODO DE ADMINISTRACIÓN
+
+Insulina  glargina  es  un  nuevo  análogo  de  insulina  humana  recombinante,  equipotente  a  la  insulina
+
+humana.  Presenta  un  perfil  hipoglucemiante  sin  picos  y  una  prolongada  duración  de  la  acción.
+
+DENSULENT® se administra de manera subcutánea una vez al día. En adultos puede administrarse
+
+en  cualquier  momento  del  día,  pero  siempre  a  la  misma  hora  cada  día.  Se  administra  por  inyección
+
+subcutánea  en  la  pared  abdominal,  el  muslo,  la  región  superior  del  brazo,  la  región  deltoidea  o  la
+
+región  glútea.  Los  sitios  de  inyección  deben  ser  siempre  rotados  dentro  de  la  misma  región  a  fin  de
+
+reducir el riesgo de lipodistrofia y amiloidosis cutánea.
+
+En  niños  sólo  fue  estudiada  la  administración  por  la  noche.  La  seguridad  y  la  eficacia  de  insulina
+
+glargina ha sido establecida en adolescentes y niños de 2 años y mayores. La administración a niños
+
+menores de 2 años no ha sido estudiada. Los niveles glucémicos deseados así como las dosis y los
+
+intervalos de las medicaciones antidiabéticas deben determinarse y ajustarse individualmente.
+
+Pueden ser necesarios ajustes de dosis, por ejemplo si cambian el peso o el estilo de vida del paciente,
+
+si se modifican los intervalos de la dosificación o si aparecen circunstancias que puedan incrementar la
+
+susceptibilidad a la hipo e hiperglucemia (Léase "Precauciones y advertencias'). Cualquier cambio en la
+
+dosificación  de  insulina  debe  ser  hecho  con  cautela  y  con  supervisión  médica.  La  potencia  de  este
+
+medicamento se establece en unidades (U). Estas unidades son exclusivas de insulina glargina y no son
+
+las mismas que las UI (unidades internacionales) o las unidades utilizadas para expresar la potencia de
+
+otros análogos de insulina.
+
+Insulina glargina no está indicada para el tratamiento de la cetoacidosis diabética. En este caso debería
+
+preferirse una insulina intravenosa de acción rápida y breve.
+
+En los regímenes basal/bolo, normalmente un 40 a 60 % de la dosis diaria se administra como insulina
+
+glargina para cubrir las necesidades basales de insulina.
+
+En  un  estudio  clínico  con  pacientes  diabéticos  tipo  2  tratados  con  agentes  antidiabéticos  orales,  el
+
+tratamiento combinado se inició con una dosis de 10 U de insulina glargina una vez al día y se ajustó
+
+luego individualmente el régimen de tratamiento.
+
+Se recomienda el control de la glucosa sanguínea en todos los pacientes con diabetes.
+
+• Uso pediátrico
+
+El  perfil  de  seguridad  para  pacientes  menores  o  iguales  de  18  años  de  edad  es  similar  al  perfil  de
+
+seguridad  en  pacientes  mayores  de  18  años.  No  hay  datos  sobre  seguridad  disponibles  en  estudios
+
+clínicos en pacientes menores de 2 años de edad.
+
+• Uso en personas mayores
+
+Para evitar reacciones hipoglucémicas, se recomienda ser moderado al establecer la dosificación inicial,
+
+los incrementos de dosis y la dosis de mantenimiento en personas mayores con diabetes. La hipogluce-
+
+mia puede ser difícil de determinar en los adultos mayores. (Léase "Precauciones y Advertencias).
+
+• Cambio desde otra insulina a DENSULENT®
+
+Cuando  se  pasa  de  un  régimen  de  tratamiento  con  una  insulina  de  acción  intermedia  o  con  otra  de
+
+acción prolongada a un régimen con insulina glargina, es posible que deban ajustarse la cantidad y los
+
+intervalos  de  administración  de  una  insulina  de  acción  breve  o  de  un  análogo  de  insulina  de  acción
+
+rápida o de la dosis de cualquier medicamento antidiabético oral.
+
+Para reducir el riesgo de hipoglucemia, cuando un paciente es transferido de una dosis diaria de insulina
+
+glargina  300  U/ml  a  una  dosis  diaria  de  insulina  glargina,  la  dosis  inicial  recomendada  de  insulina
+
+glargina, debe ser del 80% de la insulina glargina 300 U/ml que está siendo discontinuada.
+
+En estudios clínicos, cuando los pacientes se transfirieron de un régimen de administración una vez al
+
+día de insulina NPH o insulina ultralenta a insulina glargina una vez al día, en general no se modificó la
+
+dosis inicial (es decir, cantidad de Unidades - U de insulina glargina por día equivalente a Ul de insulina
+
+NPH).
+
+En estudios en los que los pacientes se transfirieron de insulina NPH dos veces al día a insulina glargina
+
+una  vez  al  día  al  acostarse,  para  disminuir  el  riesgo  de  hipoglucemia  la  dosis  inicial  (U)  de  insulina
+
+glargina se redujo habitualmente en  20% en comparación con la cantidad diaria total de Ul de insulina
+
+NPH, ajustándose luego sobre la base de la respuesta del paciente.
+
+Se  recomienda  un  programa  de  estricto  monitoreo  metabólico  bajo  supervisión  médica  durante  la
+
+transferencia  y  en  las  primeras  semanas  posteriores  a  esta. Al  igual  que  con  todos  los  análogos  de
+
+insulina,  esto  es  particularmente  aplicable  a  pacientes  que  debido  a  anticuerpos  a  la  insulina  humana
+
+requieren  dosis  elevadas  de  insulina  y  cuya  respuesta  a  ella  puede  experimentar  una  notable  mejoría
+
+con  insulina  glargina. Al  mejorar  el  control  metabólico  y  la  mayor  sensibilidad  a  la  insulina  resultante
+
+(reducción de las necesidades de insulina), pueden tornarse necesarios mayores ajustes de las dosis
+
+de insulina glargina y otras insulinas o fármacos antidiabéticos orales del régimen.
+
+• Administración
+
+Revisar  el  producto  antes  de  usarlo.  Solo  debe  utilizarse  si  la  solución  es  límpida  e  incolora,  sin
+
+partículas  visibles  y  si  su  consistencia  es  acuosa.  Insulina  glargina  es  una  solución  límpida,  no  una
+
+suspensión.  Como  tal,  no  requiere  resuspensión  antes  de  su  uso.  Insulina  glargina  se  administra
+
+mediante  inyección  en  el  tejido  subcutáneo.  Insulina  glargina  no  está  destinada  a  la  administración
+
+intravenosa.
+
+mia severa.
+
+La  duración  prolongada  de  la  actividad  de  insulina  glargina  depende  de  su  inyección  en  el  espacio
+
+subcutáneo. La administración intravenosa de la dosis subcutánea habitual puede provocar hipogluce-
+
+DENSULENT®  se  administra  por  inyección  subcutánea  en  la  pared  abdominal,  el  muslo,  la  región
+
+superior  del  brazo,  la  región  deltoidea  o  la  región  glútea.  Los  sitios  de  inyección  deben  ser  siempre
+
+rotados dentro de la misma región a fin de reducir el riesgo de lipodistrofia y amiloidosis cutánea.
+
+No  existen  diferencias  de  absorción  de  la  insulina  glargina  entre  las  zonas  de  inyección  subcutánea
+
+abdominal,  deltoidea  o  glútea.  Al  igual  que  con  todas  las  insulinas,  la  velocidad  de  absorción  y,  en
+
+consecuencia,  el  inicio  y  la  duración  de  la  acción  pueden  verse  afectados  por  el  ejercicio  y  otras
+
+Lapicera DensuPen®: ver instrucciones de uso al final del texto.
+
+En el caso de utilizar jeringas, la misma no debe contener ningún otro producto medicinal o residuo.
+
+• Mezcla, dilución
+
+DENSULENT®  no  debe  mezclarse  con  ninguna  otra  insulina.  La  mezcla  puede  modificar  el  perfil  de
+
+tiempo/acción de insulina glargina y provocar precipitación.
+
+DENSULENT®  no  debe  diluirse.  Su  dilución  puede  modificar  el  perfil  de  tiempo/acción  de  insulina
+
+Pacientes con hipersensibilidad conocida a insulina glargina o a cualquiera de los excipientes.
+
+glargina.
+
+CONTRAINDICACIONES
+
+ADVERTENCIAS Y PRECAUCIONES
+
+• Generales
+
+Los pacientes deben ser instruidos a realizar una rotación continua del sitio de inyección a fin de reducir
+
+el  riesgo  de  desarrollar  lipodistrofia  y  amiloidosis  cutánea.  Existe  un  riesgo  potencial  de  retraso  en  la
+
+absorción  de  la  insulina  y  empeoramiento  del  control  glucémico  luego  de  inyecciones  de  Insulina  en
+
+sitios con estas reacciones. Se ha reportado que un cambio súbito del sitio de inyección a un área no
+
+afectada  resultó  en  hipoglucemia.  Posteriormente  al  cambio  en  el  sitio  de  inyección  se  recomienda  el
+
+monitoreo de la glucemia y puede ser considerado un ajuste de dosis de la medicación antidiabética.
+
+La  insulinoterapia  requiere  generalmente  la  capacidad  de  manejar  correctamente  la  diabetes  por  uno
+
+mismo. Esto incluye el monitoreo de la glucemia, una técnica de inyección apropiada y el manejo de la
+
+hipoglucemia  e  hiperglucemia.  Debe  instruirse  a  los  pacientes  sobre  las  medidas  a  adoptar  en  dichos
+
+casos. Además, debe instruirse a los pacientes en el manejo de situaciones especiales, tales como una
+
+dosis de insulina insuficiente u omitida, la administración accidental de una dosis mayor de insulina, un
+
+consumo insuficiente de alimentos o el hecho de saltearse comidas.
+
+El  grado  de  participación  del  paciente  en  el  manejo  de  su  diabetes  es  variable  y  generalmente  es
+
+determinado por el médico.
+
+El  tratamiento  insulínico  requiere  un  estado  de  alerta  constante  a  la  posibilidad  de  hiperglucemia  e
+hipoglucemia.  Los  pacientes  y  sus  relaciones  cercanas  deben  conocer  las  medidas  a  adoptar  en
+presencia  de  hiperglucemia  o  hipoglucemia  o  cuando  se  sospeche  alguna  de  ellas,  y  deben  saber
+cuándo informar a un médico.
+En  caso  de  control  insuficiente  de  la  glucemia  o  de  una  tendencia  a  episodios  de  hiperglucemia  o
+hipoglucemia,  antes  de  considerar  un  ajuste  de  la  dosis  debe  investigarse  el  cumplimiento  del
+paciente  con  el  régimen  insulínico  prescrito,  los  lugares  de  inyección  y  las  técnicas  de  inyección
+adecuadas, la manipulación de dispositivos de inyección y demás factores relevantes.
+• Hipoglucemia
+El  momento  en  el  que  se  presenta  una  hipoglucemia  depende  del  perfil  de  acción  de  las  insulinas
+usadas y puede, por ende, modificarse cuando se cambia el régimen de tratamiento.
+Al  igual  que  con  todas  las  insulinas,  debe  actuarse  con  especial  precaución  y  es  aconsejable  una
+intensificación  del  monitoreo  glucémico  en  pacientes  en  los  cuales  las  secuelas  de  los  episodios
+hipoglucémicos  podrían  revestir  particular  relevancia  clínica.  Este  sería  el  caso,  por  ejemplo,  de
+pacientes con estenosis significativas de las arterias coronarias o de los vasos sanguíneos que irrigan
+el  cerebro  (riesgo  de  complicaciones  cardiacas  o  cerebrales  de  la  hipoglucemia),  así  como  de
+pacientes con retinopatía proliferativa, especialmente si no se los trata con fotocoagulación (riesgo de
+amaurosis transitoria como consecuencia de hipoglucemia).
+En un estudio clínico, los síntomas de hipoglucemia o las respuestas hormonales contrarregulatorias
+fueron similares tras la administración intravenosa de insulina glargina e insulina humana, ambas en
+voluntarios sanos y pacientes con diabetes tipo 1. Sin embargo, en determinadas circunstancias y al
+igual  que  con  todas  las  insulinas,  los  síntomas  de  aviso  de  la  hipoglucemia  pueden  cambiar,  ser
+menos pronunciados o desaparecer, por ejemplo:
+-cuando el control glucémico presenta una notable mejoría,
+-cuando la hipoglucemia se desarrolla gradualmente,
+-en pacientes de edad avanzada,
+-en presencia de una neuropatía autónoma,
+-en pacientes con una larga historia de diabetes,
+-en pacientes que padecen una enfermedad psiquiátrica,
+-en pacientes tratados concomitantemente con determinadas drogas (Léase "Interacciones”).
+Dichas situaciones pueden dar lugar a hipoglucemia severa (y eventualmente, pérdida de la conscien-
+cia) antes de que el paciente tome conciencia de la hipoglucemia.
+El efecto prolongado de la insulina glargina subcutánea puede retardar la recuperación en caso
+de hipoglucemia.
+Cuando se advierten valores normales o reducidos de hemoglobina glicosilada, debe considerarse la
+posibilidad de episodios recurrentes, no reconocidos (especialmente nocturnos), de hipoglucemia.
+El  cumplimiento  del  paciente  con  el  régimen  de  dosificación  y  el  régimen  dietario,  la  correcta
+administración  de  insulina  y  el  conocimiento  de  los  síntomas  de  hipoglucemia  son  esenciales  para
+reducir el riesgo de hipoglucemia.
+Entre  los  factores  que  aumentan  la  susceptibilidad  a  la  hipoglucemia,  que  requieren  un  monitoreo
+particularmente estricto, y que pueden hacer necesario un ajuste de la dosis figuran:
+-cambio en la zona de inyección,
+-aumento de la sensibilidad a la insulina (por ej., por eliminación de factores de estrés),
+-actividad física desacostumbrada, más intensa o prolongada,
+-enfermedad intercurrente (por ej., vómitos, diarrea),
+-consumo inadecuado de alimentos,
+-consumo de alcohol,
+-determinados trastornos endócrinos no compensados y
+-tratamiento concomitante con determinados medicamentos.
+En pacientes con deterioro renal, las necesidades de insulina pueden reducirse debido a la reducción
+del metabolismo insulínico. En las personas de edad avanzada, el progresivo deterioro de la función
+renal puede provocar una reducción constante de las necesidades de insulina.
+En pacientes con deterioro hepático severo, las necesidades de insulina pueden disminuir debido a la
+reducida capacidad de gluconeogénesis y a la reducción del metabolismo insulínico.
+En general, la hipoglucemia puede corregirse mediante la ingestión inmediata de carbohidratos. Para
+que  pueda  llevarse  a  cabo  inmediatamente  la  acción  correctiva,  los  pacientes  deben  llevar  siempre
+consigo, como mínimo, 20 gramos de carbohidratos.
+Enfermedad intercurrente
+Toda  enfermedad  intercurrente  requiere  una  intensificación  del  monitoreo  metabólico.  En  muchos
+casos,  están  indicados  los  análisis  de  orina  para  la  determinación  de  cuerpos  cetónicos  y  con
+frecuencia es necesario un ajuste de la dosis de insulina. El requerimiento insulínico está, a menudo,
+incrementado. En pacientes con diabetes tipo 1, debe mantenerse el suministro de carbohidratos aún
+cuando los pacientes sólo estén en condiciones de comer poco o ningún alimento o vomiten, etc.; en
+los pacientes con diabetes tipo 1 nunca debe suprimirse totalmente la insulina.
+Conducción de vehículos o realización de tareas riesgosas
+El  poder  de  concentración  y  reacción  del  paciente  puede  deteriorarse  como  consecuencia,  por
+ejemplo,  de  hipoglucemia  o  hiperglucemia  o,  por  ejemplo,  como  consecuencia  del  deterioro  de  la
+visión. Esto puede constituir un riesgo en situaciones en las que estas habilidades revisten particular
+importancia (por ej., para conducir un vehículo u operar maquinaria).
+Debe  aconsejarse  a  los  pacientes  para  que  tomen  precauciones  a  fin  de  evitar  la  hipoglucemia
+mientras conducen. Esto reviste particular importancia en los pacientes cuya toma de conciencia de
+los  síntomas  de  aviso  de  la  hipoglucemia  es  reducida  o  inexistente  o  en  aquellos  que  padecen
+frecuentes episodios de hipoglucemia. En estas circunstancias debería considerarse la conveniencia
+de conducir.
+INTERACCIONES
+Una serie de sustancias afectan el metabolismo de la glucosa y pueden hacer necesario un ajuste de
+la dosis de insulina y un monitoreo particularmente estricto.
+- Los que siguen son ejemplos de sustancias que pueden incrementar el efecto hipoglucemiante
+y  la  susceptibilidad  a  la  hipoglucemia:  antidiabéticos  orales,  inhibidores  de  la  ECA,  salicilatos,
+disopiramida, fibratos, fluoxetina, inhibidores de la MAO, pentoxifilina, propoxifeno, antibióticos.
+- Los que siguen son ejemplos de sustancias que pueden reducir el efecto hipoglucemiante:
+corticoesteroides, danazol, diazóxido, diuréticos, agentes simpaticomiméticos (tales como epinefrina,
+salbutamol,  terbutalina),  glucagón,  isoniazida,  derivados  de  fenotiazina,  somatropina,  hormonas
+tiroideas, estrógenos, progestágenos (por ej., en anticonceptivos orales), inhibidores de la proteasa y
+medicaciones antipsicóticas atípicas (por ej., olanzapina y clozapina).
+
+Los  betabloqueantes,  la  clonidina,  las  sales  de  litio  y  el  alcohol  pueden  potenciar  o  debilitar  el  efecto
+hipoglucemiante  de  la  insulina.  La  pentamidina  puede  provocar  hipoglucemia,  la  que  en  ocasiones
+puede ir seguida de hiperglucemia.
+Además,  bajo  la  influencia  de  medicamentos  simpaticolíticos  tales  como  betabloqueantes,  clonidina,
+guanetidina y reserpina, pueden reducirse o desaparecer los signos de contrarregulación adrenérgica.
+Embarazo
+No  existen  estudios  clínicos  randomizados  controlados  del  uso  de  insulina  glargina  en  mujeres
+embarazadas. A  través  de  farmacovigilancia  post  comercialización,  un  gran  número  de  exposiciones
+durante el embarazo (más de 1000 resultados retrospectivos y prospectivos en embarazo) indican la
+ausencia de efectos adversos específicos de la insulina glargina sobre el embarazo o sobre la salud
+del feto o del recién nacido. Asimismo se realizó un meta-análisis de ocho estudios clínicos observacio-
+nales,  que  incluyeron  331  mujeres  que  usaban  insulina  glargina  y  371  mujeres  que  usaban  insulina
+NPH  para  evaluar  la  seguridad  de  la  insulina  glargina  e  insulina  NPH  en  la  diabetes  gestacional  o
+pregestacional.  No  se  observaron  diferencias  significativas  en  los  resultados  maternos  o  neonatales
+relacionados con la seguridad entre insulina glargina e insulina NPH durante el embarazo. Si bien los
+estudios  clínicos  no  han  reportado  una  clara  asociación  entre  el  uso  de  insulina  glargina  durante  el
+embarazo  y  la  presencia  de  malformaciones  fetales  mayores,  abortos  espontáneos  o  resultados
+adversos  sobre  la  madre  o  el  feto,  debe  tenerse  presente  que  dichos  estudios  no  han  establecido
+definitivamente la ausencia de estos riesgos debido a sus limitaciones metodológicas.
+Los  estudios  en  animales,  con  dosis  de  6  a  40  veces  las  dosis  humanas,  no  sugieren  efectos
+perjudiciales directos sobre el embarazo.
+Es  esencial  que  las  pacientes  con  diabetes  preexistente  o  gestacional  mantengan  un  buen  control
+metabólico durante el embarazo para prevenir resultados adversos asociados con hiperglucemia.
+Insulina  glargina  puede  ser  usada  durante  el  embarazo  si  es  clínicamente  indispensable,  y  siempre
+bajo estricta indicación y vigilancia médica.
+Las  necesidades  de  insulina  pueden  reducirse  durante  el  primer  trimestre  y  generalmente  aumentan
+durante el segundo y tercer trimestre. Inmediatamente después del parto, las necesidades de insulina
+declinan rápidamente. Un cuidadoso monitoreo del control glucémico es esencial en estas pacientes.
+Las pacientes diabéticas deben informar a su médico si están embarazadas o si tienen la intención de
+quedar embarazadas.
+Lactancia
+Se desconoce si la insulina glargina se excreta en la leche materna. No se prevén efectos metabólicos
+de la insulina glargina ingerida en niños/recién nacidos lactantes puesto que la insulina glargina como
+péptido es digerida en aminoácidos en el tracto gastrointestinal humano. Las mujeres que amamantan
+pueden requerir ajustes en la dosis de insulina y la dieta.
+Carcinogénesis
+Se  llevaron  a  cabo  estudios  de  carcinogenicidad  de  dos  años  de  duración  en  ratas  y  ratones.  Los
+resultados no sugieren riesgo alguno para los seres humanos.
+Mutagenicidad
+La  insulina  glargina  no  fue  mutagénica  en  ensayos  destinados  a  detectar  mutaciones  genéticas  en
+bacterias y células de mamíferos (prueba de Ames y HGPRT) y en ensayos destinados a la detección
+de aberraciones cromosómicas (Citogenética in vitro en células V79 e in vivo en hámsters chinos).
+Teratogenicidad y Trastornos de la fertilidad
+En  un  estudio  de  embriotoxicidad  en  ratas,  se  observó  hipoglucemia  pero  ausencia  de  toxicidad
+materna. La insulina glargina no resultó embriotóxica ni teratogénica.
+En un estudio de embriotoxicidad en conejos, se observaron toxicidad materna (shock hipoglucémico,
+muertes  intrauterinas)  y  toxicidad  embriofetal,  debidas  a  hipoglucemia,  incluyendo  anomalías
+individuales en los grupos tratados con dosis medias y elevadas. Efectos similares se obtuvieron con
+una insulina comercial de acción intermedia.
+En  un  estudio  combinado  de  fertilidad  y  toxicidad  prenatal  y  postnatal  en  ratas,  se  observó  toxicidad
+materna debido a hipoglucemia dosis-dependiente. Se produjeron algunas muertes, con la consiguiente
+reducción en la tasa de crianza, solamente en el grupo tratado con la dosis elevada. Efectos similares
+se obtuvieron con una insulina comercial de acción intermedia.
+Inmunogenicidad
+Los estudios de inmunogenicidad estándar llevados a cabo en cerdos, conejos y cobayos indicaron un
+potencial inmunogénico similar o inferior de la insulina glargina comparada con la insulina humana en
+estas especies.
+Empleo en insuficiencia hepática o renal.
+Léase "Precauciones y advertencias”.
+
+REACCIONES ADVERSAS
+• Hipoglucemia
+Puede  presentarse  hipoglucemia,  en  general  la  reacción  adversa  más  frecuente  del  tratamiento
+insulínico,  cuando  la  dosis  de  insulina  es  demasiado  elevada  en  relación  con  el  requerimiento
+insulínico.
+Al  igual  que  con  todas  las  insulinas,  los  ataques  hipoglucémicos  severos,  especialmente  cuando  son
+recurrentes, pueden provocar daño neurológico. Los episodios hipoglucémicos prolongados o severos
+pueden poner en riesgo la vida. En muchos pacientes los signos y síntomas de neuroglucopenia son
+precedidos por signos de contrarregulación adrenérgica. En general, cuanto mayor y más rápida es la
+reducción  de  la  glucemia,  tanto  más  pronunciado  es  el  fenómeno  de  la  contrarregulación  y  sus
+síntomas.
+• Ojos
+Un  cambio  pronunciado  en  el  control  glucémico  puede  provocar  deterioro  temporario  de  la  visión,
+debido a una alteración temporaria en la turgencia y el índice de refracción del cristalino.
+Un mejor control glucémico de largo plazo reduce el riesgo de progresión de la retinopatía diabética.
+Sin  embargo,  al  igual  que  en  todos  los  regímenes  insulínicos,  la  intensificación  del  tratamiento
+insulínico  con  una  abrupta  mejoría  del  control  glucémico  puede  estar  asociada  con  un  agravamiento
+temporario de la retinopatía diabética.
+En  pacientes  con  retinopatía  proliferativa,  especialmente  si  no  se  los  trata  con  fotocoagulación,  los
+episodios hipoglucémicos severos pueden provocar amaurosis transitoria.
+• Trastornos de piel y tejido subcutáneo
+Puede ocurrir Lipodistrofia y amiloidosis cutánea en el sitio de inyección y retrasar la absorción local de
+insulina, La rotación continua del sitio de inyección dentro de un área determinada de aplicación puede
+
+ayudar a reducir o prevenir estas reacciones.
+• Reacciones en el lugar de inyección y reacciones alérgicas
+En estudios clínicos con regímenes que incluían insulina glargina, se observaron reacciones en el lugar
+de  la  inyección  en  3  a  4%  de  los  pacientes. Al  igual  que  con  cualquier  tratamiento  insulínico,  dichas
+reacciones incluyen enrojecimiento, dolor, picazón, urticaria, hinchazón e inflamación. La mayoría de las
+reacciones  menores  a  la  insulina  suele  resolverse  en  el  término  de  unos  pocos  días  a  unas  pocas
+semanas.
+Las  reacciones  alérgicas  de  tipo  inmediato  son  muy  poco  frecuentes.  Tales  reacciones  a  la  insulina
+(inclusive  insulina  glargina)  o  a  los  excipientes  pueden,  por  ejemplo,  estar  asociadas  con  reacciones
+cutáneas, angioedema, broncoespasmo e hipotensión y shock, y pueden poner en riesgo la vida.
+• Otras reacciones
+La  administración  de  insulina  puede  dar  lugar  a  la  formación  de  anticuerpos  a  la  insulina.  En  estudios
+clínicos, se observaron anticuerpos que presentaban una reacción cruzada con la insulina humana y la
+insulina  glargina  con  incidencias  similares  en  los  grupos  tratados  con  NPH  y  con  insulina  glargina.  En
+casos aislados, la presencia de dichos anticuerpos puede requerir el ajuste de la dosis de insulina a fin
+de corregir una tendencia a la hiperglucemia o a la hipoglucemia.
+La insulina puede provocar, en casos muy poco frecuentes, retención de sodio y edema, especialmente
+cuando  un  mal  control  metabólico  previo  experimenta  una  mejoría  debido  a  la  intensificación  del
+tratamiento insulínico.
+Se han informado errores de medicación en los cuales otras insulinas, particularmente de acción breve,
+han sido accidentalmente administradas en lugar de insulina glargina.
+Notificación de los efectos adversos:
+Ante cualquier inconveniente con el producto Usted puede:
+- comunicarse al 0800-555-5036 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+-llenar la ficha que está en la Página Web de la ANMAT:
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234
+
+SOBREDOSIFICACIÓN
+Síntomas
+Un exceso de insulina en relación con la ingestión de alimento, el gasto de energía o ambos, puede dar
+lugar a una hipoglucemia severa y a veces prolongada, con riesgo para la vida.
+Tratamiento
+Los episodios leves de hipoglucemia pueden tratarse normalmente con carbohidratos orales.
+Pueden  requerirse  ajustes  en  las  dosis  de  medicamentos,  en  el  patrón  de  comidas  o  en  la  actividad
+física.
+Los  episodios  más  severos,  que  culminan  en  coma,  convulsiones  o  deterioro  neurológico,  pueden
+tratarse  con  glucagón  intramuscular/subcutáneo  o  glucosa  intravenosa  concentrada.  Puede  ser
+necesaria una observación e ingestión sostenida de carbohidratos porque es posible que la hipoglucemia
+se repita después de una aparente recuperación clínica.
+ANTE  LA  EVENTUALIDAD  DE  UNA  SOBREDOSIFICACIÓN  CONCURRIR  AL  HOSPITAL  MAS
+CERCANO  O  COMUNICARSE  CON  LOS  CENTROS  DE  TOXICOLOGÍA  (LEASE  AL  FINAL  DEL
+PROSPECTO)
+En Argentina:
+HOSPITAL DE PEDIATRIA RICARDO GUTIÉRREZ: 0800 444 8694/(011) 4962-6666/2247
+HOSPITAL A. POSADAS: (011) 4654-6648/4658-7777
+HOSPITAL FERNANDEZ: (011) 4808-2655/4801-7767
+OPTATIVAMENTE OTROS CENTROS DE INTOXICACIONES
+
+CONSERVACIÓN
+Conservar en heladera (entre 2°C y 8°C). No congelar ni colocar cerca del congelador o de un acumula-
+dor de frío. Descartar el producto en caso de congelamiento.
+Revisar antes de usar. Solo debe utilizarse si la solución es límpida e incolora sin partículas visibles y si
+su consistencia es acuosa.
+La lapicera prellenada DensuPen® en uso o para llevarlas como reserva, pueden conservarse durante
+un  máximo  de  4  semanas  por  debajo  de  25oC  y  protegidos  del  calor  directo  o  de  la  luz  directa.
+DensuPen® en uso no debe conservarse en heladera. No lo utilice después de este periodo de tiempo.
+La  lapicera  prellenada  descartable  DensuPen®:  no  se  comparte,  no  se  reutiliza.  Descartar  una  vez
+agotada.
+
+NO  DEBE  UTILIZARSE  DESPUES  DE  LA  FECHA  DE  VENCIMIENTO  INDICADA  EN  EL  ENVASE.  EL
+MEDICAMENTO VENCE El ÚLTIMO DIA DEL MES QUE SE INDICA EN EL ENVASE.
+
+PRESENTACION de DENSULENT®
+Estuche con 5 lapiceras prellenadas descartables DensuPen® de 3 ml.
+
+“MANTENER FUERA DEL ALCANCE DE LOS NIÑOS”
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+Certificado No 59.086
+
+DENVER FARMA S.A.
+Mozart S/No, Centro Industrial Garín, Escobar. Provincia de Buenos Aires.
+Director Técnico: José Luis Tombazzi –Farmacéutico
+Fecha de la última revisión: Julio de 2019
+
+Antes de cada inyección realice siempre la prueba de seguridad. Esta garantiza que usted recibe la dosis
+
+Paso 3. Prueba de seguridad
+
+exacta ya que:
+
+1. Se asegura que la lapicera y la aguja funcionan perfectamente
+
+2. Se eliminan las burbujas de aire
+
+A. Seleccione una dosis de 2 unidades girando el selector de la dosis.
+
+DensuPen®  es  una  lapicera  prellenada  descartable  que  se  utiliza  para  inyectar  la  insulina  glargina
+
+B.  Retire  el  protector  exterior  de  la  aguja  y  guárdelo  para  retirar  la  aguja  utilizada  después  de  cada
+
+Usted  puede  fijar  la  dosis  de  1  a  60  unidades  de  insulina  glargina  en  pasos  de  1  unidad.  Cada  lapicera
+
+inyección. Retire el protector interior de la aguja y deséchelo.
+
+C. Sujete la lapicera con la aguja apuntando hacia arriba.
+
+D. Golpee ligeramente el reservorio de insulina para que las burbujas de aire suban hacia la aguja.
+
+E. Presione el botón de inyección completamente. Compruebe que la insulina aparece en el extremo de
+
+DensuPen® es una lapicera prellenada para la inyección de insulina.
+
+Su  médico  ha  decidido  que  el  medicamento  DENSULENT®  prellenado  en  la  lapicera  DensuPen®  es
+
+apropiado para usted, basado en su capacidad para manipular este dispositivo aplicador de insulina.
+
+Antes de usar el dispositivo aplicador de insulina DensuPen® hable con su médico, farmacéutico o enfermera,
+
+sobre la técnica de inyección adecuada.
+
+Lea  estas  instrucciones  detenidamente  antes  de  usar  su  dispositivo  aplicador  de  insulina  DensuPen®.  Si
+
+usted  no  está  capacitado  para  usar  el  dispositivo  aplicador  de  insulina  DensuPen®  o  para  seguir  completa-
+
+mente las instrucciones por sí solo, debe usar el dispositivo aplicador de insulina DensuPen® sólo si cuenta
+
+con la ayuda de una persona que pueda seguir completamente las instrucciones.
+
+Sostenga  la  lapicera  como  se  muestra  en  las  instrucciones.  Para  asegurar  que  usted  puede  leer  la  dosis
+
+correctamente, sostenga la lapicera horizontalmente, con el capuchón hacia la izquierda y el selector de dosis
+
+a la derecha como muestra la Figura 1.
+
+DENSULENT®.
+
+DensuPen® contiene 300 unidades de insulina glargina.
+
+Guarde este prospecto para futuras consultas.
+
+Figura 1. Diagrama esquemático de la lapicera:
+
+1- Capuchón de la lapicera                 3- Ventana de la dosis                       5- Botón de dosis
+
+la aguja.
+
+2- Armazón                                          4- Selector de dosis
+
+Información importante para aplicar DENSULENT® con la lapicera prellenada DensuPen®
+
+-Antes  de  cada  uso,  inserte  siempre  una  aguja  nueva.  Utilice  únicamente  las  agujas  compatibles  con
+
+DensuPen®.
+
+-No seleccione la dosis y/o presione el botón de inyección sin estar la aguja colocada.
+
+-Antes de cada inyección, realice siempre la prueba de seguridad (léase Paso 3).
+
+-Esta lapicera es únicamente para su uso. Las jeringas, agujas y dispositivos para administración de insulina
+
+nunca deben ser compartidos en su uso con otros pacientes, aun cambiando las agujas, ya que ello acarrea el
+
+riesgo de transmisión de enfermedades infecciosas.
+
+-Si su inyección la realiza otra persona, se debe tener especial precaución para evitar accidentes con la aguja
+
+-Nunca  utilice  la  lapicera  prellenada  DensuPen®  si  está  dañada  o  si  no  está  seguro  de  que  funcione
+
+-Disponga  siempre  de  un  lapicera  prellenada  DensuPen®  de  reserva  por  si  su  lapicera  prellenada
+
+A. Compruebe la etiqueta de su lapicera prellenada DensuPen®  para asegurarse de que contiene la insulina
+
+C.  Compruebe  el  aspecto  de  su  insulina.  Densulent®  es  una  insulina  transparente.  No  utilice  la  lapicera
+
+prellenada DensuPen® si la insulina es opaca, con color o contiene partículas.
+
+y la transmisión de infecciones.
+
+correctamente.
+
+DensuPen®  se pierde o estropea.
+
+Paso 1. Comprobación de la insulina
+
+correcta.
+
+B. Retire el capuchón de la lapicera.
+
+Paso 2. Colocación de la aguja
+
+estándar ISO 11608-2.
+
+Utilice  siempre  una  aguja  nueva  y  estéril  para  cada  inyección.  Esto  ayuda  a  prevenir  contaminaciones  y
+
+posibles  bloqueos  de  la  aguja.  Utilizar  exclusivamente  agujas  para  lapiceras  de  insulina  compatibles  con  el
+
+Paso 4. Selección de la dosis
+
+Antes  de  usar  la  aguja,  lea  cuidadosamente  las  “INSTRUCCIONES  DE  USO"  que  acompañan  las  agujas.
+
+Recuerde que las agujas que se muestran en las imágenes son solo ilustrativas.
+
+• Limpie el sello de goma del extremo de la lapicera con un trozo pequeño de algodón embebido en alcohol.
+
+inyecciones.
+
+Puede seleccionar la dosis en pasos de 1 unidad, desde un mínimo de 1 unidad hasta un máximo de 60
+
+unidades.  Si  usted  necesita  una  dosis  superior  a  60  unidades,  deberá  administrarse  dos  o  más
+
+A. Compruebe que en la ventana de la dosis aparece "0" después de la prueba de seguridad.
+
+B. Seleccione su dosis (en el siguiente ejemplo, la dosis seleccionada es de 30 unidades). Si usted gira
+
+por demás el selector de la dosis, puede volver hacia atrás.
+
+• No presione el botón de inyección mientras gira, ya que la insulina podría salir.
+
+• No podrá girar el selector de la dosis si el número de unidades de la dosis deseada supera a las que
+
+quedan  en  la  lapicera.  No  fuerce  el  selector  de  la  dosis.  En  este  caso  usted  puede  inyectarse  lo  que
+
+queda  en  la  lapicera  y  completar  su  dosis  con  un  nuevo  DensuPen®  para  administrarse  la  dosis
+
+completa.
+
+Las pacientes diabéticas deben informar a su médico si están embarazadas o si tienen la intención de
+
+Un exceso de insulina en relación con la ingestión de alimento, el gasto de energía o ambos, puede dar
+
+Los  betabloqueantes,  la  clonidina,  las  sales  de  litio  y  el  alcohol  pueden  potenciar  o  debilitar  el  efecto
+
+hipoglucemiante  de  la  insulina.  La  pentamidina  puede  provocar  hipoglucemia,  la  que  en  ocasiones
+
+ayudar a reducir o prevenir estas reacciones.
+
+• Reacciones en el lugar de inyección y reacciones alérgicas
+
+puede ir seguida de hiperglucemia.
+
+Además,  bajo  la  influencia  de  medicamentos  simpaticolíticos  tales  como  betabloqueantes,  clonidina,
+
+guanetidina y reserpina, pueden reducirse o desaparecer los signos de contrarregulación adrenérgica.
+
+Embarazo
+
+No  existen  estudios  clínicos  randomizados  controlados  del  uso  de  insulina  glargina  en  mujeres
+
+embarazadas. A  través  de  farmacovigilancia  post  comercialización,  un  gran  número  de  exposiciones
+
+durante el embarazo (más de 1000 resultados retrospectivos y prospectivos en embarazo) indican la
+
+ausencia de efectos adversos específicos de la insulina glargina sobre el embarazo o sobre la salud
+
+semanas.
+
+del feto o del recién nacido. Asimismo se realizó un meta-análisis de ocho estudios clínicos observacio-
+
+• Otras reacciones
+
+nales,  que  incluyeron  331  mujeres  que  usaban  insulina  glargina  y  371  mujeres  que  usaban  insulina
+
+NPH  para  evaluar  la  seguridad  de  la  insulina  glargina  e  insulina  NPH  en  la  diabetes  gestacional  o
+
+pregestacional.  No  se  observaron  diferencias  significativas  en  los  resultados  maternos  o  neonatales
+
+relacionados con la seguridad entre insulina glargina e insulina NPH durante el embarazo. Si bien los
+
+estudios  clínicos  no  han  reportado  una  clara  asociación  entre  el  uso  de  insulina  glargina  durante  el
+
+embarazo  y  la  presencia  de  malformaciones  fetales  mayores,  abortos  espontáneos  o  resultados
+
+adversos  sobre  la  madre  o  el  feto,  debe  tenerse  presente  que  dichos  estudios  no  han  establecido
+
+definitivamente la ausencia de estos riesgos debido a sus limitaciones metodológicas.
+
+Los  estudios  en  animales,  con  dosis  de  6  a  40  veces  las  dosis  humanas,  no  sugieren  efectos
+
+perjudiciales directos sobre el embarazo.
+
+Es  esencial  que  las  pacientes  con  diabetes  preexistente  o  gestacional  mantengan  un  buen  control
+
+metabólico durante el embarazo para prevenir resultados adversos asociados con hiperglucemia.
+
+Insulina  glargina  puede  ser  usada  durante  el  embarazo  si  es  clínicamente  indispensable,  y  siempre
+
+bajo estricta indicación y vigilancia médica.
+
+Las  necesidades  de  insulina  pueden  reducirse  durante  el  primer  trimestre  y  generalmente  aumentan
+
+durante el segundo y tercer trimestre. Inmediatamente después del parto, las necesidades de insulina
+
+declinan rápidamente. Un cuidadoso monitoreo del control glucémico es esencial en estas pacientes.
+
+quedar embarazadas.
+
+Lactancia
+
+Carcinogénesis
+
+Mutagenicidad
+
+Se desconoce si la insulina glargina se excreta en la leche materna. No se prevén efectos metabólicos
+
+de la insulina glargina ingerida en niños/recién nacidos lactantes puesto que la insulina glargina como
+
+péptido es digerida en aminoácidos en el tracto gastrointestinal humano. Las mujeres que amamantan
+
+pueden requerir ajustes en la dosis de insulina y la dieta.
+
+Se  llevaron  a  cabo  estudios  de  carcinogenicidad  de  dos  años  de  duración  en  ratas  y  ratones.  Los
+
+resultados no sugieren riesgo alguno para los seres humanos.
+
+La  insulina  glargina  no  fue  mutagénica  en  ensayos  destinados  a  detectar  mutaciones  genéticas  en
+
+bacterias y células de mamíferos (prueba de Ames y HGPRT) y en ensayos destinados a la detección
+
+de aberraciones cromosómicas (Citogenética in vitro en células V79 e in vivo en hámsters chinos).
+
+PROSPECTO)
+
+En Argentina:
+
+Teratogenicidad y Trastornos de la fertilidad
+
+En  un  estudio  de  embriotoxicidad  en  ratas,  se  observó  hipoglucemia  pero  ausencia  de  toxicidad
+
+materna. La insulina glargina no resultó embriotóxica ni teratogénica.
+
+En un estudio de embriotoxicidad en conejos, se observaron toxicidad materna (shock hipoglucémico,
+
+muertes  intrauterinas)  y  toxicidad  embriofetal,  debidas  a  hipoglucemia,  incluyendo  anomalías
+
+individuales en los grupos tratados con dosis medias y elevadas. Efectos similares se obtuvieron con
+
+una insulina comercial de acción intermedia.
+
+En  un  estudio  combinado  de  fertilidad  y  toxicidad  prenatal  y  postnatal  en  ratas,  se  observó  toxicidad
+
+materna debido a hipoglucemia dosis-dependiente. Se produjeron algunas muertes, con la consiguiente
+
+reducción en la tasa de crianza, solamente en el grupo tratado con la dosis elevada. Efectos similares
+
+se obtuvieron con una insulina comercial de acción intermedia.
+
+Inmunogenicidad
+
+Los estudios de inmunogenicidad estándar llevados a cabo en cerdos, conejos y cobayos indicaron un
+
+potencial inmunogénico similar o inferior de la insulina glargina comparada con la insulina humana en
+
+agotada.
+
+estas especies.
+
+Empleo en insuficiencia hepática o renal.
+
+Léase "Precauciones y advertencias”.
+
+REACCIONES ADVERSAS
+
+• Hipoglucemia
+
+En estudios clínicos con regímenes que incluían insulina glargina, se observaron reacciones en el lugar
+
+de  la  inyección  en  3  a  4%  de  los  pacientes. Al  igual  que  con  cualquier  tratamiento  insulínico,  dichas
+
+reacciones incluyen enrojecimiento, dolor, picazón, urticaria, hinchazón e inflamación. La mayoría de las
+
+reacciones  menores  a  la  insulina  suele  resolverse  en  el  término  de  unos  pocos  días  a  unas  pocas
+
+Las  reacciones  alérgicas  de  tipo  inmediato  son  muy  poco  frecuentes.  Tales  reacciones  a  la  insulina
+
+(inclusive  insulina  glargina)  o  a  los  excipientes  pueden,  por  ejemplo,  estar  asociadas  con  reacciones
+
+cutáneas, angioedema, broncoespasmo e hipotensión y shock, y pueden poner en riesgo la vida.
+
+La  administración  de  insulina  puede  dar  lugar  a  la  formación  de  anticuerpos  a  la  insulina.  En  estudios
+
+clínicos, se observaron anticuerpos que presentaban una reacción cruzada con la insulina humana y la
+
+insulina  glargina  con  incidencias  similares  en  los  grupos  tratados  con  NPH  y  con  insulina  glargina.  En
+
+casos aislados, la presencia de dichos anticuerpos puede requerir el ajuste de la dosis de insulina a fin
+
+de corregir una tendencia a la hiperglucemia o a la hipoglucemia.
+
+La insulina puede provocar, en casos muy poco frecuentes, retención de sodio y edema, especialmente
+
+cuando  un  mal  control  metabólico  previo  experimenta  una  mejoría  debido  a  la  intensificación  del
+
+tratamiento insulínico.
+
+Se han informado errores de medicación en los cuales otras insulinas, particularmente de acción breve,
+
+han sido accidentalmente administradas en lugar de insulina glargina.
+
+Notificación de los efectos adversos:
+
+Ante cualquier inconveniente con el producto Usted puede:
+
+- comunicarse al 0800-555-5036 o a la Página Web de Denver Farma: www.denverfarma.com.ar
+
+-llenar la ficha que está en la Página Web de la ANMAT:
+
+http://www.anmat.gov.ar/farmacovigilancia/Notificar.asp o llamar a ANMAT responde 0800-333-1234
+
+SOBREDOSIFICACIÓN
+
+Síntomas
+
+Tratamiento
+
+física.
+
+lugar a una hipoglucemia severa y a veces prolongada, con riesgo para la vida.
+
+Los episodios leves de hipoglucemia pueden tratarse normalmente con carbohidratos orales.
+
+Pueden  requerirse  ajustes  en  las  dosis  de  medicamentos,  en  el  patrón  de  comidas  o  en  la  actividad
+
+Los  episodios  más  severos,  que  culminan  en  coma,  convulsiones  o  deterioro  neurológico,  pueden
+
+tratarse  con  glucagón  intramuscular/subcutáneo  o  glucosa  intravenosa  concentrada.  Puede  ser
+
+necesaria una observación e ingestión sostenida de carbohidratos porque es posible que la hipoglucemia
+
+se repita después de una aparente recuperación clínica.
+
+ANTE  LA  EVENTUALIDAD  DE  UNA  SOBREDOSIFICACIÓN  CONCURRIR  AL  HOSPITAL  MAS
+
+CERCANO  O  COMUNICARSE  CON  LOS  CENTROS  DE  TOXICOLOGÍA  (LEASE  AL  FINAL  DEL
+
+HOSPITAL DE PEDIATRIA RICARDO GUTIÉRREZ: 0800 444 8694/(011) 4962-6666/2247
+
+HOSPITAL A. POSADAS: (011) 4654-6648/4658-7777
+
+HOSPITAL FERNANDEZ: (011) 4808-2655/4801-7767
+
+OPTATIVAMENTE OTROS CENTROS DE INTOXICACIONES
+
+CONSERVACIÓN
+
+Conservar en heladera (entre 2°C y 8°C). No congelar ni colocar cerca del congelador o de un acumula-
+
+dor de frío. Descartar el producto en caso de congelamiento.
+
+Revisar antes de usar. Solo debe utilizarse si la solución es límpida e incolora sin partículas visibles y si
+
+su consistencia es acuosa.
+
+La lapicera prellenada DensuPen® en uso o para llevarlas como reserva, pueden conservarse durante
+
+un  máximo  de  4  semanas  por  debajo  de  25oC  y  protegidos  del  calor  directo  o  de  la  luz  directa.
+
+DensuPen® en uso no debe conservarse en heladera. No lo utilice después de este periodo de tiempo.
+
+La  lapicera  prellenada  descartable  DensuPen®:  no  se  comparte,  no  se  reutiliza.  Descartar  una  vez
+
+NO  DEBE  UTILIZARSE  DESPUES  DE  LA  FECHA  DE  VENCIMIENTO  INDICADA  EN  EL  ENVASE.  EL
+
+MEDICAMENTO VENCE El ÚLTIMO DIA DEL MES QUE SE INDICA EN EL ENVASE.
+
+PRESENTACION de DENSULENT®
+
+Estuche con 5 lapiceras prellenadas descartables DensuPen® de 3 ml.
+
+“MANTENER FUERA DEL ALCANCE DE LOS NIÑOS”
+
+Especialidad Medicinal autorizada por el Ministerio de Salud.
+
+Puede  presentarse  hipoglucemia,  en  general  la  reacción  adversa  más  frecuente  del  tratamiento
+
+insulínico,  cuando  la  dosis  de  insulina  es  demasiado  elevada  en  relación  con  el  requerimiento
+
+Al  igual  que  con  todas  las  insulinas,  los  ataques  hipoglucémicos  severos,  especialmente  cuando  son
+
+recurrentes, pueden provocar daño neurológico. Los episodios hipoglucémicos prolongados o severos
+
+pueden poner en riesgo la vida. En muchos pacientes los signos y síntomas de neuroglucopenia son
+
+precedidos por signos de contrarregulación adrenérgica. En general, cuanto mayor y más rápida es la
+
+reducción  de  la  glucemia,  tanto  más  pronunciado  es  el  fenómeno  de  la  contrarregulación  y  sus
+
+Certificado No 59.086
+
+DENVER FARMA S.A.
+
+insulínico.
+
+síntomas.
+
+• Ojos
+
+Mozart S/No, Centro Industrial Garín, Escobar. Provincia de Buenos Aires.
+
+Director Técnico: José Luis Tombazzi –Farmacéutico
+
+Fecha de la última revisión: Julio de 2019
+
+Un  cambio  pronunciado  en  el  control  glucémico  puede  provocar  deterioro  temporario  de  la  visión,
+
+debido a una alteración temporaria en la turgencia y el índice de refracción del cristalino.
+
+Un mejor control glucémico de largo plazo reduce el riesgo de progresión de la retinopatía diabética.
+
+Sin  embargo,  al  igual  que  en  todos  los  regímenes  insulínicos,  la  intensificación  del  tratamiento
+
+insulínico  con  una  abrupta  mejoría  del  control  glucémico  puede  estar  asociada  con  un  agravamiento
+
+temporario de la retinopatía diabética.
+
+En  pacientes  con  retinopatía  proliferativa,  especialmente  si  no  se  los  trata  con  fotocoagulación,  los
+
+episodios hipoglucémicos severos pueden provocar amaurosis transitoria.
+
+• Trastornos de piel y tejido subcutáneo
+
+Puede ocurrir Lipodistrofia y amiloidosis cutánea en el sitio de inyección y retrasar la absorción local de
+
+insulina, La rotación continua del sitio de inyección dentro de un área determinada de aplicación puede
+
+DENSULENT®
+Solución inyectable en lapicera prellenada descartable DensuPen®
+Lapicera DensuPen®
+INSTRUCCIONES DE USO, MANIPULACIÓN Y DESCARTE
+
+Paso 3. Prueba de seguridad
+Antes de cada inyección realice siempre la prueba de seguridad. Esta garantiza que usted recibe la dosis
+exacta ya que:
+1. Se asegura que la lapicera y la aguja funcionan perfectamente
+2. Se eliminan las burbujas de aire
+
+A. Seleccione una dosis de 2 unidades girando el selector de la dosis.
+
+DensuPen® es una lapicera prellenada para la inyección de insulina.
+Su  médico  ha  decidido  que  el  medicamento  DENSULENT®  prellenado  en  la  lapicera  DensuPen®  es
+apropiado para usted, basado en su capacidad para manipular este dispositivo aplicador de insulina.
+Antes de usar el dispositivo aplicador de insulina DensuPen® hable con su médico, farmacéutico o enfermera,
+sobre la técnica de inyección adecuada.
+Lea  estas  instrucciones  detenidamente  antes  de  usar  su  dispositivo  aplicador  de  insulina  DensuPen®.  Si
+usted  no  está  capacitado  para  usar  el  dispositivo  aplicador  de  insulina  DensuPen®  o  para  seguir  completa-
+mente las instrucciones por sí solo, debe usar el dispositivo aplicador de insulina DensuPen® sólo si cuenta
+con la ayuda de una persona que pueda seguir completamente las instrucciones.
+Sostenga  la  lapicera  como  se  muestra  en  las  instrucciones.  Para  asegurar  que  usted  puede  leer  la  dosis
+correctamente, sostenga la lapicera horizontalmente, con el capuchón hacia la izquierda y el selector de dosis
+a la derecha como muestra la Figura 1.
+DensuPen®  es  una  lapicera  prellenada  descartable  que  se  utiliza  para  inyectar  la  insulina  glargina
+DENSULENT®.
+Usted  puede  fijar  la  dosis  de  1  a  60  unidades  de  insulina  glargina  en  pasos  de  1  unidad.  Cada  lapicera
+DensuPen® contiene 300 unidades de insulina glargina.
+Guarde este prospecto para futuras consultas.
+
+Figura 1. Diagrama esquemático de la lapicera:
+
+1- Capuchón de la lapicera                 3- Ventana de la dosis                       5- Botón de dosis
+2- Armazón                                          4- Selector de dosis
+
+Información importante para aplicar DENSULENT® con la lapicera prellenada DensuPen®
+-Antes  de  cada  uso,  inserte  siempre  una  aguja  nueva.  Utilice  únicamente  las  agujas  compatibles  con
+DensuPen®.
+-No seleccione la dosis y/o presione el botón de inyección sin estar la aguja colocada.
+-Antes de cada inyección, realice siempre la prueba de seguridad (léase Paso 3).
+-Esta lapicera es únicamente para su uso. Las jeringas, agujas y dispositivos para administración de insulina
+nunca deben ser compartidos en su uso con otros pacientes, aun cambiando las agujas, ya que ello acarrea el
+riesgo de transmisión de enfermedades infecciosas.
+-Si su inyección la realiza otra persona, se debe tener especial precaución para evitar accidentes con la aguja
+y la transmisión de infecciones.
+-Nunca  utilice  la  lapicera  prellenada  DensuPen®  si  está  dañada  o  si  no  está  seguro  de  que  funcione
+correctamente.
+-Disponga  siempre  de  un  lapicera  prellenada  DensuPen®  de  reserva  por  si  su  lapicera  prellenada
+DensuPen®  se pierde o estropea.
+
+Paso 1. Comprobación de la insulina
+A. Compruebe la etiqueta de su lapicera prellenada DensuPen®  para asegurarse de que contiene la insulina
+correcta.
+B. Retire el capuchón de la lapicera.
+C.  Compruebe  el  aspecto  de  su  insulina.  Densulent®  es  una  insulina  transparente.  No  utilice  la  lapicera
+prellenada DensuPen® si la insulina es opaca, con color o contiene partículas.
+
+Paso 2. Colocación de la aguja
+Utilice  siempre  una  aguja  nueva  y  estéril  para  cada  inyección.  Esto  ayuda  a  prevenir  contaminaciones  y
+posibles  bloqueos  de  la  aguja.  Utilizar  exclusivamente  agujas  para  lapiceras  de  insulina  compatibles  con  el
+estándar ISO 11608-2.
+Antes  de  usar  la  aguja,  lea  cuidadosamente  las  “INSTRUCCIONES  DE  USO"  que  acompañan  las  agujas.
+Recuerde que las agujas que se muestran en las imágenes son solo ilustrativas.
+• Limpie el sello de goma del extremo de la lapicera con un trozo pequeño de algodón embebido en alcohol.
+
+B.  Retire  el  protector  exterior  de  la  aguja  y  guárdelo  para  retirar  la  aguja  utilizada  después  de  cada
+inyección. Retire el protector interior de la aguja y deséchelo.
+
+C. Sujete la lapicera con la aguja apuntando hacia arriba.
+D. Golpee ligeramente el reservorio de insulina para que las burbujas de aire suban hacia la aguja.
+E. Presione el botón de inyección completamente. Compruebe que la insulina aparece en el extremo de
+la aguja.
+
+PUEDE OCURRIR QUE TENGA QUE REALIZAR LA PRUEBA DE SEGURIDAD
+VARIAS VECES HASTA QUE APAREZCA INSULINA
+
+4
+
+2
+
+1
+
+•  Si  no  sale  insulina,  compruebe  si  todavía  hay  burbujas
+de  aire  y  repita  la  prueba  de  seguridad  dos  veces  más
+hasta eliminarlas.
+•  Si  aún  así  no  sale  insulina,  la  aguja  podría  estar
+bloqueada. Cambie de aguja e inténtelo de nuevo.
+•  Si  no  sale  insulina  después  de  cambiar  la  aguja,  su
+DensuPen®  podría  no  funcionar.  No  use  esta  lapicera
+DensuPen®.
+
+Paso 4. Selección de la dosis
+Puede seleccionar la dosis en pasos de 1 unidad, desde un mínimo de 1 unidad hasta un máximo de 60
+unidades.  Si  usted  necesita  una  dosis  superior  a  60  unidades,  deberá  administrarse  dos  o  más
+inyecciones.
+
+A. Compruebe que en la ventana de la dosis aparece "0" después de la prueba de seguridad.
+B. Seleccione su dosis (en el siguiente ejemplo, la dosis seleccionada es de 30 unidades). Si usted gira
+por demás el selector de la dosis, puede volver hacia atrás.
+
+A. Retire el sello protector de la nueva aguja.
+B.  Alinee  la  aguja  con  la  lapicera,  y  manténgala
+recta mientras la enrosca.
+
+28
+30
+32
+
+•  Si  la  aguja  no  se  mantiene  recta  mientras  se
+enrosca,  el  sello  de  goma  puede  romperse  y  dar
+lugar a pérdidas o a la rotura de la aguja.
+
+• No presione el botón de inyección mientras gira, ya que la insulina podría salir.
+• No podrá girar el selector de la dosis si el número de unidades de la dosis deseada supera a las que
+quedan  en  la  lapicera.  No  fuerce  el  selector  de  la  dosis.  En  este  caso  usted  puede  inyectarse  lo  que
+queda  en  la  lapicera  y  completar  su  dosis  con  un  nuevo  DensuPen®  para  administrarse  la  dosis
+completa.
+
+Paso 5. Inyectar la dosis
+A.  Utilice  el  método  de  inyección  indicado  por  su  médico.  Respete  estrictamente  los  sitios  de
+inyección indicados y el horario de administración de la dosis. Ante la menor duda consulte con su
+médico o farmacéutico. DENSULENT® se inyecta vía subcutánea (por debajo la piel). NO se inyecte
+DENSULENT® en una vena, porque esto cambiará su acción y puede provocar una hipoglucemia.
+Su  médico  le  mostrará  en  qué  áreas  del  cuerpo  debe  usted  inyectarse  DENSULENT®.  Con  cada
+inyección debe cambiar el lugar de la punción dentro del área concreta de la piel que esté usando.
+Asegúrese  de  que  el  producto  DensuPen®  se  encuentre  a  temperatura  ambiente  antes  de  la
+inyección.
+
+B. Limpie la piel en el sitio elegido para inyectar la dosis con un trozo pequeño de algodón embebido
+en alcohol. Deje secar la piel completamente antes de la inyección.
+C.  La  aplicación  se  realiza  habitualmente  en  el  abdomen,  en  la  zona  deltoidea  (hombros),  la  cara
+anterior  de  los  muslos  o  en  los  glúteos.  Inserte  la  aguja  completamente  por  debajo  de  la  piel,
+formando  un  pliegue  entre  el  índice  y  el  pulgar  de  una  mano,  reservando  la  mano  más  hábil  para
+manejar el botón de inyección de la lapicera.
+
+28
+30
+32
+
+0
+1
+2
+
+D. Libere la dosis presionando el botón
+de inyección por completo. El número
+que aparece en la ventana de la dosis
+volverá a "0" cuando se inyecte.
+
+E. Mantenga el botón de inyección
+presionado por completo. Lentamente
+cuente hasta 10 antes de retirar la aguja
+de la piel. Esto garantiza que se libera
+la dosis completa.
+
+El émbolo de la lapicera se mueve con cada dosis. El émbolo llegará al final del cartucho cuando se
+hayan utilizado el total de las 300 unidades contenidas en cada lapicera DensuPen®.
+
+Paso 6. Retirar y eliminar la aguja
+
+Después  de  cada  inyección  elimine  la  aguja  y  conserve  DensuPen®  sin  la  aguja,  esto  ayuda  a
+prevenir:
+• Contaminaciones y/o infecciones
+• Entrada de aire en el reservorio de insulina y pérdida de insulina que puede dar lugar a una dosis
+inexacta.
+A. Coloque el protector exterior de la aguja en la aguja, y utilícelo para desenroscar la  aguja de la
+lapicera. Para reducir el riesgo de accidentes con la aguja, no coloque nunca el protector interior.
+• Si su inyección la realiza otra persona, o si usted está administrando una inyección a otra persona,
+debe  tener  especial  precaución  cuando  elimine  y  deseche  la  aguja.  Siga  las  instrucciones  de
+seguridad  recomendadas  para  eliminar  y  desechar  la  aguja  (p.  ej.  siga  las  instrucciones  de  su
+médico), para reducir el riesgo de accidentes y la transmisión de enfermedades infecciosas.
+B. Deseche la aguja de forma segura, tal y como le enseñó su profesional sanitario.
+C. Coloque el capuchón de la lapicera siempre después de cada inyección y guarde la lapicera hasta
+su próxima Inyección.
+
+Instrucciones de Conservación
+Revise  el  prospecto  para  seguir  las  instrucciones  de  cómo  conservar  DensuPen®.  Si
+DensuPen®  está  conservado  en  frío  debe  sacarse  de  1  a  2  horas  antes  de  la  inyección  para
+que tome temperatura ambiente. La inyección de insulina fría es más dolorosa.
+Conservar entre 2oC y 8oC (en heladera) hasta su primer uso. Proteger de la luz. No congelar.
+No colocar cerca del congelador o de un envase congelado.
+Luego de retirar su DensuPen® de la heladera, para su uso o como repuesto puede utilizar el
+mismo  por  un  lapso  de  28  días.  Durante  este  lapso  puede  mantenerse  de  manera  segura  a
+temperatura  ambiente  de  hasta  25oC,  protegido  de  la  luz  y  el  calor  directo  y  no  debe
+almacenarse en la heladera. No lo utilice luego de transcurrido este tiempo. DensuPen® debe
+desecharse en forma segura.
+Ante cualquier duda o inconveniente con el producto Usted puede comunicarse con la Unidad
+de Farmacovigilancia Denver Farma al 0800-555-5036 o a través de la Página Web de Denver
+Farma: www.denverfarma.com.ar
+                                                                                                                                                   Rv 01/25
