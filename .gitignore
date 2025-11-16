@@ -25,10 +25,19 @@ build/
 .idea/
 
 # Datos/outputs derivados (no versionar)
+# Carpetas de datos / resultados generados
 chroma/
 out_txt/
+out_txt_base/
 out_chunks/
 pdfs_crudos/
+__pycache__/
+*.log
+
+
+
+
+
 back/
 preview.csv
 
