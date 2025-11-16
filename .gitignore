@@ -30,8 +30,10 @@ chroma/
 out_txt/
 out_txt_base/
 out_chunks/
-pdfs_crudos/
+
 __pycache__/
+chroma/
+evaluacion/chroma/
 *.log
 
 
